@@ -1,0 +1,1493 @@
+{
+ "formatVersion": 1,
+ "id": "2006-okt-emelt",
+ "year": 2006,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2006-10-27",
+ "code": "0522",
+ "sourceFiles": {
+  "paper": "2006. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06okt_fl.pdf",
+  "key": "2006. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06okt_ut.pdf",
+  "audio": "2006. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2006-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "In this passage you can read about a school which banned girls wearing skirts.",
+      "Your task is to match the half sentences that follow the text.",
+      "There is an extra letter you do not need.",
+      "Use each letter once only.",
+      "Write the letters in the boxes as shown in the example."
+     ],
+     "title": "School bans girls wearing skirts",
+     "body": [
+      "Concerns that playground cartwheels and energetic drama lessons are making it impossible for girls to \"maintain their modesty\" has prompted a school to ban them from wearing skirts.",
+      "From next year all pupils at the Broadstone Middle School in Poole, Dorset, will have to wear long trousers.",
+      "The school, which takes pupils aged nine to 13, argues that the rule means girls will be able to play a full role in breaktime activities and in lessons such as drama when they wear uniform rather than sports clothes.",
+      "Some parents have expressed anger. One mother, Zoe Rawlings, said: \"I think this rule is taking away the girls' dignity. They should be allowed to wear skirts. That is what girls do.\"",
+      "The change of policy was announced by the school in a newsletter. Headteacher Marilyn Warden said: \"In order to give girls the same opportunities as boys for a safe, active and healthy lifestyle, while maintaining their modesty, it has been considered by our school governors that trousers for all pupils is a practical and appropriate dress requirement.\" The rule is due to be phased in from September and will be compulsory by next year. A spokeswoman for the local education authority - who was wearing a skirt - said it was the school's prerogative to make such a rule. The rule would be relaxed in a heat wave and \"appropriate\" clothes could then be worn. It is not the first time that a school has banned skirts. Kesgrave High School in Ipswich did so last year to stop girls from wearing short skirts. \"We no longer have teachers spending their time trying to stop girls wearing skirts halfway up their back,\" headteacher George Thomas said yesterday. The rule at Kesgrave has had a second benefit, encouraging more girls to cycle to school."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to wear trousers."
+      },
+      {
+       "key": "B",
+       "text": "to do all the things that boys do."
+      },
+      {
+       "key": "C",
+       "text": "to wear skirts from next year."
+      },
+      {
+       "key": "D",
+       "text": "to wear skirts should the weather turn very hot."
+      },
+      {
+       "key": "E",
+       "text": "to allow girls to wear skirts."
+      },
+      {
+       "key": "F",
+       "text": "to warn pupils about their immodest behaviour."
+      },
+      {
+       "key": "G",
+       "text": "to become obligatory for all."
+      },
+      {
+       "key": "H",
+       "text": "to take part in some of their lessons."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Girls at Broadstone will not be allowed",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Skirts are making it difficult for girls",
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "stem": "One parent thinks that it’s simply not right for girls",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Chief officials at Broadstone feel that the new rule gives girls the chance",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "The rule will take about four months",
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "stem": "An exception to the new rule will be made to allow girls",
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "stem": "The rule at Kesgrave has done away with the problem of teachers having",
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read the following article on the psychology of voting.",
+      "Parts of some sentences are missing.",
+      "Your task is to fill them in from the list below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "Voters give thumbs-down to baby-faced politicians",
+     "body": [
+      "People who look “competent” are far more likely to win US elections than more “baby-faced” politicians, {{0}}.",
+      "Researchers at Princeton University in New Jersey, US, {{7}} in determining election success. Pairs of photographs of similar-looking candidates who had competed against each other in elections for the US Senate or House of Representatives were shown to more than 800 people.",
+      "{{8}} the participants were asked to judge them according to various criteria, including intelligence, likeability, age, competence, trustworthiness, charisma, attractiveness and familiarity. {{9}} the judgement for that pair was discounted.",
+      "The researchers found a strong correlation between those candidates judged “competent” and election wins. {{10}} participants correctly predicted the winners in about 70% of the congressional races.",
+      "Floating voters “It’s possible that undecided voters may cast their votes on the basis of who looks the most competent by their face, or even that party leaders are promoted up the ranks according to their ‘competent’ faces,” says Alexander Todorov, {{11}}.",
+      "“Although the study doesn’t tell us exactly what competence is, its traits include {{12}} and baby-faced people are perceived as lacking in all these qualities, regardless of sex and ethnicity. We often conclude that baby-faced adults are naive, submissive and weak,” says Leslie Zebrowitz from Brandeis University, who wrote a review on the findings of the research.",
+      "Her own studies suggest {{13}}. “Baby-faced people are more intelligent, better educated and more assertive” than their mature-looking counterparts, she says. This may be because they overcompensate for society’s expectations, she suggests.",
+      "“Selecting against baby-facedness could be a contributing factor in {{14}} since women are naturally more baby-faced than men. But the gap narrows when a mature- faced woman competes against a baby-faced man for a job requiring competence,” she told New Scientist."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "If a participant recognized any of the candidates’ faces,"
+      },
+      {
+       "key": "B",
+       "text": "who led the research"
+      },
+      {
+       "key": "C",
+       "text": "physical strength, social dominance and intellectual shrewdness,"
+      },
+      {
+       "key": "D",
+       "text": "When the candidate has come to a decision"
+      },
+      {
+       "key": "E",
+       "text": "that in reality the opposite is true"
+      },
+      {
+       "key": "F",
+       "text": "After seeing each face for less than a second,"
+      },
+      {
+       "key": "G",
+       "text": "how women see the problem"
+      },
+      {
+       "key": "H",
+       "text": "why there have been no female presidents,"
+      },
+      {
+       "key": "I",
+       "text": "according to a new study"
+      },
+      {
+       "key": "K",
+       "text": "Judging on competence alone,"
+      },
+      {
+       "key": "L",
+       "text": "carried out studies to determine the importance of candidates’ facial appearance"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "L"
+      },
+      {
+       "n": 8,
+       "answer": "F"
+      },
+      {
+       "n": 9,
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 9,
+     "instructions": [
+      "Read this article about tipping in the United States.",
+      "In the sentences that follow the text there are some gaps.",
+      "Your task is to fill the gaps with one word so that the sentences correspond to what the text says.",
+      "Contractions (e.g. don’t) count as one word.",
+      "Write the words on the lines."
+     ],
+     "title": "Tipping in the US",
+     "body": [
+      "Australians \"employed in a service-related industry\" are likely to think it is a bonus to get an American customer. Americans \"employed in a service-related industry\" are likely to groan inwardly as soon as they hear their customer has an Australian accent. All because tipping plays a lesser part in Australia's service environment. In Australia, you are more likely to leave something at the \"tip\" (garbage dump), than to leave a tip. \"Did he give you a good tip?\" is more likely to refer to information that aids in placing a bet on the horses or dogs than to payment for service.",
+      "The tipping issue can be a difficult one for both sides. Americans might be surprised to learn that Australians can feel self-conscious about leaving a tip. It took several years before I felt comfortable doing so, despite all the discussion about the low wages (sometimes less than $3 per hour). I just couldn't help feeling that leaving a couple of dollars on the table was the equivalent of saying \"you look poor enough to be grateful for this pittance I am prepared to throw your way\".",
+      "I was surprised to get here and see how precisely a tip is calculated. It is not a casual throwing down of change. For example you might have $1.80 in change in your pocket, but if the 15% tip comes out at $1.45, then that's all that many people will leave. I have even seen people request change, rather than leave a tip that is 50c more than the calculation. Here's a tip on calculation - I have found it easiest to calculate the 15% by first calculating 10% by moving the decimal point (for example $27 gives you $2.70), and then adding half of the 10% ($2.70/2 = $1.35. $2.70 + $1.35 = $4.05. In this case I would think a round $4 is quite adequate).",
+      "I had also thought the tips would go up and down to reflect how you feel about the quality of the service. However, most people stick to the 15% or 20%. I have heard mutterings about how a tip is not deserved, but I have yet to see anyone act upon this.",
+      "In Australia, I was used to handing money directly to someone. So it was unusual at first to see people leave the tip on the table and walk away from it. Nicking off with a tip is obviously such a strong taboo, you can even leave it on the table when the next round of customers is preparing to sit down.",
+      "There is also an informal rule of etiquette that if one party is paying for the meal for everyone, then the other party will pay the tip.",
+      "An Australian waiter will probably be happy to have an {{0}} customer.",
+      "{{15}} is not very common in Australian restaurants.",
+      "When you give somebody a good tip in Australia, you are actually giving them some {{16}}.",
+      "It took the writer of this article {{17}} to accept the custom of leaving a tip.",
+      "The writer of the article felt that giving a tip was the same as saying, “You are {{18}}.”",
+      "Tips are calculated very {{19}} in America.",
+      "Instead of giving the waiter a larger tip, Americans will ask for the {{20}}.",
+      "In America the amount of money you leave as a tip doesn’t depend on what you think of the {{21}}.",
+      "In Australia people {{22}} leave the tip on the table.",
+      "If your American friend invites you for dinner and pays for the meal, {{23}} should pay the tip."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "American"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "Tipping"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "information",
+        "advice",
+        "feedback"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "years"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "poor"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "precisely",
+        "exactly",
+        "carefully"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "change"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "service",
+        "waiter",
+        "waitress"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "don’t",
+        "rarely",
+        "seldom",
+        "never"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "you"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article on urban games, and then read the statements following it.",
+      "Your task is to decide if the statements correspond to the information in the article.",
+      "If a statement means exactly what the article says, mark it A.",
+      "If it means something different, mark it B.",
+      "If it says something that is not mentioned in the article, mark it C.",
+      "Look at the examples first."
+     ],
+     "title": "Gamers turn cities into a battleground",
+     "body": [
+      "Matt has been abandoned on Tower Bridge, London, with nothing except his clothes and a mobile phone. A woman dressed in black walks past, and Matt receives a text message to follow her. He doesn't know who she is, or where she is going. All he knows is that he must follow her if he is to find Uncle Roy.",
+      "Matt is playing Uncle Roy All Around You, where for one day he is the main character in an elaborate experimental fantasy game played out across the streets of London. He also happens to be a pioneer of a new social phenomenon, urban gaming. If you thought the computer games of the 21st century are only ever played by couch potatoes addicted to the new generation of Xbox, Nintendo or PlayStation consoles, you'd be mistaken. For urban gamers are harnessing the power of global positioning systems (GPS), high-resolution screens and cameras and the latest mobile phones to play games across our towns and cities, where they become spies, celebrities and even Pac-Man.",
+      "\"The limitations of physical space makes playing the game exciting,\" says Michele Chang, a technology ethnographer with Intel. “There is also a social element,” says Chang. Last year, as a social experiment to see how people behave with real-world games, she created Digital Street Game, which ran for six months in New York. The aim was to acquire territory by performing stunts dictated by the game at public locations around the city, such as playing hopscotch at a crossroads while holding a hot-dog. \"People are more reserved than you would imagine,\" says Chang. Some players took to performing their stunt on rooftops to avoid being seen, she says, while others relished being ostentatious - like players of Pac-Manhattan, in which New Yorkers dress up as the video game icon Pac-Man and flee other gamers dressed up as ghosts.",
+      "Soon you may even be able to play games using phones without GPS hardware. One being played by 30,000 people in Sweden, Russia, Ireland, Finland and now China is called BotFighters, a role-playing game in which players explore an arena - in this case a city. Stumble into another player's territory, and you have to fight them by exchanging virtual blows boosted by acquired superpowers. Each blow is sent via a text message. The game exploits the location-based services provided by cellphone companies, where the position of each phone is tracked by its network. As location-based services become ever more sophisticated and accurate, so will the games."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "stem": "Matt carries several electronic gadgets while trying to find Uncle Roy.",
+       "answer": "B"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "stem": "The woman in black is going to tell him how the game continues.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "A very large number of people in Britain have already tried games like Uncle Roy All Around You.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "People who like spending a lot of time in front of the TV are no longer the only ones who play computer games.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Players in urban games can even take the part of famous people.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Many urban games like Digital Street Game are produced by Intel.",
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "stem": "In Digital Street Game all players are happy to do their acts in the middle of the street.",
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "BotFighters will be available in Hungary from next year.",
+       "answer": "C"
+      },
+      {
+       "n": 30,
+       "stem": "Thanks to mobile technology urban games are now as highly developed as they will ever be.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2006-okt-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read some advice on first dates. Some words are missing from the text.",
+      "Choose the most appropriate option (A-D) for each gap (1-9) in the text."
+     ],
+     "title": "FIRST DATE CONVERSATION",
+     "body": [
+      "First dates are often seen as nerve-racking experiences. Plan in advance and {{0}} a few of our tips to banish the butterflies and sweaty palms.",
+      "You’ve done the hard work – you’ve approached {{1}} and not only talked to them but secured their telephone number and agreed to meet. So now comes the date itself. There’s {{2}} you can do to prepare.",
+      "The first thing to think about is {{3}} place to go. Lunch in a restaurant is a good option; it usually lasts between one and two hours and {{4}} no pressure to stick around if things don’t work out.",
+      "To take the pressure off the date you can prepare a loose plan of {{5}} you’d like to talk about. People are often panicked by awkward silences, but {{6}} preparation goes a long way. By reading a couple of newspapers to brush up on {{7}} affairs you will have plenty of material to keep your companion engaged. It {{8}} help to pick four or five interesting topics and jot them down. Nine times out of ten just {{9}} that they are there is enough – you’ll probably find that you don’t need them anyway.",
+      "So remember to prepare for yourself a conversational beginning, and now… put your dating skills to the test!"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "attend"
+        },
+        {
+         "key": "B",
+         "text": "apply"
+        },
+        {
+         "key": "C",
+         "text": "approve"
+        },
+        {
+         "key": "D",
+         "text": "admit"
+        }
+       ],
+       "example": true,
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "someone"
+        },
+        {
+         "key": "B",
+         "text": "anyone"
+        },
+        {
+         "key": "C",
+         "text": "everyone"
+        },
+        {
+         "key": "D",
+         "text": "no one"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "lot"
+        },
+        {
+         "key": "B",
+         "text": "lot of"
+        },
+        {
+         "key": "C",
+         "text": "a lot"
+        },
+        {
+         "key": "D",
+         "text": "lots of"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "the better"
+        },
+        {
+         "key": "B",
+         "text": "the good"
+        },
+        {
+         "key": "C",
+         "text": "the best"
+        },
+        {
+         "key": "D",
+         "text": "the nice"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "it is"
+        },
+        {
+         "key": "B",
+         "text": "there is"
+        },
+        {
+         "key": "C",
+         "text": "there has"
+        },
+        {
+         "key": "D",
+         "text": "it has"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "how"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "which"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "a little"
+        },
+        {
+         "key": "B",
+         "text": "little"
+        },
+        {
+         "key": "C",
+         "text": "a bit"
+        },
+        {
+         "key": "D",
+         "text": "a little bit"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "actual"
+        },
+        {
+         "key": "B",
+         "text": "currency"
+        },
+        {
+         "key": "C",
+         "text": "active"
+        },
+        {
+         "key": "D",
+         "text": "current"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "has"
+        },
+        {
+         "key": "B",
+         "text": "is about"
+        },
+        {
+         "key": "C",
+         "text": "might"
+        },
+        {
+         "key": "D",
+         "text": "needs"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "know"
+        },
+        {
+         "key": "B",
+         "text": "knowing"
+        },
+        {
+         "key": "C",
+         "text": "having known"
+        },
+        {
+         "key": "D",
+         "text": "known"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about family meals. Some words are missing from the text.",
+      "Your task is to write the missing words - one word for each gap - on the dotted lines (10-19) after the text."
+     ],
+     "title": "TABLE MANNERS",
+     "body": [
+      "After hooded tops, the disappearance of family meals is the latest thing turning youngsters into yobbos, {{0}} to British politicians. The government has promised to create a ‘culture of respect’, and getting more families {{10}} eat together is a good start.",
+      "Parenting experts warn of a growing number of TV dinner toddlers unable to {{11}} a knife and fork, and isolated teenagers who take their meals from the freezer to the microwave and up to the bedroom {{12}} a word to anyone. All because many families no {{13}} eat together.",
+      "According to a national survey, 20% of {{14}} asked sat down to eat together just once a week. The poll, by parenting organisation Raisingkids, found children often had meals alone in their bedrooms {{15}} watching TV or playing computer games. Of those {{16}} did eat together, TV was the preferred dinner guest.",
+      "Child psychologist Dr Pat Spungin says, the benefits of family meals are far-reaching and should {{17}} be underestimated. The organisation is running a ‘Back to table’ campaign {{18}} get families eating together again. “Family meals give confidence and teach children {{19}} to behave with others,” says Dr Spungin. “This isn’t only in the home but in the outside world as well.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "according"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "use",
+        "hold",
+        "handle",
+        "manage"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "without"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "longer"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "those",
+        "people",
+        "families"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "while",
+        "when"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "who",
+        "that"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "how"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an invitation for a story-telling competition. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-27).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use one word for each gap."
+     ],
+     "title": "ONCE UPON A TIME",
+     "body": [
+      "Ever wanted to tell an amazing story, but didn’t know where to start? Or have you already started writing {{0}} and original stories that you now want to set free? It doesn’t matter whether you’re at the top of your class at English or not – we’re {{20}} in stories with a spark, whether they’re funny or sad, set in a {{21}} universe or based on real-life events.",
+      "There are plenty of chances to shine, as we’ll choose ten winners {{22}} into three age groups: under-8s, 9-11, and those aged 12 and over. The winners will help {{23}} their words into exciting radio at BBC studios, and the stories will be {{24}} on a BBC 7 radio show.",
+      "Want a bit of {{25}}? BBC 7’s {{26}} show has a story every day which could help spark an idea. If you wish to enter, you can send your story {{27}} typed or printed, along with an entry form. Stories will be judged on the basis of their originality of plot and characterisation."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "imagine",
+       "example": true,
+       "accept": [
+        "imaginative"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "interest",
+       "accept": [
+        "interested"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "fantasy",
+       "accept": [
+        "fantasy",
+        "fantastic",
+        "fantastical"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "separate",
+       "accept": [
+        "separated"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "transform",
+       "accept": [
+        "transform"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "broadcast",
+       "accept": [
+        "broadcast",
+        "broadcasted"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "inspire",
+       "accept": [
+        "inspiration"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "interact",
+       "accept": [
+        "interactive"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "prefer",
+       "accept": [
+        "preferably"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read an article about being confident. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "GET CONFIDENT",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Everybody could neither do with a bit more confidence in one or",
+       "answer": "neither"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "more areas of their lives, whether it’s at work, in a relationship or in",
+       "answer": null
+      },
+      {
+       "n": 28,
+       "text": "meeting by new people. We can all feel under pressure to live up to",
+       "answer": "by"
+      },
+      {
+       "n": 29,
+       "text": "ideals imposed on to us by our families, work colleagues, the media",
+       "answer": "to"
+      },
+      {
+       "n": 30,
+       "text": "and even though ourselves. At times these goals are unrealistic. Such",
+       "answer": "though"
+      },
+      {
+       "n": 31,
+       "text": "pressure can cause anxiety and bruise confidence.",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "The Oxford English Dictionary defines ‘confidence’ as if being self-",
+       "answer": "if"
+      },
+      {
+       "n": 33,
+       "text": "assured and feeling or showing self-reliance. You have a whole range",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "of strengths, skills and abilities available to you which will enhance",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "your confidence with. But sometimes you may not be fully aware of",
+       "answer": "with"
+      },
+      {
+       "n": 36,
+       "text": "all them. By becoming more aware of these tools and the ways in",
+       "answer": "all"
+      },
+      {
+       "n": 37,
+       "text": "which you can apply from them in the face of life’s challenges, you",
+       "answer": "from"
+      },
+      {
+       "n": 38,
+       "text": "can build your confidence. If you feel more is required of you than",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "that you are able to give when faced with a challenge, you are likely",
+       "answer": "that"
+      },
+      {
+       "n": 40,
+       "text": "to feel less in the control, more anxious, more helpless and stressed.",
+       "answer": "the"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2006-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear an interview with Brian, who is talking about New England and a traditional meal called a clambake.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_06okt_fl.mp3",
+      "start": 0,
+      "end": 558.7,
+      "clip": "hang/e_angol_06okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "New England …",
+       "options": [
+        {
+         "key": "A",
+         "text": "consists of six states."
+        },
+        {
+         "key": "B",
+         "text": "is a state in the northern part of the US."
+        },
+        {
+         "key": "C",
+         "text": "is the sixth state in the United States."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Brian … a Yankee.",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn't like being called"
+        },
+        {
+         "key": "B",
+         "text": "thinks of himself as"
+        },
+        {
+         "key": "C",
+         "text": "would call everybody from the United States"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "A clambake is a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "barbecue on the beach."
+        },
+        {
+         "key": "B",
+         "text": "cookout in the garden."
+        },
+        {
+         "key": "C",
+         "text": "cookout by the sea."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "Brian names … animals from the sea.",
+       "options": [
+        {
+         "key": "A",
+         "text": "two"
+        },
+        {
+         "key": "B",
+         "text": "three"
+        },
+        {
+         "key": "C",
+         "text": "four"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "On top of the clambake, there is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "seaweed."
+        },
+        {
+         "key": "B",
+         "text": "food."
+        },
+        {
+         "key": "C",
+         "text": "sand."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "You steam the clambake for about … minutes.",
+       "options": [
+        {
+         "key": "A",
+         "text": "thirty"
+        },
+        {
+         "key": "B",
+         "text": "sixty"
+        },
+        {
+         "key": "C",
+         "text": "ninety"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "You don’t eat … of a lobster.",
+       "options": [
+        {
+         "key": "A",
+         "text": "all"
+        },
+        {
+         "key": "B",
+         "text": "the claws"
+        },
+        {
+         "key": "C",
+         "text": "the tail"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "When you start cooking a lobster, it is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "white."
+        },
+        {
+         "key": "B",
+         "text": "red."
+        },
+        {
+         "key": "C",
+         "text": "greenish black."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 11,
+     "instructions": [
+      "In this section, you are going to hear a museum guide describing a picture painted by Renoir.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_06okt_fl.mp3",
+      "start": 558.7,
+      "end": 1222.38,
+      "clip": "hang/e_angol_06okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "There are three pictures in the Renoir Room.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The portrait of The Daughters of Catulle Mendes was first exhibited in 1890.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Both Catulle Mendes and Augusta Holmes were musicians.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The unmarried couple lived a quiet and peaceful life.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "The eldest daughter's dress had been bought for this particular occasion.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Renior established his reputation by exhibiting a portrait with the impressionists.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Renoir had to change his style slightly to suit the needs of his sitter.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Renoir had made a lot of sketches of the hands and faces of the girls.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The parquet floor is painted in the impressionist style.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Renoir had great difficulty painting the eldest daughter's pigtail.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "The youngest girl's hair and the cloth covering the piano are painted in the same manner.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Renoir didn't know where the Mendes family lived.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you are going to hear some information about the Mennonites, a religious group who live in Belize.",
+      "Your task is to fill in the missing words and/or numbers.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_06okt_fl.mp3",
+      "start": 1222.38,
+      "end": 1796.05,
+      "clip": "hang/e_angol_06okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Belize enjoys a fabulous {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "ethnic"
+        ],
+        [
+         "diversity"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Mestizos represent {{gap}} % of Belize’s population.",
+       "accept": [
+        "44"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Creoles are the descendants of {{gap}} {{gap}} and African slaves.",
+       "gaps": [
+        [
+         "British"
+        ],
+        [
+         "pirates"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Mayas are the most {{gap}} {{gap}} of the land.",
+       "gaps": [
+        [
+         "ancient"
+        ],
+        [
+         "inhabitants"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Visitors in the jungle are surprised to meet men with {{gap}} hair and {{gap}} eyes.",
+       "gaps": [
+        [
+         "blonde",
+         "blond"
+        ],
+        [
+         "blue"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The history of the Mennonites dates back to the Netherlands of the {{gap}}.",
+       "accept": [
+        "16th century",
+        "sixteenth century",
+        "16 century",
+        "sixteen century"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Besides political ideologies, the Mennonites also reject any form of {{gap}}.",
+       "accept": [
+        "technology"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "When World War One broke out, the Mennonites lived in {{gap}}.",
+       "accept": [
+        "Canada"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "They left Mexico because they didn’t want to join its {{gap}} {{gap}} programme.",
+       "gaps": [
+        [
+         "social"
+        ],
+        [
+         "security"
+        ]
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "About {{gap}} Mennonites settled in Belize in 1958.",
+       "accept": [
+        "3,500",
+        "three thousand five hundred"
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "Besides being excellent farmers, Mennonites are good at making {{gap}}.",
+       "accept": [
+        "furniture"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "Azoknál az itemeknél, ahol a kért információ jellege és a feladatlap tipográfiája két szó beírását követeli meg, csak a teljes megoldás fogadható el. Így nem tekinthetjük helyesnek a harmadik feladatban azt, ha a kért (és a feladatlapon tipográfiailag is jelölt) social security helyett csak *security vagy csak *social, illetve ancient inhabitants helyett csak *inhabitants szerepel a megoldásban."
+     }
+    }
+   ]
+  }
+ ]
+}

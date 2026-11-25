@@ -1,0 +1,1429 @@
+{
+ "formatVersion": 1,
+ "id": "2018-maj-emelt",
+ "year": 2018,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2018-05-10",
+ "code": "1811",
+ "sourceFiles": {
+  "paper": "2018 - Emeltszintű májusi/e_angol_18maj_fl.pdf",
+  "key": "2018 - Emeltszintű májusi/e_angol_18maj_ut.pdf",
+  "audio": "2018 - Emeltszintű májusi/e_angol_18maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2018-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 6,
+     "instructions": [
+      "In this article about how a young man saved a child's life some of the paragraphs have been mixed up.",
+      "Your task is to put the paragraphs back in order.",
+      "There is an extra paragraph you will not need."
+     ],
+     "title": "CANADA GROOM RESCUES BOY FROM LAKE",
+     "body": [
+      "A wedding photo shoot took an unexpectedly dramatic turn as the bridegroom leapt into a pond to save a little boy from drowning.",
+      "{{0}}",
+      "{{1}}",
+      "{{2}}",
+      "{{3}}",
+      "{{4}}",
+      "{{5}}\n\"By the time I noticed something unusual was going on, Clay had already plunked him on the ground outside the pond. So I just kept on capturing the story of the day, including this,\" wedding photographer Darren Hatt said.",
+      "{{6}}\n\"He is such a quick-thinking man and so selfless — and this is why I fell in love with him in the first place.\"",
+      "(www.dailymail.co.uk )"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "After the rescue Mr Cook talked to our reporter about how it had all happened. He said: \"The kids had been following us in the park all evening. I was keeping an eye on them because they were very close to the water. I had a sixth sense that something might go wrong.\""
+      },
+      {
+       "key": "B",
+       "text": "Finally, here is how Mrs Cook recalls the events: \"At first I thought he had jumped into the water as a joke. But when I realised what had happened I thought: 'That's Clay to me. It's just something he would instinctively do.'\""
+      },
+      {
+       "key": "C",
+       "text": "Clay and Ross Cook were posing for their wedding photos on a park bridge in Cambridge, Ontario, when the groom noticed a boy in distress in the pond."
+      },
+      {
+       "key": "D",
+       "text": "In an awesome gesture of good will the groom — en route to his own wedding — helped out in western Canada wildfires."
+      },
+      {
+       "key": "E",
+       "text": "\"The little boy was soaking wet and a little shaken after his accident but otherwise he was all right. Then the older girl came over, took him by the hand and led him away.\""
+      },
+      {
+       "key": "F",
+       "text": "\"The two older kids were on the edge of the pond looking down and pointing at the boy crying, 'He can't swim'. There was no time to think, really,\" Mr Cook said. \"I saw his face was under water and he was really fighting. I jumped down and was able to grab him and pull him out.\""
+      },
+      {
+       "key": "G",
+       "text": "\"Then while Ross was getting her solo shots I turned to look at the kids and saw that only two were standing on the rock ledge of the pond. Where was the third one? I ran over to see.\""
+      },
+      {
+       "key": "H",
+       "text": "Immediately, and with no thought for his wedding suit, Mr Cook jumped into the water and pulled the young boy onto the shore."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about lunch in Italy some parts of sentences have been left out.",
+      "Your task is to fill the gaps from the list below.",
+      "There are three more letters than you need."
+     ],
+     "title": "THE PERFECT ENDING",
+     "body": [
+      "Lunchtime in Italy {{0}} before rushing back to work. It's an occasion, the gastronomic and social high point of the day. On a Sunday, if there's family or friends, or both, around the table, it can easily {{7}} or the early evening, for that matter. An Italian proverb says: At the table you don't grow older. The longer you spend there, in other words, the better it is for you.",
+      "Of course, not every Italian meal is an all-day feast. But even when friends get together for a casual lunch, the meal {{8}}. The occasion will begin with an appetizer, perhaps olives and marinated vegetables, slices of salami or slices of bread with a tasty topping that could {{9}} and olive oil. Next comes the first course: small portions of pasta, risotto (rice with vegetables or meat) or soup. After that there's a second course, which we would {{10}}, usually served with a vegetable side dish.",
+      "At the end, there may be a cheese course, and then there will be the dolce, something sweet such as a cake or tart, or a creamy or fruity dessert made with seasonal fruits. Finally, when everyone is {{11}}, a plateful of biscuits might come out. And then they will serve coffee...",
+      "Just as it is hard to imagine an Italian meal being served without wine, it's hard to imagine one ending without coffee. Indeed the precious national drink really does {{12}}, and it will always be espresso. After lunch or dinner, the coffee will never – but never – contain milk. This {{13}}, even to many non-Italians. When you've just finished a satisfying meal, do you really want to add to it with a milky drink? Espresso's tiny volume and extraordinary intensity of flavour {{14}}. Whatever's on your menu, however simple or elaborate, remember: if you don't {{15}}, you're not doing it the Italian way.",
+      "(Guardian Weekend)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "follows roughly the same pattern"
+      },
+      {
+       "key": "B",
+       "text": "including cakes and ice cream"
+      },
+      {
+       "key": "C",
+       "text": "isn't just a short break"
+      },
+      {
+       "key": "D",
+       "text": "complete with coffee cream"
+      },
+      {
+       "key": "E",
+       "text": "feeling very well-fed"
+      },
+      {
+       "key": "F",
+       "text": "makes a lot of sense"
+      },
+      {
+       "key": "G",
+       "text": "signal the end of a meal"
+      },
+      {
+       "key": "H",
+       "text": "guarantee ingredients"
+      },
+      {
+       "key": "I",
+       "text": "regard as the main course"
+      },
+      {
+       "key": "K",
+       "text": "finish the meal with coffee"
+      },
+      {
+       "key": "L",
+       "text": "make for a perfect experience"
+      },
+      {
+       "key": "M",
+       "text": "last late into the afternoon"
+      },
+      {
+       "key": "N",
+       "text": "be as simple as garlic, tomatoes"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "M"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "N"
+      },
+      {
+       "n": 10,
+       "answer": "I"
+      },
+      {
+       "n": 11,
+       "answer": "E"
+      },
+      {
+       "n": 12,
+       "answer": "G"
+      },
+      {
+       "n": 13,
+       "answer": "F"
+      },
+      {
+       "n": 14,
+       "answer": "L"
+      },
+      {
+       "n": 15,
+       "answer": "K"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 8,
+     "instructions": [
+      "Read this article about a little known 20th century event and then read the gapped sentences (16-23) following it.",
+      "Your task is to fill the gaps with one or two words only according to the information in the text."
+     ],
+     "title": "THE MAN WHO MAY HAVE SAVED THE WORLD",
+     "body": [
+      "On 26 September 1983 the world was saved from potential nuclear disaster.",
+      "In the early hours of the morning, the Soviet Union's early-warning systems signalled an incoming missile strike from the United States. Computer readouts suggested several missiles had been launched. The protocol for the Soviet military would have been to strike back with a nuclear attack of its own.",
+      "But duty officer Stanislav Petrov ̶ whose job it was to register enemy missile launches ̶ decided it was a false alert and did not report it to his commanders. His decision may have saved the world from a nuclear war.",
+      "Mr Petrov, who is retired now and lives in a small town near Moscow, was part of a well-trained team which served at one of the Soviet Union's early warning bases, not far from Moscow. His job was to register any missile strikes and to report them to the Soviet military and political leadership.",
+      "But when the moment came, he almost froze in place. \"The siren howled, but I just sat there for a few seconds, staring at the big, red screen with the word 'missile launch' on it,\" he told our reporter. \"A minute later the siren went off again. The second missile was launched. Then the third, and the fourth, and the fifth. Computers changed their alerts from 'launch' to 'missile strike',\" he says.",
+      "Although the alert seemed absolutely reliable, Mr Petrov had some doubts. Alongside IT specialists, like him, the Soviet Union had other experts, also watching America's missile forces. A group of satellite radar operators told him they had registered no missiles. But those people were only a support service. The responsibility was his.",
+      "Instead of raising the alarm Mr Petrov called headquarters and reported a system error. If he was wrong, the first nuclear explosions would have happened minutes later. But nothing happened.",
+      "Mr Petrov says he was the only officer in his team who had received a civilian education. \"My colleagues were all professional soldiers, they were taught to give and obey orders,\" he told us. So, he believes, if somebody else had been on shift, the alarm would have been raised.",
+      "He kept silent for 10 years. But, after the collapse of the Soviet Union, the story did get into the press. Mr Petrov received several international awards. But he does not think of himself as a hero. \"That was my job,\" he says.",
+      "( www.bbc.com)",
+      "A(n) {{0}} almost broke out in 1983.",
+      "The {{16}} would have answered an American missile strike with a nuclear attack.",
+      "As Stanislav Petrov was on {{17}} when the computer signals came, it was his responsibility to decide what to do.",
+      "When he heard the siren and saw the big red letters on the screen, he was {{18}} to do anything.",
+      "Altogether {{19}} seemed to have been aimed at the country.",
+      "Petrov's judgement of the situation was supported by information he was given by other {{20}}.",
+      "He took a risk not reporting the alert but the next few minutes proved that Petrov {{21}}.",
+      "It was his {{22}} that he had received that enabled him to ignore official procedures.",
+      "The story was eventually {{23}} in the press only ten years later."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "nuclear war"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "Soviet Union",
+        "Soviets",
+        "Russians",
+        "Russian military",
+        "Russian army",
+        "Russian forces",
+        "Soviet military",
+        "Soviet army",
+        "Soviet forces"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "duty",
+        "shift"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "very unwilling",
+        "reluctant",
+        "very reluctant",
+        "unwilling",
+        "too doubtful",
+        "uncertain",
+        "unsure",
+        "hesitating",
+        "hesitant",
+        "not willing",
+        "too uncertain",
+        "too unsure",
+        "too hesitating",
+        "too hesitant",
+        "not prepared",
+        "extremely unwilling",
+        "extremely reluctant",
+        "really unwilling",
+        "really reluctant",
+        "quite unwilling",
+        "quite reluctant",
+        "rather unwilling",
+        "rather reluctant",
+        "so unwilling",
+        "so reluctant",
+        "highly unwilling",
+        "highly reluctant",
+        "totally unwilling",
+        "totally reluctant"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "five missiles",
+        "five rockets",
+        "5 missiles",
+        "5 rockets"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "experts",
+        "specialists",
+        "technicians"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "was right",
+        "was correct",
+        "was justified",
+        "wasn’t wrong",
+        "did right",
+        "wasn’t mistaken"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "civilian education",
+        "civilian training",
+        "training",
+        "education"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "published",
+        "revealed",
+        "released",
+        "reported",
+        "printed",
+        "told",
+        "made public",
+        "covered",
+        "featured"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 6,
+     "instructions": [
+      "Read through this article about how to fight jet lag and then read the statements (24-29) following it.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "THREE WAYS TO TRAIN YOUR BRAIN TO COPE WITH HEAVY TRAVEL",
+     "body": [
+      "Extensive, long-distance air travel can seriously weaken your ability to function. In addition to the immediate impacts of jet lag: difficulties sleeping or staying awake, there are also worrying longer-term consequences that depend on the frequency of your travel, like greater sensibility to infection.",
+      "The good news is that experts say simply being aware of the impact and making small changes to your travel habits can help boost mental energy.",
+      "Get in the zone With jet lag, when there are sudden, large shifts in external time, our internal timing system uses environmental cues, like the presence or absence of daylight.",
+      "In order to stay one step ahead, anticipate the change to your natural rhythms by adjusting your body clock in advance. Reset your watch at the beginning of your journey to the time zone of your destination. Depending on whether you’re flying east or west, you’ll want to try and expose yourself to additional light in the morning or evening a few days before flying.",
+      "Skip the crisps Many travellers end up eating unhealthy meals when they are on the move, but it’s essential to eat properly. Choosing the right meals at the right time of day can help readjust your natural rhythms quicker. To reset your body’s rhythm, try avoiding food on the flight until breakfast in the new time zone.",
+      "Get moving If you feel sleepy during daylight hours when you first arrive somewhere new, try and do some aerobics. Even if you do not feel tired in the evening, try to sleep anyway. And avoid drinking a coffee when you hit that wall in the afternoon. Caffeine will only make the process much harder when it’s time for bed. Smartphone use before bed is the ultimate no-no. The blue light emitted from it can trick your brain into thinking it’s daytime and therefore block the production of the hormone melatonin, which would normally help you sleep.",
+      "(bbc.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Long flights can seriously affect your well-being.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The long-term effects of jet lag primarily depend on how often you take long-distance flights.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Our body uses signals from the environment to resynchronise to the new time zone.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "People who reset their watches before travelling have been shown to be less affected by jet lag.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "On a long flight, it’s best to eat small quantities before the first meal at your destination.",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "Exercising or having coffee will have similar effects if you feel sleepy during the day.",
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "Using your smartphone on a long flight has well-known health risks.",
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": null,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2018-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about what silence might mean.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE POWER OF SILENCE",
+     "body": [
+      "Studies show that typically we leave just a fraction of a second between taking turns to talk. But while this pattern may be {{0}}, our perceptions of silence differ {{1}} across cultures.",
+      "Native English speakers tend to be most uncomfortable with long gaps in a discussion. And yet, knowing when to be tight-lipped can give you the upper hand in everything from sales deals and pay {{2}} to presentations and staff development. Silence really is golden.",
+      "Research conducted at the University of Groningen found that when a silence in conversation stretched to four seconds, people started to feel {{3}}. A separate study of business meetings found that {{4}} people were happy with silences of 8.2 seconds – {{5}} twice as long as in Americans’ meetings. The Finns – who respect {{6}}, reserve and the art of listening – are also happy to sit in studied thoughtfulness.",
+      "The fact that English speakers generally dread silence is partly why it can be such a {{7}} tool. Learning how to face silence is an {{8}} skill, says psychologist Matthew MacLachlan. “Chinese negotiators are very, very aware that Americans like to fill silences and they are trained to stay silent and {{9}} because that will make the Americans uncomfortable and possibly make concessions without the Chinese having to do anything,” he says.",
+      "So, what’s the best response? “Grit your teeth and wait it out. Don’t offer a compromise or concession just because they are not speaking.”",
+      "(http://www.bbc.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "universe",
+       "example": true,
+       "accept": [
+        "universal"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "dramatic",
+       "accept": [
+        "dramatically"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "negotiate",
+       "accept": [
+        "negotiations",
+        "negotiation",
+        "negotiating"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "confuse",
+       "accept": [
+        "confused",
+        "confusion"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "Japan",
+       "accept": [
+        "Japanese"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "near",
+       "accept": [
+        "nearly"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "private",
+       "accept": [
+        "privacy"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "power",
+       "accept": [
+        "powerful"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "essence",
+       "accept": [
+        "essential"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "emotion",
+       "accept": [
+        "unemotional",
+        "emotionless",
+        "non-emotional"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the history of a commonly used phrase. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-18) in the text."
+     ],
+     "title": "ROGER THAT",
+     "body": [
+      "The term \"Roger that\" is a widespread term for confirmation, {{0}} between truckers on their CB radios, kids playing back and forth with walkie-talkies, or even face to face. It's easy to {{10}} the phrase and understand what it means without ever really knowing {{11}}. So here's a brief history for you.",
+      "\"Roger\" comes from the phonetic alphabet {{12}} by military and aviation personnel during WWII, when the use of two-way radios became the main form of communication, and operators needed crystal clear ways to spell things out with {{13}} for misinterpretation.",
+      "But the use of \"Roger\" as a confirmation has roots {{14}} go back even further. In the Morse code days, when sending long messages {{15}} exhausting, a useful shorthand was to respond with single, meaningful letters. Responding to a message with the letter \"R,\" for instance, simply let the sender know that their message {{16}} received. When two-way radio {{17}}, the shorthand continued, but with the word \"Roger\" instead of \"R\" itself.",
+      "{{18}} Roger has since been replaced with Romeo (and was \"Robert\" before it was ever Roger), the widespread use of two-way radio during WWII wildly popularized the saying we still use so casually today.",
+      "(http://www.popularmechanics.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "both"
+        },
+        {
+         "key": "B",
+         "text": "in"
+        },
+        {
+         "key": "C",
+         "text": "whether"
+        },
+        {
+         "key": "D",
+         "text": "useful"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "adapt"
+        },
+        {
+         "key": "B",
+         "text": "admit"
+        },
+        {
+         "key": "C",
+         "text": "add"
+        },
+        {
+         "key": "D",
+         "text": "adopt"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "where it comes from"
+        },
+        {
+         "key": "B",
+         "text": "what is its origin"
+        },
+        {
+         "key": "C",
+         "text": "where did we borrow it"
+        },
+        {
+         "key": "D",
+         "text": "what does it say"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "been used"
+        },
+        {
+         "key": "B",
+         "text": "that used"
+        },
+        {
+         "key": "C",
+         "text": "used"
+        },
+        {
+         "key": "D",
+         "text": "to be used"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "failure"
+        },
+        {
+         "key": "B",
+         "text": "no way"
+        },
+        {
+         "key": "C",
+         "text": "lack"
+        },
+        {
+         "key": "D",
+         "text": "no room"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "might"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "all"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "must be"
+        },
+        {
+         "key": "B",
+         "text": "could be"
+        },
+        {
+         "key": "C",
+         "text": "were"
+        },
+        {
+         "key": "D",
+         "text": "ought to be"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "had been"
+        },
+        {
+         "key": "B",
+         "text": "is to be"
+        },
+        {
+         "key": "C",
+         "text": "would be"
+        },
+        {
+         "key": "D",
+         "text": "has been"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "came back"
+        },
+        {
+         "key": "B",
+         "text": "came up"
+        },
+        {
+         "key": "C",
+         "text": "came along"
+        },
+        {
+         "key": "D",
+         "text": "came to"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "Despite"
+        },
+        {
+         "key": "B",
+         "text": "However,"
+        },
+        {
+         "key": "C",
+         "text": "Since"
+        },
+        {
+         "key": "D",
+         "text": "Even though"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a special marriage proposal. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE SWEETEST TATTOO",
+     "body": [
+      "While most people’s tattoos have meanings behind them, one guy now has an inking more moving {{0}} most – his proposal. When Vinny Smith, a tattoo artist from Denver, decided he {{19}} going to propose to his girlfriend, Brooke Wodark, he just knew he had to {{20}} his profession involved somehow.",
+      "Vinny had first met Brooke {{21}} tattooing her in his studio – and so he decided to take the proposal back to the day they met, but this time, with Brooke in the tattooist’s seat.",
+      "Not wanting to give anything away, Vinny asked Brooke to come along to the studio to tattoo his ankle with a delicate heart. As she {{22}} never tattooed anyone before, Brooke was incredibly nervous and was shaking at the thought of putting the needle to her partner’s leg. Her hands became even more unstable when Vinny, {{23}} she had been dating for a year and a half, pulled up his trousers to reveal a new tattoo that asked {{24}} her hand in marriage.",
+      "Vinny had also inked two boxes, one for ‘yes’ and one for ‘no’, underneath the drawing. Brooke was {{25}} give her answer to his proposal with an ‘X’ inking.",
+      "Of course, Brooke inked an X into the ‘yes’ box – though she was shaking {{26}} much that the X later had to be re-touched to make the tattoo cleaner.",
+      "(http://metro.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "get",
+        "have",
+        "see"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "while",
+        "whilst",
+        "when",
+        "before",
+        "through"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "whom",
+        "who"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "so",
+        "that"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an innovative business idea. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "GEESE POLICE",
+     "intro": "Coming up with winning business concepts is not easy. However,",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "there is one of simple recipe: combine a need with something you",
+       "answer": "of"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "love. David Marcks discovered a great business opportunity when he",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "used his dog to solve a problem that he constantly faced with when",
+       "answer": "with"
+      },
+      {
+       "n": 28,
+       "text": "working at a golf course – the so increasing number of geese. While",
+       "answer": "so"
+      },
+      {
+       "n": 29,
+       "text": "they add a “natural look” to golf courses, no one else would want to",
+       "answer": "else"
+      },
+      {
+       "n": 30,
+       "text": "play on a golf course where the grass couldn’t be seen under the cover",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "of goose droppings. David had not tried sprays, fences and flags to",
+       "answer": "not"
+      },
+      {
+       "n": 32,
+       "text": "chase geese away but nothing worked. One day, however, he has",
+       "answer": "has"
+      },
+      {
+       "n": 33,
+       "text": "discovered that his Border Collie had a natural talent for driving geese",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "away. David started his company Geese Police in 1986. They use to",
+       "answer": "to"
+      },
+      {
+       "n": 35,
+       "text": "trained Border Collies as to drive away the geese from town parks and",
+       "answer": "as"
+      }
+     ],
+     "outro": "golf courses without harming them. Today, the company earns more than $3 million a year. (https://www.powerhomebiz.com)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 21,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2018-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a woman talk about her favourite singer.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "After that, we will play the recording for the second time, but now in shorter sections and with breaks between the sections in order to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_18maj_fl.mp3",
+      "start": 0,
+      "end": 627.49,
+      "clip": "hang/e_angol_18maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The speaker was sure that Seal had had a happy childhood.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Seal didn’t like his foster parents very much.",
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "Seal’s biological father must have beaten him quite often.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "From a very early age, Seal’s parents encouraged him to sing.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "It was one of Seal’s teachers who got him to sing on stage.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "When he was studying architecture, Seal lived a comfortable life.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Seal’s girlfriend was convinced that he should be a musician.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "Not only did he sing in the demos, but he also played the bass guitar.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "Seal stopped writing music for a while to study the works of some musicians.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear a radio interview with Howard Henley, who has 43 presidential statues on his property in Virginia, US.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "After that, we will play the recording for the second time, but now in shorter sections and with breaks between the sections in order to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_18maj_fl.mp3",
+      "start": 627.49,
+      "end": 1300.58,
+      "clip": "hang/e_angol_18maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The reporter …",
+       "options": [
+        {
+         "key": "A",
+         "text": "heard about the crumbling presidential heads on television."
+        },
+        {
+         "key": "B",
+         "text": "found out that Howard Henley is the owner the land where the busts are."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The giant busts …",
+       "options": [
+        {
+         "key": "A",
+         "text": "have damaged noses."
+        },
+        {
+         "key": "B",
+         "text": "appeared in a horror movie."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Virginia’s Presidents Park …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was the idea of a landowner and a sculptor."
+        },
+        {
+         "key": "B",
+         "text": "served as a model for Mount Rushmore National Memorial."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Virginia’s Presidents Park went bankrupt because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "there weren’t enough visitors."
+        },
+        {
+         "key": "B",
+         "text": "it was far away from other tourist attractions."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Howard …",
+       "options": [
+        {
+         "key": "A",
+         "text": "first heard about Presidents Park when it went out of business."
+        },
+        {
+         "key": "B",
+         "text": "suggested that the busts should be moved to his own land."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The busts had to be lifted from their bases and as a result their …",
+       "options": [
+        {
+         "key": "A",
+         "text": "necks got damaged."
+        },
+        {
+         "key": "B",
+         "text": "heads got damaged."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Howard and his team …",
+       "options": [
+        {
+         "key": "A",
+         "text": "followed their original transportation plans very carefully."
+        },
+        {
+         "key": "B",
+         "text": "totally lacked experience in transporting statues."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Howard …",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn’t have a tourist attraction license."
+        },
+        {
+         "key": "B",
+         "text": "never refuses a tourist permission to come and see the busts on his land."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Howard wants to…",
+       "options": [
+        {
+         "key": "A",
+         "text": "find a new site for the original Presidents Park model."
+        },
+        {
+         "key": "B",
+         "text": "add, among other things, a Secret Service Museum to the original model."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear some information about an efficient method called ‘Dutch reach’.",
+      "Your task will be to complete the sentences with two words or numbers in each sentence. Please use the exact words that you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "After that, we will play the recording for the second time, but now in shorter sections and with breaks between the sections in order to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_18maj_fl.mp3",
+      "start": 1300.58,
+      "end": 1795.82,
+      "clip": "hang/e_angol_18maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "‘Dutch treat’ means that in a restaurant each person in a group pays for their {{gap}} of the {{gap}}.",
+       "gaps": [
+        [
+         "share"
+        ],
+        [
+         "expenses"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "‘Dutch courage’ is the {{gap}} {{gap}} that people might get from drinking alcohol.",
+       "gaps": [
+        [
+         "false"
+        ],
+        [
+         "confidence"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "‘Dutch reach’ could save lives if it was {{gap}} {{gap}} by motorists in the UK.",
+       "gaps": [
+        [
+         "widely"
+        ],
+        [
+         "adopted"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "‘Dutch reach’ means that you open the car door with the hand {{gap}} from the door {{gap}}.",
+       "gaps": [
+        [
+         "furthest"
+        ],
+        [
+         "handle"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "‘Dutch reach’ is a(n) {{gap}} {{gap}} of the driving test in the Netherlands.",
+       "gaps": [
+        [
+         "required"
+        ],
+        [
+         "section"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Thanks to a British politician, ‘dooring’ received a lot of {{gap}} {{gap}} in 2016.",
+       "gaps": [
+        [
+         "media"
+        ],
+        [
+         "attention"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Across the UK, ‘dooring’ caused {{gap}} {{gap}} in 2015.",
+       "gaps": [
+        [
+         "474"
+        ],
+        [
+         "accidents"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Cycling UK, which supports cyclists, is a {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "charitable"
+        ],
+        [
+         "organization",
+         "organisation"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Cycling UK believes that including ‘Dutch reach’ in driving tests, which is a relatively {{gap}} {{gap}}, will save a lot of lives.",
+       "gaps": [
+        [
+         "simple"
+        ],
+        [
+         "measure"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó megoldások fogadhatók el, és csak akkor, ha mindkettő helyes.)"
+     }
+    }
+   ]
+  }
+ ]
+}

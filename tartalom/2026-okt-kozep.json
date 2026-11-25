@@ -1,0 +1,1174 @@
+{
+ "formatVersion": 1,
+ "id": "2026-okt-kozep",
+ "year": 2026,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2026-10-15",
+ "code": "K2411",
+ "sourceFiles": {
+  "paper": "2026 - Középszintű október/k_angol_26okt_fl.pdf",
+  "key": "2026 - Középszintű október/k_angol_26okt_ut.pdf",
+  "audio": "2026 - Középszintű október/k_angol_26okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 8,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 13,
+    "11": 14,
+    "12": 15,
+    "13": 17,
+    "14": 18,
+    "15": 19,
+    "16": 20,
+    "17": 22,
+    "18": 23,
+    "19": 24,
+    "20": 25,
+    "21": 27,
+    "22": 28,
+    "23": 29,
+    "24": 30,
+    "25": 32,
+    "26": 33
+   },
+   "tasks": [
+    {
+     "id": "2026-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "Read the following questions and answers from the website of a university. The questions have been removed.",
+      "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1- 8).",
+      "There are three extra questions that you do not need."
+     ],
+     "title": "LIVING ON CAMPUS FAQS",
+     "body": [
+      "Interested in living on campus? Read the list of questions that new students frequently ask.",
+      "{{0}}\nYou can select your preference on the housing application. However, as it is only a preference, not all students will receive what they have put down on the application.",
+      "{{1}}\nThey will be emailed to you in early July. The email will contain your building, room, and move-in dates.",
+      "{{2}}\nI'm afraid not. As you are the contract owner, the keys need to be signed for and collected by you.",
+      "{{3}}\nYes, if accommodation is available. However, this cannot be guaranteed, and you may be required to find alternative accommodation before the scheduled move-in date.",
+      "{{4}}\nBathroom and kitchen essentials, including towels and dishes. The housing assignment email will include a list of recommended items as well as items that are not allowed.",
+      "{{5}}\nYour own bedroom, toilet and shower. The kitchen and communal areas will receive a weekly service by campus staff.",
+      "{{6}}\nNo, your contract includes term time and holiday periods, so you do not have to remove your belongings until mid-July.",
+      "{{7}}\nYes, you can have guests for a maximum of three nights per month free of charge.",
+      "{{8}}\nThere are trained student leaders, called Resident Assistants, on campus, who are there for you when you need help academically, socially and personally."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What kind of support will I have while I live on campus?"
+      },
+      {
+       "key": "B",
+       "text": "What should I bring to my room?"
+      },
+      {
+       "key": "C",
+       "text": "Can I choose which building or type of room I’d like to live in?"
+      },
+      {
+       "key": "D",
+       "text": "What am I expected to clean?"
+      },
+      {
+       "key": "E",
+       "text": "Do I need to take everything out of my room at Christmas and Easter?"
+      },
+      {
+       "key": "F",
+       "text": "Can my friends stay overnight?"
+      },
+      {
+       "key": "G",
+       "text": "What is included in the accommodation fees?"
+      },
+      {
+       "key": "H",
+       "text": "Can a friend or parent check in for me?"
+      },
+      {
+       "key": "I",
+       "text": "What happens if I lose my room key?"
+      },
+      {
+       "key": "K",
+       "text": "When will I find out the details of my housing?"
+      },
+      {
+       "key": "L",
+       "text": "Can I arrive before the start of my contract?"
+      },
+      {
+       "key": "M",
+       "text": "Do the residence halls have student cooking facilities?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "K"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "L"
+      },
+      {
+       "n": 4,
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "answer": "F"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      }
+     ],
+     "source": "https://www.gmercyu.edu/student-life/living-campus/faqs"
+    },
+    {
+     "id": "2026-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 5,
+     "instructions": [
+      "Read this article about a new regulation in Italy.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (9-13) from the list (A-H) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "SELFIE BAN FOR TOURISTS IN PORTOFINO",
+     "body": [
+      "If you're someone who likes to spend time {{0}} when you go on holiday, then Portofino might not be the best place for you to visit in the summer.",
+      "The popular coastal fishing town on the Italian Riviera, which is known for its colourful houses overlooking the sea, has recently introduced no-waiting zones to stop tourists from 'lingering' in popular beauty spots taking pictures. You could now be fined up to 275 euros for {{9}}, which include the most photogenic hotspots. The move has been taken because these areas have become extremely busy, with many people gathering at peak times during the holiday season.",
+      "The Mayor of Portofino, Matteo Viacava, blamed tourists for {{10}} and traffic jams when stopping to take pictures or posing for selfies.",
+      "The measures first came into effect over the Easter weekend, when Portofino was packed with tourists, and the rules will now stay in place until October. As the town is {{11}} over the summer months, the rules will be in place from morning to 6pm every day.",
+      "Portofino isn't the only place that's put a ban on selfies – there are also rules in certain locations in the United States, France and even the UK. Both New York and California banned people by law from {{12}} and areas where there could be dangerous wild animals in the background, such as tigers and bears. Selfies are also banned in certain areas of the Tower of London, {{13}}, for security reasons."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "expecting to see big numbers of tourists"
+      },
+      {
+       "key": "B",
+       "text": "hanging around too long in the zones"
+      },
+      {
+       "key": "C",
+       "text": "taking lots of snaps and selfies"
+      },
+      {
+       "key": "D",
+       "text": "walking around shirtless once they left the beach"
+      },
+      {
+       "key": "E",
+       "text": "being a social media background"
+      },
+      {
+       "key": "F",
+       "text": "causing 'anarchic chaos'"
+      },
+      {
+       "key": "G",
+       "text": "including where the Crown Jewels are kept"
+      },
+      {
+       "key": "H",
+       "text": "taking selfies in zoos"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "H"
+      },
+      {
+       "n": 13,
+       "answer": "G"
+      }
+     ],
+     "source": "https://www.bbc.co.uk/newsround/65312770?utm_campaign=later-linkinbio-bbcnews&utm_content=later-"
+    },
+    {
+     "id": "2026-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about an adventurous young cyclist and then read the statements (14-21) following it.",
+      "Mark a statement A if it is true according to the article, mark it B if it is false, and mark it C if there isn’t enough information in the text to decide if it is true or not."
+     ],
+     "title": "'A BIG CRAZY ADVENTURE'",
+     "body": [
+      "Over the course of nearly one and a half years, teenage cyclist Liam Garner rode through 14 countries, covering more than 32,000 km in the journey of a lifetime from Alaska to Argentina.",
+      "In 2021, Liam had recently graduated from high school and was looking for a “crazy adventure”. He had previously ridden from Los Angeles to San Francisco, and realized that he could pedal across the continent without much difficulty.",
+      "After reading a book by an adventurer who had biked from Oregon to Argentina, Liam decided that he would cycle from the point farthest north in the United States to the most southern point in South America.",
+      "Liam spent a month preparing for the trip and getting the equipment. He set off on his mountain bike in August, with just a tent, a sleeping bag, a phone, some portable batteries, a first-aid kit, and extra parts for his bike. Other than some food and water, he didn’t have much else. Liam admits that at first his parents were terrified of him taking such a long bike trip, but as he carried on, they became his strongest supporters.",
+      "Liam had a riding companion named Logan for eight months of the trip. The two spent over four months biking across Mexico, which was one of Liam’s favourite parts of the trip even though they were robbed in the south of the country. He also admitted that he considered giving up because of the extreme heat every single day.",
+      "During the journey Liam was robbed several times, got sick, and had an accident that required surgery. But he kept going through rain, sun, heat, cold, deserts and mountains.",
+      "Liam finally arrived in Ushuaia, Argentina on January 10, 2023 – 527 days after he started. He was soon joined by his girlfriend Chloe, and the couple are now backpacking their way back to California."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Liam was already an experienced cyclist when he started his trip from Alaska to Argentina.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Liam had borrowed a book that gave him inspiration for the trip.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Liam ran out of food within 3 days.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Liam’s parents were happy about his plan from the very beginning.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Liam met Logan when he was crossing the Mexican border.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Despite the difficulties, Liam never thought of giving up.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The weather in Mexico was pleasant for riding.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Liam suffered an injury during the trip.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Liam is not alone during his journey home.",
+       "answer": "A"
+      }
+     ],
+     "source": "https://newsforkids.net/articles/2023/03/30/teen-completes-bike-trip-from-alaska-to-argentina/"
+    },
+    {
+     "id": "2026-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 5,
+     "instructions": [
+      "Read the following text about animal cafés in Japan.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "TOKYO’S BEST ANIMAL CAFÉS",
+     "body": [
+      "Tokyo has a long list of animal cafés. Here are some great spots to visit.",
+      "Kotori Café features dozens of colourful parrots, cockatoos and canaries to enjoy afternoon tea with. Don’t expect to see them flying around though, as they’re mostly kept in cages for hygiene reasons.",
+      "Meet the resident capybara and its cat friends at Capyneko Café. The South American native animal and the cats will bring plenty of cuteness to your stressful day. Many of the cats here are rescued and adoptable, so let the staff know if you’re interested in giving them a permanent home.",
+      "At Mipig Café you can cuddle with adorable miniature piggies. Pet and play with the tiny piglets while sipping a cup of coffee. Note that tickets have to be booked in advance and at least one drink order is required.",
+      "Unlike other animal cafés, Dog Heart Café doesn’t have a food or drink menu and you either pay to play with the dogs inside or take one out for a 60-minute walk in the nearby park. You may choose the exact dog you wish to walk.",
+      "Hachu Café is a bizarre teahouse, where you’ll be able to enjoy a cup of tea while a reptilian friend observes you from the safety of its transparent box. You can meet a number of reptiles, including lizards, as well as scorpions, turtles and snakes. There’s no cover charge or time limit, – as long as you order a drink.",
+      "At ChikuChiku Café cute hedgehogs will welcome you in their tiny dollhouse rooms such as a kitchen, a dining room, or a bedroom. You can feed, touch and take photos of the little cuties in their miniature room-like cages. The entrance fee includes a handful of mealworms to feed to the hedgehogs."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "has some animals for visitors to take home."
+      },
+      {
+       "key": "B",
+       "text": "allows guests to stay as long as they want."
+      },
+      {
+       "key": "C",
+       "text": "is a place for bird-lovers."
+      },
+      {
+       "key": "D",
+       "text": "serves animal-shaped desserts."
+      },
+      {
+       "key": "E",
+       "text": "provides visitors with snacks for the animals."
+      },
+      {
+       "key": "F",
+       "text": "requires people to make a reservation beforehand."
+      },
+      {
+       "key": "G",
+       "text": "can be booked for private parties."
+      },
+      {
+       "key": "H",
+       "text": "allows people to rent an animal for an hour."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Kotori Café …",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Capyneko Café …",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Mipig Café …",
+       "answer": "F"
+      },
+      {
+       "n": 24,
+       "stem": "Dog Heart Café …",
+       "answer": "H"
+      },
+      {
+       "n": 25,
+       "stem": "Hachu Café …",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "ChikuChiku Café …",
+       "answer": "E"
+      }
+     ],
+     "source": "https://www.timeout.com/tokyo/restaurants/the-top-10-animal-cafes-in-tokyo"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2026-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a new search for Nessie, the Loch Ness Monster. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "PLAN FOR BIGGEST NESSIE SEARCH IN MORE THAN 50 YEARS",
+     "body": [
+      "It was 90 years ago that Aldie Mackay, {{0}} of the Drumnadrochit hotel, burst into the bar one evening to tell shocked patrons she had just witnessed a “water beast” in Loch Ness.",
+      "It was this event that began the modern myth-making around a monster surviving in the depths of the Highland loch – and next weekend {{1}} of Nessie enthusiasts are expected to take part in the biggest organised hunt for the mysterious {{2}} in 50 years.",
+      "Organised by the Loch Ness Centre, volunteers from across the globe will participate in person and online in the largest surface watch, searching for breaks in the water and any strange {{3}} over a two-day period.",
+      "The hunt will involve {{4}} that has never been used on Loch Ness before, {{5}} drones to produce thermal images of the water from the air, as well as a hydrophone to detect acoustic signals beneath the surface.",
+      "Search leader Alan McKenna will inform volunteers live from the Loch Ness Centre each morning about what to look out for and how to record findings. He said: “It’s our hope to {{6}} a new generation of Loch Ness enthusiasts and by {{7}} this large-scale surface watch, you’ll have a real opportunity to personally contribute to this {{8}} mystery that has attracted so many people from around the world.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "manage",
+       "example": true,
+       "accept": [
+        "manager"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "hundred",
+       "accept": [
+        "hundreds"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "create",
+       "accept": [
+        "creature"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "move",
+       "accept": [
+        "movements",
+        "movement"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "equip",
+       "accept": [
+        "equipment"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "include",
+       "accept": [
+        "including"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "courage",
+       "accept": [
+        "encourage"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "join",
+       "accept": [
+        "joining"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "excite",
+       "accept": [
+        "exciting"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/news/uk-scotland-highlands-islands-66393902"
+    },
+    {
+     "id": "2026-okt-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an unexpected restaurant policy. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (9-16) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "RESTAURANT BANS KIDS UNDER 10",
+     "body": [
+      "The New Jersey restaurant, Nettie's House of Spaghetti, created a social media {{0}} with a Facebook post {{9}} diners that children under 10 are {{10}} longer welcome to eat at the restaurant, starting next month: \"We love kids. We really, truly, do. But {{11}}, it’s been extremely challenging to accommodate children at Nettie’s. {{12}} of the noise levels, crazy messes, and kids running around the restaurant, we have decided that it’s time to take control of the situation. This wasn’t an easy decision, but some {{13}} events have pushed us to introduce this new policy. As of March 8, we will not allow children under 10 to dine in the restaurant. We know that this is going to make some of you very upset, especially {{14}} of you with well-behaved kids, but we believe this is the {{15}} decision for our business moving forward. Thank you for understanding.\"",
+      "The post has so {{16}} been shared more than 8,000 times, and received emotional responses from those who support the ban, as well as those who say they'll never eat at the restaurant because it's discriminating against well- behaved kids."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ALTHOUGH"
+      },
+      {
+       "key": "B",
+       "text": "BECAUSE"
+      },
+      {
+       "key": "C",
+       "text": "STORM"
+      },
+      {
+       "key": "D",
+       "text": "FAR"
+      },
+      {
+       "key": "E",
+       "text": "INFORMING"
+      },
+      {
+       "key": "F",
+       "text": "LATELY"
+      },
+      {
+       "key": "G",
+       "text": "MUCH"
+      },
+      {
+       "key": "H",
+       "text": "NO"
+      },
+      {
+       "key": "I",
+       "text": "RECENT"
+      },
+      {
+       "key": "K",
+       "text": "RIGHT"
+      },
+      {
+       "key": "L",
+       "text": "SAYING"
+      },
+      {
+       "key": "M",
+       "text": "THOSE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "I"
+      },
+      {
+       "n": 14,
+       "answer": "M"
+      },
+      {
+       "n": 15,
+       "answer": "K"
+      },
+      {
+       "n": 16,
+       "answer": "D"
+      }
+     ],
+     "source": "https://eu.app.com/story/entertainment/dining/new-jersey-eats/2023/02/12/netties-house-of-spaghetti-tinton-falls-nj-child-ban-"
+    },
+    {
+     "id": "2026-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read about the possible origins of April Fools’ Day. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "APRIL FOOLS' DAY - NO ONE KNOWS HOW IT BEGAN",
+     "body": [
+      "Ever wonder where April Fools' Day came {{0}}? Well, surprise! Nobody seems {{17}} know its true origins. Historians do have some clues, though. In the first place, we do know that April Fools' Day customs date back to {{18}} least Renaissance Europe, but it's likely the tradition originated long before then. Some historians {{19}} recently linked April Fools' Day to the ancient Roman festival of \"Hilaria\", where at {{20}} end of March, people would come together {{21}} celebrate the god Attis.",
+      "Other historians believe April Fools' Day has its origins in the 16th century, when France switched from the Julian calendar to the Gregorian calendar. The Julian calendar began in March and the New Year {{22}} celebrated on March 31. By switching to the Gregorian calendar, the New Year would now {{23}} on January 1.",
+      "News traveled slowly back then, and not {{24}} knew when to celebrate the New Year or was willing to change. Those {{25}} continued to celebrate in the spring were often ridiculed and made fun of."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "have",
+        "very",
+        "quite"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "to",
+        "and"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "was",
+        "got"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "begin",
+        "start",
+        "commence",
+        "fall",
+        "be"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "everyone",
+        "everybody"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "who",
+        "that"
+       ]
+      }
+     ],
+     "source": "https://woub.org/2023/04/01/april-fools-day-might-be-the-worlds-longest-running-joke-no-one-knows-how-it-began/"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2026-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear some interesting information about two dog breeds.",
+      "Your task is to complete the sentences with one word or number in each gap, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_26okt_fl.mp3",
+      "start": 0,
+      "end": 643.7,
+      "clip": "hang/k_angol_26okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Scientists believe that dogs were domesticated {{gap}} years ago.",
+       "accept": [
+        "15,000"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Dogs have been around longer than {{gap}} cats.",
+       "accept": [
+        "pet"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The Golden Retriever has long, {{gap}} golden fur.",
+       "accept": [
+        "thick"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The Golden Retriever was developed in Scotland for {{gap}}.",
+       "accept": [
+        "hunting"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "The Golden Retriever helps people with {{gap}}.",
+       "accept": [
+        "disabilities"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Today German Shepherds are commonly used as {{gap}} dogs.",
+       "accept": [
+        "police"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "German Shepherds are very good at finding dangerous things such as {{gap}}.",
+       "accept": [
+        "bombs"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "German Shepherds first appeared in the United States in {{gap}}.",
+       "accept": [
+        "1907"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Besides attention, German Shepherds need a lot of {{gap}}.",
+       "accept": [
+        "exercise"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Rin Tin Tin was {{gap}} from a battlefield.",
+       "accept": [
+        "rescued"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2026-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to a story in a phone-in radio programme.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_26okt_fl.mp3",
+      "start": 643.7,
+      "end": 1115.08,
+      "clip": "hang/k_angol_26okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The radio frequency of Radio Bridge is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "101.2."
+        },
+        {
+         "key": "B",
+         "text": "102.1. C)102.2."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Valerie said the weather in Florida was ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "cool and windy."
+        },
+        {
+         "key": "B",
+         "text": "warm and dry."
+        },
+        {
+         "key": "C",
+         "text": "not very nice."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "The family moved to ... after Valerie was born.",
+       "options": [
+        {
+         "key": "A",
+         "text": "New Jersey"
+        },
+        {
+         "key": "B",
+         "text": "Illinois"
+        },
+        {
+         "key": "C",
+         "text": "Nevada"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Valerie’s parents got divorced when she ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "went to elementary school."
+        },
+        {
+         "key": "B",
+         "text": "started high school."
+        },
+        {
+         "key": "C",
+         "text": "finished high school."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Valerie took a job in Florida in her ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "early thirties."
+        },
+        {
+         "key": "B",
+         "text": "mid-thirties."
+        },
+        {
+         "key": "C",
+         "text": "late thirties."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Valerie wanted to buy some ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "vegetables."
+        },
+        {
+         "key": "B",
+         "text": "clothes."
+        },
+        {
+         "key": "C",
+         "text": "furniture."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The book Valerie found was a collection of ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "short stories."
+        },
+        {
+         "key": "B",
+         "text": "poems."
+        },
+        {
+         "key": "C",
+         "text": "biographies."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Valerie bought the book because she ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "found the cover attractive."
+        },
+        {
+         "key": "B",
+         "text": "recognised her dad’s handwriting."
+        },
+        {
+         "key": "C",
+         "text": "realized it had been a gift to her mom."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Ten years ago Valerie’s mom ... the book.",
+       "options": [
+        {
+         "key": "A",
+         "text": "lost"
+        },
+        {
+         "key": "B",
+         "text": "gave away"
+        },
+        {
+         "key": "C",
+         "text": "sold"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2026-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear some information about a famous photograph called Cotton Mill Girl by Lewis Hine.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_26okt_fl.mp3",
+      "start": 1115.08,
+      "end": 1795.22,
+      "clip": "hang/k_angol_26okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Very few children had dangerous jobs in the US in the early 1900s.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Working in a mine was the worst job for children.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "All the parents protested against child labor.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The National Child Labor Committee was formed in the middle of the 19th century.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Lewis Hine worked for the National Child Labor Committee for twenty years.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Besides taking photos, Hine was also a Bible salesman.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Sadie Pfeifer’s job was extremely dangerous.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "In the picture, Sadie Pfeifer has just started her night shift.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Since 1938, you have been allowed to work in the US if you are 16 or older.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

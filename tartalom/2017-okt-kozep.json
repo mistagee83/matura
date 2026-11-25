@@ -1,0 +1,1351 @@
+{
+ "formatVersion": 1,
+ "id": "2017-okt-kozep",
+ "year": 2017,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2017-10-19",
+ "code": "1713",
+ "sourceFiles": {
+  "paper": "2017 - Középszintű októberi/k_angol_17okt_fl.pdf",
+  "key": "2017 - Középszintű októberi/k_angol_17okt_ut.pdf",
+  "audio": "2017 - Középszintű októberi/k_angol_17okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2017-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with a firefighter the questions have been removed.",
+      "Your task is to write the letters of the questions (A-L) next to the appropriate numbers (1- 8).",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "AN INTERVIEW WITH A FIREFIGHTER",
+     "body": [
+      "{{0}}\nI’m a firefighter.",
+      "{{1}}\nWe do everything from fighting grass fires, house fires, rubbish fires to car fires. Everybody here is an emergency medical technician so we also go to medical calls, any time.",
+      "{{2}}\nYou need a high school education, a clean police record, and a lot of heart.",
+      "{{3}}\nI worked for the emergency medical service for 10 years before I came here, and I worked on medical calls and I just decided I wanted to be a firefighter. Then I went, applied, and took the test.",
+      "{{4}}\nHelping in the community and my fantastic colleagues. I also like the work schedule: we work 24 hours on, 48 off, so that’s ten 24 hour shifts a month. It gives me a lot of time to do things with my family, kids and wife.",
+      "{{5}}\nBeing able to keep control over your emotions. When things are very stressful you tend to get excited, you do things too fast. You’ve got to step back and take a look at everything before you act; and I think that’s one of the hardest things for people to learn.",
+      "{{6}}\nRight now a guy with less than 10 years on the job gets about 3 weeks' vacation per year.",
+      "{{7}}\nThat we just sit up here, watch TV, eat, and only go when there’s a fire. In fact, we hardly ever sit down, even if there’s no fire.",
+      "{{8}}\nOne day I would like to become captain.",
+      "(www.jobshadow.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "How did you get started?"
+      },
+      {
+       "key": "B",
+       "text": "What is the most challenging thing about what you do?"
+      },
+      {
+       "key": "C",
+       "text": "What do you do for a living?"
+      },
+      {
+       "key": "D",
+       "text": "What are your dreams for the future?"
+      },
+      {
+       "key": "E",
+       "text": "What do you do in your free time?"
+      },
+      {
+       "key": "F",
+       "text": "What kind of tasks do you usually do?"
+      },
+      {
+       "key": "G",
+       "text": "What is a common misbelief people have about firefighters?"
+      },
+      {
+       "key": "H",
+       "text": "How much time off do you get?"
+      },
+      {
+       "key": "I",
+       "text": "What do you like about what you do?"
+      },
+      {
+       "key": "K",
+       "text": "How can you become a firefighter?"
+      },
+      {
+       "key": "L",
+       "text": "How do you get to work?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "K"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "H"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read the following story about a popular packaging material.",
+      "Your task is to put the sentences (A-G) in the correct order.",
+      "Write the letters in the boxes as shown in the example (0).",
+      "There is one extra letter that you do not need."
+     ],
+     "body": [
+      "Bubble Wrap's original purpose was nothing like what we use the product for today. In 1957, engineer Al Fielding and Swiss inventor Marc Chavannes were trying to create a special wallpaper.",
+      "{{0}}",
+      "{{9}}",
+      "{{10}}\nHowever, this use of the product didn’t become popular, either.",
+      "{{11}}",
+      "{{12}}\nHe presented the idea to IBM and demonstrated the product’s protective abilities.",
+      "{{13}}\nSince then, Sealed Air has grown to sales of around $4 billion a year, with a net profit of around $255 million, and around $400 million worth of Bubble Wrap is sold annually.",
+      "(mentalfloss.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Bowers got the idea that Bubble Wrap could be used as a good packaging material to protect the computer while it was being transported."
+      },
+      {
+       "key": "B",
+       "text": "Not giving up, they decided to sell their invention to prevent heat from escaping from greenhouses."
+      },
+      {
+       "key": "C",
+       "text": "To do so, they sealed two shower curtains together in such a way that air bubbles were captured, giving it a new appearance."
+      },
+      {
+       "key": "D",
+       "text": "It wasn't until 1959 – when IBM started selling their new 1401 computer model - that Frederick Bowers, a marketer at their company Sealed Air, finally came up with the perfect use for it."
+      },
+      {
+       "key": "E",
+       "text": "His demonstration was successful, and IBM started buying Bubble Wrap to protect their 1401 model and other fragile products they sold and transported."
+      },
+      {
+       "key": "F",
+       "text": "The popping sound of the little bubbles - when they got punctured - made a lot of people happy."
+      },
+      {
+       "key": "G",
+       "text": "But the wallpaper idea didn’t sell too well."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about some plans concerning the date of Easter and then read the statements (14-20) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "ARCHBISHOP JUSTIN WELBY HOPES FOR FIXED EASTER DATE",
+     "body": [
+      "Archbishop of Canterbury Justin Welby made the announcement after a meeting of leaders of the Anglican church. He is currently working with high-ranking members of other Christian churches to agree on a fixed date for Easter.",
+      "In the UK, an act of Parliament passed in 1928 allowed for Easter Sunday to be fixed on the first Sunday after the second Saturday in April. However, this has never been activated and Easter has remained variable, determined by the moon's cycle.",
+      "The issue is back on the agenda as Easter is the most important Christian festival. It celebrates the resurrection of Jesus Christ following his death by crucifixion on Good Friday. The archbishop said he was in talks with Pope Francis, Coptic leader Pope Tawadros, and the leader of the Orthodox church Patriarch Bartholomew. Mr Welby said he hoped the change would happen \"in between five and ten years’ time.\"",
+      "\"I would love to see it before I retired,\" he said, although he warned that the first time they tried to make such a change was in the 10th century. An Anglican source told the BBC there had been 15 attempts to agree a common date since then.",
+      "Easter is on the first Sunday after the first full moon following the spring equinox, which usually falls on the 21st of March, when day and night are equally long. This means that Easter can be celebrated on a Sunday between 22nd March and 25th April. However, the Orthodox church follows the Julian calendar, and so it has later Easter celebrations compared with those of Western Christianity.",
+      "It is yet to be seen whether this latest attempt to fix the date will be successful.",
+      "(bbc.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Archbishop of Canterbury wishes to fix the date of Easter.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Mr Welby will soon contact other church leaders about his plan.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "In Britain there was a short period in the 20th century when Easter was fixed.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Most members of the British parliament are against this plan.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Pope Francis and the leader of the Orthodox church both agree with Mr Welby’s proposal.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The Archbishop hopes that in about a decade Easter will already be fixed.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "In the past people have already tried to fix the date of Easter more than fifteen times.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "If there is an agreement about fixing Easter, the Orthodox church will abandon the Julian calendar.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article about an interesting way you can make money.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (21-29) from the list (A-M) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "NEW YORK MAN MAKES CLOSE TO $1,000 A WEEK WAITING IN LINE",
+     "body": [
+      "When Robert Samuel found himself unemployed in 2012, {{0}} that offered cash to wait in line for someone to get a new iPhone. A year later, the New York-born man {{21}} — the city’s only professional line waiting team.",
+      "His team of line-sitters have {{22}} including iPhones, sports shoes, special sales, concert tickets — and even Santa Claus photos. \"I didn't even know Santa Claus lines could be that long,\" Samuel said.",
+      "After two years, Samuel now has more than a dozen employees, {{23}}, who stand in line in cities across the country. \"I was hired by a family in Colorado that {{24}} to get into a TV quiz show,\" he said. \"Because I was in New York, {{25}} to stand in line and the family bought him some fancy T-shirts and hats to thank him. He was in line for 43 hours.\"",
+      "Robert and his colleagues have been very successful — {{26}}. They are available non-stop and {{27}}, while each extra half hour is $10.",
+      "As he is booked for every single day in September, many people think that Robert should take his business to the next level by {{28}} — but he says he’s not yet ready for that. \"I've been asked about getting an app but I love the personal touch that my company has. When people call my number just to tell me {{29}} – that makes me feel good.\"",
+      "(nydailynews.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "most of them part-timers"
+      },
+      {
+       "key": "B",
+       "text": "I asked an unemployed man"
+      },
+      {
+       "key": "C",
+       "text": "he didn’t think twice before responding to an ad"
+      },
+      {
+       "key": "D",
+       "text": "waited in lines for several products"
+      },
+      {
+       "key": "E",
+       "text": "charge $25 for the first hour"
+      },
+      {
+       "key": "F",
+       "text": "wanted me to stand in line"
+      },
+      {
+       "key": "G",
+       "text": "creating an app or having an office"
+      },
+      {
+       "key": "H",
+       "text": "turned it into a business"
+      },
+      {
+       "key": "I",
+       "text": "how well I'm doing"
+      },
+      {
+       "key": "K",
+       "text": "leaving my regular full-time job"
+      },
+      {
+       "key": "L",
+       "text": "they make close to $1,000 a week"
+      },
+      {
+       "key": "M",
+       "text": "some of his new colleagues"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "H"
+      },
+      {
+       "n": 22,
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "answer": "L"
+      },
+      {
+       "n": 27,
+       "answer": "E"
+      },
+      {
+       "n": 28,
+       "answer": "G"
+      },
+      {
+       "n": 29,
+       "answer": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2017-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an interesting board game. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "BEYOND MONOPOLY",
+     "body": [
+      "Christmas is here! This is the time when families across the nation take out their one {{0}} copy of Monopoly, play it for half an hour before realising Monopoly is terribly {{1}}, and then go on playing for another three hours before a drunk uncle starts shouting furiously after {{2}} his final property to a five-year-old.",
+      "Don’t play Monopoly. Just make sure that you have a much {{3}} game on the shelf in time for your family’s Christmas and you’ll have a lot more fun and {{4}}. Ticket to Ride is your game.",
+      "In the game the {{5}} need to connect up cities in 19th-century America, building out a railroad network while trying to block {{6}} from doing the same. You’ll be trying really {{7}} to draw the cards needed to connect Seattle to New York, while also trying not to give away that those are the cities you’re trying to link. If you are not {{8}}, an opponent (who you’re pretty certain is joining Detroit to Los Angeles) will change {{9}} own route in order to block you, ruining your chance to finish the route for good. It sounds like fun, doesn’t it?",
+      "(http://www.theguardian.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "dust",
+       "example": true,
+       "accept": [
+        "dusty"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "bore",
+       "accept": [
+        "boring"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "lose",
+       "accept": [
+        "losing"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "good",
+       "accept": [
+        "better"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "act",
+       "accept": [
+        "action",
+        "activity"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "play",
+       "accept": [
+        "players"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "compete",
+       "accept": [
+        "competitors"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "hard",
+       "accept": [
+        "hard"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "care",
+       "accept": [
+        "careful"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "they",
+       "accept": [
+        "their"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an anecdote about the Scottish poet, Robert Burns. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (10-17) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "POETIC WISDOM",
+     "body": [
+      "Robert Burns, the great Scottish poet, loved common people and wrote for {{0}}. Though he had little formal education, he was well read and talented. He began to be recognized {{10}} a poet when his first poems were published in 1786.",
+      "One day when Burns was walking near the docks, he heard a man crying {{11}} help. He ran towards the water and saw a young sailor jump off the dock. The sailor started to swim towards the man, who was already drowning. Although it was {{12}} easy, the sailor saved the man. It turned {{13}} that the man who survived the incident was a very rich merchant. He thanked the brave sailor and gave him a shilling.",
+      "A large crowd of people gathered around them. All the people considered the sailor to be a hero, so they {{14}} displeased when the rich man offered only a shilling. Many people were protesting, but the merchant did not {{15}} any attention to them. At that moment Burns approached the crowd and wondered {{16}} the matter was. He was told the whole story. Burns was not surprised {{17}} the behaviour of the rich merchant. He said: “Leave him alone. The gentleman is the best judge of what his life is worth.”",
+      "(http://www.england-history.org)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "them"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "not",
+        "hardly"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "out"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "were",
+        "got",
+        "became",
+        "felt"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "pay",
+        "give"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "what"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "at",
+        "by",
+        "about"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-kozep-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a Star Wars contest. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (18-25) in the text."
+     ],
+     "title": "STAR WARS MARATHON",
+     "body": [
+      "Do you think you’re the biggest Star Wars fan? Think again, as one cinema-goer studied US Navy Seal breathing techniques {{0}} win a Star Wars marathon, sitting through 46 hours of the sci-fi saga.",
+      "A cinema in Austin, Texas, challenged fans to sit through the previous trilogies, and then The Force Awakens on repeat {{18}} the last person still awake was identified. The rules were simple: food, drink and toilet breaks are permitted, {{19}} sleeping, illegal drugs and talking and texting will result in disqualification.",
+      "Jim Braden, a {{20}} Texan, was the eventual winner of the marathon, {{21}} six other fans to win the precious prizes: a cinema membership for seven years and a seat named in his honour, {{22}} a naming ceremony.",
+      "“I wanted to demonstrate my passion,” he {{23}} journalists. Braden, who grew up with Star Wars, also talked about {{24}} he studied US Navy Seal breathing techniques. “We put ourselves through hell mentally and physically,” Braden added. “One other guy complained of {{25}} chest pains and dropped out.”",
+      "Although he had watched the latest episode nine times, his review was enthusiastic: “I came out saying that I still enjoyed the movie. That’s how you know it’s good.”",
+      "(http://www.independent.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "just for"
+        },
+        {
+         "key": "B",
+         "text": "hoping that"
+        },
+        {
+         "key": "C",
+         "text": "in order to"
+        },
+        {
+         "key": "D",
+         "text": "looking forward to"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "if"
+        },
+        {
+         "key": "B",
+         "text": "before"
+        },
+        {
+         "key": "C",
+         "text": "until"
+        },
+        {
+         "key": "D",
+         "text": "unless"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "as"
+        },
+        {
+         "key": "B",
+         "text": "but"
+        },
+        {
+         "key": "C",
+         "text": "when"
+        },
+        {
+         "key": "D",
+         "text": "because"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "40 years old"
+        },
+        {
+         "key": "B",
+         "text": "40-year-old"
+        },
+        {
+         "key": "C",
+         "text": "of 40 years"
+        },
+        {
+         "key": "D",
+         "text": "40-year"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "defeating"
+        },
+        {
+         "key": "B",
+         "text": "winning"
+        },
+        {
+         "key": "C",
+         "text": "biting"
+        },
+        {
+         "key": "D",
+         "text": "defending"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "along with"
+        },
+        {
+         "key": "B",
+         "text": "just like"
+        },
+        {
+         "key": "C",
+         "text": "alone with"
+        },
+        {
+         "key": "D",
+         "text": "altogether"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "said"
+        },
+        {
+         "key": "B",
+         "text": "explained"
+        },
+        {
+         "key": "C",
+         "text": "told"
+        },
+        {
+         "key": "D",
+         "text": "spoke"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "the cause"
+        },
+        {
+         "key": "C",
+         "text": "however"
+        },
+        {
+         "key": "D",
+         "text": "how"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "having"
+        },
+        {
+         "key": "B",
+         "text": "he had"
+        },
+        {
+         "key": "C",
+         "text": "being in"
+        },
+        {
+         "key": "D",
+         "text": "suffered"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2017-okt-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a true story about two very unusual children.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_17okt_fl.mp3",
+      "start": 0,
+      "end": 614.07,
+      "clip": "hang/k_angol_17okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Paul and Victoria are two and six years old respectively.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "The Waters kids are different from other children as they hardly ever cry.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Paul doesn’t even notice when he gets hurt.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Paul gets hurt much more often than other kids.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "Paul’s unusual illness was discovered when he was six months old.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "Paul’s condition was first discovered by a doctor.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "In a test, doctors deliberately tried to cause pain to Paul.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "This illness is a lot more common in boys than girls.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "Paul was so jealous of his baby sister that sometimes he hit her.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Paul and his sister Victoria have the same symptoms.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear a strange but true story about a cat called Dusty.",
+      "Your task is to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_17okt_fl.mp3",
+      "start": 614.07,
+      "end": 1156.53,
+      "clip": "hang/k_angol_17okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What’s the name of the channel that the reporter, Vic Lee works for? {{gap}}",
+       "accept": [
+        "ABC"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "What does Dusty become at night? {{gap}}",
+       "key": "He becomes a cat burglar.",
+       "keywords": [
+        [
+         "cat",
+         "burglar"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Who is Ethan McLelland? {{gap}}",
+       "key": "A neighbo(u)r. He is one of the neighbors / neighbours (the son of one of the neighbors). // A (5-year-old) child / boy.",
+       "keywords": [
+        [
+         "neighbor"
+        ],
+        [
+         "neighbour"
+        ],
+        [
+         "neighbors"
+        ],
+        [
+         "neighbours"
+        ],
+        [
+         "child"
+        ],
+        [
+         "boy"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "What is it that Dusty’s victims don’t want to file? {{gap}}",
+       "key": "A police report.",
+       "keywords": [
+        [
+         "police",
+         "report"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Who are Jean Chu and Jim Coleman? {{gap}}",
+       "key": "Dusty’s owners. / Dusty belongs to them.",
+       "keywords": [
+        [
+         "dusty’s",
+         "owners"
+        ],
+        [
+         "dusty",
+         "belongs",
+         "them"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "How many items has Dusty stolen in the past three years? {{gap}}",
+       "key": "About 600 / six hundred (items/objects/pieces).",
+       "keywords": [
+        [
+         "600"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "What did Dusty steal from Kelly McLelland? {{gap}}",
+       "key": "He stole her bathing suit/bikini (bottom and top / swim-suit / swimming costume/clothes.",
+       "keywords": [
+        [
+         "bathing",
+         "suit"
+        ],
+        [
+         "bikini"
+        ],
+        [
+         "swim-suit"
+        ],
+        [
+         "swimsuit"
+        ],
+        [
+         "swimming",
+         "costume"
+        ],
+        [
+         "clothes"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "What did Animal Planet use to find out about Dusty’s method of stealing? {{gap}}",
+       "key": "A camera (outside the house).",
+       "keywords": [
+        [
+         "camera"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "What is Dusty’s record take for one night? {{gap}}",
+       "key": "His record take is 11 / eleven (different) things/items/objects (a night).",
+       "keywords": [
+        [
+         "11"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "Ennél a feladatnál csak a kulcsinformációk (vastaggal kiemelve) meglétét várjuk el a válasz elfogadhatóságához."
+     }
+    },
+    {
+     "id": "2017-okt-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear an interesting news item about a man who commutes to London from Barcelona.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_17okt_fl.mp3",
+      "start": 1156.53,
+      "end": 1795.43,
+      "clip": "hang/k_angol_17okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Two years ago, Sam Cookney …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was a London resident."
+        },
+        {
+         "key": "B",
+         "text": "got fed up with the rents in London."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Sam Cookney is a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "social media manager."
+        },
+        {
+         "key": "B",
+         "text": "well-known comedian."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Sam based his calculations on …",
+       "options": [
+        {
+         "key": "A",
+         "text": "renting a three-bed flat in Barcelona."
+        },
+        {
+         "key": "B",
+         "text": "commuting to London every day."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "He calculated that he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "would spend €34 a day getting from his flat to his office."
+        },
+        {
+         "key": "B",
+         "text": "could save €387 a month."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Sam …",
+       "options": [
+        {
+         "key": "A",
+         "text": "used to share a flat with someone in London."
+        },
+        {
+         "key": "B",
+         "text": "now has a place all to himself in Barcelona."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Sam’s Barcelona flat …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is in rather poor condition."
+        },
+        {
+         "key": "B",
+         "text": "costs him €800 a month."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Sam says the move was really worth it, as …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his lifestyle has improved a lot."
+        },
+        {
+         "key": "B",
+         "text": "he can even save some money."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The arrangement, however, is somewhat problematic, because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "air-ticket prices keep changing."
+        },
+        {
+         "key": "B",
+         "text": "the journey takes more than six hours."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "He uses the time he spends on the plane to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "get some sleep."
+        },
+        {
+         "key": "B",
+         "text": "enjoy a leisurely drink."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

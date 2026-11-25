@@ -1,0 +1,1190 @@
+{
+ "formatVersion": 1,
+ "id": "2019-maj-kozep",
+ "year": 2019,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2019-05-09",
+ "code": "1812",
+ "sourceFiles": {
+  "paper": "2019 - Középszint május/k_angol_19maj_fl.pdf",
+  "key": "2019 - Középszint május/k_angol_19maj_ut.pdf",
+  "audio": "2019 - Középszint május/k_angol_19maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2019-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In this text about earthquakes, the questions have been removed.",
+      "Your task is to match the questions (A- L) and the answers (1-8).",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "FREQUENTLY ASKED QUESTIONS ABOUT EARTHQUAKES",
+     "body": [
+      "{{0}}\nRocks break and move in the earth. Energy is released, and that’s what makes the ground shake.",
+      "{{1}}\nThe slow deformation of \"tectonic plates\". The rocks can break suddenly, releasing the stored energy as an earthquake.",
+      "{{2}}\nThe ground shaking may destroy buildings and hurt people.",
+      "{{3}}\nNo. People wrongly believe that suddenly a hole appears in the ground. This is only Hollywood's version of earthquakes.",
+      "{{4}}\nActually, all over the world; however, the so-called \"Ring of Fire\", which is around the Pacific Ocean, is probably one of the most active areas in the world.",
+      "{{5}}\nNot really, and we certainly can’t tell their exact date, time and location in advance.",
+      "{{6}}\nYes. As a result of some human activities such as mining or underground nuclear explosions, there can be small ones.",
+      "{{7}}\nSome international websites have lists of earthquakes of magnitude 5.0 and greater, and most countries have their own forums with information on local earthquakes.",
+      "{{8}}\nNo, they happen at more or less the same rate every year.",
+      "(http://www.earthquakescanada.ca)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Where can I find a record of earthquakes and data about them?"
+      },
+      {
+       "key": "B",
+       "text": "Does the earth open up during an earthquake?"
+      },
+      {
+       "key": "C",
+       "text": "What exactly is an \"earthquake\"?"
+      },
+      {
+       "key": "D",
+       "text": "How often do earthquakes happen?"
+      },
+      {
+       "key": "E",
+       "text": "What causes earthquakes?"
+      },
+      {
+       "key": "F",
+       "text": "Can earthquakes be predicted?"
+      },
+      {
+       "key": "G",
+       "text": "How do we know that we will have another one in the future?"
+      },
+      {
+       "key": "H",
+       "text": "Is it true that the number of earthquakes is growing?"
+      },
+      {
+       "key": "I",
+       "text": "Where do earthquakes take place?"
+      },
+      {
+       "key": "K",
+       "text": "Can people cause earthquakes?"
+      },
+      {
+       "key": "L",
+       "text": "How do earthquakes cause damage?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "F"
+      },
+      {
+       "n": 6,
+       "answer": "K"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about how a bank was built.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (9- 16) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "THE BANK THAT WAS SENT THROUGH THE POST OFFICE",
+     "body": [
+      "The U.S. Post Office allows its customers to mail many things besides letters. A customer can send plants, insects, some types of live animals {{0}}. A direct marketing research company once mailed a football, a hammer, and even a water ski, with just a stamp {{9}}, just to see what would happen. But the strangest thing sent through the mail was a bank. And not a child's piggy bank, {{10}}.",
+      "Of course, the whole bank couldn't be sent through the mail system, {{11}}. But the next best thing was mailed – all of the bricks used to construct the bank, all 80,000 of them.",
+      "Mr. W. H. Coltharp, a young businessman in the town of Vernal, Utah, wanted to build a bank {{12}}. The bricks which he selected for the building were made by a company located about 120 miles away from the town by straight line, {{13}}. Coltharp's problem was that the cost to transport 80,000 bricks from Salt Lake City to Vernal was too high, so he decided to mail the bricks to the small town through the cheap parcel post service.",
+      "He had the bricks carefully packaged in boxes, each of them weighing less than 50 pounds, the upper limit of what the post office permitted. News reports show {{14}}, equivalent to one ton.",
+      "Finally, all the bricks were delivered, but the postmasters got so angry {{15}}. From then on people could only send or receive a total of 200 pounds of goods in a single day. The Bank of Vernal was built {{16}} \"The Parcel Post Bank\" by some people in the town. The building still exists and is still used as a bank.",
+      "(http://www.stampsofdistinction.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "as it is problematic to move a building"
+      },
+      {
+       "key": "B",
+       "text": "and dedicate it to the memory of his father"
+      },
+      {
+       "key": "C",
+       "text": "and some dead ones, too."
+      },
+      {
+       "key": "D",
+       "text": "and a delivery label attached to it"
+      },
+      {
+       "key": "E",
+       "text": "and even further by railway"
+      },
+      {
+       "key": "F",
+       "text": "as a delivery method to get packages sent through the mail"
+      },
+      {
+       "key": "G",
+       "text": "but a real one"
+      },
+      {
+       "key": "H",
+       "text": "that the post office changed their regulations"
+      },
+      {
+       "key": "I",
+       "text": "but they had to do it"
+      },
+      {
+       "key": "K",
+       "text": "and it was immediately nicknamed"
+      },
+      {
+       "key": "L",
+       "text": "that 40 boxes were transported each time"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "L"
+      },
+      {
+       "n": 15,
+       "answer": "H"
+      },
+      {
+       "n": 16,
+       "answer": "K"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 5,
+     "instructions": [
+      "Read the following article about a difficult test question and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "'IMPOSSIBLE' EXAM QUESTION LEAVES CHINESE STUDENTS PUZZLED",
+     "body": [
+      "Primary school students at a school in China had this question on a test: \"If a ship has 26 sheep and 10 goats on board, how old is the ship's captain?\"",
+      "The question caused a heated debate on Chinese social media. \"This question makes no logical sense at all. Does the teacher even know the answer?\" Some, however, defended the school, saying, \"This question forces children to explain their thinking and gives them space to be creative. We should have more questions like this.\"",
+      "The local Education Department says the test was intended to \"examine the ability to think independently.\" The traditional Chinese method of education heavily emphasises note- taking and repetition, which critics say doesn’t encourage creative thinking.",
+      "And, of course, there's always that one person who has the right answer. \"The total weight of 26 sheep and 10 goats is 7,700kg, based on the average weight of each animal. In China, if you're driving a ship that has more than 5,000kg of cargo, you need to have had a boat license for five years. The minimum age for getting a boat license is 23, so he's at least 28.\"",
+      "(www.bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to test how well learners can think on their own."
+      },
+      {
+       "key": "B",
+       "text": "to react on social media."
+      },
+      {
+       "key": "C",
+       "text": "to answer on a test paper."
+      },
+      {
+       "key": "D",
+       "text": "to be over 28."
+      },
+      {
+       "key": "E",
+       "text": "to test note-taking abilities."
+      },
+      {
+       "key": "F",
+       "text": "to have questions of this type in tests."
+      },
+      {
+       "key": "G",
+       "text": "to simply give back what the teacher has taught them."
+      },
+      {
+       "key": "H",
+       "text": "to ask such an impossible question."
+      },
+      {
+       "key": "I",
+       "text": "to be at least 23 years old."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Some primary school students in China had a difficult question …",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "This test question got a lot of people …",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "In their comments, some people said it would be useful …",
+       "answer": "F"
+      },
+      {
+       "n": 19,
+       "stem": "The aim of the question was …",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Most tests in China ask learners …",
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "stem": "If you want to drive a boat in China, you have …",
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about Blue Monday and then read the statements (22-29) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "BLUE MONDAY",
+     "body": [
+      "Feeling miserable this morning? That is because January 15 is supposedly the most depressing day this year. A combination of three reasons makes the third Monday of the year the most miserable. Understanding that Christmas really is over, the realisation of all the holiday expenses and the fact that most of us are back at work all play a part. First invented in Britain, Blue Monday is especially sad in the northern half of the world, where it’s also deep, dark midwinter.",
+      "It was in 2005 that Cliff Arnall, a university lecturer from Wales, dreamt up his gloomy calculation using the above three main factors to find the date of the most depressing day in the year. He also took into account things like the weather, the period since we’ve broken our New Year’s resolutions and our general motivational level.",
+      "However, there is hope, say psychologists, as Blue Monday was really all a marketing trick. January in the UK is peak holiday booking time and the original research was paid for by a travel agent who wanted to persuade people to cheer up by heading to the beach. Preferably through them.",
+      "While there is no scientific evidence of Blue Monday on the third Monday of January – or any other Monday in a year – research shows us that our mood is significantly better on Fridays and over the weekend in general. This is generally because we get more sleep and “me time” to spoil ourselves.",
+      "Dr Burke, a psychologist, says that “since Blue Monday is a trick that may affect our thinking and emotions so much, we should turn it into Happy Monday. Instead of searching for all that is going badly on the day, think of all the good things that happen around you – that woman who held the bus door to prevent it from closing, the old lady who smiled at you for no reason or the little boy who gave you a big hug.”",
+      "(www.news.com.au)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The most depressing day of the year is called Blue Monday.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "People feel sad on this day because they are worried about the cost of their summer holiday.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "The phrase Blue Monday originally comes from Britain.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "More and more people are refusing to work on Blue Monday.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Mr Arnall’s calculation has nothing to do with the weather.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "A holiday company managed to make a lot of money on Blue Monday.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "Among Britons, seaside resorts are very popular in January.",
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "stem": "There is scientific evidence that Mondays are sadder than Fridays.",
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "According to Dr Burke, it depends on your attitude whether this day is sad.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2019-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about Black Friday, the first day of the Christmas shopping season. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "BLACK FRIDAY",
+     "body": [
+      "Why is the day after Thanksgiving called ‘Black Friday’? Most people know Black Friday as the day when stores open much {{0}} and offer various sales. Many people believe we call it ‘Black Friday’ because many stores become profitable on the huge {{1}} day and go ‘into the black’. ‘Black’ refers to stores moving from the ‘red’ to the ‘black’, as in the old times records were kept by hand, and the {{2}} of red ink was a loss, while black meant a profit.",
+      "But the true story of Black Friday is {{3}} well-known. The expression ‘Black Friday’ was first used to describe 24 September, 1869, when two {{4}} investors, Jay Gould and Jim Fisk, manipulated the price of gold and caused a crash. The stock market {{5}} 20% and foreign trade stopped.",
+      "In the 1950s, Philadelphia police used the term ‘Black Friday’ to refer to the day between Thanksgiving and the Army-Navy college football game. Huge crowds of shoppers and tourists went to the city that Friday, and cops had to work {{6}} long hours to control the crowds. Shop {{7}} tried to change the name to ‘Big Friday’, but the alternative name never got {{8}}.",
+      "By the late 1980s, \"Black Friday\" had become known with the more positive message of “from red to black”.",
+      "(http://www.businessinsider.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "early",
+       "example": true,
+       "accept": [
+        "earlier"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "shop",
+       "accept": [
+        "shopping",
+        "shoppers’",
+        "shopper’s"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "mean",
+       "accept": [
+        "meaning"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "little",
+       "accept": [
+        "less"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "talent",
+       "accept": [
+        "talented",
+        "untalented",
+        "talentless"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "fall",
+       "accept": [
+        "fell"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "extreme",
+       "accept": [
+        "extremely"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "own",
+       "accept": [
+        "owners"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "accept",
+       "accept": [
+        "accepted"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a joke about an accident. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (9-17) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "FRIENDS IN TROUBLE",
+     "body": [
+      "A woman and a man get into a car accident. {{0}} of their cars are totally destroyed, but amazingly {{9}} of them is hurt. After they crawl out of the wreckage, the woman says, “Look at our cars – {{10}} nothing left! Thank God we are all right! This must be a sign that we should be friends and not try to put the blame on each {{11}}.” The man replies, “Oh yes, I agree with you completely.” The woman points to a bottle on the ground and says, “And here’s {{12}} miracle. Somehow this bottle of whisky from my back {{13}} didn’t break. Let’s drink this Scotch and {{14}} our good fortune.” Then she hands the bottle to the man. The man nods his head in {{15}}, opens it, and drinks about a third of the bottle to {{16}} his nerves. He then hands it back to the woman. The woman takes the bottle and puts the cap back on. The man asks, “Aren’t you having {{17}}?” The woman replies, “No. I think I’ll just wait for the police ... I’ll let them decide whose fault it was.”",
+      "(https://www.reddit.com/)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AGREEMENT"
+      },
+      {
+       "key": "B",
+       "text": "ANOTHER"
+      },
+      {
+       "key": "C",
+       "text": "BOTH"
+      },
+      {
+       "key": "D",
+       "text": "ANY"
+      },
+      {
+       "key": "E",
+       "text": "CALM"
+      },
+      {
+       "key": "F",
+       "text": "CELEBRATE"
+      },
+      {
+       "key": "G",
+       "text": "EITHER"
+      },
+      {
+       "key": "H",
+       "text": "NEITHER"
+      },
+      {
+       "key": "I",
+       "text": "OTHER"
+      },
+      {
+       "key": "K",
+       "text": "SEAT"
+      },
+      {
+       "key": "L",
+       "text": "SIT"
+      },
+      {
+       "key": "M",
+       "text": "THEIRS"
+      },
+      {
+       "key": "N",
+       "text": "THERE’S"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "N"
+      },
+      {
+       "n": 11,
+       "answer": "I"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "answer": "F"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "E"
+      },
+      {
+       "n": 17,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about fairy tales. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "FAIRY TALES – SCARY TALES",
+     "body": [
+      "Many generations are familiar with the characters from Cinderella or Beauty and the Beast thanks {{0}} Disney’s hit adaptations of the original fairy tales.",
+      "Pictures of big-eyed beautiful females and charming males are among the first details a lot {{18}} viewers mention when asked about the movies. But {{19}} truth is that the Disneyfied tales are often very different from the original story.",
+      "While we often associate fairy tales with children’s bedtime stories, their original purpose was {{20}} else. The original tales suggested the idea that people {{21}} do morally wrong things will {{22}} punished. Some fairy tales started out as oral stories, passed down from generation to generation, as a warning to little children (and adults) {{23}} be good. The most famous versions of these tales {{24}} written down by the Grimm brothers and Hans Christian Andersen.",
+      "While some level of morality still exists in the Disney tales and stories, most of their original, darker details and endings {{25}} been removed. Did you know that in the Grimm brothers’ version of Cinderella there is enough blood for a modern thriller?",
+      "(https://reelrundown.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "something"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "who",
+        "that"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "be",
+        "get"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "were",
+        "got"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "have"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 18,
+   "maxExamPoints": 33,
+   "omitted": [
+    {
+     "number": 1,
+     "points": 7,
+     "reason": "kép nélkül nem oldható meg"
+    }
+   ],
+   "originalMaxTaskPoints": 25,
+   "tasks": [
+    {
+     "id": "2019-maj-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear an anecdote about a college professor and life in general.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_19maj_fl.mp3",
+      "start": 620.55,
+      "end": 1228.32,
+      "clip": "hang/k_angol_19maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What did the college professor fill the jar with first? He filled it with {{gap}}",
+       "accept": [
+        "golf balls"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What did he put into the jar next? He put in a box of {{gap}}",
+       "key": "small stones.",
+       "keywords": [
+        [
+         "small",
+         "stones"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What did he pour into the jar after that? He poured in a box of {{gap}}",
+       "key": "sand.",
+       "keywords": [
+        [
+         "sand"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "What liquid did he use to fill the empty spaces left in the jar? He used {{gap}}",
+       "key": "beer.",
+       "keywords": [
+        [
+         "beer"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Name two things that the professor considered “important” in life. Your {{gap}} {{gap}}",
+       "key": "family, health, friends, your feeling of well- being. (Bármely két megoldás elfogadható.)",
+       "keywords": [
+        [
+         "family",
+         "health"
+        ],
+        [
+         "family",
+         "friends"
+        ],
+        [
+         "family",
+         "well-being"
+        ],
+        [
+         "family",
+         "well",
+         "being"
+        ],
+        [
+         "health",
+         "friends"
+        ],
+        [
+         "health",
+         "well-being"
+        ],
+        [
+         "health",
+         "well",
+         "being"
+        ],
+        [
+         "friends",
+         "well-being"
+        ],
+        [
+         "friends",
+         "well",
+         "being"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Name two things that the professor listed as “other things that matter in life”. Your {{gap}} {{gap}}",
+       "key": "job/work, house, achievements. (Bármely két megoldás elfogadható.)",
+       "keywords": [
+        [
+         "job",
+         "house"
+        ],
+        [
+         "job",
+         "achievements"
+        ],
+        [
+         "work",
+         "house"
+        ],
+        [
+         "work",
+         "achievements"
+        ],
+        [
+         "house",
+         "achievements"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "What did the professor mean by the “small stuff”? He meant {{gap}}",
+       "key": "everything else // all other things // everything that’s left.",
+       "keywords": [
+        [
+         "everything",
+         "else"
+        ],
+        [
+         "all",
+         "other",
+         "things"
+        ],
+        [
+         "everything",
+         "that’s",
+         "left"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "What happens if you spend all your energy on the “small stuff”? You will never have time for the {{gap}}",
+       "key": "things that are (really) important to you. // important things/stuff // things that matter.",
+       "keywords": [
+        [
+         "important",
+         "things"
+        ],
+        [
+         "important",
+         "stuff"
+        ],
+        [
+         "things",
+         "matter"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Name two pieces of advice that he gave to illustrate the things that are essential to happiness. You should {{gap}} {{gap}}",
+       "key": "spend time with your parents, play with your children/kids, enjoy the beauty of existence. (Bármely két megoldás elfogadható.)",
+       "keywords": [
+        [
+         "time",
+         "parents",
+         "play",
+         "children"
+        ],
+        [
+         "time",
+         "parents",
+         "play",
+         "kids"
+        ],
+        [
+         "time",
+         "parents",
+         "beauty",
+         "existence"
+        ],
+        [
+         "play",
+         "children",
+         "beauty",
+         "existence"
+        ],
+        [
+         "play",
+         "kids",
+         "beauty",
+         "existence"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "What does the last thing he poured into the jar represent in his analogy? That we should always have time for a(n) {{gap}}",
+       "key": "drink with a friend // drink with your friend/friends. (also acceptable: beer with a friend // beer with your friend/friends.)",
+       "keywords": [
+        [
+         "drink",
+         "friend"
+        ],
+        [
+         "drink",
+         "friends"
+        ],
+        [
+         "beer",
+         "friend"
+        ],
+        [
+         "beer",
+         "friends"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2019-maj-kozep-H3",
+     "number": 3,
+     "kind": "fix",
+     "layout": "stems",
+     "examType": "hibás szó javítása hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear a bizarre telephone conversation between a customer and a pizza restaurant operator.",
+      "Your task will be to find one word in each of the following sentences that is not correct in the context of the recording. First, cross it out, and then write the correct one on the line after the sentence. First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_19maj_fl.mp3",
+      "start": 1228.32,
+      "end": 1795.82,
+      "clip": "hang/k_angol_19maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "text": "The operator wants to know the man’s phone number.",
+       "example": true,
+       "fixes": [
+        {
+         "wrong": "phone",
+         "accept": [
+          "card"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 17,
+       "text": "Mr. Brandon is calling from his mobile phone number.",
+       "fixes": [
+        {
+         "wrong": "mobile",
+         "accept": [
+          "home"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 18,
+       "text": "The operator knows all his phone numbers, because they are connected to the Internet.",
+       "fixes": [
+        {
+         "wrong": "internet",
+         "accept": [
+          "system"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 19,
+       "text": "According to his medical records, Mr. Brandon’s blood pressure is too low.",
+       "fixes": [
+        {
+         "wrong": "low",
+         "accept": [
+          "high"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 20,
+       "text": "Last week, Mr. Brandon borrowed a certain book from the local Library.",
+       "fixes": [
+        {
+         "wrong": "local",
+         "accept": [
+          "National"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 21,
+       "text": "Mr. Brandon ordered family-size pizzas, because there are five people in his family.",
+       "fixes": [
+        {
+         "wrong": "five",
+         "accept": [
+          "seven"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 22,
+       "text": "The amount he owes doesn’t include the late payment charges on his bank card.",
+       "fixes": [
+        {
+         "wrong": "card",
+         "accept": [
+          "loan"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 23,
+       "text": "Mr. Brandon owns a car whose registration number is 7786.",
+       "fixes": [
+        {
+         "wrong": "car",
+         "accept": [
+          "motorcycle",
+          "motorbike"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 24,
+       "text": "The restaurant advertised that they would give three cans of soft drink with each order.",
+       "fixes": [
+        {
+         "wrong": "cans",
+         "accept": [
+          "bottles"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 25,
+       "text": "In July, Mr. Brandon had to pay a fine of ₤150 for using dirty language against a postman.",
+       "fixes": [
+        {
+         "wrong": "postman",
+         "accept": [
+          "policeman"
+         ]
+        }
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Ha a beírt szó helyes, akkor áthúzás nélkül is elfogadjuk a választ!)"
+     }
+    }
+   ]
+  }
+ ]
+}

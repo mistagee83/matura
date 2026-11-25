@@ -1,0 +1,1406 @@
+{
+ "formatVersion": 1,
+ "id": "2010-okt-emelt",
+ "year": 2010,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2010-10-21",
+ "code": "0804",
+ "sourceFiles": {
+  "paper": "2010. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_10okt_fl.pdf",
+  "key": "2010. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_10okt_ut.pdf",
+  "audio": "2010. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_10okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2010-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this article about a member of the British royal family and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "SUITS YOU, SIR?",
+     "body": [
+      "Prince Charles accused of betraying Savile Row’s bespoke for Jermyn Street’s made-to-measure",
+      "For decades he followed the tradition of his royal forefathers, dressing impeccably in £4,000 suits from Savile Row.",
+      "Now, however, Prince Charles has shocked the world of fine tailoring by turning his back on his distinctive bespoke outfits. Instead, he has become the first heir to the throne in modern times to buy made-to-measure alternatives − at less than half the price.",
+      "The move has prompted accusations that the Prince of Wales has let bespoke tailors − and himself − down by looking, in his mid-fifties, far less elegantly dressed.",
+      "Royal sources say that Prince Charles, 57, has recently bought several made-to- measure suits from Turnbull & Asser, who have had an order for his shirts since 1980.",
+      "It is thought his turning away from bespoke tailoring may have been influenced by his new wife, the Duchess of Cornwall, while others suspect his frugal private secretary, Sir Micheal Peat.",
+      "Officials close to the Prince, however, put the change down to “personal taste”. Bespoke is a term dating from the 17th century, when tailors held the full lengths of cloth on their premises. When a customer chose a length, it was said to have “been spoken for”. A tailor who makes a customer’s clothes individually is called “bespoke”. More than 20 measurements and figuration details are taken from a customer before his suit is cut. That is unlike “made-to-measure”, which simply uses a template pattern that is then adjusted, with less precision, to an individual’s measurements. Prince Charles’s new image has its fans as well as its critics. When Andre 3000, the hip-hop singer with the band OutKast, came to London to pick up an award from GQ magazine in 2004, he said: “Prince Charles is my number one British style icon.” The last word, however, should go to Richard Walker, the author of Savile Row: An Illustrated History: “The perfect suit is like the perfect wine − it does not exist, except in terms of individual taste.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "his secretary."
+      },
+      {
+       "key": "B",
+       "text": "matters."
+      },
+      {
+       "key": "C",
+       "text": "Savile Row."
+      },
+      {
+       "key": "D",
+       "text": "fine tailoring."
+      },
+      {
+       "key": "E",
+       "text": "measurements."
+      },
+      {
+       "key": "F",
+       "text": "his decision."
+      },
+      {
+       "key": "G",
+       "text": "fans."
+      },
+      {
+       "key": "H",
+       "text": "made to measure."
+      },
+      {
+       "key": "I",
+       "text": "bespoke tailors."
+      },
+      {
+       "key": "K",
+       "text": "suits."
+      },
+      {
+       "key": "L",
+       "text": "his new image."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Prince Charles no longer buys his clothes from",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Traditionally the British heir to the throne has his outfits made by",
+       "answer": "I"
+      },
+      {
+       "n": 2,
+       "stem": "Prince Charles now wears cheaper suits that are",
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "stem": "Many people criticise",
+       "answer": "F"
+      },
+      {
+       "n": 4,
+       "stem": "The Duchess of Cornwall may prefer",
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "stem": "The idea might have come from",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Bespoke is the traditional term used for",
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "stem": "Andre 3000 is among the Prince’s greatest",
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "stem": "Richard Walker thinks it is personal taste that",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "Read this article about a famous Italian writer. Some words have been removed from the text.",
+      "Your task is to fill the gaps (9-16) with the right items from the list (A-L). There are two more items than you need."
+     ],
+     "title": "FO DELIGHTS HIS AUDIENCE WITH BOYHOOD TALES",
+     "body": [
+      "The Nobel prize-winning writer Dario Fo told an audience at the Edinburgh international book festival yesterday of the early influences {{0}} as one of the wittiest and most distinctive literary voices.",
+      "An early highlight of the book festival, which opened at the weekend, the 79-year-old Fo entertained the sell-out crowd with tales from his boyhood, and attributed his skills as a wordsmith to {{9}}.",
+      "Fo, who won the Nobel prize for literature in 1997, {{10}}, and there are three productions of his seminal work Accidental Death of an Anarchist in Edinburgh this festival season.",
+      "Speaking through his biographer Joseph Farrell, Fo recalled his grandfather, {{11}}, who would travel from village to village selling vegetables from a horse- drawn cart that the young Fo was allowed to drive.",
+      "“I felt like {{12}},” said Fo. “I was only five or six and I had the whole of life in my hands. Even if I had been driving the carriage of the sun I could not have felt any better.”",
+      "His grandfather’s skills as a story-teller were supplemented by the stories Fo heard from other inhabitants of the villages around Lake Maggiore, in northern Italy, where he lived. “When I was a boy, unconsciously, spontaneously, I learned {{13}}.”",
+      "Fo also touched on his efforts to free himself from Mussolini’s army as a young man after being conscripted. For his first attempt, and as a talented artist as well as a writer, he {{14}} for himself and some of his colleagues. “I was a born forger,” he said.",
+      "Later, he escaped and spent 40 days hiding in an abandoned farmhouse, which Fo said was “{{15}}.”",
+      "The book festival event was based on Fo’s recently published fictionalised memoirs, My First Seven Years (Plus a Few More). Fo is to make {{16}} at the festival today with his wife, the actress Franca Rame, to discuss his involvement in, and love of, the theatre."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "falsified exit papers"
+      },
+      {
+       "key": "B",
+       "text": "a second appearance"
+      },
+      {
+       "key": "C",
+       "text": "that have shaped his career"
+      },
+      {
+       "key": "D",
+       "text": "an extraordinary hero"
+      },
+      {
+       "key": "E",
+       "text": "his level of achievement"
+      },
+      {
+       "key": "F",
+       "text": "an acclaimed storyteller"
+      },
+      {
+       "key": "G",
+       "text": "advised would-be writers"
+      },
+      {
+       "key": "H",
+       "text": "the art of telling ironic stories"
+      },
+      {
+       "key": "I",
+       "text": "an absolutely terrifying experience"
+      },
+      {
+       "key": "K",
+       "text": "remains the world’s most performed living playwright"
+      },
+      {
+       "key": "L",
+       "text": "the great story-telling traditions of his Italian upbringing"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "L"
+      },
+      {
+       "n": 10,
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "answer": "H"
+      },
+      {
+       "n": 14,
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "answer": "I"
+      },
+      {
+       "n": 16,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a new invention to make flying safer and then read the sentences following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to say if it is true or not. Write your answers in the white boxes next to the numbers (17-23) as in the example (0)."
+     ],
+     "title": "NEW AUTOPILOT WILL MAKE ANOTHER 9/11 IMPOSSIBLE",
+     "body": [
+      "A hijack-proof piloting system for airliners is being developed to prevent terrorists repeating the 9/11 outrages. The mechanism is designed to make it impossible to crash the aircraft into air or land targets - and enable the plane to be flown by remote control from the ground in the event of an emergency. Scientists at aircraft giant Boeing are testing the autopilot system which uses state-of-the-art computer and satellite technology. It will be activated by the pilot flicking a simple switch or by pressure sensors in the cockpit door that will respond to any excessive force as terrorists try to break into the flight deck. After it has been turned on, no one on board will be able to deactivate the system. Currently, all autopilots are manually switched on and off by the pilots.",
+      "The system will connect ground controllers and security services with the aircraft using radio waves. After it has been activated, the aircraft will be capable of remote digital control from the ground, enabling operators to fly it like a model plane, manoeuvring it vertically and laterally.",
+      "A threatened airliner could be flown to a secure airport, where it would touch down using existing landing aids known as 'autoland function'. After it had landed, the aircraft's built-in autobrake would bring the plane safely to a halt on the runway.",
+      "Boeing insiders say the new anti-hijack kit could be fitted to airliners all over the world within the next three years. The latest move to fight airline terrorists follows The Mail on Sunday's disclosure three weeks ago that scientists in Britain and Germany are developing a passenger-monitoring device. This will use tiny cameras linked to computers to record every facial expression or suspicious movement made on board flights in order to identify potential terrorists.",
+      "A Boeing spokesman said: \"We are constantly studying ways we can improve the safety, security and efficiency of the world's airline fleet. There is a need in the industry for a technique that conclusively prevents unauthorised persons gaining access to the controls and threatening the safety of passengers. Once this system is initiated, no one on board is capable of controlling the flight, making it useless for anyone to threaten violence in order to gain control.\""
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The aim of the new autopilot is to make hijacking an airplane impossible.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "New satellites will be put into orbit as part of the project.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Only the pilot will be able to turn on this new security system.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Ground controllers will be able to change the course of the plane.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "'Autoland' is another new part of the system.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "They will start installing the anti-hijack kit in Europe.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "The passenger monitoring device will record passengers as they board their flights.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "At Boeing they still have serious reservations about the new technology.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this article on anti-smoking regulations in Britain. Some parts of sentences have been removed from the text.",
+      "Your task is to fill the gaps from the list (A-I). Write the appropriate letters in the white boxes next to the numbers (24-29) as in the example (0).",
+      "Remember that there are two more letters than you need."
+     ],
+     "title": "CHURCHES TOLD TO PUT UP 'NO SMOKING' SIGNS",
+     "body": [
+      "Health chiefs are spending thousands of pounds ordering churches to put up signs banning smoking. The decision has left religious leaders puzzled {{0}}.",
+      "A smoking ban in all enclosed public places comes into effect in England in July and in Wales from April but Church figures assumed that {{24}} there would be no need for signs. A spokesman for Church House, which governs 16,000 churches in England, said: \"We don't see that there is a problem of smoking in churches. It's not part of the culture to smoke in them. There are also concerns {{25}}.\"",
+      "One clergyman reported that the Welsh Assembly had sent him identical information packs, {{26}}, for each of the five churches where he is rector in Anglesey. The Rev Neil Fairlamb said: \"I can't imagine anyone smoking in a church. It happened once at a wedding and I made a subtle remark and the man put out the cigarette. In Wales everything is bilingual {{27}}. The cost must be huge. God has a sense of humour, though, {{28}}.\"",
+      "A spokesman for the Welsh Assembly said: \"Churches and other places of worship are also subject to the ban and we have provided the same literature to all affected enclosed public places.\"",
+      "The Department of Health said: \"Churches will be included in the ban {{29}}. Signs will be displayed at all entrances.\""
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "gave smokers useful information"
+      },
+      {
+       "key": "B",
+       "text": "because the pack was sent on February 21 – Ash Wednesday"
+      },
+      {
+       "key": "C",
+       "text": "because, they say, no one smokes in places of worship anyway"
+      },
+      {
+       "key": "D",
+       "text": "included information on the ban"
+      },
+      {
+       "key": "E",
+       "text": "although they would be covered by the legislation"
+      },
+      {
+       "key": "F",
+       "text": "that signs could be intrusive and deface some churches"
+      },
+      {
+       "key": "G",
+       "text": "as they are enclosed public spaces"
+      },
+      {
+       "key": "H",
+       "text": "so the notices have to be printed twice"
+      },
+      {
+       "key": "I",
+       "text": "including a full-colour, 24-page brochure"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "I"
+      },
+      {
+       "n": 27,
+       "answer": "H"
+      },
+      {
+       "n": 28,
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "answer": "G"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 42,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 11,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 16,
+    "24": 17,
+    "25": 18,
+    "26": 19,
+    "27": 19,
+    "28": 20,
+    "29": 21,
+    "30": 21,
+    "31": 22,
+    "32": 23,
+    "33": 24,
+    "34": 24,
+    "35": 25,
+    "36": 26,
+    "37": 26,
+    "38": 27,
+    "39": 28,
+    "40": 29,
+    "41": 29,
+    "42": 30
+   },
+   "tasks": [
+    {
+     "id": "2010-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a library book returned after 47 years. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "BOOK RETURNED AFTER 47 YEARS",
+     "body": [
+      "Robert Nuranen handed the local librarian a book he’d {{0}} out for a ninth-grade assignment — {{1}} with a check for 47 years’ worth of late fees. Nuranen said his mother had {{2}} the copy of “Prince of Egypt” while cleaning the house. The family came {{3}} it every so often, only to set it aside again. He found it last week while looking {{4}} a box in the attic.",
+      "“I figured I’d better get it in before we waited {{5}} 10 years,” he said after {{6}} it in last Friday with the $171.32 check. “Fifty- seven years would be embarrassing.”",
+      "The book, with its last due date {{7}} June 2, 1960, was part of young Nuranen’s {{8}} with Egypt. He went on to visit that country and 54 others, but he never {{9}} finish the book. Nuranen now lives in Los Angeles, where he teaches seventh-grade social studies and language arts. The library {{10}} long ago lost any record of the book, librarian Sue Zubiena said. “I’m going to use it as an example,” she said. “It’s never too late to return your books.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACROSS"
+      },
+      {
+       "key": "B",
+       "text": "ALONG"
+      },
+      {
+       "key": "C",
+       "text": "ANOTHER"
+      },
+      {
+       "key": "D",
+       "text": "CHECKED"
+      },
+      {
+       "key": "E",
+       "text": "DESTINATION"
+      },
+      {
+       "key": "F",
+       "text": "DID"
+      },
+      {
+       "key": "G",
+       "text": "FASCINATION"
+      },
+      {
+       "key": "H",
+       "text": "HAD"
+      },
+      {
+       "key": "I",
+       "text": "MISPLACED"
+      },
+      {
+       "key": "K",
+       "text": "RETURNING"
+      },
+      {
+       "key": "L",
+       "text": "STAMPED"
+      },
+      {
+       "key": "M",
+       "text": "THROUGH"
+      },
+      {
+       "key": "N",
+       "text": "TURNING"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "D"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "answer": "N"
+      },
+      {
+       "n": 7,
+       "answer": "L"
+      },
+      {
+       "n": 8,
+       "answer": "G"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the Tower of London. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (11-20).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "UNESCO: TOWER OF LONDON THREATENED",
+     "body": [
+      "The Tower of London, a 900-year-old fortress that is one of Britain's top tourist {{0}}, will be added to the list of endangered world heritage sites unless the {{11}} from encroaching skyscrapers is resolved, the UN's cultural body said yesterday.",
+      "Local planners had not done enough to {{12}} that views to and from the Tower would not be obstructed by {{13}} development, including a 310- meter-high \"Shard of Glass\" - Britain's tallest building, due to be {{14}} in 2010, according to a UNESCO report.",
+      "\"It's a question of visual integrity and that's a problem in all major cities,\" World Heritage Centre spokeswoman Gina Doubleday said.",
+      "Though being listed as an endangered heritage site can help secure additional {{15}} and support, citing the Tower would be an {{16}} for Britain. Currently the only site in the {{17}} world listed as endangered is the Everglades National Park in the United States, which made the list in 1993.",
+      "But the government's Department of Culture, Media, and Sport dismissed the concerns, expressing their {{18}} that the Tower would not be placed on the list.",
+      "\"In this country we have a development control commission that demands very extensive {{19}} on public matters,\" department spokesman Toby Sargent said. \"The role of the Tower and its place was properly taken into {{20}}.\"",
+      "The Tower, built by William the Conqueror in the 11th century, was made a World Heritage site in 1988, one of 830 such sites throughout the world."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "attract",
+       "example": true,
+       "accept": [
+        "attractions"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "threat",
+       "accept": [
+        "threat"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "sure",
+       "accept": [
+        "ensure",
+        "insure"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "surround",
+       "accept": [
+        "surrounding"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "complete",
+       "accept": [
+        "completed",
+        "complete"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "fund",
+       "accept": [
+        "funding",
+        "funds"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "embarrass",
+       "accept": [
+        "embarrassment"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "develop",
+       "accept": [
+        "developed"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "confident",
+       "accept": [
+        "confidence"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "consult",
+       "accept": [
+        "consultation",
+        "consultations"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "consider",
+       "accept": [
+        "consideration"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the world’s smallest horse. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (21-30) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "MEET THUMBELINA, THE WORLD'S SMALLEST HORSE",
+     "body": [
+      "Standing just 43cm tall, she is never going {{0}} be a champion show-jumper. In fact, the tiny mare is {{21}} small she would struggle to leap over a bucket. But such things are {{22}} little concern for tiny Thumbelina, who has just been officially recognised {{23}} the world's smallest horse. The five-year-old received the title from the Guinness Book of Records after her astonished owners realised she {{24}} never going to grow any bigger.",
+      "She was born on a farm in America belonging to a couple who specialise {{25}} breeding miniature horses. When Thumbelina was born, it was immediately clear she {{26}} never grow to the usual size. At birth she weighed 3.6kg - the weight of many new-born babies - and eventually she grew to a mere 27kg.",
+      "'When she was young she found the dog kennels and decided she wanted to sleep with the dogs, rather {{27}} with bigger horses. She spends all her time playing with the spaniels', said Michael Goessling, {{28}} parents Kay and Paul bred the miniature horse.",
+      "Mr Goessling insists they will never sell her, no {{29}} what price is offered. 'I think my parents would sell me before they part with Thumbelina. She has that special \"Wow\" factor, {{30}} you only get when you physically see how small she really is', Michael added."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "so"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "was",
+        "is"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "in"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "would"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "whose"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "matter"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "which"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about a new project in Thailand. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "DAILY NAP TIME FOR CIVIL SERVANTS",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A Bangkok municipal office which has launched a new program to",
+       "answer": "which"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "increase productivity: lights go out just past noon and civil servants",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "are invited not to take an afternoon nap.",
+       "answer": "not"
+      },
+      {
+       "n": 32,
+       "text": "Seeking to infuse city workers with a bit more the energy, a",
+       "answer": "the"
+      },
+      {
+       "n": 33,
+       "text": "district office in central Bangkok has been set up a lunchtime ‘nap",
+       "answer": "been"
+      },
+      {
+       "n": 34,
+       "text": "room’ with soft music, sweet-smelling flowers and strict rules that",
+       "answer": "that"
+      },
+      {
+       "n": 35,
+       "text": "barring mobile phones and talking, said Surakiet Limcharoen, the",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "district's top official, who started the program. \"I've ever been taking",
+       "answer": "ever"
+      },
+      {
+       "n": 37,
+       "text": "naps at lunchtime for a long time, and had decided to introduce the",
+       "answer": "had"
+      },
+      {
+       "n": 38,
+       "text": "project to my every staff in November,\" he said, noting many use",
+       "answer": "every"
+      },
+      {
+       "n": 39,
+       "text": "the naps to recharge their batteries ahead of evening shifts. Most of",
+       "answer": "most"
+      },
+      {
+       "n": 40,
+       "text": "200 employees at the municipal office, there are about 20 regular",
+       "answer": null
+      },
+      {
+       "n": 41,
+       "text": "‘nappers’ who have reported feeling more ‘fresher and brighter’",
+       "answer": "more"
+      },
+      {
+       "n": 42,
+       "text": "after a midday snooze. When they aren't but sleeping, the civil",
+       "answer": "but"
+      }
+     ],
+     "outro": "servants handle all municipal matters for the district."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2010-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you are going to hear some information about a gorgonopsid fossil found in Africa.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter into the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_10okt_fl.mp3",
+      "start": 0,
+      "end": 658.35,
+      "clip": "hang/e_angol_10okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Palaeontologists from two institutions found a gorgonopsid.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "The gorgonopsid was a plant eating animal.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The gorgonopsid died out due to a climate change.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "Roger Smith found a bone when a rock was overturned.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "Only a small part of the skeleton was found.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "More gorgon heads have been found than torsos.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Gorgons lived before dinosaurs.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "Gorgons hunted in groups.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "Their heads looked somewhat like a lion’s head except for their eyes.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Mythical gorgons looked very ugly.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The ape-man was found in the same region as the gorgon.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an interview with a Canadian student who is in Hungary on an exchange programme.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_10okt_fl.mp3",
+      "start": 658.35,
+      "end": 1288.42,
+      "clip": "hang/e_angol_10okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Laura …",
+       "options": [
+        {
+         "key": "A",
+         "text": "has been in Hungary for about six weeks."
+        },
+        {
+         "key": "B",
+         "text": "likes being here."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Laura thinks that greetings are more … in Hungary than in Canada.",
+       "options": [
+        {
+         "key": "A",
+         "text": "affectionate"
+        },
+        {
+         "key": "B",
+         "text": "'physical'"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Canadian people do not normally kiss each other …",
+       "options": [
+        {
+         "key": "A",
+         "text": "when they meet somebody for the first time."
+        },
+        {
+         "key": "B",
+         "text": "every time they meet their friends."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "According to Laura, people do not usually share a house with other people in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Hungary."
+        },
+        {
+         "key": "B",
+         "text": "Canada."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Laura thinks that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "houses are somewhat overheated in Hungary."
+        },
+        {
+         "key": "B",
+         "text": "buildings are very well heated in Canada."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Laura …",
+       "options": [
+        {
+         "key": "A",
+         "text": "says Canadians never hang out their clothes to dry."
+        },
+        {
+         "key": "B",
+         "text": "doesn't like to have her clothes hang-dried."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "As a Canadian, Laura is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "very proud of their national cuisine."
+        },
+        {
+         "key": "B",
+         "text": "quite fond of Hungarian cuisine."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Laura …",
+       "options": [
+        {
+         "key": "A",
+         "text": "likes it that Hungarian food is spicy."
+        },
+        {
+         "key": "B",
+         "text": "thinks that Hungarians use too much salt."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Laura thinks that Hungarian host mums are far too …",
+       "options": [
+        {
+         "key": "A",
+         "text": "concerned about their host kids' health."
+        },
+        {
+         "key": "B",
+         "text": "conservative about fashion and clothing."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you are going to hear some information about Naomi Campbell, the famous fashion model.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_10okt_fl.mp3",
+      "start": 1288.42,
+      "end": 1795.77,
+      "clip": "hang/e_angol_10okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Who did Naomi Campbell hit? {{gap}}",
+       "accept": [
+        "Her housekeeper"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Where did the assault happen? {{gap}}",
+       "key": "In New York. // In her / Naomi's / Naomi Campbell's / (New York) apartment / flat / home.",
+       "keywords": [
+        [
+         "new",
+         "york"
+        ],
+        [
+         "apartment"
+        ],
+        [
+         "flat"
+        ],
+        [
+         "home"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Who reported the assault to the police? {{gap}}",
+       "key": "(A) hospital.",
+       "keywords": [
+        [
+         "hospital"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "How much time might she spend in prison? {{gap}}",
+       "key": "(Up to) a year / 1 year.",
+       "keywords": [
+        [
+         "year"
+        ],
+        [
+         "1",
+         "year"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Where were the photographers, reporters and film crews waiting for her? {{gap}}",
+       "key": "(At / Outside) a (Manhattan) police station.",
+       "keywords": [
+        [
+         "police",
+         "station"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "What exactly were Naomi Campbell and Russell Crowe charged with? {{gap}}",
+       "key": "Second / 2nd degree assault.",
+       "keywords": [
+        [
+         "second",
+         "degree",
+         "assault"
+        ],
+        [
+         "2nd",
+         "degree",
+         "assault"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Who did Russell Crowe attack? {{gap}}",
+       "key": "(A) hotel employee.",
+       "keywords": [
+        [
+         "hotel",
+         "employee"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Who is J.R. Johnson? {{gap}}",
+       "key": "Naomi('s) (Campbell's) / Her spokesman.",
+       "keywords": [
+        [
+         "spokesman"
+        ]
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "What did Naomi Campbell do with the housekeeper earlier that morning? {{gap}}",
+       "key": "(She) fired / dismissed / sacked her.",
+       "keywords": [
+        [
+         "fired"
+        ],
+        [
+         "dismissed"
+        ],
+        [
+         "sacked"
+        ]
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "What did she throw at an administrative assistant? {{gap}}",
+       "key": "(A) (tele)phone.",
+       "keywords": [
+        [
+         "phone"
+        ],
+        [
+         "telephone"
+        ]
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "What did Naomi Campbell and Millicent Burton allegedly quarrel about? {{gap}}",
+       "key": "(About) the packing of a suitcase. // Packing a suitcase.",
+       "keywords": [
+        [
+         "packing",
+         "suitcase"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

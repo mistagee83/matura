@@ -1,0 +1,1401 @@
+{
+ "formatVersion": 1,
+ "id": "2017-maj-emelt",
+ "year": 2017,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2017-05-11",
+ "code": "1712",
+ "sourceFiles": {
+  "paper": "2017 - Emeltszintű májusi/e_angol_17maj_fl.pdf",
+  "key": "2017 - Emeltszintű májusi/e_angol_17maj_ut.pdf",
+  "audio": "2017 - Emeltszintű májusi/e_angol_17maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2017-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (1-9) from the list (A-N) below as shown in the example (0).",
+      "Remember that there are three extra phrases that you do not need."
+     ],
+     "title": "WHAT'S IN THE QUEEN'S HANDBAG?",
+     "body": [
+      "The British monarch has an extraordinary collection of more than 150 bags, {{0}}. She does not carry money, credit cards, car keys or a passport, so what does she put in them? The answers are in many cases quite surprising!",
+      "The first thing that the Queen tends to pull out at meals is an S-shaped meat hook. She places it on the table's edge and hangs up the bag. It means that {{1}} and the Queen can open it without any fuss.",
+      "Queen Elizabeth has always been superstitious, and carries with her at all times an amazing array of good luck charms, {{2}}. They are mainly on an animal theme: horses, miniature dogs and tiny brass saddles and whips. She also carries photographs of her family, and {{3}} ̶ a factor contributing to the size of the bags.",
+      "She is never without a small camera and has frequently astonished world statesmen by {{4}} and asking them to pose for the family album. Her Majesty hates wasting time or being bored, so she carries two or three crosswords, {{5}} by her staff, with her at all times. Add in a mirror, diary and address book, sun glasses, reading glasses and, believe it or not, a pen knife, and it can be seen that {{6}}.",
+      "Why does the Queen carry her large handbag everywhere, even to the breakfast table? Dr Dennis Friedman, a psychologist, thinks that despite being one of the most wealthy and best- loved women in the world she still clings to her handbag for security and comfort. The only time {{7}} is at her Scottish Castle Balmoral, where she feels most secure, happy and relaxed.",
+      "Another royal watcher believes the Queen's handbag serves a much more practical purpose. At lunches and dinner parties the guests are told beforehand that when the Queen places her bag on the table, {{8}}. They are to ask no further questions and must prepare for her to leave.",
+      "On walkabouts the Queen is determined never to give one person more than thirty seconds of conversation. If she finds that {{9}}, she drops her bag to the side in a certain way. A lady in waiting will then appear and take up the conversation, so that the Queen can move on. It is a very polite and civilised way of doing things, and it works.",
+      "(Royal Life)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "no ordinary bag will do"
+      },
+      {
+       "key": "B",
+       "text": "watch out for these signals"
+      },
+      {
+       "key": "C",
+       "text": "many of which are more than 50 years old"
+      },
+      {
+       "key": "D",
+       "text": "one person is taking too much time"
+      },
+      {
+       "key": "E",
+       "text": "using her bag to indicate her wishes"
+      },
+      {
+       "key": "F",
+       "text": "suddenly producing one from the bag"
+      },
+      {
+       "key": "G",
+       "text": "it is at easily reached waist level"
+      },
+      {
+       "key": "H",
+       "text": "normally cut out of top British newspapers"
+      },
+      {
+       "key": "I",
+       "text": "given to her by her children and her grandchildren"
+      },
+      {
+       "key": "K",
+       "text": "surrounded by memories of her happy childhood"
+      },
+      {
+       "key": "L",
+       "text": "doggie choc drops for her beloved pets"
+      },
+      {
+       "key": "M",
+       "text": "she abandons her bag"
+      },
+      {
+       "key": "N",
+       "text": "the event is at a close"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "answer": "L"
+      },
+      {
+       "n": 4,
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "M"
+      },
+      {
+       "n": 8,
+       "answer": "N"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read this text about how newspaper articles are often structured and then read the half sentences following it.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember there are three extra letters you do not need."
+     ],
+     "title": "SECRETS OF THE PYRAMID",
+     "body": [
+      "The inverted pyramid is a writing technique used in news stories. It's called a pyramid writing style but it's easier to think of it as an upside down triangle with the point at the bottom and the flat edge at the top.",
+      "With news or short non-fiction writing, the flat edge is your start and the point is your end. With an inverted pyramid, you start with your entire news story in the first paragraph. If someone only reads that, they must still get the whole story. For an example, look at any newspaper and especially at breaking news stories. The first paragraph gives you all the essential facts, and each successive paragraph is less and less important. Pyramid writing was allegedly invented to solve a specific technological problem that faced newspapers in their earliest days. Writers would type their stories on paper and send them via the editor to the composing team. Designers there would use scissors to trim the paper and then assemble all the stories on one larger piece. This was genuine cutting and pasting and it is where we get that term from. Every writer would have been given a length to write to and probably every writer exceeded it. But even if they all wrote exactly to the length they were given, a late piece of news would break that was more urgent and had to go on the front page. Then the other stories would hang over the bottom of the page and there was no option: the composing designers had to physically chop the end off. This always happened at the last minute, it was always up against print deadlines, so there was never time to have great editorial debates about where exactly to cut. So we got the pyramid idea. If you write in this manner, then a designer can slap your copy on the page and, without even reading it, know where to cut. The ideal is to keep the complete story but they know they can simply chop off the last paragraph. And then the one before that. And the one before that. If they end up with just a headline and one single paragraph, the story still works. It was a straight technical requirement but the result is the core style of every printed newspaper you've ever read.",
+      "(UK Writing Magazine)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "a couple of years."
+      },
+      {
+       "key": "B",
+       "text": "capital letters."
+      },
+      {
+       "key": "C",
+       "text": "not about pyramids."
+      },
+      {
+       "key": "D",
+       "text": "a newspaper."
+      },
+      {
+       "key": "E",
+       "text": "the given length."
+      },
+      {
+       "key": "F",
+       "text": "some basic questions."
+      },
+      {
+       "key": "G",
+       "text": "an inverted triangle."
+      },
+      {
+       "key": "H",
+       "text": "a practical problem."
+      },
+      {
+       "key": "I",
+       "text": "the first part."
+      },
+      {
+       "key": "K",
+       "text": "a long time."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In spite of the headline the article is",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "The structure of a news story can be likened to",
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "stem": "In news stories key information is given in",
+       "answer": "I"
+      },
+      {
+       "n": 12,
+       "stem": "The technique was invented to deal with",
+       "answer": "H"
+      },
+      {
+       "n": 13,
+       "stem": "The computer term \"cut and paste\" goes back",
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "stem": "Articles sent in rarely kept to",
+       "answer": "E"
+      },
+      {
+       "n": 15,
+       "stem": "Scissors were often applied when putting together",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a new invention and then read the statements (16-22) following it.",
+      "Your task is to decide whether the statements are true or false according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "SELF-CLEAN COATING COULD SPELL THE END OF WASHDAYS",
+     "body": [
+      "Cars that never need washing, clothes that repel stains and windows that clean themselves are just three potential applications for a revolutionary new \"paint\" that never gets dirty, scientists have said.",
+      "The self-cleaning coating can be applied to soft materials such as cloth and paper as well as hard surfaces made of glass or steel. It keeps on repelling dirt even after being rubbed with sandpaper or scratched with a knife.",
+      "Studies show that surfaces that have been coated with the titanium-dioxide paint become super-repellent to water and oil, with liquid forming spheres that simply roll away, carrying dust and dirt with them.",
+      "Clothing soaked in the water-repellent liquid effectively becomes waterproof and tests have shown that inky stains can simply be shaken off the fabrics.",
+      "\"Being waterproof allows materials to self-clean as water forms ball-shaped droplets that roll over the surface, acting like miniature vacuum-cleaners picking up dirt, viruses and bacteria along the way,\" said Yao Lu, a member of the research team at University College London.",
+      "Details of the self-cleaning coating were published last night in the journal Science by a team led by Professor Ivan Parkin, head of chemistry at UCL. He has specialised in self-cleaning technology based on surfaces that are super-hydrophobic ̶ highly repellent to water. \"It makes surfaces so super-hydrophobic that it causes water to form marble-shaped droplets that roll away,\" Professor Parkin wrote.",
+      "The hydrophobic tendency of the titanium-dioxide paint is so strong that when the bottoms of toy boats were coated with it they floated higher in the water. If the same coating could be applied to the hulls of full-size ships they would need between 10 and 15 per cent less fuel, Professor Parkin said.",
+      "(The Independent)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The new \"paint\" is already widely used in the car industry.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "The new coating can be applied to a range of materials.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Rubbing or scraping the surface will remove the paint's special properties.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Water runs off these surfaces, leaving them clean.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Yao Lu said tiny vacuum cleaners were used in the research.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "A large team at UCL has been involved in the research.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Professor Parkin talked to journalists about titanium-dioxide at UCL.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "The professor listed a number of potential industrial uses for the paint.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about an interesting English tradition and then read the gapped sentences.",
+      "Your task is to complete the sentences by filling the gaps (23-28) with one word only giving relevant information from the text.",
+      "Write your answers on the lines."
+     ],
+     "title": "EGG THROWING CONTEST CLAIMS CENTURIES-OLD TRADITION",
+     "body": [
+      "\"Caution!!!!!! Flying Eggs!\" warns a sign on a field in the English village of Swaton, host on Sunday to the annual World Egg Throwing Championships.",
+      "Drawing hundreds of competitors and cheering spectators, it's a messy game claiming a 700-year history and a popularity that is illustrated by “egg-streme” puns.",
+      "Teams of two line up on the grass to try to throw and catch eggs without breaking the shell. Starting at 10 meters (11 yards) apart, the \"tosser\" throws an egg to a teammate, the \"catcher\". After each successful catch they spread further apart.",
+      "The winning team is the one that completes a catch over the furthest distance, with no breakage. This year it was Richard Gutsell and Michael Speakman.",
+      "\"It was tough ... We had a downward wind and that helped an awful lot, but it's mainly thanks to him because if you can't throw it that far you can't catch it,\" Speakman said of thrower Gutsell.",
+      "The World Egg Throwing Federation, set up in 2004, believes the game originated around 1322 when an abbot in the Lincolnshire village, the only person who had chickens, encouraged church attendance by giving locals a reward of one egg.",
+      "When the river flooded and prevented parishioners from attending Mass, monks are said to have thrown the eggs over to them, according to the Federation.",
+      "There are several disciplines at the contest, such as Egg Throwing, Russian Egg Roulette, Egg Static Relay, Egg Catapult and Egg Target Throwing.",
+      "In Russian Egg Roulette, which is a great favourite with spectators, two players sit facing each other, taking it in turn to pick from six eggs, one of which is raw, and smash them on their foreheads. Whoever avoids the uncooked one is declared winner.",
+      "\"At first people don't really know what to make of it ... but as they take part, listen in and see people's reactions they really buy in,\" event compere John Deptford said.",
+      "(reuters.com)",
+      "The World Egg Throwing Championships are held every {{0}}.",
+      "A number of funny plays on {{23}} are associated with this widely known contest.",
+      "As the competition progresses, the {{24}} between the teammates increases.",
+      "Winning the championship depends on only {{25}} basic criteria.",
+      "One of this year’s winners conceded that it was the {{26}} in the pair who was mainly responsible for their success.",
+      "It all started in the Middle Ages when people in the village received a(n) {{27}} in exchange for going to church.",
+      "In Russian Egg Roulette the loser is the person who picks the {{28}} egg."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "year"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "words"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "distance",
+        "gap",
+        "space"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "two"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "thrower",
+        "tosser",
+        "other"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "egg"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "raw",
+        "uncooked"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2017-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an exciting discovery. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "‘ARCHAEOLOGY ON STEROIDS’",
+     "body": [
+      "Archaeologists have discovered the {{0}} of a massive stone monument buried under more than one metre of earth only two miles from Stonehenge.",
+      "The {{1}} arrangement of up to 90 huge standing stones formed part of a C- shaped Neolithic arena that bordered a dry valley and faced directly towards the river Avon. The {{2}} used ground-penetrating radar to image about 30 intact stones measuring up to 4.5m tall. The fragments of 60 more buried stones reveal the {{3}} size of the monument.",
+      "“What we are starting to see is the largest {{4}} stone monument that has ever been discovered in Britain and {{5}} in Europe. This is archaeology on steroids,” said Vince Gaffney, an archaeologist at Bradford University, who leads the Stonehenge Landscape project.",
+      "The stones are thought to have been put into position more than 4,500 years ago to {{6}} a line around the southern edge of a natural depression. “We presume it to be a {{7}} monument, a ritual arena of some sort,” said Gaffney, whose team has mapped the ground and subsurface features around Stonehenge with state-of-the-art {{8}}. He will describe the latest findings from the site on Monday at the British Science festival in Bradford.",
+      "(http://www.theguardian.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "remain",
+       "example": true,
+       "accept": [
+        "remains"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "hide",
+       "accept": [
+        "hidden"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "research",
+       "accept": [
+        "researchers",
+        "research"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "ordinary",
+       "accept": [
+        "extraordinary"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "survive",
+       "accept": [
+        "surviving"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "possible",
+       "accept": [
+        "possibly"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "form",
+       "accept": [
+        "form"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "religion",
+       "accept": [
+        "religious"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "equip",
+       "accept": [
+        "equipment"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a newly revealed interest of the Queen. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (9-17) in the text."
+     ],
+     "title": "LOCH NESS MONSTER WAS NEARLY NAMED AFTER THE QUEEN",
+     "body": [
+      "The Loch Ness Monster could have been named after the Queen if it was ever found, amazing new documents {{0}}. A proposal to get ‘Nessie’ named after Her Majesty was sent to Buckingham Palace in the 1960s when a scientist discovered the Queen {{9}} with the legend.",
+      "Recently discovered papers show that Sir Peter Scott, the first person {{10}} an investigation into the existence of the mythical Scottish Highlands creature, asked the Queen {{11}} to have the monster named ‘Elizabeth Nessiae’ if it was ever eventually found. His {{12}} came after he found out Her Royal Highness was “very interested” in the existence of the prehistoric animal, The Independent reports.",
+      "Martin Charteris, who was the Queen’s private secretary {{13}}, said in a reply to Sir Peter’s letter that there would have to be “absolutely indisputable evidence” of its existence before it was named after the monarch. He said: “It {{14}} very regrettable to connect Her Majesty in any way with something which ultimately turned out to be a hoax. {{15}} the animal does prove to exist, I am not at all sure that it will be generally very {{16}} to name it after Her Majesty {{17}} it has for so many years been known as ‘The Monster’.”",
+      "(http://www.mirror.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "are revealing"
+        },
+        {
+         "key": "B",
+         "text": "were revealed"
+        },
+        {
+         "key": "C",
+         "text": "reveal"
+        },
+        {
+         "key": "D",
+         "text": "has revealed"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "fascinated"
+        },
+        {
+         "key": "B",
+         "text": "was fascinated"
+        },
+        {
+         "key": "C",
+         "text": "was fascinating"
+        },
+        {
+         "key": "D",
+         "text": "has been fascinated"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "launched"
+        },
+        {
+         "key": "B",
+         "text": "to be launched"
+        },
+        {
+         "key": "C",
+         "text": "has launched"
+        },
+        {
+         "key": "D",
+         "text": "to launch"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "if she would agree"
+        },
+        {
+         "key": "B",
+         "text": "that she agreed"
+        },
+        {
+         "key": "C",
+         "text": "that she had agreed"
+        },
+        {
+         "key": "D",
+         "text": "if she will agree"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "recognition"
+        },
+        {
+         "key": "B",
+         "text": "response"
+        },
+        {
+         "key": "C",
+         "text": "requirement"
+        },
+        {
+         "key": "D",
+         "text": "request"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "at the time"
+        },
+        {
+         "key": "B",
+         "text": "at the same time"
+        },
+        {
+         "key": "C",
+         "text": "in the meantime"
+        },
+        {
+         "key": "D",
+         "text": "at all times"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "had to be"
+        },
+        {
+         "key": "B",
+         "text": "must be"
+        },
+        {
+         "key": "C",
+         "text": "would be"
+        },
+        {
+         "key": "D",
+         "text": "is to be"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "After all"
+        },
+        {
+         "key": "B",
+         "text": "Even if"
+        },
+        {
+         "key": "C",
+         "text": "Although"
+        },
+        {
+         "key": "D",
+         "text": "Regardless"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "improper"
+        },
+        {
+         "key": "B",
+         "text": "fantastic"
+        },
+        {
+         "key": "C",
+         "text": "sympathetic"
+        },
+        {
+         "key": "D",
+         "text": "appropriate"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "since"
+        },
+        {
+         "key": "B",
+         "text": "so"
+        },
+        {
+         "key": "C",
+         "text": "yet"
+        },
+        {
+         "key": "D",
+         "text": "unless"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about the danger of selfies. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-24) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SELFIE MADNESS: TOO MANY DYING TO GET THE PICTURE",
+     "body": [
+      "The rise of selfie photography in some of the world’s most beautiful and dangerous places has resulted {{0}} a string of gruesome deaths worldwide.",
+      "The act of taking a picture of oneself with a mobile phone, placing the subject centre-stage, has exploded in popularity in recent years, with everyone {{18}} Britain’s Queen Elizabeth to President Barack Obama joining in.",
+      "But the selfie has also inspired an epidemic of risk taking and offensive public behaviour, pushing the boundaries of safety and decency, whether by dangling from a skyscraper {{19}} by posing with explosives.",
+      "Several governments have now begun treating the selfie {{20}} a serious threat to public safety, leading them to launch public education campaigns {{21}} to those against smoking and binge drinking.",
+      "Dozens of selfie-related deaths and injuries in early 2015 led Russia’s Interior Ministry to launch a campaign warning mobile phone snappers about the danger of, {{22}} other things, posing for a selfie with a lion.",
+      "“A cool selfie could cost you your life,” reads a poster from the campaign, {{23}} includes safety videos and information booklets.",
+      "The European Union has proposed a law to criminalise social media posts containing pictures of landmarks {{24}} as the Eiffel Tower in Paris or Rome’s Trevi Fountain.",
+      "(http://in.reuters.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "in"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "or"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "as",
+        "like"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "similar",
+        "comparable",
+        "corresponding",
+        "linked",
+        "connected",
+        "related"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "among",
+        "amongst"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "such"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about an unusual café. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE REAL JUNK FOOD PROJECT",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A “junk food” café, which serves on meals entirely from leftovers,",
+       "answer": "on"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "has been set up by two women who are fed up with waste.",
+       "answer": null
+      },
+      {
+       "n": 25,
+       "text": "Gaby Holmes and Natalie Crean, both of 23, are the driving",
+       "answer": "of"
+      },
+      {
+       "n": 26,
+       "text": "force well behind The Real Junk Food Café, which has opened in",
+       "answer": "well"
+      },
+      {
+       "n": 27,
+       "text": "Liverpool. They say it is shameful that just 35% of food ends up in",
+       "answer": "just"
+      },
+      {
+       "n": 28,
+       "text": "the bin, at a time when no food banks are crying out for donations.",
+       "answer": "no"
+      },
+      {
+       "n": 29,
+       "text": "Waste food supplies are donated by greengrocers, caterers",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "and small supermarkets. The two women decide it what they will",
+       "answer": "it"
+      },
+      {
+       "n": 31,
+       "text": "cook on the basis out of what produce they’ve been given. People",
+       "answer": "out"
+      },
+      {
+       "n": 32,
+       "text": "pay what they can for the food. The social concept café also",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "accepts creative donations instead of cash in stock exchange for",
+       "answer": "stock"
+      },
+      {
+       "n": 34,
+       "text": "food. Gaby said: “It’s absurd so that millions of people are starving",
+       "answer": "so"
+      },
+      {
+       "n": 35,
+       "text": "and millions of food items likely go to the bin every single day.”",
+       "answer": "likely"
+      }
+     ],
+     "outro": "(http://www.mirror.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 21,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2017-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear some little-known facts about Charles Darwin, the famous English naturalist and geologist.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_17maj_fl.mp3",
+      "start": 0,
+      "end": 643.5,
+      "clip": "hang/e_angol_17maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It was Darwin who formulated the theory of natural selection.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "It was Darwin who founded the “Gourmet Club”.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "Darwin didn’t like the taste of the old brown owl.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "According to Darwin, the meat of a puma tastes like the meat of a young cow.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Darwin ate part of a bird he had been searching for.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "It was his father’s wish that he should become a doctor.",
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Darwin set out on a decade-long voyage on board H.M.S. Beagle.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The previous captain of H.M.S. Beagle died of a serious illness.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "FitzRoy wanted to have a well-paid naturalist as a scientific companion.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "FitzRoy believed that he could judge people’s character by examining their face.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "According to FitzRoy, Darwin’s nose suggested a lot of energy and determination.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear some interesting theories about the origin of some English idioms.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_17maj_fl.mp3",
+      "start": 643.5,
+      "end": 1290,
+      "clip": "hang/e_angol_17maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "According to the text…",
+       "options": [
+        {
+         "key": "A",
+         "text": "it is sometimes possible to guess correctly where an idiom comes from."
+        },
+        {
+         "key": "B",
+         "text": "knowing history helps you guess where an idiom might have come from."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Surgeons asked their patients to bite the bullet because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "anaesthesia was unknown at the time."
+        },
+        {
+         "key": "B",
+         "text": "they thought it would distract patients from the pain."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "The word ‘red’ in the idiom ‘caught red-handed’ refers to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "blood."
+        },
+        {
+         "key": "B",
+         "text": "freshly cut meat."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "At a feast during the Middle Ages, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "receiving the organs of an animal was considered to be a real honour."
+        },
+        {
+         "key": "B",
+         "text": "the kind of pie you received informed the others of your status."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Admiral Nelson …",
+       "options": [
+        {
+         "key": "A",
+         "text": "looked through his telescope with his blind eye."
+        },
+        {
+         "key": "B",
+         "text": "was defeated by the Danish fleet in the battle."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Giving somebody the cold shoulder …",
+       "options": [
+        {
+         "key": "A",
+         "text": "used to show good manners towards one’s guests."
+        },
+        {
+         "key": "B",
+         "text": "meant that the guests were given cold meat as a sign that they should leave."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "In ancient Greece, beans …",
+       "options": [
+        {
+         "key": "A",
+         "text": "were used to cast votes for candidates."
+        },
+        {
+         "key": "B",
+         "text": "in the containers were not supposed to be seen before the voting was over."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "People who were afraid to be buried alive …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had a bell connected to their coffin."
+        },
+        {
+         "key": "B",
+         "text": "asked their family to listen for any bells ringing."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear a radio programme which promotes an adventure holiday.",
+      "Your task will be to write one word in each of the gaps below using the exact words that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_17maj_fl.mp3",
+      "start": 1290,
+      "end": 1795.77,
+      "clip": "hang/e_angol_17maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The radio programme is called {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "Travel"
+        ],
+        [
+         "Bug"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Picos de Europa runs the {{gap}} {{gap}} of Spain’s northern coast.",
+       "gaps": [
+        [
+         "entire"
+        ],
+        [
+         "length"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Besides possessing a spirit of adventure, you have to be {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "moderately"
+        ],
+        [
+         "fit"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The hotel of the tourist agency has views up to the {{gap}} {{gap}} in the national park.",
+       "gaps": [
+        [
+         "highest"
+        ],
+        [
+         "peak"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Besides walking, the participants need to use other techniques such as {{gap}} and {{gap}}.",
+       "gaps": [
+        [
+         "climbing"
+        ],
+        [
+         "jumping"
+        ]
+       ],
+       "unordered": true
+      },
+      {
+       "n": 22,
+       "stem": "The classic Cares Gorge walk is described as the jewel in the crown of {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "Spanish"
+        ],
+        [
+         "hiking"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "On Day Five one of the options is going sightseeing in the beautiful {{gap}} {{gap}} of Asturias.",
+       "gaps": [
+        [
+         "coastal"
+        ],
+        [
+         "towns"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "On Day Six the afternoon programme is a visit to the {{gap}} {{gap}} of Potes.",
+       "gaps": [
+        [
+         "mediaeval",
+         "medieval"
+        ],
+        [
+         "village"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "The price does not include {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "travel"
+        ],
+        [
+         "insurance"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

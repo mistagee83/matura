@@ -1,0 +1,1566 @@
+{
+ "formatVersion": 1,
+ "id": "2020-maj-emelt",
+ "year": 2020,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2020-05-07",
+ "code": "2012",
+ "sourceFiles": {
+  "paper": "2020 - Emeltszintű május/e_angol_20maj_fl.pdf",
+  "key": "2020 - Emeltszintű május/e_angol_20maj_ut.pdf",
+  "audio": "2020 - Emeltszintű május/e_angol_20maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2020-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about ‘Parkinson’s Law’ some parts of sentences have been left out.",
+      "Your task is to complete the text by filling in the gaps (1-8).",
+      "Write the appropriate letters (A-M) in the white boxes next to the appropriate numbers as in the example (0).",
+      "There are three more letters than you need."
+     ],
+     "title": "THE ‘LAW’ THAT EXPLAINS WHY YOU CAN’T GET ANYTHING DONE",
+     "body": [
+      "“It is a commonplace observation that work expands so as to fill the time available for its completion.” British historian C. N. Parkinson wrote that opening line for an essay in 1955, {{0}}. I think about it every time I have a deadline. How long it takes me to write a story {{1}} when my deadline is and how much time I have until then. In his somewhat satirical essay Parkinson uses the example of an elderly lady writing a postcard to her niece. Since she has nothing else to do with her time, the otherwise simple task takes up her entire day. Parkinson’s original intention, though, was not to take aim at old lady letter-writers, {{2}}: the bureaucratisation of the British Civil Service.",
+      "One scholar who has taken a serious look at Parkinson’s Law is Stefan Thurner, a professor at the Medical University of Vienna. Thurner says {{3}} when the faculty of medicine at the University of Vienna split into its own independent university in 2004. Within a couple of years, he says, the Medical University of Vienna went from being run by 15 people to 100, {{4}}. “I wanted to understand what was going on there, and why my bureaucratic burden did not become lighter; {{5}},” he says.",
+      "Parkinson pointed to two critical elements that lead to bureaucratisation: the tendency of managers to hire two or more subordinates to report to them, and the fact that {{6}}. Companies typically start with a flat hierarchy, perhaps two engineers. As the company grows, they hire assistants, {{7}} and hire their own subordinates. “A pyramid starts to grow. When the pyramid gets very large and expensive, {{8}}. If the bureaucratic body is not drastically reduced at this stage, the company will die.”",
+      "(www.bbc.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "but at a different kind of inefficiency"
+      },
+      {
+       "key": "B",
+       "text": "while the number of scientists stayed about the same"
+      },
+      {
+       "key": "C",
+       "text": "but the concept known as ‘Parkinson’s Law’ still lives on today"
+      },
+      {
+       "key": "D",
+       "text": "it might eat up all the company’s profits"
+      },
+      {
+       "key": "E",
+       "text": "his observation was misinterpreted"
+      },
+      {
+       "key": "F",
+       "text": "bureaucrats create work for other bureaucrats"
+      },
+      {
+       "key": "G",
+       "text": "your deadline is set by somebody else"
+      },
+      {
+       "key": "H",
+       "text": "will largely depend on"
+      },
+      {
+       "key": "I",
+       "text": "he became interested in the concept"
+      },
+      {
+       "key": "K",
+       "text": "you focus heavily on the task"
+      },
+      {
+       "key": "L",
+       "text": "on the contrary, it increased"
+      },
+      {
+       "key": "M",
+       "text": "who then get promoted"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "answer": "I"
+      },
+      {
+       "n": 4,
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "answer": "L"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      },
+      {
+       "n": 7,
+       "answer": "M"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about some new brain research and then read the gapped sentences (9-15) following it.",
+      "Your task is to complete the sentences with one word only based on what the article says."
+     ],
+     "title": "WHY SLEEP SHOULD BE EVERY STUDENT’S PRIORITY",
+     "body": [
+      "It’s hard to overstate the benefits of a night’s rest for human memory, and neuroscientists are just beginning to understand why.",
+      "Jakke Tamminen has plenty of students who do that very studenty thing of staying up all night right before an exam, in the hope of stuffing in as much knowledge as they can. But “that’s the worst thing you can do,” the psychology lecturer at the UK’s Royal Holloway University warns them. He should know. Tamminen is an expert on how sleep affects memory.",
+      "In Tamminen’s ongoing research project, participants learn new vocabulary, then stay awake all night. Tamminen compares their memory of those words after a few nights, and then after a week. Even after several nights of recovery sleep, there is a substantial difference in how well they recall those words compared to the control group of participants who didn’t face sleep deprivation. “Sleep is really a central part of learning,” he says.",
+      "Tamminen’s sleep lab is a sparsely decorated room with a bed and a small electroencephalography (EEG) machine and monitor above the bed to detect activity in each research participant’s brain, via electrodes placed on the head. These measure not only activity in different regions of the brain but also eye movement.",
+      "In the control room researchers can see in real time which parts of each volunteer’s brain are being activated, for how long, and to what extent. It’s easy to tell when a volunteer is in the rapid eye movement (REM) phase. But more critical to Tamminen’s current research – and to sleep’s role in language development more generally – is a non-REM phase of deep sleep known as slow-wave sleep (SWS). This phase is important for forming and retaining memories, whether of vocabulary, grammar or other knowledge. The interaction of different parts of the brain is key here. During SWS the hippocampus, which is good at quick learning, is in constant communication with the neocortex to consolidate knowledge for long term recall. The neocortex is the part of the brain that is involved in higher-order brain functions. The hippocampus might initially encode a new word learned earlier that day, but to truly consolidate that knowledge, to link new information with existing information, to spot patterns and find connections with other ideas – the neocortical system needs to get involved.",
+      "(www.bbc.com)",
+      "The article is about why sleep is of key importance for {{0}}.",
+      "Scientists don’t yet know everything about how sleep affects {{9}}.",
+      "In {{10}} opinion studying through the night before an exam is a bad strategy.",
+      "The {{11}} described in the article compares two groups’ ability to remember newly learnt vocabulary.",
+      "Those who had a good night’s sleep after learning the words remembered {{12}} than those who didn’t.",
+      "Sleep scientists monitor eye movement as well as the activity of the {{13}}.",
+      "The hippocampus is responsible for {{14}}, short-term learning.",
+      "It is during the {{15}} phase that newly learnt knowledge gets consolidated."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "students"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "memory",
+        "learning",
+        "remembering",
+        "recollection",
+        "recall",
+        "retention"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "Tamminen’s",
+        "Jakke’s"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "research",
+        "project",
+        "experiment",
+        "study",
+        "inquiry",
+        "investigation"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "more",
+        "better"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "brain"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "quick",
+        "fast",
+        "rapid",
+        "swift",
+        "speedy"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "SWS",
+        "non-REM"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 7,
+     "instructions": [
+      "Read this article about the dilemmas facing modern architecture and then read the questions (16-22) following it.",
+      "Your task is to choose the option (A-D) that best corresponds to what the text says."
+     ],
+     "title": "WHERE ARE THE ARCHITECTS WHO WILL PUT THE ENVIRONMENT FIRST?",
+     "body": [
+      "Nearly 40% of UK greenhouse gas emissions are caused by the built environment, i.e. buildings, roads, parks, etc. This figure suggests that the design of buildings and the planning of cities can do much against climate crisis.",
+      "Architects like to think of themselves as public-spirited, well-intentioned people. The profession tends to attract people who want to change the world for the better. And what could matter more than the prevention of environmental and societal collapse? So what would architecture look like if all involved really and truly put climate at the centre of their concerns? Would there be no more concrete, given that the material has been fingered as particularly destructive? Or an end to towers covered with panels that have to be replaced every 30 years?",
+      "It is not enough to reduce what are called the “in-use” costs – heating, ventilation, lighting, water, waste, maintenance – but also the “embodied energy” that goes into construction and demolition: producing cement, steel and bricks, transporting materials, putting them in place, taking them down again and getting rid of them. There’s little point in building something that performs magnificently in use if it takes decades or centuries to pay back the cost of energy that went into its construction.",
+      "Painful choices may be required. It might mean some genuinely difficult dilemmas: concrete, if used properly, slows the rates at which a building cools down and warms up (good) but is made with cement, a material that single-handedly accounts for about 8% of the world’s carbon dioxide emissions (not good). Sustainable design should ideally help buildings which are all- round better, longer-lasting, more pleasurable, more beautiful.",
+      "The architectural profession needs to reconsider its value systems: what is considered good and what bad. Architects are still trained from their student days to perform in a competitive and individualistic profession. They get more glory for designing a singular new building than they would if they worked out a good way of insulating old houses. Yet, as most of the building stock of the future is already with us, and as demolition and rebuilding goes with getting rid of whatever went into making the original building, the latter achievement is likely to be more useful than the former.",
+      "(The Guardian)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Most architects in the UK are deeply concerned about the environment."
+        },
+        {
+         "key": "B",
+         "text": "If better buildings were built, it could put an end to harmful emissions."
+        },
+        {
+         "key": "C",
+         "text": "The built environment causes nearly half the harmful emissions in the UK."
+        },
+        {
+         "key": "D",
+         "text": "In the UK, buildings contain an especially high amount of harmful materials."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Many architects have strong social values."
+        },
+        {
+         "key": "B",
+         "text": "Architects tend to think too well of themselves."
+        },
+        {
+         "key": "C",
+         "text": "Architecture often attracts the wrong kind of people."
+        },
+        {
+         "key": "D",
+         "text": "Architects can do more for the environment than other professions."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Many architects do not really care about the environment."
+        },
+        {
+         "key": "B",
+         "text": "No more tower blocks should be built in the future."
+        },
+        {
+         "key": "C",
+         "text": "Better panels should be used so they don’t have to be replaced every 30 years."
+        },
+        {
+         "key": "D",
+         "text": "It is difficult to say how to make architecture environment-friendly."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 18,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Running a house uses up less energy than building it."
+        },
+        {
+         "key": "B",
+         "text": "Building a house is more harmful to the environment than running it."
+        },
+        {
+         "key": "C",
+         "text": "Architects need to consider all the energy consumption involved."
+        },
+        {
+         "key": "D",
+         "text": "It may take a very long time to pay back the cost of building a house."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "As a building material, concrete has both advantages and disadvantages."
+        },
+        {
+         "key": "B",
+         "text": "Certain kinds of cement are more environment-friendly than cheaper types."
+        },
+        {
+         "key": "C",
+         "text": "The main problem with concrete is that too much of it is produced."
+        },
+        {
+         "key": "D",
+         "text": "Sustainable design is regarded an impossible aim to achieve."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Architects are far too individualistic."
+        },
+        {
+         "key": "B",
+         "text": "Most architects enjoy competition."
+        },
+        {
+         "key": "C",
+         "text": "Architects need to get their priorities right."
+        },
+        {
+         "key": "D",
+         "text": "Students should be taught how to insulate buildings."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Most of the existing buildings will have to be pulled down in the future."
+        },
+        {
+         "key": "B",
+         "text": "Designing new buildings brings more prestige than improving old ones."
+        },
+        {
+         "key": "C",
+         "text": "Making existing buildings more environment-friendly is expensive."
+        },
+        {
+         "key": "D",
+         "text": "It can cost even more to demolish a building than it originally cost to build it."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Demolishing old buildings is a good way of protecting the environment."
+        },
+        {
+         "key": "B",
+         "text": "Reusing materials that went into the construction of a building is costly."
+        },
+        {
+         "key": "C",
+         "text": "Demolishing an old building is often less expensive than preserving it."
+        },
+        {
+         "key": "D",
+         "text": "Improving an old building can be a better choice than demolishing it."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about electric scooters and then read the statements (23-30) following it.",
+      "Your task is to decide if the statements are true or not.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "WATCH OUT… A SCOOTER!",
+     "body": [
+      "If you’re spending time in Paris and decide to check out one of the 20,000 electric scooters buzzing along its boulevards, you might want to think about how you ride and where you end up parking.",
+      "Over the past year the city has become awash with the zippy two-wheelers, with 12-plus start-ups offering the chance to download an app and dash across the Seine for not much more than the cost of a metro ticket. But the scooters’ popularity, and the relative lack of rules around their use, has prompted City Hall to impose overdue restrictions, with fines for driving them on the pavement or parking them in doorways, crosswalks and other busy places. After scores of injuries, residents have been loudly complaining about the scooters, which are expected to number up to 40,000 by the end of this year.",
+      "From next month, a spot fine of 35 euros will be levied on bad parking, while those caught on the sidewalk will be hit with a 135-euro penalty. A speed limit of 20 km/h has been imposed across the capital.",
+      "Even before the legislation kicks in, police have been stepping up their efforts. More than 1,000 tickets have been issued and about 600 scooters seized, authorities said, and a new surveillance force has been set up. The scooters have been described as “anarchic”, and many people say “the law of the jungle” reigns in the city.",
+      "To regulate the number of scooters, City Hall has introduced a fee of 50 euros per scooter for the first 499 units, rising to 65 euros for companies operating more than 3,000. Despite the efforts to limit wild scooter riding, pedestrians remain skeptical. “The fines make sense, but can we enforce them and how?” asked Yuwei Yeh, a 47-year-old commercial retailer.",
+      "Karim Coulibaly, a 22-year-old employee with Lime, one of the scooter operators, said he thought the new laws would not limit the use of electric scooters, but that it was a good thing they are being moved off sidewalks and on to roads. He added that the company had introduced designated parking zones and had not seen a significant number of vehicles seized.",
+      "(reuters.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The headline suggests that scooters are dangerous.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Any of more than a dozen apps can get you an electric scooter.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Electric scooters can get you to most central locations in Paris faster than the metro.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "The new City Hall regulations should have already been introduced some time ago.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "The locals have spoken out against the scooters.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "When the new rules are introduced, it will be illegal to ride an electric scooter on the pavement.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "The 20 km/h speed limit is unrealistic in a modern metropolis.",
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "People in the street seem confident that the new regulations will work.",
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "Designated parking zones can easily be found in all Paris districts.",
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2020-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a London pub’s offer for lonely people.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "FREE CHRISTMAS MEAL FOR LONELY PEOPLE",
+     "body": [
+      "This will be the fourth time that The Alexandra, a pub in {{0}}, Wimbledon, has provided a free Christmas lunch to people spending the holiday by {{1}}. Landlords Mick and Sarah Dore dished up 62 roasts last year and are aiming for 100 this year. But, they say, “getting people to come out of the house is {{2}} difficult.”",
+      "Loneliness {{3}} are well aware of the problem. Jill Mortimer, psychologist at Age UK, told The Independent that “some people are actually hiding, especially due to {{4}} or grief,” and that many feel ashamed of being lonely. Weeks of {{5}} of “what’s stopping them from connecting” may be necessary to convince someone to come out of their shell, she said, adding that men in particular are more {{6}} to attend events if they can play an active role.",
+      "To get people {{7}} was one of the reasons The Alexandra upgraded their previous offer of a drink at Christmas to include a meal. “Once we had a {{8}} come in and I sat and had a couple of pints with him,” said Mr Dore. “He obviously had {{9}} to go. I said: “Why don’t you come and have dinner with us, the staff and my family?”",
+      "“He said he wouldn’t because he had somewhere else to go – and he clearly didn’t have. It was really the interaction with him that year that made me think we should offer food as well.”",
+      "(www.independent.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "centre",
+       "example": true,
+       "accept": [
+        "central"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "they",
+       "accept": [
+        "themselves"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "unbelievable",
+       "accept": [
+        "unbelievably"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "special",
+       "accept": [
+        "specialists"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "ability",
+       "accept": [
+        "disability",
+        "disabilities"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "investigate",
+       "accept": [
+        "investigation",
+        "investigations"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "like",
+       "accept": [
+        "likely"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "involve",
+       "accept": [
+        "involved"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "widow",
+       "accept": [
+        "widower"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "where",
+       "accept": [
+        "nowhere"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a famous Italian town. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-18) in the text."
+     ],
+     "title": "THE ITALIAN TOWN THAT CELEBRATES UGLINESS",
+     "body": [
+      "Celebrating “ugliness” for the past 140 years, Piobbico {{0}} famous for being the world capital of ugly people.",
+      "Hidden in a valley in central Italy, Piobbico is a handsome medieval town surrounded by lush forests. But {{10}} its picture-perfect setting, Piobbico is famous for the “ugliness” of its people.",
+      "Since 1879, this small town has been home to the Club dei Brutti (“The Ugly Club”), an association {{11}} members believe that “a person is what he is and not what he looks like.” Over the generations, {{12}} started as a utopian idea has blossomed into a worldwide movement.",
+      "“The Ugly Club” originally started as a matchmaking service for the town’s single women. As it grew, local folk made it their mission {{13}} society that inner beauty is more important than one’s physical {{14}}, and in 2007, Piobbico unveiled a statue dedicated to ugly people in the town’s square.",
+      "Today, it is {{15}} to become a part of the club. Senior members just have to judge and rank the “ugliness” of potential members, which {{16}} range from “unspecified” to “extraordinarily ugly”.",
+      "On the first Sunday of September, people gather from all over the world to take part in Piobbico’s annual Festival of the Ugly, {{17}} members elect the club’s president; sign up new members; and eat local truffles and pasta. In a country {{18}} emphasis on making a beautiful impression, this corner of Italy is proving that being genuine and unconventional may shine brightest.",
+      "(http://www.bbc.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "was becoming"
+        },
+        {
+         "key": "B",
+         "text": "had become"
+        },
+        {
+         "key": "C",
+         "text": "has become"
+        },
+        {
+         "key": "D",
+         "text": "must become"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "since"
+        },
+        {
+         "key": "B",
+         "text": "despite"
+        },
+        {
+         "key": "C",
+         "text": "although"
+        },
+        {
+         "key": "D",
+         "text": "considering"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "whose"
+        },
+        {
+         "key": "B",
+         "text": "while"
+        },
+        {
+         "key": "C",
+         "text": "which"
+        },
+        {
+         "key": "D",
+         "text": "with"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "it"
+        },
+        {
+         "key": "B",
+         "text": "which"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "then"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "that reminds"
+        },
+        {
+         "key": "B",
+         "text": "to remind"
+        },
+        {
+         "key": "C",
+         "text": "reminding"
+        },
+        {
+         "key": "D",
+         "text": "so that remind"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "attitude"
+        },
+        {
+         "key": "B",
+         "text": "attempt"
+        },
+        {
+         "key": "C",
+         "text": "approach"
+        },
+        {
+         "key": "D",
+         "text": "appearance"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "a kind of easy"
+        },
+        {
+         "key": "B",
+         "text": "quite an easy"
+        },
+        {
+         "key": "C",
+         "text": "enough easy"
+        },
+        {
+         "key": "D",
+         "text": "easy enough"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "can"
+        },
+        {
+         "key": "B",
+         "text": "should"
+        },
+        {
+         "key": "C",
+         "text": "need"
+        },
+        {
+         "key": "D",
+         "text": "would"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "and after"
+        },
+        {
+         "key": "B",
+         "text": "therefore"
+        },
+        {
+         "key": "C",
+         "text": "those"
+        },
+        {
+         "key": "D",
+         "text": "in which"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "placing much of"
+        },
+        {
+         "key": "B",
+         "text": "to place lots of"
+        },
+        {
+         "key": "C",
+         "text": "placing so much"
+        },
+        {
+         "key": "D",
+         "text": "that places a lot"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a special way of helping people. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "PEANUT BUTTER AND JELLY PAYMENT FOR PARKING TICKETS",
+     "body": [
+      "The University of Alaska’s Anchorage campus has {{0}} annual tradition that serves a unique role in fighting student hunger.",
+      "The campus is taking an unusual step to help students {{19}} need. Once a year, anyone with unpaid parking fines will be able to {{20}} down on, or even cover, the cost of their parking tickets {{21}} donating peanut butter and jelly. The food goes to the university’s emergency cache, a stored supply of food {{22}} provides food to students who face hunger regularly. The drive typically runs for two weeks. This year, through a partnership with the on-campus dining facilities, the second week will focus {{23}} collecting canned soup for the program.",
+      "Parking fees can be cancelled out by different amounts depending on the size of any donation, but {{24}} is a limit to how far you can spread that peanut butter. Parking services limited the number of PB&J payments to two parking tickets per individual.",
+      "Two 16 oz. jars will be good for a $10 credit, three jars will cover a $35 citation, and five jars will cover a $60 ticket. Tickets must {{25}} been issued within the past 45 days. “Any nut, butter-almond, cashew, peanut butter or any flavour jam, jelly, marmalade, preserves etc. will be accepted. All donations have to be commercially produced (no home canning), unopened and {{26}} past their ‘best before’ date,” UAA Parking Service said on its webpage.",
+      "(https://www.nbc15.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "an"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "in",
+        "experiencing",
+        "facing",
+        "suffering"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "cut"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "which",
+        "that"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "there"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "not"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an unusual pharmacy. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "POETRY PHARMACY",
+     "intro": "The majority of people who’ve visited the world’s first poetry pharmacy have been",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "looking for help to reduce down the stresses and strains of modern life.",
+       "answer": "down"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "Based in Bishops Castle, it is the brainchild of poet Deborah Alma,",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "who then prescribes poems, not pills, to her ‘patients’. Ms Alma, who",
+       "answer": "then"
+      },
+      {
+       "n": 28,
+       "text": "is a poet herself, arranges the books in her shop according to ‘mood’ as",
+       "answer": null
+      },
+      {
+       "n": 29,
+       "text": "she believes in poetry can help deal with a whole range of conditions,",
+       "answer": "in"
+      },
+      {
+       "n": 30,
+       "text": "such as exhaustion, stress and broken hearts. She also runs to poetic",
+       "answer": "to"
+      },
+      {
+       "n": 31,
+       "text": "consultations, inviting her ‘patients’ into a consultation room, asking",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "from them a list of questions and then ‘prescribing’ a carefully chosen",
+       "answer": "from"
+      },
+      {
+       "n": 33,
+       "text": "personal poem. She said: “When I give a poem to someone other it",
+       "answer": "other"
+      },
+      {
+       "n": 34,
+       "text": "becomes theirs and they hardly own it. They stick it on their fridge and",
+       "answer": "hardly"
+      },
+      {
+       "n": 35,
+       "text": "it can be enough inspiring and encouraging.” At the Poetry Pharmacy",
+       "answer": "enough"
+      }
+     ],
+     "outro": "they believe getting the right poem to the right person can make a difference. (https://news.sky.com)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2020-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a linguist talk about the origins of some interesting English phrases.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_20maj_fl.mp3",
+      "start": 0,
+      "end": 621.4,
+      "clip": "hang/e_angol_20maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Some English phrases are rather difficult to understand.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "In the 19th century, some Englishmen used French swear words in their conversations.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "The relationship between France and England has always been harmonious.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Certain bars in America used to offer a free drink to people who ate lunch there.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "Some dishonest bartenders secretly added extra salt to the food in these saloons.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "The phrase “mind your Ps and Qs” can refer to the use of swear words.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "A pint is twice as much as a quart.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "In medieval times, only the very rich used spoons.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Giving silver spoons to babies as a gift is an international tradition.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear about what some foreign visitors found interesting about Hungary.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_20maj_fl.mp3",
+      "start": 621.4,
+      "end": 1225.69,
+      "clip": "hang/e_angol_20maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It’s no wonder the cultures of Hungary and the UK differ, as they are separated by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "many countries and the North Sea."
+        },
+        {
+         "key": "B",
+         "text": "1,831 kilometres."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Both of the speaker’s friends …",
+       "options": [
+        {
+         "key": "A",
+         "text": "enjoyed their stay in Hungary."
+        },
+        {
+         "key": "B",
+         "text": "found certain things very irritating about Hungary."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Both visitors said that in the future they might ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "come back to Hungary."
+        },
+        {
+         "key": "B",
+         "text": "move to Hungary."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Kate was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "surprised and a bit shocked by the Hungarian gestures of affection."
+        },
+        {
+         "key": "B",
+         "text": "really glad that she was welcomed so warmly."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Kate was surprised that the speaker’s friends …",
+       "options": [
+        {
+         "key": "A",
+         "text": "were too shy to speak English at first."
+        },
+        {
+         "key": "B",
+         "text": "spoke such good English."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Kate thought that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "it was strange that Hungarians didn’t form a queue at bus stops."
+        },
+        {
+         "key": "B",
+         "text": "queueing up at bus stops makes life easier for passengers."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "While both guests liked Hungarian cuisine in general, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Kate found some dishes somewhat too spicy."
+        },
+        {
+         "key": "B",
+         "text": "Oliver thought paprika chicken was a bit too greasy."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The weather was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "far too hot for them in Hungary."
+        },
+        {
+         "key": "B",
+         "text": "quite cool in Britain when the guests left for Budapest."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you will hear about the rather strict laws and fines Venice has recently introduced.",
+      "Your task will be to write one word in each of the gaps below using the exact words you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_20maj_fl.mp3",
+      "start": 1225.69,
+      "end": 1795.43,
+      "clip": "hang/e_angol_20maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Venice police fined the German tourists because they were caught {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "making"
+        ],
+        [
+         "coffee"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "In addition to the €950 fine, the backpackers were also asked to {{gap}} the {{gap}}.",
+       "gaps": [
+        [
+         "leave"
+        ],
+        [
+         "city"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The police learnt about the offence when it was {{gap}} to them by a(n) {{gap}}.",
+       "gaps": [
+        [
+         "reported"
+        ],
+        [
+         "passerby",
+         "passer-by"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Some of the laws Venice has introduced – such as the fine for littering, for example – are quite {{gap}} and {{gap}}.",
+       "gaps": [
+        [
+         "fair"
+        ],
+        [
+         "understandable"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The offence of {{gap}} {{gap}} carries a fine of €420.",
+       "gaps": [
+        [
+         "damaging"
+        ],
+        [
+         "buildings"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Another offence besides walking around in the city in swimsuits that leads to a fine of €200 is not {{gap}} a(n) {{gap}} in public places.",
+       "gaps": [
+        [
+         "wearing"
+        ],
+        [
+         "shirt"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Simply {{gap}} a(n) {{gap}} is punishable by €100 in Venice.",
+       "gaps": [
+        [
+         "having",
+         "wheeling"
+        ],
+        [
+         "bike"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The mess left by {{gap}} and stray {{gap}} adds up to a £5 million a year cleaning bill in Venice.",
+       "gaps": [
+        [
+         "pigeons"
+        ],
+        [
+         "cats"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "On account of the enormous number of visitors every year, Venetians have long complained about {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "mass"
+        ],
+        [
+         "tourism"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "People who are caught {{gap}} in the {{gap}} are faced with the heaviest fine of €450.",
+       "gaps": [
+        [
+         "swimming"
+        ],
+        [
+         "canals"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Last December, the city also decided to introduce a(n) {{gap}} {{gap}} of up to £10 for short-stay tourists.",
+       "gaps": [
+        [
+         "entrance"
+        ],
+        [
+         "fee"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Az elfogadható válaszban az alábbi szavak mindegyikének szerepelnie kell!)"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1166 @@
+{
+ "formatVersion": 1,
+ "id": "2013-maj-kozep",
+ "year": 2013,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2013-05-09",
+ "code": "1311",
+ "sourceFiles": {
+  "paper": "2013 - Középszintű májusi/k_angol_13maj_fl.pdf",
+  "key": "2013 - Középszintű májusi/k_angol_13maj_ut.pdf",
+  "audio": "2013 - Középszintű májusi/k_angol_13maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2013-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In the following telephone conversation one of the speakers’ lines have been removed.",
+      "Your task is to write the letters of the missing lines (A-I) next to the appropriate numbers (1-7).",
+      "There is one extra line that you do not need."
+     ],
+     "title": "THE FBI AGENTS AND THE PIZZA MAN",
+     "body": [
+      "This is a real-life telephone conversation between an FBI agent and a pizza restaurant. The FBI was investigating the Central Psychiatric Hospital in San Francisco after reports of serious financial irregularities. After hours of work, the group of agents got quite hungry, so they called a nearby pizza delivery service to order. Agent: Hello. I would like to order 21 large pizzas and 73 cans of coke. Pizza Man: {{0}} A: To the psychiatric hospital, please. PM: {{1}} A: That's right. The name is Smith. I'm an FBI agent. PM: {{2}} A: I most certainly am. In fact, just about everybody here is. PM: {{3}} A: Yes, please. But make sure you don't go through the front doors. We have them locked. You will have to go around to the back to the service entrance to deliver the pizzas. PM: {{4}} A: Yes, all of us. How soon can you get the pizzas here? PM: {{5}} A: That's right. We've been here all day and we're very hungry. PM: {{6}} A: I have my American Express credit card right here. PM: {{7}} A: Certainly. Everyone here is an FBI agent. Can you remember to bring the pizzas and cokes to the service entrance in the rear? PM: I don't think so. [Click] (www.netjeff.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "And you want us to deliver to the psychiatric hospital?"
+      },
+      {
+       "key": "B",
+       "text": "Can you send me your menu please?"
+      },
+      {
+       "key": "C",
+       "text": "And where would you like them delivered?"
+      },
+      {
+       "key": "D",
+       "text": "Well, I guess that’s fine – we do accept that. But tell me; are you really all from the FBI?"
+      },
+      {
+       "key": "E",
+       "text": "Are you really an agent?"
+      },
+      {
+       "key": "F",
+       "text": "Well, we are rather busy at the moment… is really everyone at the psychiatric hospital an FBI agent?"
+      },
+      {
+       "key": "G",
+       "text": "And you say you're all FBI agents?"
+      },
+      {
+       "key": "H",
+       "text": "The psychiatric hospital?"
+      },
+      {
+       "key": "I",
+       "text": "How are you going to pay for all of this?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "E"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "answer": "F"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2013-maj-kozep-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about a wonderful young composer.",
+      "In the sentences (8-14) that follow the text there are some gaps. Your task is to fill each gap with one word so that the sentences correspond to what the text says."
+     ],
+     "title": "MEET LITTLE MISS MOZART",
+     "body": [
+      "Most children of her age would struggle to sit through an opera. But Alma Deutscher, 7, has become a classical music sensation after her first work in this particular genre was highly praised by the English National Opera.",
+      "Videos of her work have been viewed more than 300,000 times since her father shared them on YouTube – and her abilities have led to comparisons with Wolfgang Amadeus Mozart, who by five had mastered the keyboard and started composing. Alma wrote her own sonata at the age of six, followed by her opera, The Sweeper of Dreams, this year.",
+      "She said that her best compositions are created when she is on the swing in the garden at home, but she also keeps a music scorebook by her bed for when inspiration strikes after she falls asleep. Just like the idea for this work, which came in a dream.",
+      "Mr Deutscher and his wife Janie, who was an organ scholar at Oxford, moved with Alma and her four-year-old sister Helen from Oxford to Surrey so that they could be closer to the specialist Yehudi Menuhin School in Cobham, where Alma has weekly piano and violin lessons.",
+      "The rest of the time, she is taught at home, and practises and composes for between four and five hours a day. But her parents are not in favour of her taking part in competitions, and have turned down all invitations to appear on television shows. Alma, meanwhile, is working on a sonata that she was commissioned to write after performing one of her compositions brilliantly in Italy. ‘It’s not the same style as my first one,’ she explained. ‘It’s very dramatic. It’s more like Tchaikovsky than Mozart.’",
+      "When she is older, she wants a ‘big house full of instruments, all sorts of pianos and violins, violas and cellos’.",
+      "‘I don’t mind if I am famous or not, I just want to be good,’ she added.",
+      "(www.dailymail.co.uk)",
+      "Most children of Alma’s age find operas {{0}}.",
+      "Even the English National Opera formed a very good opinion of her first {{8}}.",
+      "Thanks to her {{9}}, Alma’s compositions are available to all on the internet.",
+      "At the age of {{10}} Alma’s famous Austrian predecessor could already play the piano.",
+      "She is even prepared for those sudden musical ideas which come to her in her {{11}}.",
+      "Alma’s {{12}} studied music at university.",
+      "Alma has been on {{13}} TV programmes so far.",
+      "As a result of a great concert success abroad, she is writing a(n) {{14}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "boring"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "opera"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "father",
+        "daddy",
+        "dad"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "five",
+        "5"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "dreams",
+        "sleep",
+        "dream"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "mother",
+        "mummy",
+        "mum"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "no"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "sonata"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2013-maj-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about a great grandmother and then read the statements (15-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "GREAT GRANDMOTHER, 83, SETS UP ONLINE BUSINESS",
+     "body": [
+      "Jean Robson, 83, from Slough set up her online business Handmaid, selling hand-made personalised gifts, at the end of last month and orders are already coming in. While others may be enjoying the quiet life in retirement, the 83-year-old is happiest in her work. She said: \"I have exceptionally good health and I’m exceptionally fit. I would be bored out of my mind if I did nothing. I’m much fitter than most people 20 years younger than me. I live healthily, I grow my own food and don't smoke.\"",
+      "Before she moved to Slough, she lived in Burnham and ran her own shop – Handmaid – for 17 years. Now the website allows Jean to run her 'one-man-band' business from home, where she has lived since her husband died.",
+      "Jean, who has two children, four grandchildren and two great grandchildren, said: \"Basically all I like doing is working. My job is what I would do as a hobby anyway. I never thought it would really take off but within a week of getting the website up and running I got my first order and I’ve had more since.\" She added: \"The technology doesn't frighten me, I've been using a computer for quite a few years now.\"",
+      "Jean makes the gifts herself for births, christenings, weddings, anniversaries, birthdays and Christmas. Her most popular ranges include babies' cot quilts, cushions, make-up bags and greeting cards.",
+      "(www.maidenhead-advertiser.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The 83-year-old lady has recently started her online business.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "The business sells only second hand books.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Jean has a lot of fruit trees in her garden.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "She does not have any employees.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "She has lived in Slough all her life.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "From the start she was sure her business would be successful.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "She got her first computer from her children.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "She is worried about using computers.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Jean’s products can make good presents for special occasions.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2013-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this text about an inventor and his new software.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the story by filling in the gaps (23-28) from the list (A-H) below.",
+      "Remember that there is one extra letter that you do not need."
+     ],
+     "title": "GET IT? GOT IT. GOOD!",
+     "body": [
+      "Thanks to an invention by software developer Liam Kaufman, educators now have a better way to know {{0}}.",
+      "Understoodit is a web-based application {{23}}. When students load the tool on their smartphones or laptops during class and click a red “Confused” button, their input automatically registers on the professor’s computer, showing what percentage of the class is lost. The teacher can re-explain things in the hope students will hit the green “Understood” button, {{24}}.",
+      "Kaufman tested the software in three computer science classes in February 2012. He says students found the tool useful – perhaps because it minimizes the fear of looking stupid in class {{25}}.",
+      "But the application was especially well received by the professors, {{26}}. Quickly spreading news about it led to inquiries from 2,800 educators worldwide within a few months. Kaufman invited 200 of them to try his prototype. With the help of another software developer, he used results from the expanded test to improve the service, {{27}}. He launched the tool in August and is keeping it free for students; he’s charging teachers a monthly fee of $3, but those {{28}}.",
+      "(http://www.magazine.utoronto.ca)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "which now includes a new feature that lets teachers get feedback from all students"
+      },
+      {
+       "key": "B",
+       "text": "which then shows the professor what percentage has understood the material"
+      },
+      {
+       "key": "C",
+       "text": "if they’re getting their point across in the classroom"
+      },
+      {
+       "key": "D",
+       "text": "who registered on his website before October 3 can use it for free for a year"
+      },
+      {
+       "key": "E",
+       "text": "that lets students anonymously express their confusion in class"
+      },
+      {
+       "key": "F",
+       "text": "when they had to do tests"
+      },
+      {
+       "key": "G",
+       "text": "when asking questions"
+      },
+      {
+       "key": "H",
+       "text": "who said they liked getting instant feedback"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "E"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "G"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": null,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2013-maj-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read about Mexican bats. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "AMAZING BATS",
+     "body": [
+      "The sun is setting on a summer night. {{0}} the entrance to a deep, dark cave, a {{1}} bats fly out and high up into the air. After a while, a whole river of bats is pouring out of the cave, and they {{2}} coming, about 20 million of them. It can take three hours for {{3}} of them to leave the cave.",
+      "Believe it or not, this scene takes place {{4}} summer night at Bracken Cave in Texas. Every spring, Mexican Free-tailed bats migrate {{5}} to 1609 kilometers from their winter home in Mexico to this cave, {{6}} they raise their young. Soon after they arrive, each mother gives birth to one pup. As many as 500 baby bats live crammed into about 30 cm³ of space. Mother bats {{7}} their sense of smell to tell {{8}} pup is theirs when it is time for the babies to nurse.",
+      "When the adult bats leave the cave at night to {{9}}, they help humans. They eat tons of insects in a single night. {{10}}",
+      "20 million bats fly out of one cave opening, they make a column so thick that they show up on radar at the nearby airport.",
+      "(www.nationalgeographic/kids.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ALL"
+      },
+      {
+       "key": "B",
+       "text": "EVERY"
+      },
+      {
+       "key": "C",
+       "text": "AT"
+      },
+      {
+       "key": "D",
+       "text": "FEED"
+      },
+      {
+       "key": "E",
+       "text": "FEW"
+      },
+      {
+       "key": "F",
+       "text": "KEEP"
+      },
+      {
+       "key": "G",
+       "text": "LOT"
+      },
+      {
+       "key": "H",
+       "text": "UP"
+      },
+      {
+       "key": "I",
+       "text": "USE"
+      },
+      {
+       "key": "K",
+       "text": "WHEN"
+      },
+      {
+       "key": "L",
+       "text": "WHERE"
+      },
+      {
+       "key": "M",
+       "text": "WHICH"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "L"
+      },
+      {
+       "n": 7,
+       "answer": "I"
+      },
+      {
+       "n": 8,
+       "answer": "M"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "answer": "K"
+      }
+     ]
+    },
+    {
+     "id": "2013-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read about how the purpose of houses has changed in England. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "HOUSES THROUGH HISTORY",
+     "body": [
+      "The purpose of a house {{0}} changed over the centuries, especially the rooms inside. What rooms would you include {{11}} you could design a house? I bet you would have several rooms including different ones {{12}} cook in, sleep in, play in, wash in etc. You would expect your house to have running water, electricity and gas. You would want it to be warm in winter, cool in summer and keep you dry when {{13}} rains. You would also want it to be reasonably secure - large windows to let the sunlight in {{14}} keep the burglars out.",
+      "Your needs today {{15}} very different to those of people who lived in houses long {{16}}. Take for example the Celtic family. They all lived in one room. In fact their house only consisted {{17}} one room and they sometimes brought in their animals too to keep {{18}} safe from predators.",
+      "I wonder {{19}} a Victorian gentleman would think of your list of rooms. Did you include rooms for your servants? A Victorian worker would {{20}} amazed at the number of toilets or bathrooms in your house. He would have had to share an outside toilet with everyone else in his street!",
+      "(www.woodlands-junior.kent.sch.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "if",
+        "supposing",
+        "assuming"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "but",
+        "and",
+        "yet"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "are",
+        "look",
+        "seem"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "ago"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "them"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "what",
+        "if",
+        "whether"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "be"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2013-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a newly discovered language. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (21-28).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THEKOROLANGUAGE",
+     "body": [
+      "{{0}} have identified a language new to science in north-eastern India. Known as Koro, it appears to be distinct from other languages in the family to which it belongs; but it is also under threat.",
+      "A team of {{21}} were searching for two other little-known languages {{22}} only in one small area. As they heard and recorded these, they found a third which was {{23}} new to them and had never before been listed. \"We didn't have to get far on our word list to realise it was extremely {{24}} in every possible way,\" said Dr David Harrison, one of the expedition {{25}}.",
+      "Koro belongs to the Tibeto-Burman family, which includes around 150 languages. But linguists were {{26}} to find any others closely related to Koro within this group. It is thought that around half of the world's 6,909 known languages are endangered and Koro itself is at {{27}}. It has never been written down and there are only about 1,000 speakers of it.",
+      "The question is where it came from and how it remained {{28}} until now. The team will be returning to India next month to continue their research on Koro.",
+      "(www.nationalgeographic.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "research",
+       "example": true,
+       "accept": [
+        "Researchers"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "science",
+       "accept": [
+        "scientists"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "speak",
+       "accept": [
+        "spoken"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "complete",
+       "accept": [
+        "completely"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "differ",
+       "accept": [
+        "different"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "lead",
+       "accept": [
+        "leaders"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "able",
+       "accept": [
+        "unable"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "risk",
+       "accept": [
+        "risk"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "hide",
+       "accept": [
+        "hidden"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2013-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this part of the test you will hear a news report about a pair of twins.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_13maj_fl.mp3",
+      "start": 0,
+      "end": 543.62,
+      "clip": "hang/k_angol_13maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "When were the twins in this story born? {{gap}}",
+       "accept": [
+        "in the 1930s"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "What happened when they were born? {{gap}}",
+       "key": "(they were) separated (and) adopted (A két szó bármelyike önmagában is helyes megoldás!)",
+       "keywords": [
+        [
+         "separated"
+        ],
+        [
+         "adopted"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "How far away were the two towns where they were raised? {{gap}}",
+       "key": "thousands of miles (away)",
+       "keywords": [
+        [
+         "thousands",
+         "miles"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What was different about the names of the twin brothers? {{gap}}",
+       "key": "(their) surnames/family names",
+       "keywords": [
+        [
+         "surnames"
+        ],
+        [
+         "family",
+         "names"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What did both of them do for a living? {{gap}}",
+       "key": "(they were) police officers / policemen",
+       "keywords": [
+        [
+         "police",
+         "officers"
+        ],
+        [
+         "policemen"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "What did both of them have a natural talent for? {{gap}}",
+       "key": "music",
+       "keywords": [
+        [
+         "music"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Where did both of them regularly perform? {{gap}}",
+       "key": "(in their) local communities",
+       "keywords": [
+        [
+         "local",
+         "communities"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Which of their relatives did not have exactly the same name? {{gap}}",
+       "key": "(their) sons",
+       "keywords": [
+        [
+         "sons"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "How old were the twins when they were eventually reunited? {{gap}}",
+       "key": "forty/40",
+       "keywords": [
+        [
+         "forty"
+        ],
+        [
+         "40"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2013-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear some information about the US space shuttle Endeavour.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_13maj_fl.mp3",
+      "start": 543.62,
+      "end": 1152.58,
+      "clip": "hang/k_angol_13maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Endeavour appeared over San Francisco at 8:30 am.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "The space shuttle touched down in Universal Studios.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Endeavour is older than Atlantis and Discovery.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Challenger was replaced by Endeavour.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Challenger broke apart soon after lift-off.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Endeavour will be taken through the streets of Los Angeles.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Environmental groups protested against the felling of 400 trees.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "People can see Endeavour after the 30th of October.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The International Space Station travels more than a 1,000 km above Earth.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The closure of the program was ordered by NASA.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "NASA is planning to send people to Mars before 2021.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2013-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear about an original idea of a group of nursery workers in Denmark.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_13maj_fl.mp3",
+      "start": 1152.58,
+      "end": 1792.68,
+      "clip": "hang/k_angol_13maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The offer was made in … Denmark.",
+       "options": [
+        {
+         "key": "A",
+         "text": "northern"
+        },
+        {
+         "key": "B",
+         "text": "southern"
+        },
+        {
+         "key": "C",
+         "text": "central"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "A group of nursery workers wanted the parents to go home and …",
+       "options": [
+        {
+         "key": "A",
+         "text": "try to relax."
+        },
+        {
+         "key": "B",
+         "text": "produce new babies."
+        },
+        {
+         "key": "C",
+         "text": "play with their children."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Ms Lotte Nyman thinks that about … of the parents will accept the offer.",
+       "options": [
+        {
+         "key": "A",
+         "text": "80%"
+        },
+        {
+         "key": "B",
+         "text": "50%"
+        },
+        {
+         "key": "C",
+         "text": "20%"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Ms Lotte Nyman said … of the parents would use the time for the intended purpose.",
+       "options": [
+        {
+         "key": "A",
+         "text": "all"
+        },
+        {
+         "key": "B",
+         "text": "most"
+        },
+        {
+         "key": "C",
+         "text": "few"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "The nursery teachers will tell the children that the party is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "for mum and dad so that they can talk at home."
+        },
+        {
+         "key": "B",
+         "text": "for them to learn how to talk to mum and dad."
+        },
+        {
+         "key": "C",
+         "text": "a secret that they shouldn’t speak about."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "This service …",
+       "options": [
+        {
+         "key": "A",
+         "text": "will be offered six more times."
+        },
+        {
+         "key": "B",
+         "text": "won’t be offered again."
+        },
+        {
+         "key": "C",
+         "text": "might be offered again in the future."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Compared to most countries, Denmark has … birthrate.",
+       "options": [
+        {
+         "key": "A",
+         "text": "a higher"
+        },
+        {
+         "key": "B",
+         "text": "a lower"
+        },
+        {
+         "key": "C",
+         "text": "an average"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Ms Nyman thinks that the local government will give nurseries … money.",
+       "options": [
+        {
+         "key": "A",
+         "text": "the same amount of"
+        },
+        {
+         "key": "B",
+         "text": "more"
+        },
+        {
+         "key": "C",
+         "text": "less"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

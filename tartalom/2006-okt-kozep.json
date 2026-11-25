@@ -1,0 +1,1383 @@
+{
+ "formatVersion": 1,
+ "id": "2006-okt-kozep",
+ "year": 2006,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2006-10-27",
+ "code": "0611",
+ "sourceFiles": {
+  "paper": "2006. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_06okt_fl.pdf",
+  "key": "2006. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_06okt_ut.pdf",
+  "audio": "2006. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_06okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2006-okt-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "állítások párosítása szövegrészekhez",
+     "points": 9,
+     "instructions": [
+      "Look at the following film reviews and the statements following them.",
+      "Your task is to match the statements 1-9 to reviews A-D."
+     ],
+     "body": [
+      "A) City Lights (1931)",
+      "Starring: Charlie Chaplin, Virginia Cherrill",
+      "Director: Charlie Chaplin",
+      "One of Charlie Chaplin's best films - and his last silent film. This film is a classic black and white silent masterpiece (with sound effects). In the city, the tramp (Chaplin) falls in love with a blind flower-selling girl (Cherrill), and although he is poor, she thinks he is a millionaire. Her sight is restored thanks to his efforts.",
+      "Academy Awards: 1, Best Director.",
+      "B) Snow White And The Seven Dwarfs (1937)",
+      "Starring: Voices of Harry Stockwell, Lucille La Verne, Adriana Caselotti",
+      "Director: David Hand, Perce Pearce",
+      "Disney's first full-length, commercially-successful animated masterpiece, a classic, adapted Brothers Grimm fairy tale with a vain, evil Wicked Queen (La Verne), the Queen's beautiful step-daughter Snow White (Caselotti), seven gold-mining dwarfs who whistle to and from work at the diamond mines - and a Prince Charming.",
+      "Recipient of Special Award.",
+      "C) 2001: A Space Odyssey (1968)",
+      "Starring: Keir Dullea, Gary Lockwood, HAL 9000",
+      "Director: Stanley Kubrick",
+      "Kubrick's metaphoric, thought-provoking, grandiose, science-fiction landmark film, with space travel to Jupiter, the appearance of mysterious stone monuments, and the presence of the film's major character - a super-computer. A team of robotic-like astronauts Bowman (Dullea) and Poole (Lockwood), during a voyage to Jupiter are terrorized by the arrogant, humanistic, on-board computer HAL 9000. The mission fails, and Bowman is reborn within a divine embryo that floats in space.",
+      "Academy Awards: 1, Best Special Visual",
+      "D) Some Like It Hot (1959)",
+      "Starring: Marilyn Monroe, Tony Curtis, Jack Lemmon,",
+      "Director: Billy Wilder",
+      "Wilder's funny comedy. Two unemployed Chicago jazz musicians, Joe (Curtis) and Jerry (Lemmon) accidentally witness a crime, and must flee from gangsters. They pretend to be women and join Sweet Sue's all-girl band with singer Sugar Kowalczyk (Monroe) heading for Florida to escape. With the greatest closing line in film history: \"Nobody's perfect.\"",
+      "Academy Awards: 1, Best B/W Costume Design."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The main characters are musicians.",
+       "answer": "D"
+      },
+      {
+       "n": 1,
+       "stem": "One of the heroes is a machine.",
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "The hero helps a girl so that she can see again.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "The last words of the film have become very famous.",
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "stem": "The film got an award for its special visual effects.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "Only the director of this film got an Academy Award.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "There are some very short people in the film.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The original story of the film was written by two brothers.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "You can laugh a lot while watching this film.",
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "stem": "You can’t hear people talk in this film.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read the following text about bicycles, from which some parts of sentences have been removed.",
+      "Your task is to fill the gaps from the list.",
+      "There is one extra half-sentence that you do not need."
+     ],
+     "body": [
+      "Cycling has become popular over the past few years. Below you can read some top tips on how to get on your bike.",
+      "BUYING A BIKE",
+      "Your first port of call should be a good bike shop. There are thousands nationwide, all {{0}}. Don’t just go to the one closest to you; visit a few. Ask as many questions as you need to about which sort of bike would suit you best.",
+      "When you’ve found a good shop, ask the shop for advice on buying the correct size for you. Autumn is an ideal time to buy a bike as manufacturers bring out their new models, {{10}}.",
+      "Mountain bikes If you live in a rural area and will occasionally be going off road, a mountain bike is the best bet. Many have suspension and offer thicker tyres, {{11}}.",
+      "Road bikes The advantage of these is that you can pull up the pedals as well as push down on them, which can be as much as 10% more efficient, as well as {{12}}. Road bikes have enjoyed a renaissance recently, thanks to the popularity of the Tour de France and other races.",
+      "Hybrid bikes These are excellent for riding in traffic. Hybrid bikes can take pannier racks, which are useful for {{13}}.",
+      "Folding bikes Using folding bikes can mean {{14}}: you might drive to the train station, carry your bike onto the train and then cycle from the train station to your destination at the other end.",
+      "Just 30 minutes exercise a day could quite literally be a lifesaver, as well as {{15}}.",
+      "It can also save travel costs and, of course, help a safer and cleaner environment."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "combining a range of methods of travel"
+      },
+      {
+       "key": "B",
+       "text": "carrying clothes and shopping and, of course, for cycling holidays"
+      },
+      {
+       "key": "C",
+       "text": "offering a variety of bikes and equipment"
+      },
+      {
+       "key": "D",
+       "text": "making them ideal for riding over uneven surfaces"
+      },
+      {
+       "key": "E",
+       "text": "offering cycling training"
+      },
+      {
+       "key": "F",
+       "text": "working out a variety of muscles in your legs"
+      },
+      {
+       "key": "G",
+       "text": "improving your mood and self esteem"
+      },
+      {
+       "key": "H",
+       "text": "making any unsold bikes from last year’s collection considerably cheaper"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read the following news item and the statements following it.",
+      "Your task is to mark each statement",
+      "A if it says the same as the text,",
+      "B if it says something different from the text,",
+      "C if the text does not give enough information about it."
+     ],
+     "body": [
+      "Opera fans watch for dark skies Belfast opera fans will be watching the skies this week as they prepare for a night of outdoor virtual opera.",
+      "Botanic Gardens in Belfast is hosting a live broadcast of La Boheme on Thursday night, from London's Royal Opera House.",
+      "The tragic tale of the love of a sick working girl for a poet in 18th century Paris is the third time Opera in the Park has come to the city.",
+      "Last year rain caused a lot of problems and with rain forecast again organisers are urging people to dress appropriately.",
+      "The council said the free performance, which is also shown simultaneously in a number of English cities, is a chance to see the rising stars of opera in action.",
+      "Gates open at 17.00, with entertainment on the Great Lawn from 17.15, featuring the Irish Three Tenors.",
+      "The main performance, broadcast from Covent Garden, starts at 21.30."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The performance is taking place in the London Opera House.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Some of the people performing the opera will be singers from abroad.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "People in other English cities will be able to see the performance on screens.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Rainy weather is expected in London.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "The organisers want people to bring waterproof clothes.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "It is the first time the programme has been organised.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "People in Belfast won’t have to buy tickets to see the opera.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "The programme will start with a performance by the Irish Three Tenors at five o’clock in the afternoon.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "La Boheme will start at quarter past nine in the evening.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with David Copperfield, the famous Magician, the questions have been removed.",
+      "Your task is to read the text and match the questions to the answers.",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nWell, fortunately, I love what I do, so even with this schedule, I never tire of performing in my chosen profession, the Art of Magic!",
+      "{{24}}\nI became interested in magic at an early age. I learned a card trick from my grandfather when I was seven.",
+      "{{25}}\nWell, when I began doing magic and brought this skill into school, I found out that it was quite an attention-getting magnet. And, as time went by, it really seemed to catch the eyes of the girls in school!",
+      "{{26}}\nI would say, \"Practice, practice, practice, and never consider anything impossible!\"",
+      "{{27}}\nThere really is nothing else I would rather have been. Although I did try my hand as a singer early in my career (when I was 19) in the hit show MAGIC MAN in Chicago...",
+      "{{28}}\nProject Magic is what I am most proud of in my career. It is in 1,000 hospitals in over 30 countries around the world. This is a program that has made the lives of many people a lot better.",
+      "{{29}}\nI stand on the shoulders of the great magicians of the past and I hope that my contributions will have helped to raise the Art of Magic even higher.",
+      "{{30}}\nMagic has certainly made my life very special and allowed me the chance to make many of my dreams a reality onstage."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "When did you first become interested in magic?"
+      },
+      {
+       "key": "B",
+       "text": "Some people describe you as \"the next Houdini\", or \"the most popular magician of all time\". How do you want to be remembered?"
+      },
+      {
+       "key": "C",
+       "text": "You do almost 500 performances a year. Do you ever think of slowing down?"
+      },
+      {
+       "key": "D",
+       "text": "I've read that the reason you started in magic was to overcome some difficulties in growing up. Did it help you make more friends and get a few dates in high school?"
+      },
+      {
+       "key": "E",
+       "text": "Which part of your career are you most proud of?"
+      },
+      {
+       "key": "F",
+       "text": "Have you ever thought of working in other areas of entertainment?"
+      },
+      {
+       "key": "G",
+       "text": "You have a famous illusion of making the Statue of Liberty disappear. Are you planning to do something that might beat that?"
+      },
+      {
+       "key": "H",
+       "text": "What advice would you give to beginner magicians?"
+      },
+      {
+       "key": "I",
+       "text": "What has magic offered you in your life?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      },
+      {
+       "n": 28,
+       "answer": "E"
+      },
+      {
+       "n": 29,
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "answer": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2006-okt-kozep-L1",
+     "number": 1,
+     "kind": "order",
+     "layout": "stems",
+     "examType": "összekevert szavak mondattá rendezése",
+     "points": 6,
+     "instructions": [
+      "The words in the sentences below are jumbled up.",
+      "Your task is to form the correct sentences and write them on the dotted lines. The first word is there for you.",
+      "You have to use each word.",
+      "Do not change the form of the words."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "first": "Next",
+       "words": [
+        "summer",
+        "we",
+        "London",
+        "going",
+        "are",
+        "visit",
+        "to"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "summer",
+         "we",
+         "are",
+         "going",
+         "to",
+         "visit",
+         "London"
+        ]
+       ],
+       "example": true
+      },
+      {
+       "n": 1,
+       "first": "How",
+       "words": [
+        "about",
+        "holiday",
+        "us",
+        "the",
+        "spending",
+        "with"
+       ],
+       "end": "?",
+       "accept": [
+        [
+         "about",
+         "spending",
+         "the",
+         "holiday",
+         "with",
+         "us"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "first": "A",
+       "words": [
+        "lot",
+        "accident",
+        "injured",
+        "people",
+        "the",
+        "were",
+        "in",
+        "of"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "lot",
+         "of",
+         "people",
+         "were",
+         "injured",
+         "in",
+         "the",
+         "accident"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "first": "I",
+       "words": [
+        "from",
+        "to",
+        "forward",
+        "you",
+        "look",
+        "hearing"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "look",
+         "forward",
+         "to",
+         "hearing",
+         "from",
+         "you"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "first": "We",
+       "words": [
+        "earrings",
+        "school",
+        "wear",
+        "to",
+        "are",
+        "at",
+        "allowed"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "are",
+         "allowed",
+         "to",
+         "wear",
+         "earrings",
+         "at",
+         "school"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "first": "What",
+       "words": [
+        "like",
+        "look",
+        "does",
+        "Jill"
+       ],
+       "end": "?",
+       "accept": [
+        [
+         "does",
+         "Jill",
+         "look",
+         "like"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "first": "Karen",
+       "words": [
+        "will",
+        "job",
+        "she",
+        "move",
+        "the",
+        "if",
+        "to",
+        "gets",
+        "York"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "will",
+         "move",
+         "to",
+         "York",
+         "if",
+         "she",
+         "gets",
+         "the",
+         "job"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about Henry VIII. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (7-16) in the text. Write the letter of the appropriate word in the white box.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "THE ROYAL HUNTING WHISTLE",
+     "body": [
+      "A silver hunting whistle, which probably belonged to Henry VIII, has been {{0}} during a metal detectors’ club gathering. The whistle is engraved with motifs {{7}} link it to the king’s first wife, Catherine of Aragon. It is being studied at the British Museum.",
+      "The finder, Keith Stuart, 62, was {{8}} part in the club event in a field on the Isle of Wight, and is now {{9}} to be told the whistle’s value after experts have examined it thoroughly. Archeologists have {{10}} it to the 16th century. The whistle, 2½ inches long, is {{11}} with pomegranates, the emblem of Catherine of Aragon.",
+      "Historians believe that Henry hunted on the Isle of Wight, and the whistle may have been dropped during a {{12}}.",
+      "Mr Stuart, a former milkman, said the whistle was only a {{13}} inches below the soil at Shalfleet. He thought it {{14}} a toy gun or cannon, and did not consider it important. {{15}}, Mr Stuart later showed it to Frank Bashford, the coroner’s officer, who identified the {{16}} as silver and indicated that it was an antique huntsman’s whistle.",
+      "When Mr Stuart researched the emblem, the link with Henry VIII was suggested."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "DATED"
+      },
+      {
+       "key": "B",
+       "text": "DECORATED"
+      },
+      {
+       "key": "C",
+       "text": "FEW"
+      },
+      {
+       "key": "D",
+       "text": "FOUND"
+      },
+      {
+       "key": "E",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "F",
+       "text": "METAL"
+      },
+      {
+       "key": "G",
+       "text": "RESEMBLED"
+      },
+      {
+       "key": "H",
+       "text": "TAKING"
+      },
+      {
+       "key": "I",
+       "text": "THAT"
+      },
+      {
+       "key": "K",
+       "text": "THEIR"
+      },
+      {
+       "key": "L",
+       "text": "VISIT"
+      },
+      {
+       "key": "M",
+       "text": "WAITING"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "I"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      },
+      {
+       "n": 9,
+       "answer": "M"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "answer": "L"
+      },
+      {
+       "n": 13,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "E"
+      },
+      {
+       "n": 16,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a short article about Lost, the famous TV series. Some words are missing from the text.",
+      "Your task is to write the missing words – one word for each gap - on the dotted lines (17-25) after the text."
+     ],
+     "title": "IN NEVER NEVER LAND",
+     "body": [
+      "A modern Hitchcock thriller; that sums up Lost – {{0}} popular series on Star Movies every Saturday {{17}} 7 p.m. It is {{18}} 48 people left on a remote island in the Pacific Ocean, after {{19}} flight breaks apart in mid-air and crashes on the island. The survivors include couples, friends and enemies. They {{20}} all forced to come together with one aim: to survive at all cost.",
+      "Their faces reflect panic, anxiety {{21}} hopelessness as they try to bring order out of the chaos under the leadership of Jack, a doctor, played {{22}} Matthew Fox. He treats the sick and the wounded, and takes the initiative for survival techniques.",
+      "In Lost, which has been nominated for 12 Emmy awards, each scene is full {{23}} suspense as the island itself seems {{24}} hide its own frightening secrets. Even the survivors have their own horrifying stories. For instance, Kate, who has just escaped the police, often remembers her past and {{25}} does Locke, the strange guy with a passion for adventure.",
+      "Will they escape from the lost world? Wait and see."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "at",
+        "from"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "about"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "their",
+        "a"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "are"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "and"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "so"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2006-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear an anecdote about Albert Einstein.",
+      "Your task is to fill in the gaps with ONE single word.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_06okt_fl.mp3",
+      "start": 0,
+      "end": 750.61,
+      "clip": "hang/k_angol_06okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Albert Einstein was a famous {{gap}}",
+       "accept": [
+        "physicist"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Einstein's theory changed the way that scientists understand {{gap}} and time.",
+       "accept": [
+        "space"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The first part of his theory was born in {{gap}}.",
+       "accept": [
+        "1905"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Einstein became a {{gap}} of Theoretical Physics at Princeton University.",
+       "accept": [
+        "professor"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Einstein toured the various {{gap}} in the United States.",
+       "accept": [
+        "universities"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Einstein's chauffeur, Harry, was always seated in the {{gap}} row.",
+       "accept": [
+        "back"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Harry told Einstein that he would be able to deliver the {{gap}} perfectly.",
+       "accept": [
+        "lecture",
+        "talk",
+        "presentation"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "While Harry was speaking to the audience, Einstein was enjoying a {{gap}}.",
+       "accept": [
+        "siesta",
+        "nap",
+        "snooze"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Unfortunately, one of the research {{gap}} asked Harry a question.",
+       "accept": [
+        "assistants"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The question was difficult because it involved complex {{gap}} and equations.",
+       "accept": [
+        "calculations"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2006-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section you are going to hear a review of tomorrow's papers.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_06okt_fl.mp3",
+      "start": 750.61,
+      "end": 1325.44,
+      "clip": "hang/k_angol_06okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "John Horsting collects …",
+       "options": [
+        {
+         "key": "A",
+         "text": "pencils."
+        },
+        {
+         "key": "B",
+         "text": "cars."
+        },
+        {
+         "key": "C",
+         "text": "pens."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "He's got about … pencils now.",
+       "options": [
+        {
+         "key": "A",
+         "text": "10,000"
+        },
+        {
+         "key": "B",
+         "text": "6,500"
+        },
+        {
+         "key": "C",
+         "text": "1,000"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "He keeps his collection in his …",
+       "options": [
+        {
+         "key": "A",
+         "text": "office."
+        },
+        {
+         "key": "B",
+         "text": "study."
+        },
+        {
+         "key": "C",
+         "text": "garage."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "His smallest pencil is about … long.",
+       "options": [
+        {
+         "key": "A",
+         "text": "3/4 inch"
+        },
+        {
+         "key": "B",
+         "text": "1/4 inch"
+        },
+        {
+         "key": "C",
+         "text": "3.4 inches"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Written on his biggest pencil is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his wife's name."
+        },
+        {
+         "key": "B",
+         "text": "his name."
+        },
+        {
+         "key": "C",
+         "text": "\"Monster pencil\"."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The hero of the second news item is … years old.",
+       "options": [
+        {
+         "key": "A",
+         "text": "9"
+        },
+        {
+         "key": "B",
+         "text": "19"
+        },
+        {
+         "key": "C",
+         "text": "29"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "The distance between Alcatraz and San Francisco is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "1 mile."
+        },
+        {
+         "key": "B",
+         "text": "4 miles."
+        },
+        {
+         "key": "C",
+         "text": "1.4 miles."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "This part of the San Francisco Bay is considered dangerous, because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "it is very windy."
+        },
+        {
+         "key": "B",
+         "text": "there are dangerous animals in the water."
+        },
+        {
+         "key": "C",
+         "text": "the water is very deep."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "…. were waiting for him at Aquatic Park.",
+       "options": [
+        {
+         "key": "A",
+         "text": "His parents"
+        },
+        {
+         "key": "B",
+         "text": "A lot of journalists"
+        },
+        {
+         "key": "C",
+         "text": "His school friends"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "He raised … with his swim.",
+       "options": [
+        {
+         "key": "A",
+         "text": "$30,000"
+        },
+        {
+         "key": "B",
+         "text": "$3,000"
+        },
+        {
+         "key": "C",
+         "text": "$13,000"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "The money he raised with his brave act will go to a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "scientific institute."
+        },
+        {
+         "key": "B",
+         "text": "charity organization."
+        },
+        {
+         "key": "C",
+         "text": "person called Katrina."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-okt-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 6,
+     "instructions": [
+      "In this section you are going to hear a news item about a famous guitar.",
+      "Your task will be to circle the letter or letters of the correct answer or answers in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_06okt_fl.mp3",
+      "start": 1325.44,
+      "end": 1797.28,
+      "clip": "hang/k_angol_06okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This news item is from …",
+       "options": [
+        {
+         "key": "A",
+         "text": "England."
+        },
+        {
+         "key": "B",
+         "text": "Germany."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "What is special about this guitar is that it is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "John Lennon's first electric guitar."
+        },
+        {
+         "key": "B",
+         "text": "signed by the members of the Beatles."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "The guitar has spent the last twenty years in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the safe of a bank."
+        },
+        {
+         "key": "B",
+         "text": "Frank Dostal's house."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The Star Club plays an important role in the history of the guitar, because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "it is the place where Dostal's band won it in a talent contest."
+        },
+        {
+         "key": "B",
+         "text": "the Beatles played there."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Today, Frank Dostal is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the owner of the Star Club."
+        },
+        {
+         "key": "B",
+         "text": "a record producer."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The guitar was smuggled out of Germany, because they were afraid that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "it might get stolen."
+        },
+        {
+         "key": "B",
+         "text": "the German government would not let it out of the country."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Dostal is not planning to sell the guitar because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he is not satisfied with the amount of money he's been offered for it."
+        },
+        {
+         "key": "B",
+         "text": "it is too precious to him."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

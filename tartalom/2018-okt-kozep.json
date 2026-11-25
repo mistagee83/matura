@@ -1,0 +1,1286 @@
+{
+ "formatVersion": 1,
+ "id": "2018-okt-kozep",
+ "year": 2018,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2018-10-18",
+ "code": "1714",
+ "sourceFiles": {
+  "paper": "2018 - Középszintű októberi/k_angol_18okt_fl.pdf",
+  "key": "2018 - Középszintű októberi/k_angol_18okt_ut.pdf",
+  "audio": "2018 - Középszintű októberi/k_angol_18okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2018-okt-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 6,
+     "instructions": [
+      "Read this article about a man who rescued a gosling and then read the sentences (1- 6) following it. ● Mark a sentence A if it is true according to the article. ● Mark it B if it is false. ● Mark it C if there is not enough information in the text to decide if the sentence is true or not. ● Write your answers in the white boxes next to the numbers as in the example (0)."
+     ],
+     "title": "MAN AND GOOSE MAKE UNUSUAL FRIENDSHIP",
+     "body": [
+      "Two years ago, Mike Jivanjee spotted a tiny little gosling in a lake. The bird was alone, almost drowning, and at risk of being hit by a boat at any moment. So Mike did the right thing, wrapped up the gosling in a towel, and found her family about 100 yards away. But sadly the other geese made it clear that the tiny gosling wasn’t welcome.",
+      "Mike decided he would take the gosling home and care for her until she was fully grown, at which point he would release her into the wild. But the goose, who Mike named Kylie, had other plans. Every time Mike tried to let Kylie fly away, she just kept coming back. She wouldn’t leave him alone.",
+      "After constant attempts to set Kylie free, Mike realised that he had no other option but to accept his new friend. Kylie now follows him everywhere – to the shops, when he’s out on his boat, around the house.",
+      "‘Kylie’s personality is a lot like a person’s,’ says Mike. ‘She has her good days and bad days. She can do things she knows she is not supposed to. Like boarding other people’s boats, harassing neighbors or stealing things from them. She loves to steal small items like keys, wallets, flip flops and throw them in the lake.’",
+      "When they’re together (which is pretty much all the time), Mike and Kylie love to go to Starbucks and watch TV. Kylie loves all shows on the Discovery Channel. She’s also a huge fan of the Ellen Show and Animal Planet. Kylie also loves to go paddle and hang out inside neighbors’ houses when they go on vacation. She does not identify as a goose so she wants to be with people all the time.",
+      "(www.metro.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mike found the baby bird in a river.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "Mike tried to take the gosling back to its family.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Mike decided to take the bird to the zoo.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "On one occasion Kylie had to be taken to a vet.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The goose sometimes takes things from Mike’s neighbors.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "Kylie cannot stand films about nature.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "The bird spends a lot of time with Mike.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with Will Shortz, Crossword Editor for The New York Times the questions have been removed.",
+      "Your task is to match the questions to the answers.",
+      "There are two extra questions that you do not need."
+     ],
+     "body": [
+      "{{0}}\n?",
+      "Almost any kind. Sam Loyd, the great American puzzle genius, was my childhood hero. I bought his puzzle collections from Dover Books.",
+      "{{7}}\n? Yes, they have a special course, which was new when I was there. If you’re accepted, you can have a programme of your choice.",
+      "{{8}}\n? It's the participants. Crossword people tend to be smart, interesting and often funny, too. They're my kind of people.",
+      "{{9}}\n? You have to be a good speller, of course, and have a wide vocabulary. It helps to know a little about everything, from classical to modern.",
+      "{{10}}\n? Many of the crosswords I ran in the 1990s wouldn't get accepted today. Standards have risen both in themes and fill.",
+      "{{11}}\n? The worst kind involves ones like AROA, a Venezuelan copper center, IMU, a Hawaiian baking pit, and CERE and PELA, kinds of Chinese wax. I try never to use them.",
+      "{{12}}\n? Well, I think they will do fine in the electronic age. They're the best and most flexible form of puzzle ever devised.",
+      "{{13}}\n? Fewer than a hundred. And as one of these, I'm a very lucky guy.",
+      "(www.politico.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "You founded the American Crossword Puzzle Tournament in 1978 and you’re still directing it. What keeps you involved?"
+      },
+      {
+       "key": "B",
+       "text": "If print media dies, will crosswords survive?"
+      },
+      {
+       "key": "C",
+       "text": "What puzzles did you enjoy when you were growing up?"
+      },
+      {
+       "key": "D",
+       "text": "Are New York Times puzzles different since you became the paper’s crossword editor in 1993?"
+      },
+      {
+       "key": "E",
+       "text": "What were your goals when you became the editor there?"
+      },
+      {
+       "key": "F",
+       "text": "What are your feelings about words that appear frequently in puzzles, but not nearly as often in conversation?"
+      },
+      {
+       "key": "G",
+       "text": "We’ve noticed a lot of tournament champions win more than once. What qualities do they share?"
+      },
+      {
+       "key": "H",
+       "text": "You got a special college degree from Indiana University, isn’t that right?"
+      },
+      {
+       "key": "I",
+       "text": "If you had to guess how many people in the world can make their living on puzzle making and editing, what number would you say?"
+      },
+      {
+       "key": "K",
+       "text": "Do New York Times crosswords get harder every day of the week?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 5,
+     "instructions": [
+      "In the following text about family holiday programmes, the headings with the place names have been removed.",
+      "Your task is to match each text (14-18) to the correct place (A-H).",
+      "There are two extra headings that you do not need."
+     ],
+     "title": "IT'S TWIXMAS TIME: PLACES TO VISIT IN THE UK BETWEEN CHRISTMAS AND NEW YEAR",
+     "body": [
+      "{{0}}\nFor the first time ever, the beautiful gardens of this majestic building will be illuminated by torches and candles to create a magical after-dark trail. There will be seasonal themes in each section, including a fire garden and a small playground for children.",
+      "{{14}}\nThe world’s largest experience of its kind is open all year round. The family attraction stands at the historic yard where the ship was built and has nine interactive galleries, as well as other exhibitions allowing a glimpse into the glamour of the first-class cabins, as well as the story of that tragic voyage.",
+      "{{15}}\nThis charming place becomes even more so over the festive season, when its range of old living rooms receive seasonal decoration, giving an example of holiday activities in English households through the ages.",
+      "{{16}}\nThis place is another family favourite, especially for those who love taking a walk while admiring this great outdoor exhibition by some of the leading artists of the 20th century. In winter it can be particularly picturesque: as the artworks stand out atop a white carpet of snow.",
+      "{{17}}\nThis natural wonder is an iconic part of the region’s heritage. The programme lasts about 2 hours depending on weather conditions and how fast you can progress. The visitors’ centre is open daily and, of course, the great basalt columns and coastal path are open all year around.",
+      "{{18}}\nNow with a see-through roof, this place is an all-weather affair, without anything to ruin the beautiful views of the building while you glide along. There’s also a nearby café for after-sport relaxation which serves mulled wine and mince pies.",
+      "(independent.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Celebrating Christmas past, Geffrye Museum, London"
+      },
+      {
+       "key": "B",
+       "text": "Take a walk along the Giant’s Causeway, Antrim, Northern Ireland"
+      },
+      {
+       "key": "C",
+       "text": "Lighting up Blenheim Palace, Oxfordshire"
+      },
+      {
+       "key": "D",
+       "text": "Yorkshire sculpture park, Wakefield"
+      },
+      {
+       "key": "E",
+       "text": "Visit England’s tallest Christmas tree, London"
+      },
+      {
+       "key": "F",
+       "text": "Ice skating, Winchester Cathedral"
+      },
+      {
+       "key": "G",
+       "text": "Visit the Twinings tea shop and museum, London"
+      },
+      {
+       "key": "H",
+       "text": "Visit history’s greatest ocean liner, the Titanic, Belfast"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "H"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "D"
+      },
+      {
+       "n": 17,
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this text about buttons that may trick you.",
+      "Some parts of the sentences have been left out from the text.",
+      "Your task is to reconstruct the story by filling in the gaps (19-27) from the list (A-L) below.",
+      "Remember that there is one extra letter that you do not need."
+     ],
+     "title": "PRESS ME – THE BUTTONS THAT LIE TO YOU",
+     "body": [
+      "The underground arrives at a busy station {{0}}. It is early evening on a Thursday. There is a crowd of commuters inside and outside the train, {{19}}. The man who is nearest to them is very impatient. He pushes the green button {{20}}. A second later, the doors softly open. The crowds get on and off the train, {{21}}. Possibly the traveller didn’t know this, but his finger had no effect on the mechanism.",
+      "Some would call this a ‘placebo button’ – it {{22}}, but it is at least psychologically satisfying to push for the user. In fact, there are many examples of buttons which do nothing and indeed other technologies {{23}}, but here’s the really surprising thing. Many people say that we benefit from the illusion that we are in control of something – {{24}}.",
+      "In 2013, BBC journalist Tom de Castella discovered {{25}}. A crossing in central London had programmed intervals for red and green lights, for example. Pushing the button would only change the length of these intervals between midnight and 7am. In several other cities during busy periods, the crossings were programmed {{26}}. The buttons did nothing, but a “wait” light would still show when they were pressed and, yes, people still pressed them believing {{27}}!",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "which says “open”"
+      },
+      {
+       "key": "B",
+       "text": "even when we’re not"
+      },
+      {
+       "key": "C",
+       "text": "along the Central Line in London"
+      },
+      {
+       "key": "D",
+       "text": "gives no control over a system"
+      },
+      {
+       "key": "E",
+       "text": "to change their signals at a specific rate"
+      },
+      {
+       "key": "F",
+       "text": "that zebra crossings had a great many placebo buttons"
+      },
+      {
+       "key": "G",
+       "text": "waiting for the doors to open"
+      },
+      {
+       "key": "H",
+       "text": "which are actually designed to mislead us"
+      },
+      {
+       "key": "I",
+       "text": "where you may have to wait over a minute"
+      },
+      {
+       "key": "K",
+       "text": "that their actions were having an effect"
+      },
+      {
+       "key": "L",
+       "text": "and their journeys continue"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "answer": "G"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "L"
+      },
+      {
+       "n": 22,
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "K"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2018-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read about a legend connected to the Tower of London. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE SIX RAVENS",
+     "body": [
+      "If anything characterizes the British, it is how they respect and preserve their traditions and legends. One of these {{0}} legends is the story of the six ravens at the Tower of London.",
+      "The legend, and with it the tradition, was born during the reign of Charles II (1630-1685). The king’s {{1}} wanted to remove all the ravens from the Tower. These birds spent all day flying around, making it {{2}} for him to observe the sky with his telescope. But King Charles II thought it would be bad luck to scare or kill the ravens. To ensure the {{3}} of these birds Charles II ruled that there should always be at {{4}} six ravens inhabiting the Tower.",
+      "One of the first {{5}} of the Tower of London’s ravens appeared in a novel by a Japanese writer, The Tower of London. He wrote that those executed in the Tower were turned into ravens. It is a fabulous dark story that adds to the {{6}} of the place.",
+      "Today, the ravens are {{7}} as ‘soldiers’ of the Kingdom, and, thus, can be expelled from the Tower if they misbehave. This happened to Raven George, who was fired in 1986 for {{8}} TV antennas; he was taken to the Zoological Park of Wales.",
+      "(https://theculturetrip.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "fascinate",
+       "example": true,
+       "accept": [
+        "fascinating"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "astronomy",
+       "accept": [
+        "astronomer"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "possible",
+       "accept": [
+        "impossible"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "protect",
+       "accept": [
+        "protection"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "little",
+       "accept": [
+        "least"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "describe",
+       "accept": [
+        "descriptions"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "magic",
+       "accept": [
+        "magic"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "register",
+       "accept": [
+        "registered"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "attack",
+       "accept": [
+        "attacking"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a joke about the smart Navajo people. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (9-17) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "NASA AND THE NAVAJO",
+     "body": [
+      "When NASA was working on the Apollo Project, it took the astronauts to {{0}} Navajo reservation in Arizona for training. One day, a Navajo elder and his son {{9}} across the space crew, who were walking among the rocks.",
+      "The elder, who {{10}} only Navajo, asked a question. His son translated for the NASA people: \"What are these guys in the big suits doing?\" One of the astronauts said they were preparing to go {{11}} a trip to the moon. The Navajo elder got all excited and asked {{12}} it would be possible to send a message to the moon.",
+      "Recognizing a promotional opportunity, a NASA official said, \"Certainly!\" and took out a tape recorder. The Navajo elder's comments into the microphone {{13}} brief. The NASA official asked the son to translate {{14}} his father had said. The son laughed heartily {{15}} he refused to translate.",
+      "So the NASA people took the tape to a nearby Navajo village and played {{16}} for other members of the tribe. They laughed long, too, but also refused to translate the message. Eventually, an official government translator was called. After he finally {{17}} laughing, he translated the message: \"Watch out for these guys! They've come to steal your land.\"",
+      "(https://www.reddit.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "a"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "came"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "spoke",
+        "knew"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "if",
+        "whether"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "what",
+        "whatever",
+        "everything"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "but",
+        "and"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "stopped",
+        "finished",
+        "quit"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-kozep-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a Chinese-born American artist. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (18-25) in the text."
+     ],
+     "title": "BAMBI ARTIST DIES AGED 106",
+     "body": [
+      "Tyrus Wong, the artist {{0}} works inspired the Disney film Bambi, has died aged 106.",
+      "A Chinese immigrant, Mr Wong’s vibrant paintings captured Walt Disney’s eye and {{18}} the film’s unique style. In a statement, the Walt Disney Museum said “his impact on the artistic composition of the animated feature Bambi {{19}} be praised enough.”",
+      "Mr Wong immigrated to the United States from China {{20}} a child. After studying as an artist, he began working with Disney in 1938, {{21}} hundreds of pictures between poses to create the illusion of motion.",
+      "“Walt Disney saw that Tyrus {{22}} produce admirable artwork that did not necessarily look like the forest - but rather, felt like the forest. Walt’s vision for Bambi and use of Tyrus’ work still {{23}} films today,” the statement said.",
+      "After retiring, he created {{24}} beautiful bamboo kites, and became the subject of a documentary about his life. The documentary’s director said “With his passing, we {{25}} a brilliant artist, Chinese American pioneer, and hero.”",
+      "(www.bbc.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "who’s"
+        },
+        {
+         "key": "B",
+         "text": "of whose"
+        },
+        {
+         "key": "C",
+         "text": "whose"
+        },
+        {
+         "key": "D",
+         "text": "of whom"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "got based on"
+        },
+        {
+         "key": "B",
+         "text": "became the basis of"
+        },
+        {
+         "key": "C",
+         "text": "founded at"
+        },
+        {
+         "key": "D",
+         "text": "became placed in"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "must not"
+        },
+        {
+         "key": "B",
+         "text": "will not"
+        },
+        {
+         "key": "C",
+         "text": "should not"
+        },
+        {
+         "key": "D",
+         "text": "cannot"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "like"
+        },
+        {
+         "key": "B",
+         "text": "then"
+        },
+        {
+         "key": "C",
+         "text": "as"
+        },
+        {
+         "key": "D",
+         "text": "born"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "drawing"
+        },
+        {
+         "key": "B",
+         "text": "when drew"
+        },
+        {
+         "key": "C",
+         "text": "drawn"
+        },
+        {
+         "key": "D",
+         "text": "drew"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "can"
+        },
+        {
+         "key": "B",
+         "text": "had to"
+        },
+        {
+         "key": "C",
+         "text": "ought"
+        },
+        {
+         "key": "D",
+         "text": "was able to"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "introduces"
+        },
+        {
+         "key": "B",
+         "text": "identifies"
+        },
+        {
+         "key": "C",
+         "text": "influences"
+        },
+        {
+         "key": "D",
+         "text": "includes"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "plenty"
+        },
+        {
+         "key": "B",
+         "text": "lot of"
+        },
+        {
+         "key": "C",
+         "text": "dozens"
+        },
+        {
+         "key": "D",
+         "text": "hundreds of"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "would lose"
+        },
+        {
+         "key": "B",
+         "text": "have lost"
+        },
+        {
+         "key": "C",
+         "text": "had lost"
+        },
+        {
+         "key": "D",
+         "text": "could lose"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2018-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear the story of the birth of the bikini.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_18okt_fl.mp3",
+      "start": 0,
+      "end": 630.68,
+      "clip": "hang/k_angol_18okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How did Western Europeans greet the first war-free summer? {{gap}}",
+       "accept": [
+        "Cheerfully"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Who was Louis Reard? {{gap}}",
+       "key": "A (French) (fashion) designer",
+       "keywords": [
+        [
+         "designer"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "What event took place off the Bikini Atoll in the Pacific Ocean in 1946? {{gap}}",
+       "key": "A(n) (U.S./American) atomic test",
+       "keywords": [
+        [
+         "atomic",
+         "test"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Who was difficult for Reard to find? {{gap}}",
+       "key": "A (professional) model",
+       "keywords": [
+        [
+         "model"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What was Micheline Bernardini by profession? {{gap}}",
+       "key": "A(n) (exotic) dancer",
+       "keywords": [
+        [
+         "dancer"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "How many fan letters did Bernadini receive? {{gap}}",
+       "key": "(Some/around/about) 50,000",
+       "keywords": [
+        [
+         "50000"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "In which two countries was the bikini banned for some time? {{gap}}",
+       "key": "Spain and Italy",
+       "keywords": [
+        [
+         "spain",
+         "italy"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "When did the bikini become popular in Europe? {{gap}}",
+       "key": "In the (19) (‘)50s.",
+       "keywords": [
+        [
+         "50s"
+        ],
+        [
+         "1950s"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "In which country was the use of the bikini resisted until the 1960s? {{gap}}",
+       "key": "In America/the U.S.",
+       "keywords": [
+        [
+         "america"
+        ],
+        [
+         "u",
+         "s"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "Ebben a feladatban csak a félkövér betűtípussal kiemelt információkat várjuk el a vizsgázóktól."
+     }
+    },
+    {
+     "id": "2018-okt-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear the story of a Korean woman who got her driving licence at the age of 69.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_18okt_fl.mp3",
+      "start": 630.68,
+      "end": 1173.88,
+      "clip": "hang/k_angol_18okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mrs. Cha is a woman who …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is 69 years old."
+        },
+        {
+         "key": "B",
+         "text": "lives in a Korean village."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Mrs. Cha’s record …",
+       "options": [
+        {
+         "key": "A",
+         "text": "greatly surprises a lot of people."
+        },
+        {
+         "key": "B",
+         "text": "makes people smile."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Mrs. Cha succeessfully passed her written test …",
+       "options": [
+        {
+         "key": "A",
+         "text": "last November."
+        },
+        {
+         "key": "B",
+         "text": "on her 100th try."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Mrs. Cha …",
+       "options": [
+        {
+         "key": "A",
+         "text": "passed the driving skill and road tests on her 5th try."
+        },
+        {
+         "key": "B",
+         "text": "paid $5 for each written exam."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "For some time, Mrs. Cha took the test …",
+       "options": [
+        {
+         "key": "A",
+         "text": "five times a week."
+        },
+        {
+         "key": "B",
+         "text": "twice a week."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Mrs. Cha’s fame is based on people’s sympathy for …",
+       "options": [
+        {
+         "key": "A",
+         "text": "losers."
+        },
+        {
+         "key": "B",
+         "text": "old people."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "A driving instructor …",
+       "options": [
+        {
+         "key": "A",
+         "text": "suggested that Mrs. Cha should take further driving lessons."
+        },
+        {
+         "key": "B",
+         "text": "did not worry too much about Mrs. Cha’s driving skills."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "After getting her driving licence, Mrs. Cha ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "received a present from the Hyundai car company."
+        },
+        {
+         "key": "B",
+         "text": "now appears in a television series."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear a conversation about a language learning technique called the “Parrot and Overshadow Method”.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right.",
+      "Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_18okt_fl.mp3",
+      "start": 1173.88,
+      "end": 1795.61,
+      "clip": "hang/k_angol_18okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Peter is a less experienced teacher than the woman.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "The woman asks Peter because she would like to sound like a native speaker.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Peter doesn’t think it’s important for learners of English to sound like a native speaker.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "This method only works if you can already understand English that is spoken quickly.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "It’s the first time the woman has heard about this method.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Parroting is actually more important than overshadowing.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The method only works if the learner speaks out loud.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Any authentic audio or visual material can be used, if it has a subtitle or a script.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Peter recommends that when students listen to the material for the first time, they should also read the text.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Overshadowing means that the student should repeat each sentence after the speaker.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "This method was invented by a native speaker.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

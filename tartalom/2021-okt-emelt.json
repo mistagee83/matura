@@ -1,0 +1,1458 @@
+{
+ "formatVersion": 1,
+ "id": "2021-okt-emelt",
+ "year": 2021,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2021-10-21",
+ "code": "2119",
+ "sourceFiles": {
+  "paper": "2021 - Emeltszintű október/e_angol_21okt_fl.pdf",
+  "key": "2021 - Emeltszintű október/e_angol_21okt_ut.pdf",
+  "audio": "2021 - Emeltszintű október/e_angol_21okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2021-okt-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 8,
+     "instructions": [
+      "Read this article about farmers in the UK and then read the gapped sentences.",
+      "Your task is to fill the gaps (1-8) with one word only based on what the article says."
+     ],
+     "title": "UK FARMERS STRUGGLE TO HIRE OVERSEAS WORKERS FOR HARVEST",
+     "body": [
+      "It is getting harder for Angela Wheatley to recruit the roughly 1,500 seasonal workers needed each year to harvest lettuce, radishes and onions on the extensive Eden farm in the south of England.",
+      "“In previous years, when we would recruit in Bulgaria and Romania, we would invite 300 people to an event and 600 would turn up,” said the human resources director for one of Britain’s largest growers of vegetables. “Now we invite 600 people and 100 turn up, and those applying are less educated with lower levels of English.” Like all UK growers, Eden relies largely on workers from Eastern Europe to bring in the harvest from April to November.",
+      "Attracting the 60,000 to 70,000 seasonal workers needed across Britain each year has been a struggle since the 2016 Brexit referendum, forcing farm businesses to increase wages and spend more to recruit and retain people.",
+      "The UK competes for farm workers with countries such as Germany, Spain and the Netherlands, and the fall in the value of the pound means that they risk earning less if they come to Britain. Recruitment agencies say few British workers want temporary jobs that require long hours in difficult conditions. The jobs typically pay workers the national minimum wage of £8.21 an hour plus performance-related bonuses, for example by the kilo of fruit or vegetables picked.",
+      "In 2018 58 per cent of growers surveyed by the National Farmers Union reported not being able to secure all the seasonal workers they needed. In contrast, the figure stood at 25 per cent before the Brexit referendum. 48 per cent of farmers also reported crops going unharvested as a result of labour shortages.",
+      "A new two-year pilot scheme gives visas to 2,500 seasonal workers from outside the EU to work on British farms, but the government has not yet decided whether to make it permanent.",
+      "Farming organisations have urged that the visa programme for non-EU workers be greatly expanded, pointing out that Germany already has a similar scheme.",
+      "UK farms rely on workers from outside the UK at {{0}} time.",
+      "There is a serious {{1}} of foreign applicants at present.",
+      "Angela Wheatley is the HR director of {{2}}.",
+      "Job applicants’ knowledge of {{3}} used to be better.",
+      "Before 2016 it cost {{4}} to employ seasonal workers.",
+      "Because of a weaker {{5}} it may be more profitable to do farm work on the Continent.",
+      "Few British people are attracted by the {{6}} conditions or the pay.",
+      "Roughly one out of {{7}} farmers say they are unable to bring in all their harvest because they don’t have enough workers.",
+      "Whether the pilot visa programme will become {{8}} depends on the government."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "harvest"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "shortage",
+        "shortfall",
+        "lack",
+        "dearth"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "Eden"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "English"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "less"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "pound",
+        "currency"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "working",
+        "work",
+        "difficult",
+        "employment",
+        "arduous",
+        "challenging",
+        "tough",
+        "demanding",
+        "trying"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "two",
+        "2"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "permanent",
+        "long-lasting"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2021-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about French ways of speaking and then read the statements (9-15) following it.",
+      "Your task is to decide if the statements are true or not.",
+      "Mark a statement A if it is true according to the article",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "WHY THE FRENCH LOVE TO SAY NO",
+     "body": [
+      "“Non, ce n’est pas possible. I keep telling you, it can’t be done,” the airline booking agent insisted. We’d been on the phone for 20 minutes as I tried to exchange a full-fare, exchangeable plane ticket. Sitting calmly at home, my eyes took in the beauty of my Parisian apartment. Over the last 18 years, I’d learned to see the beauty that surrounded me as compensation for living in a society where the default answer to almost every question, request or suggestion is a disheartening ‘non’ (no).",
+      "A conversation with French friends and family about their use of ‘non’ and why it seems to be the national default reads like the script for a Gérard Depardieu comedy. “No, it’s not true, we don’t always say ‘no’ first,” retorted the 60-something businessman. “No, you’re right, even when we agree, we start with no,” reacted the lawyer. “Hunh, no… I don’t know why…” pondered the young artist.",
+      "Olivier Giraud, a French comedian explains this reflex by saying, “We must not forget that the French are a people of protest, and a protest always starts with a ‘non’.” Indeed, the French have been protesting more or less non-stop since the citizens of Paris stormed the Bastille prison in 1789. Authors Julie Barlow and Jean-Benoît Nadeau agree, “The French Revolution was about the irrevocable right of all citizens to refuse.”",
+      "Yet ‘non’ in France does not always mean ‘no’. “Contrary to popular opinion, the French do listen, and well, but this usually happens after they say no a couple of times. It takes a certain amount of faith, and sometimes a lot of talking, but you can almost always find the yes hiding behind a French no, if it’s there,” write Barlow and Nadeau.",
+      "Hoping to get to this hidden yes, I re-explained my need for a flight that night. The booking agent replied that the airline required one day’s notice to exchange tickets. I asked if that was 24 hours or one calendar day. Since that was not a ‘yes’ or ‘no’ question, she was able to tell me it was a calendar day. “When is the very first flight the next day?” I enquired. It was five minutes after midnight – exactly 35 minutes after the flight I had been trying to book for my trip. At last, I had my yes."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The travel agent refused the author’s request several times.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The author wanted a refund for his plane ticket.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "For the author the beauty of his Paris home makes up for how discouragingly negative French people sound.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "In the “Gérard Depardieu comedy”, none of the three speakers agreed with the author.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Julie Barlow and Jean-Benoît Nadeau are the authors of a book about the French Revolution.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "The French are generally regarded as good listeners.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Foreigners who speak French are more likely to get what they want.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The author managed to get the information he needed when he asked the right question.",
+       "answer": "A"
+      }
+     ],
+     "source": "http://www.bbc.com/travel/story/20190804-why-the-french-love-to-say-no"
+    },
+    {
+     "id": "2021-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about a Dutch home some sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are three extra sentences you will not need."
+     ],
+     "title": "CLUB 18-108",
+     "body": [
+      "Sores Duman is a normal 29-year-old. {{0}} Later in the week he will see an action movie with his mate Piebe. {{16}} It might take more time than usual for his friends to get ready for these activities. Piebe is 79 and Martey a sprightly 94. {{17}} “No, I do similar things with friends my own age. I don’t see the difference in age as an obstacle.”",
+      "Mr Duman lives at the Humanitas care home in Deventer, in central Holland. His housemates’ average age is over 85. {{18}} They are part of a scheme started in 2012 that provides them with free housing in exchange for 30 hours per month of their time living as a “good neighbour”. {{19}}",
+      "Both parties appear to benefit from the programme. {{20}} He claims that living in a care home has not affected his university experience, and in a promotional video one resident calls the initiative very cosy. The home now has a waiting list, which it previously did not. And students are queuing up. {{21}}",
+      "Such initiatives could help combat loneliness, an increasing problem across the rich world. {{22}} Loneliness is reckoned to have serious health consequences, and the problem may only get worse. It can be an especially painful experience for someone who is also socially isolated. {{23}} Creating a space for the elderly to mingle with youngsters can lift spirits – and help cash-strapped millennials."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Mr Duman estimates that he has saved over €10,000 in rent."
+      },
+      {
+       "key": "B",
+       "text": "A Dutch care home experiments with housing students with the old."
+      },
+      {
+       "key": "C",
+       "text": "He goes to the cinema, follows the Champion League attentively, parties occasionally and talks about life and love with his friends."
+      },
+      {
+       "key": "D",
+       "text": "Only one activity is compulsory: preparing and serving a meal on weekday evenings."
+      },
+      {
+       "key": "E",
+       "text": "He has been there for three years, along with five other students from nearby universities and around 150 elderly residents."
+      },
+      {
+       "key": "F",
+       "text": "Before that, he may go to McDonald’s with Martey, another chum."
+      },
+      {
+       "key": "G",
+       "text": "Social isolation is becoming more common partly because people are marrying later."
+      },
+      {
+       "key": "H",
+       "text": "When two left the home in April, 27 applied to replace them."
+      },
+      {
+       "key": "I",
+       "text": "Is Humanitas the first institution where old and young people live together?"
+      },
+      {
+       "key": "K",
+       "text": "The very old, migrants, the sick or disabled, and singletons are most at risk of feeling lonely."
+      },
+      {
+       "key": "L",
+       "text": "A team from Finland visited Deventer and was inspired to start a similar scheme."
+      },
+      {
+       "key": "M",
+       "text": "Does Sores think his weekend plans are odd?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "answer": "F"
+      },
+      {
+       "n": 17,
+       "answer": "M"
+      },
+      {
+       "n": 18,
+       "answer": "E"
+      },
+      {
+       "n": 19,
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "H"
+      },
+      {
+       "n": 22,
+       "answer": "K"
+      },
+      {
+       "n": 23,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2021-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article about some special computer programmes called chatbots and then read the half sentences following it.",
+      "Your task is to match the half sentences based on what the article says.",
+      "There are three more letters than you need."
+     ],
+     "title": "CAN A COMPUTER FOOL YOU INTO THINKING IT IS HUMAN?",
+     "body": [
+      "Robert Epstein was looking for love. As he recounted in the journal Scientific American Mind, he began a promising email exchange with a pretty, warm and friendly girl in Russia. Soon she confessed she was developing a crush on him. \"I have very special feelings about you, a beautiful flower blossoming in my soul...\"",
+      "It took a long while for Epstein to notice that Ivana never really responded directly to his questions. Suspicious, he eventually sent her a line of pure bang-on-the-keyboard gibberish. She responded by repeating sweet nothings about how much she liked him. At last, Epstein realised the truth: Ivana was a chatbot.",
+      "What makes the story surprising is not that a chatbot managed to trick a lonely middle-aged man. It is that the man who was tricked was one of the founders of a test of artificial conversation in which computers try to fool humans into thinking that they, too, are human. In other words, one of the world's top chatbot experts had spent two months writing love letters to a computer programme.",
+      "One of the first and most famous early chatbots, Eliza, would successfully imitate a human psychotherapist. It was programmed in the mid-1960s by Joseph Weizenbaum. If you typed, \"my husband made me come here\", Eliza might simply reply, \"your husband made you come here.\" If you mentioned feeling angry, Eliza might ask, \"do you think coming here will help you not to feel angry?\" People did not care that Eliza was not human: they seemed pleased that someone would listen to them without judgement. Weizenbaum's secretary famously asked him to leave the room so that she could talk to Eliza in private.",
+      "Psychotherapists were fascinated. A contemporary article in a medical journal said that \"several hundred patients an hour could be handled by a computer system.\" Supervising an army of bots, the human therapist would be far more efficient. And indeed, some therapies are now administered by chatbots, such as Woebot. There is no pretence that they are human.",
+      "Chatbots are now widely used in call centres, handling a growing number of complaints and enquiries. Babylon Health is a chatbot that quizzes people about their medical symptoms and decides whether they should be referred to a doctor.",
+      "Economists today argue that automation reshapes jobs rather than destroying them. Computers take over the routine tasks and humans supply the creativity and adaptability."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "a first-class expert."
+      },
+      {
+       "key": "B",
+       "text": "becoming more and more common."
+      },
+      {
+       "key": "C",
+       "text": "in Scientific American Mind."
+      },
+      {
+       "key": "D",
+       "text": "a great help."
+      },
+      {
+       "key": "E",
+       "text": "a human being."
+      },
+      {
+       "key": "F",
+       "text": "mechanical."
+      },
+      {
+       "key": "G",
+       "text": "essential."
+      },
+      {
+       "key": "H",
+       "text": "Eliza."
+      },
+      {
+       "key": "I",
+       "text": "genuine."
+      },
+      {
+       "key": "K",
+       "text": "consulting a psychologist."
+      },
+      {
+       "key": "L",
+       "text": "corresponding with a computer."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Robert Epstein’s article appeared",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "At first, Ivana’s letters had looked",
+       "answer": "I"
+      },
+      {
+       "n": 25,
+       "stem": "After a while Epstein realised that he was",
+       "answer": "L"
+      },
+      {
+       "n": 26,
+       "stem": "Epstein had been fooled even though he was",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "People were happy to “talk” to",
+       "answer": "H"
+      },
+      {
+       "n": 28,
+       "stem": "Some therapists consider chatbots",
+       "answer": "D"
+      },
+      {
+       "n": 29,
+       "stem": "Chatbots are now",
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "Human creativity will always be",
+       "answer": "G"
+      }
+     ],
+     "source": "https://www.bbc.com/news/business-49344596"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2021-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about how American settlers helped their colonies by playing the lottery. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "LOTTERY TICKETS SUPPORTED COLONIES",
+     "body": [
+      "For early American settlers, {{0}} a lottery ticket was a civic duty. That’s {{1}} lotteries were one of the biggest ways that the 13 colonies supported themselves financially.",
+      "Lotteries were a part of British settlements from the very beginning.",
+      "In 1612, the Virginia Company of London {{2}} a lottery to fund ships bound for the Jamestown Colony. The prize was 4,000 crowns, a great deal of money in those days. However, the company wasn’t very successful {{3}} selling tickets in London. In 1616, the company sent people to sell tickets in “instant” lotteries outside the capital. In these games, people could find out {{4}} they had won a prize immediately after buying a ticket, similarly to scratch-and-win lotteries today. Over the next four years, the tickets {{5}} in an estimated £29,000 – £8 million today.",
+      "As more colonists {{6}}, they also funded their settlements with lottery money. Lotteries paid for public buildings, roads and canals. Influential figures like Washington sponsored lotteries {{7}} specific projects. Scholars have characterized these lotteries in the colonies as a kind of voluntary tax that colonists paid in exchange for the chance to win prizes. {{8}} the Virginia Company’s first lottery, prizes weren’t always in the form of coins. A 1720 lottery ad promised the winner a new brick house."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ABOUT"
+      },
+      {
+       "key": "B",
+       "text": "AT"
+      },
+      {
+       "key": "C",
+       "text": "BUYING"
+      },
+      {
+       "key": "D",
+       "text": "BECAUSE"
+      },
+      {
+       "key": "E",
+       "text": "BROUGHT"
+      },
+      {
+       "key": "F",
+       "text": "CAUSED"
+      },
+      {
+       "key": "G",
+       "text": "FOR"
+      },
+      {
+       "key": "H",
+       "text": "HELD"
+      },
+      {
+       "key": "I",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "K",
+       "text": "SETTLED"
+      },
+      {
+       "key": "L",
+       "text": "UNLIKE"
+      },
+      {
+       "key": "M",
+       "text": "WHETHER"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "answer": "K"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "L"
+      }
+     ],
+     "source": "https://www.history.com/news/13-colonies-funding-lottery"
+    },
+    {
+     "id": "2021-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the possible connection between lack of sleep and being overweight. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (9-16) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SLEEPYHEADS PREFER JUNK FOOD",
+     "body": [
+      "A night with no sleep changes the brain {{0}} determines how appetizing people find high-calorie foods, a new study finds. People who lost a night of sleep also lost much of their willpower to eat right. This connection could help explain {{9}} people who don’t regularly get a good night’s sleep are more likely to be overweight.",
+      "Scientists recruited 23 adult volunteers to {{10}} part in tests at a sleep lab on two separate nights. On night one, they were encouraged to sleep normally. On the other night, however, the scientists {{11}} their recruits awake all night long. After each night in the lab, the volunteers reported how hungry they were. That didn’t differ after the two nights. But what foods they found appetizing {{12}} - a lot. They were shown 80 pictures of food while their brains were being scanned. After seeing each picture, they rated {{13}} much they desired that food. Low-calorie foods, like carrots, looked equally appetizing to volunteers after sleeping deeply or {{14}} at all. But junk foods (e.g. potato chips) looked a lot yummier after volunteers stayed awake all night. And the sleepier the recruits felt, the better those sweet and fatty foods looked.",
+      "The head scans showed that a night {{15}} sleep made changes in the volunteers’ brain activity, too. Brain areas involved {{16}} making decisions about what to eat became less active. However, brain activity rose in an area thought to promote eating."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "and"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "why",
+        "how"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "take"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "kept",
+        "wanted"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "did",
+        "differed"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "how"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "without",
+        "lacking"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "in",
+        "with"
+       ]
+      }
+     ],
+     "source": "https://www.sciencenewsforstudents.org/article/sleepyheads-prefer-junk-food"
+    },
+    {
+     "id": "2021-okt-emelt-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the longest sea bridge in the world, opened in China on 23 October 2018. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (17-24) in the text."
+     ],
+     "title": "HONG KONG–ZHUHAI–MACAU BRIDGE",
+     "body": [
+      "The world’s longest sea bridge, connecting Hong Kong and Macau {{0}} the mainland Chinese city of Zhuhai, has been officially opened. As {{17}} as being the longest bridge of its type, stretching 55 km, it is also one of the world’s most unusual roadways, with cameras to detect yawning and drivers forced {{18}} heart monitors. In addition, access is restricted to only a few.",
+      "Drivers’ heart rate and blood pressure will be monitored {{19}} they cross the bridge. The information will be sent to the bridge’s control centre. Also, there will be cameras monitoring drivers: if a driver {{20}} more than three times in 20 seconds, the authorities will be alerted.",
+      "{{21}} the bridge aims to connect Hong Kong and Macau with China, people from Hong Kong will need special permits to drive across the bridge. Long-term permits will be granted to people who meet strict criteria, {{22}} paying significant taxes in China or donating large amounts of money to charities, or those who are members of one of several political organisations. Others can take a taxi. There {{23}} public transport on the bridge.",
+      "Critics say the multi-billion-dollar bridge is an attempt to integrate Hong Kong into China. Both Hong Kong and Macau are part of China, but are special administrative regions, {{24}} have their own governments, legal systems, and policies. There are concerns this bridge is a sign of Beijing’s desire to bring the two autonomous regions more firmly under its control."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "under"
+        },
+        {
+         "key": "B",
+         "text": "on"
+        },
+        {
+         "key": "C",
+         "text": "to"
+        },
+        {
+         "key": "D",
+         "text": "over"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "far"
+        },
+        {
+         "key": "B",
+         "text": "well"
+        },
+        {
+         "key": "C",
+         "text": "long"
+        },
+        {
+         "key": "D",
+         "text": "much"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "to wear"
+        },
+        {
+         "key": "B",
+         "text": "to be worn"
+        },
+        {
+         "key": "C",
+         "text": "wearing"
+        },
+        {
+         "key": "D",
+         "text": "being worn"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "as"
+        },
+        {
+         "key": "B",
+         "text": "during"
+        },
+        {
+         "key": "C",
+         "text": "and"
+        },
+        {
+         "key": "D",
+         "text": "since"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "would yawn"
+        },
+        {
+         "key": "B",
+         "text": "have yawned"
+        },
+        {
+         "key": "C",
+         "text": "will yawn"
+        },
+        {
+         "key": "D",
+         "text": "yawns"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "Despite"
+        },
+        {
+         "key": "B",
+         "text": "If"
+        },
+        {
+         "key": "C",
+         "text": "Though"
+        },
+        {
+         "key": "D",
+         "text": "Because"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "which is"
+        },
+        {
+         "key": "B",
+         "text": "such as"
+        },
+        {
+         "key": "C",
+         "text": "only if"
+        },
+        {
+         "key": "D",
+         "text": "whenever"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "are a few"
+        },
+        {
+         "key": "B",
+         "text": "is no"
+        },
+        {
+         "key": "C",
+         "text": "is only one"
+        },
+        {
+         "key": "D",
+         "text": "aren’t many"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "what"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "which"
+        },
+        {
+         "key": "D",
+         "text": "who"
+        }
+       ],
+       "answer": "C"
+      }
+     ],
+     "source": "https://www.theguardian.com/world/2018/oct/22/longest-sea-bridge-to-open-china-hong-kong-zhuhai-macau-permit"
+    },
+    {
+     "id": "2021-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an anecdote about how a young girl from Westfield, New York, influenced Abraham Lincoln, the 16th president of the U.S., to grow a beard. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE STORY BEHIND LINCOLN’S BEARD",
+     "intro": "Concerned that Lincoln’s thin, worry-lined face was so severe it might scare off voters, 11-year-old Grace Bedell found a",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "solution: grow him a beard. On October 15, 1860, she wrote",
+       "answer": "him"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "a letter to the Republican nominee outlining her plan to help",
+       "answer": null
+      },
+      {
+       "n": 25,
+       "text": "him out win the coming presidential election. It reads in part:",
+       "answer": "out"
+      },
+      {
+       "n": 26,
+       "text": "“I have four brothers and two of them will vote for you and",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "even if you let your beard grow, I will get the rest of them to",
+       "answer": "even"
+      },
+      {
+       "n": 28,
+       "text": "vote for you. You would look like a great deal better as your",
+       "answer": "like"
+      },
+      {
+       "n": 29,
+       "text": "face is so thin. All the ladies like beards and they would rather",
+       "answer": "rather"
+      },
+      {
+       "n": 30,
+       "text": "persuade their husbands to vote for you and after then you",
+       "answer": "after"
+      },
+      {
+       "n": 31,
+       "text": "would be President.” Lincoln wrote back to Grace four days later,",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "making no promises. However, he began to growing his facial",
+       "answer": "to"
+      },
+      {
+       "n": 33,
+       "text": "hair shortly afterwards. He had a full beard when, on his own way",
+       "answer": "own"
+      },
+      {
+       "n": 34,
+       "text": "to his 1861 inauguration, he stopped near Westfield so he could",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "greet his young pen pal. Lincoln said her, “You see? I grew",
+       "answer": "her"
+      }
+     ],
+     "outro": "this beard for you.” The beard has since become inseparable from the memory of the man."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2021-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will listen to some information about a dinosaur bone found in south-western France.",
+      "Your task will be to write one word in each of the gaps below using the exact words that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_21okt_fl.mp3",
+      "start": 0,
+      "end": 474.78,
+      "clip": "hang/e_angol_21okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The two-metre dinosaur thigh bone was found by {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "French"
+        ],
+        [
+         "scientists"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The dinosaur bone is approximately as heavy as a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "average"
+        ],
+        [
+         "horse"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Scientists believe that sauropods were the largest {{gap}} {{gap}} dinosaurs.",
+       "gaps": [
+        [
+         "plant"
+        ],
+        [
+         "eating"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "They found the bone near the town of Cognac at a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "excavation"
+        ],
+        [
+         "site"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Palaeontologist Romain Allain from the National History Museum of Paris called the finding of the bone a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "major"
+        ],
+        [
+         "discovery"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Mr Allain said that sauropods {{gap}} {{gap}} 40 to 50 tonnes.",
+       "gaps": [
+        [
+         "probably"
+        ],
+        [
+         "weighed"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Sauropods were the largest {{gap}} {{gap}} that have ever lived.",
+       "gaps": [
+        [
+         "land"
+        ],
+        [
+         "animals"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "To support their huge bodies, sauropods used to spend their time in {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "shallow"
+        ],
+        [
+         "water"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Since 2010, more than 7,500 fossils from at least forty {{gap}} {{gap}} have been discovered in the area.",
+       "gaps": [
+        [
+         "different"
+        ],
+        [
+         "species"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2021-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a museum guide describing a famous painting called American Gothic by Grant Wood.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_21okt_fl.mp3",
+      "start": 474.78,
+      "end": 1149.4,
+      "clip": "hang/e_angol_21okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The museum guide says that the Grant Wood painting is the first stop on the tour.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "The house Grant Wood saw had been built in 1895.",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "Grant Wood thought the window and the house were a perfect match.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Grant Wood drew the house on an envelope straight away.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Museum-goers who think that the people in the picture are husband and wife are wrong.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "The artist painted an exact likeness of his sister.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The local dentist was worse at posing than Wood’s sister.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Art critics agree that the painting is a satire on the Midwest region of the US.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Grant Wood’s painting was immediately praised and admired by local people.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "In American popular art, there are more parodies of American Gothic than of Mona Lisa.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2021-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear an interview with Rowan Atkinson, the famous English comedian.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "e_angol_21okt_fl.mp3",
+      "start": 1149.4,
+      "end": 1795.66,
+      "clip": "hang/e_angol_21okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mr. Rowan Atkinson is a(n) …",
+       "options": [
+        {
+         "key": "A",
+         "text": "actor."
+        },
+        {
+         "key": "B",
+         "text": "screenwriter."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Rowan Atkinson …",
+       "options": [
+        {
+         "key": "A",
+         "text": "admits that he is not good at multitasking at all."
+        },
+        {
+         "key": "B",
+         "text": "can complete some work and start something new without needing any rest."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Rowan Atkinson says that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he was 17 when he saw “Mr. Hulot’s Holiday”."
+        },
+        {
+         "key": "B",
+         "text": "a French comedian’s film had an enormous impact on him."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Rowan Atkinson …",
+       "options": [
+        {
+         "key": "A",
+         "text": "found it interesting that you need no words to create a funny situation."
+        },
+        {
+         "key": "B",
+         "text": "watched “Mr. Hulot’s Holiday” on a videocassette."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Rowan Atkinson …",
+       "options": [
+        {
+         "key": "A",
+         "text": "envied his schoolmate who was in charge of the sixth form film society."
+        },
+        {
+         "key": "B",
+         "text": "saw “Mr. Hulot’s Holiday” many times over one weekend."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Rowan Atkinson …",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn’t regret studying electrical engineering."
+        },
+        {
+         "key": "B",
+         "text": "was researching French Literature in Oxford."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Rowan Atkinson says that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "at the age 20, he wanted to discover his theatrical side."
+        },
+        {
+         "key": "B",
+         "text": "the people he appreciated very much were in Oxford or Cambridge."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Rowan Atkinson chose Oxford because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the Cambridge application form was longer than the Oxford one."
+        },
+        {
+         "key": "B",
+         "text": "his father had been there."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Rowan Atkinson …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was using a strange language and was making funny faces during his first show."
+        },
+        {
+         "key": "B",
+         "text": "had practised pulling faces in front of a mirror for days before his performance."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

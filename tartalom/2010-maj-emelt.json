@@ -1,0 +1,1459 @@
+{
+ "formatVersion": 1,
+ "id": "2010-maj-emelt",
+ "year": 2010,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2010-05-06",
+ "code": "1011",
+ "sourceFiles": {
+  "paper": "2010. Emeltszintű május-június érettségi/e_angol_10maj_fl.pdf",
+  "key": "2010. Emeltszintű május-június érettségi/e_angol_10maj_ut.pdf",
+  "audio": "2010. Emeltszintű május-június érettségi/e_angol_10maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2010-maj-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article about school sports and then read the sentences (1-9) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to say if it is true or not."
+     ],
+     "title": "MAKE PE AT SCHOOL EXCITING − AND FUN",
+     "body": [
+      "Scarred by the trauma of gym classes as a girl, Becky Pugh welcomes a broader curriculum The news that schools are now offering yoga, Pilates* and “street dancing” in addition to team games such as rugby, football and cricket is sure to have traditionalists up in arms.",
+      "What will become of children never exposed to the character-building horrors of rugby practice in the rain? What kind of adults will they become without the elegance and discipline instilled by gymnastics? Can you really call yourself a man without a keen eye for an offside trap?",
+      "Well, I think Ofsted’s* discoveries are heartening. The education watchdog’s report on the state of physical education in schools today hits the nail on the head: “The rich variety of extra-curricular programmes enabled most students to discover something they liked and wanted to carry on with into adulthood.”",
+      "I, for one, am still scarred by the trauma of PE at school. I remain allergic to any form of exercise. I’ve tried the gym, swimming, yoga, running in the park, and have even attempted a British Military Fitness session. But I can’t elicit the smallest amount of pleasure from any of them.",
+      "I’m convinced that I’d have been happier at school, and fitter now, if our games lessons had felt more like fun. Indeed, one of the paradoxes of my school days was that I was regularly reprimanded for attending lessons in tracksuit bottoms and a cotton shirt, but loathed every minute of physical activity.",
+      "In fact, the only time I ever enjoyed exercise at school was when they began to offer improbably progressive-sounding “jazz dancing” classes to the sixth form. To the strains of pop music, we laboured over moves that we believed might come in useful at the nightclubs we were just starting to enjoy. It wasn’t painful, it wasn’t scary and it wasn’t embarrassing.",
+      "Happily, the result of introducing these newfangled alternatives to the curriculum is a boost in pupils’ enthusiasm for exercise. In a world with ever-fewer playing fields, where physical activity is threatened by the allure of the internet, the TV and computer games, we should be delighted if a child can be bothered to perfect their karate kicks, not outraged that they’ll never know how to play cricket.",
+      "(The Daily Telegraph)",
+      "*Pilates: a physical fitness system *Ofsted: Office for Standards in Education"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Traditional PE lessons and team sports are being replaced by alternative classes in schools.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "Some of these new-style lessons cannot be held in an ordinary gym hall.",
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "Traditionalists believe it is good for young people to endure some hardships in PE lessons.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "The Ofsted report outlines possible future benefits once the reforms have been introduced.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The article emphasizes the importance of motivation in PE.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "The author was so traumatised by her PE lessons that she never did any sports once she had left school.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Her doctor suggested that she should take up some form of exercise to improve her health.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "Paradoxically, even though the author hated PE at school, she often wore sports gear.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Her school was exceptional in that it allowed sixth formers to visit nightclubs.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "It is physical activity that children need, not any particular type of sport.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "In this article about a supermarket some sentences have been left out.",
+      "Your task is to match the sentences (A-I) with the gaps (10-15).",
+      "Remember that there are two extra sentences that you will not need."
+     ],
+     "title": "SHELF LIFE",
+     "body": [
+      "Simon Parke was a priest in the Church of England for 20 years − then he gave it up to work in a supermarket, where he stacked shelves and worked on the tills. {{0}}",
+      "My cousin, Bob, tells me that a supermarket is the place where you always meet the person you least want to meet in the world − and he has a lot to choose from. He claims he’s forever ducking in and out of the aisles, like a soldier in a war zone, seeking cover where he can find it. {{10}}.",
+      "And as he says, ‘You particularly don’t want to meet that former teacher, because either they’ll struggle to remember you, which is embarrassing, or they will remember you, which is again embarrassing, or they’ll ask you how things are going now, which is embarrassing in a new way. {{11}}.’",
+      "I hadn’t fully appreciated the angst created by ex-teachers in supermarkets. It’s hardly their fault, of course. They imagine they’re just nipping in to grab a cheesecake or some grapes. Little do they know that, all around them, former pupils are cowering by the cauliflowers. {{12}}.",
+      "My main problem as a priest, though, was recognising people − but not knowing why. So when I meet somebody, I’d be wondering: have I buried their mum? Baptised their daughter? Or heard their confession of adultery? This can make for a tricky opening few seconds of conversation. {{13}}.",
+      "There are those worse off than Bob, however. After all, if he walks into the store and discovers the person he least wants to meet in the world − well, he can always walk out. But what of the poor so-and-so who has that person as a colleague? {{14}}.",
+      "Where ultimate power now lies, is hard to tell. Garry is still the manager, but Pauline is a rival − and really getting on our nerves. {{15}}.",
+      "(Daily Mail Weekend)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Or they won’t recognise you at all."
+      },
+      {
+       "key": "B",
+       "text": "If ex-teachers were our only worry, we’d be happy indeed amid these aisles."
+      },
+      {
+       "key": "C",
+       "text": "Here, he opens his diary…"
+      },
+      {
+       "key": "D",
+       "text": "‘So, how are things?’ I’d say, scanning their faces for clues of mourning, happiness or slight embarrassment."
+      },
+      {
+       "key": "E",
+       "text": "‘This is not shouting! I know what shouting is and this isn’t it.’"
+      },
+      {
+       "key": "F",
+       "text": "If it’s not the old girlfriend by the sandwiches, or an ex-band-member by the fish, it’s a former teacher taking ages to choose a dessert."
+      },
+      {
+       "key": "G",
+       "text": "‘What on earth is going on here?’"
+      },
+      {
+       "key": "H",
+       "text": "Bob thinks there should be specially designated supermarkets for former teachers, leaving ‘safety zones’ where people like him can shop freely."
+      },
+      {
+       "key": "I",
+       "text": "That’s how it is with Garry, my boss at the supermarket, and our new ‘co-ordinator’ Pauline from the head office."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "H"
+      },
+      {
+       "n": 13,
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 10,
+     "instructions": [
+      "Read this article about a new production of a Shakespeare comedy and then read the split sentences (16-25) that follow.",
+      "Your task is to match the sentence halves so that they best correspond to what the article says.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "THE MERRY WIVES OF SITCOM",
+     "body": [
+      "Jasper Rees meets the director who is introducing Shakespeare to Fawlty Towers∗ Exactly how funny is The Merry Wives of Windsor in the 21st century? With Christopher Luscombe as director, this month’s new production at Shakespeare’s Globe is likely to be very funny indeed. Two summers ago Luscombe had a popular hit at the same theatre with a Comedy of Errors production inspired by the Carry On films. For this fresh attempt to make the more difficult parts of Shakespearean comedy accessible to a modern audience, his reference point is sitcom.",
+      "“The Merry Wives of Windsor feels very conversational, very relaxed,” he says. “It seems to me to be written absolutely as people spoke. But I was scared of using the sitcom tag until I read this very authoritative academic article comparing Merry Wives with Fawlty Towers. There are so many connections. John Cleese∗ must have been familiar with it.”",
+      "It is often claimed that The Merry Wives of Windsor came about as a result of a royal request. The queen, having enjoyed Falstaff’s visits to the Boar’s Head tavern in Henry IV part one, wanted to be further entertained by the fat knight, and Shakespeare dutifully bashed out his only play set in contemporary England.",
+      "The first question for Luscombe to answer was which version of the play to stage. A Quarto edition was cobbled together by actors in 1604, the more reliable Folio published in 1623. The traditional approach is to work from the Folio, but Luscombe has chosen to marry the two. “There is no version that Shakespeare saw through to publication. You have to do what you feel he would approve of. I feel he’d say ‘whatever works’, particularly in a play like this. It’s no great poetry. All I’m trying to do is make 400-year-old material really funny.”",
+      "(Daily Telegraph Review)",
+      "∗Fawlty Towers: a humorous TV series ∗John Cleese: the actor playing Mr Fawlty"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "aims to help modern audiences enjoy Shakespeare’s comedies."
+      },
+      {
+       "key": "B",
+       "text": "in Luscombe’s Merry Wives is a mixture of the two different sources."
+      },
+      {
+       "key": "C",
+       "text": "is to stage a new production of The Merry Wives of Windsor."
+      },
+      {
+       "key": "D",
+       "text": "has probably read the essay the director is referring to."
+      },
+      {
+       "key": "E",
+       "text": "was directed by the same person in a similar vein."
+      },
+      {
+       "key": "F",
+       "text": "has written an article comparing the two plays."
+      },
+      {
+       "key": "G",
+       "text": "may have been written to please the queen."
+      },
+      {
+       "key": "H",
+       "text": "paid regular visits to the Boar’s Head tavern."
+      },
+      {
+       "key": "I",
+       "text": "is used by most of the directors of Shakespeare’s plays."
+      },
+      {
+       "key": "K",
+       "text": "bears a number of similarities to The Merry Wives."
+      },
+      {
+       "key": "L",
+       "text": "was not directly involved in the printing of the play."
+      },
+      {
+       "key": "M",
+       "text": "is the earlier, less reliable edition."
+      },
+      {
+       "key": "N",
+       "text": ", with just one exception, are set in his own lifetime."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Globe theatre",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Comedy of Errors",
+       "answer": "E"
+      },
+      {
+       "n": 17,
+       "stem": "Luscombe",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Fawlty Towers",
+       "answer": "K"
+      },
+      {
+       "n": 19,
+       "stem": "John Cleese",
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "stem": "The Merry Wives of Windsor",
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "stem": "None of Shakespeare’s plays",
+       "answer": "N"
+      },
+      {
+       "n": 22,
+       "stem": "The Quarto",
+       "answer": "M"
+      },
+      {
+       "n": 23,
+       "stem": "The Folio",
+       "answer": "I"
+      },
+      {
+       "n": 24,
+       "stem": "Shakespeare",
+       "answer": "L"
+      },
+      {
+       "n": 25,
+       "stem": "The text",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this review of a popular science book and then read the sentences (26-30) that follow.",
+      "Your task is to choose the option (A-D) that best corresponds to what the review says.",
+      "Write the appropriate letters against the numbers in the white boxes."
+     ],
+     "title": "SHUT UP AND CALCULATE!",
+     "body": [
+      "YOU ARE HERE: A Portable History of the Universe by Christopher Potter For the past 20 years or so, popular-science books have attempted to explain to an incredulous public the latest theories put forward by scientists to explain mystifying stuff such as quarks, various types of subatomic particles, black holes, and so on. Reading these books you occasionally note a tone of slight impatience from the author when the really tricky stuff comes along. “Look, you dummies, it just is, ok?”",
+      "Or, as Christopher Potter repeatedly puts it in this elegant and thoughtfully constructed contribution to the genre: “Shut up and calculate!” Even Feynman, a brilliant Nobel prize- winning scientist, who tried to get the message across a generation ago in Six Easy Pieces, struggled; not all of those pieces are that easy, to be honest.",
+      "Potter’s book works because he is not (quite) a physicist, but nor is he merely a layman. He is a publisher with a fairly modest (he suggests) academic background in mathematics and the history of science. And this is the root of the book’s brilliance: Potter becomes a link between the bizarre world of the quantum physicists and our own rather more limited imaginations.",
+      "He makes complicated numbers comprehensible by taking us from the world we know and recognise − everything around us for ten metres, for example, from the size of a giraffe to the size of a human being − in stages down to things so small that size has no real meaning, and upwards to distances that, without his guidance, would seem so great as to be meaningless. The distances and the scale become comprehensible.",
+      "Potter takes us beyond the realms of the solar system, past our nearest neighbouring star (four light years away), beyond the outer boundaries of our galaxy, the Milky Way, until, near the end, we hit a solid supercluster of galaxies one billion light years away. And then, a little later, we are dragged through ever-diminishing stages back down to the quarks, which are at the very boundary of what we might call both “size” and “reality”.",
+      "This is the most thoughtful pop science book of the last few years, and, along with The Oxford Book of Modern Science Writing, the most useful to the layman.",
+      "(The Sunday Times)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "In the past 20 years or so incredible scientific discoveries have been made."
+        },
+        {
+         "key": "B",
+         "text": "Modern scientific theory should be explained in more straightforward language."
+        },
+        {
+         "key": "C",
+         "text": "Readers of popular science books are made impatient by complicated new theories."
+        },
+        {
+         "key": "D",
+         "text": "Science book writers have found it hard to explain new theories in simple terms."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Potter is an elegant and thoughtful man."
+        },
+        {
+         "key": "B",
+         "text": "Potter’s Portable History is a popular science book."
+        },
+        {
+         "key": "C",
+         "text": "Feynman won the Nobel-prize for his Six Easy Pieces."
+        },
+        {
+         "key": "D",
+         "text": "Even Feynman had difficulty understanding some new theories."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Potter succeeds in making scientific theory accessible to the general public."
+        },
+        {
+         "key": "B",
+         "text": "He has written various books on mathematics and the history of science."
+        },
+        {
+         "key": "C",
+         "text": "He has carried our research and taught quantum physics at an academy."
+        },
+        {
+         "key": "D",
+         "text": "His Portable History has been influenced by his teaching experience."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Potter has a way of making numbers meaningful to the non-specialist reader."
+        },
+        {
+         "key": "B",
+         "text": "The best parts of Potter’s book describe things that readers are familiar with."
+        },
+        {
+         "key": "C",
+         "text": "Potter makes some scientific claims that appear completely meaningless."
+        },
+        {
+         "key": "D",
+         "text": "It is hard to understand what Potter is trying to say about great distances."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Potter starts out on his imaginary journey from our nearest neighbouring star."
+        },
+        {
+         "key": "B",
+         "text": "Potter gives a description of the Milky Way towards the end of the book."
+        },
+        {
+         "key": "C",
+         "text": "Potter takes the reader to the very edge of the universe."
+        },
+        {
+         "key": "D",
+         "text": "Potter suggests that quarks have neither size nor reality."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 30,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The reviewer believes Potter’s Portable History is an outstanding book."
+        },
+        {
+         "key": "B",
+         "text": "The reviewer says no comparable books have been published recently."
+        },
+        {
+         "key": "C",
+         "text": "Potter has contributed to the Oxford collection of modern science writing."
+        },
+        {
+         "key": "D",
+         "text": "Potter’s book is even more useful to the layman than the Oxford publication."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 43,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 13,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18,
+    "27": 19,
+    "28": 20,
+    "29": 20,
+    "30": 21,
+    "31": 22,
+    "32": 22,
+    "33": 23,
+    "34": 24,
+    "35": 24,
+    "36": 25,
+    "37": 26,
+    "38": 27,
+    "39": 27,
+    "40": 28,
+    "41": 29,
+    "42": 29,
+    "43": 30
+   },
+   "tasks": [
+    {
+     "id": "2010-maj-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the dating column of a London paper. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "LOVE AT FIRST TEXT",
+     "body": [
+      "It’s amazing what you can find in THELONDONPAPER – the {{0}} news, the hottest celeb gossip, and possibly {{1}} your future wife! The dating column Lovestruck in THELONDONPAPER, a free evening newspaper distributed across London, is hugely popular {{2}} commuters. It tries to match those {{3}} eyes met across the bus, tube or train carriage.",
+      "{{4}} Brett May, 36, texted into Lovestruck after blonde Susan Benedict, 30, caught his eye outside his shop in Islington, he didn’t believe that she’d {{5}} get in touch. The pair had never met, but Susan regularly walked {{6}} Brett’s video store and they often smiled at each other.",
+      "Susan, an accounts manager, was on the train {{7}} back to Essex when she saw the message in the paper and instantly knew it was for her. “I was grinning {{8}} the way home as I knew it was him,” she said.",
+      "“The next day when I went to his shop, I pulled the article out and asked him if he wrote it.” Brett was delighted and wasted {{9}} time arranging their first date. {{10}} now dated for 14 months, Brett proposed on New Year’s Eve.",
+      "(thelondonpaper)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACTUALLY"
+      },
+      {
+       "key": "B",
+       "text": "ALL"
+      },
+      {
+       "key": "C",
+       "text": "LATEST"
+      },
+      {
+       "key": "D",
+       "text": "EVEN"
+      },
+      {
+       "key": "E",
+       "text": "HAVING"
+      },
+      {
+       "key": "F",
+       "text": "HEADING"
+      },
+      {
+       "key": "G",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "H",
+       "text": "BETWEEN"
+      },
+      {
+       "key": "I",
+       "text": "NO"
+      },
+      {
+       "key": "K",
+       "text": "PAST"
+      },
+      {
+       "key": "L",
+       "text": "WHEN"
+      },
+      {
+       "key": "M",
+       "text": "WHOSE"
+      },
+      {
+       "key": "N",
+       "text": "WITH"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "N"
+      },
+      {
+       "n": 3,
+       "answer": "M"
+      },
+      {
+       "n": 4,
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "answer": "K"
+      },
+      {
+       "n": 7,
+       "answer": "F"
+      },
+      {
+       "n": 8,
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "answer": "I"
+      },
+      {
+       "n": 10,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the Bermuda Triangle. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (11-20).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "BERMUDA TRIANGLE PLANE MYSTERY 'SOLVED'",
+     "body": [
+      "Two of the so-called Bermuda Triangle's most mysterious events in the late 1940s may have been solved. A great many ships and planes are said to have vanished without trace over the decades in a vast triangular area of ocean with {{0}} corners at Bermuda, Florida and Puerto Rico. But a new examination for a BBC series provides plausible {{11}} for the disappearance of two British planes in the area, with the {{12}} of 51 passengers and crew. One plane probably suffered from catastrophic technical {{13}} as a result of poor design, while the other is {{14}} to have run out of fuel.",
+      "Sixty years ago, {{15}} flights from London to Bermuda were new and perilous. It would require a refuelling stop on the Azores before the 2,000-mile flight to Bermuda. The planes would have been operating at the {{16}} of their range. Today planes arriving at the tiny Atlantic island need sufficient reserve fuel to divert to the US East Coast 700 miles away, in case of {{17}}.",
+      "And the planes of the post-war era were far less {{18}} than today's airliners. British South American Airways (BSAA), which operated the route, had a grim {{19}} record. In three years it had had 11 serious accidents and lost five planes with 73 passengers and 22 crew members killed, sometimes in mysterious circumstances.",
+      "For example, on 30 January 1948 a BSAA Avro Tudor IV called Star Tiger disappeared without trace. Twenty-five passengers and a crew of six were on board the plane.",
+      "The official investigation into the {{20}} concluded: “What happened in this case will never be known and the fate of Star Tiger must remain an unsolved mystery.”",
+      "(http://news.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "imagine",
+       "example": true,
+       "accept": [
+        "imaginary"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "explain",
+       "accept": [
+        "explanations"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "lose",
+       "accept": [
+        "loss"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "fail",
+       "accept": [
+        "failure",
+        "failures"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "like",
+       "accept": [
+        "likely"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "commerce",
+       "accept": [
+        "commercial"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "limit",
+       "accept": [
+        "limit",
+        "limits"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "emerge",
+       "accept": [
+        "emergency",
+        "emergencies"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "rely",
+       "accept": [
+        "reliable"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "safe",
+       "accept": [
+        "safety"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "disappear",
+       "accept": [
+        "disappearance"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a man who found a job after long years of unemployment. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (21-30) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "HIRED AFTER 26 YEARS AND 300 APPLICATIONS",
+     "body": [
+      "It took him a staggering 26 years and more than 300 failed applications. But yesterday John Evans was at {{0}} celebrating - after finally landing himself a job. The 46-year-old bachelor was {{21}} redundant in 1983 when the steel plant where he worked closed down. {{22}} the various courses he has taken and the extra qualifications he has gained in order to boost his CV, he has been unemployed ever {{23}}. Mr Evans said his job prospects had been hindered by disability. At the age of 16 he had a lengthy stay in hospital after {{24}} diagnosed with epilepsy. Reluctant to sit back and collect benefits, he worked at Rotherham General Hospital {{25}} a volunteer. Now, after almost three decades of trying, the former clerk is preparing to start work as a care assistant at a nursing home for {{26}} elderly.",
+      "‘I couldn't believe {{27}} I was hearing when they told me I’d got the job,' he said yesterday. ‘It still hadn’t really sunk in when I finally put down the phone. I suppose my confidence {{28}} simply disappeared after so many rejections. But I had this belief that if I kept on applying, {{29}} long it took, I would get a job one day. It’s paid {{30}} and my confidence has grown already, although I’ll be a little nervous on my way to work.’",
+      "Mr Evans, who starts work on Monday, said he had been turned down for dozens of jobs. He had not even been hired for a role as a production worker at a factory.",
+      "(http://dailymail.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "last"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "made",
+        "declared"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "despite"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "since"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "being"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "what"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "had",
+        "has"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "however"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "off",
+        "dividends"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read an article about a special Nobel awards ceremony. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "Ig NOBEL PRIZES 2009",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "The nation can hold its head up high. Once more again, Britons have",
+       "answer": "more"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "been honoured in the annual Ig Nobel awards ceremony. It was first",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "held out in 1991 to honour scientific work “that cannot or should not",
+       "answer": "out"
+      },
+      {
+       "n": 32,
+       "text": "be reproduced”, but has since that gained a higher purpose:",
+       "answer": "that"
+      },
+      {
+       "n": 33,
+       "text": "acknowledging work that “first makes people laugh, and then makes",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "them think.” This year's winners were allowed no any more than 60",
+       "answer": "any"
+      },
+      {
+       "n": 35,
+       "text": "seconds as to deliver their acceptance speech, a time limit enforced",
+       "answer": "as"
+      },
+      {
+       "n": 36,
+       "text": "by an eight-year-old girl. Catherine Douglas and Peter Rowlinson",
+       "answer": null
+      },
+      {
+       "n": 37,
+       "text": "from Newcastle University need share the prize for Veterinary",
+       "answer": "need"
+      },
+      {
+       "n": 38,
+       "text": "Medicine for the groundbreaking discovery that by giving cows",
+       "answer": "by"
+      },
+      {
+       "n": 39,
+       "text": "names such as Daisy increases their milk yield. “It's got the highlight",
+       "answer": "got"
+      },
+      {
+       "n": 40,
+       "text": "of my career,” said Douglas. “The work amused the public, and, at all",
+       "answer": "all",
+       "note": "Az útmutatóban elírás áll (al1); a felesleges szó: all."
+      },
+      {
+       "n": 41,
+       "text": "the same time, addressed a serious animal welfare issue.” The Public",
+       "answer": null
+      },
+      {
+       "n": 42,
+       "text": "Health prize that was awarded to Elena Bodnar of Hinsdale, Illinois,",
+       "answer": "that"
+      },
+      {
+       "n": 43,
+       "text": "for a bra that, in case an emergency, can be converted into a pair of",
+       "answer": "case"
+      }
+     ],
+     "outro": "gas masks, one for the owner and one for a needy bystander. (http://news.bbc.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 29,
+    "27": 30
+   },
+   "tasks": [
+    {
+     "id": "2010-maj-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear an account of an interesting experiment.",
+      "Your task will be to complete the sentences with no more than three words or numbers in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_10maj_fl.mp3",
+      "start": 0,
+      "end": 691.88,
+      "clip": "hang/e_angol_10maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The man who played the violin sat at the entrance of a(n) {{gap}} {{gap}} in Washington DC.",
+       "gaps": [
+        [
+         "metro"
+        ],
+        [
+         "station"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "During that time, thousands of people went through the station as it was {{gap}}.",
+       "accept": [
+        "the rush hour",
+        "rush hour"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "After playing for four minutes, the musician received his {{gap}}.",
+       "accept": [
+        "first dollar tip",
+        "first dollar",
+        "first tip"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The middle-aged man didn't listen to the musician for long, as he was obviously {{gap}}.",
+       "accept": [
+        "late for work",
+        "late"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "In the 45 minutes, about {{gap}} people gave him a total of ${{gap}}.",
+       "gaps": [
+        [
+         "20"
+        ],
+        [
+         "32"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Joshua Bell was awarded the Avery Fisher Prize for {{gap}} in classical music.",
+       "accept": [
+        "his outstanding achievements",
+        "outstanding achievement",
+        "his achievements"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "His {{gap}} Stradivarius violin is worth ${{gap}}.",
+       "gaps": [
+        [
+         "handcrafted"
+        ],
+        [
+         "3.5 million"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Fairly good {{gap}} at the Boston Symphony Hall cost ${{gap}} each.",
+       "gaps": [
+        [
+         "seats"
+        ],
+        [
+         "100"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "The metro gig was organized by the Washington Post as part of a(n) {{gap}} about perception, taste and priorities of people.",
+       "accept": [
+        "social experiment",
+        "experiment"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "One of the research questions was to find out if people recognize talent in a(n) {{gap}}.",
+       "accept": [
+        "unexpected context"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2010-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 11,
+     "instructions": [
+      "In this section you will hear some information about an international experiment called Mars 500.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_10maj_fl.mp3",
+      "start": 691.88,
+      "end": 1259,
+      "clip": "hang/e_angol_10maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The participants of the experiment were all men.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Weightlessness and solar radiation were also simulated.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "There were physiological experiments as well as psychological ones.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "During the experiment, it was impossible to get anything in or out of the module.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Sleep patterns were monitored by a special team.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Communication between the control centre and the crew had a delay of 20 minutes.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "The maintenance of the module was the responsibility of the control centre.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "To the crew, the time spent in the module seemed shorter than it really was.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The French crew member suffered the worst from monotony.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The findings of the research are accessible to anyone.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Next year’s Mars 500 experiment will have more crew members.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The next crew will spend considerably more time in the module.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with Grant R. Philips, a writer of children's books.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_10maj_fl.mp3",
+      "start": 1259,
+      "end": 1795.45,
+      "clip": "hang/e_angol_10maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "As a kid, Grant didn't like …",
+       "options": [
+        {
+         "key": "A",
+         "text": "reading."
+        },
+        {
+         "key": "B",
+         "text": "his English teacher."
+        },
+        {
+         "key": "C",
+         "text": "S. E. Hinton."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The Outsiders …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was written by an elderly lady."
+        },
+        {
+         "key": "B",
+         "text": "had a huge influence on Grant."
+        },
+        {
+         "key": "C",
+         "text": "was published in Grant's school's annual magazine."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Grant often has … in mind before starting to write a book.",
+       "options": [
+        {
+         "key": "A",
+         "text": "a character"
+        },
+        {
+         "key": "B",
+         "text": "a storyline"
+        },
+        {
+         "key": "C",
+         "text": "no character or storyline"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Dustin ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "follows in his father's footsteps."
+        },
+        {
+         "key": "B",
+         "text": "carries out his task with some help."
+        },
+        {
+         "key": "C",
+         "text": "has no sense of danger."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "In this tale, Dustin sets out to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "impress his father."
+        },
+        {
+         "key": "B",
+         "text": "protect his love."
+        },
+        {
+         "key": "C",
+         "text": "save his country."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Grant's books have … been rejected.",
+       "options": [
+        {
+         "key": "A",
+         "text": "often"
+        },
+        {
+         "key": "B",
+         "text": "rarely"
+        },
+        {
+         "key": "C",
+         "text": "never"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Grant …",
+       "options": [
+        {
+         "key": "A",
+         "text": "publishes all his books under the same pen name."
+        },
+        {
+         "key": "B",
+         "text": "has written more than 36 children's books."
+        },
+        {
+         "key": "C",
+         "text": "wants children to read only his children's books."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "Grant …",
+       "options": [
+        {
+         "key": "A",
+         "text": "works only for publishers."
+        },
+        {
+         "key": "B",
+         "text": "tries to meet his readers as much as he can."
+        },
+        {
+         "key": "C",
+         "text": "writes a couple of hours every morning."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

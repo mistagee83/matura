@@ -1,0 +1,1657 @@
+{
+ "formatVersion": 1,
+ "id": "2016-maj-emelt",
+ "year": 2016,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2016-05-05",
+ "code": "1512",
+ "sourceFiles": {
+  "paper": "2016 - Emeltszintű májusi/e_angol_16maj_fl.pdf",
+  "key": "2016 - Emeltszintű májusi/e_angol_16maj_ut.pdf",
+  "audio": "2016 - Emeltszintű májusi/e_angol_16maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2016-maj-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "bekezdés összefoglalásának kiválasztása (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this text about the history of high heeled shoes and then read the sentences that follow.",
+      "For each number (1-5) choose the option (A-D) that best summarises the given paragraph."
+     ],
+     "title": "WHY DID MEN STOP WEARING HIGH HEELS?",
+     "body": [
+      "{{0}}\nEven their most ardent fans wouldn't claim high heels were practical. They are not good for hiking or driving. They get stuck in things. And high heels don't tend to be very comfortable. It is almost as though they weren't designed for walking in.",
+      "{{1}}\nOriginally, they weren't. The high heel was worn for centuries throughout the Near East as a form of riding footwear. Good horsemanship was essential to the fighting styles of Persia – the historical name for modern-day Iran. When a soldier stood up in his stirrups, the heels helped him to secure his stance so that he could use his bow and arrow more effectively.",
+      "{{2}}\nAt the end of the 16th century, the Persian Shah was keen to forge links with rulers in Europe. So he sent a diplomatic mission to the courts of Russia, Germany and Spain. A wave of interest in all things Persian passed through Western Europe, and Persian-style shoes were enthusiastically adopted by aristocrats.",
+      "{{3}}\nIn the muddy streets of 17th century Europe, these new shoes had no utility value whatsoever – but that was the point. The upper classes have always used impractical, uncomfortable and luxurious clothing to announce their privileged status. Louis XIV of France, who stood 1.63m, supplemented his height by a further 10cm with heels.",
+      "{{4}}\nThe heels and soles were always red – the dye was expensive and carried a martial overtone. The fashion soon spread overseas – Charles II of England's coronation portrait of 1661 features him wearing a pair of enormous red, French-style heels – although he was over 1.85m to begin with.",
+      "{{5}}\nIn the 18th century the Enlightenment brought with it a new respect for the rational and useful, and men's fashion shifted towards more practical clothing. High heels came to be seen as foolish and effeminate. By 1740 men had stopped wearing them altogether.",
+      "(bbc.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "options": [
+        {
+         "key": "A",
+         "text": "You have to be a fan to say high heels are practical."
+        },
+        {
+         "key": "B",
+         "text": "If well made, high heels can be quite comfortable."
+        },
+        {
+         "key": "C",
+         "text": "The main point about high heels is not their practicality."
+        },
+        {
+         "key": "D",
+         "text": "Well designed shoes with heels are suited to most occasions."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "Horsemen in the Near East have worn high heels for centuries."
+        },
+        {
+         "key": "B",
+         "text": "High heels were originally worn by horsemen in the Near East."
+        },
+        {
+         "key": "C",
+         "text": "The high heel was an essential fashion item in Persia."
+        },
+        {
+         "key": "D",
+         "text": "Persian soldiers were the best horsemen of the time."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "At one time, anything Persian was regarded as fashionable in Europe."
+        },
+        {
+         "key": "B",
+         "text": "In the 16th century people travelled widely between east and west."
+        },
+        {
+         "key": "C",
+         "text": "The Persian Shah sent expensive shoes as presents to European monarchs."
+        },
+        {
+         "key": "D",
+         "text": "In Europe it became fashionable for aristocrats to wear shoes made in Persia."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "In the 17th century people preferred impractical but luxurious clothes."
+        },
+        {
+         "key": "B",
+         "text": "If you wore high heels, walking in muddy streets was less tiresome."
+        },
+        {
+         "key": "C",
+         "text": "Those of a higher social status have always dressed to show off their rank."
+        },
+        {
+         "key": "D",
+         "text": "Shorter people, like Louis XIV, liked high heels to add to their height."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "The price of the red dye was too high even for aristocrats."
+        },
+        {
+         "key": "B",
+         "text": "High-ranking diplomats in European courts wore high heels."
+        },
+        {
+         "key": "C",
+         "text": "The fashion of wearing high heels reached England quite quickly."
+        },
+        {
+         "key": "D",
+         "text": "A very tall man, Charles II only wore high heels on special occasions."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "In the 18th century only women with bad reputations wore high heels."
+        },
+        {
+         "key": "B",
+         "text": "In 1740 new laws were passed banning high heeled shoes altogether."
+        },
+        {
+         "key": "C",
+         "text": "Despite its rationality, the Enlightenment had little effect on fashion."
+        },
+        {
+         "key": "D",
+         "text": "The rational attitudes of the Enlightenment influenced the way people dressed."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about some toys lost at sea some phrases are missing.",
+      "Your task is to fill in the gaps (6-13) from the list (A-M) below.",
+      "Remember that there are three extra letters that you do not need."
+     ],
+     "title": "MAPPED: THE BEACHES WHERE LEGO WASHES UP",
+     "body": [
+      "The story of millions of Lego pieces washing up on beaches still attracts huge interest and the list of places {{0}} is still growing.",
+      "Beachcomber Tracey Williams has been picking up Lego along the southwest coastline of England ever since a cargo ship accidentally dumped millions of the toy pieces into the sea in 1997. She set up a Facebook page as late as 2014 {{6}} and dozens of people have in fact got in touch about the drifting toy pieces from various Lego sets {{7}}. Most pieces have been found around Cornwall, says Williams. \"From what I've been told, {{8}}.\" One example was a fisherman from a neighbouring town who often brings up Lego. The items caught in his nets, {{9}}, also include toy roof tiles, door frames, seaweed and a lot of bricks. Brighton, {{10}}, is the furthest confirmed report from England's south-eastern coastline. But some of the sightings have come from much further afield.",
+      "It all started {{11}} from the Tokio Express container ship in a storm off the southwest coast of England in 1997. Williams says that {{12}}, for example, in Kerry, Ireland, where an octopus matching those lost from the Tokio Express was found around 2007. Also, someone took some Lego pieces to a beachcombers' fair in the United States {{13}}. In a recently published scientific report oceanographers admit that the claim for this latest find may be true, but they add: \"Although it matches the drift pattern, it's hard to know for sure.\"",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "and claimed they had been found in the Netherlands"
+      },
+      {
+       "key": "B",
+       "text": "some 300 miles to the east"
+      },
+      {
+       "key": "C",
+       "text": "where the toys have been spotted"
+      },
+      {
+       "key": "D",
+       "text": "which is confirmed by experts"
+      },
+      {
+       "key": "E",
+       "text": "finds have been made abroad too"
+      },
+      {
+       "key": "F",
+       "text": "and it may be affected by weather conditions"
+      },
+      {
+       "key": "G",
+       "text": "when 4.8 million Lego toy parts fell overboard"
+      },
+      {
+       "key": "H",
+       "text": "to raise the lost Lego container from the seabed"
+      },
+      {
+       "key": "I",
+       "text": "to contact people with similar finds"
+      },
+      {
+       "key": "K",
+       "text": "which are still coming up today"
+      },
+      {
+       "key": "L",
+       "text": "this is a hotspot for pirate figures and octopuses"
+      },
+      {
+       "key": "M",
+       "text": "that they have spotted during beach walks in most cases"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "M"
+      },
+      {
+       "n": 8,
+       "answer": "L"
+      },
+      {
+       "n": 9,
+       "answer": "K"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 9,
+     "instructions": [
+      "Read this article about the worst ever typhoon in the Philippines and then read the incomplete sentences (14-22) following it.",
+      "Your task is to find the right endings (A-N) for the sentences based on relevant information in the text.",
+      "There are three extra letters that you do not need."
+     ],
+     "title": "TYPHOON HAIYAN:",
+     "body": [
+      "The man and the boy who saved each other Flight Lieutenant Carangan of the Philippine Air Force knew that a storm was coming and got his men up early to secure equipment at Tacloban airport. Soon the wind became too strong, and they retreated indoors. But then the water started flooding the airport building ˗ and when it surged quickly above waist height, they knew something was seriously wrong.",
+      "Carangan and his men punched a hole through the ceiling and climbed up on to the roof. \"I told my men to hold on to any piece of equipment that might help them float. And then suddenly, the walls of the building gave way.\"",
+      "Carangan clung to a large triangular wooden beam that had supported the roof. He was swept past familiar buildings and eventually bumped into a coconut tree. \"When I looked up, I saw a young boy clinging on the tree. I was afraid the rising water would soon reach him, so I told him to climb down, hang on to the wood, hold on tight and never let it go.\"",
+      "The trick was balancing their makeshift raft. Hanging on to one side of the wood, Carangan used his body weight to keep the seven-year-old above water. \"The boy was lying face down on one side of the triangle. I tried to push my side downwards so that the boy's side would be popping out of the sea so that he could breathe.\"",
+      "The two of them spent the next six hours being tossed and turned by the force of the waves. They did not know where they were, what direction they were travelling in, or how long they were there for. As the boy started to develop signs of hypothermia, Carangan tried to keep him awake by talking to him. He found out his name ˗ Miguel ˗ his age and a bit about his family. But he spent most of his time thinking of his own three sons and praying. \"I asked God to look after my family if I'm gone.\"",
+      "And then Carangan saw the shape of a mountain. He told the boy they were near land. He started swimming, holding tightly onto the wood until they reached the beach. Once on land, he handed the boy over to a policeman, making sure he would get dry clothes, water and food, and that the authorities would try and reunite him with his family.",
+      "Two weeks later the boy came to see him in Tacloban, together with his mother. When she tried to thank him, he explained that he himself felt grateful to him. \"I told her I should be the one thanking Miguel, because I believe that if it were not for him, I might not have made it. To help him to survive, I needed to be strong also. I believe he somehow gave me the energy to hold on and to survive.\"",
+      "(www.bbc.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "gave his men life-saving instructions."
+      },
+      {
+       "key": "B",
+       "text": "managed to keep the boy's head above water."
+      },
+      {
+       "key": "C",
+       "text": "knew what had to be done before the storm."
+      },
+      {
+       "key": "D",
+       "text": "saw the material tossed by the waves."
+      },
+      {
+       "key": "E",
+       "text": "made it impossible to work outside."
+      },
+      {
+       "key": "F",
+       "text": "thought of placing the boy in safe hands."
+      },
+      {
+       "key": "G",
+       "text": "owed his survival to Miguel."
+      },
+      {
+       "key": "H",
+       "text": "kept asking him questions."
+      },
+      {
+       "key": "I",
+       "text": "got a lift to the airport station."
+      },
+      {
+       "key": "K",
+       "text": "thought of his own sons and prayed."
+      },
+      {
+       "key": "L",
+       "text": "concentrated on the airport building."
+      },
+      {
+       "key": "M",
+       "text": "alerted them to the extent of the danger."
+      },
+      {
+       "key": "N",
+       "text": "knew it was too risky for him to stay there."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Carangan, an air force officer,",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "The force of the wind",
+       "answer": "E"
+      },
+      {
+       "n": 15,
+       "stem": "The swiftly rising water",
+       "answer": "M"
+      },
+      {
+       "n": 16,
+       "stem": "When they climbed up on the roof, Carangan",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Seeing the boy clinging on a tree, Carangan",
+       "answer": "N"
+      },
+      {
+       "n": 18,
+       "stem": "By pushing down his side of the beam, he",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "To stop Miguel losing consciousness, he",
+       "answer": "H"
+      },
+      {
+       "n": 20,
+       "stem": "During most of their ordeal Carangan",
+       "answer": "K"
+      },
+      {
+       "n": 21,
+       "stem": "After their escape Carangan first",
+       "answer": "F"
+      },
+      {
+       "n": 22,
+       "stem": "He was convinced that, in a way, he",
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about a history book and then read the statements (23-30) that follow.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "THE WILL TO SURVIVE: A HISTORY OF HUNGARY",
+     "body": [
+      "The Will to Survive, written by Bryan Cartledge, historian, diplomat and Oxford academic, is the first comprehensive history of Hungary to be published in English by a non-Hungarian since C.A. Macartney's Hungary: A Short History (Edinburgh, 1962). It is also the first history of Hungary to be written by an author who had been British Ambassador to that country, had witnessed the events which he records in the book's closing chapters, and had known many of the Hungarians who took part in them. Sir Bryan Cartledge first came to Hungary in the 1970s and served as British ambassador to Hungary in 1980-83. He holds diplomas in the Hungarian language from the University of Westminster (UK) and University of Debrecen (Hungary), and is thoroughly familiar with great works of Hungarian literature, having read most in the original.",
+      "The book combines narrative with analysis and comment and covers the political, economic, social and cultural history of Hungary from the westward migration of the Magyar tribes and their occupation of the Carpathian Basin to the entry of a democratic Hungarian state into the NATO Alliance and the European Union. No previous history written from the perspective of a non-Hungarian has attempted such a comprehensive approach, which balances accounts of the tragedies which have befallen this small nation with appreciation of its cultural achievements. The Will to Survive should become the standard history of Hungary in English, to be read both for general interest and for reference.",
+      "Described as \"the best history of Hungary in the English language\" by the eminent Hungarian-American historian John Lukacs, The Will to Survive is deeply researched and beautifully written. It traces Hungarian history through centuries of medieval greatness, Turkish occupation, Hapsburg domination and unsuccessful struggles for independence. It describes the massive loss of territory and population after the First World War, the fatal alliance with Nazi Germany motivated by the hope of compensation for the Treaty of Trianon, and forty years of Soviet-imposed Communism after the Second World War interrupted by a heroic but brutally suppressed revolution in 1956.",
+      "The book was first published in 2006 on the 50th anniversary of the Revolution of 1956, reprinted several times both in hardcover and paperback, and first published in Hungarian in 2008.",
+      "(www.goodreads.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Will to Survive is the first English-language history of Hungary since 1962.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Cartledge looks at Hungarians with a more sympathetic eye than Macartney.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Cartledge wrote the book while serving as British ambassador to Hungary.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "His command of the language has enabled him to appreciate literary works written in Hungarian.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "As a diplomat, he had access to archives that were closed to ordinary historians.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "The Will to Survive is recommended both for its readability and for its accuracy.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "In writing his book, Cartledge made use of a wide range of sources.",
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "John Lukacs, whose opinion is cited, is an outstanding historian.",
+       "answer": "A"
+      },
+      {
+       "n": 30,
+       "stem": "Writing about the 1956 Revolution Cartledge pays special attention to the role of international diplomacy.",
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 45,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 7,
+    "11": 7,
+    "12": 8,
+    "13": 9,
+    "14": 9,
+    "15": 10,
+    "16": 11,
+    "17": 11,
+    "18": 12,
+    "19": 13,
+    "20": 13,
+    "21": 14,
+    "22": 15,
+    "23": 15,
+    "24": 16,
+    "25": 17,
+    "26": 17,
+    "27": 18,
+    "28": 19,
+    "29": 19,
+    "30": 20,
+    "31": 21,
+    "32": 21,
+    "33": 22,
+    "34": 23,
+    "35": 23,
+    "36": 24,
+    "37": 25,
+    "38": 25,
+    "39": 26,
+    "40": 27,
+    "41": 27,
+    "42": 28,
+    "43": 29,
+    "44": 30,
+    "45": 30
+   },
+   "tasks": [
+    {
+     "id": "2016-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about how the Irish police finally caught up with the country's most reckless driver. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (1-10) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE MYSTERY OF IRELAND'S WORST DRIVER",
+     "body": [
+      "He had been wanted from counties Cork to Cavan {{0}} collecting a number of speeding tickets and parking fines. However, {{1}} time the serial offender was stopped, he managed to avoid justice {{2}} giving a different address.",
+      "But then his true identity was found out. It was discovered that the man every member of the Irish police {{3}} been looking for - a Mr Prawo Jazdy - wasn't exactly the sort of prized villain {{4}} arrest leads to an officer winning an award. In fact he wasn't even human.",
+      "\"Prawo Jazdy is the Polish phrase for ‘driving licence’ and it is {{5}} the first or the surname on the licence,\" said an officer working within the police's traffic division. \"{{6}} noticed this, I decided to find {{7}} how many times officers had made this mistake. It's quite embarrassing that the system has created Prawo Jazdy as a person with over 50 identities.\" The officer added that the ‘mistake’ {{8}} to be corrected immediately. In order to avoid similar mistakes {{9}} made in future relevant guidelines were also modified.",
+      "As {{10}} the seemingly elusive Mr Prawo Jazdy, he has probably become a cult hero among Ireland's second largest immigrant population.",
+      "(www.news.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "after"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "each",
+        "every",
+        "any"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "by",
+        "after"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "whose"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "not",
+        "never"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "having"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "out"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "needed",
+        "had",
+        "ought",
+        "was"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "being"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "for"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about thirteen flight attendants who want to get their jobs back. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (11-19) in the text."
+     ],
+     "title": "FLIGHT ATTENDANTS SUE UNITED AIRLINES",
+     "body": [
+      "Thirteen flight attendants hope a lawsuit against United Airlines {{0}} get their jobs back. They were fired for refusing to fly after seeing a threatening note on the plane.",
+      "On July 14, 2014, Grace Lam and 12 other flight attendants, all {{11}} had been on the job at least 17 years, were preparing United Airlines Flight 869 when they learned graffiti had been discovered on the bottom of the plane. The flight {{12}} scheduled to fly from San Francisco to Hong Kong. Two faces and the words \"BYE BYE\" were scribbled in oil along the tail section, nearly 30 feet off the ground. The crew said they understood the message {{13}} a serious threat 4 months after the disappearance of Malaysia Airlines Flight 370.",
+      "But {{14}} their 26-page complaint, United Airlines refused to deplane Flight 869, and the ground crew examined only the emergency power unit near the drawings, and said it was a \"joke\". The flight attendants refused to fly without a full security sweep, and the trip was canceled {{15}} United had no crew. In October, the airline dismissed {{16}} 13 flight attendants for disobedience.",
+      "\"It's a moral obligation to do what they did,\" said the flight attendants' attorney. \"The airline {{17}} got the passengers off the plane and done a security sweep of the plane.\" United told CBS News, \"Our safety and maintenance teams appropriately investigated and decided {{18}} was no security threat. They considered the aircraft entirely safe to fly.\"",
+      "\"I don't regret anything,\" Lam said. \"If this {{19}} again, I would do the same thing.\"",
+      "The 13 flight attendants are asking United to take them back. They are also seeking compensatory damages. (www.cbsnews.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "to"
+        },
+        {
+         "key": "B",
+         "text": "-"
+        },
+        {
+         "key": "C",
+         "text": "will"
+        },
+        {
+         "key": "D",
+         "text": "must"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "they"
+        },
+        {
+         "key": "B",
+         "text": "of whom"
+        },
+        {
+         "key": "C",
+         "text": "who"
+        },
+        {
+         "key": "D",
+         "text": "of them"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "has been"
+        },
+        {
+         "key": "B",
+         "text": "were"
+        },
+        {
+         "key": "C",
+         "text": "would be"
+        },
+        {
+         "key": "D",
+         "text": "had been"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "as"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "like"
+        },
+        {
+         "key": "D",
+         "text": "despite"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "talking of"
+        },
+        {
+         "key": "B",
+         "text": "regarding"
+        },
+        {
+         "key": "C",
+         "text": "according to"
+        },
+        {
+         "key": "D",
+         "text": "because of"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "due to"
+        },
+        {
+         "key": "B",
+         "text": "since"
+        },
+        {
+         "key": "C",
+         "text": "therefore"
+        },
+        {
+         "key": "D",
+         "text": "in case"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "all of"
+        },
+        {
+         "key": "B",
+         "text": "all"
+        },
+        {
+         "key": "C",
+         "text": "each"
+        },
+        {
+         "key": "D",
+         "text": "each of"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "should have"
+        },
+        {
+         "key": "B",
+         "text": "had better"
+        },
+        {
+         "key": "C",
+         "text": "ought to"
+        },
+        {
+         "key": "D",
+         "text": "would rather"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "that it"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "it"
+        },
+        {
+         "key": "D",
+         "text": "there"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "happens"
+        },
+        {
+         "key": "B",
+         "text": "would happen"
+        },
+        {
+         "key": "C",
+         "text": "happened"
+        },
+        {
+         "key": "D",
+         "text": "will happen"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-L3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read about the game 'rock-paper-scissors'. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-O) for each gap (20-30) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "HOWTOWINATROCK-PAPER-SCISSORS",
+     "body": [
+      "What are your odds of {{0}} rock-paper-scissors? Simple – one in three. At least, that's what {{20}} predicts.",
+      "But people do not play randomly; they {{21}} a hidden strategy, which was revealed in a rock-paper-scissors tournament in China.",
+      "Scientists recruited 360 students and divided them into groups of six. {{22}} competitor played 300 rounds of rock-paper-scissors against {{23}} members of their group. To play smart, classical game theory suggests players should completely randomise their choices to {{24}} unpredictable to opponents. And indeed, players in all groups chose each action about a third of the time, exactly as expected {{25}} their choices were random. {{26}}, the organisers noticed a surprising pattern of behaviour. Winners tended to stick with their winning action, while losers tended to {{27}} to the next action in the sequence \"rock- paper-scissors\". {{28}} losing with a rock, for example, a player was more {{29}} to play paper in the next round. Being aware of this \"win-stay lose-shift\" strategy may offer one a considerable advantage.",
+      "{{30}} it is a simple game, rock-paper-scissors is seen as a model for studying competitive behaviour in human, e.g. in financial trading.",
+      "(www.news.bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AFTER"
+      },
+      {
+       "key": "B",
+       "text": "CHANCE"
+      },
+      {
+       "key": "C",
+       "text": "WINNING"
+      },
+      {
+       "key": "D",
+       "text": "CHOICE"
+      },
+      {
+       "key": "E",
+       "text": "EACH"
+      },
+      {
+       "key": "F",
+       "text": "EVEN"
+      },
+      {
+       "key": "G",
+       "text": "FOLLOW"
+      },
+      {
+       "key": "H",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "I",
+       "text": "IF"
+      },
+      {
+       "key": "K",
+       "text": "LIKELY"
+      },
+      {
+       "key": "L",
+       "text": "OTHER"
+      },
+      {
+       "key": "M",
+       "text": "REMAIN"
+      },
+      {
+       "key": "N",
+       "text": "SWITCH"
+      },
+      {
+       "key": "O",
+       "text": "THOUGH"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "answer": "G"
+      },
+      {
+       "n": 22,
+       "answer": "E"
+      },
+      {
+       "n": 23,
+       "answer": "L"
+      },
+      {
+       "n": 24,
+       "answer": "M"
+      },
+      {
+       "n": 25,
+       "answer": "I"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "N"
+      },
+      {
+       "n": 28,
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "answer": "K"
+      },
+      {
+       "n": 30,
+       "answer": "O"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 15,
+     "instructions": [
+      "You are going to read an article about the origins of margherita pizza. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "MARGHERITA PIZZA",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Loved around the all world for its simplicity, margherita pizza is",
+       "answer": "all"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "commonly believed to be named after an Italian queen.",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "Despite of being united with northern Italy in 1861 by Garibaldi, in",
+       "answer": "of"
+      },
+      {
+       "n": 32,
+       "text": "1889 southern Italy was still suffering from its loss of independence.",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "Since that year the Italian king and queen decided to visit Naples,",
+       "answer": "since"
+      },
+      {
+       "n": 34,
+       "text": "the former capital of the South, whether to meet their southern",
+       "answer": "whether"
+      },
+      {
+       "n": 35,
+       "text": "subjects. Legend has told it that the queen got sick of French gourmet",
+       "answer": "told"
+      },
+      {
+       "n": 36,
+       "text": "food so that was the royal standard across Europe at the time.",
+       "answer": "so"
+      },
+      {
+       "n": 37,
+       "text": "She had sent for the most famous pizza-maker in Naples, Raffaele",
+       "answer": "had"
+      },
+      {
+       "n": 38,
+       "text": "Esposito, and had him to bake her three pizzas. She did not like the",
+       "answer": "to"
+      },
+      {
+       "n": 39,
+       "text": "one with garlic or the one with anchovies, but she very liked the one",
+       "answer": "very"
+      },
+      {
+       "n": 40,
+       "text": "featuring the colours of the Italian flag: it was made with basil (green),",
+       "answer": null
+      },
+      {
+       "n": 41,
+       "text": "mozzarella (white) and tomato sauce (red). But Esposito named his",
+       "answer": "but"
+      },
+      {
+       "n": 42,
+       "text": "invention after the queen, whose name was Margherita. A few days",
+       "answer": null
+      },
+      {
+       "n": 43,
+       "text": "later on she sent Esposito a thank-you note, one that hangs to this day",
+       "answer": "on"
+      },
+      {
+       "n": 44,
+       "text": "on the wall of the pizzeria, in which his descendants still own.",
+       "answer": "in"
+      },
+      {
+       "n": 45,
+       "text": "If the queen's interest in pizza shows the monarch's acceptance of",
+       "answer": "if"
+      }
+     ],
+     "outro": "the southern traditions and the tricolour pizza represents the South's final acceptance of unification. (www.bbc.com)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2016-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear the life story of an extraordinary scientist called Caroline Herschel.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_16maj_fl.mp3",
+      "start": 0,
+      "end": 669.66,
+      "clip": "hang/e_angol_16maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Caroline Herschel had a lot of brothers but no sisters.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "Caroline’s illness seriously limited her growth.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Both her parents wanted Caroline to receive an excellent education.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Caroline wanted to be near William because he badly needed her help.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "In England Caroline’s only task was to learn to sing.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Caroline delivered a brilliant performance in the Birmingham Festival.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Thanks to her success in music, Caroline enjoyed a busy social life.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "William’s interest in astronomy started with a strange observation.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "According to Caroline’s Memoir, she only did what her brother told her to do.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Caroline was the first woman to discover a comet.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "William and his patron became lifelong friends.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "The planet Uranus was discovered by Caroline.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "After William’s death, Caroline went on doing her scientific work.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you are going to hear a story about two famous film directors: George Lucas and Steven Spielberg.",
+      "Your task is to write one word in each of the gaps below using the exact words that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_16maj_fl.mp3",
+      "start": 669.66,
+      "end": 1153.65,
+      "clip": "hang/e_angol_16maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "A lot of people know that Lucas and Spielberg are {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "good"
+        ],
+        [
+         "pals"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Lucas was {{gap}} {{gap}} that Star Wars wouldn’t be a huge success.",
+       "gaps": [
+        [
+         "extremely"
+        ],
+        [
+         "nervous"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Due to problems and breakdowns, Lucas was well behind his {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "production"
+        ],
+        [
+         "schedule"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Besides malfunctioning electronics and broken props, the film also suffered from {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "crew"
+        ],
+        [
+         "injuries"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Harrison Ford was sure that the movie would be a {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "complete"
+        ],
+        [
+         "failure"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Alec Guinness, who played Obi-Wan Kenobi, thought the film was just a stupid {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "fairy"
+        ],
+        [
+         "tale"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Lucas almost had a nervous breakdown because the film was not living up to his {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "original"
+        ],
+        [
+         "vision"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Lucas and Spielberg were arguing about which movie would {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "do"
+        ],
+        [
+         "better"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Spielberg took the bet after a {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "brief"
+        ],
+        [
+         "hesitation"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Besides theatrical releases, Spielberg has continued to get his share from {{gap}} {{gap}} sales.",
+       "gaps": [
+        [
+         "home"
+        ],
+        [
+         "video"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "In the years since the {{gap}} {{gap}}, Lucas and Spielberg have produced four Indiana Jones films together.",
+       "gaps": [
+        [
+         "unusual"
+        ],
+        [
+         "bet"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2016-maj-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a radio program about Jack Ma, who is the Chairman of Alibaba, a Chinese e-commerce company.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_16maj_fl.mp3",
+      "start": 1153.65,
+      "end": 1795.66,
+      "clip": "hang/e_angol_16maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Jack Ma is … Google chairman Eric Schmidt and media mogul Rupert Murdoch.",
+       "options": [
+        {
+         "key": "A",
+         "text": "richer than"
+        },
+        {
+         "key": "B",
+         "text": "as rich as"
+        },
+        {
+         "key": "C",
+         "text": "not as rich as"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "The reporter says Jack Ma …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a household name for almost everyone."
+        },
+        {
+         "key": "B",
+         "text": "didn’t found Alibaba all by himself."
+        },
+        {
+         "key": "C",
+         "text": "is one of the top twenty richest people in the world."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "According to Laura Marcinek, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "e-commerce was already a booming business in China when Jack Ma started his company."
+        },
+        {
+         "key": "B",
+         "text": "Alibaba is functioning better than Amazon."
+        },
+        {
+         "key": "C",
+         "text": "Facebook does not have a real business model."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Jack Ma …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was making money while practicing English with tourists."
+        },
+        {
+         "key": "B",
+         "text": "easily got into university thanks to his excellent English."
+        },
+        {
+         "key": "C",
+         "text": "started teaching in the same city where he had graduated."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "stem": "Jack Ma …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had been interested in computer science ever since high school."
+        },
+        {
+         "key": "B",
+         "text": "may have started an internet company because he hadn’t found any Chinese results for “beer” on the Internet."
+        },
+        {
+         "key": "C",
+         "text": "was able to get by reasonably well with the money his internet company made."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "Jack Ma …",
+       "options": [
+        {
+         "key": "A",
+         "text": "borrowed the money he needed for another company from his best friend."
+        },
+        {
+         "key": "B",
+         "text": "stopped teaching in 1999."
+        },
+        {
+         "key": "C",
+         "text": "started Alibaba because of the success he had achieved with China Pages."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "Jack Ma …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a shy person who hates being in the center of attention."
+        },
+        {
+         "key": "B",
+         "text": "teaches kung fu to some of his employees."
+        },
+        {
+         "key": "C",
+         "text": "bought a huge apartment on top of a building."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "Jack Ma …",
+       "options": [
+        {
+         "key": "A",
+         "text": "arranges ceremonies where many of his employees get married simultaneously."
+        },
+        {
+         "key": "B",
+         "text": "buys his employees their first homes."
+        },
+        {
+         "key": "C",
+         "text": "believes that employees are the most important in business."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

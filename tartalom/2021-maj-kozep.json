@@ -1,0 +1,1350 @@
+{
+ "formatVersion": 1,
+ "id": "2021-maj-kozep",
+ "year": 2021,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2021-05-06",
+ "code": "1912",
+ "sourceFiles": {
+  "paper": "2021 - Középszintű májusi/k_angol_21maj_fl.pdf",
+  "key": "2021 - Középszintű májusi/k_angol_21maj_ut.pdf",
+  "audio": "2021 - Középszintű májusi/k_angol_21maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2021-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following interview about a common illness, the questions have been removed.",
+      "Your task is to match the questions to the paragraphs.",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "COPING WITH COLDS",
+     "body": [
+      "Despite being a minor illness, a cold can make you feel miserable. Here's some information about it.",
+      "{{0}}\nA cold is in fact an infection which can affect the nose, throat, or sinuses.",
+      "{{1}}\nThe cold virus. When it gets through the nose and throat, the body answers with an immune system reaction. Dry air, lack of sleep, stress, or not eating properly can increase one’s chances of getting the cold virus.",
+      "{{2}}\nWhat people first notice is usually a runny nose or sneezing. You also might feel very tired and have a sore throat, cough, headache, temperature, or muscle aches.",
+      "{{3}}\nWell, viruses can stay alive in the air or on surfaces for hours. So, sick people can easily spread the cold to others if they don’t wash their hands after coughing or sneezing.",
+      "{{4}}\nAlthough some people may be sick for as long as two weeks, most colds clear up within a week.",
+      "{{5}}\nGetting plenty of rest and drinking warm liquids like tea or chicken soup can make you feel less miserable.",
+      "{{6}}\nPeople who catch colds usually don't need medical attention. But talk to your GP if your symptoms get worse after 3 days instead of getting better."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What are the signs and symptoms of a cold?"
+      },
+      {
+       "key": "B",
+       "text": "What’s the difference between a cold and flu?"
+      },
+      {
+       "key": "C",
+       "text": "What exactly is a cold?"
+      },
+      {
+       "key": "D",
+       "text": "Can a cold be passed from one person to another?"
+      },
+      {
+       "key": "E",
+       "text": "When should I go to the doctor?"
+      },
+      {
+       "key": "F",
+       "text": "How long do colds last?"
+      },
+      {
+       "key": "G",
+       "text": "Will taking vitamin C help me to prevent colds?"
+      },
+      {
+       "key": "H",
+       "text": "What causes colds?"
+      },
+      {
+       "key": "I",
+       "text": "What can I do to feel better?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      }
+     ],
+     "source": "https://kidshealth.org/"
+    },
+    {
+     "id": "2021-maj-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 6,
+     "instructions": [
+      "Read this article about valuable charity gifts and then read the sentences (7-12) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "GOLD COINS FOUND IN A CHARITY KETTLE",
+     "body": [
+      "The Salvation Army regularly uses donation kettles to collect money for charity purposes. Not long ago they found five gold coins in their donation kettle at a food store in Mebane, North Carolina — three South African Krugerrand, one American Riverman and one Canadian Maple Leaf. All came in little plastic packages to keep them safe.",
+      "“We got the Riverman about a week ago, and we got the other four over the last two days,” said the Salvation Army spokesman. The organisation had already received such coins before with the exception of the Riverman.",
+      "All the coins were dropped in the kettle by an anonymous donor. The organisation is planning to take the five coins to a shop in High Point to determine their value. “We have a guy that we go to every year. He buys them from us,” the spokesman said. The group will use the money they get for the coins like any other gifts they receive. “I think it’s amazing to get these coins every year because that is a really large donation,” the spokesman said."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The five coins found are all made of gold.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "The five coins are all of the same size.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The five coins came within two days.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "The five coins were put in the kettle at night.",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "It was not the first time someone had given the Salvation Army gold coins.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "The organisation doesn’t know who the coins came from.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "The Salvation Army is going to give the coins to a museum.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2021-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read the following story about a prize-winning house and read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text."
+     ],
+     "title": "BAMBOO HOUSE: CUBO WINS TOP PRIZE",
+     "body": [
+      "Earl Forlales, the creator of a house made of bamboo, has won a £50,000 top prize to develop cities for the future. Earl Forlales, 23, a graduate in engineering, was awarded first prize by the Royal Institute of Surveyors for his house, known as Cubo. The Royal Institute decided to give top prize to the house because of its use of low-cost eco-friendly material, and the speed with which it could be constructed. The house could be manufactured in a week, constructed in four hours and costs £60 per square metre.",
+      "The competition was aiming to find practical solutions to housing problems that the world’s cities face. There were more than 1,200 competitors; they were narrowed down to 12 finalists, who were given a mentor from the Royal Institute to help develop their ideas over several months and then finally build their houses.",
+      "The competition head judge said: “There is a need for clean and comfortable places to live for future generations. There were many exciting designs among the projects. However, Earl’s idea stood out for its cheap and simple solution to the world’s growing accommodation problem.”",
+      "The winner, Forlales has already selected a suitable area of land to start building his Cubo houses in Manila, capital of the Philippines, because there are huge pressures on housing in the city. He plans to begin work next year. He said: “Cubo started as an idea while I was spending time at my grandparents’ house – it is great that it will now become a reality.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to choose the winner."
+      },
+      {
+       "key": "B",
+       "text": "to hand in a project and enter the competition."
+      },
+      {
+       "key": "C",
+       "text": "to get the award of £50,000."
+      },
+      {
+       "key": "D",
+       "text": "to make a modern building out of an old one."
+      },
+      {
+       "key": "E",
+       "text": "to build a Cubo house."
+      },
+      {
+       "key": "F",
+       "text": "to find a site for building several Cubo houses."
+      },
+      {
+       "key": "G",
+       "text": "to organise the competition."
+      },
+      {
+       "key": "H",
+       "text": "to work out the details of their projects."
+      },
+      {
+       "key": "I",
+       "text": "to live in an old part of the city."
+      },
+      {
+       "key": "K",
+       "text": "to help the participants in the finals."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "A bamboo house project was chosen",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "It would take less than a day",
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "stem": "Housing problems in cities encouraged the Royal Institute",
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "stem": "More than a thousand people decided",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "The Royal Institute mentors were asked",
+       "answer": "K"
+      },
+      {
+       "n": 17,
+       "stem": "It took the 12 competitors months",
+       "answer": "H"
+      },
+      {
+       "n": 18,
+       "stem": "The judges considered the cost of the house in order",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "After winning the competition Earl Forlales managed",
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2021-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about some traditional Christmas cakes called mince pies, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (20-27) from the list (A-L) below.",
+      "Remember that there are two extra phrases that you will not need."
+     ],
+     "title": "WORLD WAR 2 MINCE PIES FOUND UNDER HOTEL FLOORBOARDS",
+     "body": [
+      "The little cakes, {{0}} from a mother to her sailor son, were discovered at the Loch Hotel in Douglas on the Isle of Man. They were found during the hotel's 1998 renovation {{20}}. The pies are now on display for the first time.",
+      "Probably air-tight conditions under the hotel floor helped conserve the cakes for almost 80 years. They were sent to sailor Phil Davis {{21}}, which was signed \"love from mum\".",
+      "Matthew Richardson, the museum’s curator said {{22}} so the other soldiers couldn’t find them. \"If you're in a shared room with five or six other men that you don't know, the only way {{23}} is to find a place to hide it,\" he said.",
+      "The sweets were found when the hotel was developed into apartments. The letter found with the box says {{24}} on the island. It gives news of happenings at the sailor's home in Birmingham, including details of family and friends enjoying the Christmas holidays together {{25}}. It also reads: \"We shall be glad to see you when you get some time off.\"",
+      "Mr Richardson said: \"This box of mince pies shows that although wars are international events, they have an effect at a very human level. Here was a young man, possibly away from home for the first time in his life, training to go to a war zone. We can only imagine {{26}} as she posted this box to him.\"",
+      "\"We can't say for sure {{27}}. Perhaps he was unexpectedly sent to the front and didn't have time to take them.\""
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "and missing Phil very much"
+      },
+      {
+       "key": "B",
+       "text": "that the pies were possibly hidden under the floorboards"
+      },
+      {
+       "key": "C",
+       "text": "which were a wartime gift"
+      },
+      {
+       "key": "D",
+       "text": "to send back a thank-you note"
+      },
+      {
+       "key": "E",
+       "text": "and later given to the local museum"
+      },
+      {
+       "key": "F",
+       "text": "why sailor Davis never ate his mince pies"
+      },
+      {
+       "key": "G",
+       "text": "without a place to find them"
+      },
+      {
+       "key": "H",
+       "text": "what his mother was feeling"
+      },
+      {
+       "key": "I",
+       "text": "that sailor Davis was attending a radar training school"
+      },
+      {
+       "key": "K",
+       "text": "together with a letter"
+      },
+      {
+       "key": "L",
+       "text": "to protect what is yours"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "answer": "E",
+       "alt": [
+        "K"
+       ]
+      },
+      {
+       "n": 21,
+       "answer": "K"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "answer": "L"
+      },
+      {
+       "n": 24,
+       "answer": "I"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2021-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about new technology in art. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "RAIN ART",
+     "body": [
+      "Most people would laugh if you told them they could go for a nice walk in the {{0}} rain — without getting wet. But that idea has become reality, {{1}} to an amazing show which allows art {{2}} to walk in falling water without getting soaked to the skin.",
+      "The art installation, titled the Rain Room, uses a 3D camera system that creates a {{3}} designed path through the heavy rain, {{4}} on the movements of visitors.",
+      "Hannes Koch, the {{5}} of the Rain Room told CCTV News: “I think the initial idea didn’t have much to do with rain; it had to do with how visitors {{6}} it would feel to be inside rain but to be {{7}} from it.”",
+      "The Rain Room {{8}} has attracted thousands of visitors to the Barbican Centre in London. A permanent version of the Rain Room has opened at the Yuz Museum in Shanghai."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "pour",
+       "example": true,
+       "accept": [
+        "pouring"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "thank",
+       "accept": [
+        "thanks"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "love",
+       "accept": [
+        "lovers"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "careful",
+       "accept": [
+        "carefully"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "base",
+       "accept": [
+        "based"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "design",
+       "accept": [
+        "designer"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "image",
+       "accept": [
+        "imagine",
+        "imagined"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "protect",
+       "accept": [
+        "protected"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "exhibit",
+       "accept": [
+        "exhibition",
+        "exhibit"
+       ]
+      }
+     ],
+     "source": "http://www.mirror.co.uk"
+    },
+    {
+     "id": "2021-maj-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a new kind of family therapy. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (9-16) in the text."
+     ],
+     "title": "YOUR KIDS CAN EAT FREE IF …",
+     "body": [
+      "Parents who give up their phones {{0}} dinner will be rewarded with free meals for their kids at a British restaurant chain. In December, Frankie & Benny’s is running its “no-phone” campaign as they {{9}} to see more families who pay attention to each other at the dinner table.",
+      "“We looked at various ways we {{10}} encourage people to communicate with each other at the dinner table, and {{11}} that giving families the chance to put down their phones for a {{12}} of hours is a great opportunity to bring them closer to each other,” a Frankie and Benny’s spokesperson explained.",
+      "Psychologist Susan Atkins agrees, saying: “By putting away screens parents {{13}} the message that their children are important to them … Parents are role models in everything that they do, so by talking to their kids {{14}} reading and typing messages they are teaching their kids when and where technology use is appropriate.”",
+      "If parents want to use the promotion, they {{15}} put their phones in a special box before the meal begins. After dinner, the phones will {{16}} to them, and their children’s meals will be free of charge."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "while"
+        },
+        {
+         "key": "B",
+         "text": "under"
+        },
+        {
+         "key": "C",
+         "text": "during"
+        },
+        {
+         "key": "D",
+         "text": "through"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "are like"
+        },
+        {
+         "key": "B",
+         "text": "have liked"
+        },
+        {
+         "key": "C",
+         "text": "used to like"
+        },
+        {
+         "key": "D",
+         "text": "would like"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "make"
+        },
+        {
+         "key": "B",
+         "text": "could"
+        },
+        {
+         "key": "C",
+         "text": "try"
+        },
+        {
+         "key": "D",
+         "text": "needed"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "we’ve found"
+        },
+        {
+         "key": "B",
+         "text": "we’d find"
+        },
+        {
+         "key": "C",
+         "text": "we’ve founded"
+        },
+        {
+         "key": "D",
+         "text": "we might find"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "lots"
+        },
+        {
+         "key": "B",
+         "text": "several"
+        },
+        {
+         "key": "C",
+         "text": "couple"
+        },
+        {
+         "key": "D",
+         "text": "few"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "would get"
+        },
+        {
+         "key": "B",
+         "text": "had left"
+        },
+        {
+         "key": "C",
+         "text": "have saved"
+        },
+        {
+         "key": "D",
+         "text": "are sending"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "and"
+        },
+        {
+         "key": "B",
+         "text": "without"
+        },
+        {
+         "key": "C",
+         "text": "while"
+        },
+        {
+         "key": "D",
+         "text": "instead"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "need"
+        },
+        {
+         "key": "B",
+         "text": "had to"
+        },
+        {
+         "key": "C",
+         "text": "must"
+        },
+        {
+         "key": "D",
+         "text": "may"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "sent back"
+        },
+        {
+         "key": "B",
+         "text": "hand"
+        },
+        {
+         "key": "C",
+         "text": "be given up"
+        },
+        {
+         "key": "D",
+         "text": "be returned"
+        }
+       ],
+       "answer": "D"
+      }
+     ],
+     "source": "https://www.fatherly.com)"
+    },
+    {
+     "id": "2021-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a lost wallet. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "LOST WALLET RETURNED",
+     "body": [
+      "Hunter Shamatt had just arrived in Las Vegas when he realized he had lost {{0}} wallet. It contained $60, a $400 paycheck, his bank card and his identification card. He was very upset, but he didn’t want to make a big deal of it because it {{17}} his sister’s wedding weekend. He thought he might have lost it on his Frontier flight from Omaha to Vegas, so he called the airline and reported {{18}} missing. No luck.",
+      "After the wedding, a package arrived {{19}} his home. It contained his wallet — completely intact — with a note {{20}} said: “Hunter, I found this on a Frontier flight from Omaha to Vegas – row 12, under seat F. Thought you might want it back. All the {{21}}, Todd.”",
+      "And below that: “P.S. I rounded your cash up to an even $100 so you could celebrate getting your wallet back. Have Fun!!!”",
+      "It took Hunter Shamatt a few minutes to believe {{22}} the note said. He wanted to thank the kind stranger, so he posted a picture {{23}} the note on Facebook with a message asking {{24}} help to find Todd. Within days, he was in contact with the man, identified in local media reports as Todd Brown of Omaha.",
+      "Shamatt wrote Brown a heartfelt thank-you:",
+      "“Sir, what you’ve done for me is unheard of. I {{25}} expected to see my wallet again, let alone with $40 more. Thank you so much, I’ve got student loans and it makes all the difference.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "his"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "best"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "what",
+        "everything",
+        "anything"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "of",
+        "showing"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "never",
+        "hadn’t",
+        "hardly",
+        "scarcely",
+        "barely"
+       ]
+      }
+     ],
+     "source": "https://www.washingtonpost.com"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2021-maj-kozep-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear about a man who had very strange eating habits.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. That means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_21maj_fl.mp3",
+      "start": 0,
+      "end": 668.84,
+      "clip": "hang/k_angol_21maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Michel Lotito’s nickname is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Mr Eat Everything."
+        },
+        {
+         "key": "B",
+         "text": "Monsieur Mangetout."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Michel Lotito was born in ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Switzerland."
+        },
+        {
+         "key": "B",
+         "text": "1950."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "When he was young, Lotito …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had a mental illness."
+        },
+        {
+         "key": "B",
+         "text": "was always complaining about stomach pains."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "His family discovered his ability when …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he was about 9 years old."
+        },
+        {
+         "key": "B",
+         "text": "a glass he was drinking from broke."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "His illness was diagnosed by doctors when he started eating …",
+       "options": [
+        {
+         "key": "A",
+         "text": "parts of a TV set."
+        },
+        {
+         "key": "B",
+         "text": "nails."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "He was able to eat such things because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his teeth were extremely strong."
+        },
+        {
+         "key": "B",
+         "text": "the wall of his stomach was very thick."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Mr Lotito improved his technique by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "breaking up the metal objects before he ate them."
+        },
+        {
+         "key": "B",
+         "text": "drinking oil while eating them."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Mr Lotito ate ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "around one kilo of metal every day for years."
+        },
+        {
+         "key": "B",
+         "text": "a whole airplane in two years."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "During his lifetime, Mr Lotito also …",
+       "options": [
+        {
+         "key": "A",
+         "text": "enjoyed eating bananas and hard-boiled eggs."
+        },
+        {
+         "key": "B",
+         "text": "ate several beds and bicycles."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Mr Lotito died …",
+       "options": [
+        {
+         "key": "A",
+         "text": "in 2007."
+        },
+        {
+         "key": "B",
+         "text": "because of his crazy eating habits."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2021-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a list of things that Hungarians are particularly sensitive about according to foreigners.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "k_angol_21maj_fl.mp3",
+      "start": 668.84,
+      "end": 1190.2,
+      "clip": "hang/k_angol_21maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "There are certain things that Hungarians don’t like to hear.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The Italian flag actually served as a model for the Hungarian flag.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "There is more than one reason why foreigners tend to mix up Budapest and Bucharest.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Hungarians have every reason to be proud of their football of the past few decades.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Hungary is the 8th most successful nation of all at the summer Olympic Games.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "According to international surveys, Hungarian men are considered to be the most handsome men in the world.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Hungarians tend to get angry more easily than people in a lot of other countries.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "All foreigners have to do to make Hungarians smile is to avoid hurting their feelings.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2021-maj-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear an advertisement for a job you might be interested in.",
+      "Your task will be to write one word or number in each of the gaps below using the exact words you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_21maj_fl.mp3",
+      "start": 1190.2,
+      "end": 1798.03,
+      "clip": "hang/k_angol_21maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "People who get the job will be paid for living on and {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "testing"
+        ],
+        [
+         "yachts"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The HushHush.com website sells {{gap}} to {{gap}}.",
+       "gaps": [
+        [
+         "products"
+        ],
+        [
+         "millionaires"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The new employee’s job is to test the quality of yachts and check that they meet the company’s {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "high"
+        ],
+        [
+         "standards"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Successful applicants will have to spend a week on the yacht, and then {{gap}} a detailed {{gap}} of everything they find.",
+       "gaps": [
+        [
+         "write"
+        ],
+        [
+         "report"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Besides beds, doors and showers, the successful applicant will also have to test any {{gap}} {{gap}} and everything else on the yacht.",
+       "gaps": [
+        [
+         "electrical"
+        ],
+        [
+         "equipment"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "To have a chance to get the job, you must be at least {{gap}} years old, and you must own a {{gap}}.",
+       "gaps": [
+        [
+         "21",
+         "twenty-one"
+        ],
+        [
+         "passport"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "It is very important that the applicant should have an extremely {{gap}} {{gap}}, as the company might send the tester to a new ship at any time.",
+       "gaps": [
+        [
+         "flexible"
+        ],
+        [
+         "timetable"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Ideal applicants should be {{gap}} and {{gap}} besides having an eye for detail.",
+       "gaps": [
+        [
+         "reliable"
+        ],
+        [
+         "hard-working",
+         "hard working",
+         "hardworking"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The company might send the testers to visit {{gap}} yachts every year, so they could earn up to ${{gap}} a year.",
+       "gaps": [
+        [
+         "50",
+         "fifty"
+        ],
+        [
+         "65,000",
+         "sixty-five thousand"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "In addition to your name and a list of your skills, you need to give your {{gap}} {{gap}} in the form.",
+       "gaps": [
+        [
+         "email"
+        ],
+        [
+         "address"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A válasz akkor elfogadható, ha az alábbi szavak mindegyike szerepel benne.)"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1496 @@
+{
+ "formatVersion": 1,
+ "id": "2022-maj-emelt",
+ "year": 2022,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2022-05-05",
+ "code": "2212",
+ "sourceFiles": {
+  "paper": "2022 - Emeltszintű május/e_angol_22maj_fl.pdf",
+  "key": "2022 - Emeltszintű május/e_angol_22maj_ut.pdf",
+  "audio": "2022 - Emeltszintű május/e_angol_22maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2022-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following article about rest, the paragraph headings have been removed.",
+      "Your task is to write the letters of the headings (A-I) next to the appropriate numbers (1-6).",
+      "There are two extra headings that you do not need."
+     ],
+     "title": "THE SEVEN TYPES OF REST",
+     "body": [
+      "Have you ever tried to fix your lack of energy by getting more sleep — and still felt exhausted? If so, here’s the secret: sleep and rest are not the same thing, although people tend to confuse the two. There are seven types of rest – needed by everyone.",
+      "{{0}}\nIt is about resting your body. In addition to sleeping or napping, it can include anything that restores your body, like getting a massage or attending a yoga class.",
+      "{{1}}\nIf you often find your head spinning because of doing too many things at once, you’re in need of this type of rest. Basically, it’s anything that gives your brain a break from focusing too hard – meditation, a walk around the block or doing something monotonous, like the washing up.",
+      "{{2}}\nAlthough you might not realise it on a day-to-day basis, you are continuously overwhelmed by new sights, smells and sounds, from the bright light of your phone to the noise of traffic. Taking some time to unplug from all of these to give yourself a break is crucial to feel well-rested.",
+      "{{3}}\nDo you lead a life where you often have to solve problems or come up with new ideas? You need to balance this out by practising something that makes you feel inspired, like designing something original, such as painting a picture, or knitting a colourful scarf.",
+      "{{4}}\nHolding onto your feelings – either to please others or simply because you feel unable to express them – requires a lot of energy. You need a break from this, too, by processing your feelings and sharing them honestly with those around you.",
+      "{{5}}\nThis isn’t about spending time alone (although if you’re introverted, it might be helpful, too), but about spending time with people who love and support you, rather than those who frustrate or pressure you.",
+      "{{6}}\nThis is the ability to connect with something beyond the physical and mental. If you’re religious, this might mean practising your religion. If not, it might mean doing something which gives you a sense of purpose, like volunteering."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Spiritual Rest"
+      },
+      {
+       "key": "B",
+       "text": "Sensory Rest"
+      },
+      {
+       "key": "C",
+       "text": "Physical Rest"
+      },
+      {
+       "key": "D",
+       "text": "Social Rest"
+      },
+      {
+       "key": "E",
+       "text": "Creative Rest"
+      },
+      {
+       "key": "F",
+       "text": "Mental Rest"
+      },
+      {
+       "key": "G",
+       "text": "Digital Rest"
+      },
+      {
+       "key": "H",
+       "text": "Emotional Rest"
+      },
+      {
+       "key": "I",
+       "text": "Educational Rest"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "answer": "H"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      }
+     ],
+     "source": "https://www.stylist.co.uk/health/mental-health/7-types-of-rest-deficit-tired-all-the-time/539221"
+    },
+    {
+     "id": "2022-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article about children cycling to school in Barcelona.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (7-15) from the list (A-M) after the text.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "HUNDREDS BIKING TOGETHER TO SCHOOL IN BARCELONA",
+     "body": [
+      "The Friday commute to school looks {{0}} kids in Barcelona, Spain.",
+      "Starting at 8 a.m., more than a hundred kids and parents {{7}} on their way to school and work – not on the sidewalk or in a bike lane, {{8}}. The system has been dubbed bicibús, or “bike bus”, and began in the Eixample district of Barcelona in September.",
+      "Families in the area are using the growing popularity of the bike commute to build community – and also {{9}} for their kids to get to school. \"It all started with a group of five families and a lot of determination,” said Mireia Boix, a parent who rides with her 5-year-old son.",
+      "The bicibús operates {{10}}, but with three “stops” along the way where more riders can join as it travels to several schools in the district. Parents may also ride along, some of them carrying younger children on their bikes. To make the ride safe for everyone, {{11}}.",
+      "The bicibús travels down Entença Street, where three schools are located. Boix said it's a busy road where about 20,000 vehicles drive through every day, {{12}}. Normally, it would be dangerous for kids to cycle to school there. But Boix said she feels a sense of relief knowing that when {{13}} with the bicibús, he will be safe.",
+      "Seeing the success of the bicibús – with hundreds of schoolchildren cycling to school –, parents in the community are hoping for {{14}} separated from the main traffic, which would allow children to bike to school safely. “It would reduce the amount of cars and {{15}} that feel insecure with the area right now,” she said. “If people are convinced that it is safe to use their bikes, there will be a healthier, quieter and overall better city to live in.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "teachers also support the movement"
+      },
+      {
+       "key": "B",
+       "text": "hop on their bikes and hit the road"
+      },
+      {
+       "key": "C",
+       "text": "a little different for some"
+      },
+      {
+       "key": "D",
+       "text": "a permanent school-friendly bike lane"
+      },
+      {
+       "key": "E",
+       "text": "to fight for a safer, more environmentally friendly way"
+      },
+      {
+       "key": "F",
+       "text": "but in the middle of the street"
+      },
+      {
+       "key": "G",
+       "text": "her son bikes to school on Fridays"
+      },
+      {
+       "key": "H",
+       "text": "police vehicles escort the group"
+      },
+      {
+       "key": "I",
+       "text": "apart from one accident that happened last week"
+      },
+      {
+       "key": "K",
+       "text": "in a similar way a school bus would"
+      },
+      {
+       "key": "L",
+       "text": "making the surrounding area really loud"
+      },
+      {
+       "key": "M",
+       "text": "make bike riding a possibility for families"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "answer": "F"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "answer": "L"
+      },
+      {
+       "n": 13,
+       "answer": "G"
+      },
+      {
+       "n": 14,
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "answer": "M"
+      }
+     ],
+     "source": "https://www.npr.org/2021/10/22/1047341052/barcelona-bicibus-kids-parents-bike-ride-to-school?t=1635160436609"
+    },
+    {
+     "id": "2022-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a girl living in the Tower of London and then read the statements (16-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "WHO IS THE REDHEAD LIVING IN THE TOWER OF LONDON?",
+     "body": [
+      "With her flaming red curls, Megan Clawson looks like a fairy-tale princess. So when she walks around the 950-year-old Tower of London, it’s no wonder she draws attention from visitors. But she isn't a formal part of the attraction, or a royal ghost walking the walls, as some tourists think. She really does live in the Tower, with the Beefeaters – who have been guarding the Tower since Tudor times.",
+      "“Obviously, I always wanted to be a princess myself,” she said, admitting her ginger hair occasionally made her a target when she was younger. “In history, a lot of the big figures were redheads,” she said. “If I was Tudor, I definitely wouldn’t have people picking on me.”",
+      "The famously redheaded Queen Elizabeth I was imprisoned at the Tower as a princess, and Megan has had friends suggest she could dress up as the Virgin Queen and “scare tourists”. Megan, an aspiring actor, is frequently compared to fictional princesses like Merida from Brave or Sansa from Game of Thrones.",
+      "Megan moved into a family apartment in the eastern wall of the Tower last summer with her father, who is one of 32 Beefeaters living within the ancient walls. When the Tower was closed to the public due to the pandemic, she was in her “own little world”, walking her dog Ethel, hanging the laundry up in the castle grounds and sitting on her balcony with views over the grounds to Tower Bridge. “It really did feel like living in a palace.”",
+      "Now that the doors have reopened to the public, tourists are back. Walking along the walls, they can see Megan on the balcony and don’t realise she can hear them talking about her. “People think I'm somebody royal and they don’t realise I can hear every word they say because of the acoustics of the walls,” she said.",
+      "Megan regularly updates her TikTok and Instagram followers on life in the Tower of London. “All the people who have touched these walls and these gates, all the things the Tower has seen – and now it’s just me on my bed, in my pyjamas, watching Netflix. Thrilling!”"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Megan Clawson loved reading fairy tales about princesses as a child.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "As a child, sometimes she was bullied because of her hair.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "According to her friends, if she dressed up as Queen Elizabeth I, she could easily frighten people.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Megan hates being compared to fictional characters she resembles.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "Thanks to the lockdown during the pandemic, she had the chance to experience life in the Tower without visitors disturbing her daily routine.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Megan doesn’t mind hearing people talk about her during their visit to the Tower.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Megan does not let people know much about her everyday life in the Tower.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "She feels uncomfortable doing trivial things in a historic setting.",
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.bbc.com/news/uk-england-london-58979105?at_custom4=1573FC20-36DB-11EC-9BD5-"
+    },
+    {
+     "id": "2022-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read the following article about kids with a creative mind and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "KID INVENTORS WHO CHANGED OUR LIVES",
+     "body": [
+      "To celebrate Kid Inventors' Day, we have collected a few inventions from the past which were hatched in the minds of children.",
+      "Eleven-year-old Frank Epperson invented the popsicle. On a winter’s eve in 1905, Frank forgot to bring inside a fruit-flavoured soft drink that he had left on his porch. He accidentally left the drink outside overnight, with the stirring stick in the glass. The drink froze solid, and a delicious dessert was born.",
+      "A young gymnast, George Nissen invented the trampoline in 1930, at the age of 16. After seeing trapeze artists drop into the safety net beneath them, he thought it would be exciting to perform tricks while bouncing around. He designed a device for bouncing with a metal frame and a canvas stretched over it with rubber springs. When trampoline gymnastics was made an Olympic sport in 2008, 94-year-old George attended the event as a guest of honour.",
+      "In 1873 Chester Greenwood was just 15 years old when his ears got painfully cold one day while ice skating. He designed a wire frame and asked his grandmother to sew beaver skins to it – thereby making the first pair of earmuffs. He ended up patenting the invention by age 19 and even selling them to soldiers during the First World War.",
+      "Canadian Joseph-Armand Bombardier was interested in mechanics and in 1922, at the age of 15, he invented the snowmobile. First, he developed a propeller-driven sleigh, which was the first vehicle that could travel over snow. Later he moved on to cars that he modified with chains and tracks so that they could carry passengers and goods over ice and snow. With the launch of the Ski-Doo in 1959, he created a new recreational sport.",
+      "In the early 1700s, at age 11, Benjamin Franklin invented swim flippers. He was a keen swimmer and wanted to increase his speed in the water. He designed handheld fins made out of oval-shaped planks of wood with holes in the middle for his hands. Unlike today's modern flippers that are worn on the feet, his swim fins were strapped to the swimmer's hands to make each stroke more efficient."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "is a piece of equipment for acrobatic movements."
+      },
+      {
+       "key": "B",
+       "text": "was inspired by a vehicle used by the military."
+      },
+      {
+       "key": "C",
+       "text": "is to be eaten."
+      },
+      {
+       "key": "D",
+       "text": "invented something by chance."
+      },
+      {
+       "key": "E",
+       "text": "is worn on the limbs to help movement through water."
+      },
+      {
+       "key": "F",
+       "text": "was motivated by an unpleasant experience when doing an outdoor sport."
+      },
+      {
+       "key": "G",
+       "text": "sold the first model of his device immediately."
+      },
+      {
+       "key": "H",
+       "text": "developed a machine for winter transport."
+      },
+      {
+       "key": "I",
+       "text": "saw his invention being used in a worldwide contest."
+      },
+      {
+       "key": "K",
+       "text": "was rejected by the public for a long time."
+      },
+      {
+       "key": "L",
+       "text": "is worn to cover and protect parts of the body."
+      },
+      {
+       "key": "M",
+       "text": "was looking for ways to get faster when doing a sport."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Epperson’s invention …",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Frank Epperson …",
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "stem": "George Nissen …",
+       "answer": "I"
+      },
+      {
+       "n": 25,
+       "stem": "Nissen’s invention …",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Chester Greenwood …",
+       "answer": "F"
+      },
+      {
+       "n": 27,
+       "stem": "Chester Greenwood’s invention …",
+       "answer": "L"
+      },
+      {
+       "n": 28,
+       "stem": "Joseph-Armand Bombardier …",
+       "answer": "H"
+      },
+      {
+       "n": 29,
+       "stem": "Benjamin Franklin …",
+       "answer": "M"
+      },
+      {
+       "n": 30,
+       "stem": "Franklin’s invention …",
+       "answer": "E"
+      }
+     ],
+     "source": "https://inventionland.com/blog/ten-kid-inventors-that-changed-our-lives/"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2022-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a successful birdsong album.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "BIRDSONG ALBUM TO REACH TOP FIVE CHART IN AUSTRALIA",
+     "body": [
+      "An album of recorded birdsong has managed to beat Christmas {{0}} from Mariah Carey and Michael Bublé to make it into the top five of Australia’s music charts.",
+      "“Songs of Disappearance”, which features the call of 53 of Australia’s most {{1}} bird species, has risen to fifth place in the Australian Recording Industry Association (ARIA) album chart.",
+      "It was released on December 3 by not-for-profit organization BirdLife Australia and features birdsong captured in the wild by nature recordist David Stewart.",
+      "Several nature {{2}} organizations and Charles Darwin University have collaborated on the project, which raises awareness of the need to protect the nation’s {{3}} bird species.",
+      "In a press release Monday, Charles Darwin University, whose Ph.D. candidate Anthony Albrecht produced the album, said the birds featured are on the “verge of extinction.”",
+      "“The Australian public must be made aware of the critical situation {{4}} our unique wildlife. With ‘Songs of Disappearance’, we offer the sounds of species that could soon disappear forever,” said Albrecht.",
+      "On its website, BirdLife Australia said the title track “celebrates the incredible {{5}} of the Australian soundscape, and highlights what we will lose if we don’t take {{6}}.” The project aims to show that Australians will “not allow precious avian voices to be {{7}}.” According to BirdLife Australia, habitat {{8}} and climate change are threatening the existence of many bird species."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "classic",
+       "example": true,
+       "accept": [
+        "classics"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "threat",
+       "accept": [
+        "threatened",
+        "under-threat"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "conserve",
+       "accept": [
+        "conservation",
+        "-conserving",
+        "conserving"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "decline",
+       "accept": [
+        "declining"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "face",
+       "accept": [
+        "facing"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "vary",
+       "accept": [
+        "variety",
+        "varieties",
+        "variousness"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "act",
+       "accept": [
+        "action"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "silence",
+       "accept": [
+        "silenced",
+        "silent"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "destroy",
+       "accept": [
+        "destruction"
+       ]
+      }
+     ],
+     "source": "https://edition.cnn.com/2021/12/16/australia/birdsong-album-australia-scli-intl/index.html"
+    },
+    {
+     "id": "2022-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a funny international conflict. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (9-17) in the text."
+     ],
+     "title": "BELGIAN FARMER MOVES BORDER WITH FRANCE BY MISTAKE",
+     "body": [
+      "A major diplomatic incident has been {{0}} in Europe after a Belgian farmer accidentally moved the border with France, {{9}} his home country about 1,000 square meters bigger. {{10}}, local authorities saw the funny side.",
+      "The border between Belgium and France stretches 620 kilometers (390 miles) and the stone markers {{11}} define it have been peacefully in place for more than 200 years. One of the boundary stones, {{12}}, laid down in 1819, was recently spotted as being out of place by 2.29 meters (7.5 feet).",
+      "A farmer from the Belgian town of Erquelinnes is believed {{13}} moved the nuisance stone on his land to a more convenient spot, {{14}} seeing the potential for an international conflict.",
+      "\"We know exactly where the stone {{15}} before, right next to a tree,\" David Lavaux, the mayor of Erquelinnes, Belgium, {{16}} CNN on Tuesday. \"In 2019, during the 200th anniversary, they were geo-localized very precisely.\"",
+      "The Belgian mayor stressed that local authorities on both sides of the border were keen to resolve the situation quickly and peacefully. \"We laugh about this more than anything else, it is not very serious,\" he said. \"We're going to put back the border {{17}}. Nobody wanted to make Belgium bigger and France smaller!\""
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "escaped"
+        },
+        {
+         "key": "B",
+         "text": "missed"
+        },
+        {
+         "key": "C",
+         "text": "avoided"
+        },
+        {
+         "key": "D",
+         "text": "disappeared"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "that made"
+        },
+        {
+         "key": "B",
+         "text": "which moved"
+        },
+        {
+         "key": "C",
+         "text": "making"
+        },
+        {
+         "key": "D",
+         "text": "so increasing"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "Meanwhile"
+        },
+        {
+         "key": "B",
+         "text": "Indeed"
+        },
+        {
+         "key": "C",
+         "text": "Luckily"
+        },
+        {
+         "key": "D",
+         "text": "Accidentally"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "where"
+        },
+        {
+         "key": "C",
+         "text": "for"
+        },
+        {
+         "key": "D",
+         "text": "there"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "although"
+        },
+        {
+         "key": "B",
+         "text": "which"
+        },
+        {
+         "key": "C",
+         "text": "while"
+        },
+        {
+         "key": "D",
+         "text": "however"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "has"
+        },
+        {
+         "key": "B",
+         "text": "to be"
+        },
+        {
+         "key": "C",
+         "text": "being"
+        },
+        {
+         "key": "D",
+         "text": "to have"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "without"
+        },
+        {
+         "key": "B",
+         "text": "beyond"
+        },
+        {
+         "key": "C",
+         "text": "neither"
+        },
+        {
+         "key": "D",
+         "text": "after"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "was"
+        },
+        {
+         "key": "B",
+         "text": "has been"
+        },
+        {
+         "key": "C",
+         "text": "would be"
+        },
+        {
+         "key": "D",
+         "text": "might be"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "said"
+        },
+        {
+         "key": "B",
+         "text": "explained"
+        },
+        {
+         "key": "C",
+         "text": "told"
+        },
+        {
+         "key": "D",
+         "text": "reported"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "its original place"
+        },
+        {
+         "key": "B",
+         "text": "where it belongs"
+        },
+        {
+         "key": "C",
+         "text": "how it had been"
+        },
+        {
+         "key": "D",
+         "text": "it used to be"
+        }
+       ],
+       "answer": "B"
+      }
+     ],
+     "source": "https://edition.cnn.com/travel/article/belgium-farmer-moves-french-border/index.html"
+    },
+    {
+     "id": "2022-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an unusual job offer. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "WANTED: ALL-IN-ONE LANDLORD, PUB MANAGER AND MONARCH FOR REMOTE U.K. ISLAND",
+     "body": [
+      "Have you ever wanted to be crowned king {{0}} queen? A council in England {{18}} have a job for you. If you take it, you'll move to a remote British island {{19}} a population of exactly two, get drenched with beer, and be the caretaker and landlord of a centuries-old pub. Oh, and the monarch title is purely symbolic.",
+      "But tour guide John Murphy says it's well {{20}} the trouble for the chance to live full-time on Piel Island, {{21}} he says is known for its pure isolation and incredible beauty. \"If they choose the solitude of sitting there on a glorious sunset, watching a few seals sunbathing, that's not a bad lifestyle, {{22}} it?\" Murphy said to As It Happens host Carol Off.",
+      "Piel is a small island off the coast of northwest England, reachable {{23}} ferry between April and September. It's currently home to one couple, a booming population of seals, a badly damaged 14th-century castle, and a pub called the Ship Inn, which is believed to be more than 300 years old. The pub is owned by the Barrow-in-Furness local government council, which is hiring a landlord to look {{24}} the pub and operate it in the summer, when it {{25}} for tourists.",
+      "Murphy, 72, {{26}} been visiting Piel Island for more than 60 years. In the summers, he guides walking tours there."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "or"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "might",
+        "may",
+        "will",
+        "could",
+        "now",
+        "probably",
+        "likely"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "worth"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "is"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "by",
+        "via"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "after"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "opens",
+        "re-opens",
+        "reopens",
+        "caters"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "has"
+       ]
+      }
+     ],
+     "source": "https://www.cbc.ca/radio/asithappens/as-it-happens-the-tuesday-edition-1.6294256/wanted-all-in-one-landlord-pub-manager-"
+    },
+    {
+     "id": "2022-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a woman who likes practical jokes. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "SKELETON IN THE WALL",
+     "intro": "A playful mum has left behind a spooky surprise in her home for the next owner to",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "find. Sue Goff, from Dorking in Surrey, came up with the hilarious prank",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "whilst renovating their living room with her husband. They have noticed a",
+       "answer": "have"
+      },
+      {
+       "n": 27,
+       "text": "hole in the wall in which the former occupants had left old photographs.",
+       "answer": null
+      },
+      {
+       "n": 28,
+       "text": "To keep it up with the tradition, Sue decided to leave behind a slightly",
+       "answer": "it"
+      },
+      {
+       "n": 29,
+       "text": "more than terrifying addition in the form of a full-size Halloween skeleton",
+       "answer": "than"
+      },
+      {
+       "n": 30,
+       "text": "all along with an envelope that reads 'Hide and seek champ 2021'. The",
+       "answer": "all"
+      },
+      {
+       "n": 31,
+       "text": "57-year-old mum-of-two says what she enjoys pranking her family and",
+       "answer": "what"
+      },
+      {
+       "n": 32,
+       "text": "could not resist the opportunity to scare others hard. Sue said: \"I've played",
+       "answer": "hard"
+      },
+      {
+       "n": 33,
+       "text": "practical jokes on my kids all their life, so I think they're a bit fed up with",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "it, to be honest. My youngest daughter especially. At once I hid under her",
+       "answer": "at"
+      },
+      {
+       "n": 35,
+       "text": "bed for a half an hour whilst she was in the shower. Then, when she",
+       "answer": "a"
+      }
+     ],
+     "outro": "walked in, I grabbed her ankles. I also chased her down the road dressed as a zombie nun. It's all been in good fun, though.\"",
+     "source": "https://www.mirror.co.uk/news/weird-news/mum-leaves-skeleton-prank-walls-24754506"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2022-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear the confessions of an extraordinary American sportswoman, Kittie Weston-Knauer, who is a legend in the world of BMX cycling.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_22maj_fl.mp3",
+      "start": 0,
+      "end": 561.45,
+      "clip": "hang/e_angol_22maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Kittie Weston-Knauer is 70 years old.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Miss Kittie is the oldest female BMX racer in the U.S.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Miss Kittie started BMX racing thirty years ago.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Miss Kittie played a part in setting up the Women's Cruiser Class in BMX racing.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "She wins a medal in at least 25 races every year.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "She is the oldest woman who has ever won the 45 and over Women’s Cruiser Class race.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "After the serious accident in 1993, she couldn't walk for three months.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The most important thing about racing for her is enjoying herself and being part of a community.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2022-maj-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear about an eccentric billionaire who has been chosen to be the first tourist to fly to the Moon.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_22maj_fl.mp3",
+      "start": 561.45,
+      "end": 1227.58,
+      "clip": "hang/e_angol_22maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Yusaku Maezawa is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "from Japan."
+        },
+        {
+         "key": "B",
+         "text": "a billionaire."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "The SpaceX Starship rocket is expected to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "land on the Moon some time in 2023."
+        },
+        {
+         "key": "B",
+         "text": "be the first manned spacecraft to fly to the Moon since 1972."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Ayame Goriki is ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Yusaku Maezawa’s ex-girlfriend."
+        },
+        {
+         "key": "B",
+         "text": "an actress."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "On his website, Yusaku Maezawa admits that he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is rather brokenhearted at the moment."
+        },
+        {
+         "key": "B",
+         "text": "wants to find a long-time partner."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "On his website, Yusaku Maezawa posted the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "list of necessary conditions for applying."
+        },
+        {
+         "key": "B",
+         "text": "details of what the applicants can expect during the voyage."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "It is a requirement that the candidate should be …",
+       "options": [
+        {
+         "key": "A",
+         "text": "younger than 20."
+        },
+        {
+         "key": "B",
+         "text": "cheerful and optimistic at all times."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Mr Maezawa …",
+       "options": [
+        {
+         "key": "A",
+         "text": "used to be a musician."
+        },
+        {
+         "key": "B",
+         "text": "paid money to all the people who shared one of his tweets."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Mr Maezawa …",
+       "options": [
+        {
+         "key": "A",
+         "text": "got rich as the founder of a profitable online business."
+        },
+        {
+         "key": "B",
+         "text": "spends quite a lot of money on art."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Mr Maezawa …",
+       "options": [
+        {
+         "key": "A",
+         "text": "paid a price for the voyage that hasn’t been made public."
+        },
+        {
+         "key": "B",
+         "text": "wants to take some artists on the voyage with him as well."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2022-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you will hear about a very spectacular footbridge in China’s Hunan Province.",
+      "Your task will be to write a word in each of the gaps below using the exact words you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_22maj_fl.mp3",
+      "start": 1227.58,
+      "end": 1795.77,
+      "clip": "hang/e_angol_22maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The new bridge is probably the longest and highest {{gap}} – {{gap}} pedestrian bridge in the world.",
+       "gaps": [
+        [
+         "glass"
+        ],
+        [
+         "bottom"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "The bridge spans the canyon between two {{gap}} {{gap}} in the Zhangjiajie Mountains.",
+       "gaps": [
+        [
+         "mountain"
+        ],
+        [
+         "cliffs"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The reason for building the bridge was that it should serve as a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "tourist"
+        ],
+        [
+         "attraction"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The floor of the bridge is made of a(n) {{gap}} {{gap}} with more than 99 panels of thick glass.",
+       "gaps": [
+        [
+         "steel"
+        ],
+        [
+         "frame"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Extreme sports freaks who are brave enough can even do {{gap}} {{gap}} from the bridge.",
+       "gaps": [
+        [
+         "bungee",
+         "bungy"
+        ],
+        [
+         "jumping"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Those who are afraid of heights, can step over to the {{gap}} {{gap}} on both sides of the glass floor.",
+       "gaps": [
+        [
+         "metal"
+        ],
+        [
+         "edge"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "After its completion, the bridge was put to very severe {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "safety"
+        ],
+        [
+         "tests"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "In one security check, volunteers were asked to strike {{gap}} {{gap}} against the glass floor.",
+       "gaps": [
+        [
+         "huge"
+        ],
+        [
+         "hammers"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Haim Dotan is a famous architect and {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "urban"
+        ],
+        [
+         "designer"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Dotan finally accepted the request to design and build the bridge, but he had one very {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "strict"
+        ],
+        [
+         "condition"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Dotan said that he wanted the bridge to “disappear”, because he believed in nature, {{gap}}, {{gap}} and beauty.",
+       "gaps": [
+        [
+         "harmony"
+        ],
+        [
+         "balance"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1380 @@
+{
+ "formatVersion": 1,
+ "id": "2005-maj-kozep",
+ "year": 2005,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2005-05-12",
+ "code": "0513",
+ "sourceFiles": {
+  "paper": "2005. Középszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_fl.pdf",
+  "key": "2005. Középszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_ut.pdf",
+  "audio": "2005. Középszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2005-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "The titles of the following jokes have been removed.",
+      "Match the titles and the jokes, and put the letters in the corresponding boxes.",
+      "There is an extra letter that you do not need."
+     ],
+     "body": [
+      "{{0}} PUPIL: \"Would you punish me for something I didn`t do?\"",
+      "TEACHER: \"Of course not.\"",
+      "PUPIL: \"Good, because I haven`t done my homework.\"",
+      "{{1}} Two guys in a jungle come around a corner and meet a lion head-on.",
+      "One guy carefully reaches into his bag and slowly takes out a set of Nike running shoes, never once breaking eye contact with the lion.",
+      "The second guy hisses: \"What are you doing, you can't outrun the lion.\"",
+      "And the first guy says: \"No, but all I have to do is outrun you!\"",
+      "{{2}} As a little boy climbed onto Santa's lap, Santa asked the usual, \"And what would you like for Christmas?\"",
+      "The child stared at him open-mouthed and horrified for a minute, then asked, \"Didn't you get my e-mail?\"",
+      "{{3}} Father: “What did you do today to help your mother?”",
+      "Son: “I dried the dishes.”",
+      "Daughter: “And I helped pick up the pieces.”",
+      "{{4}} A teenage girl had been talking on the phone for about half an hour, and then she hung up.",
+      "\"Wow!\" said her father, \"That was short. You usually talk for two hours.",
+      "What happened?\"",
+      "\"Wrong number,\" replied the girl.",
+      "{{5}} Teacher: “Why are you late?”",
+      "Student: “There was a man who lost a hundred dollar bill.”",
+      "Teacher: “That's nice. Were you helping him look for it?”",
+      "Student: “No. I was standing on it.”",
+      "{{6}} Mother: \"Did you enjoy your first day at school?\"",
+      "Girl: \"First day? Do you mean I have to go back tomorrow?"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Boys in the kitchen?"
+      },
+      {
+       "key": "B",
+       "text": "Who’s faster?"
+      },
+      {
+       "key": "C",
+       "text": "Just a quick word"
+      },
+      {
+       "key": "D",
+       "text": "Where’s my money?"
+      },
+      {
+       "key": "E",
+       "text": "Enough is enough"
+      },
+      {
+       "key": "F",
+       "text": "No homework"
+      },
+      {
+       "key": "G",
+       "text": "The cash machine"
+      },
+      {
+       "key": "H",
+       "text": "No surprises for me?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "F"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read the following article, which contains useful advice for backpackers.",
+      "Some parts of the text have been removed.",
+      "You must complete the text by matching the numbers with the correct letters.",
+      "There is a letter which you will not need."
+     ],
+     "title": "BACKPACKER GUIDE TO SAFE TRAVELLING",
+     "body": [
+      "There are a number of important things that you need to remember if you want to travel safely and have a great holiday.",
+      "Personal health If you have health problems (e.g. heart problems, diabetes, epilepsy or asthma) then it is important to talk it over with your doctor {{0}}. Solo or group travel Many backpackers plan to travel alone, {{7}}. It is certainly safer not to travel alone, but remember that there are risks involved in travelling with a group.",
+      "Safety and security Watch your belongings at all times. Never carry any items for another person and check your luggage {{8}}.",
+      "Location and duration It is important to learn about the cultural differences that exist in the regions that you visit, {{9}}. For example, in many Muslim countries, women travellers may need to cover their arms, legs and hair when going outside.",
+      "Night time and night clubs Choose clubs visited by other backpackers. Remember to watch your belongings. To get back to your hotel never travel alone {{10}}.",
+      "Home contact Let your family know about your travelling companions, current location and any changes in your plans.Web cafés are common in many regions – {{11}}!",
+      "Food and water Drink only bottled water. You can buy food in the street but {{12}}. Fruit that you peel yourself should be fine.",
+      "Mosquitoes and bites Many backpackers will choose cheap accommodation and frequently there will be no mosquito nets over the beds. Spray your room each evening, {{13}}.",
+      "Summary The health risks associated with backpacking can be minimised if you remember these rules while you are abroad. Be careful and stay in close contact with home."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "but they may meet up with other adventurers while abroad"
+      },
+      {
+       "key": "B",
+       "text": "particularly if you travel to faraway places"
+      },
+      {
+       "key": "C",
+       "text": "especially around the door and window frames and under the bed"
+      },
+      {
+       "key": "D",
+       "text": "to make sure that you are not taking unnecessary risks"
+      },
+      {
+       "key": "E",
+       "text": "and always use authorised taxis where possible"
+      },
+      {
+       "key": "F",
+       "text": "only if it is fresh and fully cooked"
+      },
+      {
+       "key": "G",
+       "text": "when you have a lot of money"
+      },
+      {
+       "key": "H",
+       "text": "just make sure you have taught your parents to use email before you leave"
+      },
+      {
+       "key": "I",
+       "text": "before you travel through any customs checkpoints"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      },
+      {
+       "n": 9,
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "answer": "E"
+      },
+      {
+       "n": 11,
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nem tudjuk (T/F/DK)",
+     "points": 8,
+     "instructions": [
+      "Read the following text about Tom, 13, one of Britain's best young surfers.",
+      "Your task is to decide if the information in the sentences after the text are true (T), false (F) or we do not know (DK) because the text does not say.",
+      "Write the correct letter in the white box after the sentence."
+     ],
+     "body": [
+      "Tom's just won the Under 15 Quicksilver Grommit series - and here he reports on how he did it.",
+      "\"I've been surfing for over three years now. I got into it through my family. My two brothers, dad and mum all love going down to the beach. I started entering competitions about a year ago. I watched a couple of contests I wasn't in, saw the standard, and thought I'd give it a go. I won third place in my first competition!",
+      "I surf pretty much every day, including winter. But when it's really cold I wear a wet suit, hat, gloves and boots. Luckily Newquay's not the coldest place to surf - in Scotland you have to dress like that in the summer too!",
+      "You don't always need big waves to surf. You have to learn how to surf in different conditions. The waves in this contest weren't that good, and that makes it a lot harder.",
+      "I'd like to make surfing a career, I think, as long as it doesn't get in the way of my school work.",
+      "If you want to get into surfing the best thing to do is go down to the beach and get to a surf school. Once you've got all the gear it's free to practice, but it's a bit expensive to start off with.",
+      "One thing I don't like is that sometimes there's pollution in the sea - it can make you ill and you have to stay out of the water for a couple of weeks.",
+      "But during the summer holidays I'll probably be surfing all day.",
+      "Then I'm off to France to enter a contest down there. It'll be the first time I've surfed abroad and I'm really looking forward to it.\""
+     ],
+     "options": [
+      {
+       "key": "T",
+       "text": "true"
+      },
+      {
+       "key": "F",
+       "text": "false"
+      },
+      {
+       "key": "DK",
+       "text": "we do not know"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Tom came first in his last competition.",
+       "answer": "T"
+      },
+      {
+       "n": 14,
+       "stem": "He started surfing a year ago.",
+       "answer": "F"
+      },
+      {
+       "n": 15,
+       "stem": "There are three boys in his family.",
+       "answer": "T"
+      },
+      {
+       "n": 16,
+       "stem": "He won his first competition.",
+       "answer": "F"
+      },
+      {
+       "n": 17,
+       "stem": "He doesn’t surf in winter.",
+       "answer": "F"
+      },
+      {
+       "n": 18,
+       "stem": "He doesn’t like very big waves.",
+       "answer": "DK"
+      },
+      {
+       "n": 19,
+       "stem": "Big waves are always important for surfing.",
+       "answer": "F"
+      },
+      {
+       "n": 20,
+       "stem": "In summer he starts surfing very early.",
+       "answer": "DK"
+      },
+      {
+       "n": 21,
+       "stem": "He has never surfed abroad.",
+       "answer": "T"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-kozep-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "szó keresése a szövegben meghatározás alapján",
+     "points": 6,
+     "instructions": [
+      "Read the text about Valentine’s Day and the sentences (22 to 27) following the text.",
+      "Each sentence describes one word in the text.",
+      "Your task is to find the word and write it on the line after the sentence.",
+      "Write only one word on each line."
+     ],
+     "body": [
+      "The holiday of Valentine's Day probably has its origins in the ancient Roman feast of Lupercalia. In the early days of Rome, fierce wolves lived in the woods nearby. The Romans called upon one of their gods, Lupercus, to keep the wolves away. A holiday in honor of Lupercus was celebrated on February 15th. The holiday was celebrated as a spring festival. Their calendar was different at that time, with February falling in early springtime.",
+      "One of the customs of the young people was name-drawing. On the day before the festival of Lupercalia the names of Roman girls were written on slips of paper and placed into jars. Each young man got a slip from the jar. The girl whose name was chosen was to be his sweetheart for the year.",
+      "Legend says that the holiday became Valentine's Day after a priest named Valentine. Valentine was a priest in Rome at the time Christianity was a new religion. The Emperor at that time, Claudius II, ordered the Roman soldiers NOT to marry or become engaged. Claudius believed that as married men, his soldiers would want to stay home with their families rather than fight his wars. Valentine didn’t obey the Emperor's order and secretly married the young couples. He was finally arrested, imprisoned, and put to death. Valentine was killed on February 14th, the eve of the Roman holiday Lupercalia. After his death, Valentine was named a saint. As Rome became more Christian, the priests moved the spring holiday from the 15th of February to the 14th - Valentine's Day. Now it became a holiday of Saint Valentine instead of Lupercus."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Probably this nation celebrated the Holiday of Valentine’s Day first. {{gap}}",
+       "accept": [
+        "Romans"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The season when Valentine’s day was first celebrated. {{gap}}",
+       "accept": [
+        "spring",
+        "springtime"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Animals that lived in the forest near Rome. {{gap}}",
+       "accept": [
+        "wolves",
+        "wolf"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Containers where the pieces of paper were put. {{gap}}",
+       "accept": [
+        "jars"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "They were not allowed to get married or get engaged. {{gap}}",
+       "accept": [
+        "soldiers"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "This person died and became a saint. {{gap}}",
+       "accept": [
+        "Valentine"
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "The holiday was moved from this day. {{gap}}",
+       "accept": [
+        "15th",
+        "Lupercalia"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2005-maj-kozep-L1",
+     "number": 1,
+     "kind": "order",
+     "layout": "stems",
+     "examType": "összekevert szavak mondattá rendezése",
+     "points": 6,
+     "instructions": [
+      "The words in the sentences below are jumbled up.",
+      "Your task is to form the correct sentences and write them on the dotted lines. The first word is there for you.",
+      "You have to use each word.",
+      "Do not change the form of the words."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "first": "Please",
+       "words": [
+        "arrive",
+        "know",
+        "let",
+        "us",
+        "when",
+        "you"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "let",
+         "us",
+         "know",
+         "when",
+         "you",
+         "arrive"
+        ]
+       ],
+       "example": true
+      },
+      {
+       "n": 1,
+       "first": "Which",
+       "words": [
+        "city",
+        "of",
+        "is",
+        "Australia",
+        "capital",
+        "the"
+       ],
+       "end": "?",
+       "accept": [
+        [
+         "city",
+         "is",
+         "the",
+         "capital",
+         "of",
+         "Australia"
+        ],
+        [
+         "is",
+         "the",
+         "capital",
+         "city",
+         "of",
+         "Australia"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "first": "My",
+       "words": [
+        "rains",
+        "sister",
+        "if",
+        "go",
+        "it",
+        "won’t",
+        "shopping"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "sister",
+         "won’t",
+         "go",
+         "shopping",
+         "if",
+         "it",
+         "rains"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "first": "I’m",
+       "words": [
+        "cake",
+        "going",
+        "birthday",
+        "make",
+        "for",
+        "a",
+        "Helen’s",
+        "to"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "going",
+         "to",
+         "make",
+         "a",
+         "cake",
+         "for",
+         "Helen’s",
+         "birthday"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "first": "Sarah",
+       "words": [
+        "the",
+        "finished",
+        "grass",
+        "just",
+        "cutting",
+        "has"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "has",
+         "just",
+         "finished",
+         "cutting",
+         "the",
+         "grass"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "first": "Brian",
+       "words": [
+        "when",
+        "ride",
+        "was",
+        "a",
+        "he",
+        "bicycle",
+        "could",
+        "five"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "could",
+         "ride",
+         "a",
+         "bicycle",
+         "when",
+         "he",
+         "was",
+         "five"
+        ],
+        [
+         "was",
+         "five",
+         "when",
+         "he",
+         "could",
+         "ride",
+         "a",
+         "bicycle"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "first": "All",
+       "words": [
+        "from",
+        "stolen",
+        "bank",
+        "was",
+        "the",
+        "night",
+        "money",
+        "last",
+        "the"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "the",
+         "money",
+         "was",
+         "stolen",
+         "from",
+         "the",
+         "bank",
+         "last",
+         "night"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a humorous story about an old couple. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-L) for each gap (7-16) in the text. Write the letter of the appropriate word in the white box.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "OLD STYLE",
+     "body": [
+      "An 80-year-old couple were having problems remembering things, so they decided to see their family doctor to make sure {{0}} was wrong with them. When they arrived at the doctor’s, they {{7}} to him that they were having problems with their memory. The doctor told them they were physically fit but they {{8}} start writing things down and making {{9}} to help them remember things. The couple thanked the doctor and left.",
+      "Later that night {{10}} watching TV, the old man got up from his chair. His wife asked him, “Where are you going?” He replied, “To the kitchen.” She asked him, “Will you {{11}} me a bowl of ice cream?” He replied, “Sure.” Then she asked him, “Don’t you think you should write it down?” He said, “No, I can remember that.” Then the woman said, “Well, I would {{12}} like some strawberries on top. You had better write that down because I know you’ll forget it.” With {{13}} in his voice the old man said, “I don’t {{14}} to write that down. I can remember that you want a bowl of ice cream with strawberries on top.” He went into the kitchen {{15}}. After about 20 minutes he {{16}} and handed her a plate of bacon and eggs. She stared at the plate for a moment and said, “I told you to write it down. You forgot my toast.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "also"
+      },
+      {
+       "key": "B",
+       "text": "angrily"
+      },
+      {
+       "key": "C",
+       "text": "bring"
+      },
+      {
+       "key": "D",
+       "text": "explained"
+      },
+      {
+       "key": "E",
+       "text": "irritation"
+      },
+      {
+       "key": "F",
+       "text": "need"
+      },
+      {
+       "key": "G",
+       "text": "notes"
+      },
+      {
+       "key": "H",
+       "text": "nothing"
+      },
+      {
+       "key": "I",
+       "text": "returned"
+      },
+      {
+       "key": "J",
+       "text": "should"
+      },
+      {
+       "key": "K",
+       "text": "take"
+      },
+      {
+       "key": "L",
+       "text": "while"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "H"
+      },
+      {
+       "n": 7,
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "answer": "J"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "L"
+      },
+      {
+       "n": 11,
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "F"
+      },
+      {
+       "n": 15,
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a text about a sightseeing tour. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE OPEN-TOP BUS TOUR",
+     "body": [
+      "Explore the world’s most cosmopolitan city with London’s oldest sightseeing company using open-top double-decker buses. With half a century’s experience we like to think that we have got {{0}} right. And we are sure you’ll enjoy your time {{17}} us. Here is why: ¾ Our tour routes are the most comprehensive way to see {{18}} best London has to offer including the panoramic views {{19}} seven bridges, the Tower of London, Buckingham Palace, St. Paul’s Cathedral, Westminster Abbey, Trafalgar Square… ¾ There {{20}} a full commentary in English and a choice of six other languages. ¾ Unlike some other companies, your tickets {{21}} completely unrestricted. You can travel on any of our tour buses. Each route includes frequent stops – simply hop off {{22}} you want to and return to the same stop to continue your tour. ¾ We strongly recommend that first timers start the tour at one of {{23}} main departure points where our staff can provide advice about traffic conditions and final departure times. You may then choose {{24}} stay on the bus for a complete tour or hop on and hop off at your leisure. ¾ Tickets are valid {{25}} the same time the following day. Ask our staff when you should board your last bus of the day as times vary seasonally throughout the year."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "from",
+        "of"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "is"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "are"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "where",
+        "when",
+        "if",
+        "whenever",
+        "wherever"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "our",
+        "the"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "until",
+        "till",
+        "til",
+        "’til"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2005-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear some interesting facts about the tallest man in recorded history.",
+      "Your task is to give short answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_fl.mp3",
+      "start": 0,
+      "end": 671.57,
+      "clip": "hang/k_angol_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How tall is the speaker? He is {{gap}} centimetres tall.",
+       "accept": [
+        "180"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "What nationality was the 239 centimetre-tall basketball-player the speaker mentions? He was {{gap}}.",
+       "key": "Russian",
+       "keywords": [
+        [
+         "russian"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "When was Robert Wadlow born? He was born in {{gap}}.",
+       "key": "1918 // nineteen-eighteen",
+       "keywords": [
+        [
+         "1918"
+        ],
+        [
+         "nineteen-eighteen"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What happened at the age of two that probably caused Wadlow to grow so rapidly? He had an {{gap}}.",
+       "key": "operation",
+       "keywords": [
+        [
+         "operation"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What was he able to do at the age of nine? He was able to {{gap}} up the stairs of the family home.",
+       "key": "carry his father",
+       "keywords": [
+        [
+         "carry",
+         "father"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "How tall was he when he became the tallest man recorded in medical history? He was {{gap}} centimetres tall.",
+       "key": "272 // two hundred (and) seventy-two",
+       "keywords": [
+        [
+         "272"
+        ],
+        [
+         "two",
+         "hundred",
+         "seventy-two"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "How long were the shoes he wore? His shoes were {{gap}} centimetres long.",
+       "key": "47 // forty-seven",
+       "keywords": [
+        [
+         "47"
+        ],
+        [
+         "forty-seven"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "What part of his body became infected which later led to his death? His {{gap}}.",
+       "key": "(right) ankle // foot",
+       "keywords": [
+        [
+         "ankle"
+        ],
+        [
+         "foot"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "How old was he when he died? He was {{gap}} years old.",
+       "key": "22 // twenty-two",
+       "keywords": [
+        [
+         "22"
+        ],
+        [
+         "twenty-two"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2005-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an interview with Fenella, a radio announcer.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_fl.mp3",
+      "start": 671.57,
+      "end": 1081.86,
+      "clip": "hang/k_angol_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Fenella’s eyes are … .",
+       "options": [
+        {
+         "key": "A",
+         "text": "grey"
+        },
+        {
+         "key": "B",
+         "text": "black"
+        },
+        {
+         "key": "C",
+         "text": "greeny-brown"
+        },
+        {
+         "key": "D",
+         "text": "blue"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "Fenella has … hair.",
+       "options": [
+        {
+         "key": "A",
+         "text": "dark"
+        },
+        {
+         "key": "B",
+         "text": "fair"
+        },
+        {
+         "key": "C",
+         "text": "brownish"
+        },
+        {
+         "key": "D",
+         "text": "reddish"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "stem": "Fenella wears size .... shoes.",
+       "options": [
+        {
+         "key": "A",
+         "text": "20"
+        },
+        {
+         "key": "B",
+         "text": "10"
+        },
+        {
+         "key": "C",
+         "text": "36"
+        },
+        {
+         "key": "D",
+         "text": "39"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Fenella is .... tall.",
+       "options": [
+        {
+         "key": "A",
+         "text": "6 foot 5 and a half"
+        },
+        {
+         "key": "B",
+         "text": "5 foot 5 and a half"
+        },
+        {
+         "key": "C",
+         "text": "5 foot and a half"
+        },
+        {
+         "key": "D",
+         "text": "5 foot 1 and a half"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Fenella’s hobby is .... .",
+       "options": [
+        {
+         "key": "A",
+         "text": "roller-blading"
+        },
+        {
+         "key": "B",
+         "text": "skating"
+        },
+        {
+         "key": "C",
+         "text": "hiking"
+        },
+        {
+         "key": "D",
+         "text": "snow-boarding"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Fenella keeps .... as a pet.",
+       "options": [
+        {
+         "key": "A",
+         "text": "a fish"
+        },
+        {
+         "key": "B",
+         "text": "a snake"
+        },
+        {
+         "key": "C",
+         "text": "nothing"
+        },
+        {
+         "key": "D",
+         "text": "a parrot"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Fenella can knit .... .",
+       "options": [
+        {
+         "key": "A",
+         "text": "a scarf"
+        },
+        {
+         "key": "B",
+         "text": "a cap"
+        },
+        {
+         "key": "C",
+         "text": "anything"
+        },
+        {
+         "key": "D",
+         "text": "a jumper"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Fenella says she has had .... education.",
+       "options": [
+        {
+         "key": "A",
+         "text": "college"
+        },
+        {
+         "key": "B",
+         "text": "secondary school"
+        },
+        {
+         "key": "C",
+         "text": "quite good"
+        },
+        {
+         "key": "D",
+         "text": "very little"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 16,
+       "stem": "Fenella … .",
+       "options": [
+        {
+         "key": "A",
+         "text": "never drinks anything alcoholic"
+        },
+        {
+         "key": "B",
+         "text": "says her favourite drink is whiskey"
+        },
+        {
+         "key": "C",
+         "text": "likes all kinds of drinks"
+        },
+        {
+         "key": "D",
+         "text": "does not like Bailey’s"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section you are going to hear a short radio programme about left-handed people.",
+      "Your task is to fill in the gaps in the sentences below with one single word.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_fl.mp3",
+      "start": 1081.86,
+      "end": 1799.48,
+      "clip": "hang/k_angol_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Only about {{gap}} percent of us are left-handed.",
+       "accept": [
+        "fifteen"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Twentieth century lefties include celebrities such as an American {{gap}}, a world-famous singer and some outstanding sportspeople.",
+       "accept": [
+        "president"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The list of famous left-handed people shows that lefties are just as intelligent and {{gap}} as right-handed people.",
+       "accept": [
+        "talented",
+        "gifted"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The German word for left can be used to describe a person who is {{gap}}.",
+       "accept": [
+        "unskilled"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The Italian word for left can also mean that someone is {{gap}}.",
+       "accept": [
+        "dishonest"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Lefthanders International is fighting to give lefties their {{gap}}.",
+       "accept": [
+        "rights"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Campbell’s aim was to develop a better public {{gap}} of the problems that lefties face.",
+       "accept": [
+        "understanding"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Lefthanders International published a document which they called “a Bill of {{gap}}”.",
+       "accept": [
+        "lefts"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "They do not think lefties should have to {{gap}} to others for being left-handed.",
+       "accept": [
+        "apologise",
+        "apologize"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "If you are a left-handed person, you should be proud because you share a {{gap}} with famous people such as Mark Twain, John McEnroe and Benjamin Franklin.",
+       "accept": [
+        "tradition"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "Ennél a feladatnál a javítás fő szempontja az, hogy a tanuló ki tudta-e emelni a szövegből a kérdezett információt vagy sem. Ezért a megoldások elbírálásánál ragaszkodnunk kell azok- hoz a jelentésekhez, amelyeket szövegben elhangzott szavak hordoznak. Ennek megfelelően nem fogadhatnánk el például a president szó helyett a nem azonos jelentésű *politician szót, de megelégedhetnénk a teljes értékű gifted szinonímával a szöveg szerinti talented helyett."
+     }
+    }
+   ]
+  }
+ ]
+}

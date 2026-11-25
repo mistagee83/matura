@@ -1,0 +1,1241 @@
+{
+ "formatVersion": 1,
+ "id": "2010-maj-kozep",
+ "year": 2010,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2010-05-06",
+ "code": "0911",
+ "sourceFiles": {
+  "paper": "2010. Középszintű május-június érettségi/k_angol_10maj_fl.pdf",
+  "key": "2010. Középszintű május-június érettségi/k_angol_10maj_ut.pdf",
+  "audio": "2010. Középszintű május-június érettségi/k_angol_10maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2010-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "rövid szövegek párosítása állításokhoz",
+     "points": 6,
+     "instructions": [
+      "Read the e-mails (1-6) from the web site of Andrew Johnston, the boy who became famous thanks to the TV show ‘Britain’s Got Talent’, and then read the sentences (A-H) following them.",
+      "Your task is to decide which messages the sentences refer to.",
+      "Write the appropriate letters in the white boxes as in the example (0).",
+      "Remember that there is an extra letter that you will not need."
+     ],
+     "bankLead": "The person who wrote the message to Andrew",
+     "bank": [
+      {
+       "key": "A",
+       "text": "admires his relatives."
+      },
+      {
+       "key": "B",
+       "text": "would like to buy his album."
+      },
+      {
+       "key": "C",
+       "text": "likes the comments on his site."
+      },
+      {
+       "key": "D",
+       "text": "was cheered up by his music."
+      },
+      {
+       "key": "E",
+       "text": "bought several copies of his album."
+      },
+      {
+       "key": "F",
+       "text": "would like to see him in person."
+      },
+      {
+       "key": "G",
+       "text": "is happy about listening to him at a concert."
+      },
+      {
+       "key": "H",
+       "text": "admires him for coping with problems."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Well done. Love the CD, love you too. I’m so glad you have a lovely site where people appreciate you. xxx Well done.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Hi Andrew, I’ve just bought your CD. You must be so proud of yourself! Hope to have a chance to meet you one day. Chris - Brighton",
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "stem": "Hi Andrew, here is a message from a Dutch fan! I can’t wait for the moment when One Voice is available in the Netherlands! I have already heard some parts of the tracks on the Internet. Best of luck! Marianne",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Dear Andrew, I live in Rio de Janeiro. I have just bought four copies of your fabulous album tonight after searching on the Internet for all four! Marie",
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "stem": "Hi Andrew, congratulations. You have been through a difficult period, so you really deserve to get on. You should have won that TV contest. Paul",
+       "answer": "H"
+      },
+      {
+       "n": 5,
+       "stem": "Well done Andrew, I love the album. It’s your Mum and grandmother I want to thank. Nowadays it is challenging to bring kids up with confidence, respect and morality. Hugs",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Hi, Andrew, I bought your CD today. Outside it’s raining but your wonderful voice brought the sunshine into my day. I wish you every success, Love from Norfolk",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read this history of the Frisbee, the popular flying disk used for sports games. The sentences (7-11) are missing.",
+      "Your task is to put the jumbled sentences back in order.",
+      "Remember that there is an extra sentence that you will not need."
+     ],
+     "title": "FRISBEE",
+     "body": [
+      "A baker named William Russel Frisbie, of Warren, Connecticut, and later of Bridgeport, came up with a clever marketing idea back in the 1870s.",
+      "{{0}} {{7}} {{8}} There, sometime in the 1940s, Yale students began sailing the pie tins through the air and catching them.",
+      "{{9}} {{10}} On a promotional tour of college campuses, the president of Wham-O saw the pie-plate-tossing craze at Yale.",
+      "{{11}} Of course the name was changed from Frisbie to Frisbee to avoid any legal problems."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "This disk was produced by a company named Wham-O."
+      },
+      {
+       "key": "B",
+       "text": "It was her grandmother’s secret recipe and she was very proud of it."
+      },
+      {
+       "key": "C",
+       "text": "He put the family name on the bottom of the pans in which his company’s homemade pies were sold."
+      },
+      {
+       "key": "D",
+       "text": "Mr. Frisbie’s pies were sold throughout Connecticut, including New Haven, where Yale University is located."
+      },
+      {
+       "key": "E",
+       "text": "Later, in the 1950s, out in California, a flying-saucer enthusiast named Walter Frederick Morrison designed a saucer-like disk for playing catch."
+      },
+      {
+       "key": "F",
+       "text": "And so the flying saucer from California was renamed after the pie plate from Connecticut."
+      },
+      {
+       "key": "G",
+       "text": "The pans were reusable, but it was hoped that every time a housewife started to bake a pie in one, she would see the name Frisbie and, think, \"How much easier to buy one than bake one\"."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article on recycling. Some parts of sentences have been removed from the text.",
+      "Your task is to fill the gaps (12-19) from the list.",
+      "Write the appropriate letters (A-K) in the white boxes as in the example (0).",
+      "Remember that there is an extra letter that you do not need."
+     ],
+     "title": "RECYCLING LITTER FUNDS HONEYMOON",
+     "body": [
+      "John and Ann Till, from Petersfield, in Hampshire, Britain, had been planning for a while to get married but they did not have enough money to cover the cost of their dream honeymoon in the USA. Then, one day they had an idea while they were doing their shopping at the supermarket in Havant, {{0}}.",
+      "They decided to take cans and bottles to the recycling centre at the supermarket, because, although they had enough money for a Queen Mary 2 cruise to New York, {{12}}. The couple started collecting rubbish in their home town. For every four recycled items, they earned a reward point which was then converted into British Airways air miles. They collected 36,000 miles, {{13}}.",
+      "Mr Till said they had collected almost every night for three months during spring. He said \"At the very beginning, we were concerned it would not be achievable, {{14}}. It's not to say the pavements were full of litter, it was {{15}}. There was enough rubbish out there to fly us to the moon and back.\"",
+      "They reached their air miles goal in May, {{16}}. They married in August, then sailed to New York on the Queen Mary 2 and spent a few days in Washington {{17}}. Their recycling feat came to light {{18}} as part of its Read Around The World competition. Out of the stories sent in it was found to be the most interesting one.",
+      "The automated recycling machines were being trialled in a few of the larger UK stores. The supermarket chain spokesman David Nieberg said \"We support all our customers {{19}}. We have got a set of environmental targets and if it helped the Tills go on honeymoon - even better - we congratulate them on that.\""
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "when we looked over walls and in the undergrowth"
+      },
+      {
+       "key": "B",
+       "text": "they could not afford the journey home"
+      },
+      {
+       "key": "C",
+       "text": "where an automated recycling unit had been installed for a trial period"
+      },
+      {
+       "key": "D",
+       "text": "they sell rubbish bins"
+      },
+      {
+       "key": "E",
+       "text": "which they used to fly back in business class from their US honeymoon"
+      },
+      {
+       "key": "F",
+       "text": "but then we saw the amount of rubbish out there"
+      },
+      {
+       "key": "G",
+       "text": "who wish to recycle"
+      },
+      {
+       "key": "H",
+       "text": "when they started their preparations for the wedding"
+      },
+      {
+       "key": "I",
+       "text": "after they e-mailed a honeymoon picture to their local paper"
+      },
+      {
+       "key": "K",
+       "text": "before flying home"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "F"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      },
+      {
+       "n": 17,
+       "answer": "K"
+      },
+      {
+       "n": 18,
+       "answer": "I"
+      },
+      {
+       "n": 19,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about an auction and then read the statements (20-27) following the text.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "POOH BEAR SKETCH SOLD FOR £31,000",
+     "body": [
+      "An original sketch of favourite AA Milne character Winnie the Pooh has fetched £31,200 at auction – more than double its pre-sale estimate.",
+      "The pencil drawing of the bear dipping a paw in a honey pot was sold by the family of the artist, EH Shepard, at Bonhams auction rooms in London and easily exceeded its estimated price of £15,000. The drawing of Pooh, also showing Tigger and Piglet, is an enlarged version of the illustration \"Tiggers don't like honey\" used in The House at Pooh Corner. It was bought by a German collector for his wife. The man bought it on the telephone from Germany.",
+      "Bonhams' book specialist Luke Batterham said the Pooh stories are timeless because they are not \"laden with morality like many children’s tales\". He said: \"The illustrations are essential. The images are constantly in the public's mind because of all the spin-offs, but you can't beat the original drawings.\" He added that the original books have \"outlived\" and \"defeated\" the Disney versions of the story.",
+      "The sale also featured archive material from children's illustrator Beatrix Potter. A signed first edition of The Tailor of Gloucester plus correspondence between Beatrix and her friends, Elizabeth and Edith Todhunter, fetched £3,840.",
+      "In her letters to the sisters, Beatrix reveals her feelings about the commercialisation of her characters. She said of Peter Rabbit: \"There is nothing more to be made of Peter commercially. There have been dolls, china, slippers, etc. for years - they bring in royalties; but somehow I never care for them.\""
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The picture was sold for over twice as much as they had expected.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "The German collector’s wife was very happy about the drawing.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The collector went to London to buy the drawing.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "The original version of the picture was smaller.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "People do not remember the original illustrations.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "The original Pooh stories are more popular than the Disney versions.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Beatrix Potter’s letters to her friends were also sold.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Beatrix Potter created the character of Peter Rabbit.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Beatrix Potter did not like the Walt Disney film version of Peter Rabbit.",
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 12,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18
+   },
+   "tasks": [
+    {
+     "id": "2010-maj-kozep-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about Iron Maiden singer Bruce Dickinson. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-7) in the text."
+     ],
+     "title": "IRON MAIDEN'S SINGER RESCUES BRITISH TOURISTS",
+     "body": [
+      "IRON Maiden rock singer Bruce Dickinson turned superhero on Saturday to rescue British holidaymakers left in Egypt {{0}} Britain's third largest tour operator collapsed.",
+      "The heavy metal hero, who is also a Boeing 757 pilot, {{1}} a specially-chartered Monarch Airlines flight from the Red Sea resort of Sharm el-Sheikh in Egypt to London Gatwick Airport.",
+      "XL Leisure Group, the tour operator, {{2}} on Saturday, leaving some 85,000 British holidaymakers stranded abroad. {{3}} almost 12,000 people have been brought back as part of an airlift mission.",
+      "“I {{4}} my job. I was called out like a lot of other pilots to help and I was honestly happy {{5}} that,” Dickinson said.",
+      "Dickinson, 50, said next he was off to the Greek island of Kos to rescue {{6}} stranded holidaymakers.",
+      "The Iron Maiden frontman {{7}} a captain with Astraeus, a British charter airline, for nine years. He qualified as a pilot in the 1990s."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "whenever"
+        },
+        {
+         "key": "B",
+         "text": "then"
+        },
+        {
+         "key": "C",
+         "text": "after"
+        },
+        {
+         "key": "D",
+         "text": "because of"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "was flown"
+        },
+        {
+         "key": "B",
+         "text": "been flying"
+        },
+        {
+         "key": "C",
+         "text": "has flown"
+        },
+        {
+         "key": "D",
+         "text": "flew"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "came true"
+        },
+        {
+         "key": "B",
+         "text": "went bankrupt"
+        },
+        {
+         "key": "C",
+         "text": "got lost"
+        },
+        {
+         "key": "D",
+         "text": "turned the corner"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "Since then"
+        },
+        {
+         "key": "B",
+         "text": "Later"
+        },
+        {
+         "key": "C",
+         "text": "Long ago"
+        },
+        {
+         "key": "D",
+         "text": "For weeks"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "could just do"
+        },
+        {
+         "key": "B",
+         "text": "was just doing"
+        },
+        {
+         "key": "C",
+         "text": "would just do"
+        },
+        {
+         "key": "D",
+         "text": "was just done"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "that I must do"
+        },
+        {
+         "key": "B",
+         "text": "being done"
+        },
+        {
+         "key": "C",
+         "text": "to do"
+        },
+        {
+         "key": "D",
+         "text": "to be done"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "any other"
+        },
+        {
+         "key": "B",
+         "text": "some more"
+        },
+        {
+         "key": "C",
+         "text": "every other"
+        },
+        {
+         "key": "D",
+         "text": "no more"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "is being"
+        },
+        {
+         "key": "B",
+         "text": "is"
+        },
+        {
+         "key": "C",
+         "text": "was being"
+        },
+        {
+         "key": "D",
+         "text": "has been"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about tattoos. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (8-17).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "TATTOO CULTURE UNDER THE SPOTLIGHT",
+     "body": [
+      "David Beckham, Samantha Cameron and Amy Winehouse all have at least one thing in common aside from their fame - a tattoo.",
+      "In the past, tattoos were {{0}} a badge of belonging to a group and it was {{8}} tribes, military personnel and lorry {{9}} who used them. But they are now used to express individuality and can range from the small dolphin on the ankle to huge drawings of a fan's {{10}} pop group, or even designs covering most of the body.",
+      "On 7 October, the Dana Centre at London's Science Museum is putting tattoo culture under the microscope. Katie Maggs, associate curator at the Science Museum, said there would be a {{11}} of late 19th century tattoos on display, together with the {{12}} used to make them.",
+      "“We are displaying a {{13}} variety of images. There are lots of beautifully designed women, military ranks, and there is also a pig on a bike,” she said.",
+      "The event will look at how tattoo use has changed and examine whether {{14}} technology may mean that tattoos do not need to be a permanent {{15}}.",
+      "Dr Raj Mallipeddi, a well-known dermatological surgeon in London, said while he would not advise against tattoos, he would always recommend {{16}}.",
+      "“There are different types of potential problems following tattooing; for example, allergic {{17}} to the ink, which may lead to a form of eczema or red spots on the skin.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "main",
+       "example": true,
+       "accept": [
+        "mainly"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "general",
+       "accept": [
+        "generally"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "drive",
+       "accept": [
+        "drivers"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "favour",
+       "accept": [
+        "favourite",
+        "favorite"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "collect",
+       "accept": [
+        "collection"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "equip",
+       "accept": [
+        "equipment"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "surprise",
+       "accept": [
+        "surprising"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "improve",
+       "accept": [
+        "improving",
+        "improved"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "decorate",
+       "accept": [
+        "decoration"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "care",
+       "accept": [
+        "care"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "react",
+       "accept": [
+        "reactions"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about stealing from hotels. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "STEALING FROM HOTELS",
+     "body": [
+      "Toilet seats and brushes, paintings and a medieval sword are among items stolen {{0}} hotel rooms, a survey says. A hotel owner's dog, a four foot high wooden bear, and a spy hole from a hotel room door are also some of the items that {{18}} been stolen from hotels in Britain.",
+      "{{19}} survey of 1,000 hotel owners and managers by Caterer and Hotelkeeper magazine found that stealing by customers {{20}} widespread, with towels at the top of the list.",
+      "But guests can also {{21}} surprising items behind, such {{22}} false teeth, false eyeballs and wigs. Four per cent of those questioned had found artificial arms and legs. As {{23}} as 6% reported that people had left a family member behind before checking {{24}}. A third of hoteliers said towels were the {{25}} commonly stolen items from their rooms, with one in five reporting bathrobes stolen as well. More {{26}} 10% of staff reported toilet rolls as the items most often taken and 1% said penny-pinching guests would even steal the light bulbs from their rooms."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "The",
+        "A"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "was",
+        "is"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "leave"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "many"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "out"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "most"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "than"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2010-maj-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear an adventure story.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "k_angol_10maj_fl.mp3",
+      "start": 0,
+      "end": 603.39,
+      "clip": "hang/k_angol_10maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Linda and Eva have been friends since their high school years.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "They wanted to walk up the highest mountain in Sweden.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "They went from Stockholm to Kiruna by car.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "In summer you can get from Nikkaluokta to Kebnekaise by boat.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "In the reception they were told that it's usually very snowy there around this time.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "The two girls decided to follow their original plan.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Singi was built by amateur trekkers.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The walk to Singi was very difficult all the way.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "One of the other guests in Singi was snoring all night.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Back in Kebnekaise they had a traditional Swedish dish.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a report about a very unusual project.",
+      "Your task is to write the letter of the correct answer in the boxes on the right.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_10maj_fl.mp3",
+      "start": 603.39,
+      "end": 1167.4,
+      "clip": "hang/k_angol_10maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Trans Time is a company which is located in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Florida."
+        },
+        {
+         "key": "B",
+         "text": "California."
+        },
+        {
+         "key": "C",
+         "text": "Nevada."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The idea is that doctors will have the necessary … to cure all diseases in the future.",
+       "options": [
+        {
+         "key": "A",
+         "text": "money"
+        },
+        {
+         "key": "B",
+         "text": "knowledge"
+        },
+        {
+         "key": "C",
+         "text": "medicine"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "In certain cases Trans Time also freezes people who …",
+       "options": [
+        {
+         "key": "A",
+         "text": "die of old age."
+        },
+        {
+         "key": "B",
+         "text": "die at a young age."
+        },
+        {
+         "key": "C",
+         "text": "are very old."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Scientists have already brought a frozen dead … back to life.",
+       "options": [
+        {
+         "key": "A",
+         "text": "dog"
+        },
+        {
+         "key": "B",
+         "text": "man"
+        },
+        {
+         "key": "C",
+         "text": "dog and also a man"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "By \"some day\", scientists mean … of years.",
+       "options": [
+        {
+         "key": "A",
+         "text": "thousands"
+        },
+        {
+         "key": "B",
+         "text": "dozens"
+        },
+        {
+         "key": "C",
+         "text": "hundreds"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "The capsules Trans Time uses are filled with …",
+       "options": [
+        {
+         "key": "A",
+         "text": "ice."
+        },
+        {
+         "key": "B",
+         "text": "nitrogen."
+        },
+        {
+         "key": "C",
+         "text": "oxygen."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The temperature in the capsules is minus … degrees centigrade.",
+       "options": [
+        {
+         "key": "A",
+         "text": "196"
+        },
+        {
+         "key": "B",
+         "text": "120"
+        },
+        {
+         "key": "C",
+         "text": "250"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The full prize of the service is … at the moment.",
+       "options": [
+        {
+         "key": "A",
+         "text": "$42,000"
+        },
+        {
+         "key": "B",
+         "text": "$120,000"
+        },
+        {
+         "key": "C",
+         "text": "$162,000"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2010-maj-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear an American man talking about himself and his activities.",
+      "Your task is to complete the sentences with one word or number in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_10maj_fl.mp3",
+      "start": 1167.4,
+      "end": 1795.3,
+      "clip": "hang/k_angol_10maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Zach Anderson is {{gap}} years old.",
+       "accept": [
+        "35"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "His older son is already going to Hungarian {{gap}}.",
+       "accept": [
+        "kindergarten"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Hungarian people take {{gap}} more seriously than American people.",
+       "accept": [
+        "friendship",
+        "friends"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "FÉK is a(n) AIDS and drug awareness {{gap}}.",
+       "accept": [
+        "program",
+        "programme"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Besides AIDS and drug awareness, Zach also talks about topics such as self-image, depression and even {{gap}}.",
+       "accept": [
+        "personality"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "SpeakOut is FÉK's summer English {{gap}}.",
+       "accept": [
+        "camp"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The only time Zach talks about religion in the high schools he visits is when students ask him about his {{gap}}.",
+       "accept": [
+        "beliefs"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The student Zach is talking about felt very {{gap}} because of his drug addiction.",
+       "accept": [
+        "lonely"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The FÉK meetings are held in a Budapest coffee house every {{gap}} night.",
+       "accept": [
+        "Friday"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "The boy felt strange in the coffee house because he felt unusually {{gap}}.",
+       "accept": [
+        "happy"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1257 @@
+{
+ "formatVersion": 1,
+ "id": "2015-okt-kozep",
+ "year": 2015,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2015-10-15",
+ "code": "1412",
+ "sourceFiles": {
+  "paper": "2015 - Középszintű októberi/k_angol_15okt_fl.pdf",
+  "key": "2015 - Középszintű októberi/k_angol_15okt_ut.pdf",
+  "audio": "2015 - Középszintű októberi/k_angol_15okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2015-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with Michael, a hotel manager, the questions have been removed.",
+      "Your task is to match the questions (A- I) and the answers (1-7).",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nI run two hotels and a night club. I look after the day-to-day operations, which means everything from the type of tea bag we use to the company accounts.",
+      "{{1}}\nLike most I never planned a career in hospitality but fell into it and found a passion.",
+      "{{2}}\nThe interaction with people is the most satisfying part of my job. After all, no two people are the same.",
+      "{{3}}\nThat I am not able to meet all the clients; even though our team is dedicated to making their stay as enjoyable as possible, I would like to see them all.",
+      "{{4}}\nPatience! You deal with young unskilled staff a lot of the time, not to mention the untrained guests! You also have to be prepared to work hard.",
+      "{{5}}\nI don’t think I could name just one person. I try to learn and take something from everyone I come into contact with, even those who at the time, I may not think I will gain anything positive from.",
+      "{{6}}\nThey should be very happy with the welcome they receive and reassured at the same time that they have chosen well.",
+      "{{7}}\nStart at the bottom, work hard and prove yourself. Moving up the ladder is all about gaining experience and constantly learning from others. Keep up to date with the ever-changing industry.",
+      "(www.momentumcareersadvice.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Is there anything you don’t like about your job?"
+      },
+      {
+       "key": "B",
+       "text": "What advice would you give someone wanting to break into this career?"
+      },
+      {
+       "key": "C",
+       "text": "What is it that you do exactly?"
+      },
+      {
+       "key": "D",
+       "text": "What is the main quality you need to work as a hotel General Manager?"
+      },
+      {
+       "key": "E",
+       "text": "How did you get into hotel industry?"
+      },
+      {
+       "key": "F",
+       "text": "Who has influenced you the most in your career and why?"
+      },
+      {
+       "key": "G",
+       "text": "What do you enjoy most about your job?"
+      },
+      {
+       "key": "H",
+       "text": "Where are your guests usually from?"
+      },
+      {
+       "key": "I",
+       "text": "What is the first impression a guest should have from the moment they enter your hotel?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "answer": "F"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a football match and then read the statements (8-14) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "BUCKINGHAM PALACE HOSTS ITS FIRST FOOTBALL MATCH",
+     "body": [
+      "Buckingham Palace has held its first official football match to mark the Football Association's 150th anniversary. The event was the idea of FA president Prince William.",
+      "London side Civil Service Football Club, the only surviving team of 11 that formed the Football Association on 26th October 1863, lost 2-1 against Polytechnic FC, set up in 1875.",
+      "At half-time, palace staff carried water, orange slices and chocolate bars onto the pitch for the players. During the second half, the prince and Michael Owen, a former England striker, joined in a training session with royal staff.",
+      "The prince, who presented medals to 150 volunteers before the kick-off, recognised the efforts of the founders of local clubs, coaches, referees and other officials at a reception to celebrate the anniversary on 7th October. The prince told the guests, \"Over its 150 years, football has remained a wonderful example of the power of community and of our ability to come together to organise and to enjoy a simple pastime.\"",
+      "The Queen gave permission for the match to take place at the palace. The prince joked: \"Today we will be playing football on my grandmother's lawn. One warning, though – if anyone breaks a window, you can answer to her.\"",
+      "Wembley groundsman Tony Stones worked with royal household gardeners to create the pitch in the 39-acre garden. The lawn had to be repaired following garden parties and the Coronation Festival in the summer.",
+      "Civil Service FC were selected to take part in the game and they suggested Polytechnic, also based in Chiswick, west London, as opponents. Polytechnic FC manager said: \"We first played 120 years ago – so there's a fair bit of history between the two of us.\"",
+      "(www.mid-day.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Buckingham Palace has never officially hosted a football match before.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The match was played between two of the founding clubs of the Football Association.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Refreshments were served after the first half.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "One hundred and fifty footballing volunteers were given medals at the palace reception by the queen.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "The medal ceremony lasted less than two hours.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "The president of the Football Association is the Queen’s grandson.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Luckily, the lawn was in perfect condition even after the summer’s outdoor events at the palace.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "There is a match between the two football teams every year.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this text about a journalist’s visit to a book festival and then look at the half sentences that follow.",
+      "Your task is to match the two sentence halves according to the information in the text (numbers 15-21 to letters A- I). There is an extra letter that you do not need."
+     ],
+     "title": "VISITING A BOOK FESTIVAL IN ICELAND WHERE ONE IN 10 PEOPLE WILL PUBLISH A BOOK",
+     "body": [
+      "Iceland is experiencing a book boom. This island nation of just over 300,000 people has more writers, more books published and more books read, per head, than anywhere else in the world. It is hard to avoid writers in Reykjavik, the capital city, hosting the festival I visited.",
+      "\"Does it get rather competitive?\" I ask the young novelist, Kristin Eirikskdottir. \"Yes. Especially as I live with my mother and partner, who are also full-time writers. But we try to publish in alternate years so we do not compete too much.\"",
+      "Special saga tours show us public buildings, on the walls of which you can see some of these old stories. Dating from the 13th Century, Icelandic sagas tell the stories of the country's Norse settlers, who began to arrive on the island in the late 9th Century. Sagas are written on napkins and coffee cups. Our guide stands up mid-tour to recite his own poetry – our taxi driver's father and grandfather write biographies.",
+      "Reykjavik is flooded with writers when it is book festival time. \"They write everything - modern sagas, poetry, children's books, literary and erotic fiction - but the biggest boom is in crime writing,\" Agla Magnusdottir, head of the new Icelandic Literature Centre, tells me. That is perhaps no surprise in this Nordic nation. \"Writers are respected here, they live well. Some even get a salary.\"",
+      "She also tells us about Iceland's Nobel Literature Laureate, Halldor Laxness, whose books are sold in petrol stations and tourist centres. Locals name their cats after Laxness and visit his home. \"When Laxness won the Nobel Prize in 1955 he put modern Icelandic literature on the map,\" she tells me. \"He gave us confidence to write.\"",
+      "But some fear a book crisis, too. Iceland has so many writers that there is huge pressure on publishers.",
+      "Suddenly I notice some famous people. One of them, Iceland’s musical superstar Bjork attends several of the festival events. \"It is a small place. We have grown up together,\" she says. \"We support each other.\"",
+      "(www.bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "was awarded a prize in the last century."
+      },
+      {
+       "key": "B",
+       "text": "was interviewed by the author of the article."
+      },
+      {
+       "key": "C",
+       "text": "can be considered writers."
+      },
+      {
+       "key": "D",
+       "text": "include celebrities."
+      },
+      {
+       "key": "E",
+       "text": "may be challenged by the large number of writers."
+      },
+      {
+       "key": "F",
+       "text": "takes place in the capital."
+      },
+      {
+       "key": "G",
+       "text": "have been painted on some houses."
+      },
+      {
+       "key": "H",
+       "text": "sponsored a lot of people."
+      },
+      {
+       "key": "I",
+       "text": "are produced in the greatest numbers."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "10 percent of the people in Iceland",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The festival",
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "stem": "Sagas",
+       "answer": "G"
+      },
+      {
+       "n": 17,
+       "stem": "Crime stories",
+       "answer": "I"
+      },
+      {
+       "n": 18,
+       "stem": "Aglas Magnusdottir",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Halldor Laxness",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Publishers",
+       "answer": "E"
+      },
+      {
+       "n": 21,
+       "stem": "Visitors to the festival",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article about changing time zones.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (22-30) from the list (A-L) below.",
+      "Remember that there is one extra letter that you do not need."
+     ],
+     "title": "SPAIN TO CHANGE TIME ZONE",
+     "body": [
+      "Spanish MPs are to consider changing time zones by an hour after a report said that {{0}}. The document by a parliamentary commission said that for more than 71 years {{22}}. In 1942, the Spanish dictator General Franco moved Spain onto Central European Time because {{23}}.",
+      "The report says Spain should be in the same time zone as the UK and Portugal. However – situated on the western edge of Europe – it is currently one hour ahead of GMT during the winter and {{24}}.",
+      "\"We sleep almost an hour less than {{25}},'' the commission said. \"All this has a negative effect on productivity, stress, accidents and school drop-out rates.'' It said that following the \"wrong clock\" explained why Spaniards tended to eat, leave work and go to bed later than {{26}}.",
+      "The text said their timetable is determined more by the sun than by the clock. They eat at one o'clock in the afternoon and dine at eight, according to the sun, but {{27}}. It added that jumping back an hour would bring Spain into line with Europe in many ways in which {{28}}.",
+      "When he was asked about the plan, Javier, a student from Madrid, commented: \"What the hell, you can change the hours to Pacific Standard Time and {{29}}. The Spanish will always find a way to work less, eat later, party harder. They have built a culture and a reputation around their ungodly hours. And I really don't think that {{30}} and the tourism it generates because of a technicality.\"",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "he wanted to follow Nazi Germany"
+      },
+      {
+       "key": "B",
+       "text": "Spaniards are always late for meetings"
+      },
+      {
+       "key": "C",
+       "text": "this would improve eating, sleeping and working habits"
+      },
+      {
+       "key": "D",
+       "text": "they will change their lifestyle"
+      },
+      {
+       "key": "E",
+       "text": "Spain had not been in the correct time zone"
+      },
+      {
+       "key": "F",
+       "text": "the clock says it is 3 o'clock and 10 o'clock"
+      },
+      {
+       "key": "G",
+       "text": "the World Health Organization recommends"
+      },
+      {
+       "key": "H",
+       "text": "two hours ahead in the summer"
+      },
+      {
+       "key": "I",
+       "text": "it still won't matter"
+      },
+      {
+       "key": "K",
+       "text": "their European neighbours"
+      },
+      {
+       "key": "L",
+       "text": "it was currently different"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "answer": "E"
+      },
+      {
+       "n": 23,
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "answer": "H"
+      },
+      {
+       "n": 25,
+       "answer": "G"
+      },
+      {
+       "n": 26,
+       "answer": "K"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      },
+      {
+       "n": 28,
+       "answer": "L"
+      },
+      {
+       "n": 29,
+       "answer": "I"
+      },
+      {
+       "n": 30,
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 3,
+    "6": 4,
+    "7": 4,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 7,
+    "13": 8,
+    "14": 9,
+    "15": 9,
+    "16": 10,
+    "17": 11,
+    "18": 11,
+    "19": 12,
+    "20": 12,
+    "21": 13,
+    "22": 14,
+    "23": 14,
+    "24": 15,
+    "25": 16,
+    "26": 16,
+    "27": 17,
+    "28": 17,
+    "29": 18
+   },
+   "tasks": [
+    {
+     "id": "2015-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about an excellent athlete. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-10).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "\"TURBANED TORNADO\" RETIRES",
+     "body": [
+      "Not your average great-great grandfather, Fauja Singh has {{0}} nine 26- mile (42-kilometer) marathons since taking up long-distance running just over a decade ago.",
+      "On Sunday, the 101-year-old Sikh finished his final {{1}} in Hong Kong, putting an end to a sporting career that has been an inspiration to many around the world. Nicknamed \"Turbaned Tornado\" by fans for his {{2}} headdress, Singh said he began long-distance running to fight the {{3}} he was suffering from after the {{4}} of his son. Singh moved to the UK from India following the {{5}} in his family and entered his first marathon in London in 2000 aged 89. In 2011, Singh became the first centenarian to complete a marathon after {{6}} the Toronto Waterfront Marathon in 2011 in eight hours and 11 minutes and six seconds.",
+      "Although the Hong Kong marathon was Singh’s last competitive event, his coach said the centenarian will still run for {{7}}: \"He’s my best student, I would say, which is ironic because he’s {{8}} my age.\"",
+      "Singh told CNN he had no secret diet or training program. He says his {{9}} is due to a simple love of the sport. \"It’s because of the {{10}} I get out of it. If something makes you happy, you'll do it well.\"",
+      "(http://edition.cnn.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "complete",
+       "example": true,
+       "accept": [
+        "completed"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "race",
+       "accept": [
+        "race"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "tradition",
+       "accept": [
+        "traditional"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "depress",
+       "accept": [
+        "depression"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "die",
+       "accept": [
+        "death"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "tragic",
+       "accept": [
+        "tragedy"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "finish",
+       "accept": [
+        "finishing"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "please",
+       "accept": [
+        "pleasure"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "two",
+       "accept": [
+        "twice"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "succeed",
+       "accept": [
+        "success",
+        "succeeding"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "happy",
+       "accept": [
+        "happiness"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about the world’s ugliest animal. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (11-21) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "BLOBFISH CROWNED THE WORLD’S UGLIEST ANIMAL",
+     "body": [
+      "Everyone goes crazy for pandas, but what about the {{0}} aesthetic wonders of the animal world? The Ugly Animal Preservation Society (UAPS) aims to support endangered animals that are unpleasant to look {{11}} through a national campaign that combines comedy and education. In an online competition, the blobfish, a fat, gelatinous mass {{12}} near the southeast coast of Australia, was voted as the world’s ugliest animal and {{13}} the society’s official mascot. UAPS chief biologist Simon Watt {{14}} us more: ‘The campaign’s aim is to give ugly animals {{15}} by extinction a voice, and it has been supported by {{16}} celebrities as Stephen Fry and Simon Pegg. There are {{17}} many people trying to save cute animals. Ugly animals need {{18}} attention than cute animals. We’ve needed an ugly face for endangered animals {{19}} a long time and I’ve been amazed by the public’s reaction.’ UAPS {{20}} the campaign will encourage young people to get involved in conservation projects and {{21}} deal with the problem of nature’s aesthetically-challenged animals.",
+      "(http://metro.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AT"
+      },
+      {
+       "key": "B",
+       "text": "BECAME"
+      },
+      {
+       "key": "C",
+       "text": "LESS"
+      },
+      {
+       "key": "D",
+       "text": "FOR"
+      },
+      {
+       "key": "E",
+       "text": "FOUND"
+      },
+      {
+       "key": "F",
+       "text": "HELP"
+      },
+      {
+       "key": "G",
+       "text": "HOPES"
+      },
+      {
+       "key": "H",
+       "text": "MORE"
+      },
+      {
+       "key": "I",
+       "text": "SUCH"
+      },
+      {
+       "key": "K",
+       "text": "TALKED"
+      },
+      {
+       "key": "L",
+       "text": "THREATENED"
+      },
+      {
+       "key": "M",
+       "text": "TOLD"
+      },
+      {
+       "key": "N",
+       "text": "TOO"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "answer": "M"
+      },
+      {
+       "n": 15,
+       "answer": "L"
+      },
+      {
+       "n": 16,
+       "answer": "I"
+      },
+      {
+       "n": 17,
+       "answer": "N"
+      },
+      {
+       "n": 18,
+       "answer": "H"
+      },
+      {
+       "n": 19,
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read a joke about a smart flight attendant. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (22-29) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "DEAD OR ALIVE?",
+     "body": [
+      "Joe was a flight attendant for Fly High airlines. He watched {{0}} an elderly lady boarded the plane holding a dog in a cage. \"Excuse me,\" said Joe, \"dogs {{22}} not allowed on board; you have to check your dog {{23}} with the baggage.\" The lady wasn’t happy, but Joe was an experienced flight attendant and managed {{24}} convince the lady without a scene. Upon arrival, Joe took a peek in the cage, and to his great surprise, saw that the dog {{25}} dead! Horrified that they might get sued, Joe quickly sent {{26}} of his colleagues out to town to buy a dog {{27}} looked exactly the same. Luckily, in an hour’s time, Joe’s colleague came back with the perfect dog. They quickly switched dogs {{28}} felt very proud of themselves. \"This isn’t my dog!\" said the lady as {{29}} as she saw it. \"I’m sure it is,\" insisted Joe, \"I was very careful about where I put it.\" \"It’s not my dog,\" argued the lady, \"you see, I was bringing my dog to my home town to have him buried, and this dog is alive!\"",
+      "(http://www.greatcleanjokes.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "are"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "in"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "one"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "and"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "soon"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2015-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear an interview with Leona Lewis, who won the third series of the X Factor in the UK in 2006.",
+      "Your task is to complete the sentences with the exact word you hear in the text. Write one word in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_15okt_fl.mp3",
+      "start": 0,
+      "end": 617.29,
+      "clip": "hang/k_angol_15okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Leona grew up in {{gap}} London.",
+       "accept": [
+        "East"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Leona went to a(n) {{gap}} arts school.",
+       "accept": [
+        "performing"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Besides being a shop-assistant and a waitress, she also worked as a(n) {{gap}}.",
+       "accept": [
+        "receptionist"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Her style now is a bit more feminine and {{gap}}.",
+       "accept": [
+        "girly"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "She was quite {{gap}} and she still is.",
+       "accept": [
+        "shy"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Besides horseback riding, she likes {{gap}}.",
+       "accept": [
+        "swimming"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Leona and her boyfriend started dating when they were {{gap}}.",
+       "accept": [
+        "17",
+        "seventeen"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Besides going to her friends’ houses, Leona likes going to a(n) {{gap}} with her friends.",
+       "accept": [
+        "club"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Leona {{gap}} her music idol when she was seventeen.",
+       "accept": [
+        "discovered"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Leona’s parent told her not to {{gap}} herself to one thing.",
+       "accept": [
+        "limit"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2015-okt-kozep-H2",
+     "number": 2,
+     "kind": "fix",
+     "layout": "stems",
+     "examType": "hibás szó javítása hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear a report about dishonest on-line companies in the United States.",
+      "Your task is to find one word in each of the following sentences which doesn’t make sense in the context of the recording. First, cross it out, and then write the correct one on the line after the sentence.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_15okt_fl.mp3",
+      "start": 617.29,
+      "end": 1202.96,
+      "clip": "hang/k_angol_15okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "text": "Mr. Brody received an email from a friend in New York.",
+       "example": true,
+       "fixes": [
+        {
+         "wrong": "friend",
+         "accept": [
+          "company"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 10,
+       "text": "The letter congratulated Mr. Brody on being the buyer of an electronic piano.",
+       "fixes": [
+        {
+         "wrong": "buyer",
+         "accept": [
+          "winner"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 11,
+       "text": "When Mr. Brody received the box, at first he saw nothing but pieces of plastic.",
+       "fixes": [
+        {
+         "wrong": "plastic",
+         "accept": [
+          "newspaper",
+          "paper"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "The piano had thirty buttons which made a beeping sound when he pushed them.",
+       "fixes": [
+        {
+         "wrong": "thirty",
+         "accept": [
+          "13",
+          "thirteen"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "Dishonest companies often surprise people with their advertising.",
+       "fixes": [
+        {
+         "wrong": "surprise",
+         "accept": [
+          "trick"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "The “solar-powered clothes dryer” turned out to be nothing but a wire and a clothes pin.",
+       "fixes": [
+        {
+         "wrong": "wire",
+         "accept": [
+          "string"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "People ordered the “faux pearls” because they were surprisingly expensive.",
+       "fixes": [
+        {
+         "wrong": "expensive",
+         "accept": [
+          "cheap"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "People should not have been surprised to see that the pearls were made of glass.",
+       "fixes": [
+        {
+         "wrong": "glass",
+         "accept": [
+          "plastic"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 17,
+       "text": "The Postal Service employs 500 people whose only task is to stop the cheating customers.",
+       "fixes": [
+        {
+         "wrong": "customers",
+         "accept": [
+          "companies"
+         ]
+        }
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A hibás szó egyértelmű megjelölését kérjük, de akkor is elfogadhatjuk a vonalra írt helyes választ, ha a vizsgázó nem húzta ki a hibás szót.)"
+     }
+    },
+    {
+     "id": "2015-okt-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear some information about how Americans celebrate the New Year.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_15okt_fl.mp3",
+      "start": 1202.96,
+      "end": 1795.82,
+      "clip": "hang/k_angol_15okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The beginning of the new year has been welcomed ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "on different dates throughout history."
+        },
+        {
+         "key": "B",
+         "text": "in different ways in the various parts of the world."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "People celebrate the new year by ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "wearing new clothes in Muslim societies."
+        },
+        {
+         "key": "B",
+         "text": "giving each other birds and turtles as a present in Southern Asia."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Others, such as …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Jews have a religious ceremony to celebrate it."
+        },
+        {
+         "key": "B",
+         "text": "Japanese people prepare a rice cake on New Year’s Eve."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "In the United States, the official holiday is ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "December 31st."
+        },
+        {
+         "key": "B",
+         "text": "January 1st."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "At traditional masquerade balls …",
+       "options": [
+        {
+         "key": "A",
+         "text": "people wear a mask before midnight."
+        },
+        {
+         "key": "B",
+         "text": "take off their costumes at midnight."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "On 31st December, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a lot of people watch TV at New Year’s Eve parties."
+        },
+        {
+         "key": "B",
+         "text": "most TV channels give a live broadcast from New York City."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "At one minute before midnight on Times Square in N.Y.C., ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "a lighted ball is lifted to the top of one of the tall buildings."
+        },
+        {
+         "key": "B",
+         "text": "people start counting down together."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "On January 1st, it is customary in the U.S. to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "visit friends, relatives and neighbors."
+        },
+        {
+         "key": "B",
+         "text": "give a small present to your friends and loved ones."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "In the U.S., New Year’s resolutions are often ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "made in writing."
+        },
+        {
+         "key": "B",
+         "text": "broken within a month."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

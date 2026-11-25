@@ -1,0 +1,1305 @@
+{
+ "formatVersion": 1,
+ "id": "2010-okt-kozep",
+ "year": 2010,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2010-10-21",
+ "code": "1011",
+ "sourceFiles": {
+  "paper": "2010. Középszintű október-november érettségi/k_angol_10okt_fl.pdf",
+  "key": "2010. Középszintű október-november érettségi/k_angol_10okt_ut.pdf",
+  "audio": "2010. Középszintű október-november érettségi/k_angol_10okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2010-okt-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "állítások párosítása szövegrészekhez",
+     "points": 7,
+     "instructions": [
+      "You are staying in a small town in Britain for a year. Read the town’s web site.",
+      "Your task is to match the sentences (1-7) with the links (A-E).",
+      "Remember you can use the same letters more than once."
+     ],
+     "body": [
+      "A) BUYSELL For all your classified advertising needs",
+      "B) VISITORS’ FORUM Help us make our town a better place",
+      "C) ONLINE GAMES Scores of free games to choose from",
+      "D) TOURIST INFORMATION Everything you need to explore the area",
+      "E) LATEST WEATHER Sun cream or umbrella? Find out here",
+      "(http://www.ellesmereportpioneer.co.uk/)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "You wonder if it is a good idea to go to the beach in the afternoon.",
+       "answer": "E"
+      },
+      {
+       "n": 1,
+       "stem": "You are waiting for some Internet pages to download and meanwhile you feel like doing a crossword puzzle.",
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "You would like to find out more about local history and places worth visiting in and around the town.",
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "stem": "You want to comment on public transport and traffic jams in the town.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "You are planning to go on a trip and want to check bus timetables.",
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "stem": "You don’t like your old sleeping bag. You want to get a new one.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "You are going hiking at the weekend and you want to find out if you should take waterproof clothes with you.",
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "stem": "You would like to have a bike but you cannot afford an expensive one.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a man who became a champion in growing flowers and then read the sentences (8-14) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark a sentence B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "ADDICTED TO CHRYSANTHEMUMS",
+     "body": [
+      "Les Hunter has made history by becoming the first Barnsley man to be named a national champion chrysanthemum grower. The 74-year-old has been growing them for 49 years and he was excited to be named as champion by the National Chrysanthemum Society at a competition in Stafford.",
+      "It took Mr Hunter a year to prepare for the individual champion class, putting in hours of tender loving care since November last year to make sure his flowers were in tip top shape for the competition.",
+      "\"There is no prize money or anything like that, it's purely for the prestige you get in the flower world. I've entered it before but only came third and fourth, and no-one in Barnsley has ever won before,\" he said.",
+      "Les had to take about 30 flowers down with him to the competition, which is held in a huge barn. He arranged the flowers in four vases.",
+      "\"I'm quite a small grower compared to most,\" said Mr Hunter, a former miner. \"A lot of people will grow thousands and thousands of flowers a year but I don't grow a lot; I've got about 80 altogether in the garden. I started growing flowers because I used to be a miner and in those days that is what you did: you either went to the pub or went to the garden. You can see what I chose to do. I love it and I'm addicted. Every year I say I'll give it up but I never do.\" (http://www.barnsley-chronicle.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Les Hunter is the first resident of Barnsley who has become a national champion in growing chrysanthemums.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "He has been growing chrysanthemums for about half a century.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "His wife encouraged him to prepare for the individual class competition.",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "As well as the prize, Mr Hunter also received a huge sum of money.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "He had to take his own vases along to the competition.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Mr Hunter used to work as a miner.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "He has got thousands of flowers.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "He preferred gardening to going drinking with his colleagues.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-kozep-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "szó keresése a szövegben meghatározás alapján",
+     "points": 9,
+     "instructions": [
+      "Read the text about an accident and the sentences (15-23) following the text. Each sentence describes one word in the text.",
+      "Your task is to find the word and write it on the line after the sentence.",
+      "Write only one word on each line. There is an example (0) for you."
+     ],
+     "title": "LUCKY STRIKE",
+     "body": [
+      "William Hall stopped at an upstate New York store to get gas ... and instead got struck by lightning.",
+      "“The light itself was bright white surrounded by orange, and then the rush. It was like heat,” the 44-year-old Hall told Today’s reporter in an exclusive interview in New York.",
+      "Mr Hall needs help from others to pick up the story from the moment the lightning hit, because that’s the last thing he remembers before losing consciousness. In the video, he is seen collapsing by his white pick-up truck, bumping his head on the vehicle before falling on the wet pavement.",
+      "Mr Hall and his girlfriend, Kymberly Fenn, said it had been raining a little earlier, and they had seen a few bolts of lightning while they were driving to get gas. Mr Hall had pumped $8 worth of gas when a security camera captured the orange and white fireball erupting from the pavement a few dozen feet from the roof over the pumps.",
+      "After the strike, Miss Fenn looked behind the truck and didn’t see her boyfriend. The video tape shows her getting out of the truck and bending over him. She and Mr Hall estimate that he was unconscious for four or five minutes. When he came to, Mr Hall saw Miss Fenn and store employees hovering over him. It soon became apparent that an ambulance was needed. “I wanted to get up, but my body wouldn’t allow me to,” Mr Hall said. “I couldn’t move. My heart was beating very fast. It was just … very scary.”",
+      "The current apparently traveled through the rain slick on the pavement to Hall. It probably wouldn’t have happened if the surface hadn’t been wet. The chances of anyone being struck by lightning in his or her lifetime are about 5,000 to 1.",
+      "Mr Hall believes that his life was saved because he was holding the pump, which was grounded through his truck. He hurt his elbow, but otherwise he seems just fine.",
+      "(http://www.msnbc.msn.com)"
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This is what William Hall wanted to buy at the store. {{gap}}",
+       "accept": [
+        "gas"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The occasion when he told a journalist about the accident. {{gap}}",
+       "accept": [
+        "interview"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "The place where he was lying after he had collapsed. {{gap}}",
+       "accept": [
+        "pavement"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Bright flashes in the sky that he saw during the storm. {{gap}}",
+       "accept": [
+        "lightning"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The device which recorded the appearance of the fireball. {{gap}}",
+       "accept": [
+        "camera"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The people who helped his girlfriend at the store. {{gap}}",
+       "accept": [
+        "employees"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "This is what he was unable to do after the accident. {{gap}}",
+       "accept": [
+        "move"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "This is what the ground was like when all this happened. {{gap}}",
+       "accept": [
+        "wet"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Probably having this object in his hand saved his life. {{gap}}",
+       "accept": [
+        "pump"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The part of Hall’s body which got injured. {{gap}}",
+       "accept": [
+        "elbow"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 5,
+     "instructions": [
+      "Some sentence endings have been removed from this text about Cambridge students.",
+      "Match the endings (A-G) below the text with the beginnings (24-28).",
+      "There is one extra letter that you do not need. Write the letters in the white boxes as in the example (0)."
+     ],
+     "title": "CAMBRIDGE STUDENTS FAIL FIRE SAFETY TEST",
+     "body": [
+      "They may be the cleverest and best - but Cambridge University students are the city's biggest fire hazard. The students have been named as the highest risk group in Cambridge after firefighters were called 113 times to places {{0}}.",
+      "According to Mr Meikle, a community fire officer for Cambridge, it is a fact that students are considered the highest risk group when they are in their rooms or in the kitchen. Often it's just foolish actions caused by tiredness and general stress. At the weekend, however, it seems to change to students {{24}}.",
+      "Students' practical jokes have also been blamed for the number of emergency calls. Once a plastic traffic sign was melted on a gas hob in King's College and a month later clothes caught fire {{25}}.",
+      "Mr Meikle also pointed out that hoax calls and practical jokes causing fire could bring serious consequences. He warned students that − depending on the gravity of the misbehaviour − they could face severe punishment, {{26}}.",
+      "Cambridge University chiefs have started campaigns along with the fire service and the students' union in order to keep students safe. A spokesman said: \"The university takes fire safety very seriously. We have a central fire safety team {{27}}.\"",
+      "\"If students feel they need more information, we believe the best thing to do is consult representatives from their college {{28}}.\"",
+      "Last year out of the 113 calls made to the fire service firefighters attended 17 blazes in colleges, which dropped to 12 blazes this year. Since April there have been five fires.",
+      "(http://www.cambridge-news.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "who will give them all the necessary details"
+      },
+      {
+       "key": "B",
+       "text": "who have been drinking and fall asleep while cooking late at night"
+      },
+      {
+       "key": "C",
+       "text": "where students lived in the last year"
+      },
+      {
+       "key": "D",
+       "text": "which can advise students and staff and provide training if they need it"
+      },
+      {
+       "key": "E",
+       "text": "which often cause accidents"
+      },
+      {
+       "key": "F",
+       "text": "which could mean a jail sentence of up to two years or a fine of thousands of pounds"
+      },
+      {
+       "key": "G",
+       "text": "when they were placed on a cooker in Robinson College"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "G"
+      },
+      {
+       "n": 26,
+       "answer": "F"
+      },
+      {
+       "n": 27,
+       "answer": "D"
+      },
+      {
+       "n": 28,
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 12,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18
+   },
+   "tasks": [
+    {
+     "id": "2010-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a short history of elves. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "WHO EXACTLY ARE ELVES?",
+     "body": [
+      "An elf is a kind of fairy. Many people believe fairies are little people with magical powers who can control {{0}} humans see and experience. Elves first {{1}} in Germanic folklore. According to legend, they cause diseases and give people bad dreams. In fact, one German word for nightmare is alpdrucken, {{2}} means \"elf-pressure.\"",
+      "The legend of elves spread {{3}} Europe. In Denmark, Norway, Sweden and Finland, elves became associated with Christmas.",
+      "In {{4}} countries, people say elves are small and mischievous. They wear red clothing and have long beards. To stop {{5}} from playing tricks, the story goes, you have to give elves a bowl of porridge {{6}} Christmas Eve.",
+      "In Iceland elves are called Yule (Christmas) lads. Starting on December 12, a new lad visits each day {{7}} Christmas and plays tricks on people. Because of these tricks, each elf gets a name {{8}} Door Slammer or Sausage Stealer. Kids in Iceland don't {{9}} the tricks, though. The lads leave behind presents. Today, many people believe that elves {{10}} Santa Claus make Christmas presents in the North Pole.",
+      "(www.nationalgeographicnews/kids)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACROSS"
+      },
+      {
+       "key": "B",
+       "text": "APPEAR"
+      },
+      {
+       "key": "C",
+       "text": "WHAT"
+      },
+      {
+       "key": "D",
+       "text": "HELP"
+      },
+      {
+       "key": "E",
+       "text": "LIKE"
+      },
+      {
+       "key": "F",
+       "text": "MIND"
+      },
+      {
+       "key": "G",
+       "text": "ON"
+      },
+      {
+       "key": "H",
+       "text": "THEM"
+      },
+      {
+       "key": "I",
+       "text": "THESE"
+      },
+      {
+       "key": "K",
+       "text": "UNTIL"
+      },
+      {
+       "key": "L",
+       "text": "FIND"
+      },
+      {
+       "key": "M",
+       "text": "WHICH"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "M"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a man who had a nail in his body for 35 years. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-18) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "35-YEAR-OLD NAIL",
+     "body": [
+      "One morning while brushing his teeth, Bud Hartley, 84, coughed up a rusty nail that had lived inside {{0}} body for 35 years.",
+      "The story began 35 years {{11}} when Hartley was mowing the grass and the nail got into his body through his throat and landed in his rib cage. {{12}} he found a few drops of blood on his throat, he didn't know that a foreign object had entered his body. A few hours later, his body system realised {{13}} had happened and reacted with a high fever and a pain in the ribs. He {{14}} taken to hospital where an X-ray showed the metal. The doctor hoped that the foreign object would seal itself off in Hartley's body {{15}} they treated him with antibiotics. The doctor predicted that Hartley would carry the nail {{16}} him to the grave – but time proved him wrong.",
+      "An X-ray this month showed {{17}} one-inch long nail was moving and was in the lungs and not in the rib cage. The doctor then decided it was time to remove {{18}}, but the stubborn nail surrendered before being forced to get out.",
+      "(www.kidsnewsroom.org)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "his"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "ago",
+        "back"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "Although",
+        "Though",
+        "When"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "what",
+        "something",
+        "it",
+        "this",
+        "that"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "was",
+        "got"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "so",
+        "and",
+        "if",
+        "but"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "with",
+        "inside",
+        "in"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "the",
+        "this",
+        "that"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "it"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-kozep-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about young people cleaning up a small river. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (19-26) in the text."
+     ],
+     "title": "YOUNG ENVIRONMENTALISTS",
+     "body": [
+      "The Gloria Barron Prize for Young Heroes rewards kids who have made a positive difference {{0}} their community and the planet. Every year, the Barron Prize chooses ten winners nationwide. One of last year's winners is Whitney Boulton, an 18-year-old from New York, who organized a \"Stream Team\" {{19}} up a local stream.",
+      "Whitney was inspired to {{20}} action while on a walk in her town. She passed a stream {{21}} her father had known as a child. \"He always talked about the stream, and I remember him saying how full of life {{22}},\" Whitney said. But the stream she saw was very different. \"When I saw the stream I was very surprised that it had become motionless {{23}} to trash.\" The stream was now filled with tires, bicycles, shopping carts, and an old refrigerator.",
+      "Whitney organized {{24}} 50 student volunteers with boots, gloves, and trash bags. She even had an 18-meter-long truck {{25}} to the site! Whitney and her team cleaned 4.8 kilometers of the stream. \"I think the most inspiring thing is that kids really care about each other and the environment. So if you {{26}} an idea, you will be amazed by what you and your peers can achieve by working together,\" Whitney said.",
+      "(www.nationalgeographicnews/kids)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "at"
+        },
+        {
+         "key": "B",
+         "text": "for"
+        },
+        {
+         "key": "C",
+         "text": "to"
+        },
+        {
+         "key": "D",
+         "text": "with"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "cleaned"
+        },
+        {
+         "key": "B",
+         "text": "to clean"
+        },
+        {
+         "key": "C",
+         "text": "cleaning"
+        },
+        {
+         "key": "D",
+         "text": "and clean"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "get"
+        },
+        {
+         "key": "B",
+         "text": "do"
+        },
+        {
+         "key": "C",
+         "text": "take"
+        },
+        {
+         "key": "D",
+         "text": "make"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "in which"
+        },
+        {
+         "key": "C",
+         "text": "where"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "it has been"
+        },
+        {
+         "key": "B",
+         "text": "was it"
+        },
+        {
+         "key": "C",
+         "text": "has it been"
+        },
+        {
+         "key": "D",
+         "text": "it was"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "compared"
+        },
+        {
+         "key": "B",
+         "text": "according"
+        },
+        {
+         "key": "C",
+         "text": "similar"
+        },
+        {
+         "key": "D",
+         "text": "due"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "over"
+        },
+        {
+         "key": "B",
+         "text": "so many"
+        },
+        {
+         "key": "C",
+         "text": "more"
+        },
+        {
+         "key": "D",
+         "text": "such as"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "to bring"
+        },
+        {
+         "key": "B",
+         "text": "brought"
+        },
+        {
+         "key": "C",
+         "text": "bring"
+        },
+        {
+         "key": "D",
+         "text": "bringing"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "options": [
+        {
+         "key": "A",
+         "text": "would have"
+        },
+        {
+         "key": "B",
+         "text": "had"
+        },
+        {
+         "key": "C",
+         "text": "have"
+        },
+        {
+         "key": "D",
+         "text": "will have"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2010-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear some information about Mr Charles Baker, who forged railway tickets.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_10okt_fl.mp3",
+      "start": 0,
+      "end": 532.89,
+      "clip": "hang/k_angol_10okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How old is Mr Baker? He is {{gap}}",
+       "accept": [
+        "27"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "What does Mr Baker do? He is a(n) {{gap}}",
+       "key": "computer programmer",
+       "keywords": [
+        [
+         "computer",
+         "programmer"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "How much money did he save? He saved £ {{gap}}",
+       "key": "12,500",
+       "keywords": [
+        [
+         "12500"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Where does he live? On England's {{gap}}",
+       "key": "south coast",
+       "keywords": [
+        [
+         "south",
+         "coast"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Who caught Mr Baker? A(n) {{gap}}",
+       "key": "(eagle-eyed) ticket inspector (and two policemen)",
+       "keywords": [
+        [
+         "ticket",
+         "inspector"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Where did they find eleven tickets? In a(n) {{gap}}",
+       "key": "(plastic) wallet",
+       "keywords": [
+        [
+         "wallet"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Where did the police find Mr Baker's laptop? At {{gap}}",
+       "key": "his home / (Mr) Baker’s home",
+       "keywords": [
+        [
+         "his",
+         "home"
+        ],
+        [
+         "baker’s",
+         "home"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "What was Mr Baker sentenced to? To {{gap}}",
+       "key": "nine months (in prison) / a nine-month prison term / nine months’ imprisonment",
+       "keywords": [
+        [
+         "nine",
+         "months"
+        ],
+        [
+         "nine-month",
+         "prison",
+         "term"
+        ],
+        [
+         "nine",
+         "months’",
+         "imprisonment"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What was he ordered to do? To {{gap}}",
+       "key": "repay / pay back the damage (he had caused)",
+       "keywords": [
+        [
+         "repay"
+        ],
+        [
+         "pay",
+         "back",
+         "damage"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2010-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear the strange story of a woman called Mary.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_10okt_fl.mp3",
+      "start": 532.89,
+      "end": 1130.59,
+      "clip": "hang/k_angol_10okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mary has had only one paranormal experience in her life.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "She remembers the exact date of the incident.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The toothache started at the office where she worked.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "It wasn't easy to find a dentist those days.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "A man came through the wall.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Mary was alone in her room.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The man had been a dentist before he died.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Mary felt something hot around her head, which she liked.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The next morning Mary noticed that her toothache had gone.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The dentist said that her tooth was in good condition.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Mary told the dentist her strange story.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2010-okt-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with a scientist about killer bees.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_10okt_fl.mp3",
+      "start": 1130.59,
+      "end": 1795.09,
+      "clip": "hang/k_angol_10okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Killer bees …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is the name of a horror movie."
+        },
+        {
+         "key": "B",
+         "text": "are real bees."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Killer bees …",
+       "options": [
+        {
+         "key": "A",
+         "text": "are coming to the US from the south."
+        },
+        {
+         "key": "B",
+         "text": "will arrive in the US in the 2010s."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Killer bees often attack …",
+       "options": [
+        {
+         "key": "A",
+         "text": "honey bees."
+        },
+        {
+         "key": "B",
+         "text": "in groups."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "When you are attacked, the only thing you can do is ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "run as fast as you can."
+        },
+        {
+         "key": "B",
+         "text": "duck under water."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The sting of a killer bee ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is not more dangerous than a honey bee's."
+        },
+        {
+         "key": "B",
+         "text": "causes the death of at least 8,000 people every year."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Killer bees ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "make honey just like honey bees."
+        },
+        {
+         "key": "B",
+         "text": "eat the honey made by honey bees."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Honey bees tend to sting when ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "they are frightened."
+        },
+        {
+         "key": "B",
+         "text": "people cough or sneeze."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Scientists ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "find it difficult to distinguish killer bees from honey bees."
+        },
+        {
+         "key": "B",
+         "text": "have already found a solution to the problem."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

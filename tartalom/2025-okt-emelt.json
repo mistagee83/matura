@@ -1,0 +1,1572 @@
+{
+ "formatVersion": 1,
+ "id": "2025-okt-emelt",
+ "year": 2025,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2025-10-16",
+ "code": "E1919",
+ "sourceFiles": {
+  "paper": "2025 - Emeltszintű október/e_angol_25okt_fl.pdf",
+  "key": "2025 - Emeltszintű október/e_angol_25okt_ut.pdf",
+  "audio": "2025 - Emeltszintű október/e_angol_25okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2025-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about a new food source made with insects some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (1-9) from the list (A-M) below.",
+      "Remember that there are two extra phrases that you do not need."
+     ],
+     "title": "FINLAND BAKER LAUNCHES BREAD MADE FROM CRICKETS",
+     "body": [
+      "Finnish bakery and food service company Fazer launched on Thursday what it said {{0}} to be offered to consumers in stores. The bread, {{1}} as well as wheat flour and seeds, contains more protein than normal wheat bread. Each loaf contains about 70 crickets and costs €3.99, {{2}} for a regular wheat loaf.",
+      "“It offers consumers a good protein source and also {{3}},” said Juhani Sibakov, head of innovation at Fazer Bakeries.",
+      "The demand to find more food sources and a desire to treat animals more humanely {{4}} in several Western countries. In November, Finland joined five other European countries – Britain, the Netherlands, Belgium, Austria and Denmark – in allowing insects {{5}}. Sibakov said Fazer had developed the bread since last summer. It had to wait for a new law {{6}}. “I don’t taste the difference ... It tastes like bread,” said Sara Koivisto, a student from Helsinki after trying the new product.",
+      "Due to a limited supply of crickets, the insect-bread {{7}} located in Helsinki region hypermarkets, but the company plans to offer it in all 47 of its stores by next year. The company buys its cricket flour from the Netherlands, but said it was also looking for local suppliers. Fazer, a family business with sales of about €1.6 billion last year, {{8}}. Insect-eating, or entomophagy, {{9}}. The United Nations estimated last year that at least 2 billion people eat insects and more than 1,900 species have been used for food. In Western countries, edible bugs are becoming popular in niche markets, particularly among those seeking a gluten-free diet or wanting to protect the environment because farming insects uses less land, water and feed than animal husbandry."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "gives them an easy way to familiarize themselves with insect-based food"
+      },
+      {
+       "key": "B",
+       "text": "will initially only be sold in 11 Fazer bakery stores"
+      },
+      {
+       "key": "C",
+       "text": "was the world’s first insect-based bread"
+      },
+      {
+       "key": "D",
+       "text": "is common in much of the world"
+      },
+      {
+       "key": "E",
+       "text": "is estimated to cost half as much"
+      },
+      {
+       "key": "F",
+       "text": "made from flour ground from dried crickets"
+      },
+      {
+       "key": "G",
+       "text": "to be raised and marketed for food use"
+      },
+      {
+       "key": "H",
+       "text": "to be passed in Finland for the launch"
+      },
+      {
+       "key": "I",
+       "text": "did not give a sales target for the product"
+      },
+      {
+       "key": "K",
+       "text": "have raised interest in using insects as a protein source"
+      },
+      {
+       "key": "L",
+       "text": "will become a sustainable and healthy alternative"
+      },
+      {
+       "key": "M",
+       "text": "compared with two thirds of this price"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "M"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "K"
+      },
+      {
+       "n": 5,
+       "answer": "G"
+      },
+      {
+       "n": 6,
+       "answer": "H"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      }
+     ],
+     "source": "https://www.reuters.com/article/us-finland-ediblebugs-idUSKBN1DN17E"
+    },
+    {
+     "id": "2025-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about volcanoes in Antarctica and then read the sentences (10-17) following it.",
+      "Your task is to decide whether the statements are true or not.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is not true.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "ANTARTICA GIVES UP ITS SECRETS",
+     "body": [
+      "Scientists find new volcanoes beneath vast ice sheet Scientists have uncovered the largest volcanic region on Earth ‒ two kilometres below the surface of the vast ice sheet that covers west Antarctica.",
+      "The project, by Edinburgh University researchers, has revealed almost 100 volcanoes ‒ with the highest ones as tall as Mount Eiger, which towers almost 4,000 metres above Switzerland. The project leader, glacier expert Robert Bingham says this huge region is likely to have more volcanoes than east Africa's volcanic ridge, currently considered the densest concentration of volcanoes in the world.",
+      "The big questions are: How active are these volcanoes? And how many lie below the ice? This second question was originally asked by the team's youngest member, Van Wyk de Vries, an undergraduate at the university's school of geosciences and a self-confessed volcano fanatic. He set up the project with the help of Bingham. In the study they analysed measurements made by previous surveys which involved the use of radar, carried by planes or land vehicles, to survey strips of the west Antarctic ice.",
+      "The results were then compared with satellite and database records and geological information from other surveys. After the team had put together the results, it reported a staggering 91 previously unknown volcanoes, adding to the 47 others that had been discovered over the previous century of exploring the region. \"We were amazed,\" Bingham said. \"We had not expected to find anything like that number. We also suspect there are even more on the bed of the sea.\"",
+      "The discovery is particularly important because the activity of these volcanoes could have crucial implications for the rest of the planet. \"If one of these volcanoes were to erupt, it could further destabilise some of West Antarctica's ice sheets, already affected by global warming. Meltwater flowing into the Antarctic ocean could provoke sea level rises intensifying those that are already affecting our oceans,\" said Bingham."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "New volcanoes have been discovered in west Antarctica.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Mount Eiger is one of the highest peaks in Switzerland.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "Africa's volcanic ridge probably has fewer volcanoes than Antarctica.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "One of the researchers has not yet finished his university studies.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "In this study Bingham and his team used radar to survey the area.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The success of the research has justified its high costs.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The team are convinced there are even more volcanoes in this area.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Bingham is concerned over the possible consequences of volcanic activity in Antarctica.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Over the past one hundred years no volcanic eruptions have occurred in the region.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2025-okt-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about quotes and misquotes and then read the gapped summary.",
+      "Your task is to complete the summary by filling in the gaps (18-24) with one or two words or numbers according to the information in the text."
+     ],
+     "title": "LET'S SAVE MAYA ANGELOU FROM FAKE QUOTES",
+     "body": [
+      "\"A bird doesn't sing because it has an answer, it sings because it has a song.\"",
+      "A thought-provoking sentiment, I'm sure you'd agree. You might even be tempted to quote it. That impulse certainly struck the US postal service, who in 2015 put it out on a stamp bearing the face of Maya Angelou, the world-famous writer, professor, former dancer, calypso singer, filmmaker and civil rights activist, who died the previous year.",
+      "The only problem? She didn't write it. Dr Maya Angelou was chosen as an official poet by the UN. Her seven memoirs have sold millions of copies around the world. She is a cultural icon ̶ and among the world's most misquoted women. The US postal service defended the mistake by saying the quote was \"associated\" with Angelou, and that she used it in a 2013 interview. It could also have pointed the finger at the then President Barack Obama, who also attributed the line to Angelou while handing out the 2013 National Medal of Arts. The phrase was traced to a children's author named Joan Walsh Anglund, and her 1967 book, A Cup of Sun. Anglund was kind, saying: \"I love Angelou's books, of course. I think it easily happens sometimes that people hear something, and it goes into their subconscious without them realising it.\" But not everyone feels able to shrug off such mistakes. For some, fighting misquotes becomes almost a life's work. Gregory Sullivan, who runs the Quote Investigator (QI) website, is one such figure. \"Some of the massive quotation websites are filled with misinformation,\" he told the BBC. \"These sites make the problem worse because many people incorrectly assume that large, professional-looking websites must contain valid data. The mission of QI is to provide information that is current, thorough, and very carefully documented.\" Sullivan writes with a pseudonym under which he wrote the book Hemingway Didn't Say That: The Truth Behind Familiar Quotations. So why do people keep pinning quotes on Maya Angelou? Basically, because the lines she did write were so good. Her quotability makes her a magnet for misquotation. Got a wise and compassionate line with no recorded owner? Just say it was Maya Angelou, the logic runs. Unless it's too spiritual, in which case try Gandhi or Mother Theresa. Or too sarcastic, when the obvious candidates are Oscar Wilde, Mark Twain or Winston Churchill. All eminently quotable men and women ̶ and too dead to disclaim the words they never said.",
+      "Summary A 2015 stamp had Maya Angelou's picture on it and a sentence that the {{0}} thought was by her. She is very popular and many people read her books, yet she is often {{18}}. Strangely enough, this even happened at an award-giving ceremony in the US in {{19}}. The sentence \"A bird doesn't sing because it has an answer, it sings because it has a song\" actually first appeared in a(n) {{20}}, but the {{21}} didn't sound too upset about the whole thing.",
+      "Anyone wanting to trace a quote to its genuine source can consult {{22}}, a website that promises to give accurate data. The man behind it, {{23}}, is determined to correct misinformation spread by quotation websites. Apart from Maya Angelou, people like Mother Theresa or Winston Churchill, among others, are frequently misquoted, too; the {{24}} one often credited with quite biting remarks."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "US post"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "misquoted",
+        "miscited",
+        "wrongly quoted",
+        "wrongly cited",
+        "badly quoted",
+        "badly cited",
+        "mistakenly quoted",
+        "mistakenly cited",
+        "incorrectly quoted",
+        "incorrectly cited",
+        "inaccurately quoted",
+        "inaccurately cited",
+        "imprecisely quoted",
+        "imprecisely cited"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "2013"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "children's book",
+        "1967 book",
+        "book"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "author",
+        "writer",
+        "real author",
+        "real writer",
+        "true author",
+        "true writer",
+        "genuine author",
+        "genuine writer",
+        "original author",
+        "original writer",
+        "book’s author",
+        "book’s writer",
+        "children’s author",
+        "children’s writer"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "Quote Investigator",
+        "QI"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "Gregory Sullivan",
+        "Mr Sullivan",
+        "Sullivan"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "latter",
+        "second",
+        "last",
+        "third"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2025-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 6,
+     "instructions": [
+      "Read this article about how mechanical typewriters are coming back into fashion and then read the sentences that follow the text.",
+      "For each number (25-30) choose the option (A-D) that best corresponds to the text."
+     ],
+     "title": "TYPEWRITER'S PROMISE OF A SIMPLER LIFE",
+     "body": [
+      "Like-the clip-clop of horses' hooves on city streets or the crackle when a vinyl LP reaches the end, it is a sound that almost but never quite vanished. Now the clatter of typewriter keys has become the latest echo from the pre-digital world to be heard again.",
+      "The price of vintage manual typewriters has increased dramatically as authors, poets, lovers and even fed-up parents discover the delights of \"slow writing\". For most it is less about nostalgia and more about the need to escape the \"noise\" of email, social media and the internet.",
+      "The typewriter revolution began in the United States but has spread to Britain, where dozens of old machines are being restored every week.",
+      "Repairmen are being persuaded to come out of retirement to help to feed demand from a generation that never heard the ping of a typewriter bell. Tom Knowles, 59, did his apprenticeship in typewriter repair over 40 years ago. He has never been so busy supplying spare parts and repairing vintage Olivettis.",
+      "\"People imagine my customers must be over 70 and can't get on with computers, but the reality is that most of them are under 30. A generation has suddenly discovered manual typewriters and thinks they are very cool,\" he said.",
+      "The typewriter's best known enthusiast is the actor Tom Hanks, who has a collection of more than a hundred. He has just finished a collection of short stories called Uncommon Type, each one featuring a different typewriter.",
+      "Mr Knowles said that people had gone back to manual typewriters because they found computers and smartphones, with their multiple functions, too distracting. \"A manual typewriter is a single purpose machine, it does nothing else. Because it doesn't have a delete or a correction key it concentrates your mind more on what you're writing.\"",
+      "Philip Chapman, from Wiltshire, sells about 500 machines a year through his website at up to £350 each. Mr Chapman said: \"We sell a lot to creative writers.\"",
+      "They also sell to parents who want to get their child away from their smartphone or tablet. \"There are boys, particularly, who are not interested in creative writing until you put a mechanical typewriter in front of them,\" Mr Chapman said. \"Suddenly they go 'wow' and the next moment they are writing.\""
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Horses' hooves and vinyl LPs produce rather similar sounds."
+        },
+        {
+         "key": "B",
+         "text": "LPs are a thing of the past; people just don't listen to them."
+        },
+        {
+         "key": "C",
+         "text": "Typewriters have made a comeback on both sides of the Atlantic."
+        },
+        {
+         "key": "D",
+         "text": "Some people love listening to the clatter of typewriter keys."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "\"Slow writing\" fans handwrite or use manual typewriters."
+        },
+        {
+         "key": "B",
+         "text": "Manual typewriters cost more than they used to."
+        },
+        {
+         "key": "C",
+         "text": "Parents are fed up with the noise computers make."
+        },
+        {
+         "key": "D",
+         "text": "Most people feel nostalgic about the pre-digital world."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The US was first to rediscover manual typewriters."
+        },
+        {
+         "key": "B",
+         "text": "Manual typewriters were redesigned in the US."
+        },
+        {
+         "key": "C",
+         "text": "Tom Knowles' apprenticeship took a long time."
+        },
+        {
+         "key": "D",
+         "text": "It is difficult to get spare parts for typewriters."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "It is mostly old-age pensioners who buy mechanical typewriters."
+        },
+        {
+         "key": "B",
+         "text": "Older and younger people are equally enthusiastic about mechanical typewriters."
+        },
+        {
+         "key": "C",
+         "text": "It is the younger generations who find mechanical typewriters attractive."
+        },
+        {
+         "key": "D",
+         "text": "Computer literate people are not interested in mechanical typewriters."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The actor Tom Hanks was the first to show an interest in typewriters."
+        },
+        {
+         "key": "B",
+         "text": "Tom Hanks always uses a different typewriter when he writes."
+        },
+        {
+         "key": "C",
+         "text": "Tom Hanks' new book contains a hundred short stories."
+        },
+        {
+         "key": "D",
+         "text": "A typewriter plays a part in each of Tom Hanks' stories."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 29,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "People get easily distracted when using a manual typewriter."
+        },
+        {
+         "key": "B",
+         "text": "A typewriter makes it easier to concentrate on your thoughts."
+        },
+        {
+         "key": "C",
+         "text": "The biggest problem with typewriters is that mistakes are not easy to correct."
+        },
+        {
+         "key": "D",
+         "text": "Mr Knowles believes typewriters will never go out of fashion."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Typewriters can have a surprising effect on boys."
+        },
+        {
+         "key": "B",
+         "text": "Some boys cannot be motivated to learn to type."
+        },
+        {
+         "key": "C",
+         "text": "Parents have started using manual typewriters."
+        },
+        {
+         "key": "D",
+         "text": "Mr Chapman advises people to buy typewriters."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2025-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an anecdote about Sir Winston Churchill meeting a very brave but shy World War II pilot. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are four extra words that you do not need to use."
+     ],
+     "title": "CHURCHILL AND THE PILOT",
+     "body": [
+      "In the summer of 1941 Sergeant James Allen Ward was {{0}} the Victoria Cross for {{1}} out onto the wing of his Wellington bomber 4,000 metres above the Dutch coast, to {{2}} out a fire near the right-hand engine. The aircraft was flying home after a bombing operation over Germany on 7 July.",
+      "{{3}} only by a rope around his waist, Ward managed not only to extinguish the fire but also to return along the wing to the plane’s cabin. At the risk of his life, he made the flight home possible. A safe landing was then made {{4}} the damage suffered by the aircraft.",
+      "Churchill, an admirer of {{5}} acts, invited the pilot to 10 Downing Street. Ward, feeling {{6}} but also very embarrassed in Churchill’s presence, was unable to answer the prime minister’s questions.",
+      "Churchill looked at the unhappy hero with sympathy. “You {{7}} feel very humble and awkward in my presence,” he said. “Yes, sir,” replied Ward. “{{8}} you can imagine how humble and awkward I feel in yours,” said Churchill in a respectful tone of voice."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ALTHOUGH"
+      },
+      {
+       "key": "B",
+       "text": "CLIMBING"
+      },
+      {
+       "key": "C",
+       "text": "AWARDED"
+      },
+      {
+       "key": "D",
+       "text": "DARING"
+      },
+      {
+       "key": "E",
+       "text": "DESPITE"
+      },
+      {
+       "key": "F",
+       "text": "HONOURED"
+      },
+      {
+       "key": "G",
+       "text": "MUST"
+      },
+      {
+       "key": "H",
+       "text": "PUT"
+      },
+      {
+       "key": "I",
+       "text": "SECURED"
+      },
+      {
+       "key": "K",
+       "text": "TAKE"
+      },
+      {
+       "key": "L",
+       "text": "THAN"
+      },
+      {
+       "key": "M",
+       "text": "THEN"
+      },
+      {
+       "key": "N",
+       "text": "WOULD"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "I"
+      },
+      {
+       "n": 4,
+       "answer": "E"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "M"
+      }
+     ],
+     "source": "http://pawprints.kashalinka.com/anecdotes/sir-winston-churchill"
+    },
+    {
+     "id": "2025-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a text about how the celebration of birthdays has become popular during history. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-17).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "ORIGINS OF BIRTHDAYS",
+     "body": [
+      "The celebration of the anniversary of one's birth is a phenomenon of modern {{0}} society. It is connected to the {{9}} of a scientific way of thinking and to new attitudes about children and childhood.",
+      "The perfection of the calendar by the Egyptians and Mesopotamians {{10}} people to calculate exact birth dates, but ancient and classical cultures rarely celebrated birthdays, except for those of {{11}}. By the mid-nineteenth century, the official collection of demographic data and the recording of birth and baptismal dates in family bibles made more ordinary people identify their birthday.",
+      "New attitudes about the worth and special qualities of children helped to transform birthdays into special occasions in the late nineteenth century. By the 1870s, {{12}} families were holding children's birthday parties. Soon, parties and cakes became popular among rural and working-class families as well. Customs such as {{13}} for something before blowing out the candles of the birthday cake {{14}} fast too.",
+      "As the twentieth century progressed, commercial interests {{15}} responded to the new {{16}} of birthday celebrations, especially for children. Birthday cards were adapted from the Christmas and greeting cards of the nineteenth century. Decorations, hats, party favors, and gift wrap became birthday essentials, and \"Happy Birthday to You\" became the most commonly {{17}} song in the English language. For children, their birthday remains one of the most important celebrations of the year and shows their special status in the family."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "industry",
+       "example": true,
+       "accept": [
+        "industrial"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "rise",
+       "accept": [
+        "rise"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "able",
+       "accept": [
+        "enabled"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "royal",
+       "accept": [
+        "royalty",
+        "royals"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "wealth",
+       "accept": [
+        "wealthy",
+        "wealthier"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "wish",
+       "accept": [
+        "wishing"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "spread",
+       "accept": [
+        "spread"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "increase",
+       "accept": [
+        "increasingly"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "popular",
+       "accept": [
+        "popularity"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "perform",
+       "accept": [
+        "performed"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2025-okt-emelt-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about Magna Carta (‘Great Charter’), a very important document in English history. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (18-25) in the text."
+     ],
+     "title": "MAGNA CARTA",
+     "body": [
+      "Magna Carta is an important piece of English history where the rights of individuals are protected {{0}} the power of the King or Queen. It was signed on 15 June 1215 {{18}} the barons of Medieval England and King John.",
+      "King John {{19}} himself very unpopular during his reign by his constant demands for money. The leading barons tried to set limits on his powers by drawing up Magna Carta, {{20}} they captured London during a protest against John’s tax policies. The document was a series of written promises between the king and his subjects that the king would govern England and deal with its people {{21}} to feudal law. It was a last attempt to stop a civil war.",
+      "However, signing Magna Carta didnˈt bring peace to England and her people. King John found the terms in the document unacceptable. He {{22}} signed it to keep peace with the rebel barons - to buy time - and did not keep {{23}} what he agreed to. Civil war broke out in England.",
+      "{{24}} Magna Carta is a significant document in the evolution of civil rights and is considered {{25}} the first document of human freedom. It placed England on the road to a democratic state and introduced the lawyers in England to the concept of Human Rights as we know it now."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "with"
+        },
+        {
+         "key": "B",
+         "text": "for"
+        },
+        {
+         "key": "C",
+         "text": "against"
+        },
+        {
+         "key": "D",
+         "text": "in"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "under"
+        },
+        {
+         "key": "B",
+         "text": "between"
+        },
+        {
+         "key": "C",
+         "text": "with"
+        },
+        {
+         "key": "D",
+         "text": "among"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "made"
+        },
+        {
+         "key": "B",
+         "text": "was making"
+        },
+        {
+         "key": "C",
+         "text": "has made"
+        },
+        {
+         "key": "D",
+         "text": "was made"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "unless"
+        },
+        {
+         "key": "B",
+         "text": "until"
+        },
+        {
+         "key": "C",
+         "text": "while"
+        },
+        {
+         "key": "D",
+         "text": "after"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "related"
+        },
+        {
+         "key": "B",
+         "text": "according"
+        },
+        {
+         "key": "C",
+         "text": "owing"
+        },
+        {
+         "key": "D",
+         "text": "due"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "nearly"
+        },
+        {
+         "key": "B",
+         "text": "already"
+        },
+        {
+         "key": "C",
+         "text": "only"
+        },
+        {
+         "key": "D",
+         "text": "rather"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "off"
+        },
+        {
+         "key": "B",
+         "text": "up"
+        },
+        {
+         "key": "C",
+         "text": "to"
+        },
+        {
+         "key": "D",
+         "text": "on"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "Still,"
+        },
+        {
+         "key": "B",
+         "text": "Besides,"
+        },
+        {
+         "key": "C",
+         "text": "Therefore"
+        },
+        {
+         "key": "D",
+         "text": "Otherwise"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "to being"
+        },
+        {
+         "key": "B",
+         "text": "being"
+        },
+        {
+         "key": "C",
+         "text": "be"
+        },
+        {
+         "key": "D",
+         "text": "to be"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2025-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the invention of cash machines. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE CASH MACHINE",
+     "intro": "John Shepherd-Barron came up with the idea of cash machines in 1965 while lying in his bath after finding his bank closed.",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "He always took out money on Saturdays, but this particular weekend,",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "he arrived one more minute late and found the bank doors locked.",
+       "answer": "more"
+      },
+      {
+       "n": 26,
+       "text": "As some part of his work in developing the self-service ATM, which",
+       "answer": "some"
+      },
+      {
+       "n": 27,
+       "text": "would rather pay out banknotes 24/7, Shepherd-Barron also had the",
+       "answer": "rather"
+      },
+      {
+       "n": 28,
+       "text": "whole idea of using personal identification numbers. Remembering his",
+       "answer": "whole"
+      },
+      {
+       "n": 29,
+       "text": "Army number, he originally intended to make PINs six digits long, but",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "reduced the number to four when his wife said that most of people",
+       "answer": "of"
+      },
+      {
+       "n": 31,
+       "text": "could not remember so many numbers though.",
+       "answer": "though"
+      },
+      {
+       "n": 32,
+       "text": "The model he chose in his mind for the cash machine was that type",
+       "answer": "type"
+      },
+      {
+       "n": 33,
+       "text": "of a chocolate vending machine, but he replaced all chocolate with cash.",
+       "answer": "all"
+      },
+      {
+       "n": 34,
+       "text": "Plastic bank cards had not been invented yet, so when early models",
+       "answer": "when"
+      },
+      {
+       "n": 35,
+       "text": "operated on the principle that a special cheque would be inserted in a",
+       "answer": null
+      }
+     ],
+     "outro": "machine which would then pay out. It paid out a maximum of £10 a time."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2025-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear a radio interview with Shakira, the famous Colombian singer, songwriter and dancer. Your task will be to give short answers to the questions below using the exact words you hear to continue the sentences we have begun for you.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_25okt_fl.mp3",
+      "start": 0,
+      "end": 495.7,
+      "clip": "hang/e_angol_25okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What brings Shakira the greatest satisfaction? It’s {{gap}}",
+       "accept": [
+        "writing a new song"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "What brings her the greatest joy? It’s her {{gap}}",
+       "key": "son’s / sons’ smile",
+       "keywords": [
+        [
+         "son’s",
+         "smile"
+        ],
+        [
+         "sons’",
+         "smile"
+        ],
+        [
+         "sons",
+         "smile"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "What three kinds of books are there on her bookshelf? They are {{gap}}, {{gap}} and {{gap}}",
+       "key": "poetry, history; art(s) (books) (A sorrend felcserélhető.)",
+       "keywords": [
+        [
+         "poetry",
+         "history",
+         "art"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What two things that Shakira loves to do might surprise people? She loves to {{gap}} and {{gap}}",
+       "key": "study history; visit museums (A sorrend felcserélhető.)",
+       "keywords": [
+        [
+         "study",
+         "history",
+         "visit",
+         "museums"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What does Shakira believe is the key to breaking the cycle of poverty? It’s early {{gap}}",
+       "key": "childhood development",
+       "keywords": [
+        [
+         "childhood",
+         "development"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "What two things are on her nightstand? Her {{gap}} and {{gap}}",
+       "key": "mobile phone / mobile / phone, (a piece of) chocolate",
+       "keywords": [
+        [
+         "mobile",
+         "chocolate"
+        ],
+        [
+         "phone",
+         "chocolate"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "What two things does she consider her beauty secret? Staying {{gap}} and {{gap}}",
+       "key": "rested (lots of) vitamin C (also acceptable: C-vitamin)",
+       "keywords": [
+        [
+         "rested",
+         "vitamin",
+         "c"
+        ],
+        [
+         "rested",
+         "c-vitamin"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "What is her secret talent? She can put her {{gap}}",
+       "key": "leg(s) over (her) head",
+       "keywords": [
+        [
+         "leg",
+         "over",
+         "head"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What superstition does she believe in? You mustn’t leave a(n) {{gap}}",
+       "key": "hat on (a) bed",
+       "keywords": [
+        [
+         "hat",
+         "bed"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What does Shakira think every woman should try once in her life? It’s {{gap}}",
+       "key": "falling in love without thinking",
+       "keywords": [
+        [
+         "falling",
+         "love",
+         "without",
+         "thinking"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(Az elfogadható válaszban az alábbi, vastagon szedett, a szövegben elhangzó szavaknak feltétlenül szerepelniük kell! Ha a jelölt megismétli a feladatban már megadott szavakat, a válasz ettől még értékelhető.)"
+     }
+    },
+    {
+     "id": "2025-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear the story of how the umbrella arrived in Britain.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_25okt_fl.mp3",
+      "start": 495.7,
+      "end": 1101.17,
+      "clip": "hang/e_angol_25okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Jonas Hanway started to carry an umbrella in London in the middle of the 18th century.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Everyone found Hanway with his umbrella funny and laughed at him.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Hanway wanted to demonstrate that carrying an umbrella wasn’t unmanly at all.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "One of the reasons why umbrellas had a bad reputation in England was that they were popular in France.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Hansom cabs were drawn by horses, whereas sedan chairs were carried by porters.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Both hansom cabs and sedan chairs protected passengers from the rain.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Hansom cabs were more popular among Londoners than sedan chairs.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Hanway got so angry at the insults that he threw rubbish at the coach drivers.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "When a coach driver tried to run Hanway over, he didn’t fight back.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2025-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear a report about Colo, who was the world’s oldest zoo gorilla.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "e_angol_25okt_fl.mp3",
+      "start": 1101.17,
+      "end": 1795.48,
+      "clip": "hang/e_angol_25okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Colo passed away …",
+       "options": [
+        {
+         "key": "A",
+         "text": "after a complicated operation."
+        },
+        {
+         "key": "B",
+         "text": "shortly after her 60th birthday."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Colo …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was the world’s first gorilla born in a zoo."
+        },
+        {
+         "key": "B",
+         "text": "lived twenty years longer than an average gorilla is likely to live."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Colo’s parents were …",
+       "options": [
+        {
+         "key": "A",
+         "text": "kept in separate cages by order of the zoo director."
+        },
+        {
+         "key": "B",
+         "text": "put in the same cage by a young university student."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Warren Thomas was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "looking forward to the birth of Colo."
+        },
+        {
+         "key": "B",
+         "text": "the first to notice the newborn gorilla."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Warren Thomas …",
+       "options": [
+        {
+         "key": "A",
+         "text": "hit the baby’s back gently to make her breathe."
+        },
+        {
+         "key": "B",
+         "text": "gave the baby mouth-to-mouth breathing."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Colo was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "taken care of by her mother."
+        },
+        {
+         "key": "B",
+         "text": "put in a place specifically built for her."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The birth of Colo was so sensational that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the mayor of the city gave cigars to people."
+        },
+        {
+         "key": "B",
+         "text": "in 1957 about half a million people visited the zoo to see her."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Colo …",
+       "options": [
+        {
+         "key": "A",
+         "text": "used her food dish as a hat because she had got used to wearing hats as a baby."
+        },
+        {
+         "key": "B",
+         "text": "was recorded on videos crawling and playing with human babies."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Colo …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had more grandchildren than great-grandchildren."
+        },
+        {
+         "key": "B",
+         "text": "always loved to be in the company of other gorillas."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

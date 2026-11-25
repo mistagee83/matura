@@ -1,0 +1,1389 @@
+{
+ "formatVersion": 1,
+ "id": "2007-okt-kozep",
+ "year": 2007,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2007-10-29",
+ "code": "0622",
+ "sourceFiles": {
+  "paper": "2007. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_07okt_fl.pdf",
+  "key": "2007. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_07okt_ut.pdf",
+  "audio": "2007. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_07okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2007-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read this account of a school visit.",
+      "The paragraphs have been jumbled up.",
+      "Your task is to put them back in order.",
+      "Remember that there is an extra paragraph that you will not need."
+     ],
+     "title": "Top class children",
+     "body": [
+      "Last week I took a group of lively 9-year-olds to nearby Berkeley Castle. I felt that all were as well prepared as possible.",
+      "{{0}}",
+      "{{1}}",
+      "{{2}}\nWhen I asked them why, they replied: “We are not stepping on that carpet, Miss. Like you said, it’s old and we’d spoil it.”",
+      "{{3}}\nAll through the visit they behaved perfectly. Even when the guide told them that they could step over a rope to get a better view, they didn’t until I assured them that it was all right.",
+      "{{4}}",
+      "{{5}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "She led the way up the wide, main staircase, walking in the centre of the carpet. To my horror, my group formed themselves into a line, one behind the other, and crept up the very edge of the wooden steps."
+      },
+      {
+       "key": "B",
+       "text": "I pointed out that this particular carpet was not one of the antiques, but was told: “Ah, but it will be one day.”"
+      },
+      {
+       "key": "C",
+       "text": "I had talked about Edward II, had stressed the antiquity of the castle and all its valuable contents, and that nothing must be touched without permission. Our guide must be obeyed, so that nothing would be spoiled."
+      },
+      {
+       "key": "D",
+       "text": "One child’s report read: “I just had my best day ever. We saw lots of things. The lady let us over the barrier to see a special window. In it is a fly caught in some amber. It has been there for hundreds of years. I think it is dead.”"
+      },
+      {
+       "key": "E",
+       "text": "When an anxious parent telephoned later that day, I was able to reassure her that everybody was safe."
+      },
+      {
+       "key": "F",
+       "text": "Back at school they needed no urging to make a record of a most enjoyable and instructive day."
+      },
+      {
+       "key": "G",
+       "text": "At the entrance we were met by a very kind lady who said that she would take us around the castle and explain anything the children wanted to know."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this magazine article on Hungarian wine.",
+      "Your task is to choose the answers that are nearest in meaning to what the article says.",
+      "Write the appropriate letters in the white boxes next to the numbers."
+     ],
+     "title": "Wine – Focus on Hungary",
+     "body": [
+      "33-year-old Sam Harrop is one of the youngest Masters of Wine in the world (one of just 245). In this monthly column, Sam focuses on Hungary.",
+      "Believe it or not Hungary is producing some high quality wines: it’s a region that’s especially worth a look at if you want tasty wines that don’t necessarily cost the earth. There are 22 wine regions in Hungary and the variation in wine styles produced is pretty impressive. From Methode Champenoise styles to fruity dry whites and reds, to some of the sweetest wines on the planet – there’s something for everyone.",
+      "One of the biggest difficulties for consumers though can be reading the labels on the bottles. But as there are a growing number of English labels on the market, it is possible to go shopping without a translator.",
+      "Of the 22 tongue twisting regions the most well-known is unquestionably the region of Tokaj-Hegyalja, which produces some of the most respected sweet wines in the world. In the 16th century, the European royal families drank Tokaji and ever since it’s taken a special place in all the great wine cellars of the world. There are many other wine regions worth visiting including Villány, Somló (quite rustic and traditional wines), Neszmély and Eger (home of the famous Bull’s Blood red wine).",
+      "The wine regions in Hungary are situated in some of the most beautiful areas of the country so visiting them will, at the very least, ensure you get a few great photos to take back home. Another interesting aspect of the wine lands is that a lot of the wine-making towns have impressive ancient underground cellars. Exploring these cellars can be a lot of fun and it can be a great day out for holidaymakers."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Sam Harrop’s article is worth reading because",
+       "options": [
+        {
+         "key": "A",
+         "text": "he has been to all the top wine regions in the world."
+        },
+        {
+         "key": "B",
+         "text": "he is one of the world’s top wine experts."
+        },
+        {
+         "key": "C",
+         "text": "he has a monthly column in this magazine."
+        },
+        {
+         "key": "D",
+         "text": "this month he writes about Hungarian wines."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Sam Harrop says that",
+       "options": [
+        {
+         "key": "A",
+         "text": "Hungary is well-known for its high quality wines."
+        },
+        {
+         "key": "B",
+         "text": "the best thing about Hungarian wines is that they are cheap."
+        },
+        {
+         "key": "C",
+         "text": "good quality Hungarian wines can be bought at reasonable prices."
+        },
+        {
+         "key": "D",
+         "text": "the best Hungarian wines are pretty expensive."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "He suggests that",
+       "options": [
+        {
+         "key": "A",
+         "text": "there are too many wine-growing regions in Hungary."
+        },
+        {
+         "key": "B",
+         "text": "there is a very wide range of wines in Hungary."
+        },
+        {
+         "key": "C",
+         "text": "Methode Champenoise style means dry white or red."
+        },
+        {
+         "key": "D",
+         "text": "sweet Hungarian wines are a little too sweet."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "In connection with Hungarian wines he says that",
+       "options": [
+        {
+         "key": "A",
+         "text": "it may be difficult for foreigners to read the labels."
+        },
+        {
+         "key": "B",
+         "text": "it is a good idea to go shopping with a translator."
+        },
+        {
+         "key": "C",
+         "text": "English labels are getting bigger these days."
+        },
+        {
+         "key": "D",
+         "text": "bottles with English labels are easier to sell."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Tokaji",
+       "options": [
+        {
+         "key": "A",
+         "text": "has been famous since the 16th century."
+        },
+        {
+         "key": "B",
+         "text": "was originally only drunk by royal families."
+        },
+        {
+         "key": "C",
+         "text": "can be found in every cellar in the world."
+        },
+        {
+         "key": "D",
+         "text": "is the most famous sweet wine in the world."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Visiting a wine growing region is",
+       "options": [
+        {
+         "key": "A",
+         "text": "a waste of time if you don’t like wine."
+        },
+        {
+         "key": "B",
+         "text": "the best way to find out what Hungary is really like."
+        },
+        {
+         "key": "C",
+         "text": "a great idea but only if you have a camera with you."
+        },
+        {
+         "key": "D",
+         "text": "enjoyable for more than one reason."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "Read these simple rules for a happy and contented life.",
+      "The subtitles have been removed from the text.",
+      "Your task is to match the subtitles to the text.",
+      "Write the appropriate letters in the white boxes next to the numbers as in the example (0).",
+      "Remember that there is an extra letter that you do not need."
+     ],
+     "title": "The key to a fulfilling life",
+     "body": [
+      "{{0}}\n: It releases feel-good chemicals and attracts other people.",
+      "{{11}}\n: Hairdressers are the most content, then clergy, chefs, beauticians, plumbers and mechanics.",
+      "{{12}}\n: Add meaning to your life by singing in a choir, going to art classes or doing charity work.",
+      "{{13}}\n: Couples in happy relationships exchange much more emotional information than those who are not.",
+      "{{14}}\n: Keep in regular contact with them.",
+      "{{15}}\n: The average mood watching sitcoms is one of mild depression. People who are active have been proved to be happier.",
+      "{{16}}\n: Exercise produces feelings of euphoria.",
+      "{{17}}\n: They increase levels of serotonin, which regulates mood. Good-mood foods are pasta, oatcakes and fruit."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Eat carbohydrates"
+      },
+      {
+       "key": "B",
+       "text": "Volunteer"
+      },
+      {
+       "key": "C",
+       "text": "Smile"
+      },
+      {
+       "key": "D",
+       "text": "Stop watching TV"
+      },
+      {
+       "key": "E",
+       "text": "Don’t just sit back and wait"
+      },
+      {
+       "key": "F",
+       "text": "Talk to your partner for an hour a day"
+      },
+      {
+       "key": "G",
+       "text": "Choose a happy profession"
+      },
+      {
+       "key": "H",
+       "text": "Invest in your friends"
+      },
+      {
+       "key": "I",
+       "text": "Walk a mile a day"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "F"
+      },
+      {
+       "n": 14,
+       "answer": "H"
+      },
+      {
+       "n": 15,
+       "answer": "D"
+      },
+      {
+       "n": 16,
+       "answer": "I"
+      },
+      {
+       "n": 17,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this article on driving and then read the statements following it.",
+      "If a statement is true, mark it A.",
+      "If it is false, mark it B.",
+      "If, on the basis of the article, it cannot be decided if it is true or not, mark it C. Write the letters in the white boxes next to the numbers as in the example."
+     ],
+     "title": "Back to school for speeding drivers",
+     "body": [
+      "Motorists to be offered a day in class as an alternative to penalty points",
+      "Motorists caught exceeding the speed limit will be able to avoid the traditional penalty points by spending a day in the classroom.",
+      "First-time speeders breaking the limit will be invited to pay £60 – the same as a fine – to take a speed awareness course, it was announced yesterday.",
+      "Those who take up the offer will not have points put on their licence. More than 52,000 speeders in Lancashire, where the scheme has been tested for three years, took up the offer.",
+      "Police said the aim of the ‘one last chance’ initiative was to win back public support after the Government’s controversial speed camera policy, which critics say is a money- making exercise. More than two million motorists were fined £60 and penalised with three points on their licence last year after being snapped by Britain’s 6,000 cameras.",
+      "The scheme was launched yesterday by Richard Brunstrom of the Association of Chief Police officers, as he chaired a national road policing conference in Birmingham. Mr Brunstrom said: ‘If I have any regret, it is that we didn’t start these speed awareness courses earlier. In retrospect, I wish we’d done it at the start.’",
+      "He claimed that up to 30 per cent of drivers who are offered the course will take it. The courses comprise classroom and practical driving lessons teaching errant drivers the danger of breaking the limit. Motorists will take a two-hour and a half-hour lesson identifying what causes them to ignore the limit, the consequences of speeding, followed by up to three hours of practical training and exercises behind the wheel with an advanced driving instructor. Motorists can only take one course in three years. Mr Brunstrom said: ‘A national scheme means you could get done for speeding in Devon, but take your course in Edinburgh.’"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Speeding drivers are offered driving lessons as well as given penalty points.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Speed awareness lessons will cost as much as a fine.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "During a trial period many drivers have decided to go on the course.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Lancashire was chosen for the test because more drivers are caught there than in other areas.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The police don’t think they can win back public support.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "The Government will use the money made with speed cameras to finance the new scheme.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Mr Brunstrom believes they have chosen the best time to introduce the scheme.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "He is optimistic about the future of the scheme.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "During the course participants will spend almost as much time in the classroom as in the car.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Most motorists taking part in the course have found it useful and enjoyable.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "Drivers will have to take a speed awareness course near where they were caught.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 19,
+   "maxExamPoints": 18,
+   "omitted": [
+    {
+     "number": 1,
+     "points": 6,
+     "reason": "kimaradó feladattípus"
+    }
+   ],
+   "originalMaxTaskPoints": 25,
+   "tasks": [
+    {
+     "id": "2007-okt-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a humorous story. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (7-16) in the text."
+     ],
+     "title": "SUPER GRANNY",
+     "body": [
+      "An elderly Florida lady did her shopping, and upon returning to her car, {{0}} four men in the act of leaving with her vehicle. She {{7}} her shopping bags and drew her handgun, proceeding to scream {{8}}, \"I have a gun, and I know {{9}} use it! Get out of the car!\"",
+      "The four men {{10}} for a second invitation. They got out and ran like mad. The lady, somewhat shaken, then continued to load her shopping bags into the back of the car and got into the driver's seat. She was {{11}} upset that she could not get her key into the ignition. She tried and tried, and then she understood {{12}}. A few minutes later she found {{13}} car parked four or five spaces farther down. She loaded her bags into the car and then drove to the police station. The sergeant to whom {{14}} nearly tore himself in two with laughter. He pointed to the other end of the counter, where four pale men {{15}} a carjacking by a mad, elderly woman described as white, {{16}} five feet tall, glasses, curly white hair, and carrying a large handgun.",
+      "No charges were filed."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "founded"
+        },
+        {
+         "key": "B",
+         "text": "could find"
+        },
+        {
+         "key": "C",
+         "text": "found"
+        },
+        {
+         "key": "D",
+         "text": "have found"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "dropped"
+        },
+        {
+         "key": "B",
+         "text": "was dropping"
+        },
+        {
+         "key": "C",
+         "text": "threw"
+        },
+        {
+         "key": "D",
+         "text": "was throwing"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "soundly"
+        },
+        {
+         "key": "B",
+         "text": "from top to bottom"
+        },
+        {
+         "key": "C",
+         "text": "very loud"
+        },
+        {
+         "key": "D",
+         "text": "at the top of her voice"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "how to"
+        },
+        {
+         "key": "B",
+         "text": "that I"
+        },
+        {
+         "key": "C",
+         "text": "how should"
+        },
+        {
+         "key": "D",
+         "text": "that you"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "didn’t expect"
+        },
+        {
+         "key": "B",
+         "text": "didn't wait"
+        },
+        {
+         "key": "C",
+         "text": "waited"
+        },
+        {
+         "key": "D",
+         "text": "expected"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "but"
+        },
+        {
+         "key": "B",
+         "text": "such"
+        },
+        {
+         "key": "C",
+         "text": "badly"
+        },
+        {
+         "key": "D",
+         "text": "so"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "who"
+        },
+        {
+         "key": "B",
+         "text": "them"
+        },
+        {
+         "key": "C",
+         "text": "why"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "own"
+        },
+        {
+         "key": "B",
+         "text": "her own"
+        },
+        {
+         "key": "C",
+         "text": "hers"
+        },
+        {
+         "key": "D",
+         "text": "own her"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "the story told"
+        },
+        {
+         "key": "B",
+         "text": "was told"
+        },
+        {
+         "key": "C",
+         "text": "she spoke about"
+        },
+        {
+         "key": "D",
+         "text": "she told the story"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "could report"
+        },
+        {
+         "key": "B",
+         "text": "reported"
+        },
+        {
+         "key": "C",
+         "text": "were reporting"
+        },
+        {
+         "key": "D",
+         "text": "would report"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "less than"
+        },
+        {
+         "key": "B",
+         "text": "fewer than"
+        },
+        {
+         "key": "C",
+         "text": "mainly"
+        },
+        {
+         "key": "D",
+         "text": "higher than"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a talking parrot. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (17-25).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "There might be cases where you do not have to change the word in brackets.",
+      "Write only one word in each space."
+     ],
+     "title": "PARROT KEPT INDOORS",
+     "body": [
+      "It is proving to be a social {{0}} for the Warwickshire Wildlife Sanctuary in Nuneaton that one of their parrots has a rather {{17}} vocabulary.",
+      "Barney, a five-year-old macaw parrot, has no respect for authority. He has used dirty words in front of respectable people such as the Mayor and the vicar. He has also told several charity {{18}} what he thought of them.",
+      "Sanctuary volunteer Stacey Clark said Barney once belonged to a lorry {{19}}. \"We tend to keep him indoors, away from the public. But everybody seems to accept his behaviour with a {{20}},\" she said. \"He has got a lot of character and he does say thank you when he gets a treat so he can be polite. He is {{21}} and very friendly, too.\"",
+      "Some of the sayings he likes to repeat include \"hello big boys\" and \"where have you been?\" But his {{22}} words are mainly unrepeatable. Geoff Green, the {{23}} of Wildlife Sanctuary, said he had one rude word which he especially liked to say over and over again.",
+      "He added he had seen neighbours and passers-by duck and look around {{24}} when they passed the window and heard the swearing from within. \"He only seems to swear when you don't want him to,\" he added. \"We usually keep him inside, away from any {{25}}. He seems to know which people he shouldn't swear in front of and so he goes and does so.\" Barney was given to the sanctuary a year ago."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "embarrass",
+       "example": true,
+       "accept": [
+        "embarrassment"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "colour",
+       "accept": [
+        "colourful",
+        "colorful"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "work",
+       "accept": [
+        "workers"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "drive",
+       "accept": [
+        "driver"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "smile",
+       "accept": [
+        "smile"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "cheer",
+       "accept": [
+        "cheerful",
+        "cheery"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "favour",
+       "accept": [
+        "favourite",
+        "favorite"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "own",
+       "accept": [
+        "owner"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "surprise",
+       "accept": [
+        "surprised"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "visit",
+       "accept": [
+        "visitors"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2007-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear about the life and work of Jane Goodall, a famous British conservationist.",
+      "Your task is to complete the sentences with one word or number.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_07okt_fl.mp3",
+      "start": 0,
+      "end": 701.4,
+      "clip": "hang/k_angol_07okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Jane got a toy {{gap}} for her second birthday.",
+       "accept": [
+        "chimpanzee"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Jane loved reading The {{gap}} Book and the Tarzan books.",
+       "accept": [
+        "jungle"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Jane had a job with a(n) {{gap}} film company in England.",
+       "accept": [
+        "documentary"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "To save money, she worked as a(n) {{gap}}.",
+       "accept": [
+        "waitress"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "In Kenya, she became Dr Louis Leakey’s {{gap}}.",
+       "accept": [
+        "assistant"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Jane was {{gap}} years old when she arrived in Tanganyika.",
+       "accept": [
+        "26",
+        "twenty-six"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "One day in October {{gap}}, Jane saw two chimps strip leaves off twigs.",
+       "accept": [
+        "1960",
+        "nineteen sixty"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Jane gave evidence that chimps are able to make {{gap}}.",
+       "accept": [
+        "tools"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Dr Leakey said we might have to think of chimps as {{gap}}.",
+       "accept": [
+        "humans"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Today Jane travels more than {{gap}} days a year.",
+       "accept": [
+        "300",
+        "three hundred"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2007-okt-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear a joke about beer and brothers.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_07okt_fl.mp3",
+      "start": 701.4,
+      "end": 1240.95,
+      "clip": "hang/k_angol_07okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The narrator heard this joke ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "a long time ago."
+        },
+        {
+         "key": "B",
+         "text": "from his father."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Sean …",
+       "options": [
+        {
+         "key": "A",
+         "text": "sits at a table alone."
+        },
+        {
+         "key": "B",
+         "text": "asks for a pint of beer."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The barman …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is surprised."
+        },
+        {
+         "key": "B",
+         "text": "thinks his business will improve."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Sean …",
+       "options": [
+        {
+         "key": "A",
+         "text": "drinks all three pints of beer."
+        },
+        {
+         "key": "B",
+         "text": "is in a hurry."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The following Saturday, the barman …",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn't want to serve Sean."
+        },
+        {
+         "key": "B",
+         "text": "gives Sean some advice."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Sean has a brother in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Australia."
+        },
+        {
+         "key": "B",
+         "text": "America."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The brothers decided to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "spend a lot of time in pubs."
+        },
+        {
+         "key": "B",
+         "text": "think of each other when drinking beer."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Sean …",
+       "options": [
+        {
+         "key": "A",
+         "text": "goes to the pub once a week."
+        },
+        {
+         "key": "B",
+         "text": "enjoys the company of the other regulars."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The barman …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had a brother who died."
+        },
+        {
+         "key": "B",
+         "text": "thinks Sean has lost one of his brothers."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear Harold Baker, a guide who is offering some tourists a trekking experience.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_07okt_fl.mp3",
+      "start": 1240.95,
+      "end": 1796.76,
+      "clip": "hang/k_angol_07okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Bali is a(n) ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "island."
+        },
+        {
+         "key": "B",
+         "text": "country."
+        },
+        {
+         "key": "C",
+         "text": "town."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "The tour starts at ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "7:30."
+        },
+        {
+         "key": "B",
+         "text": "8:30."
+        },
+        {
+         "key": "C",
+         "text": "9:30."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The bus drive lasts for ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "half an hour."
+        },
+        {
+         "key": "B",
+         "text": "an hour."
+        },
+        {
+         "key": "C",
+         "text": "an hour and a half."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Taro ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is in northern Bali."
+        },
+        {
+         "key": "B",
+         "text": "has a traditional way of life."
+        },
+        {
+         "key": "C",
+         "text": "is one thousand years old."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "In Taro, you can see some sacred ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "animals."
+        },
+        {
+         "key": "B",
+         "text": "trees."
+        },
+        {
+         "key": "C",
+         "text": "rocks."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "In the Elephant Safari Park, tourists can ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "ride on Sumatran elephants."
+        },
+        {
+         "key": "B",
+         "text": "feed Sumatran elephants."
+        },
+        {
+         "key": "C",
+         "text": "see Sumatran elephants close by."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Tourists walk past ... plantations.",
+       "options": [
+        {
+         "key": "A",
+         "text": "coconut"
+        },
+        {
+         "key": "B",
+         "text": "tea"
+        },
+        {
+         "key": "C",
+         "text": "sugar"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Tourists have lunch …",
+       "options": [
+        {
+         "key": "A",
+         "text": "in a restaurant."
+        },
+        {
+         "key": "B",
+         "text": "on the bus."
+        },
+        {
+         "key": "C",
+         "text": "back in the hotel."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "The price includes …",
+       "options": [
+        {
+         "key": "A",
+         "text": "free parking."
+        },
+        {
+         "key": "B",
+         "text": "insurance."
+        },
+        {
+         "key": "C",
+         "text": "dinner at the hotel."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

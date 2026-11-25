@@ -1,0 +1,1429 @@
+{
+ "formatVersion": 1,
+ "id": "2006-maj-emelt",
+ "year": 2006,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2006-05-11",
+ "code": "0611",
+ "sourceFiles": {
+  "paper": "2006. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06maj_fl.pdf",
+  "key": "2006. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06maj_ut.pdf",
+  "audio": "2006. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2006-maj-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about ways to avoid stress.",
+      "In the sentences that follow the text there are some gaps.",
+      "Your task is to fill the gaps with one word so that the sentences correspond to what the text says.",
+      "Contractions (e.g. don’t) count as one word.",
+      "Write the words on the lines."
+     ],
+     "title": "Stress-busters in your home",
+     "body": [
+      "Dust off those old records; a new study has revealed that your classical collection could be beneficial to your health. Apparently sedate music can induce a state of calm by slowing your breathing and heart rate. But what other stress-busters are there in your home?",
+      "It's good to talk Good friends are just a phone call away. Talking with friends is a great stress relief, for as the old saying goes, 'a problem shared is a problem halved.' Talking to people who are positive rather than critical and judgmental will help to lift your mood. Several studies show that laughter produces endorphins, natural chemicals that ease pain and produce a feeling of euphoria, helping us cope with physical stress and chronic pain.",
+      "Puppy love Researchers in the United States have found that spending time with pets is very effective at reducing stress. The scientists from the University of New York at Buffalo studied 240 married couples, half of whom had a dog or cat. They found that people with pets had lower resting heart rates and blood pressure than those without a cat or dog. They also found that pet owners reacted less to the difficult tasks they were set and their heart rates and blood pressure returned to normal levels more quickly.",
+      "Bathtime Warm water relaxes the muscles and helps ease the aches and pains of the day. Raising the temperature of our bodies stimulates the production of white blood cells, which strengthens the immune system - one of the first systems to suffer when we are stressed. Hot water also encourages sweating which helps to remove toxins from the body.",
+      "Mood lighting A home should be lit to create a sense of comfort and intimacy. Side lights and dimmers can make a much warmer and calmer environment than harsh overhead lighting. And why not indulge yourself in the most beautiful light of all? Candlelight. There's nothing more tranquil.",
+      "Sweet dreams Sleep is essential for nourishing the mind and body so you are ready to spring into the next day anew. Make sure you get a good night's sleep and enjoy tomorrow.",
+      "According to a new study listening to classical music may actually do your health a lot of {{0}}.",
+      "You will see that {{1}} of your problem has disappeared after speaking to a friend about it.",
+      "If you have a problem it is not good to talk to somebody who will {{2}} you.",
+      "Half of the people who took part in a research project at the University of New York had a(n) {{3}}.",
+      "Pet owners remained {{4}} when they were asked to perform some difficult tasks.",
+      "Among other things, warm water is beneficial, because in reaction to heat our bodies will produce {{5}} white blood cells.",
+      "If lights in your home come from the {{6}}, it will be easier to relax.",
+      "If you want to be ready for tomorrow both {{7}} and physically, you must get enough sleep."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "good"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "half",
+        "fifty",
+        "50%",
+        "some",
+        "part",
+        "much"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "criticize",
+        "judge"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "pet",
+        "animal"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "calmer",
+        "calm",
+        "cooler",
+        "cool",
+        "relaxed",
+        "unstressed"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "more"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "side"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "mentally"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article on fare dodging, and then read the statements following it.",
+      "Your task is to decide if the statements correspond to the information in the article.",
+      "If a statement means exactly what the article says, mark it A.",
+      "If it means something different, mark it B.",
+      "If it cannot be decided on the basis of the article, mark it C. Look at the examples first."
+     ],
+     "title": "Metro Tries Card Scheme To Battle Fare Dodging",
+     "body": [
+      "The Moscow metro is updating its fare system once again. On Sunday, state-of-the-art smart cards will go on sale. The magnetic cards, which eventually will be issued to pensioners and all others entitled to ride free, will make it possible to count these passengers and help crack down on the large number of people who abuse the system. Passengers will only have to flash the cards within a few centimetres of the reading device, the yellow spot with a Moscow metro symbol already located on the turnstiles that accept tickets.",
+      "Moscow metro employees have been testing 35,000 cards since September of last year. “They are very good. Often there is no need to get them out of your pocket if you are wearing a coat -- just move the pocket up closer to the yellow circle,” said Galina Ibatulina, the chief of the Dynamo metro station. “Women can place the cards in an outside pocket of their handbags,” she said. However, the reading device is quite powerful, so it is probably not recommended to flash a purse with the card in front of the reading device if there are other magnetic cards in it.",
+      "Customers will be required to pay a small, so far unspecified deposit for the card itself. Once the card has expired, the deposit will be returned in exchange for the used card.",
+      "By next year, the new cards will replace all existing documents which allow certain categories of people to ride for free. Under the current system, these people show their passes to metro employees and bypass the turnstiles to enter the stations.",
+      "Out of the 9 million people who use the metro daily a whopping 30 percent are estimated to ride for free or at cut rates. Many buy fake identification cards. It is yet to be seen whether the smart cards will really work as a deterrent against fare dodging."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "stem": "The Moscow metro is going to have a more modern fare system.",
+       "answer": "A"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "stem": "People will be able to buy the smart cards from Monday.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Under the new system all passengers are going to use the cards.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "People will have to insert their cards into the reading device before entering the station.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Employees have been testing the cards at all the stations of the metro network.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "If your card is in your bag, it will definitely not work.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Passengers must be careful or the reading device may damage their credit cards.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "It is not yet known how much the cards will cost.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "By next year metro employees will not have to check the documents of people who travel free of charge.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Every day about one third of metro users travel free, but some of them do so illegally.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 6,
+     "instructions": [
+      "Read this passage on intelligent shoes and the sentences that follow it.",
+      "Your task is to choose the option that is nearest in meaning to what the article says."
+     ],
+     "title": "Smart shoes decide on television time",
+     "body": [
+      "Sports shoes that calculate whether their owner has done enough exercise to allow time in front of the television have been devised in the UK.",
+      "The shoes - dubbed Square Eyes - contain an electronic pressure sensor and a tiny computer chip to record how many steps the wearer has taken in a day. A wireless transmitter passes the information to a receiver connected to a television, and this decides how much evening viewing time the wearer deserves, based on the day's efforts.",
+      "The design was inspired by a desire to combat the rapidly ballooning waistlines among British teenagers, says Gillian Swan, who developed Square Eyes as a final year design project at Brunel University in London, UK. \"We took a thorough look at current issues and childhood obesity really stood out. I wanted to tackle that with my design.\"",
+      "Once a child has used up their daily allowance gained through exercise, the television automatically switches off. And further time in front of the TV can only be earned through more steps.",
+      "Daily amounts Swan calculated how exercise should translate to television time using the recommended daily amounts of both. Health experts suggest that a child should take 12,000 steps each day and watch no more than two hours of television. So, every 100 steps recorded by the Square Eyes shoes equates to precisely one minute of TV time.",
+      "The first prototype has two sensors in the sole - one that records steps and another, in the heel, that can be used to send data to the receiver with a firm stamp.",
+      "\"It's a good idea for integrating sensors into clothing,\" says Cliff Randall, at Bristol University, UK, who believes computers will routinely be built into garments in the future. But Randall says it will be more challenging to build a TV control unit that cannot easily be tricked. \"It's got to be easy to install and difficult to bypass,\" he adds.",
+      "Existing step counters normally clip onto a belt or slip into a pocket and keep count of steps by measuring sudden movement. Swan says these can be easily tricked into recording steps through shaking. But her shoe has been built to be harder for lazy teenagers to dupe. \"It is possible, but it would take a lot of effort,\" she says. \"That was one of my main design considerations.\""
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "These new design sports shoes can tell if",
+       "options": [
+        {
+         "key": "A",
+         "text": "you have studied enough."
+        },
+        {
+         "key": "B",
+         "text": "you have done enough sport."
+        },
+        {
+         "key": "C",
+         "text": "you want to watch TV."
+        },
+        {
+         "key": "D",
+         "text": "there are any British programmes on."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "The electronic sensor in Square Eyes",
+       "options": [
+        {
+         "key": "A",
+         "text": "determines how much TV you are allowed to watch."
+        },
+        {
+         "key": "B",
+         "text": "registers each step you take."
+        },
+        {
+         "key": "C",
+         "text": "must be plugged into the TV set every evening."
+        },
+        {
+         "key": "D",
+         "text": "sends data to the TV set."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Gillian Swan created Square Eyes",
+       "options": [
+        {
+         "key": "A",
+         "text": "without doing previous research."
+        },
+        {
+         "key": "B",
+         "text": "because she wanted to study design at university."
+        },
+        {
+         "key": "C",
+         "text": "because she thought obesity was a neglected problem."
+        },
+        {
+         "key": "D",
+         "text": "to help overweight teenagers."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 18,
+       "stem": "The TV automatically switches off",
+       "options": [
+        {
+         "key": "A",
+         "text": "and then you can only watch it again after doing some exercise."
+        },
+        {
+         "key": "B",
+         "text": "and then you can only watch it if you pay for it."
+        },
+        {
+         "key": "C",
+         "text": "after the period the parents allowed."
+        },
+        {
+         "key": "D",
+         "text": "after you have used it once that day."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "During the design process Swan",
+       "options": [
+        {
+         "key": "A",
+         "text": "needed to make some calculations as well as translations."
+        },
+        {
+         "key": "B",
+         "text": "decided that a child should not watch more than two hours of TV every day."
+        },
+        {
+         "key": "C",
+         "text": "set the shoes to record 100 steps every minute."
+        },
+        {
+         "key": "D",
+         "text": "took scientists’ recommendations into account."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "stem": "According to Cliff Randall",
+       "options": [
+        {
+         "key": "A",
+         "text": "Square Eyes are a good example of similar future inventions."
+        },
+        {
+         "key": "B",
+         "text": "Square Eyes have a built-in computer."
+        },
+        {
+         "key": "C",
+         "text": "TV control units are relatively easy to install."
+        },
+        {
+         "key": "D",
+         "text": "TV control units are easier to trick than Square Eyes shoes."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Square Eyes shoes",
+       "options": [
+        {
+         "key": "A",
+         "text": "count steps by recording rapid movements."
+        },
+        {
+         "key": "B",
+         "text": "will count steps if you shake them."
+        },
+        {
+         "key": "C",
+         "text": "can only be tricked through considerable effort."
+        },
+        {
+         "key": "D",
+         "text": "do not work with lazy teenagers."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read the following article about some treasure found on a remote Pacific island.",
+      "Parts of some sentences are missing.",
+      "Your task is to fill them in from the list below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "600 barrels of loot found on Crusoe island",
+     "body": [
+      "The archipelago {{0}}, but perhaps it should have been called Treasure Island. A long quest for treasure from the Spanish colonial era appears to be culminating in Chile {{22}} that they have found an estimated 600 barrels of gold coins and Incan jewels on the remote Pacific island.",
+      "\"The biggest treasure in history has been located,\" said Fernando Uribe, {{23}}, the Chilean company leading the search. He estimated the value of the buried treasure at US$10bn (£5.6bn).",
+      "The announcement also prompted speculation {{24}} what is considered to be one of the great lost treasures from the Spanish looting of South America. Chilean newspapers were filled with reports {{25}} 10 papal rings and original gold statues from the Incan empire.",
+      "The hoard is supposedly buried 15 metres (50ft) deep on Robinson Crusoe island, also known as the Juan Fernández island, {{26}}, the adventurer immortalised by Daniel Defoe as Robinson Crusoe. Selkirk was dumped on the island and lived alone for four years {{27}}. His exploits brought worldwide attention to the islands.",
+      "For centuries treasure hunters have scoured the island in search of valuables which were reportedly buried there in 1715 by a Spanish sailor. Using everything from old Spanish ship logs {{28}}, foreigners have made so many claims of discovering the lost treasure that islanders are usually sceptical of the announcements.",
+      "This most recent announcement, however, {{29}} because of the equipment used by the treasure hunters: a mini robot that can scan 50 metres deep into the earth. The robot, {{30}}, was invented by Chileans and over the past year has grabbed headlines by solving some of the country's biggest criminal mysteries. It is yet to be seen whether it works just as well as a treasure hunter."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "about the contents of"
+      },
+      {
+       "key": "B",
+       "text": "that it includes"
+      },
+      {
+       "key": "C",
+       "text": "is named after Robinson Crusoe"
+      },
+      {
+       "key": "D",
+       "text": "to announce the discovery"
+      },
+      {
+       "key": "E",
+       "text": "before being rescued"
+      },
+      {
+       "key": "F",
+       "text": "a lawyer for Wagner"
+      },
+      {
+       "key": "G",
+       "text": "to teams of islanders with shovels and picks"
+      },
+      {
+       "key": "H",
+       "text": "where Selkirk was born"
+      },
+      {
+       "key": "I",
+       "text": "with the announcement by a group of adventurers"
+      },
+      {
+       "key": "K",
+       "text": "deserves greater credit"
+      },
+      {
+       "key": "L",
+       "text": "home to Scottish sailor Alexander Selkirk"
+      },
+      {
+       "key": "M",
+       "text": "called \"Arturito\""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "answer": "I"
+      },
+      {
+       "n": 23,
+       "answer": "F"
+      },
+      {
+       "n": 24,
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "answer": "L"
+      },
+      {
+       "n": 27,
+       "answer": "E"
+      },
+      {
+       "n": 28,
+       "answer": "G"
+      },
+      {
+       "n": 29,
+       "answer": "K"
+      },
+      {
+       "n": 30,
+       "answer": "M"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2006-maj-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the traffic lights in New York. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "TRAFFIC-LIGHT BUTTONS",
+     "body": [
+      "I have hardly ever pushed the button. Maybe a few times over 20 years, when I was really {{0}} late and the traffic light seemed stuck on red. But {{1}} then, I knew in my heart that pushing the button was {{2}}. The button I speak of can be found at thousands of busy intersections here in New York City. Since the 1970s, the buttons have offered {{3}} a chance to exert some control over the universe. “To cross street,” a sign {{4}}, “push button. Wait for walk signal.” Just push, the sign promises, and the light will turn green, and the {{5}} will happen, the taxis and buses and trucks will stop. But in a stunning piece of investigative reporting, The New York Times {{6}} this week what we always suspected: More than 2,500 of the 3,250 buttons aren’t {{7}} to anything. Sometime in the late 1980s, the buttons {{8}} deactivated in favor of new, computer-controlled traffic signals.",
+      "For 15 years, no one in the city government ever {{9}} to mention this. But some of us knew all along. Sometimes I wanted to tell people that, {{10}} I stood on the corner and watched them push the button once, look up at the light, and hit it again. And again. Such touching faith."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AS"
+      },
+      {
+       "key": "B",
+       "text": "BOTHERED"
+      },
+      {
+       "key": "C",
+       "text": "CONNECTED"
+      },
+      {
+       "key": "D",
+       "text": "EVEN"
+      },
+      {
+       "key": "E",
+       "text": "HAVE"
+      },
+      {
+       "key": "F",
+       "text": "MEANWHILE"
+      },
+      {
+       "key": "G",
+       "text": "PEDESTRIANS"
+      },
+      {
+       "key": "H",
+       "text": "POINTLESS"
+      },
+      {
+       "key": "I",
+       "text": "REVEALED"
+      },
+      {
+       "key": "K",
+       "text": "RUNNING"
+      },
+      {
+       "key": "L",
+       "text": "SUGGESTS"
+      },
+      {
+       "key": "M",
+       "text": "UNBELIEVABLE"
+      },
+      {
+       "key": "N",
+       "text": "WERE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "K"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "answer": "M"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "N"
+      },
+      {
+       "n": 9,
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a humorous story. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-19) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "FINAL EXAM",
+     "body": [
+      "Two friends took Professor Bink’s Introductory Chemistry at Duke University. They did very well on all the mid-term papers, so they were not afraid of the final examination {{0}} all. The two guys were so confident {{11}} before the finals they decided to go to another town to party with some friends.",
+      "They did this and {{12}} a great time. However, with their tiredness, they overslept, and didn't make it back to Duke until Monday morning, when the exam {{13}} already started. They found Professor Bink, and explained to him where they had been and that they had planned {{14}} come back in time, but they had a flat tyre and didn't have a spare.",
+      "Bink {{15}} this over and agreed that they could take the final the following day. The two guys, relieved, went in the next day. Bink placed them in separate rooms and handed each of {{16}} a test booklet. He told them to begin.",
+      "They looked at the first problem, {{17}} was something very simple; it was worth 5 points. \"Cool,\" they thought, \"this is {{18}} to be an easy final\". They then turned the page. They were unprepared, however, for {{19}} they saw on it. The question contained only two words: (95 points) Which tyre?"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "that"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "thought",
+        "chewed"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "them"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "going",
+        "sure",
+        "bound",
+        "likely",
+        "guaranteed"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "what"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a popular TV series. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-29).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "WHY WE’VE ALL TURNED OFF BIG BROTHER",
+     "body": [
+      "As a student of body language I usually enjoy Big Brother because it is free of the artificiality of acted, {{0}} roles. These are real people, not particularly {{20}}, brought in off the street to represent our culture.",
+      "This year, however, I have found it {{21}} to watch. The people {{22}} appear to have been carefully chosen for their unpleasantness, vanity and exhibitionism. The idea, {{23}}, was that if a group of appalling and aggressive people were brought together, there would be fireworks – and that has indeed been the case.",
+      "Analysing more deeply why I {{24}} this year’s Big Brother so much, I came to the {{25}} that it was not, after all, primarily the coarseness, ignorance and immorality of the {{26}} that upset me, but rather their lack of {{27}} and kindness.",
+      "In the past, we have all watched and enjoyed comedies in which the characters are at times rude or ignorant, but we forgive them because somewhere just beneath the surface the scriptwriters have endowed them with {{28}} of spirit and kind- heartedness. By {{29}}, some of this year’s housemates were downright disgusting."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "script",
+       "example": true,
+       "accept": [
+        "scripted"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "talent",
+       "accept": [
+        "talented"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "hard",
+       "accept": [
+        "hard",
+        "harder"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "select",
+       "accept": [
+        "selected"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "obvious",
+       "accept": [
+        "obviously"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "like",
+       "accept": [
+        "disliked",
+        "dislike"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "conclude",
+       "accept": [
+        "conclusion"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "participate",
+       "accept": [
+        "participants"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "warm",
+       "accept": [
+        "warmth"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "generous",
+       "accept": [
+        "generosity"
+       ]
+      },
+      {
+       "n": 29,
+       "prompt": "compare",
+       "accept": [
+        "comparison"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a journalist’s childhood memories. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "MY SANTA",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "I was a perhaps 7, and when, sometime in December, my friend,",
+       "answer": "and"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "Dennis, brought me to their basement, and parted a pile of",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "cardboard boxes. There was a hidden pile of the toys - some trains,",
+       "answer": "the"
+      },
+      {
+       "n": 31,
+       "text": "books, dolls for his sister. “See?” he said. “I told you.” I felt very",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "unhappy for a day or else two, until I cracked under interrogation",
+       "answer": "else"
+      },
+      {
+       "n": 33,
+       "text": "and told my mother what had happened. Dennis was such wrong,",
+       "answer": "such"
+      },
+      {
+       "n": 34,
+       "text": "she insisted; it’s just now that sometimes Santa asks parents for a",
+       "answer": "now"
+      },
+      {
+       "n": 35,
+       "text": "little bit help. I said I believed her. But on a hunch, I later searched",
+       "answer": "bit"
+      },
+      {
+       "n": 36,
+       "text": "the big cupboard in my parents’ bedroom. Behind a stack of blue",
+       "answer": null
+      },
+      {
+       "n": 37,
+       "text": "towels I was found an airgun - the first item on my list to Santa.",
+       "answer": "was"
+      },
+      {
+       "n": 38,
+       "text": "That day something left me. In its place were two valuable",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "lessons: Don’t believe everything else you’re told. And when you’re",
+       "answer": "else"
+      },
+      {
+       "n": 40,
+       "text": "not sure, check in behind the towels.",
+       "answer": "in"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 29,
+    "27": 30
+   },
+   "tasks": [
+    {
+     "id": "2006-maj-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear a radio news item about the new punishment policies for certain criminals in Britain.",
+      "Your task is to fill in the missing words – one or two, depending on the gaps provided in each item.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_06maj_fl.mp3",
+      "start": 0,
+      "end": 542.36,
+      "clip": "hang/e_angol_06maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Lord Wolf is Britain's Lord {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "Chief"
+        ],
+        [
+         "Justice"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Lord Wolf's new guidance means that most {{gap}} {{gap}} will not have to go jail.",
+       "gaps": [
+        [
+         "first-time"
+        ],
+        [
+         "burglars"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Daniel Sandford is the radio station's {{gap}} {{gap}} correspondent.",
+       "gaps": [
+        [
+         "home"
+        ],
+        [
+         "affairs"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "It is a well known fact that Lord Wolf is seriously worried about the severe {{gap}} in Britain's prisons.",
+       "accept": [
+        "overcrowding"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "The new policy only refers to prison terms that do not exceed {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "18"
+        ],
+        [
+         "months"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Although prison sentences may have a deterrent {{gap}} in certain cases, re-offending rates are very high.",
+       "accept": [
+        "effect"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Lord Wolf says that {{gap}} sentences are cheaper and more effective than prison terms.",
+       "accept": [
+        "community",
+        "non-custodial"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "There is a likelihood that the new guidance will provoke {{gap}} in the British public.",
+       "accept": [
+        "uproar",
+        "dissent",
+        "controversy",
+        "opposition",
+        "anger"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "It has been emphasised that repeat {{gap}} will be sentenced to prison terms.",
+       "accept": [
+        "offenders"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2006-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you are going to hear some interesting information about a website.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_06maj_fl.mp3",
+      "start": 542.36,
+      "end": 1218.37,
+      "clip": "hang/e_angol_06maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The article was written by a famous journalist.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "Toby's owner has asked for £27,000 for the bunny's life.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "On the savetoby.com website, you can even see photographs of the bunny.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "Toby had been run over by a truck before he was found.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Toby's owner has said that he himself will kill the bunny.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Next to the recipes, there is a picture of Toby eating lettuce, tomatoes and salad.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The only way to send money to Toby's owner is buying something from the 90 items.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "Among the items on offer, the sweatshirts are the most expensive.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Savetoby.com says it has already collected almost £11,000.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The operator of the website gave an interview to The Washington Post.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "\"James\" and his business partner are very good friends.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "The death threats made \"James\" reconsider eating Toby.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "PayPal is an animal rights association website.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2006-maj-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with Cecily, a young American woman who has spent three years in Hungary.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in three sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your answers."
+     ],
+     "audio": {
+      "file": "e_angol_06maj_fl.mp3",
+      "start": 1218.37,
+      "end": 1797.3,
+      "clip": "hang/e_angol_06maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Cecily applied for a ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Fulbright Grant."
+        },
+        {
+         "key": "B",
+         "text": "major scholarship."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Cecily …",
+       "options": [
+        {
+         "key": "A",
+         "text": "applied for a scholarship to England as well."
+        },
+        {
+         "key": "B",
+         "text": "came to Hungary three years ago."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Cecily decided to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "do a bit of sight-seeing first."
+        },
+        {
+         "key": "B",
+         "text": "visit the countryside."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Cecily …",
+       "options": [
+        {
+         "key": "A",
+         "text": "brought her violin to Hungary."
+        },
+        {
+         "key": "B",
+         "text": "planned her trip very carefully."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Even though …, Cecily enjoyed the camp very much.",
+       "options": [
+        {
+         "key": "A",
+         "text": "they didn't have much time to play music"
+        },
+        {
+         "key": "B",
+         "text": "nobody spoke English"
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Cecily … in the camp.",
+       "options": [
+        {
+         "key": "A",
+         "text": "danced a lot"
+        },
+        {
+         "key": "B",
+         "text": "was taught to count in Hungarian"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "Cecily decided to return to Hungary …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the following year."
+        },
+        {
+         "key": "B",
+         "text": "after her graduation."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "This year, Cecily ... the Hungarian bagpipe.",
+       "options": [
+        {
+         "key": "A",
+         "text": "carried out a study about"
+        },
+        {
+         "key": "B",
+         "text": "learnt how to play"
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1483 @@
+{
+ "formatVersion": 1,
+ "id": "2011-okt-emelt",
+ "year": 2011,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2011-10-20",
+ "code": "1111",
+ "sourceFiles": {
+  "paper": "2011 - Emeltszintű októberi/e_angol_11okt_fl.pdf",
+  "key": "2011 - Emeltszintű októberi/e_angol_11okt_ut.pdf",
+  "audio": "2011 - Emeltszintű októberi/e_angol_11okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2011-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read these quotes from interviews with primary and secondary teachers.",
+      "Each quote has been cut into two. Your task is to match the two parts of the quotes.",
+      "Remember there are two extra letters that you do not need."
+     ],
+     "title": "BACK TO SCHOOL THINGS YOUR CHILD’S TEACHER WON’T TELL YOU",
+     "body": [
+      "*CEO: Chief Executive Officer"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "That’s the key to success in the classroom at any age."
+      },
+      {
+       "key": "B",
+       "text": "Instead, some will try to pressure us to bend the rules."
+      },
+      {
+       "key": "C",
+       "text": "There’s not a teacher alive who will say she went into this for the money."
+      },
+      {
+       "key": "D",
+       "text": "This will help you deal with conflicts in the coming school year."
+      },
+      {
+       "key": "E",
+       "text": "I would never think of going and telling them how to do their jobs."
+      },
+      {
+       "key": "F",
+       "text": "Disrespectful students and belligerent parents can be very frustrating."
+      },
+      {
+       "key": "G",
+       "text": "What they really crave is for you to talk to them. They want to know you are interested in their lives."
+      },
+      {
+       "key": "H",
+       "text": "However, parents and teachers are really on the same side."
+      },
+      {
+       "key": "I",
+       "text": "And then Mom will send in a note to back up the excuse."
+      },
+      {
+       "key": "K",
+       "text": "Especially when they are clueless in class the next day."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Teaching is a calling.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "I have parents who are CEOs* of their own companies coming in and telling me how to run my classroom.",
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "stem": "We can tell the difference between a parent helping their child with homework and doing it for them.",
+       "answer": "K"
+      },
+      {
+       "n": 3,
+       "stem": "Encourage your child to keep reading even if you yourself have no time for it.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Teaching is not as joyful as it once was for many of us.",
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "stem": "Parents give their kids the pricey gadgets and clothes, but that’s not what kids need.",
+       "answer": "G"
+      },
+      {
+       "n": 6,
+       "stem": "Nobody says “the dog ate my homework” any more, but we hear a lot of “I left it on the kitchen table.”",
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "stem": "We wish parents would make their kids take responsibility for their actions.",
+       "answer": "B"
+      }
+     ],
+     "source": "Readers Digest, October 2009"
+    },
+    {
+     "id": "2011-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about an unusual way of publishing poems and then read the sentences (8-14) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "POET HIJACKS ATLANTA STREETS WITH HAIKU* ADVERTISING CAMPAIGN",
+     "body": [
+      "Artist satirises roadside adverts by nailing his poetry to traffic lights and streetlamps across the city Artist John Morse has been peppering Atlanta’s road intersections with haikus, nailing his poetry to traffic lights and streetlamps in an attempt to provide commuters with “poetic snapshots of the urban condition”.",
+      "Mimicking the usual advertisements for weight loss and health insurance, Morse’s poems began appearing throughout the city last month. From the advice: “Lose ugly weight fast!!/ Feel Happier! Healthier!/ Dump your bigotry” to: “Meet local singles!!/ Easy: stand near others/ Hang up your cell phone” and: “Free debt counselling/ Take the important first step/ Beware signs like these”, the artist has written 10 different haikus, printed 50 copies of each and placed them at 500 locations across Atlanta.",
+      "“People read these bandit signs. They’ll read them if it’s about an electrician or they’ll read them if it’s about anything”, explained Morse. “So if they read it and they like it, great, if they read it and they don’t like it, great. But the fact is they’ll read it, they’re going to read my poetry and that’s my goal.",
+      "“There’s a great deal of bad in the world, and one of the few things that helps endure the cruelties of the world is art,” he said. “A little bit of art can do a great deal of good. And I want to spend my life doing something good … Will it be good? I don’t know. But I’m going to try.”",
+      "Backed by artist support group Flux Projects, which says the signs offer “compact observations and commentary on modern life”, the Roadside Haiku initiative is scheduled to run until the end of October. The haikus haven’t been welcomed by everyone, however: Peggy Denby of Keep Atlanta Beautiful described them as “litter on a stick” and told local news site wsbtv.com there would be fines if they weren’t taken down.",
+      "(http:/www.guardian.co.uk, September 2010)",
+      "*haiku: short poem"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "John Morse’s poems can be read at crossroads in Atlanta.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The haikus are mostly about beauty spots around the city.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "The poet makes his haikus resemble typical advertisements.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The idea for this campaign came to Morse years ago.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "The same haikus appear at various places in the city.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Morse is not sure people will read his poems.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "It is Morse’s belief that art has a social impact.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Flux Projects has backed similar initiatives in the city.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 11,
+     "instructions": [
+      "In this article, which compares British and French attitudes to health, some phrases are missing.",
+      "Your task is to fill in the gaps (15-25) from the list (A-O) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "A CURIOUSLY FRENCH COMPLAINT",
+     "body": [
+      "When I was a student, living in Avignon in the south of France, I remember waking up one morning shortly before Christmas, feeling shivery and as if someone had spent the night {{0}}. After a couple of days of wheezing and coughing, I took myself to the doctor and explained that I was feeling a bit ropey. One hour later I had been diagnosed with {{15}}, mild asthma and had in my hand a prescription for six different types of medicine, an appointment at the local hospital’s radiology department and an emergency referral to {{16}}.",
+      "The next day I flew home to the UK for the Christmas holidays where my worried parents persuaded me to visit their local GP {{17}}. After five minutes in his consulting room, I emerged empty-handed but {{18}}. I had a cold.",
+      "I am not suggesting that the French are a nation of hypochondriacs but they do {{19}} very seriously. Now they are ‘Anglicising’ the system, turning away from the indulgent “There, there” approach and moving towards a much more ‘Get along with you now’ {{20}}. It is not going down well: patients are deeply disappointed if they do not get a prescription after a visit to the doctor.",
+      "French malady There is one disease that only the Gallic {{21}}, and in fact it is one of the illnesses French people complain about most. Correct me if I am wrong, but have you ever heard a British person complain they are suffering from ‘heavy legs’? Fascinated by a malady to which British people appear immune, I went to my local pharmacy in Paris and asked the smiling young chemist if she could advise me on {{22}}. “Oh, bad luck,” she said indicating two entire shelves of pills and potions. “Do you get heavy legs in the winter too? I only suffer from them in the summer.”",
+      "Emergency treatment A couple of years back, while skiing in the Alps after a tiring stint in Afghanistan {{23}}, I noticed my legs were covered in small red spots and I was feeling lethargic. Could I finally have contracted the elusive heavy leg syndrome? “No!” said the alarmed French doctor, “you have a tropical illness and you need to go straight to hospital.” Laughing to myself at the typical Gallic solicitousness, I popped a Paracetamol and headed straight {{24}}.",
+      "Two days later, delirious with fever and covered in enormous black lumps, I was lying in the isolation unit of a London hospital, {{25}} what my test results would reveal.",
+      "Alarmed by my cries, a masked nurse popped her head around the door. “Oh for goodness sake,” she said brusquely. “Anyone would think you were dying. You’ve only got suspected leprosy.”",
+      "(BBC NEWS, 13/12/2008)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "a specialist in pulmonary disease"
+      },
+      {
+       "key": "B",
+       "text": "howling in pain and terrified of"
+      },
+      {
+       "key": "C",
+       "text": "sandpapering my throat"
+      },
+      {
+       "key": "D",
+       "text": "appear to be affected by"
+      },
+      {
+       "key": "E",
+       "text": "remedies for heavy legs"
+      },
+      {
+       "key": "F",
+       "text": "a severe lung infection"
+      },
+      {
+       "key": "G",
+       "text": "stiff upper lip attitude"
+      },
+      {
+       "key": "H",
+       "text": "with a new diagnosis"
+      },
+      {
+       "key": "I",
+       "text": "reporting for the BBC"
+      },
+      {
+       "key": "K",
+       "text": "for a second opinion"
+      },
+      {
+       "key": "L",
+       "text": "get signed off work"
+      },
+      {
+       "key": "M",
+       "text": "back to the slopes"
+      },
+      {
+       "key": "N",
+       "text": "reassure patients"
+      },
+      {
+       "key": "O",
+       "text": "take their health"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "answer": "K"
+      },
+      {
+       "n": 18,
+       "answer": "H"
+      },
+      {
+       "n": 19,
+       "answer": "O"
+      },
+      {
+       "n": 20,
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "answer": "D"
+      },
+      {
+       "n": 22,
+       "answer": "E"
+      },
+      {
+       "n": 23,
+       "answer": "I"
+      },
+      {
+       "n": 24,
+       "answer": "M"
+      },
+      {
+       "n": 25,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article about the winner of a TV quiz and then read the sentences (26-30) following it.",
+      "Your task is to decide which of the options A, B, C or D best completes each sentence based on what the text says."
+     ],
+     "title": "THE QUIZ QUEEN WHO MADE THEM TREMBLE",
+     "body": [
+      "The quiz master called it an “intellectual blitzkrieg” after Gail Trimble of Corpus Christi College, Oxford led her team to victory in the grand final of the University Challenge competition. Hailed as the brainiest woman on British television, the postgraduate classics student became a cult figure last week, with commentators divided over whether she was to be praised for her brilliance or denounced as “horribly smug”.",
+      "Laughing excitedly, Trimble, 26, repeatedly slammed her buzzer to address questions ranging from literature to science. Possibly the contest’s most successful ever contestant, she scored more right answers than any other participant − getting right over two thirds of all the questions. (“Which of Shakespeare’s plays is the only one to be set in Vienna and concerns the city’s Duke adopting a disguise?” “Measure for Measure.” “Which German bacteriologist gave his name to a shallow glass or plastic cylindrical dish that biologists use to culture cells?” “Petri.” “The name of the kingdom that according to Aristophanes was built by birds?” “Cloud Cuckoo Land.” etc.)",
+      "Tiny Corpus Christi College triumphed over Manchester University but it was the beating the team gave to Exeter University in the quarter final − described by the stunned question master as “less a quiz, more a cull” − that first brought the Trimble phenomenon to public attention.",
+      "Not all reaction has been pleasant, though. There have been some nasty comments, and she has been ridiculed on social networking sites for being too intellectual. Miss Trimble − bespectacled with long brown hair and a beaming smile − said she had been taken aback by the hostility after experiencing no such problems at school or university. Asked if she thought there was an element of sexism in it she said: “I’m sure this wouldn’t happen if I wasn’t a woman.”",
+      "Trimble, whose mother was a magistrate and father a BT manager, gained four A-levels at A grade and was always a brainbox. “I seemed to find school a lot easier than other people − I realised I was a bit different because my classmates were always asking for help with their homework.”",
+      "But there’s a lighter side too. She likes cooking, gin and tonic and The Simpsons∗ − and has a boyfriend of five years, Tom West, a trainee solicitor. Nonetheless, it’s not always easy having a massive brain. “I’ve had lots of issues about my self image − I try really hard not to come across as too clever.”",
+      "(The Sunday Times 01.03.2009)",
+      "∗ The Simpsons: humorous television cartoon programme"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The phrase “intellectual blitzkrieg” here means",
+       "options": [
+        {
+         "key": "A",
+         "text": "an intellectual disaster."
+        },
+        {
+         "key": "B",
+         "text": "an intellectual triumph."
+        },
+        {
+         "key": "C",
+         "text": "University Challenge."
+        },
+        {
+         "key": "D",
+         "text": "the winner of the quiz."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "Media reactions to Gail Trimble’s achievement were",
+       "options": [
+        {
+         "key": "A",
+         "text": "mixed."
+        },
+        {
+         "key": "B",
+         "text": "unanimous."
+        },
+        {
+         "key": "C",
+         "text": "mostly positive."
+        },
+        {
+         "key": "D",
+         "text": "mostly negative."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "What put Trimble above other quizzers was her",
+       "options": [
+        {
+         "key": "A",
+         "text": "background as a classical scholar."
+        },
+        {
+         "key": "B",
+         "text": "vast knowledge and fast recall."
+        },
+        {
+         "key": "C",
+         "text": "speed in slamming the buzzer."
+        },
+        {
+         "key": "D",
+         "text": "exceptional brain for a girl."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "From the quarter final on Trimble received a lot of publicity",
+       "options": [
+        {
+         "key": "A",
+         "text": "and she enjoyed it tremendously."
+        },
+        {
+         "key": "B",
+         "text": "and she was surprised by some of it."
+        },
+        {
+         "key": "C",
+         "text": "but she shrugged off nasty comments."
+        },
+        {
+         "key": "D",
+         "text": "but she took no interest in what people said."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "Trimble, who comes from a family of professionals,",
+       "options": [
+        {
+         "key": "A",
+         "text": "was a high achiever at school."
+        },
+        {
+         "key": "B",
+         "text": "looked down on less fortunate kids."
+        },
+        {
+         "key": "C",
+         "text": "was considered different by her mates."
+        },
+        {
+         "key": "D",
+         "text": "had problems at school despite her brain."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 30,
+       "stem": "It seems that",
+       "options": [
+        {
+         "key": "A",
+         "text": "Trimble and her boyfriend share many interests."
+        },
+        {
+         "key": "B",
+         "text": "her boyfriend, Tom West, is as brilliant as she is."
+        },
+        {
+         "key": "C",
+         "text": "Trimble doesn’t want others to find her too brainy."
+        },
+        {
+         "key": "D",
+         "text": "she is good at simple things such as cooking, too."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 41,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 15,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 18,
+    "25": 18,
+    "26": 19,
+    "27": 20,
+    "28": 20,
+    "29": 21,
+    "30": 22,
+    "31": 23,
+    "32": 23,
+    "33": 24,
+    "34": 25,
+    "35": 26,
+    "36": 26,
+    "37": 27,
+    "38": 28,
+    "39": 29,
+    "40": 29,
+    "41": 30
+   },
+   "tasks": [
+    {
+     "id": "2011-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about Mona Lisa. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-O) for each gap (1-11) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "THE SAD STORY OF MONA LISA",
+     "body": [
+      "Her famous smile has fascinated millions of art lovers {{0}} the woman in the Mona Lisa portrait had a far {{1}} glamorous end. Her remains were {{2}} away on an old rubbish dump, records show. The model painted by Leonardo da Vinci was almost certainly Lisa Gherardini, born in May 1479 in Florence, Italy, experts {{3}}. She became the second wife of silk merchant Francesco del Giocondo and was known as La Gioconda – the official {{4}} of the Mona Lisa painting. After Francesco’s death Lisa {{5}} a Franciscan convent and lived with the nuns {{6}} her death at the age of 63. A church funeral record shows that the wife of Francesco del Giocondo was {{7}} at Sant’Orsola in Florence in a crypt. However, the three- storey Sant’Orsola ceased to be {{8}} as a convent in 1810. During building works at the site in the 1980s its crypts were excavated and their {{9}} were dumped on a landfill site. ‘Sadly, no thought was {{10}} to the historical importance of the building,’ said Mona Lisa expert Giuseppe Pallanti. ‘It is sad that the tomb of Lisa Gherardini {{11}} without anyone realising it,’ he added.",
+      "( http://www.metro.co.uk/news)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BURIED"
+      },
+      {
+       "key": "B",
+       "text": "CLAIM"
+      },
+      {
+       "key": "C",
+       "text": "BUT"
+      },
+      {
+       "key": "D",
+       "text": "CONTENTS"
+      },
+      {
+       "key": "E",
+       "text": "CONTESTS"
+      },
+      {
+       "key": "F",
+       "text": "DEFINE"
+      },
+      {
+       "key": "G",
+       "text": "DISAPPEARED"
+      },
+      {
+       "key": "H",
+       "text": "ENTERED"
+      },
+      {
+       "key": "I",
+       "text": "GIVEN"
+      },
+      {
+       "key": "K",
+       "text": "LESS"
+      },
+      {
+       "key": "L",
+       "text": "THROWN"
+      },
+      {
+       "key": "M",
+       "text": "TITLE"
+      },
+      {
+       "key": "N",
+       "text": "UNTIL"
+      },
+      {
+       "key": "O",
+       "text": "USED"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "K"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "N"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "O"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "answer": "I"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a strange city council regulation. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (12-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SENSE OF HUMOUR FAILURE",
+     "body": [
+      "A council has banned staff from using mother-in-law jokes after declaring {{0}} sexist and disrespectful to “family elders”.",
+      "Despite surviving from Roman times, this kind of humour is {{12}} longer considered acceptable, according to officials at the London Borough of Barnet. The order {{13}} issued in a 12-page booklet entitled Cultural Awareness. It states: “Humour can obviously be incredibly culture-specific, and is very open to misinterpretation by other cultures. And don’t forget when you don’t know {{14}} people are laughing, it is very easy to imagine that they are laughing {{15}} you. British mother-in-law jokes, as well as offensively sexist, can also be seen as offensive on the grounds {{16}} they disrespect elders or parents.”",
+      "Barnet has been accused {{17}} being completely insane by writer John Sessions. Past comedians Les Dawson and Bob Monkhouse {{18}} probably turn in their graves if they heard about the restriction.",
+      "The earliest mother-in-law jokes date back to the first century AD, {{19}} Juvenal wrote in Satire VI: “It is impossible to be happy while one’s mother-in-law is still alive.” By the 20th century Bob Monkhouse’s stand-up routine included {{20}} jokes as: “My wife said ‘Can my mother come down for the weekend?’ So I said ‘Why?’ and she said: ‘Well, she’s been up on the roof for two weeks already’.”",
+      "(www.telegraph.co.uk/news)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "them"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "no"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "why"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "that"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "would"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "when"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "such"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about Chernobyl today. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (21-30).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "CHERNOBYLPLANTSENDURERADIOACTIVITY",
+     "body": [
+      "Scientists have {{0}} mechanisms that allow plants to thrive in {{21}} radioactive environments like Chernobyl. They analysed seeds from soybean and flax grown near the site of the Chernobyl nuclear reactor which exploded in 1986. The team says that plants may have an inborn {{22}} to cope with high levels of radioactivity. If disaster strikes, plants cannot move to better conditions - they either {{23}}, or die.",
+      "The scientists noted that there were probably historic reasons why it was a lot easier for plants to get used to living in increased levels of {{24}}. The reasons could go back millions of years. There was a lot more radioactivity on the surface back then than there is now, so when life was evolving, these plants came across radioactivity and they probably developed {{25}} mechanisms.",
+      "Then the unbelievable happened. The {{26}} of the Chernobyl nuclear power plant was said to be the worst nuclear disaster in human history. Scores of people died, hundreds suffered from terrible {{27}} due to exposure to radioactive materials. The entire population of the {{28}} city of Pripyat that housed the power plant's workforce was evacuated.",
+      "Many believed that the area would remain {{29}} for generations. Almost a quarter of a century later, Pripyat remains a ghost town. But despite {{30}} streets, the soil is not bare - plants have sprung back to life.",
+      "(http://www.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "cover",
+       "example": true,
+       "accept": [
+        "uncovered"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "high",
+       "accept": [
+        "highly"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "able",
+       "accept": [
+        "ability"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "adapt",
+       "accept": [
+        "adapt"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "radiate",
+       "accept": [
+        "radiation"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "survive",
+       "accept": [
+        "survival"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "explode",
+       "accept": [
+        "explosion"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "sick",
+       "accept": [
+        "sickness",
+        "sicknesses"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "industry",
+       "accept": [
+        "industrial"
+       ]
+      },
+      {
+       "n": 29,
+       "prompt": "life",
+       "accept": [
+        "lifeless"
+       ]
+      },
+      {
+       "n": 30,
+       "prompt": "desert",
+       "accept": [
+        "deserted"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about 3D television. In most lines there is one word that should not be there. Either it is grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "WORLD'S FIRST 3D TV WITHOUT GLASSES",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "The world's first 3D TV you can watch without glasses has hit",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "the market. Toshiba had unveiled the high-definition liquid crystal",
+       "answer": "had"
+      },
+      {
+       "n": 31,
+       "text": "display 3D television that does not require of the special glasses.",
+       "answer": "of"
+      },
+      {
+       "n": 32,
+       "text": "The company hopes this could not be the breakthrough that brings",
+       "answer": "not"
+      },
+      {
+       "n": 33,
+       "text": "3D TV to the masses. Whether consumers embrace the new TVs it",
+       "answer": "it"
+      },
+      {
+       "n": 34,
+       "text": "remains to be seen. Many might be put off by the fact that if they'll",
+       "answer": "if"
+      },
+      {
+       "n": 35,
+       "text": "have to be very much close to the screen for the 3D effect to really",
+       "answer": "much"
+      },
+      {
+       "n": 36,
+       "text": "work - not to mention the price. Electronics companies around all",
+       "answer": "all"
+      },
+      {
+       "n": 37,
+       "text": "the world are looking forward to 3D fuelling a new boom in TV,",
+       "answer": null
+      },
+      {
+       "n": 38,
+       "text": "movies and games. Most 3D TVs on the market today rely well on",
+       "answer": "well"
+      },
+      {
+       "n": 39,
+       "text": "glasses to deliver separate images to each eye, by which creates a",
+       "answer": "by"
+      },
+      {
+       "n": 40,
+       "text": "sense of three-dimensional depth. In its new TVs, Toshiba uses a",
+       "answer": null
+      },
+      {
+       "n": 41,
+       "text": "special device for which makes glasses unnecessary.",
+       "answer": "for"
+      }
+     ],
+     "outro": "(http://www.dailymail.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 30
+   },
+   "tasks": [
+    {
+     "id": "2011-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a true story about Keith McVey, a mailman in the US.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_11okt_fl.mp3",
+      "start": 0,
+      "end": 611.86,
+      "clip": "hang/e_angol_11okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Keith McVey ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "is admired by a lot of people."
+        },
+        {
+         "key": "B",
+         "text": "was a rock star."
+        },
+        {
+         "key": "C",
+         "text": "has his picture on an office wall."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Keith McVey…",
+       "options": [
+        {
+         "key": "A",
+         "text": "is in his late fifties."
+        },
+        {
+         "key": "B",
+         "text": "has saved lives while delivering mail."
+        },
+        {
+         "key": "C",
+         "text": "can be easily recognized by his clothes."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "Twenty years ago, Keith McVey managed to…",
+       "options": [
+        {
+         "key": "A",
+         "text": "talk a boy out of a suicide attempt."
+        },
+        {
+         "key": "B",
+         "text": "keep an injured person warm until the ambulance arrived."
+        },
+        {
+         "key": "C",
+         "text": "call an ambulance in time to save somebody’s life."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Two years ago, Keith McVey … before jumping into the lake.",
+       "options": [
+        {
+         "key": "A",
+         "text": "got rid of his boots"
+        },
+        {
+         "key": "B",
+         "text": "carefully put his bundle of mail on the ground"
+        },
+        {
+         "key": "C",
+         "text": "calmed down the girl’s sisters"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Keith McVey …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was an exceptionally good swimmer."
+        },
+        {
+         "key": "B",
+         "text": "was seriously injured during the incident."
+        },
+        {
+         "key": "C",
+         "text": "went on to do his job in wet clothes after the incident."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "Last week, Keith McVey…",
+       "options": [
+        {
+         "key": "A",
+         "text": "heard a cry for help from a vehicle."
+        },
+        {
+         "key": "B",
+         "text": "saw an unconscious man lying by the side of the road."
+        },
+        {
+         "key": "C",
+         "text": "saw a truck driver lose consciousness."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Keith McVey …",
+       "options": [
+        {
+         "key": "A",
+         "text": "didn’t know anything about CPR."
+        },
+        {
+         "key": "B",
+         "text": "performed CPR on the man with the help of a woman."
+        },
+        {
+         "key": "C",
+         "text": "helped a woman who performed CPR on the man."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Keith McVey …",
+       "options": [
+        {
+         "key": "A",
+         "text": "felt pain in his shoulders after the incident."
+        },
+        {
+         "key": "B",
+         "text": "almost decided to go home after the ambulance left."
+        },
+        {
+         "key": "C",
+         "text": "didn’t want his colleagues to do him a favour."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear a radio interview about the famous Kennedy Nixon television debate.",
+      "Your task will be to complete the sentences with no more than three words in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_11okt_fl.mp3",
+      "start": 611.86,
+      "end": 1160.01,
+      "clip": "hang/e_angol_11okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Peter Goldman is a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "political"
+        ],
+        [
+         "advisor"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "According to Peter Goldman, the most important thing about a politician’s political program is that it should be {{gap}} but {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "ambitious"
+        ],
+        [
+         "reasonable"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Nixon thought he would win because Kennedy was both {{gap}} and {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "too young",
+         "young"
+        ],
+        [
+         "inexperienced"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Nixon was the winner of the first debate according to the people who followed the debate {{gap}}.",
+       "key": "on the radio / without seeing it",
+       "keywords": [
+        [
+         "radio"
+        ],
+        [
+         "without",
+         "seeing",
+         "it"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Ted Rogers asked Nixon to {{gap}} during the debate.",
+       "accept": [
+        "wear makeup",
+        "use makeup"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Nixon had spent two weeks in hospital because he had seriously {{gap}}.",
+       "key": "injured/hurt/damaged his knee",
+       "keywords": [
+        [
+         "injured",
+         "knee"
+        ],
+        [
+         "hurt",
+         "knee"
+        ],
+        [
+         "damaged",
+         "knee"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "It was a bad idea for Nixon to wear {{gap}} because it didn’t provide any contrast with the background.",
+       "key": "a grey/gray suit",
+       "keywords": [
+        [
+         "grey",
+         "suit"
+        ],
+        [
+         "gray",
+         "suit"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Nixon never looked {{gap}}, which made him look insecure.",
+       "key": "at the camera(s)",
+       "keywords": [
+        [
+         "camera"
+        ],
+        [
+         "cameras"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Before the debate Kennedy had been {{gap}} in California.",
+       "accept": [
+        "running a campaign",
+        "campaigning",
+        "getting tanned",
+        "getting a tan"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "The way Kennedy behaved made the viewers think he was giving them {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "straight",
+         "honest"
+        ],
+        [
+         "answers",
+         "replies"
+        ]
+       ],
+       "combos": [
+        [
+         "straight",
+         "answers"
+        ],
+        [
+         "honest",
+         "answers"
+        ],
+        [
+         "honest",
+         "replies"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A helyes válaszoknak tartalmazniuk kell a vastagon szedett szavakat vagy a variációk [/] egyikét.)"
+     }
+    },
+    {
+     "id": "2011-okt-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear some information about the first appearance of a now famous singer, Susan Boyle.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_11okt_fl.mp3",
+      "start": 1160.01,
+      "end": 1795.61,
+      "clip": "hang/e_angol_11okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Susan had a steady job.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The show’s host helped Susan with encouraging questions before her performance.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "At first, it was only the judges who were amazed by Susan’s performance.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The speaker says that it was her appearance that deceived the audience.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "According to the speaker, the feelings we experienced were all positive.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "The speaker herself has watched the YouTube video many times.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "According to the speaker, we all secretly believe that we could become stars.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Susan started singing 35 years ago.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Fred O’Neil has coached a lot of famous stars.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "It was Susan’s mother who encouraged her to enter the contest.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Susan’s mother was very proud to see her daughter win.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

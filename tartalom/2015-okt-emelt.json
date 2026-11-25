@@ -1,0 +1,1572 @@
+{
+ "formatVersion": 1,
+ "id": "2015-okt-emelt",
+ "year": 2015,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2015-10-15",
+ "code": "1419",
+ "sourceFiles": {
+  "paper": "2015 - Emeltszintű októberi/e_angol_15okt_fl.pdf",
+  "key": "2015 - Emeltszintű októberi/e_angol_15okt_ut.pdf",
+  "audio": "2015 - Emeltszintű októberi/e_angol_15okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2015-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article in which some phrases have been left out.",
+      "Your task is to match the phrases (A-M) with the gaps (1-8).",
+      "There are three extra letters that you do not need."
+     ],
+     "title": "THANKSGIVING TRAVELLERS BRACE FOR WINTER STORM",
+     "body": [
+      "A US winter storm is threatening to bring travel misery to the East Coast on the eve of the Thanksgiving holiday.",
+      "The system, which dumped heavy rain and snow over the region on Tuesday, has already {{0}}. Forecasters say more than 1ft (30cm) of snow could fall in western Pennsylvania, western New York and Vermont before Thursday. More than 43 million Americans are {{1}}. The storm is also threatening to ground the giant balloons at the Macy's Thanksgiving Parade in New York. These include balloons of beloved characters such as Mickey Mouse and the Pillsbury Doughboy. City regulations bar the inflatables from being used when {{2}}. New York Governor Andrew Cuomo has issued a winter weather warning {{3}}. Meteorologists also predict the storm could bring 2-4in (5-10cm) of rain up the Atlantic coast from Richmond, Virginia, to Portland, Maine. \"It couldn't have come at a worse time,\" said meteorologist Tim Morrin, of the National Weather Service. \"Visibility will be {{4}}, but by the fog.\" Late on Tuesday, flight delays were reported in Pennsylvania, Tennessee and Maryland. Daniel Baker, of flight-tracking service FlightAware, said that most airlines expect to {{5}}, although further delays were likely. Some travellers were getting on earlier flights to avoid {{6}}. Lisa Jablon was originally due to fly on Wednesday morning from New York City to Syracuse, New York state, but she moved her flight to Tuesday night. \"I'm flying up to spend the holiday with my boyfriend's family and I didn't want to get stuck,\" she told the Associated Press news agency. Thanksgiving Day celebrates the harvest and blessings of the past year. It has been {{7}}, and is generally thought to commemorate a 1621 harvest feast the pilgrims shared with Indians after settling at Plymouth, in what is now Massachusetts. The modern festival sees millions of people {{8}}, eat turkey feasts, watch National Football League matches and ̶ in recent years ̶ plan or even begin their assault on the holiday sales.",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ending up stranded"
+      },
+      {
+       "key": "B",
+       "text": "expected to travel during the holiday"
+      },
+      {
+       "key": "C",
+       "text": "caused some flight delays"
+      },
+      {
+       "key": "D",
+       "text": "travel to be with family"
+      },
+      {
+       "key": "E",
+       "text": "having to pay extra"
+      },
+      {
+       "key": "F",
+       "text": "marked for hundreds of years"
+      },
+      {
+       "key": "G",
+       "text": "been losing precious time"
+      },
+      {
+       "key": "H",
+       "text": "continue operating full schedules"
+      },
+      {
+       "key": "I",
+       "text": "permission has been requested"
+      },
+      {
+       "key": "K",
+       "text": "urging motorists to use extreme caution"
+      },
+      {
+       "key": "L",
+       "text": "sustained winds exceed 23mph (37km/h)"
+      },
+      {
+       "key": "M",
+       "text": "restricted not only by the rain and wash from the other cars"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "F"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about extreme weather conditions and then read the statements (9-16) following it.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "HOW TO SURVIVE EXTREME COLD",
+     "body": [
+      "In January 2014 an Arctic freeze swept across North America, bringing temperatures as low as -40°C with wind chill in some cities. What are the risks of extreme cold and how can you avoid them?",
+      "Plummeting temperatures and icy winds present two main dangers: hypothermia, in which your body shuts down after reaching an abnormally low temperature, and frostbite. This latter is most common on limbs, but can also affect eyelashes.",
+      "Sitting out a cold snap indoors, with plentiful stocks of food, water and medicine, is one possible solution. Taps can be kept open at a drip to stop pipes freezing. Pets can be brought inside.",
+      "Many schools and offices in the worst affected areas are closed. But those still needing to make essential trips are advised to wear several layers of loose-fitting clothing and a tightly woven outer layer. Mittens are warmer than gloves. Hand or foot warmers can be placed inside a glove or inside a boot, though these may not heat the tips of fingers or toes.",
+      "Goggles or glasses can help keep the temperature around the eyes stable, says John Stone of Survival Systems in Halifax, Canada, though eyelashes are only likely to freeze together if they're wet. Eyeballs, he says, are likely to be fine in these temperatures.",
+      "Earrings and facial jewellery should be removed, Mr. Stone added. \"The temperature of the metal is going to become very cold very quickly, much more quickly than the skin temperature.\"",
+      "According to our Canadian expert, caffeine and alcohol cause your body to lose heat more rapidly. It's best to seek shelter if you feel your body temperature dropping. Chicago, where temperatures dropped to -27°C in 2014, extended the opening hours at warming centres across the city.",
+      "Vehicles, like homes, should be well-stocked with emergency supplies. While petrol freezes at about -60°C, diesel can clog at -10°C and needs to be \"winter-weighted\". Tyres can freeze solid, which makes for a bumpy start to a journey but is unlikely to damage them, says John Stone. \"It's like driving a Fred Flintstone-mobile.\"",
+      "(bbc.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "North America experienced some extremely cold weather at the beginning of 2014.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Hypothermia is another term for frostbite.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "In such weather the only really safe option is not to go outside.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "You are advised to open taps only if you absolutely need to.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Shops usually stay open even in very bad weather conditions.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "It is best not to wear tight clothes in cold weather.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "One useful tip is to drink some strong liquor when you are outside.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "You are better off with a petrol-driven car than diesel in cold weather.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Extreme weather conditions will probably also ruin your tyres.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 9,
+     "instructions": [
+      "Read this article about people with no work and no homes and then read the gapped summary.",
+      "Your task is to complete the summary by filling the gaps (17-25) with one word only giving relevant information from the text."
+     ],
+     "title": "WHY JIM WOLF'S MAKEOVER VIDEO WENT VIRAL*",
+     "body": [
+      "A time-lapse makeover of a homeless US man has been watched more than 13 million times on YouTube in the past week.",
+      "In just two minutes, former soldier Jim Wolf is shown being transformed from tangled-haired and scruffy to well-groomed and sharply-suited and, as a result, visibly more relaxed and self- confident. Encouraged by the makeover, the 54-year-old – who has long struggled against poverty, homelessness and alcoholism – has reportedly started to attend Alcoholics Anonymous meetings.",
+      "Producer Rob Bliss made the video to raise awareness and funds for a US charity, Degage Ministries, which has received $50,000 in donations as a result.",
+      "Mr Wolf's is not the first story of this kind to gain such popularity in social media networks. In September, donations of more than $110,000 poured in for Glen James, a homeless man in Boston, who returned a lost bag containing $26,000 in cash and travellers cheques. Billy Ray Harris, another homeless man was able to buy himself a house with the money given by strangers touched by his honesty after he returned a diamond ring accidentally dropped into his change cup earlier this year.",
+      "The release of the Jim Wolf video – timed to coincide with Veterans Day – has focused minds on the issue of homelessness. Even so, Mr Bliss, who makes viral videos for a living, described the response as \"pretty incredible\" – far outperforming any other content he has produced. \"The number one thing that makes a video likely to go viral is the feeling it creates,\" he told the BBC. \"The stronger that feeling, the more successful it will be. This video reminds the audience of the possibility of losing a job, a home, and a stable life. It helps people see the real person behind that bearded needy person – there's a transformation into a person with whom you'd be happy to have a chat,\" he says.",
+      "(bbc.co.uk)",
+      "* viral: passed on from one person to the next fast",
+      "Summary",
+      "In a time-lapse film or {{0}} things seem to be happening much faster than in real life. A two-minute film using this technique shows Jim Wolf, a homeless US veteran with an alcohol problem being turned into a respectable-looking businessman. The video first shows him being given a {{17}} and then also some smart {{18}}. Motivated by this experience, Jim Wolf is now said to be trying to get rid of his {{19}}. The main objective of the film, however, which was to help a {{20}}, has also been achieved. The article also mentions two cases of down-and-out people rewarded for their {{21}}. In Boston a man returned a large sum of money and a homeless beggar was reported to have given back some {{22}}. Both instances resulted in very generous {{23}} from the general public. The extraordinary success of the Jim Wolf video on social media astonished even its {{24}}. The secret of such films, in his opinion, is that they can make the {{25}} associate with the people portrayed in them as real persons."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "video"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "haircut"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "clothes",
+        "apparel",
+        "garments",
+        "gear",
+        "clothing"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "alcoholism",
+        "habit",
+        "addiction"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "charity"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "honesty"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "jewellery",
+        "jewelry"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "donations",
+        "offerings"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "producer",
+        "director",
+        "maker",
+        "creator"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "audience",
+        "viewers",
+        "public",
+        "viewer"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article about designing book covers and then read the sentences (26-30) that follow.",
+      "Your task is to choose the option (A-D) that best corresponds to what the article says.",
+      "Write the appropriate letters next to the numbers in the white boxes."
+     ],
+     "title": "COVER THE BASICS",
+     "body": [
+      "Whether you're publishing in print or electronically, your cover must make the right impression on readers.",
+      "One of the most commonly asked questions on writers' forums these days is: 'How do I create my own book cover?' The simple answer is that if you have to ask that question, then maybe you should consider getting a professional to do it. No matter how good your writing, a good cover is essential to getting decent sales. It is the first thing your potential readers see and an unprofessional job could send them looking for a different book. Often, though, finances are tight. Whether you are designing the cover yourself or hiring someone who knows what they're doing, there are some essential points to consider in getting the best design for your book.",
+      "Show or tell? What is the cover of your book there to do? On a print copy, of course, you could say that it's there to protect the book as well as to sell it, but with ebooks, the sole reason for a 'cover' is to grab the attention of the potential reader. At the same time, there is no need for overkill. Chip Kidd, the New York book designer famed for the silhouette T-Rex on the cover of the book Jurassic Park (which was later used as an icon for the movie), says, 'A book designer gives form to content but also manages a careful balance between the two.' In essence, he says, the cover is there to tell everyone 'what the story is like'. If your title tells the reader what the book is about ̶ eg. Murder on Smith Street ̶ it is treating your potential audience with contempt to then have a picture of a dead body next to a sign saying 'Smith Street'.",
+      "Don't try to tell the whole story One common cover design error is particularly difficult for authors to overcome: they know their own books too well. As a result of this, many try to include as much as they can on the cover. This does not sell books. Firstly, the reader is overwhelmed by the confusion and secondly, what may seem like a really important part of your story to you, may mean nothing to a reader before they have read the book. Choose one or two salient points from your story to include and keep it simple. You need to create an emotion in the reader that makes them want to read the book, not tell them what the book is all about.",
+      "Show your genre/tone What images come to mind when you think 'thriller'? Obviously, a pretty vase of flowers is not going to grab you if you're a thriller fan. Break the vase and maybe have a bullet lying in amongst the bent flowers, with blood in place of spilled water, and you have a different cover altogether. It's about giving the reader an idea.",
+      "(Writing Magazine)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "With electronically printed books the cover is of little interest."
+        },
+        {
+         "key": "B",
+         "text": "The reader's reaction to a book cover is of great importance."
+        },
+        {
+         "key": "C",
+         "text": "The cover for an ebook should look different from a print copy."
+        },
+        {
+         "key": "D",
+         "text": "Ebooks and print copies need similar covers to impress the reader."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Writers are often uncertain about how to design a book cover."
+        },
+        {
+         "key": "B",
+         "text": "Even professionals sometimes make mistakes designing covers."
+        },
+        {
+         "key": "C",
+         "text": "Sales are more influenced by the quality of the writing than the cover."
+        },
+        {
+         "key": "D",
+         "text": "Even if finances are tight, one shouldn't economise on the cover of a book."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "There aren't any rules to observe in designing book covers."
+        },
+        {
+         "key": "B",
+         "text": "Some book covers do not serve their original purpose at all."
+        },
+        {
+         "key": "C",
+         "text": "Ebook and print book covers should look completely different."
+        },
+        {
+         "key": "D",
+         "text": "The essential point about the cover is the same for ebooks and print books."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 28,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Non-professional covers don't give enough protection to print books."
+        },
+        {
+         "key": "B",
+         "text": "Chip Kidd (of Jurassic Park) thinks the cover should make the content clear."
+        },
+        {
+         "key": "C",
+         "text": "Catching the eye of the potential reader is the main purpose of a book cover."
+        },
+        {
+         "key": "D",
+         "text": "Covers are best if they follow the title of the book as closely as possible."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Writers are often the best designers of the cover as they know their books best."
+        },
+        {
+         "key": "B",
+         "text": "Writers usually know what things from the book interest readers most."
+        },
+        {
+         "key": "C",
+         "text": "Covers work best if they just emphasize a couple of important points."
+        },
+        {
+         "key": "D",
+         "text": "The more details about the story are given on the cover the better."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 30,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "A crime story does not need to show blood on the front cover."
+        },
+        {
+         "key": "B",
+         "text": "The cover should be in harmony with the genre of the book."
+        },
+        {
+         "key": "C",
+         "text": "Flowers are out of place if you want thriller fans to notice a book."
+        },
+        {
+         "key": "D",
+         "text": "Spilled water can occasionally be as dramatic as spilled blood."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 41,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 15,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 18,
+    "25": 18,
+    "26": 19,
+    "27": 20,
+    "28": 20,
+    "29": 21,
+    "30": 22,
+    "31": 23,
+    "32": 23,
+    "33": 24,
+    "34": 25,
+    "35": 26,
+    "36": 26,
+    "37": 27,
+    "38": 28,
+    "39": 29,
+    "40": 29,
+    "41": 30
+   },
+   "tasks": [
+    {
+     "id": "2015-okt-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the oldest wine cellar in the world. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "OLDEST WINE CELLAR FOUND IN ANCIENT SITE",
+     "body": [
+      "A 3,700-year-old wine cellar has been unearthed in the {{0}} of a Canaanite palace in Israel, potentially {{1}} modern man a true taste of the past.",
+      "Samples from the ceramic jars suggest they held a {{2}} beverage that was evidently reserved for banquets, researchers said.",
+      "Andrew Koh of Brandeis University found {{3}} of ingredients that may have included honey, mint, cedar, tree resins and cinnamon. Chemical {{4}} indicates that the jars held red wine and possibly white wine, Koh said. No liquid was left, and he analyzed residues he had {{5}} from the jars.",
+      "{{6}} found 40 ceramic jars, each big enough to hold about 13 gallons, in a single room. There may be more wine {{7}} yet to be found. A few days before the dig ended, the team discovered two doors leading out of the wine cellar, which may point toward {{8}} storage rooms. Patrick McGovern of the University of Pennsylvania, an expert in ancient winemaking, said the {{9}} “sheds important new light” on the development of winemaking in ancient Canaan, from where it later spread to Egypt and across the Mediterranean.",
+      "(http://www.bloomberg.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "ruin",
+       "example": true,
+       "accept": [
+        "ruins"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "offer",
+       "accept": [
+        "offering"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "luxury",
+       "accept": [
+        "luxurious",
+        "luxury"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "sign",
+       "accept": [
+        "signs"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "analyze",
+       "accept": [
+        "analysis"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "move",
+       "accept": [
+        "removed"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "archaeology",
+       "accept": [
+        "archaeologists",
+        "archeologists"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "contain",
+       "accept": [
+        "containers"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "add",
+       "accept": [
+        "additional",
+        "added"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "discover",
+       "accept": [
+        "discovery"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about some very unusual candles. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-18) in the text."
+     ],
+     "title": "WOULD YOU WANT YOUR HOME TO SMELL LIKE KFC?",
+     "body": [
+      "While the smell of fried chicken can be enough {{0}} your mouth water, most people probably {{10}} want the scent wafting through their home. But {{11}} a new line of scented candles made by Kentucky for Kentucky, homeowners can buy a candle made from fried chicken and all-natural soy wax that smells {{12}} the famous fast food restaurants.",
+      "Kathy Werking, who collaborated with Kentucky for Kentucky on the collection, created the KFC candle by frying {{13}} chicken in soy wax and adding a blend of 11 herbs and spices.",
+      "A description of the ‘Fried Chicken’ candle on the company website {{14}}: ‘Let the fresh, fried sizzle of savory golden goodness drift into your hearts and homes with one of our most delicious creations.’",
+      "Another candle in the collection {{15}} to bring to mind the smells of Ale 8, a ginger and citrus-flavored soda that has been bottled in Winchester, Kentucky since 1926. {{16}} the official soft drink of Kentucky, it is also {{17}} distributed in parts of Ohio, Tennessee, Indiana and Florida.",
+      "According to the Kentucky for Kentucky website, the Ale 8 candle is ‘made with a secret recipe {{18}} grapefruit and lime essential oils, and will energize any room’.",
+      "The candles will go on sale on Friday November 22 at 10:30am.",
+      "(www.dailymail.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "that make"
+        },
+        {
+         "key": "B",
+         "text": "for making"
+        },
+        {
+         "key": "C",
+         "text": "to make"
+        },
+        {
+         "key": "D",
+         "text": "as to make"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "shouldn’t"
+        },
+        {
+         "key": "B",
+         "text": "couldn’t"
+        },
+        {
+         "key": "C",
+         "text": "wouldn’t"
+        },
+        {
+         "key": "D",
+         "text": "needn’t"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "meanwhile"
+        },
+        {
+         "key": "B",
+         "text": "according to"
+        },
+        {
+         "key": "C",
+         "text": "concerning"
+        },
+        {
+         "key": "D",
+         "text": "thanks to"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "such as"
+        },
+        {
+         "key": "B",
+         "text": "likely"
+        },
+        {
+         "key": "C",
+         "text": "similarly"
+        },
+        {
+         "key": "D",
+         "text": "just like"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "virtual"
+        },
+        {
+         "key": "B",
+         "text": "real"
+        },
+        {
+         "key": "C",
+         "text": "particular"
+        },
+        {
+         "key": "D",
+         "text": "realistic"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "tells"
+        },
+        {
+         "key": "B",
+         "text": "carries"
+        },
+        {
+         "key": "C",
+         "text": "reads"
+        },
+        {
+         "key": "D",
+         "text": "figures"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "has been crafted"
+        },
+        {
+         "key": "B",
+         "text": "has designed"
+        },
+        {
+         "key": "C",
+         "text": "had been created"
+        },
+        {
+         "key": "D",
+         "text": "can inspire"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "Even if"
+        },
+        {
+         "key": "B",
+         "text": "Famous as"
+        },
+        {
+         "key": "C",
+         "text": "Rather than"
+        },
+        {
+         "key": "D",
+         "text": "Produced to"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "currently"
+        },
+        {
+         "key": "B",
+         "text": "certainly"
+        },
+        {
+         "key": "C",
+         "text": "barely"
+        },
+        {
+         "key": "D",
+         "text": "willingly"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "mainly requires"
+        },
+        {
+         "key": "B",
+         "text": "what needs"
+        },
+        {
+         "key": "C",
+         "text": "which implies"
+        },
+        {
+         "key": "D",
+         "text": "that includes"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a lazy lover. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-28) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "HILLSIDEMESSAGETOWINBACKEX-GIRLFRIEND",
+     "body": [
+      "If you’re trying to win back an ex, you might send flowers, a heartfelt tape {{0}} even try the classic stand-outside-the-house-and-shout-to-the-window move – but this wasn’t enough for a Nevada man.",
+      "Brent Wilbur’s attempt to win back his ex-girlfriend {{19}} carving her name into a large hillside was great in theory – but then he got tired and {{20}} up.",
+      "For 100 years, a hill near Reno, Nevada, has {{21}} a large ‘N’ etched in white rocks as a symbol for the University of Nevada. Innovative Brent thought he would add some more letters to spell out Tina’s name across the hillside {{22}} a declaration of his love. Unfortunately, {{23}} spending five hours writing the letter ‘A’ in chalk next to the ‘N’, he got tired and left. Local residents were curious about the mysterious capital letter which {{24}} suddenly appeared and traced the lazy love attempt back to Brent through his LinkedIn profile, {{25}} showed an image of the hillside message.",
+      "Tina, who Brent dated only for nine months four years ago, clearly left a mark on him as he said he had {{26}} regrets over the message – even if there may be legal consequences. ‘I owe her a great {{27}} apologies for the way I treated her,’ he added.",
+      "{{28}} for Brent, local authorities have since said the letter does not violate any state codes and the University of Nevada believe nature will wash away the ‘A’ in its own time.",
+      "(http://metro.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "or"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "gave",
+        "fed"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "as",
+        "in"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "after"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "no",
+        "few"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "many"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "luckily",
+        "fortunately",
+        "as"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read an article about the most boring calendar of the world. In most lines there is one word that should not be there. Either it is grammatically incorrect or it does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THEMOSTBORINGCALENDARINTHEWORLD?",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Wales has a lot to offer, from castles to coastlines – and now – a",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "calendar as highlighting the misfortune of disappearing red",
+       "answer": "as"
+      },
+      {
+       "n": 29,
+       "text": "telephone boxes. But, despite of the charming Welsh landscapes the",
+       "answer": "of"
+      },
+      {
+       "n": 30,
+       "text": "Disappearing Red Telephone Boxes of Wales 2014 calendar has",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "been failed to sell even one copy. With just 41 days to go until the",
+       "answer": "been"
+      },
+      {
+       "n": 32,
+       "text": "New Year, even if the publisher Kevin Beresford admitted it was",
+       "answer": "if"
+      },
+      {
+       "n": 33,
+       "text": "nerdy and boring. However, the 61-year-old enthusiast did hoped",
+       "answer": "did"
+      },
+      {
+       "n": 34,
+       "text": "there was an interest in old phone boxes. Mr Beresford is also the",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "mastermind behind the seasonal hit off Roundabouts of Great",
+       "answer": "off"
+      },
+      {
+       "n": 36,
+       "text": "Britain 2012, which was sold tens of thousands of copies.",
+       "answer": "was"
+      },
+      {
+       "n": 37,
+       "text": "The 2014 calendar had features 12 months of run-down phone",
+       "answer": "had"
+      },
+      {
+       "n": 38,
+       "text": "boxes. However, since then going on sale in September not a single",
+       "answer": "then"
+      },
+      {
+       "n": 39,
+       "text": "copy has ever been bought. A disappointed Mr Beresford said: “We",
+       "answer": "ever"
+      },
+      {
+       "n": 40,
+       "text": "now feel the need to confess that means we may have miscalculated",
+       "answer": "means"
+      },
+      {
+       "n": 41,
+       "text": "the demand. But, are we not all fed it up with David Beckham and",
+       "answer": "it"
+      }
+     ],
+     "outro": "One Direction?” (http://metro.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2015-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear some information about the White House in Washington D.C.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_15okt_fl.mp3",
+      "start": 0,
+      "end": 713.94,
+      "clip": "hang/e_angol_15okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The decision about the capital city of the U.S.A. was made in the late 1700s.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "The spot for the new city was chosen by George Washington himself.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "The exact site for the “President’s House” was picked by George Washington himself.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Thomas Jefferson didn’t use his real name to enter for the competition for the best design.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "After winning the contest, James Hoban moved to the U.S. from Ireland.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "The first president who actually lived in the building was George Washington.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "British soldiers set fire to the building in 1814.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "During the consecutive renovations, presidents were always anxious to preserve the original character of the building.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Jacqueline Kennedy spent her own money to redecorate the White House.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "The building got its current official name only in the 19th century.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The president and his family have two floors exclusively for their private use.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "The White House gives at least two dinner parties every week.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "About 6,000 people visit the White House every day.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear an interview with someone whose voice sounds familiar to everyone who lives in Budapest.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_15okt_fl.mp3",
+      "start": 713.94,
+      "end": 1331.17,
+      "clip": "hang/e_angol_15okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The interviewer is quite sure that the introductory announcement sounds familiar to … .",
+       "options": [
+        {
+         "key": "A",
+         "text": "everybody in Hungary"
+        },
+        {
+         "key": "B",
+         "text": "people who live in Budapest"
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The interviewer implies that the old BKV announcements were not in … English.",
+       "options": [
+        {
+         "key": "A",
+         "text": "perfect"
+        },
+        {
+         "key": "B",
+         "text": "British"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Rachel was approached about doing the recording by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a BKK employee."
+        },
+        {
+         "key": "B",
+         "text": "an ex-ELTE student."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Rachel wanted the phrases in the announcements to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "sound like they do in Britain."
+        },
+        {
+         "key": "B",
+         "text": "be easy to understand for tourists."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "At the time the interview was made, the announcements could be heard on the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "airport bus."
+        },
+        {
+         "key": "B",
+         "text": "underground."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "When Rachel listened to the first recordings, she wasn’t really satisfied with the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "wording of the announcements."
+        },
+        {
+         "key": "B",
+         "text": "way she read out the text."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "In her everyday life, Rachel …",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn’t often use Hungarian."
+        },
+        {
+         "key": "B",
+         "text": "is not happy with her Hungarian."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Rachel …",
+       "options": [
+        {
+         "key": "A",
+         "text": "has been in Hungary for almost two decades."
+        },
+        {
+         "key": "B",
+         "text": "considers herself an honorary Hungarian."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear some information about stalactites and stalagmites.",
+      "Your task will be to complete the sentences with the exact words you hear in the text. Write one word in each gap, that is, two words in each item.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_15okt_fl.mp3",
+      "start": 1331.17,
+      "end": 1795.06,
+      "clip": "hang/e_angol_15okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Two explorers collect {{gap}} {{gap}} of rocks and minerals.",
+       "gaps": [
+        [
+         "various"
+        ],
+        [
+         "samples"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The explorers have to be extremely careful not to {{gap}} the {{gap}} formations.",
+       "gaps": [
+        [
+         "disturb"
+        ],
+        [
+         "natural"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "One of the explorers {{gap}} the breathtaking {{gap}} of the cave so much that he makes a horrible mistake.",
+       "gaps": [
+        [
+         "admires"
+        ],
+        [
+         "beauty"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "‘Why is the sky blue?’ is one of those {{gap}} questions that plagues us from {{gap}} school on.",
+       "gaps": [
+        [
+         "timeless"
+        ],
+        [
+         "elementary"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Stalactites hang from {{gap}} {{gap}} like icicles.",
+       "gaps": [
+        [
+         "cave"
+        ],
+        [
+         "ceilings"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Stalagmites emerge from the {{gap}} like {{gap}} cones.",
+       "gaps": [
+        [
+         "ground"
+        ],
+        [
+         "traffic"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "“Stalassein” is a(n) {{gap}} word which means ‘to {{gap}}’.",
+       "gaps": [
+        [
+         "Greek"
+        ],
+        [
+         "drip"
+        ]
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "Stalactites and stalagmites grow because water runs over and through {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "inorganic"
+        ],
+        [
+         "material"
+        ]
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "Calcite is a common {{gap}} found in sedimentary {{gap}}.",
+       "gaps": [
+        [
+         "mineral"
+        ],
+        [
+         "rocks",
+         "rock"
+        ]
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "In the recording two classic {{gap}} {{gap}} help us to get stalactites and stalagmites straight.",
+       "gaps": [
+        [
+         "memory"
+        ],
+        [
+         "tricks"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

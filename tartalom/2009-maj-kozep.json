@@ -1,0 +1,1363 @@
+{
+ "formatVersion": 1,
+ "id": "2009-maj-kozep",
+ "year": 2009,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2009-05-07",
+ "code": "0819",
+ "sourceFiles": {
+  "paper": "2009. Középszintű május-június érettségi/k_angol_09maj_fl.pdf",
+  "key": "2009. Középszintű május-június érettségi/k_angol_09maj_ut.pdf",
+  "audio": "2009. Középszintű május-június érettségi/k_angol_09maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2009-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this interview with a famous sportsman and then look at the half sentences that follow.",
+      "Your task is to match the two sentence halves (numbers 1-8 to letters A-K). There is an extra letter that you do not need."
+     ],
+     "title": "I MET ONE OF MY FAVOURITE SPORT STARS",
+     "body": [
+      "Alex won the Press Pack competition to interview golfing legend Tiger Woods.",
+      "\"I was very excited to be meeting Tiger Woods; he's one of my favourite sport stars. I like the way he can hit the ball so far. I think he's a good sportsman too. I was a bit nervous first meeting him as there were also lots of other reporters and photographers who would be listening to my interview.",
+      "I asked Tiger about who his idol was. He said Nelson Mandela, but also his mum and dad as they had helped him a lot along the way to where he is now. Tiger also told me that when he was a schoolboy he wasn't allowed to practise golf until he had finished all his homework. His favourite golf course is St Andrews in Scotland because it has a really nice setting and the course is very challenging. Tiger's advice for any young golf player is to practise; that way you'll get better. Tiger was really friendly to talk to and I soon forgot about all the other people that were around me.",
+      "It was hard to believe I was interviewing such a famous person - my friends were all really jealous when I told them I'd be doing this. I'd like to thank Newsround for my once-in-a- lifetime experience; this is something I will always remember.\"",
+      "Alex, 13 Warwickshire"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "were listening to the boy asking his questions."
+      },
+      {
+       "key": "B",
+       "text": "could not play golf."
+      },
+      {
+       "key": "C",
+       "text": "made it possible to do the interview."
+      },
+      {
+       "key": "D",
+       "text": "only let him play golf after he had done his homework."
+      },
+      {
+       "key": "E",
+       "text": "is the name of the competition the boy won."
+      },
+      {
+       "key": "F",
+       "text": "is a teenager."
+      },
+      {
+       "key": "G",
+       "text": "is one of Alex’s favourite sport stars."
+      },
+      {
+       "key": "H",
+       "text": "is a place where Woods likes playing golf."
+      },
+      {
+       "key": "I",
+       "text": "is one of the people the sportsman admires."
+      },
+      {
+       "key": "K",
+       "text": "envied him for the interview."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Tiger Woods",
+       "answer": "G"
+      },
+      {
+       "n": 1,
+       "stem": "Press Pack",
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "stem": "Nelson Mandela",
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "stem": "St Andrews",
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "stem": "Wood’s parents",
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "stem": "The boy’s friends",
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "stem": "A lot of people",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "Newsround",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "Alex",
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article on robots and then read the sentences (9-17) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark a sentence B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "I ROBOT",
+     "body": [
+      "A new project celebrating the history of robots starts on 15 May. The Cambridge Robot Project, which has been organised by members of the University of Cambridge, will combine film, art and theatre to explore both the technology of robots and what they can tell us about what it means to be human.",
+      "The robot has become a symbol of modern culture and celebrates its 88th birthday this year. The idea of the ‘man machine’ was invented in 1921 in the play ‘Rossum’s Universal Robots’ by Karel Capek, which featured biological androids created without emotions to serve humans.",
+      "The familiar image of the metallic android sprang from other artists and film-makers in the 1920s and 1930s. The Cambridge Robot Project will be re-screening ‘Metropolis’ and more recent classic films about machines, including ‘2001: A Space Odyssey’, ‘The Matrix’ and ‘The Terminator’.",
+      "One of the highlights of the project’s photographic exhibition will be the chance to see images of Eva, the lifelike bodiless robot head created by a University of Texas student.",
+      "Cambridge Robot Project organiser Kathleen Richardson, an anthropologist at the University of Cambridge, says her aim was to explore what humanity means.",
+      "The Cambridge Robot Project film festival and art exhibition are on from 15 to 18 May. Performances of ‘Rossum’s Universal Robots’ run from 23 to 26 May. All events will take place at Michaelhouse on Trinity Street, Cambridge. Tickets can be purchased for individual events, but a special two-week festival ticket (£20, £15 concessions) is also available until 15 May."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The new project celebrating the history of robots is in May.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The idea of the robot was born 88 years ago.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "‘Rossum’s Universal Robots’ is Karel Capek’s second masterpiece.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "The festival will only show films made in the 1920s and 1930s.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "You will be able to see photos at the exhibition.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Eva was made by a university professor.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Eva does not have a body.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Kathleen Richardson has written many books on robots.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "The film festival and art exhibition will take place in the same building.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The two-week tickets cannot be bought after 15 May.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "You are going to read about a popular office product.",
+      "Put the jumbled sentences (A-F) in the correct order and write the letters in the white boxes as shown in the example (0)."
+     ],
+     "body": [
+      "Everyone knows what Post-it notes are: they are those great little self-stick notepapers. Most people have Post-it Notes. Most people use them. Most people love them. But Post-it Notes were not a planned product.",
+      "{{0}}",
+      "{{18}}",
+      "{{19}}\nNo one knew what to do with the stuff, but Silver didn't throw it away.",
+      "{{20}}",
+      "{{21}}\nWith the weak adhesive, the markers stayed in place, yet came off without damaging the pages.",
+      "{{22}}\nToday they are one of the most popular office products available."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Then one Sunday four years later, another 3M scientist named Arthur Fry was singing in the church choir. He used markers to keep his place in the hymn book but they kept falling out."
+      },
+      {
+       "key": "B",
+       "text": "It stuck to objects, but could easily be lifted off. It was super weak instead of super strong."
+      },
+      {
+       "key": "C",
+       "text": "3M began distributing Post-it Notes in 1980 − ten years after Silver developed the super weak adhesive."
+      },
+      {
+       "key": "D",
+       "text": "Remembering Silver's adhesive, Fry used some to cover his markers. Success!"
+      },
+      {
+       "key": "E",
+       "text": "He developed a new adhesive, but it was even weaker than what 3M already manufactured."
+      },
+      {
+       "key": "F",
+       "text": "A man named Spencer Silver was working in the 3M research laboratories in 1970 trying to find a strong adhesive."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "F"
+      },
+      {
+       "n": 18,
+       "answer": "E"
+      },
+      {
+       "n": 19,
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "D"
+      },
+      {
+       "n": 22,
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with footballer Chris Cohen the questions have been removed.",
+      "Your task is to read the text and match the questions (A-K) to the answers (23-30) and write the letters in the white boxes as shown in the example. There is one extra question that you do not need."
+     ],
+     "body": [
+      "Chris Cohen was 16 years old when he made his first team debut for West Ham United, making him the youngest player to turn out for the team in 80 years.",
+      "{{0}}\nYeah, always, since when I was a little boy. I was lucky because we had a park just down the road from our house and I was always down there with my brothers at all hours!",
+      "{{23}}\nI was playing for my local Sunday team, Grays Cosmos, when I got spotted by the youth coach at West Ham who came to watch our games.",
+      "{{24}}\nIt was just brilliant, I mean to get a chance at such a young age was so unexpected.",
+      "{{25}}\nI was actually a Norwich fan.",
+      "{{26}}\nCentral midfield, but I have also played left-back and left midfield for West Ham. I've played a load of games in midfield which has been great.",
+      "{{27}}\nI've got better now but while I was at West Ham, with the size of the crowds, I was terrible for nerves before a match.",
+      "{{28}}\nIt's tough, but it varies depending on if you're in the starting 11, which can be very physical. Some days you run a lot but you know that comes with the territory of being a professional footballer.",
+      "{{29}}\nI like to play golf and also snooker. I do like quite a few other sports - I like to get out and do as much as I can.",
+      "{{30}}\nYou have got to enjoy it, that's the most important part of it, but try not to feel too much pressure, especially at a young age."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Do you ever get nervous before a game?"
+      },
+      {
+       "key": "B",
+       "text": "How do you like to relax away from football?"
+      },
+      {
+       "key": "C",
+       "text": "How did West Ham discover you?"
+      },
+      {
+       "key": "D",
+       "text": "What's the training like as a professional?"
+      },
+      {
+       "key": "E",
+       "text": "You made your debut at 16, becoming the youngest player to feature in a West Ham team for 80 years - it must have been great."
+      },
+      {
+       "key": "F",
+       "text": "What advice would you give to any young footballer?"
+      },
+      {
+       "key": "G",
+       "text": "Have you always wanted to play football?"
+      },
+      {
+       "key": "H",
+       "text": "What team did you support when you were growing up?"
+      },
+      {
+       "key": "I",
+       "text": "Why did you start playing football?"
+      },
+      {
+       "key": "K",
+       "text": "What's your best position?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 23,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      },
+      {
+       "n": 25,
+       "answer": "H"
+      },
+      {
+       "n": 26,
+       "answer": "K"
+      },
+      {
+       "n": 27,
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "answer": "D"
+      },
+      {
+       "n": 29,
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 3,
+    "6": 4,
+    "7": 4,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 7,
+    "13": 8,
+    "14": 9,
+    "15": 9,
+    "16": 10,
+    "17": 11,
+    "18": 11,
+    "19": 12,
+    "20": 12,
+    "21": 13,
+    "22": 14,
+    "23": 14,
+    "24": 15,
+    "25": 16,
+    "26": 16,
+    "27": 17,
+    "28": 17,
+    "29": 18
+   },
+   "tasks": [
+    {
+     "id": "2009-maj-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a humorous article about creating your family history. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "BEING CREATIVE ABOUT YOUR FAMILY HISTORY",
+     "body": [
+      "Imagine that you are working on your family history and you {{0}} that your great-great uncle, Remus Starr, was hanged for horse stealing and train {{1}} in Montana in 1889. A cousin has given you the {{2}} known photograph of Remus, showing him before his execution. On the {{3}} of the picture are the words: \"Remus Starr was a horse thief. He was sent to Montana Prison in 1885. He {{4}} in 1887, and then robbed the Montana Express six times. He was arrested, convicted and hanged in 1889.\" A pretty embarrassing situation, isn’t it? But let's change the {{5}} a bit. First, we edit the picture with image processing software so that you can see only the {{6}}.",
+      "Next, we {{7}} the text: \"Remus Starr was a famous resident of Montana. His business empire included valuable {{8}}. Beginning in 1885, he {{9}} several years in service at a government facility.",
+      "Later, he started a profitable business relationship with the Montana Railroad. In 1889, Remus died {{10}} an event held in his honour when the platform upon which he was standing collapsed.\""
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BACK"
+      },
+      {
+       "key": "B",
+       "text": "DURING"
+      },
+      {
+       "key": "C",
+       "text": "ESCAPED"
+      },
+      {
+       "key": "D",
+       "text": "FIND"
+      },
+      {
+       "key": "E",
+       "text": "HEAD"
+      },
+      {
+       "key": "F",
+       "text": "HORSES"
+      },
+      {
+       "key": "G",
+       "text": "ONLY"
+      },
+      {
+       "key": "H",
+       "text": "REWRITE"
+      },
+      {
+       "key": "I",
+       "text": "ROBBERY"
+      },
+      {
+       "key": "K",
+       "text": "SPENT"
+      },
+      {
+       "key": "L",
+       "text": "STORY"
+      },
+      {
+       "key": "M",
+       "text": "WHILE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "D"
+      },
+      {
+       "n": 1,
+       "answer": "I"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "answer": "L"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "F"
+      },
+      {
+       "n": 9,
+       "answer": "K"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about dinosaurs. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (11-19) in the text."
+     ],
+     "title": "HUNTER DINOS",
+     "body": [
+      "One of the biggest of the meat-eating dinosaurs may have hunted in groups, {{0}} experts in Argentina.",
+      "At least seven T. rex-sized Mapusaurus roseae have {{11}} together in the Patagonia region of the country. It is possible that hunting together enabled the two-legged animal to overpower {{12}} plant-eating dinosaurs.",
+      "Details of the discoveries have {{13}} in the scientific journal Geodiversitas. Author Rodolfo Coria of the Carmen Funes Museum said the discovery showed evidence of social behaviour in Mapusaurus. The excavation 24 km south of Plaza Huincul found hundreds of bones from several Mapusaurs {{14}} none from any other creature. Dr Coria said the evidence suggested the animals were together before they died. Though it was possible they hunted in groups, {{15}} was no direct evidence for this, he added.",
+      "Philip Currie of the University of Alberta in Canada speculated that hunting in groups might have allowed Mapusaurs {{16}} attack the biggest known plant-eating dinosaurs. However, it is not clear {{17}} the animals cooperated in hunting, as wolves or lions do, or simply gathered around {{18}} one of them had made a kill. Dr Currie said it was hard to say {{19}} the biggest specimen was because no complete skeleton had been found. He estimated it might have measured about 12.3 m."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "as to"
+        },
+        {
+         "key": "B",
+         "text": "in spite of"
+        },
+        {
+         "key": "C",
+         "text": "according to"
+        },
+        {
+         "key": "D",
+         "text": "because of"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "to find"
+        },
+        {
+         "key": "B",
+         "text": "been found"
+        },
+        {
+         "key": "C",
+         "text": "found"
+        },
+        {
+         "key": "D",
+         "text": "find out"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "even bigger"
+        },
+        {
+         "key": "B",
+         "text": "biggest"
+        },
+        {
+         "key": "C",
+         "text": "so big"
+        },
+        {
+         "key": "D",
+         "text": "lot bigger"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "shown"
+        },
+        {
+         "key": "B",
+         "text": "discovered"
+        },
+        {
+         "key": "C",
+         "text": "published"
+        },
+        {
+         "key": "D",
+         "text": "appeared"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "but"
+        },
+        {
+         "key": "B",
+         "text": "or"
+        },
+        {
+         "key": "C",
+         "text": "so"
+        },
+        {
+         "key": "D",
+         "text": "because"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "it"
+        },
+        {
+         "key": "B",
+         "text": "all"
+        },
+        {
+         "key": "C",
+         "text": "there"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "to"
+        },
+        {
+         "key": "C",
+         "text": "why"
+        },
+        {
+         "key": "D",
+         "text": "if"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "whether"
+        },
+        {
+         "key": "B",
+         "text": "then"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "as"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "later"
+        },
+        {
+         "key": "B",
+         "text": "over"
+        },
+        {
+         "key": "C",
+         "text": "behind"
+        },
+        {
+         "key": "D",
+         "text": "after"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "how well"
+        },
+        {
+         "key": "B",
+         "text": "how much"
+        },
+        {
+         "key": "C",
+         "text": "how long"
+        },
+        {
+         "key": "D",
+         "text": "how old"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a humorous story about an examination. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (20-29) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "BIRDS",
+     "body": [
+      "Janet was a biology major at a big American university. Her biology professor announced {{0}} exam for the following week on birds. \"You will {{20}} to know everything about every type of bird {{21}} exists,\" he said. Janet spent the week studying beaks, wings {{22}} feathers of dozens of bird species.",
+      "On the day of the exam, the professor {{23}} standing behind a table with five paper bags on it. Under each bag was a model of a bird. The professor lifted the first bag a bit {{24}} reveal only the legs, and asked the class to {{25}} down the type of bird. Janet got very angry, because she could {{26}} even guess the type of bird. {{27}} the professor got to the third bag, Janet stood up, walked up to the table, and threw {{28}} crumpled test paper onto the table. She said, \"This is the {{29}} ridiculous test I have ever seen and you are an IDIOT!\"",
+      "The professor said, \"Just hold it right there, what is your name?\" Janet raised her dress to her knees and said, \"You tell me!\""
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "an"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "have",
+        "need"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "and"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "write",
+        "put",
+        "jot"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "When",
+        "As",
+        "After"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "the",
+        "her"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "most"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2009-maj-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a telephone conversation.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_09maj_fl.mp3",
+      "start": 0,
+      "end": 501.69,
+      "clip": "hang/k_angol_09maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The caller would like to talk to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Christopher."
+        },
+        {
+         "key": "B",
+         "text": "Mary."
+        },
+        {
+         "key": "C",
+         "text": "Jane."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "Mary and the kids have gone …",
+       "options": [
+        {
+         "key": "A",
+         "text": "to the nursery school."
+        },
+        {
+         "key": "B",
+         "text": "for a walk."
+        },
+        {
+         "key": "C",
+         "text": "to the swimming pool."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "Mary and Jane are going to … tomorrow.",
+       "options": [
+        {
+         "key": "A",
+         "text": "do some work together"
+        },
+        {
+         "key": "B",
+         "text": "a job interview"
+        },
+        {
+         "key": "C",
+         "text": "interview someone"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Jane cannot keep her date because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "she will have to go to the airport."
+        },
+        {
+         "key": "B",
+         "text": "she is visiting her mum."
+        },
+        {
+         "key": "C",
+         "text": "her mum is coming to see her."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Jane wants to meet Mary at …",
+       "options": [
+        {
+         "key": "A",
+         "text": "8 at the Astoria metro station."
+        },
+        {
+         "key": "B",
+         "text": "8.30 at the West End City Centre."
+        },
+        {
+         "key": "C",
+         "text": "8.30 at the Astoria metro station."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "Jane wants Mary to … C.V.",
+       "options": [
+        {
+         "key": "A",
+         "text": "write a"
+        },
+        {
+         "key": "B",
+         "text": "help her to write a"
+        },
+        {
+         "key": "C",
+         "text": "print out her"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Jane also wants Mary to bring her …",
+       "options": [
+        {
+         "key": "A",
+         "text": "pen."
+        },
+        {
+         "key": "B",
+         "text": "pen-drive."
+        },
+        {
+         "key": "C",
+         "text": "car."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Jane asks Mary … a white blouse.",
+       "options": [
+        {
+         "key": "A",
+         "text": "to bring her"
+        },
+        {
+         "key": "B",
+         "text": "to wear"
+        },
+        {
+         "key": "C",
+         "text": "not to wear"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear some interesting information about Peter the Great.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_09maj_fl.mp3",
+      "start": 501.69,
+      "end": 1073.76,
+      "clip": "hang/k_angol_09maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What started with Peter the Great? {{gap}}",
+       "accept": [
+        "Modern Russia"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What was he fascinated by? {{gap}}",
+       "key": "(Mechanical) inventions.",
+       "keywords": [
+        [
+         "inventions"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What did he build? {{gap}}",
+       "key": "A ship.",
+       "keywords": [
+        [
+         "ship"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "What did he import besides skilled labour? {{gap}}",
+       "key": "Military experts.",
+       "keywords": [
+        [
+         "military",
+         "experts"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "What did he encourage? {{gap}}",
+       "key": "Smoking.",
+       "keywords": [
+        [
+         "smoking"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "What did he modernise? {{gap}}",
+       "key": "(The) calendar.",
+       "keywords": [
+        [
+         "calendar"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "What did the Russians who Peter taxed wear? {{gap}}",
+       "key": "Beards.",
+       "keywords": [
+        [
+         "beards"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "What did he build on the eastern shores of the Baltic? {{gap}}",
+       "key": "A new capital / St. Petersburg.",
+       "keywords": [
+        [
+         "new",
+         "capital"
+        ],
+        [
+         "st",
+         "petersburg"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "In which year did he jump into the cold northern ocean? {{gap}}",
+       "key": "(In) 1724.",
+       "keywords": [
+        [
+         "1724"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2009-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you are going to hear an interview with Samantha Butler, a young Canadian violinist.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter into the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_09maj_fl.mp3",
+      "start": 1073.76,
+      "end": 1789.46,
+      "clip": "hang/k_angol_09maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Samantha Butler left Canada when she was 7.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "She was very unhappy when she left Canada.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "She would have enjoyed physical activities.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "The nicest concert hall she has ever played in is in Europe.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "She doesn't mind the time difference between Canada and Europe.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Her proudest moment is winning the Canadian Young Musician of the Year Competition.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "All her family and friends were watching her play in the competition.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Her most treasured possession is a musical instrument.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "She doesn't like modern dance very much.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "She could only imagine doing a job which has something to do with music.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "She bought the jazz CD in America.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1371 @@
+{
+ "formatVersion": 1,
+ "id": "2012-okt-kozep",
+ "year": 2012,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2012-10-18",
+ "code": "1119",
+ "sourceFiles": {
+  "paper": "2012 - Középszintű októberi/k_angol_12okt_fl.pdf",
+  "key": "2012 - Középszintű októberi/k_angol_12okt_ut.pdf",
+  "audio": "2012 - Középszintű októberi/k_angol_12okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2012-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with Jane, who is a nurse, the questions have been removed.",
+      "Your task is to read the text and match the questions (A-K) with the answers (1-8).",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nAlmost 9 years.",
+      "{{1}}\nWhen I was six years old, I was in hospital to have my tonsils removed. The nurse, Brenda, was so sweet and helpful. On leaving the hospital, I told my mum I was going to be a nurse when I grew up.",
+      "{{2}}\nMy mother wanted to be a nurse, but she had an aunt who was a nurse and who discouraged her.",
+      "{{3}}\nIt was great. We had doctors who did most of our lectures and were experts in their fields.",
+      "{{4}}\nI started working in a hospital.",
+      "{{5}}\nMost of them took us under their wings and gave us plenty of chances to improve. They remembered how it felt when they started.",
+      "{{6}}\nHelping patients understand their illness and relax, and seeing them get better.",
+      "{{7}}\nYes, infection and physical injury are the main risks.",
+      "{{8}}\nKeeping a balance between my work and the rest of my life is not always easy. It has been even more difficult since I started a family, but fortunately hospitals allow a flexible schedule.",
+      "(www.nursing-school.org)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What do you like most about your job?"
+      },
+      {
+       "key": "B",
+       "text": "What was your first job?"
+      },
+      {
+       "key": "C",
+       "text": "How long have you been a nurse?"
+      },
+      {
+       "key": "D",
+       "text": "Do you have any relatives in the medical professions?"
+      },
+      {
+       "key": "E",
+       "text": "How did the more experienced nurses treat you and other new nurses?"
+      },
+      {
+       "key": "F",
+       "text": "What advice would you give someone who wants to be a nurse?"
+      },
+      {
+       "key": "G",
+       "text": "How did you decide to become a nurse?"
+      },
+      {
+       "key": "H",
+       "text": "Have you ever felt that your job places you in danger?"
+      },
+      {
+       "key": "I",
+       "text": "How do you manage your work time and your home life?"
+      },
+      {
+       "key": "K",
+       "text": "What was nursing school like?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "rövid szövegek párosítása állításokhoz",
+     "points": 7,
+     "instructions": [
+      "Read the comments (9-15) on an Internet forum about school uniforms.",
+      "Your task is to match each comment with one of the sentences (A-I).",
+      "Write the appropriate letters in the white boxes as in the example (0).",
+      "Remember that there is an extra letter that you will not need."
+     ],
+     "bankLead": "The person who wrote the comment says that ...",
+     "bank": [
+      {
+       "key": "A",
+       "text": "schools should focus on the important aspects of education."
+      },
+      {
+       "key": "B",
+       "text": "pupils can always find ways to show that they are rich."
+      },
+      {
+       "key": "C",
+       "text": "school uniforms can be more expensive than other clothes."
+      },
+      {
+       "key": "D",
+       "text": "some people haven’t changed their negative opinions about school uniforms."
+      },
+      {
+       "key": "E",
+       "text": "school uniforms can help teenagers feel less stressed about what they look like."
+      },
+      {
+       "key": "F",
+       "text": "pupils should have the right to choose if they want to wear a uniform."
+      },
+      {
+       "key": "G",
+       "text": "pupils who have to wear uniforms are usually very polite."
+      },
+      {
+       "key": "H",
+       "text": "some pupils were not allowed to stay at school because they broke school rules."
+      },
+      {
+       "key": "I",
+       "text": "some adults have to wear uniforms when they are working."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "I am not wealthy, but clothes are not so expensive nowadays. You can buy nice shirts and trousers for less than the cost of such uniforms.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "We got sent home from school for wearing trousers in protest against a dress code that said girls had to wear dresses.",
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "stem": "Why not let the kids decide? If they want to wear the uniform they can, and if not then not.",
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "stem": "Uniforms are pointless anachronisms that most of us hate now as much as we did 25 years ago when we were at school.",
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "stem": "Why do pupils complain? People like firefighters, nurses and policemen are also expected to wear uniforms, and to go against those requirements might mean losing their jobs.",
+       "answer": "I"
+      },
+      {
+       "n": 13,
+       "stem": "Does school uniform really matter? I think the education system has, so clearly, forgotten what it's supposed to do – to spread knowledge and teach skills to our sons and daughters.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "When I was at school, despite having a uniform, it was easy to tell who was from a better economic background. You just had to look at the bags, shoes and haircuts. I am sure it hasn’t changed.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "I remember I had a lot of difficulties when I was at secondary school, but at least I didn't have to worry about whether I was fashionable enough. Luckily, we had school uniforms at my school.",
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about an environmentally friendly town in Australia and then read the sentences (16-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to say if it is true or not."
+     ],
+     "title": "PLASTIC BOTTLES OUT!",
+     "body": [
+      "The Australian town of Bundanoon, locally called Bundy, has banned the sale of bottled water, attracting attention from around the world. A community meeting last night took the unusual step, making it the first town in Australia, possibly the world, to ban bottled water.",
+      "The Bundy on Tap campaign will see still bottled water replaced by reusable plastic bottles that can be bought, and then filled up for free at water stations throughout the town. The campaign was the idea of Huw Kingston, who owns the local bike shop. Mr Kingston says he is happy with the decision but surprised by the great interest in his idea.",
+      "After doing more than 70 media interviews yesterday, Mr Kingston was still receiving calls from the BBC, as well as New Zealand and Japanese media, last night.",
+      "The locals are also stunned by their new-found fame. \"I've been following it on the internet and this is truly amazing,\" one resident said.",
+      "The idea has caught on as New South Wales Premier Nathan Rees ordered all State Government departments and agencies to stop buying bottled water. \"We want to move away from bottled water because of the pollution,\" he said.",
+      "Last night, more than 350 people voted on Bundanoon's proposal to ban the sale of bottled water by the end of the year.",
+      "A representative of the bottled water lobby stood in front of the gathering to defend the industry, but only one local resident agreed with him. \"There's a far bigger health issue, which is the diabetes issue. If we're taking away water from the shops, they will then sell only sugar drinks. I think we're on the wrong track,\" he said.",
+      "But a show of hands made it clear that Bundy locals were ready to ban the bottle.",
+      "(www.abc.net.au)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The people of Bundanoon call their town Bundy for short.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Last night Bundanoon decided to join other towns on the continent in banning bottled water.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "You will be able to buy reusable bottles filled up with still water.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Huw Kingston had never been on television before.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "Mr. Kingston and other local residents share the same feeling about the media attention.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Nathan Rees believes that bottled water has a negative effect on the environment.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Last night’s vote took place in the City Hall.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "All the citizens of Bundanoon say that the ban is a good idea.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In this text, which is about a young man who wanted to move to Canada, some parts of sentences have been removed.",
+      "Your task is to fill in the gaps (23-29) from the list (A-I) below.",
+      "There is one extra letter that you do not need."
+     ],
+     "title": "YOUNG MAN, OLD MAN",
+     "body": [
+      "Canadian authorities were trying to find out on Friday how a man in his 20s was able to board a flight from Hong Kong to Vancouver {{0}}. The young man, who was arrested when he arrived in Canada, boarded an Air Canada flight on October 29. When he boarded the plane he was wearing a realistic silicon head-and-neck mask {{23}}, according to media reports.",
+      "A spokesman for Canada's public safety minister confirmed the incident, {{24}}. The man requested asylum* in Canada when he arrived, so officials cannot reveal his name {{25}}.",
+      "The man was able to board the flight apparently without a passport or any other documents with a picture or date of birth. He carried the boarding pass of a U.S. citizen {{26}}. Although the young man is of Asian origin, the mask made him look like a very elderly white person.",
+      "It is believed {{27}}, which he then used to board the plane, according to the Canadian Border Services Agency.",
+      "An investigation is underway to find out if security regulations were broken. It is the responsibility of airlines {{28}}. Airport staff are supposed to look at a passenger's whole face to decide if they appear to be over 18 and if so, compare their physical appearance with their travel documents.",
+      "It is more than probable {{29}} and took off his mask as he no longer needed it, according to the CBSA report, which also said that the impostor did not try to disguise the age of his hands. During a search of the man's luggage they found gloves, a silicon mask and a pair of very thick glasses.",
+      "(www.reuters.com)",
+      "*: permission to stay in a foreign country"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "or where he is from"
+      },
+      {
+       "key": "B",
+       "text": "but offered no further comment"
+      },
+      {
+       "key": "C",
+       "text": "after disguising himself as an elderly passenger"
+      },
+      {
+       "key": "D",
+       "text": "to check the identity of passengers"
+      },
+      {
+       "key": "E",
+       "text": "who was booked on the flight"
+      },
+      {
+       "key": "F",
+       "text": "that the man went into the airplane toilet midway through the flight"
+      },
+      {
+       "key": "G",
+       "text": "to put on the mask before the flight"
+      },
+      {
+       "key": "H",
+       "text": "that made him appear elderly"
+      },
+      {
+       "key": "I",
+       "text": "that the young man stole the American passenger’s boarding pass"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "I"
+      },
+      {
+       "n": 28,
+       "answer": "D"
+      },
+      {
+       "n": 29,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 9,
+    "15": 10,
+    "16": 11,
+    "17": 11,
+    "18": 12,
+    "19": 13,
+    "20": 13,
+    "21": 14,
+    "22": 15,
+    "23": 15,
+    "24": 16,
+    "25": 17,
+    "26": 17,
+    "27": 18
+   },
+   "tasks": [
+    {
+     "id": "2012-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a British colony. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "A REMOTE ISLAND",
+     "body": [
+      "St Helena is an island of {{0}} origin in the South Atlantic Ocean. It is part of the British overseas territory of three islands. St Helena is one of the most {{1}} islands in the world. It is {{2}} best known as the island to which French emperor Napoleon Bonaparte was exiled after his defeat at Waterloo. After the South African war of 1899-1902, more than 6,000 {{3}} were held there.",
+      "Until its {{4}} by the Portuguese in 1502 St Helena was uninhabited. For centuries, it was an important stopover for ships sailing to Europe from Asia and South Africa. Its luck {{5}} until the late 1800s when steam started replacing sail, and the {{6}} of the Suez Canal changed the sea routes. As a result, a lot of residents left the island. These days the British {{7}} hopes to change the trend and help the island develop by making it reachable by air and therefore more {{8}} to tourists. According to the plan an airport is going to be {{9}} in 2012. The RMS (Royal Mail Ship) St Helena is currently the only public form of access to the island.",
+      "(http://news.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "volcano",
+       "example": true,
+       "accept": [
+        "volcanic"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "isolate",
+       "accept": [
+        "isolated"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "probable",
+       "accept": [
+        "probably"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "prison",
+       "accept": [
+        "prisoners"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "discover",
+       "accept": [
+        "discovery"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "last",
+       "accept": [
+        "lasted"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "open",
+       "accept": [
+        "opening"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "govern",
+       "accept": [
+        "government",
+        "governor"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "attract",
+       "accept": [
+        "attractive"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "complete",
+       "accept": [
+        "completed",
+        "complete"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about crows. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-19) in the text."
+     ],
+     "title": "A MISUNDERSTOOD BIRD",
+     "body": [
+      "Crows are often misunderstood, and their intelligence level {{0}} greatly underrated. The crow, however, doesn’t deserve the bad reputation {{10}} we humans have given it.",
+      "Humans make and use tools to ensure that {{11}} lives are comfortable. What a lot of people don’t know about the crow {{12}} that this bird has a talent which is actually one of the defining characteristics {{13}} being human: the ability to make and use tools. This surprising discovery suggests that the crow has as high a level of intelligence {{14}} a chimp.",
+      "Crows will use sticks to get bugs or other food out of small cracks. They can even bend a piece of wire into a hook {{15}} they need one for the task at hand. They {{16}} to drop hard shelled nuts onto sidewalks to crack them. And if this is {{17}} successful, they throw them into a direct line of traffic so a passing car will crack the nut. In addition to this, they {{18}} changing traffic lights and pedestrian crossing signals for safe time periods when they can get their meal {{19}} the danger of being run over by passing cars.",
+      "(http://www.squidoo.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "was"
+        },
+        {
+         "key": "B",
+         "text": "has"
+        },
+        {
+         "key": "C",
+         "text": "is"
+        },
+        {
+         "key": "D",
+         "text": "can"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "as"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "why"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "there"
+        },
+        {
+         "key": "B",
+         "text": "these"
+        },
+        {
+         "key": "C",
+         "text": "then"
+        },
+        {
+         "key": "D",
+         "text": "their"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "-"
+        },
+        {
+         "key": "B",
+         "text": "might"
+        },
+        {
+         "key": "C",
+         "text": "is"
+        },
+        {
+         "key": "D",
+         "text": "like"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "to"
+        },
+        {
+         "key": "B",
+         "text": "how"
+        },
+        {
+         "key": "C",
+         "text": "at"
+        },
+        {
+         "key": "D",
+         "text": "of"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "than"
+        },
+        {
+         "key": "B",
+         "text": "as"
+        },
+        {
+         "key": "C",
+         "text": "then"
+        },
+        {
+         "key": "D",
+         "text": "but"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "so"
+        },
+        {
+         "key": "B",
+         "text": "unless"
+        },
+        {
+         "key": "C",
+         "text": "if"
+        },
+        {
+         "key": "D",
+         "text": "though"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "have learnt"
+        },
+        {
+         "key": "B",
+         "text": "had learnt"
+        },
+        {
+         "key": "C",
+         "text": "shall learn"
+        },
+        {
+         "key": "D",
+         "text": "would learn"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "fully"
+        },
+        {
+         "key": "B",
+         "text": "not"
+        },
+        {
+         "key": "C",
+         "text": "ever"
+        },
+        {
+         "key": "D",
+         "text": "just"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "watch"
+        },
+        {
+         "key": "B",
+         "text": "look"
+        },
+        {
+         "key": "C",
+         "text": "see"
+        },
+        {
+         "key": "D",
+         "text": "find"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "except"
+        },
+        {
+         "key": "B",
+         "text": "accept"
+        },
+        {
+         "key": "C",
+         "text": "without"
+        },
+        {
+         "key": "D",
+         "text": "over"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a strange emergency call. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (20-27) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "CAT DIALS 999",
+     "body": [
+      "Police responding to a 999 call from a house in Swansea realised they'd been called {{0}} Ginger the cat when they showed up on the doorstep.",
+      "Retired lecturer Howard Moss, 64, got out of bed at 2.30 a.m. to find two policemen on his doorstep answering an emergency call {{20}} had been made from his house. As Mr. Moss insisted he’d been asleep since midnight, the officers searched the house and found Ginger sleeping next {{21}} the phone, which was slightly off the hook. Later, computer checks proved the call had come {{22}} his home in Swansea.",
+      "Mr. Moss said: “One {{23}} the officers noticed Ginger asleep on the phone table. The phone was off the hook and Ginger had a paw on the phone keyboard. They quickly came to the only possible conclusion: that {{24}} was Ginger who made the 999 call.”",
+      "“Ginger didn’t understand {{25}} all the fuss was about,' Mr. Moss added. “He just jumped down off the table.”",
+      "Luckily, South Wales Police had {{26}} good sense of humour. They confirmed that an emergency call {{27}} received in the early hours of Tuesday, which turned out to be the result of a family cat sleeping on the phone. A spokesperson added: “It was a purrfect ending for everyone.”",
+      "(http://www.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "what",
+        "who"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "a"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "was"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 14,
+    "11": 15,
+    "12": 17,
+    "13": 18,
+    "14": 19,
+    "15": 21,
+    "16": 22,
+    "17": 23,
+    "18": 25,
+    "19": 26,
+    "20": 28,
+    "21": 29,
+    "22": 30,
+    "23": 32,
+    "24": 33
+   },
+   "tasks": [
+    {
+     "id": "2012-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear a true story about a dangerous python.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_12okt_fl.mp3",
+      "start": 0,
+      "end": 453.77,
+      "clip": "hang/k_angol_12okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "When did Italian police find the python? {{gap}}",
+       "accept": [
+        "On Wednesday"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "How long was the python? {{gap}}",
+       "key": "Three / 3 m / metres/meters (long).",
+       "keywords": [
+        [
+         "3",
+         "m"
+        ],
+        [
+         "3",
+         "metres"
+        ],
+        [
+         "3",
+         "meters"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Who did the Italian police call in to catch the animal? {{gap}}",
+       "key": "The special branch (of the Italian Police).",
+       "keywords": [
+        [
+         "special",
+         "branch"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Where in the room was the python waiting for the police? {{gap}}",
+       "key": "(Right) behind the door.",
+       "keywords": [
+        [
+         "behind",
+         "door"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What was the snake guarding? {{gap}}",
+       "key": "(A large packet of pure) cocaine / drugs.",
+       "keywords": [
+        [
+         "cocaine"
+        ],
+        [
+         "drugs"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "How long had the python been starved? {{gap}}",
+       "key": "(For) seven / 7 days / a week.",
+       "keywords": [
+        [
+         "7",
+         "days"
+        ],
+        [
+         "week"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Where was the animal taken? {{gap}}",
+       "key": "To a reptile house.",
+       "keywords": [
+        [
+         "reptile",
+         "house"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "How many people were arrested? {{gap}}",
+       "key": "Twelve / 12.",
+       "keywords": [
+        [
+         "twelve"
+        ],
+        [
+         "12"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(A helyes válaszoknak tartalmazniuk kell a vastagon szedett szavakat vagy a variációk [/] egyikét.)"
+     }
+    },
+    {
+     "id": "2012-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear an interview with Chris Young, an American country singer.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_12okt_fl.mp3",
+      "start": 453.77,
+      "end": 1060.33,
+      "clip": "hang/k_angol_12okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "“He’s my dad” is about Chris Young’s stepfather.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Chris Young is an only child.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Chris looks very much like his stepdad.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Chris Young’s mother knew that Michael would make a good father for Chris.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "Chris started singing when he was nine.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Chris was thinking of becoming a lawyer when he was in high school.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Chris is still taking voice lessons.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Anyone can go to Chris Young’s Fan Club Party without paying.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Chris has never forgotten the words of a song since the dinner party incident.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Chris doesn’t think that a contract for a record is important to him.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear Brian Hill, who is giving some tourists information about a national park in Christchurch, New Zealand.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_12okt_fl.mp3",
+      "start": 1060.33,
+      "end": 1795.71,
+      "clip": "hang/k_angol_12okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Brian Hill works for ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "Crown Plaza Hotel."
+        },
+        {
+         "key": "B",
+         "text": "Willowbank Wildlife Reserve."
+        },
+        {
+         "key": "C",
+         "text": "Christchurch Tourist Information Centre."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Christchurch…",
+       "options": [
+        {
+         "key": "A",
+         "text": "is the biggest city in New Zealand."
+        },
+        {
+         "key": "B",
+         "text": "has more inhabitants than the capital of New Zealand."
+        },
+        {
+         "key": "C",
+         "text": "has more than one million people."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "“Wild New Zealand” shows animals…",
+       "options": [
+        {
+         "key": "A",
+         "text": "which were originally brought in from other countries."
+        },
+        {
+         "key": "B",
+         "text": "like goats and sheep."
+        },
+        {
+         "key": "C",
+         "text": "which make up the unique New Zealand wildlife."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "The Kea …",
+       "options": [
+        {
+         "key": "A",
+         "text": "likes honey."
+        },
+        {
+         "key": "B",
+         "text": "is a dinosaur."
+        },
+        {
+         "key": "C",
+         "text": "is a Maori symbol."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "You can visit the park …",
+       "options": [
+        {
+         "key": "A",
+         "text": "before nine in the morning."
+        },
+        {
+         "key": "B",
+         "text": "after ten in the evening."
+        },
+        {
+         "key": "C",
+         "text": "without a guide."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The night tours …",
+       "options": [
+        {
+         "key": "A",
+         "text": "start if there are more than fifteen visitors."
+        },
+        {
+         "key": "B",
+         "text": "last for 90 minutes."
+        },
+        {
+         "key": "C",
+         "text": "are more interesting than the daytime tours."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Ko Tane performances …",
+       "options": [
+        {
+         "key": "A",
+         "text": "are held in the afternoon."
+        },
+        {
+         "key": "B",
+         "text": "introduce visitors to Maori culture."
+        },
+        {
+         "key": "C",
+         "text": "are rather frightening."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "You must…",
+       "options": [
+        {
+         "key": "A",
+         "text": "pay for the minibus ride."
+        },
+        {
+         "key": "B",
+         "text": "buy tickets at the entrance."
+        },
+        {
+         "key": "C",
+         "text": "book tickets in advance."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Tickets ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "for students are cheaper than for seniors."
+        },
+        {
+         "key": "B",
+         "text": "for six-year-olds cost nothing."
+        },
+        {
+         "key": "C",
+         "text": "cost less if you buy them through Brian."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

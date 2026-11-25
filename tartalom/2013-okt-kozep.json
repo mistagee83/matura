@@ -1,0 +1,1195 @@
+{
+ "formatVersion": 1,
+ "id": "2013-okt-kozep",
+ "year": 2013,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2013-10-17",
+ "code": "1312",
+ "sourceFiles": {
+  "paper": "2013 - Középszintű októberi/k_angol_13okt_fl.pdf",
+  "key": "2013 - Középszintű októberi/k_angol_13okt_ut.pdf",
+  "audio": "2013 - Középszintű októberi/k_angol_13okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2013-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following interview with Fred Gitelman, whose Bridge Base Online is the largest bridge website in the world, the questions have been removed.",
+      "Your task is to match the questions (A- H) and the answers (1-6).",
+      "There is one extra question that you do not need."
+     ],
+     "title": "60 SECONDS WITH FRED GITELMAN",
+     "body": [
+      "{{0}}\nWhen I was a teenager. It’s a beautiful game. Every time you deal the cards, there’s a completely new problem to solve.",
+      "{{1}}\nMy wife convinced me that starting a software company and developing bridge software might actually work. Nobody even knew the Internet existed at that time. PCs were not household things.",
+      "{{2}}\nIt’s not an important difference for me. There was a movement to get bridge into the Olympics. That’s when they started calling it both ways.",
+      "{{3}}\nAbsolutely. People still see it as a game that one’s grandmother plays. I’d really like to see our software help make the game more popular among a younger generation.",
+      "{{4}}\nIt was a lifelong dream come true, so very exciting. But it was also extremely intense. You play eight hours a day, for two weeks. You’re just sitting there thinking and thinking and thinking.",
+      "{{5}}\nYes, my partner and I made a grand slam very close to the end. Our opponents were universally considered to be the best ever. It’s like playing against Michael Jordan and getting a slam dunk with two seconds left.",
+      "{{6}}\nThat’s not the term I would use. I’ve become friends with him; we play sometimes, and he’ll ask me for advice.",
+      "(http://www.magazine.utoronto.ca)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Does the image of bridge need changing?"
+      },
+      {
+       "key": "B",
+       "text": "Does one key moment stand out for you?"
+      },
+      {
+       "key": "C",
+       "text": "When did you first discover bridge?"
+      },
+      {
+       "key": "D",
+       "text": "How often do you play?"
+      },
+      {
+       "key": "E",
+       "text": "What made you combine bridge and computers?"
+      },
+      {
+       "key": "F",
+       "text": "Is it true that you have coached Bill Gates in bridge?"
+      },
+      {
+       "key": "G",
+       "text": "What was the World Bridge Championship like for you?"
+      },
+      {
+       "key": "H",
+       "text": "Some articles use the word sport, some use the word game – which is it for you?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read this article about the dangers of cycling in Amsterdam and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there is one extra letter that you will not need."
+     ],
+     "title": "AMSTERDAM BY BIKE",
+     "body": [
+      "According to Amsterdam’s tourism board, the canal-crossed Dutch city is one of the most cycle-friendly places in the world, but recently locals have become less enthusiastic about the tourists that come to see Amsterdam on two wheels.",
+      "\"The problem is that we Dutch are good cyclists. We're like anarchists on bikes who know how to break the rules,\" said Rolf Hermsen, who is one of the many city residents who use their bikes to get around. \"The tourists try to keep the rules, but they can't cycle properly. They can't cycle while looking for traffic behind them, so they just fall over.\"",
+      "\"There are people who say tourists need more instructions to ride bikes,\" said Jo Ligtvoeld from the Tourist Board. \"More and more Dutch people are complaining about tourists. I think it's because Amsterdam is a small city compared to other European capitals.\"",
+      "Amsterdam also has a reputation as a \"freedom city\" for allowing marijuana smoking and for its red light district. The city attracts thousands of tourists each year, who are often responsible for noise pollution and garbage on the streets. The Tourist Board says that it’s these visitors, rather than the cycling ones, that create the most problems with local residents.",
+      "However, when it comes to cycling, Amsterdam residents are good at spotting the tourist-on- wheels. \"Tourists should, just like the locals, have lights on their bikes and follow general traffic instructions. Just because Amsterdam likes freedom, that does not mean there are no rules to be followed,\" Jo Ligtvoeld said.",
+      "Her solution to the conflict between visitors and residents is to attract tourists to the less busy parks and cycleways of Amsterdam's quieter suburbs. Anyway, if you do choose to cycle in Amsterdam, the Tourism Board's website helpfully explains where you can rent bikes and how to follow Amsterdam's traffic rules.",
+      "(www.bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "is safer out of the city centre."
+      },
+      {
+       "key": "B",
+       "text": "holds the size of the city responsible for the problem."
+      },
+      {
+       "key": "C",
+       "text": "is a great city to cycle."
+      },
+      {
+       "key": "D",
+       "text": "don’t like tourists on bikes as much as they used to."
+      },
+      {
+       "key": "E",
+       "text": "cost Amsterdam a lot of money. a lot of noise and rubbish"
+      },
+      {
+       "key": "F",
+       "text": "aren’t very good at cycling."
+      },
+      {
+       "key": "G",
+       "text": "usually follows some basic traffic rules which most tourists don’t."
+      },
+      {
+       "key": "H",
+       "text": "may be causing more problems than bad cyclists."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Dutch capital",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The people of Amsterdam",
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "stem": "The tourists",
+       "answer": "F"
+      },
+      {
+       "n": 9,
+       "stem": "Ms. Ligtvoeld",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The tourists who create",
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "stem": "A local cyclist",
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "stem": "A tourist on a bike",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this text about the first official portrait of the Duchess of Cambridge, some parts of sentences have been removed.",
+      "Your task is to fill in the gaps (13-20) from the list (A-K) below.",
+      "There is one extra letter that you do not need."
+     ],
+     "title": "I'M THRILLED!",
+     "body": [
+      "When the Duchess of Cambridge’s first official portrait was presented to the public yesterday, art critics were, unusually, largely united in their criticism. ‘Horrible ... rotten ... an out and out disaster,’ was the view of Robin Simon, {{0}}.",
+      "Kate, who was on her first official outing for almost a month, was far more polite. ‘It’s just amazing. Absolutely brilliant,’ she told the artist, Paul Emsley, when she met him at the National Portrait Gallery, {{13}}. Her husband, Prince William, nodded wisely. ‘It’s beautiful, it’s absolutely beautiful,’ he agreed.",
+      "From others, however, the biggest criticism seemed to be the generally ageing nature of the portrait, {{14}}. Most seemed to think it makes the duchess, who turned 31 this week, look at least 15 years older. One visitor to the gallery yesterday couldn’t get over what they described as her ‘grey, smoker’s skin’, while another commented that her mouth appears to be set in a grimace, {{15}}.",
+      "To be fair, royal portraiture has always been a subjective issue. Rolf Harris, {{16}}, admitted that in the early stages he made the monarch look like a ‘pork butcher from Norwich’.",
+      "Yesterday Kate and her family spent around ten minutes looking at the picture and {{17}}, after which the media were allowed in.",
+      "Asked what the duchess thought of his work, Mr Emsley said yesterday: ‘I think, from what I can see this morning, she’s delighted with it. The fact {{18}} is difficult for me as an artist. It is much easier for an artist to paint a model as a real person {{19}}. Obviously, she has none of that. But I tried to do that with her smile {{20}}.’",
+      "The portrait, which has probably cost over £20,000, has been donated to the gallery by art philanthropist Sir Hugh Legatt.",
+      "(www.dailymail.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "and not the promised enigmatic smile"
+      },
+      {
+       "key": "B",
+       "text": "and hope I have succeeded"
+      },
+      {
+       "key": "C",
+       "text": "who is the editor of the prestigious British Art Journal"
+      },
+      {
+       "key": "D",
+       "text": "which took three and a half months to produce"
+      },
+      {
+       "key": "E",
+       "text": "then attended a private breakfast reception"
+      },
+      {
+       "key": "F",
+       "text": "where the picture will hang"
+      },
+      {
+       "key": "G",
+       "text": "that she is a beautiful woman"
+      },
+      {
+       "key": "H",
+       "text": "where the Duke and the Duchess live"
+      },
+      {
+       "key": "I",
+       "text": "when they have lines and wrinkles on their face"
+      },
+      {
+       "key": "K",
+       "text": "who was asked to paint the Queen in 2005"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "answer": "F"
+      },
+      {
+       "n": 14,
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "K"
+      },
+      {
+       "n": 17,
+       "answer": "E"
+      },
+      {
+       "n": 18,
+       "answer": "G"
+      },
+      {
+       "n": 19,
+       "answer": "I"
+      },
+      {
+       "n": 20,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about a woman’s lucky bargain and then read the statements (21-28) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "VIRGINIA WOMAN BUYS $7 RENOIR PAINTING AT FLEA MARKET",
+     "body": [
+      "A woman from Virginia, who paid seven dollars for a Renoir painting at a flea market, will sell the piece this month for what should be a pretty profit. She had forgotten all about it until she recently decided to clean the house from top to bottom.",
+      "Potomack Co., the auction company, suggested that she put the painting, \"Paysage Bords de Seine\" by impressionist Pierre-Auguste Renoir, up for sale for $75,000 to $100,000.",
+      "Back almost two years ago, while she was shopping at a West Virginia flea market, the woman, who wants to remain anonymous, found the painting in a box of cheap junk priced at seven dollars by pure chance. When she decided to tidy her home about a week ago she unexpectedly came face-to-face with the painting again. Though the painting was signed by a certain Renoir, she didn't find this very interesting and hoped that she might be able to use its gold frame. But her mother told her to find out about the value of the picture.",
+      "\"I actually listened to my mom for once,\" the woman said in an interview. She then contacted Potomack Co., where she showed it to Anne Craner, an art specialist.",
+      "\"Clearly, it had Renoir's colours, it was the work of his brush,\" Ms. Craner said. She was later able to use a catalogue to show that the painting was genuine.",
+      "The lucky woman said she is still waiting for the shock to go away. \"I just want to enjoy it quietly,\" she said.",
+      "She plans to take her mother to France after the auction and will take some flowers to Renoir's grave. \"I just want to say thank you to him,\" she said.",
+      "(http://news.yahoo.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The woman from Virginia bought the painting at an art exhibition.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "She kept the painting in the basement of her house.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "She will probably receive more than $75,000 for the painting.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "There were other valuable objects in the box where she found the painting.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "She phoned her mother as soon as she had bought the picture.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "The woman doesn't usually take her mother’s advice.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Ms. Craner is still not sure that the painting is a Renoir.",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "Her friends are very happy about the good news.",
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "stem": "The woman will already be in France with her mother when they sell the painting.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": null,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2013-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a museum in Boston, Massachusetts. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-11) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "THE MUSEUM OF BAD ART",
+     "body": [
+      "The Museum of Bad Art is the world’s {{0}} museum which is dedicated to the collection and exhibition of bad art in all {{1}} forms. The museum attracts thousands of visitors from all over the world.",
+      "Filled with paintings {{2}} in yard sales, rescued from the rubbish dump {{3}} mysteriously donated, the museum features pieces of art which are ‘so bad {{4}} they’re good’.",
+      "The ‘disasterpieces’ on {{5}} include a reproduction of the Mona Lisa that would have Da Vinci spinning in his grave.",
+      "‘We use the same strict selection criteria {{6}} traditional art museums,’ said the attraction’s executive director Louise Reilly Sacco. ‘Works must {{7}} original, sincere and interesting, and they must have a message. But something must have gone spectacularly {{8}}, too. It could be an unfortunate subject, an experiment in {{9}}, perspective or design that {{10}} or an artist who barely knows {{11}} end of the paintbrush is up.’ The director claims that most people leave the museum with a smile on their face.",
+      "(http://metro.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AS"
+      },
+      {
+       "key": "B",
+       "text": "BE"
+      },
+      {
+       "key": "C",
+       "text": "ONLY"
+      },
+      {
+       "key": "D",
+       "text": "COLOR"
+      },
+      {
+       "key": "E",
+       "text": "FAILED"
+      },
+      {
+       "key": "F",
+       "text": "FOUND"
+      },
+      {
+       "key": "G",
+       "text": "IT’S"
+      },
+      {
+       "key": "H",
+       "text": "ITS"
+      },
+      {
+       "key": "I",
+       "text": "OR"
+      },
+      {
+       "key": "K",
+       "text": "SHOW"
+      },
+      {
+       "key": "L",
+       "text": "THAT"
+      },
+      {
+       "key": "M",
+       "text": "WHICH"
+      },
+      {
+       "key": "N",
+       "text": "WRONG"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "I"
+      },
+      {
+       "n": 4,
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "answer": "N"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "answer": "E"
+      },
+      {
+       "n": 11,
+       "answer": "M"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a great advertising idea. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (12-19).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "UNEMPLOYED GRADUATE’S BILLBOARD ADVERT",
+     "body": [
+      "l Thousands of unemployed people spend their days filling out {{0}} forms, composing cover letters, and trying to think of a {{12}} answer to ‘why are you the best candidate for this job?’",
+      "After {{13}} applying for countless positions, Adam Pacitti had had enough - and spent his last £500 on a billboard asking {{14}} to give him a job. Adam, who lives with his family on the Isle of Wight, said he had to come up with the {{15}} idea after spending six hours a day filling out application forms.",
+      "He added: ‘I have a good degree, but others have more experience than me, so perhaps I don’t look like the most {{16}} candidate.’",
+      "The 24-year-old dreamed up the way of advertising {{17}} three months ago, after sending out his CV for at least 250 different positions.",
+      "After creating the website employadam.com, and yesterday posting the billboard and Tweeting the image, the media production graduate has received a {{18}} number of messages in less than 24 hours. Adam says after the campaign he has had some emails from companies, but no concrete job {{19}} yet - but is hopeful his campaign will persuade someone to give him a chance.",
+      "(www.dailymail.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "apply",
+       "example": true,
+       "accept": [
+        "application"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "create",
+       "accept": [
+        "creative"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "unsuccessful",
+       "accept": [
+        "unsuccessfully"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "employ",
+       "accept": [
+        "employers"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "usual",
+       "accept": [
+        "unusual"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "attract",
+       "accept": [
+        "attractive"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "he",
+       "accept": [
+        "himself"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "surprise",
+       "accept": [
+        "surprising"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "offer",
+       "accept": [
+        "offer",
+        "offers"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about possible child-free flights. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (20-28) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "CHILD-FREE FLIGHTS?",
+     "body": [
+      "A third of Britons would happily pay more for their flights if {{0}} were no children on board.",
+      "A survey of more than 2,000 Britons carried {{20}} by travel site TripAdvisor has revealed that badly behaved children are {{21}} of the biggest causes of frustration when flying. Some 37 per cent of those questioned said they were {{22}} irritated by noisy children that they would be willing to pay more to go on a flight {{23}} them.",
+      "Having a child kick the back of their seat was the biggest annoyance for 22 per cent of the respondents, while another 22 per cent said parents unable {{24}} control their children were their biggest frustration. A TripAdvisor spokeswoman, Emma Shaw, said that even on a short-haul trip, a stressful flight could {{25}} a very negative effect on the overall travel experience. “Any disturbance when flying is annoying but {{26}} seems that uncontrollable children are among the biggest causes of frustration for some passengers,” she said.",
+      "Opinions were divided over the question whether young children should {{27}} allowed to fly in first-class or business-class areas – 34 per cent said they should be excluded while 36 per cent felt they should not. The rest were undecided. “It’s clearly a topic {{28}} strongly divides opinion,” Ms Shaw said.",
+      "(http://www.independent.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "there"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "out"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "one",
+        "some"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "so"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "without"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "have",
+        "produce"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "that",
+        "which"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2013-okt-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear some information about a bank robbery in Great Britain.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_13okt_fl.mp3",
+      "start": 0,
+      "end": 574.88,
+      "clip": "hang/k_angol_13okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The cashier wasn’t afraid of the robber.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "The robber read out the note to the cashier.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The robber was given less money than he had asked for.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "The robber ran out of the bank.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "The cashier was praised for his behaviour.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "The only thing that police can analyse is the hand-written note.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "All the money was found at a junction.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Police think that the robber may have ink all over him.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Police are certain that the robber was carrying a gun.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Police cannot give a description of the robber’s face.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Police are confident that they are going to arrest the criminal.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with Scotty McCreery, a young American Country singer.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_13okt_fl.mp3",
+      "start": 574.88,
+      "end": 1154.31,
+      "clip": "hang/k_angol_13okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Scotty McCreery won American Idol in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "2010."
+        },
+        {
+         "key": "B",
+         "text": "2011."
+        },
+        {
+         "key": "C",
+         "text": "2012."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "The reporter congratulates Scotty on …",
+       "options": [
+        {
+         "key": "A",
+         "text": "winning American Idol."
+        },
+        {
+         "key": "B",
+         "text": "the success of his album."
+        },
+        {
+         "key": "C",
+         "text": "the ‘Virtual Reality Tour’."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "It was Scotty’s … who broke the news.",
+       "options": [
+        {
+         "key": "A",
+         "text": "manager"
+        },
+        {
+         "key": "B",
+         "text": "girlfriend"
+        },
+        {
+         "key": "C",
+         "text": "lawyer"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Scotty has about … to entertain his audience.",
+       "options": [
+        {
+         "key": "A",
+         "text": "half an hour"
+        },
+        {
+         "key": "B",
+         "text": "an hour"
+        },
+        {
+         "key": "C",
+         "text": "an hour and a half"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Brad Paisley …",
+       "options": [
+        {
+         "key": "A",
+         "text": "projected a funny picture of Scotty."
+        },
+        {
+         "key": "B",
+         "text": "sang the last song in the show."
+        },
+        {
+         "key": "C",
+         "text": "decided to take revenge on Scotty."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Scotty wrote his name on a fan’s …",
+       "options": [
+        {
+         "key": "A",
+         "text": "picture."
+        },
+        {
+         "key": "B",
+         "text": "shirt."
+        },
+        {
+         "key": "C",
+         "text": "body."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "On this tour Scotty needs …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a lot of sweets."
+        },
+        {
+         "key": "B",
+         "text": "to watch baseball."
+        },
+        {
+         "key": "C",
+         "text": "his iPod."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Scotty …",
+       "options": [
+        {
+         "key": "A",
+         "text": "prefers hanging out with his friends to singing."
+        },
+        {
+         "key": "B",
+         "text": "prefers getting out with his fans to being a high school student."
+        },
+        {
+         "key": "C",
+         "text": "equally enjoys schoolwork and being on the road."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear some information about a special holiday in the U.S.A.",
+      "Your task will be to complete the sentences with two words in each sentence. Please use the exact words that you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_13okt_fl.mp3",
+      "start": 1154.31,
+      "end": 1796.58,
+      "clip": "hang/k_angol_13okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The U.S.A is one of the few countries in the world that celebrates {{gap}} {{gap}} as an official holiday.",
+       "gaps": [
+        [
+         "Father’s"
+        ],
+        [
+         "Day"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "On this special day in June, fathers are given {{gap}} or treated to {{gap}} by their children.",
+       "gaps": [
+        [
+         "presents"
+        ],
+        [
+         "dinner"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Some say that the origins of Father’s Day go back to West Virginia in {{gap}}, whereas according to others it all began in Vancouver (Washington) in {{gap}}.",
+       "gaps": [
+        [
+         "1900"
+        ],
+        [
+         "1908"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Mrs. Dodd thought that she had a(n) {{gap}} father, who, by the way, was a(n) {{gap}} of the Civil War.",
+       "gaps": [
+        [
+         "outstanding"
+        ],
+        [
+         "veteran"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "After the early death of his {{gap}}, Mr. Dodd had raised their {{gap}} children by himself.",
+       "gaps": [
+        [
+         "wife"
+        ],
+        [
+         "six",
+         "6"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Originally, Mrs. Dodd approached her minister and others only about having a(n) {{gap}} {{gap}} dedicated to fathers.",
+       "gaps": [
+        [
+         "church"
+        ],
+        [
+         "service"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "From 1909 on, the state of Washington celebrated the third {{gap}} in June as Father’s Day, and children made special {{gap}} for their father.",
+       "gaps": [
+        [
+         "Sunday"
+        ],
+        [
+         "desserts"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "It was only in {{gap}} that Father’s Day was officially made a(n) {{gap}} event.",
+       "gaps": [
+        [
+         "1924"
+        ],
+        [
+         "national"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "When children can’t visit their fathers on that day, they usually send them a greeting card which is traditionally not {{gap}} but {{gap}}.",
+       "gaps": [
+        [
+         "sentimental"
+        ],
+        [
+         "funny"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak akkor adható pont, ha mindkét szó elfogadható. Fél pont nincs!)"
+     }
+    }
+   ]
+  }
+ ]
+}

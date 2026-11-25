@@ -1,0 +1,1162 @@
+{
+ "formatVersion": 1,
+ "id": "2024-okt-kozep",
+ "year": 2024,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2024-10-17",
+ "code": "K2419",
+ "sourceFiles": {
+  "paper": "2024 - Középszintű október/k_angol_24okt_fl.pdf",
+  "key": "2024 - Középszintű október/k_angol_24okt_ut.pdf",
+  "audio": "2024 - Középszintű október/k_angol_24okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2024-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "Read the following questions and answers from a website. The questions have been removed.",
+      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (1- 7).",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "VILLAGE GYM FREQUENTLY ASKED QUESTIONS",
+     "body": [
+      "Get answers to the most common questions about membership, classes and services at Village Gym.",
+      "{{0}}\nWe offer a great selection of membership options to suit all preferences and pockets, including Peak and Off-Peak memberships.",
+      "{{1}}\nIf you're keen to save a few pounds, an Off-Peak membership is a great way to keep your costs to a minimum. Off-Peak memberships are ideal for those who prefer to enjoy the gym when it’s a little quieter.",
+      "{{2}}\nYes. We offer a single-entry pass for visitors who want to drop in and work out for one day only.",
+      "{{3}}\nWe have a timetable packed with a variety of combat, step, cardio, cycle and yoga-based workouts.",
+      "{{4}}\nSure, if you like. Though please use our powerful cleaning products to clean it before class to ensure it's super safe.",
+      "{{5}}\nThere's no need to make a booking; however, once maximum capacity is reached, new attendees will be asked to wait.",
+      "{{6}}\nLoose-fitting, comfortable clothing is best for exercising, e.g., T-shirts, leggings and shorts. And most classes require some form of athletic shoes.",
+      "{{7}}\nThere are lockers, showers, toilets and dryers for your swimwear. Female changing rooms have hairdryers and hair straighteners."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Can I bring my own yoga mat?"
+      },
+      {
+       "key": "B",
+       "text": "How can I cancel my membership?"
+      },
+      {
+       "key": "C",
+       "text": "How much does it cost to join Village Gym?"
+      },
+      {
+       "key": "D",
+       "text": "How can I reduce my membership fee?"
+      },
+      {
+       "key": "E",
+       "text": "What changing facilities do you have?"
+      },
+      {
+       "key": "F",
+       "text": "What should I wear in the gym?"
+      },
+      {
+       "key": "G",
+       "text": "Can I buy a day ticket?"
+      },
+      {
+       "key": "H",
+       "text": "What classes do you have?"
+      },
+      {
+       "key": "I",
+       "text": "Do I need to reserve my place?"
+      },
+      {
+       "key": "K",
+       "text": "Do you have a lost and found?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      },
+      {
+       "n": 7,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about a new law in France.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (8-15) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "FRANCE BANS THROWAWAY FAST-FOOD CONTAINERS",
+     "body": [
+      "Large fast-food chains in France will no longer be able to give eat-in customers their food in throwaway boxes and {{0}}. Under the new law, restaurants that can seat 20 people or more will have to provide reusable plates, {{8}}.",
+      "The new system has recently been introduced with the aim of reducing the amount of {{9}}. This isn't the first regulation like this in the country. Last year, a ban on single-use plastic packaging for more than {{10}} came into effect.",
+      "It's reported that around six billion meals are served in 30,000 fast food restaurants in France, which generates {{11}}. Under the new anti-waste law, restaurants and cafes will have to serve eat-in burgers and sandwiches wrapped in paper instead of boxes. Every other food item, like nuggets, cakes, or ice creams will have to be handed over on {{12}} and cups, which will be washed and used again.",
+      "Restaurants had nearly three years to prepare – but critics say the law will put pressure on the food business that still does not have the {{13}} for reusable plates and containers.",
+      "There are also environmental concerns that restaurants will replace paper with {{14}} instead of glass or ceramic dishes that last years. Hard plastic isn't strong enough for several washes over time and environmental groups are concerned that it will be thrown away after a few washes.",
+      "But as the ban only applies to people eating in, takeaway customers will continue to receive their {{15}}.",
+      "Zero Waste France and other environmental groups have asked customers to stay away from places where the new law is not being followed."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "food in single-use takeaway boxes as usual"
+      },
+      {
+       "key": "B",
+       "text": "plates or in reusable bowls"
+      },
+      {
+       "key": "C",
+       "text": "single-use forks to eat with"
+      },
+      {
+       "key": "D",
+       "text": "cups and forks for customers instead"
+      },
+      {
+       "key": "E",
+       "text": "energy and water used for washing them"
+      },
+      {
+       "key": "F",
+       "text": "180,000 tonnes of waste every year"
+      },
+      {
+       "key": "G",
+       "text": "30 types of fruits and vegetables"
+      },
+      {
+       "key": "H",
+       "text": "waste produced in France"
+      },
+      {
+       "key": "I",
+       "text": "washable hard plastic to contain food"
+      },
+      {
+       "key": "K",
+       "text": "cleaning facilities or storage space"
+      },
+      {
+       "key": "L",
+       "text": "posters to remind them to return their trays"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 5,
+     "instructions": [
+      "Read this article about exam stress.",
+      "Some sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (16-20) from the list (A-H) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "DEALING WITH EXAM STRESS",
+     "body": [
+      "Exams can feel like a lot of pressure. You might be putting pressure on yourself because you need certain grades for a course or job. Or your parents or teachers might be putting pressure on you. {{0}}",
+      "When we feel anxious, we can start thinking things like ‘I can’t do this’ and ‘I’m going to fail’. {{16}} For example, reminding yourself of a successful exam will help you feel more confident about an upcoming one. Visualizing a positive experience will also help you manage your nerves. {{17}} Picturing yourself doing well has been found more effective at reducing anxiety than telling yourself you will do well.",
+      "It is important to focus on yourself. {{18}} This is stressful and increases the fear of failure. On the other hand, focusing on yourself and what you can control will increase confidence.",
+      "A little exam stress may be helpful because it can make you work harder. {{19}} Stress might be affecting you if you’re struggling to sleep, getting headaches or feeling unwell a lot. Another sign might be not eating because of how you’re feeling.",
+      "Exam stress affects everyone differently, but if you’re worried, you don’t have to cope alone. {{20}} Talking about how you're feeling, however, can reduce the pressure and help you to feel more in control.",
+      "And don’t forget that getting a good night's sleep will help you achieve the right mindset before a big event."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Competing with your friends can help to keep you motivated."
+      },
+      {
+       "key": "B",
+       "text": "It can be difficult but try to replace these with positive thoughts."
+      },
+      {
+       "key": "C",
+       "text": "No matter where the pressure is coming from, there are ways to help you cope."
+      },
+      {
+       "key": "D",
+       "text": "But too much of it may have a negative effect on you and make it hard to cope."
+      },
+      {
+       "key": "E",
+       "text": "Imagination works better than words."
+      },
+      {
+       "key": "F",
+       "text": "When you compare yourself to others, your confidence depends on people around you, and is not within your control."
+      },
+      {
+       "key": "G",
+       "text": "Plan when you’re going to start and finish your revision, so you know when to stop."
+      },
+      {
+       "key": "H",
+       "text": "Bottling up stress and trying to deal with it on your own can often make it worse."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "answer": "E"
+      },
+      {
+       "n": 18,
+       "answer": "F"
+      },
+      {
+       "n": 19,
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article about two valuable notebooks and then read the statements (21-29) following it.",
+      "Mark a statement A if it is true according to the article, mark it B if it is false, and mark it C if there isn’t enough information in the text to decide if it is true or not."
+     ],
+     "title": "MISSING DARWIN NOTEBOOKS RETURNED AFTER 20 YEARS",
+     "body": [
+      "Twenty years ago, two notebooks, written by 19th-century scientist Charles Darwin, mysteriously disappeared from the Cambridge University Library. The stolen notebooks, which had been missing for over 20 years, have finally been secretly returned.",
+      "Darwin recorded his observations in a series of notebooks and labelled them with letters of the alphabet. The Cambridge University Library had several of his notebooks in its Darwin collection.",
+      "The two missing notebooks were kept in a small blue box, and were last seen in 2000, when they were taken out to be photographed. In 2001, the librarians found that the box and the priceless notebooks were missing. Luckily, the library had taken pictures of the notebooks’ pages, so the information wasn’t completely lost.",
+      "At first, the library staff thought the box had been put back in the wrong place, so they made a huge effort to find it. They searched through the 10 million items in the library, which took several years.",
+      "Finally, in 2020 Jessica Gardner, the university's director of library services officially reported the missing notebooks as stolen. The police were notified, and the notebooks were listed in the database of stolen artworks.",
+      "Now, a long time after they were reported as stolen, the manuscripts were mysteriously returned. A bright pink gift bag appeared in a public area just outside Dr Gardner's office. Inside was a plain brown envelope simply addressed \"Librarian, Happy Easter, X\". After the police had examined the package, library workers were able to open it. The envelope contained the blue box with both notebooks inside. They carefully studied the notebooks and were pleased to learn that they were not damaged.",
+      "Dr Gardner said she was \"delighted\" and relieved to have them back. Cambridgeshire Police said they would continue their investigation and asked the public to come forward with any information."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Darwin offered his notebooks to the Cambridge University Library before he died.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The missing notebooks were the same size and colour.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "It was not discovered immediately that the notebooks were missing.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "The police were informed two years after the notebooks had been stolen.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "The mysterious package with the notebooks was sent to Dr Gardner’s home address.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The package was opened at the police station.",
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "stem": "The notebooks were in their original box.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "There weren’t any missing pages in either of the notebooks.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "The handwritten message on the envelope is being examined by experts.",
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "The police have closed the case as unsolved.",
+       "answer": "B"
+      }
+     ],
+     "source": "https://arstechnica.com/science/2022/04/darwins-missing-notebooks-returned-to-cambridge-univ-library-after-20-years/;"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2024-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 9,
+     "instructions": [
+      "You are going to read some advice about what you should and should not do if you receive an invitation to an event in Britain. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-9) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "HOW TO BE A POLITE GUEST",
+     "body": [
+      "In Britain, people make great {{0}} to arrive on time. It is often considered impolite to arrive even a few minutes late.",
+      "If you are invited to someone's house for dinner at half past seven, they will expect you to be there exactly at 7.30. An invitation {{1}} state \"7.30 for 8\", in which case you {{2}} arrive no later than 7.50.",
+      "If you receive a written invitation to an event that says \"RSVP\", you should reply to {{3}} the person who sent the invitation know whether or not you plan to {{4}}.",
+      "Never accept an invitation {{5}} you really plan to go. You may refuse by saying, \"Thank you for inviting me, but I will not be able to come.\" If, after {{6}}, you are unable to go, be sure to tell those expecting you as far in {{7}} as possible that you will not be there. {{8}} it is not necessarily expected that you give a gift – e.g. flowers or chocolate – to your host, it is considered polite to {{9}} so, especially if you have been invited for a meal."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACCEPTING"
+      },
+      {
+       "key": "B",
+       "text": "ADVANCE"
+      },
+      {
+       "key": "C",
+       "text": "EFFORTS"
+      },
+      {
+       "key": "D",
+       "text": "ALTHOUGH"
+      },
+      {
+       "key": "E",
+       "text": "ATTEND"
+      },
+      {
+       "key": "F",
+       "text": "DO"
+      },
+      {
+       "key": "G",
+       "text": "INVITING"
+      },
+      {
+       "key": "H",
+       "text": "LET"
+      },
+      {
+       "key": "I",
+       "text": "MIGHT"
+      },
+      {
+       "key": "K",
+       "text": "NEED"
+      },
+      {
+       "key": "L",
+       "text": "SHOULD"
+      },
+      {
+       "key": "M",
+       "text": "UNLESS"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "I"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "E"
+      },
+      {
+       "n": 5,
+       "answer": "M"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about popular events called Frost Fairs that were held on the frozen River Thames in London during very cold winters. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (10-18) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE THAMES FROST FAIRS",
+     "body": [
+      "Between 1600 and 1814, it was {{0}} uncommon for the River Thames to freeze over for up to two months. One reason {{10}} this was that Britain was locked in what is now known {{11}} the ‘Little Ice Age’.",
+      "Although these extreme winters often brought famine and death, local Londoners decided to make {{12}} most of it and set up the Thames Frost Fairs. In fact, between 1607 and 1814 there were a total of seven major fairs, as {{13}} as several smaller ones.",
+      "The first recorded frost fair was during the winter of 1607/1608. During December the ice had been hard enough {{14}} allow people to walk on it, but it was not until January when {{15}} became so thick that people started setting up camp on it. There were football pitches, bowling matches, fruit-sellers, shoemakers, barbers… even a pub or two. To {{16}} the shopkeepers warm, there were even fires within their tents!",
+      "By the 1800’s the climate had started to warm and the last ever London Frost Fair {{17}} place in January 1814. Although only lasting for five days, this was {{18}} of the largest fairs on record. Thousands of people turned up every day, and there was every possible form of entertainment."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "for",
+        "behind"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "well"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "keep"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "took"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "one"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about how the way people measure time has changed. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (19-25).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "MEASURING TIME",
+     "body": [
+      "The Sumerians were the first to measure time by {{0}} their day into 12 units. They used water clocks to keep time. Later on, the {{19}} also divided the day into 12 equal units. As they used the rising and setting of the sun, the units varied in {{20}} according to the season, helping them adjust their lifestyles to the changing needs of the agricultural calendar.",
+      "Due to the need for greater accuracy, more accurate devices – {{21}} sundials, candle clocks and mechanical clocks – had been developed by the 17th century.",
+      "As railroads spread across the United States, people began to think about regulating time to international standards. In the early 1800s, every city in the US had its own time zone – there were a surprising 300 local sun-times in {{22}}. Since running trains to a {{23}} timetable with this system was impossible, national time zones were introduced in the US in 1883. The international 24-hour time-zone system, which serves as a time reference for the world, was established the {{24}} year with the adoption of Greenwich Meridian Time.",
+      "Clocks became more accurate with the {{25}} of quartz clocks in the 1920s, and later the amazingly sensitive atomic clocks."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "divide",
+       "example": true,
+       "accept": [
+        "dividing"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "Egypt",
+       "accept": [
+        "Egyptians"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "long",
+       "accept": [
+        "length"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "include",
+       "accept": [
+        "including"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "use",
+       "accept": [
+        "use"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "rely",
+       "accept": [
+        "reliable"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "follow",
+       "accept": [
+        "following"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "develop",
+       "accept": [
+        "development",
+        "developing"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2024-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear the interesting story of an extraordinary man.",
+      "Your task is to complete the sentences with one word in each gap, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_24okt_fl.mp3",
+      "start": 0,
+      "end": 686.7,
+      "clip": "hang/k_angol_24okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The man in the story was born with a serious physical {{gap}}.",
+       "accept": [
+        "disability"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Richard Thomas was a tea dealer and {{gap}} from Wales.",
+       "accept": [
+        "traveller",
+        "traveler",
+        "originally"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The Thomas family lived in {{gap}} parts of London over the years.",
+       "accept": [
+        "various"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "George was so skillful that he easily placed the ring on the {{gap}} of his bride with his toes.",
+       "accept": [
+        "finger"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "George was the owner of a stationary and tobacco {{gap}} in London.",
+       "accept": [
+        "shop"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "He was said to be able to pick up a pin from the {{gap}} with his feet.",
+       "accept": [
+        "floor"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "In addition to the accordion, George could also play the {{gap}}.",
+       "accept": [
+        "trumpet"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "With Tom Norman's circus he went on tour in Europe, giving public {{gap}}.",
+       "accept": [
+        "exhibitions"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "All in all, George Thomas had 14 {{gap}}.",
+       "accept": [
+        "children"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2024-okt-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to an anecdote about Franz Kafka, the famous writer.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_24okt_fl.mp3",
+      "start": 686.7,
+      "end": 1223.01,
+      "clip": "hang/k_angol_24okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Franz Kafka was born in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "1883."
+        },
+        {
+         "key": "B",
+         "text": "Berlin."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The little girl in the park was crying because she ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "couldn't find her toy."
+        },
+        {
+         "key": "B",
+         "text": "was lost in the park."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Kafka …",
+       "options": [
+        {
+         "key": "A",
+         "text": "joined in the search."
+        },
+        {
+         "key": "B",
+         "text": "told her to come back the following day."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The next day Kafka ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "gave a letter to the little girl."
+        },
+        {
+         "key": "B",
+         "text": "found the doll in the park."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "As time went by, the little girl …",
+       "options": [
+        {
+         "key": "A",
+         "text": "carefully read every new letter."
+        },
+        {
+         "key": "B",
+         "text": "greatly enjoyed the new stories."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The doll Kafka gave the little girl ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "had been bought by him."
+        },
+        {
+         "key": "B",
+         "text": "looked quite different from her doll."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "The little girl …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was sure that Kafka had written the letter."
+        },
+        {
+         "key": "B",
+         "text": "happily took the doll home."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "When the girl was much older, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Kafka sent her another letter about the doll."
+        },
+        {
+         "key": "B",
+         "text": "she found another letter in the doll."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "In his last letter, Kafka said that in time …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the things we love tend to get lost."
+        },
+        {
+         "key": "B",
+         "text": "love always returns somehow."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear about two Canadian lottery winners who have given most of their winnings away.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_24okt_fl.mp3",
+      "start": 1223.01,
+      "end": 1795.74,
+      "clip": "hang/k_angol_24okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The couple have given away all of the 11 million dollars they won.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The Larges have been living in Lower Truro, Nova Scotia all their lives.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "They gave the money away because they didn’t need more than what they already had.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "By a \"rainy day\" Mr. Large means an extremely unfortunate event in their life.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Their children fully supported them in their decision about the money.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "They asked the members of their family to deliver the money to the chosen charities.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Mrs. Large believes that money can actually bring happiness.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Mrs. Large considers herself lucky because she doesn't feel unwell.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The couple became national celebrities immediately after they’d won the jackpot.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The Larges consider themselves very ordinary people.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

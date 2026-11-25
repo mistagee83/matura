@@ -1,0 +1,1179 @@
+{
+ "formatVersion": 1,
+ "id": "2009-okt-emelt",
+ "year": 2009,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2009-10-22",
+ "code": "0802",
+ "sourceFiles": {
+  "paper": "2009. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_09okt_fl.pdf",
+  "key": "2009. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_09okt_ut.pdf",
+  "audio": "2009. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_09okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2009-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 5,
+     "instructions": [
+      "In this passage you can read about a study on some helpful babies.",
+      "Your task is to match the half sentences that follow the text.",
+      "Write the letters in the boxes as shown in the example. Use each letter once only.",
+      "There is an extra letter you do not need."
+     ],
+     "title": "STUDY SHOWS BABIES TRY TO HELP",
+     "body": [
+      "It was a simple experiment to illustrate fairly sophisticated brain development: toddlers watched as psychology researcher Felix Warneken did ordinary tasks, such as using clothespins to hang some towels.",
+      "Oops, he dropped a clothespin. Video shows one baby in overalls glancing between Warneken's face and the dropped pin before quickly crawling over, grabbing the object, pushing up to his feet and eagerly handing back the pin.",
+      "Warneken never asked for the help and didn't even say \"thank you,\" so as not to spoil the research by training youngsters to expect praise if they helped. After all, altruism means helping with no expectation of anything in return.",
+      "Over and over, whether Warneken dropped clothespins or knocked over a stack of books or lost a marker he was going to write with, each of 24 toddlers repeatedly helped within seconds – but only if it looked like Warneken needed it.",
+      "That was the key: the toddlers offered no help when he deliberately pulled a book off the stack or threw a marker on the floor, Warneken, of Germany's Max Planck Institute of Evolutionary Anthropology, reports in Thursday's edition of the journal Science.",
+      "To be altruistic, babies must have the cognitive ability to understand other people's goals plus possess what Warneken calls \"pro-social motivation\" – a desire to socialize.",
+      "\"When those two things come together – they obviously do so at 18 months of age and maybe earlier – they are able to help,\" Warneken explained.",
+      "No other animal is as altruistic as humans are. We donate to charity, recycle for the environment, give up a subway seat to the elderly – tasks that seldom bring a return beyond a sense of gratification. However, many feel that we still have a long way to go."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to keep his experiment reliable."
+      },
+      {
+       "key": "B",
+       "text": "to realise what the other person wants to do."
+      },
+      {
+       "key": "C",
+       "text": "to show the complexity of how the brain develops."
+      },
+      {
+       "key": "D",
+       "text": "to help even when there is no reward."
+      },
+      {
+       "key": "E",
+       "text": "to offer people a helping hand."
+      },
+      {
+       "key": "F",
+       "text": "to give the man the clothespin."
+      },
+      {
+       "key": "G",
+       "text": "to help when it did not seem to be necessary."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mr Warneken devised the experiment",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "The baby in the overalls was keen",
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "stem": "Mr Warneken said nothing to the helpful baby",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "The babies did not offer",
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "stem": "In order to be helpful, babies have",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Unlike animals, people are willing",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about a novel way to meet new people.",
+      "In the sentences that follow the text there are some gaps. Your task is to fill the gaps with one or two words so that the sentences correspond to what the text says. Contractions (e.g. don’t) count as one word.",
+      "Write the words on the lines. An example has been given for you."
+     ],
+     "title": "BELGIAN LIBRARIANS USE LOVE TO GET READERS",
+     "body": [
+      "It could be a Valentine's setting at any restaurant or bar: Young couples drink red wine and chat eagerly at intimate tables aglow in candlelight and adorned with flowers.",
+      "But this romantic venue also features books. Hundreds of them. Singles who like to read are descending upon libraries across Belgium as part of an experiment in what two librarians have called \"lib-dating.\"",
+      "\"Basically it's speed-dating, but in a new setting – with books,\" Wim Van der Straeten said, referring to the popular dating method where singles are paired for a few minutes of chat before switching partners.",
+      "Co-creator Danny Theuwis experimented with the dating idea three years ago, combining 14 single bookworms – most between 18 and 35 years old – with novels.",
+      "\"I got some flowers for the tables, got some candles and gave those who came a glass of red wine,\" Theuwis said.",
+      "The informal setting and two people huddling to discuss their favorite books was all that was needed to break the ice and let relationships blossom, he said. Participants are given 10 minutes to introduce themselves to others in the group, which Van der Straeten said should not exceed 20 people to ensure intimacy. Upon arriving, participants pick a small piece of paper from a glass with a question on it, such as “What was your favorite book as a child and why?” They are instructed to go around the room with the question and mingle.",
+      "For the second round, readers take the three favorite books or passages they were asked to bring, and share their thoughts one-on-one with others for a few minutes before switching to a new partner and new books.",
+      "At the end of the session, participants are instructed to put their books down and write a note to be placed in the book of the person they would like to meet again.",
+      "\"Libraries are turning into cultural hubs. They have a social role and are the only meeting place in some communities,\" said Frederika Van Wing, manager of the Flanders public library network's campaign to boost visits.",
+      "Librarians seemed hesitant to embrace the idea at first but said they are warming up to it.",
+      "It is yet to be seen whether the idea will catch on and spread to other countries of Europe and the world.",
+      "Belgian {{0}} often look like a restaurant on Valentine’s Day.",
+      "The difference between {{6}} and speed-dating is that they are held in different places.",
+      "In speed-dating lots of {{7}} men and women get a chance to talk face-to-face to some other people who are in the same situation.",
+      "In Danny Theuwis’s experiment three years ago people were asked to take their favourite {{8}} with them to the date.",
+      "People taking part first have to walk around with a(n) {{9}} in their hands.",
+      "Then, participants talk in pairs about the books that they {{10}} with them.",
+      "At the beginning, librarians were not very {{11}} about this new idea."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "libraries"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "lib-dating"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "single",
+        "unmarried"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "book",
+        "novel",
+        "passage"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "small paper",
+        "question",
+        "paper"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "have taken",
+        "took",
+        "have brought",
+        "have",
+        "brought"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "happy",
+        "enthusiastic",
+        "glad"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read the following article about an interesting competition.",
+      "Parts of some sentences are missing. Your task is to fill them in from the list (A- M) after the text.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "MAN SOLVES RUBIK'S CUBE IN 11.13 SECONDS",
+     "body": [
+      "Leyan Lo is part of Caltech's Rubik's Cube Club, {{0}} that hosted the competition at the Exploratorium museum in San Francisco. Lo's record-setting time came early in the day, among his first five tries in the preliminary rounds.",
+      "The record-setting solve caught competitors {{12}}. \"It's kind of scary now that I set it, because I have two more attempts to go,\" Lo said humbly afterward. His time of 11.13 seconds broke the previous record of 11.75 seconds, {{13}}. Still, the world record alone wouldn't gain Lo the overall champion's title at the event, {{14}}. For that title, Lo went up against the teenager widely considered the fastest Rubik's Cube solver on the planet – Shotaro \"Macky\" Makisumi, a 15-year-old high school sophomore from Pasadena. Makisumi prevailed, clocking in with an average time of 14.91 seconds in the final round. Besides blindingly fast fingers {{15}}, what is Makisumi's secret? \"I don't know. Faster first two layers,\" he surmised, referring to solving the first two layers of the cube's colored tiles {{16}}. For his victory, Makisumi won a Rubik's Snake puzzle, one of several variations on the basic cube model which has sold more than 100 million worldwide, according to the manufacturer. Contestants brought their own cubes to the competition, and a computer program was used to scramble the cubes in the same fashion for each round {{17}}. One of the crowd favorites was Casey Pernsteiner, 14, who traveled to the event from her hometown of Gonzales, Texas, with her mother. Pernsteiner logged a 21.59-second average in the preliminary round {{18}}. The crowd erupted with applause as she threw the cube down time after time, {{19}} and consistently clocking times well under 30 seconds. \"My previous best time in competition was 25 seconds and I beat that, like, all ten solves, {{20}},\" Pernsteiner said. She finished among the top 16 finalists. The organizers had sent a special invitation to Hungary, the home country of Mr. Rubik, inventor of the cube, but unfortunately nobody wished to take part."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "before moving on to the last"
+      },
+      {
+       "key": "B",
+       "text": "set by Frenchman Jean Pons at the Dutch Open competition last year"
+      },
+      {
+       "key": "C",
+       "text": "a brainy clutch of students"
+      },
+      {
+       "key": "D",
+       "text": "slapping an electronic timing mat"
+      },
+      {
+       "key": "E",
+       "text": "which is determined by averaging three of five solution times in the final round"
+      },
+      {
+       "key": "F",
+       "text": "to move on to the finals"
+      },
+      {
+       "key": "G",
+       "text": "and a head for memorizing algorithms used by most top competitors"
+      },
+      {
+       "key": "H",
+       "text": "so I was really happy with that"
+      },
+      {
+       "key": "I",
+       "text": "so I was totally depressed"
+      },
+      {
+       "key": "K",
+       "text": "to give the contestants equal footing"
+      },
+      {
+       "key": "L",
+       "text": "to give weaker contestants a little extra help"
+      },
+      {
+       "key": "M",
+       "text": "and Lo himself by surprise"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "answer": "M"
+      },
+      {
+       "n": 13,
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "answer": "E"
+      },
+      {
+       "n": 15,
+       "answer": "G"
+      },
+      {
+       "n": 16,
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "answer": "K"
+      },
+      {
+       "n": 18,
+       "answer": "F"
+      },
+      {
+       "n": 19,
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this article about how Austria celebrated Mozart this year and then read the statements following it.",
+      "Mark a statement A if is true according to the article.",
+      "Mark it B if it is false,",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or not. Write the letters in the white boxes next to the numbers. There is an example (0) for you."
+     ],
+     "title": "AUSTRIA CELEBRATES MOZART WITH CHOCOLATE",
+     "body": [
+      "It's a symphony of sweets, a cantata of chocolates, a fugue of fantastic desserts on display at Vienna's ornate Hofburg Palace.",
+      "The confectioners’ creations of Mozart motifs are part of the yearlong 250th birthday celebrations for Austria's musical son.",
+      "But this chocoholic's dream comes with a catch – you can look, but you can't taste. The mouthwatering spectacle, the city's fourth annual ''Austrian Chocolate Master'' competition, focused on the boy-wonder turned immortal this year – a given considering the thousands of events revolving around Amadeus. The concept was simple even if the outcome wasn't. Each team could use up to 88 pounds of Belgian chocolate to come up with a creation linked to the composer. To spice things up, they had to work in a cake made with Grand Marnier liqueur. Non-chocolate props and artificial ingredients were banned. Attracted by the aroma of truffles and other delicacies into an exhibition hall set up in the one-time city residence of Austria's Habsburg dynasty, tourists and locals alike marveled at the edible artifacts – oversized violins, larger-than-life Mozart portraits, pianos, and themes from different operas. ''They're superb and each one tells a story,'' said Adele Fernandes of Vienna, getting out her glasses to get a better look. The contestants, professional confectioners from Austria or Germany, created masterpieces that the maestro, known for a sweet tooth, would have appreciated. The first-prize winner, Leopold Forsthofer of Vienna, said it took him three weeks to finish his opus, which among other things featured a graceful milk chocolate figurine dressed in orange flower petals on top of the silhouette of a violin. ''I didn't want to be boring and pick a Mozart head like everyone else,'' the three-time winner said."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "stem": "The venue of the chocolate exhibition celebrating Mozart was the Hofburg Palace.",
+       "answer": "A"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "stem": "The exhibition will later be moved to the famous Rathaus of Vienna.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The chocolate statues will be on display all year.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "The confectioners’ competition was specially organized to honor Mozart.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "The rules for the competition were just as simple as the actual exhibits produced by the competitors.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Visitors were attracted to the Hofburg by the smell of the various sweets on display.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "The exhibits could be eaten, and visitors were invited to try whatever they liked.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "As background music, visitors could listen to excerpts from some of Mozart’s most popular operas.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "There were no amateurs among the participants of the competition.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "Mozart would have enjoyed tasting the exhibits.",
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "Leopold Forsthofer’s wife, a violinist, persuaded her husband to enter the competition.",
+       "answer": "C"
+      },
+      {
+       "n": 30,
+       "stem": "According to Herr Forsthofer, creating an image of Mozart would have been a rather dull choice.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2009-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a NASA job. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "NASA COUCH POTATO JOB",
+     "body": [
+      "Imagine working at a job which requires you to lie around all day, watch television, play video games, and {{0}} the Internet. It seems like ideal work for a couch potato – until you find out that you must stay in bed 24 hours a day for 90 days {{1}}!",
+      "A 10-year study by NASA has recruited volunteers {{2}} undergo enforced bed rest, allowing doctors to study the effects of weightlessness {{3}} the human body. The bed rest recreates similar conditions to those which astronauts in space must endure. Astronauts {{4}} from space often have temporary physical problems. Many are prone to {{5}} and dizziness due to low blood pressure. A prolonged trip in space can also {{6}} to muscle weakness and abnormalities in their blood.",
+      "Volunteers are under the constant supervision of doctors, and must {{7}} strict guidelines. Their beds are tipped head-down at an angle of 6°. They are not {{8}} out of bed even to go to the bathroom.",
+      "{{9}}, they must use a bedpan. Meals are brought at regular times, and naps are not permitted. At 6 AM volunteers are awakened, and lights are out at 10 PM. They are {{10}} with televisions, videos, DVDs, and computers with Internet access. Family and friends may visit."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ALLOWED"
+      },
+      {
+       "key": "B",
+       "text": "COUCH"
+      },
+      {
+       "key": "C",
+       "text": "FAINTING"
+      },
+      {
+       "key": "D",
+       "text": "FOLLOW"
+      },
+      {
+       "key": "E",
+       "text": "INSTEAD"
+      },
+      {
+       "key": "F",
+       "text": "LEAD"
+      },
+      {
+       "key": "G",
+       "text": "ON"
+      },
+      {
+       "key": "H",
+       "text": "RETURNING"
+      },
+      {
+       "key": "I",
+       "text": "STAYING"
+      },
+      {
+       "key": "K",
+       "text": "STRAIGHT"
+      },
+      {
+       "key": "L",
+       "text": "SUPPLIED"
+      },
+      {
+       "key": "M",
+       "text": "SURF"
+      },
+      {
+       "key": "N",
+       "text": "TO"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "M"
+      },
+      {
+       "n": 1,
+       "answer": "K"
+      },
+      {
+       "n": 2,
+       "answer": "N"
+      },
+      {
+       "n": 3,
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "answer": "H"
+      },
+      {
+       "n": 5,
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      },
+      {
+       "n": 7,
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "L"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the history of chocolate. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (11-18).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "CHOCOLATE HISTORY",
+     "body": [
+      "Chocolate is made from the seeds of the tree Theobroma cacao. Theobroma means 'food of the gods' in {{0}}. The ancient Aztecs respected the cacao tree and used its beans as a form of currency. They saw the tree as a source of {{11}} and wealth.",
+      "The Aztecs discovered that by crushing the beans into a paste and adding spices, they could make a refreshing and nourishing drink. This drink was very bitter, {{12}} our chocolate drinks today. In the 16th century, European {{13}} brought the drink back from their travels, added sweeter flavourings, and soon it was popular as a {{14}} luxury.",
+      "In the 1800s, solid chocolate became popular, with the {{15}} of moulding processes. Mechanical grinders crushed cocoa beans to a fine powder that could be heated and poured into moulds, forming shapes as it cooled.",
+      "Dutchman Coenrad Van Houten perfected the extraction of cocoa butter from cocoa beans in 1825. The beans are crushed to a paste, which is subjected to very high {{16}}, forming chocolate liquor and cocoa butter. The {{17}} butter is smoothed and treated to remove any odours.",
+      "In the 1880s, Rudolphe Lindt of Switzerland started adding extra cocoa butter during chocolate manufacture, to make it {{18}}. Cocoa butter melts at around 36 °C, which is human body temperature. That's why chocolate melts in the mouth."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "Greece",
+       "example": true,
+       "accept": [
+        "Greek"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "strong",
+       "accept": [
+        "strength"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "like",
+       "accept": [
+        "unlike"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "explore",
+       "accept": [
+        "explorers"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "cost",
+       "accept": [
+        "costly"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "invent",
+       "accept": [
+        "invention",
+        "inventing"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "press",
+       "accept": [
+        "pressure"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "extract",
+       "accept": [
+        "extracted"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "smooth",
+       "accept": [
+        "smooth",
+        "smoother"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about ancient silver mining in Bolivia. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-28) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "WHERE IS BOLIVIA'S ANCIENT SILVER?",
+     "body": [
+      "Pirates love buried treasure, and so, apparently, {{0}} scientists. Scientists recently dug up evidence {{19}} ancient silver mining in Bolivia, South America.",
+      "Scientists believe people started mining silver here about a thousand years {{20}}. That is about 400 years earlier than when the Inca Indians were thought to {{21}} discovered the silver in the ground. That {{22}} this silver-mining operation even older than the Inca civilization.",
+      "Scientists believe that the earliest mining operation produced several thousand tons of silver — that's about the same weight {{23}} 375 elephants!",
+      "So where is all the silver {{24}} was mined before the Incas started their empire? Some believe that the treasure is hidden. Others say {{25}} was stolen and melted by the Incas and by Spanish invaders. Melted silver can be made {{26}} almost any shape, including bowls, swords, and cups. As it cools, it hardens and becomes like the silver we {{27}} used to.",
+      "Scientists have {{28}} very little work in the region so far. With more research, they hope to solve the mystery."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "do"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "ago"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "makes"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "into"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "are",
+        "got"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "done"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about a parrot that saved his owner from a fire. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "LOYAL PARROT SAVES MAN FROM FIRE",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A plucky parrot saved his deaf owner life from a fire by running",
+       "answer": "life"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "up and down his arm to alert him of the blaze.",
+       "answer": null
+      },
+      {
+       "n": 29,
+       "text": "Peter Taylor, from Yorkshire, had taken of his hearing aids out",
+       "answer": "of"
+      },
+      {
+       "n": 30,
+       "text": "and was asleep when the fire started, so Merlin, his African Grey",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "parrot, raised the alarm clock. Mr Taylor said he owed his life to",
+       "answer": "clock"
+      },
+      {
+       "n": 32,
+       "text": "Merlin, who has been learned to copy the sound of a smoke alarm.",
+       "answer": "been"
+      },
+      {
+       "n": 33,
+       "text": "Their home has since been fitted with special alarms by the",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "fire service, so as Merlin should be able to sleep at night. West",
+       "answer": "as"
+      },
+      {
+       "n": 35,
+       "text": "Yorkshire Fire and Rescue say there are a lots of alarms for people",
+       "answer": "a"
+      },
+      {
+       "n": 36,
+       "text": "with the hearing problems (eg: flashing lights and vibrating pads).",
+       "answer": "the"
+      },
+      {
+       "n": 37,
+       "text": "Merlin who has always been an enthusiastic fire warden,",
+       "answer": "who"
+      },
+      {
+       "n": 38,
+       "text": "according to Mr Taylor. \"Sometimes when I'm cooking he'll come",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "out with the noise,\" he had said. \"I have to tell him that there isn't",
+       "answer": "had"
+      },
+      {
+       "n": 40,
+       "text": "a fire station and he'll stop doing it then. But he's got it perfectly.\"",
+       "answer": "station"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 15,
+   "maxExamPoints": 30,
+   "omitted": [
+    {
+     "number": 2,
+     "points": 10,
+     "reason": "rövid válasz tartalmi kulccsal (SPEC 3.3)"
+    }
+   ],
+   "originalMaxTaskPoints": 25,
+   "tasks": [
+    {
+     "id": "2009-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear some strange information about Napoleon.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_09okt_fl.mp3",
+      "start": 0,
+      "end": 629.7,
+      "clip": "hang/e_angol_09okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Napoleon died at the age of 52 on the island of St Helena.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "All doctors agree that Napoleon was poisoned.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "Napoleon chose the colour of his wallpaper very carefully.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "Dr Robert Greenblatt suggested that Napoleon was becoming a woman.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Dr Greenblatt examined Napoleon's body after the emperor's death.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Dr Greenblatt was bitterly attacked for his strange theory.",
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Napoleon tried to commit suicide in the autumn of 1814.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Napoleon got hiccups from the poison he had taken.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear a news report about Frequent Flyer Points – air miles that allow people to fly with an airline free of charge.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_09okt_fl.mp3",
+      "start": 1184.48,
+      "end": 1795.6,
+      "clip": "hang/e_angol_09okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This news report is ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "from the Daily Mirror."
+        },
+        {
+         "key": "B",
+         "text": "about a Canadian man."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Marc Tacchi wants to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "fly all over North America."
+        },
+        {
+         "key": "B",
+         "text": "collect one million Frequent Flyer Points."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "He has decided to fly ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "with different airlines."
+        },
+        {
+         "key": "B",
+         "text": "to more than 100 different places."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "He is planning to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "get $70,000 cash from Air Canada."
+        },
+        {
+         "key": "B",
+         "text": "accumulate enough air miles for 10 return flights to Australia."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "He has ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "two months in which to carry out his plan."
+        },
+        {
+         "key": "B",
+         "text": "a special pass which cost him $7,000."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "He was ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "in Miami on Thursday."
+        },
+        {
+         "key": "B",
+         "text": "interviewed in Vancouver."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "He is planning to sleep ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "on transcontinental flights."
+        },
+        {
+         "key": "B",
+         "text": "in his own bed twice a week."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Flying to Europe once a week is part of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his plan for earning air miles."
+        },
+        {
+         "key": "B",
+         "text": "his job."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Air Canada ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "may be the first airline to have sold subscriptions to unlimited flights."
+        },
+        {
+         "key": "B",
+         "text": "expressed surprise that someone might collect so many air miles."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

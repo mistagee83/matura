@@ -1,0 +1,1201 @@
+{
+ "formatVersion": 1,
+ "id": "2011-maj-kozep",
+ "year": 2011,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2011-05-05",
+ "code": "1111",
+ "sourceFiles": {
+  "paper": "2011 - Középszintű májusi/k_angol_11maj_fl.pdf",
+  "key": "2011 - Középszintű májusi/k_angol_11maj_ut.pdf",
+  "audio": "2011 - Középszintű májusi/k_angol_11maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2011-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with Jazmin Whitley, a 19 year-old fashion designer, the questions have been removed.",
+      "Your task is to write the letters of the questions (A-I) next to the appropriate numbers (1-7). There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\n? JW: I started in high school. My high school had a fashion design class, and when I found out I was interested, I signed up for that class right away.",
+      "{{1}}\n? JW: Well, once I knew that it was what I really wanted to do, I put everything into it and I started working on it really hard. As I was so young when I started, my career built up faster and now a lot of people know my line.",
+      "{{2}}\n? JW: It changes, but mostly I think it is really romantic and feminine. I love classic glamour, old Hollywood style. I love lace.",
+      "{{3}}\n? JW: I get my ideas from everything. I love travelling, since it really opens my eyes to different cultures.",
+      "{{4}}\n? JW: Maybe Nicole Kidman. I would love to dress her. She’s got so much classic Hollywood glamour, and she’s so gorgeous.",
+      "{{5}}\n? JW: It was exciting. Actually, I designed a gown for Blu Cantrell for a performance that she had. It was great to see her wear it on the red carpet. She looked really glamorous and I was so proud!",
+      "{{6}}\n? JW: Well right now I’m still just designing women’s clothes. I’m also working on a project called Catwalk, which is a TV series.",
+      "{{7}}\n? JW: I just hope to keep learning as a designer, and be successful. I want to see my clothes on more people - not just celebrities, but everyone.",
+      "(http://www.thestarscoop.com/)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "How would you describe your fashion style?"
+      },
+      {
+       "key": "B",
+       "text": "What are you doing currently?"
+      },
+      {
+       "key": "C",
+       "text": "Tell us about how you got involved with fashion."
+      },
+      {
+       "key": "D",
+       "text": "Is there someone you would love to see wearing one of your designs?"
+      },
+      {
+       "key": "E",
+       "text": "What do you think was the key to you being successful at such a young age?"
+      },
+      {
+       "key": "F",
+       "text": "Where do you get inspiration for your designs?"
+      },
+      {
+       "key": "G",
+       "text": "If you’re going out shopping, what kind of places do you like to go to?"
+      },
+      {
+       "key": "H",
+       "text": "What was it like when the first person asked you to make something?"
+      },
+      {
+       "key": "I",
+       "text": "What goals do you have for your future in fashion?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "answer": "F"
+      },
+      {
+       "n": 4,
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "állítások párosítása szövegrészekhez",
+     "points": 6,
+     "instructions": [
+      "Read the descriptions of four holidays offering charity work and the statements following them.",
+      "Your task is to match the statements (8-13) with the descriptions (A-D)."
+     ],
+     "stemLead": "If you decide to do this charity work during your holiday, you …",
+     "body": [
+      "A) Join a blind person in an adventure Blind filmmaker Amar Latif came up with the idea of TravelEyes' unique tours, in which blind and sighted travellers holiday together. On these tours you'll use your eyes to share the experience with your companions, whether it's the golden beaches of California or Florence's majestic Campanile. TravelEyes has won Latif several awards, and its customers – both sighted and blind – keep coming back. Price From £499 for 8 days",
+      "B) Help street children in Peru If you know how to use a hammer, you can help build and maintain centres for boys and girls whose parents cannot afford to care for them. During your two-week visit you will stay in the capital, Lima, and in one of the charity's more remotely located centres – which will probably involve a jungle expedition. And you can visit the Inca Trail. Price £900 for two weeks excluding flights",
+      "C) Preserve your environment The British Trust for Conservation Volunteers runs holidays that offer a unique chance to get back to nature. Accommodation can range from a tent to a luxury cottage, depending on your preference and budget, and food is included. You'll need to arrange your own travel. Price £180 (for seven nights) protecting butterfly habitats in Dartmoor; £570 (10 nights) cultivating orchards (with different fruit trees) in Romania.",
+      "D) Run a stately home You’ll help to protect some of Britain's most beautiful countryside and historic houses. The British Trust offers hundreds of different activities, from working on a farm to archaeology and helping to organise streetmarkets; some also provide the opportunity for surfing and sailing. Price From £55 for a weekend (http://www.guardian.co.uk/)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "will take part in the shortest programme.",
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "stem": "will help children whose parents are too poor to look after them.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "will save old buildings.",
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "stem": "will help animals or plants survive.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "will meet people who have already taken part in the programme.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "won’t have to spend money on expensive hotels if you can’t afford to.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "will have to tell people in your group about what you can see around you.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 5,
+     "instructions": [
+      "In this text about the new logo of a town in Britain the endings of some sentences have been removed.",
+      "Match the endings (A-G) below the text with the beginnings (14-18).",
+      "There is one extra letter that you do not need."
+     ],
+     "title": "BURNLEY CHOOSES NEW LOGO",
+     "body": [
+      "The town of Burnley is going to get a new logo as part of a £110,000 plan to improve the town’s image. The ‘visual expression’ consists of a computer-generated, three- dimensional image of lots of multi-coloured circles. Council bosses are now trying to register the logo, {{0}}.",
+      "It will be seen at gateways to Burnley, and also on a website, to make it easier for people to identify the image with the town. The councillors have rather different opinions of the design: some describe it as ‘exciting’ {{14}}. It is believed that the multi-coloured circles represent the different aspects of the town. The red is supposed to represent the urban part of Burnley, {{15}}.",
+      "The leader of Burnley Council said he was a fan of the logo, because it symbolises the town’s various characteristic features. He added that the town had beaten others {{16}}. \"Our steps have been successful so far\" he said. \"Maybe the town was a mess eight or nine years ago, but we have worked hard, and we believe that we are on the right track now. We now have a Premier League football club and we want to be a Premier League town as well. The logo is bright and unusual and really exciting. I think it’s a risky choice, {{17}}.\"",
+      "Some councillors had no problem with the logo at all: they thought it was a good idea. Others complained that the town had spent too much money on the logo {{18}}. One of them said: \"The logo is not the best I have seen. As for our efforts to let the world know about our results, it’s important to get the message across, but it is more important to find the solution to our social and economic problems.\"",
+      "(http://www.lancashiretelegraph.co.uk/)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "but I haven’t heard a bad word about it"
+      },
+      {
+       "key": "B",
+       "text": "who had been interested in using the logo"
+      },
+      {
+       "key": "C",
+       "text": "so it cannot be used by other towns"
+      },
+      {
+       "key": "D",
+       "text": "but they didn’t win the competition"
+      },
+      {
+       "key": "E",
+       "text": "and it should have been spent on ‘more important’ matters"
+      },
+      {
+       "key": "F",
+       "text": "while the green symbolises the parks and the outskirts"
+      },
+      {
+       "key": "G",
+       "text": "while others compare it to a ‘deformed insect’"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this article on a martial arts expert and then read the statements (19-28) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "PENSIONER JOINS MARTIAL ART ELITE",
+     "body": [
+      "George Kerr, 72, a Scottish pensioner, has become one of only seven living people to hold judo's highest rank.",
+      "He was named a \"10th Dan\" black belt at a ceremony held by the International Judo Federation in Paris. He is one of only five non-Japanese people who have won the award. It recognises Mr Kerr's contribution to the sport as a competitor, coach, referee and administrator.",
+      "Mr Kerr, who runs a judo club for children in Edinburgh, said he was very happy to get the award. He received it in Paris last Wednesday. Mr Kerr told BBC Scotland: \"I feel humbled and proud to be the first Scotsman to receive this honour. I was slightly embarrassed because most of the people that get it are in their 80s while I am only 72.\"",
+      "Mr Kerr, who has written a number of books on judo, insisted he had no plans to slow down as he grew older. He added: \"If you give up, if you retire, you die. I will never retire. I just don't work as hard as I used to work but retiring is not on my horizon. I think the sport gives you many things in your life. It teaches you discipline and honesty, and many other things that can contribute to young kids' lives.",
+      "Mr Kerr was also honoured by the Japanese government last month for his efforts to bring the people of Japan and the UK closer. He won the gold medal in the 1957 European Championships in Rotterdam and a string of other awards, and is currently president of the British Judo Association.",
+      "Mr Kerr began practising judo when he was eight and as a young man won a scholarship to study the sport in Japan for four years.",
+      "(http://news.bbc.co.uk/)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "George Kerr has been a pensioner for seven years.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "George Kerr received the award from a British judo club.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Besides taking part in competitions Mr Kerr has held various positions connected to the sport.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The award ceremony was held in a stadium.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Mr Kerr thinks he is unusually young to get the award.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Mr Kerr is the author of several publications.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Mr Kerr wants to stop working soon.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Last month the Japanese government gave Mr Kerr an award for his achievements in sport.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "The British Judo Association was founded by Mr Kerr.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "George Kerr started judo as a teenager.",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "He spent years in Japan studying judo.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 8,
+    "13": 8,
+    "14": 9,
+    "15": 10,
+    "16": 10,
+    "17": 11,
+    "18": 12,
+    "19": 12,
+    "20": 13,
+    "21": 14,
+    "22": 14,
+    "23": 15,
+    "24": 15,
+    "25": 16,
+    "26": 17,
+    "27": 17,
+    "28": 18
+   },
+   "tasks": [
+    {
+     "id": "2011-maj-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a driver who may have to go to court. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-11) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "DRIVER FINED 'FOR BLOWING NOSE'",
+     "body": [
+      "An Ayrshire businessman says he has been fined by {{0}} police for blowing his nose {{1}} driving.",
+      "Michael Mancini, from Prestwick, said he was sitting in stationary traffic with the handbrake on when he {{2}} a tissue to clean his nose. The 39-year-old, who {{3}} a furniture restoration business, said: \"The {{4}} in the High Street was at a stand-still. I stopped the van, put the handbrake on and blew my nose. The traffic {{5}} on and I was waved over by a police officer. He said I was not in proper control of the {{6}}.\"",
+      "Mr Mancini said he was \"absolutely shocked\" by the police action. \"I've never been in {{7}} with the police. I honestly thought someone was going to {{8}} out and say: 'Smile, you're on Candid Camera!'.\"",
+      "Mr Mancini was fined last month but has {{9}} to pay the £60 fine. Last week he received a letter stating that {{10}} the fine was not paid the {{11}} would go to court. Mr Mancini's lawyer said: \"My client will be pleading not guilty.\"",
+      "(www.bbcnews.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "CASE"
+      },
+      {
+       "key": "B",
+       "text": "HAVE"
+      },
+      {
+       "key": "C",
+       "text": "THE"
+      },
+      {
+       "key": "D",
+       "text": "MOVED"
+      },
+      {
+       "key": "E",
+       "text": "REFUSED"
+      },
+      {
+       "key": "F",
+       "text": "RUN"
+      },
+      {
+       "key": "G",
+       "text": "RUNS"
+      },
+      {
+       "key": "H",
+       "text": "IF"
+      },
+      {
+       "key": "I",
+       "text": "TRAFFIC"
+      },
+      {
+       "key": "K",
+       "text": "TROUBLE"
+      },
+      {
+       "key": "L",
+       "text": "USED"
+      },
+      {
+       "key": "M",
+       "text": "VEHICLE"
+      },
+      {
+       "key": "N",
+       "text": "WHILE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "N"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "M"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 8,
+       "answer": "F"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about rare stamps that were auctioned for charity in Berlin. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (12-18).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "RARE AUDREY HEPBURN STAMPS SOLD AT AUCTION",
+     "body": [
+      "A rare sheet of 10 stamps showing {{0}} Audrey Hepburn smoking has been sold for 430,000 Euros at a charity auction in Berlin.",
+      "The German Postal Service printed 14 million of the stamps in 2001 showing Hepburn with a long, black cigarette holder hanging from her lips. The stamps were printed as part of a series featuring classic film stars, but it was only after production that Sean Ferrer, Audrey Hepburn's son, was contacted for copyright {{12}}. He was sent a sheet for approval but he refused to grant copyright, saying the image had been altered. In the {{13}} photo, Hepburn has sunglasses hanging from her mouth, but they were replaced with the cigarette holder. So the postal service ordered the stamps to be destroyed. {{14}}, two sheets were saved, one for the Postal Service Archives and one for the German Post Museum.",
+      "Last month, stamp {{15}} Andreas Schlegel contacted Mr Ferrer to suggest asking the {{16}} if they could sell one of the archived stamp sheets for charity. However, Mr Ferrer offered the sheet he had been sent in 2001 and still had in his {{17}} to be auctioned.",
+      "Two-thirds of the money {{18}} will go towards the Audrey Hepburn Children's Fund, while a third will go to Unicef.",
+      "(www.bbcnews.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "act",
+       "example": true,
+       "accept": [
+        "actress"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "permit",
+       "accept": [
+        "permission"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "origin",
+       "accept": [
+        "original"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "lucky",
+       "accept": [
+        "luckily"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "collect",
+       "accept": [
+        "collector"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "govern",
+       "accept": [
+        "government",
+        "governor"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "possess",
+       "accept": [
+        "possession"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "raise",
+       "accept": [
+        "raised"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an anecdote about Albrecht Dürer, a German Renaissance artist. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-28) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "”PRAYING HANDS” BY ALBRECHT DÜRER",
+     "body": [
+      "Albrecht Dürer (1471–1528) was born in Nürnberg {{0}} the third son of a Hungarian goldsmith. He was a painter, printmaker, draughtsman and art theorist. He is generally regarded as {{19}} greatest German Renaissance artist.",
+      "The story is told that Dürer and another struggling young artist {{20}} Franz Knigstein worked together as miners to earn money {{21}} their art studies. But this hard labour left them little time {{22}} study art. They decided to draw lots: one of {{23}} would continue to study full-time while the other worked to support him until he became a successful artist {{24}} would then be able to support the other in his studies.",
+      "Dürer won. {{25}} he became a famous artist, he returned to keep his part of the agreement. By {{26}}, however, the years of hard labour had caused his friend's hands to become twisted, and he could {{27}} longer use them for the delicate brush strokes of an artist. Franz told Dürer that he was happy that his labour had helped to produce such a great artist. Dürer looked at the hands {{28}} had supported him all those years, and sketched them. The sketch is the \"Praying Hands.\"",
+      "(Paw Prints Anecdotes)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "the",
+        "our"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "named",
+        "called"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "for",
+        "towards",
+        "during"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "them"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "who",
+        "that",
+        "and"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "After",
+        "When"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "then",
+        "now"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "no"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "that",
+        "which"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 14,
+    "11": 15,
+    "12": 17,
+    "13": 18,
+    "14": 19,
+    "15": 21,
+    "16": 22,
+    "17": 23,
+    "18": 25,
+    "19": 26,
+    "20": 28,
+    "21": 29,
+    "22": 30,
+    "23": 32,
+    "24": 33
+   },
+   "tasks": [
+    {
+     "id": "2011-maj-kozep-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear an interview with an American police officer about a type of crime that is becoming more and more widespread all over the world.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_11maj_fl.mp3",
+      "start": 0,
+      "end": 775.42,
+      "clip": "hang/k_angol_11maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Pickpockets steal … from other people’s pockets.",
+       "options": [
+        {
+         "key": "A",
+         "text": "money"
+        },
+        {
+         "key": "B",
+         "text": "other valuables"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The interviewer’s acquaintances have been robbed of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "their bags."
+        },
+        {
+         "key": "B",
+         "text": "some documents."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Pickpockets are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "growing in numbers."
+        },
+        {
+         "key": "B",
+         "text": "improving their techniques."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The most skillful pickpockets ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "come from outside the USA."
+        },
+        {
+         "key": "B",
+         "text": "are fairly young."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "The test for a trained pickpocket includes stealing … from the pocket of a dummy.",
+       "options": [
+        {
+         "key": "A",
+         "text": "a wallet"
+        },
+        {
+         "key": "B",
+         "text": "bells"
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Pickpockets ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "were executed in England a few centuries ago."
+        },
+        {
+         "key": "B",
+         "text": "are rarely caught today."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Pickpockets like to work with ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "another pickpocket."
+        },
+        {
+         "key": "B",
+         "text": "a partner of the opposite sex."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "It is very risky to keep valuables in a pocket in your …",
+       "options": [
+        {
+         "key": "A",
+         "text": "clothes."
+        },
+        {
+         "key": "B",
+         "text": "backpack."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "If you notice that you are a target, it may help if you start ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "running."
+        },
+        {
+         "key": "B",
+         "text": "shouting."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-kozep-H2",
+     "number": 2,
+     "kind": "fix",
+     "layout": "stems",
+     "examType": "hibás szó javítása hallás után",
+     "points": 8,
+     "instructions": [
+      "In this part of the test you will hear a news report about a man who wanted to cut the cost of flying.",
+      "Your task will be to find one incorrect word (or number) in each of the following sentences, cross it out, and write the correct one on the line after the sentence.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_11maj_fl.mp3",
+      "start": 775.42,
+      "end": 1293.62,
+      "clip": "hang/k_angol_11maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "text": "The man’s mother and father live in Chicago.",
+       "example": true,
+       "fixes": [
+        {
+         "wrong": "chicago",
+         "accept": [
+          "Dallas"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 9,
+       "text": "He said he decided to visit his parents because he was bored.",
+       "fixes": [
+        {
+         "wrong": "bored",
+         "accept": [
+          "homesick"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 10,
+       "text": "The price of a first class air-ticket would have been higher than the price of sending a crate.",
+       "fixes": [
+        {
+         "wrong": "would",
+         "accept": [
+          "wouldn’t",
+          "wouldn't"
+         ]
+        },
+        {
+         "wrong": "higher",
+         "accept": [
+          "lower"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 11,
+       "text": "Mr McKinley had nothing to eat or drink during the 50-hour journey.",
+       "fixes": [
+        {
+         "wrong": "50-hour",
+         "accept": [
+          "15",
+          "fifteen",
+          "15-hour",
+          "fifteen-hour"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 12,
+       "text": "On the plane, somebody noticed that there was a man sitting inside the crate.",
+       "fixes": [
+        {
+         "wrong": "somebody",
+         "accept": [
+          "nobody",
+          "no one"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 13,
+       "text": "He had lied that the crate contained a computer and books.",
+       "fixes": [
+        {
+         "wrong": "books",
+         "accept": [
+          "clothes"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 14,
+       "text": "The deliveryman thought there was a dog inside the crate.",
+       "fixes": [
+        {
+         "wrong": "dog",
+         "accept": [
+          "body"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 15,
+       "text": "Mr McKinley was arrested and jailed three hours after his trip.",
+       "fixes": [
+        {
+         "wrong": "hours",
+         "accept": [
+          "days"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 16,
+       "text": "The District Attorney said Mr McKinley violated the law of security.",
+       "fixes": [
+        {
+         "wrong": "security",
+         "accept": [
+          "stupidity"
+         ]
+        }
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A megoldás akkor is elfogadható, ha a hibás szó áthúzása elmaradt, de a vonalra írt szó helyes.)"
+     }
+    },
+    {
+     "id": "2011-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a story about an outstanding British sportsman, Peter Keenan.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_11maj_fl.mp3",
+      "start": 1293.62,
+      "end": 1795.48,
+      "clip": "hang/k_angol_11maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Athletes always react better in dangerous situations or under pressure than others.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The story the presenter is telling us happened towards the end of Keenan’s career.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "At the time of the match, Freddie Gilroy was obviously weaker than Peter Keenan.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Freddie Gilroy was more than ten years younger than Keenan.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "The presenter accompanied Peter Keenan to the match.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "On the plane, some people suggested that he shouldn’t take the match very seriously.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Peter Keenan was sure that he was still better than his challenger.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Keenan was knocked down several times during the fight.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The presenter sat next to Peter Keenan on the airplane on the way back to Britain.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

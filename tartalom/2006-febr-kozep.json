@@ -1,0 +1,1233 @@
+{
+ "formatVersion": 1,
+ "id": "2006-febr-kozep",
+ "year": 2006,
+ "session": "február",
+ "level": "közép",
+ "examDate": "2006-02-23",
+ "code": "0522",
+ "sourceFiles": {
+  "paper": "2006. Középszintű február-márciusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_06febr_fl.pdf",
+  "key": "2006. Középszintű február-márciusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_06febr_ut.pdf",
+  "audio": "2006. Középszintű február-márciusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_06febr_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2006-febr-kozep-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 5,
+     "instructions": [
+      "Read this article on a brilliant young surfer and then read the sentences following it.",
+      "Your task is to fill in the gaps with maximum three words according to the information in the text."
+     ],
+     "title": "One for the future",
+     "body": [
+      "With only three months of decent weather in Britain every year, it is hardly surprising that surfing is more popular in Australia and America.",
+      "That, however, will not prevent thousands of people converging on Devon and Cornwall for late summer holidays. Among them will be 16-year-old Reubyn Ash, a Briton tipped to become a star of the waves.",
+      "Ash has been surfing since the age of three, when his parents introduced him to the surf. By the age of four, he could outsurf his four sisters and older brother, winning the first competition he entered three years later. He came to prominence in British surfing when, at the age of 13, he won a Pro Junior under-20 title. The highlight of his career so far came in France two years ago, when he became under-14 European champion.",
+      "Having finished his school exams, he has decided that the best thing for his career is to compete regularly against the world’s best surfers. In October he will travel to Australia to spend six months training there, competing on the Australian pro junior circuit. After Australia, he will continue his surfing education in Indonesia, before rejoining the European pro junior tour next year.",
+      "What one factor makes Australia and America better places for surfing than Britain? {{0}}",
+      "Which areas in Britain are most suitable for Reubyn Ash to train? {{1}}",
+      "Who first taught him to surf? {{2}}",
+      "How old was he when he first won a competition? {{3}}",
+      "Where did he win his first international title? {{4}}",
+      "In which parts of the world is he going to prepare for the European pro junior tour? {{5}}"
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "The weather."
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "Cornwall and Devon."
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "His parents."
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "Seven",
+        "7."
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "In France.",
+        "France."
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "Australia and Indonesia."
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this passage on various aspects of cheating, and then read the sentences that follow it.",
+      "Your task is to choose the answer that is nearest in meaning to what the article says."
+     ],
+     "title": "Cheating",
+     "body": [
+      "The Cardsharps, a painting by Caravaggio, is a masterpiece of late 16th century art. In the 17th century another famous painter, Georges de la Tour, also chose cheating at cards as the subject of two of his works. This shows how ingrained cheating is in our society. Some even say that games in general and card games in particular were only invented so that people could cheat. That’s why card games are so full of words such as knave and tricks.",
+      "Cheating in school and university exams is a worldwide phenomenon. In 1995, schools in Nigeria reportedly insisted that girls remove their underwear before taking exams because so many had been smuggling in crib sheets. In 1996, an Italian teacher was suspended for passing students answers hidden in salami sandwiches. In some parts of the world, cheating is almost institutionalised. In 1999, thousands of Bangladeshi students were expelled for demanding the right to cheat in exams. In the nearby Indian state of Andhra Pradesh, however, exam cheats can be sentenced to 10 years in jail.",
+      "Cheating in sports is also widespread. An interesting example is the butterfly stroke in swimming: you could actually say that it was a result of cheating. In 1933, an American, Henry Myers, used butterfly as a means of legally evading the intention of the rules in breaststroke races. It took the authorities until 1953 before the laws were sorted out and butterfly was recognised as a distinct stroke.",
+      "Some cheats never get caught, of course, but it is worth quoting the example of one such person. In February this year, a high school principal in the US State of Colorado received a letter from a 65-year-old grandmother confessing to having cheated in an English Literature exam 47 years ago. “I know it makes no difference now,” she said, “but maybe it will keep some students from cheating and help them to be honest – conscience never lets you forget.”"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The article says that",
+       "options": [
+        {
+         "key": "A",
+         "text": "Georges de la Tour was inspired by Caravaggio’s work."
+        },
+        {
+         "key": "B",
+         "text": "both Caravaggio and Georges de la Tour enjoyed card games."
+        },
+        {
+         "key": "C",
+         "text": "both of them painted people cheating."
+        },
+        {
+         "key": "D",
+         "text": "both liked to cheat at times."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "The author of the article quotes the view that",
+       "options": [
+        {
+         "key": "A",
+         "text": "many games originated from a wish to cheat."
+        },
+        {
+         "key": "B",
+         "text": "many cards were named after cheats."
+        },
+        {
+         "key": "C",
+         "text": "cheating at cards is difficult to prove."
+        },
+        {
+         "key": "D",
+         "text": "cheating adds to the excitement of the game."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "Social attitudes to cheating in exams are",
+       "options": [
+        {
+         "key": "A",
+         "text": "similar all over the world."
+        },
+        {
+         "key": "B",
+         "text": "less strict in Asia than in Europe."
+        },
+        {
+         "key": "C",
+         "text": "different in different countries."
+        },
+        {
+         "key": "D",
+         "text": "different from what they used to be."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "An example given in the article shows how the problem of cheating was once solved by",
+       "options": [
+        {
+         "key": "A",
+         "text": "suspending the cheaters."
+        },
+        {
+         "key": "B",
+         "text": "sending the cheaters to prison."
+        },
+        {
+         "key": "C",
+         "text": "using other drastic means."
+        },
+        {
+         "key": "D",
+         "text": "changing the regulations."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "stem": "A 65-year-old woman confessed she had cheated in an exam",
+       "options": [
+        {
+         "key": "A",
+         "text": "to warn the principal to be strict with students."
+        },
+        {
+         "key": "B",
+         "text": "to warn students to be strict with themselves."
+        },
+        {
+         "key": "C",
+         "text": "because she wanted to be able to forget the incident."
+        },
+        {
+         "key": "D",
+         "text": "because she knew her confession would make no difference now."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Overall, the article suggests that",
+       "options": [
+        {
+         "key": "A",
+         "text": "cheating is not limited to schools or exams."
+        },
+        {
+         "key": "B",
+         "text": "it is more widespread in schools than elsewhere."
+        },
+        {
+         "key": "C",
+         "text": "people should try and do something about this problem."
+        },
+        {
+         "key": "D",
+         "text": "people should learn to live with this problem."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "Read this story of an archaeological scandal.",
+      "Some words have been left out from the text.",
+      "Your task is to fill in the gaps from the list below the text.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "The Dinosaur that Fooled the World",
+     "body": [
+      "In February 1999, at a fair in Arizona, an amazing fossil from China came on to the market. It was priced at $80,000 and only the {{0}} were invited to see it. It had the {{11}} of a bird and the tail of a dinosaur. It had all the {{12}} of one of the most sought-after fossils in all palaeontology – the missing link that proved {{13}} that dinosaurs evolved into birds. One of the world’s {{14}} magazines became involved. In exchange for an exclusive story, it agreed to fund the analysis of the fossil. A team of top experts {{15}} were assembled to examine the new discovery – and declared it was a {{16}}, archaeoraptor lianoningensis.",
+      "However, after a detective story that followed the path across China, the {{17}} emerged. The fossil was a fake. It had been constructed out of {{18}} of several different animals. One of the world’s most respected popular science journals had made a terrible mistake.",
+      "The story has one final twist, though. The faker had missed the {{19}} of his material. Two of the fragments that had been used to make the fake may in fact be from {{20}} that are part bird, part dinosaur – the phoney fossil may in fact contain two missing links."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "awful truth"
+      },
+      {
+       "key": "B",
+       "text": "characteristics"
+      },
+      {
+       "key": "C",
+       "text": "creatures"
+      },
+      {
+       "key": "D",
+       "text": "fragments"
+      },
+      {
+       "key": "E",
+       "text": "head and body"
+      },
+      {
+       "key": "F",
+       "text": "in the field"
+      },
+      {
+       "key": "G",
+       "text": "very top dealers"
+      },
+      {
+       "key": "H",
+       "text": "new species"
+      },
+      {
+       "key": "I",
+       "text": "big row"
+      },
+      {
+       "key": "K",
+       "text": "great surprise"
+      },
+      {
+       "key": "L",
+       "text": "real value"
+      },
+      {
+       "key": "M",
+       "text": "most prestigious"
+      },
+      {
+       "key": "N",
+       "text": "once and for all"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "answer": "E"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "N"
+      },
+      {
+       "n": 14,
+       "answer": "M"
+      },
+      {
+       "n": 15,
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      },
+      {
+       "n": 17,
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "answer": "L"
+      },
+      {
+       "n": 20,
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-kozep-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 10,
+     "instructions": [
+      "Read this article on some funny mistakes in films and then read the gapped sentences.",
+      "Your task is to fill the gaps with one or two words only according to the information in the article."
+     ],
+     "title": "Cut! It’s another blunder on set",
+     "body": [
+      "It has been branded the funniest foul-up in Hollywood blockbuster history. In the first Star Wars film, evil stormtroopers break into a control room where the heroes are holed up. But if you watch closely, one soldier coming through the doorway bangs his head so hard he almost knocks himself out.",
+      "The incident has topped a new poll of movie blunders. The mistakes on the list, compiled by DVD rental firm Silverscreen, are a mixture of glaring continuity errors and on- camera blunders.",
+      "The advent of DVD players, which allow viewers to pause films frame by frame, has boosted the spotting of celluloid howlers.",
+      "In second place behind Star Wars is Commando, starring Arnold Schwarzenegger as an ex-special forces soldier apparently immune to bullets. He completely destroys one side of his yellow Porsche – yet moments later he is seen driving away in a pristine vehicle.",
+      "At No 3 is a gaffe in Ridley Scott’s Gladiator which reveals a production member in blue jeans standing behind Russell Crowe who is dressed in Roman regalia.",
+      "In fourth place is Charlie’s Angels. During one of the fight scenes, star Drew Barrymore tries to get Lucy Liu’s attention by calling out “Lucy” even though her character’s name is Alex.",
+      "Fifth is the Matrix. While Neo, played by Keanu Reeves, is being interrogated by Agent Smith his mouth is sealed. However, when the camera focuses on Smith his glasses show a reflection of Neo sitting down completely unharmed.",
+      "In sixth place comes Spider Man. Two muggers are thrown through two windows, but shortly afterwards the windows are intact.",
+      "Seventh is Terminator 3 – Rise of the Machines. While John and Catherine are in the aircraft hangar the tail number on the Cessna is N3035C. In the air the number shown is N9373F and when it lands it goes back to N3035C.",
+      "A No 8 is Harry Potter and the Philosopher’s Stone. After end-of-year exams Harry, Ron and Hermione rush to Hagrid. One of Harry’s lines finishes with, “Why didn’t I see it before?” But Hermione is behind him mouthing the lines.",
+      "Ninth is Black Hawk Down. When a Humvee pulls up to let someone cross the street viewers can see one of the crew members driving the car wearing a white T-shirt. But all the people who got into the car were wearing fatigues.",
+      "And last at No10 is The Rocky Horror Picture Show. While a criminologist talks about an event he describes it as “a late November evening”. However, later on, Brad and Janet are driving with the radio on and US President Nixon’s resignation is being broadcast. Nixon resigned in August 1974.",
+      "In the first line of the article the word {{0}} is a synonym for blunder or mistake.",
+      "In a George Lucas film a soldier hurts {{21}} instead of the enemy.",
+      "In the first four paragraphs of the article one more synonym for blunders, foul-ups, mistakes or errors is {{22}}.",
+      "After the crash in Commando, the hero’s {{23}} shouldn’t be seen in perfect condition.",
+      "In this historical film, viewers shouldn’t be able to see the {{24}} of one of the staff.",
+      "In Charlie’s Angels the actress’s {{25}} shouldn’t be heard.",
+      "A mistake in the interrogation scene in The Matrix means the viewers can see that the hero is {{26}}.",
+      "The windows should have been {{27}} after this incident in Spider Man.",
+      "In Terminator 3 it looks as if John and Catherine had got into a different {{28}} while they were in midair.",
+      "In a scene in The Philosopher’s Stone you can hear Harry Potter speaking, and at the same time you can also read the words on {{29}} lips.",
+      "In Black Hawk Down it is a staff member’s {{30}} that gives him away."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "foul-up"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "himself",
+        "his head"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "howlers",
+        "howler"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "car",
+        "yellow Porsche",
+        "Porsche"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "blue jeans",
+        "jeans",
+        "trousers",
+        "clothes"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "real name"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "unharmed",
+        "OK"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "broken",
+        "smashed"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "aeroplane",
+        "plane",
+        "airplane"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "Hermione’s"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "white T-shirt",
+        "T-shirt"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 20,
+   "maxExamPoints": 18,
+   "omitted": [
+    {
+     "number": 1,
+     "points": 5,
+     "reason": "kimaradó feladattípus"
+    }
+   ],
+   "originalMaxTaskPoints": 25,
+   "tasks": [
+    {
+     "id": "2006-febr-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a burglar. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (6-16) in the text. Write the letter of the appropriate word in the white box.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "BURGLAR MAKES NICE PROFIT",
+     "body": [
+      "An enterprising Norwegian found a way to make a nice profit by renting out an apartment in a {{0}} part of Oslo. What the renters didn’t know was {{6}} the 29-year-old man, whose name {{7}} not been released, had broken into someone {{8}} apartment and rented it out to 11 different people.",
+      "The police said the man {{9}} breaking into the apartment and posting its photographs on an Internet real estate site. He then asked {{10}} a bargain €780 per month in rent.",
+      "Since {{11}} an apartment normally costs 35 percent more in Oslo, his advertisement attracted more {{12}} 60 people. Eleven people were so {{13}} to rent the space that they each paid a €2,340 deposit. A total of €25,740 {{14}} transferred to the swindler’s bank account. The real renter was travelling at the time and has now {{15}} all the locks.",
+      "Ingrid Christiansen, of the Oslo police, said that the money was {{16}} in the suspect’s bank account and he would face fraud charges."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "admitted"
+      },
+      {
+       "key": "B",
+       "text": "changed"
+      },
+      {
+       "key": "C",
+       "text": "eager"
+      },
+      {
+       "key": "D",
+       "text": "else’s"
+      },
+      {
+       "key": "E",
+       "text": "for"
+      },
+      {
+       "key": "F",
+       "text": "found"
+      },
+      {
+       "key": "G",
+       "text": "has"
+      },
+      {
+       "key": "H",
+       "text": "other’s"
+      },
+      {
+       "key": "I",
+       "text": "popular"
+      },
+      {
+       "key": "K",
+       "text": "such"
+      },
+      {
+       "key": "L",
+       "text": "than"
+      },
+      {
+       "key": "M",
+       "text": "that"
+      },
+      {
+       "key": "N",
+       "text": "was"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "M"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "answer": "E"
+      },
+      {
+       "n": 11,
+       "answer": "K"
+      },
+      {
+       "n": 12,
+       "answer": "L"
+      },
+      {
+       "n": 13,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "N"
+      },
+      {
+       "n": 15,
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about sunbathing. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (17-25).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE TWO TOP SUNTAN MYTHS",
+     "body": [
+      "Everything about the sun is bad for you We hear so much about how {{0}} UV rays are that you’d be forgiven for thinking that {{17}} indoors all summer was good for you! But there are plenty of {{18}} things about being out in the sunshine too. A 15-minute {{19}} stroll in the sun will provide enough vitamin D to build strong bones. This vitamin also boosts the immune system, preventing infections such as colds. {{20}} days also help increase the level of a brain chemical called serotonin, which puts you in a good mood. If you are {{21}} enough (avoiding the hottest times of the day and using the appropriate sunscreen), the sun can actually help you get rid of some skin problems as well.",
+      "One bottle of sunscreen will be enough for the two of you on a 10-day holiday Not if you apply the amount used during testing in laboratories to achieve the level of {{22}} stated on the bottle. Experts say you should take one 400ml bottle of sunscreen per person for every 10 days of your holiday. Sunscreen should be applied 15 minutes before going out in the sun and then reapplied {{23}} and always after swimming. If you are using a spray, your skin should be completely {{24}} before you rub it in. And don’t forget the {{25}} places such as the soles of your feet and behind your ears."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "danger",
+       "example": true,
+       "accept": [
+        "dangerous"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "stay",
+       "accept": [
+        "staying"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "use",
+       "accept": [
+        "useful"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "day",
+       "accept": [
+        "daily"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "sun",
+       "accept": [
+        "sunny"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "careful",
+       "accept": [
+        "careful"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "protect",
+       "accept": [
+        "protection"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "frequent",
+       "accept": [
+        "frequently"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "cover",
+       "accept": [
+        "covered"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "hide",
+       "accept": [
+        "hidden"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2006-febr-kozep-H1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "párosítás hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section you are going to hear an on-stage conversation between Paul Simon and Artie Garfunkel, the two musicians of the famous duo Simon and Garfunkel.",
+      "Your task is to match the information in the two columns below, and write the letter of the correct answer in the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_06febr_fl.mp3",
+      "start": 0,
+      "end": 680.75,
+      "clip": "hang/k_angol_06febr_fl_H1.mp3"
+     },
+     "bank": [
+      {
+       "key": "A",
+       "text": "sixteen"
+      },
+      {
+       "key": "B",
+       "text": "forty-seventh"
+      },
+      {
+       "key": "C",
+       "text": "sixth"
+      },
+      {
+       "key": "D",
+       "text": "Garfunkel & Simon"
+      },
+      {
+       "key": "E",
+       "text": "Tom & Jerry"
+      },
+      {
+       "key": "F",
+       "text": "fiftieth"
+      },
+      {
+       "key": "G",
+       "text": "White Rabbit"
+      },
+      {
+       "key": "H",
+       "text": "thirteen"
+      },
+      {
+       "key": "I",
+       "text": "Alice in Wonderland"
+      },
+      {
+       "key": "K",
+       "text": "eleven"
+      }
+     ],
+     "stemLead": "This is…",
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "the school grade they were in when they first met.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "the graduation play they both participated in.",
+       "answer": "I"
+      },
+      {
+       "n": 2,
+       "stem": "the anniversary of their friendship.",
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "stem": "how old they were when they first met.",
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "stem": "the leading role in the graduation play.",
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "stem": "how old they were when they started to sing together.",
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "stem": "the anniversary of their first argument.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "what Artie wanted to call their group.",
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "stem": "how old they were when they made their first record.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "the name of their first group.",
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear a guide talking to some European tourists in a nature reserve on the Island of Komodo.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_06febr_fl.mp3",
+      "start": 680.75,
+      "end": 1314.3,
+      "clip": "hang/k_angol_06febr_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "According to the guide, the beaches in Komodo are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "black."
+        },
+        {
+         "key": "B",
+         "text": "white."
+        },
+        {
+         "key": "C",
+         "text": "pink."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "Komodo dragons are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the largest reptiles on Earth."
+        },
+        {
+         "key": "B",
+         "text": "smaller than alligators and crocodiles."
+        },
+        {
+         "key": "C",
+         "text": "the dinosaurs’ closest relatives."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Komodo dragons can …",
+       "options": [
+        {
+         "key": "A",
+         "text": "grow up to 4 metres."
+        },
+        {
+         "key": "B",
+         "text": "weigh 120 kilos."
+        },
+        {
+         "key": "C",
+         "text": "live up to 80 years."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "A park ranger saw a dragon eat a pig in less than … minutes.",
+       "options": [
+        {
+         "key": "A",
+         "text": "10"
+        },
+        {
+         "key": "B",
+         "text": "15"
+        },
+        {
+         "key": "C",
+         "text": "20"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Young Komodo dragons live …",
+       "options": [
+        {
+         "key": "A",
+         "text": "in water."
+        },
+        {
+         "key": "B",
+         "text": "in trees."
+        },
+        {
+         "key": "C",
+         "text": "under the ground."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Komodo dragons can … very well.",
+       "options": [
+        {
+         "key": "A",
+         "text": "see"
+        },
+        {
+         "key": "B",
+         "text": "hear"
+        },
+        {
+         "key": "C",
+         "text": "smell"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The tourists can …",
+       "options": [
+        {
+         "key": "A",
+         "text": "pick up water bottles at the entrance."
+        },
+        {
+         "key": "B",
+         "text": "buy special clothes at the museum shop."
+        },
+        {
+         "key": "C",
+         "text": "visit an exhibition of snakes."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "The tourists should be silent so as not to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "get into danger."
+        },
+        {
+         "key": "B",
+         "text": "disturb the dragons."
+        },
+        {
+         "key": "C",
+         "text": "frighten the dragons."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The park has …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a fenced-in area for dragons."
+        },
+        {
+         "key": "B",
+         "text": "cages with dangerous-looking dragons."
+        },
+        {
+         "key": "C",
+         "text": "a fence to protect tourists."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Once a German tourist … on the beach.",
+       "options": [
+        {
+         "key": "A",
+         "text": "got lost"
+        },
+        {
+         "key": "B",
+         "text": "was eaten by the dragons"
+        },
+        {
+         "key": "C",
+         "text": "lost his expensive camera"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a joke about the best beers in the world.",
+      "Your task will be to fill in the gaps in the answers.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_06febr_fl.mp3",
+      "start": 1314.3,
+      "end": 1800,
+      "clip": "hang/k_angol_06febr_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What product of theirs are the Scottish proud of? They are proud of their {{gap}}.",
+       "accept": [
+        "whisky"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Where was the international beer festival held? It was held in {{gap}}.",
+       "accept": [
+        "Britain",
+        "in Britain"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Where did the four presidents go out after the festival? They went out to a {{gap}}.",
+       "accept": [
+        "London pub in London",
+        "London pub",
+        "pub in London",
+        "pub"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "What did the Spaniard say about the beer Corona? He said that it was the {{gap}}.",
+       "accept": [
+        "world’s oldest beer in the world",
+        "world’s oldest beer",
+        "oldest beer in the world",
+        "oldest beer"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "What did the American president say about the beer Budweiser? He said that it was the {{gap}}.",
+       "accept": [
+        "best beer in the world",
+        "the king of beers"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "What did the Belgian president say about the beer Amstel? He said that it was the only beer made with real mountain {{gap}}.",
+       "accept": [
+        "spring water"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "What did the Irish president order? He ordered a {{gap}}.",
+       "accept": [
+        "Coke",
+        "cola"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "What was the Irish president’s opinion about Corona, Budweiser and Amstel? His opinion was that these drinks aren’t {{gap}}.",
+       "accept": [
+        "beers",
+        "bier"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "A harmadik feladatnál – mivel mondatkiegészítésről van szó – elvileg csak olyan csak olyan megoldásokat fogadhatnánk el, amelyek hibátlanul illeszkednek a megadott mondatokba. Az esetleges fölösleges szóismétléseket és a többes/egyes szám nem megfelelő használatát – mintegy elírásnak tekintve őket – azonban mégis tolerálhatjuk. Így például elfogadhatjuk a Britain helyett az *in Britain (19. item) megoldást, valamint a beers helyett a *beer (22, illetve 25. itemek) alakokat is. A 23. item esetében pusztán a water szó megadása nem elegendő, mert a *mountain water szókapcsolatnak nincs értelme."
+     }
+    }
+   ]
+  }
+ ]
+}

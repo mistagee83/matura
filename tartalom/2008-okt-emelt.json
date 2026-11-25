@@ -1,0 +1,1548 @@
+{
+ "formatVersion": 1,
+ "id": "2008-okt-emelt",
+ "year": 2008,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2008-10-27",
+ "code": "0819",
+ "sourceFiles": {
+  "paper": "2008. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_08okt_fl.pdf",
+  "key": "2008. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_08okt_ut.pdf",
+  "audio": "2008. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_08okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2008-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this article about business managers.",
+      "Some words have been removed from the text.",
+      "Your task is to fill in the gaps (1-7) from the list below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "Bullying in the workplace",
+     "body": [
+      "We have all worked in companies where a manager’s behaviour and integrity leave much to be desired. A recent survey of British employees reveals that {{0}} “ruled by fear”, “were bullies”, “were opinionated and arrogant”, “were dishonest and devious”, “would blame their staff” or “were scared ‘Yes men’ who wouldn’t rock the boat”.",
+      "In fact {{1}} how these people ever got senior management roles in the first place. According to a joint study by Fairplace, specialists in career and talent management, and Cass Business School, {{2}} can affect your boss’s behaviour. As people move into senior positions they often find themselves outside their comfort zone − they are confronted with unfamiliar issues {{3}} and a high degree of uncertainty, along with the pressure of having to make big decisions that are very “visible” in the sense that {{4}} who carries the can. Therefore managers can feel even more stressed and isolated if {{5}} rather than harnessing their support and talent.",
+      "In order to improve the negative behaviour of {{6}}, Cindy Mahoney from Fairplace suggests senior management should:",
+      "a) explain to bullying managers what types of behaviour are unacceptable; b) show them that {{7}} is not an effective strategy for success; c) give them coaching to help them choose more suitable behaviour."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "it is clear to all"
+      },
+      {
+       "key": "B",
+       "text": "their management style"
+      },
+      {
+       "key": "C",
+       "text": "employees are often left wondering"
+      },
+      {
+       "key": "D",
+       "text": "they turn their team off"
+      },
+      {
+       "key": "E",
+       "text": "inefficient bosses criticised"
+      },
+      {
+       "key": "F",
+       "text": "special to business schools"
+      },
+      {
+       "key": "G",
+       "text": "many feel their bosses"
+      },
+      {
+       "key": "H",
+       "text": "these kinds of managers"
+      },
+      {
+       "key": "I",
+       "text": "a number of factors"
+      },
+      {
+       "key": "K",
+       "text": "above their level of expertise"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 1,
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "H"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this article about a liberal school in New York City and then read the sentences following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to say if it is true or not. Write your answers in the white boxes next to the numbers (8-17) as in the example (0)."
+     ],
+     "title": "Students rule at this New York school",
+     "body": [
+      "One recent day at the Brooklyn Free School, the ''schedule'' included the following: horror movies, chess and making caves for Teenage Mutant Ninja Turtles. Not that the students had to go to any of these sessions. At this school, students don't get grades, don't have homework, don't take tests, and don't even have to go to class unless they want to.",
+      "''You can do basically anything at any time, and it's just a lot more fun because sometimes when you need a break at regular schools you can't get it,'' said Sophia Bennett Holmes, 12, an aspiring singer-actress-fashion designer.",
+      "''Free schools,'' which had their flowering decades ago, operate on the belief that children are naturally curious and learn best when they want to, not when they are forced to. Today, the approach is getting another look from some parents and students tired of standardized testing, excessive homework, and overly rigid curriculums in traditional education.",
+      "At the Brooklyn Free School, much of the decision-making occurs in a compulsory weekly gathering. Here, students can air grievances, pose challenges and propose rules. Even the youngest kids have a vote equal to staffers. One agreed-upon rule? No sword-fighting allowed inside.",
+      "Even among some champions of alternative education, free schools are considered a bit too radical. ''You don't throw the baby out with the bath water,'' said Jeanne Allen, president of the Center for Education Reform. ''You don't get rid of all structure and standards if you want your child to be able to deal with all different settings.'' Others say free schools could gain popularity if the emphasis on testing and regimented curriculums keeps up in traditional schools.",
+      "But what about the basics? Long division, spelling, algebra? Is it enough to let a child decide when to learn those things? That troubles a few parents who use outside tutors for their children. Others disagree, noting most adults can barely remember, or rarely use, most of what schools pounded into them.",
+      "Students at this school will eventually have to meet a set of graduation ''requirements,'' where they must present a portfolio showing proficiency in areas such as communication, investigation and reflection.",
+      "But the definition of proficiency, like much of the school, is flexible."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Students are allowed to watch films at the Brooklyn Free School.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Whichever it is, students have to choose one of the activities offered by the school.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Free schools started less than ten years ago.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Some people are unhappy with the fact that students can't avoid studying certain subjects at traditional schools.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "Students can miss the weekly meeting if they want to.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Teachers don't have more power than students when it comes to making decisions at the school meeting.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "School meetings are usually held on the first day of the week.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Ms. Allen is a firm believer in traditional education.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "Some people believe that free schools could become more fashionable if they set students demanding tests.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Some of the parents at the Brooklyn school believe that people don't remember the things they learnt at school very well.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Students are not assessed in any way when they leave the Brooklyn Free School.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this text about diamonds and then read the sentences (18-22) following it.",
+      "Your task is to decide which of the options A, B, C or D best completes each sentence so that it corresponds to the information in the text."
+     ],
+     "title": "Blood diamond",
+     "body": [
+      "Conflict diamonds, also known as blood diamonds, are diamonds that are used by rebel groups to fuel conflict and civil wars. They have financed brutal conflicts in Africa that have resulted in the death and displacement of millions of people. Diamonds have also been used by terrorist groups such as al-Qaeda to fund their activities and for money-laundering purposes.",
+      "Before the premier of the movie Blood Diamond, leading human rights organizations Global Witness and Amnesty International, along with other experts, warned that blood diamonds are still a problem and called on the public to urge governments, especially the U.S. government, and the diamond industry to strengthen diamond-monitoring systems. They also ask consumers to demand written guarantees from retailers that their jewellery contains no conflict diamonds. “Right now there is no way of ensuring 100 percent that the diamond in your engagement ring is conflict free,” said C. Gooch, Executive Director of Global Witness. “But consumers can change this, by taking a firm stand.”",
+      "Dramatic undercover footage, released before the film’s premier by a UK company in association with Insight News TV, showed New York diamond dealers eager and willing to buy diamonds with no accompanying paperwork to confirm that they are not blood diamonds.",
+      "The film Blood Diamond is set against the backdrop of civil war and chaos in 1990’s Sierra Leone, and is the story of Archer, a South African mercenary, and Solomon, a Mende fisherman. Both men are African, but their histories are as different as can be, until their fates become joined in a common search to recover a rare pink diamond that can transform their lives. While in prison for smuggling, Archer learns that Solomon − who was taken from his family to work in the diamond fields − has found and hidden the extraordinary rough stone. With the help of Maddy, an American journalist, the two men set off on a journey through rebel territory, a journey that could save Solomon’s family and give Archer a chance he thought he would never have.",
+      "“A film can be an incredibly powerful means of inspiring people to take action,” said Amy O’Meara of Amnesty International. “What Blood Diamond illustrates is that even a small percentage of conflict stones can have tragic consequences.”",
+      "Global Witness and Amnesty International work to highlight the links between the exploitation of natural resources, conflict and corruption. Global Witness was co-nominated for the 2003 Nobel Peace Prize for its work in campaigning against conflict diamonds and for setting up an international diamond certification scheme."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Blood diamonds",
+       "options": [
+        {
+         "key": "A",
+         "text": "are weapons used by African rebel groups."
+        },
+        {
+         "key": "B",
+         "text": "have been used to buy petrol for tanks in Africa."
+        },
+        {
+         "key": "C",
+         "text": "finance violent conflicts and terrorism."
+        },
+        {
+         "key": "D",
+         "text": "are created by money-laundering."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Global Witness think ordinary people",
+       "options": [
+        {
+         "key": "A",
+         "text": "can do nothing to solve the problem of blood diamonds."
+        },
+        {
+         "key": "B",
+         "text": "as well as politicians should take steps to curb the problem."
+        },
+        {
+         "key": "C",
+         "text": "are in the hands of the diamond industry and trade."
+        },
+        {
+         "key": "D",
+         "text": "rather than governments are the key to solving this problem."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Hidden cameras used in New York showed",
+       "options": [
+        {
+         "key": "A",
+         "text": "the dramatic life of diamond traders."
+        },
+        {
+         "key": "B",
+         "text": "dealers refusing to complete documents."
+        },
+        {
+         "key": "C",
+         "text": "traders buying what could be blood diamonds."
+        },
+        {
+         "key": "D",
+         "text": "a UK agent eager to sell diamonds."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "The film Blood Diamond",
+       "options": [
+        {
+         "key": "A",
+         "text": "is about the lives of two African men."
+        },
+        {
+         "key": "B",
+         "text": "is set in a South African prison."
+        },
+        {
+         "key": "C",
+         "text": "ends with Solomon being saved."
+        },
+        {
+         "key": "D",
+         "text": "shows how the diamond is recovered."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Films",
+       "options": [
+        {
+         "key": "A",
+         "text": "are sometimes powerful motivators."
+        },
+        {
+         "key": "B",
+         "text": "can have awful consequences."
+        },
+        {
+         "key": "C",
+         "text": "give a distorted picture of reality."
+        },
+        {
+         "key": "D",
+         "text": "try to capitalise on human tragedies."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Global Witness",
+       "options": [
+        {
+         "key": "A",
+         "text": "has won the Nobel Peace Prize."
+        },
+        {
+         "key": "B",
+         "text": "is a branch of Amnesty International."
+        },
+        {
+         "key": "C",
+         "text": "exploits natural resources."
+        },
+        {
+         "key": "D",
+         "text": "works for stricter controls."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article on a golfing record.",
+      "Some parts of sentences have been removed from the text.",
+      "Your task is to fill the gaps from the list (A-L).",
+      "Write the appropriate letters in the white boxes next to the numbers (23-30) as in the example (0).",
+      "Remember that there are two more letters than you need."
+     ],
+     "title": "Cosmonaut prepares for golf stunt",
+     "body": [
+      "A Russian cosmonaut is preparing to hit a golf ball during a spacewalk outside the International Space Station (ISS)",
+      "Flight engineer Mikhail Tyurin will knock a lightweight ball off a tee, {{0}}. A Canadian golf club maker is paying the Russian space agency an undisclosed sum for Tyurin's time. Nasa held up the stunt for months while safety experts checked possible flight paths to make sure the ball would not head back towards the space station.",
+      "\"I play ice hockey and my understanding is {{23}},\" said Mr Tyurin, who has been taking many practice swings to brush up his technique ahead of the shot, {{24}}.",
+      "Responding to questions about the safety, the flight engineer replied: \"There is no question: it's safe.\" Nasa flight director Holly Ridings added: \"Of course the crew is taking this very, very seriously {{25}}. There is absolutely no danger of re-contact with the space station.\"",
+      "Federal law bars the US space agency from getting any money for its involvement. Mr Tyurin, who has been aboard the station since September, isn't expected to hit the ball hard, {{26}}. The ball itself weighs just 4.5g (0.16 ounce) instead of the standard- issue 45g (1.6 ounce) ball. The Russian has to make the shot one-handed {{27}}. Station commander Michael Lopez-Alegria, {{28}}, will help set up a camera to film the shot for an upcoming television commercial. Tyurin's drive is expected to be one for the record books, {{29}}. Nasa figures it will fall into Earth's atmosphere and be incinerated within three days. The Toronto-based golf club maker, called Element 21 Golf, {{30}}, is betting on three years. During the Apollo 14 moon mission in 1971, US astronaut Alan Shepard hit a golf ball from the lunar surface and boasted that it travelled \"miles and miles\" in the low-gravity atmosphere."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "so they've been doing a lot of practice"
+      },
+      {
+       "key": "B",
+       "text": "that I can do it like a professional"
+      },
+      {
+       "key": "C",
+       "text": "which will be placed above the ISS's Russian docking port"
+      },
+      {
+       "key": "D",
+       "text": "which is paying for the orbital golf shot"
+      },
+      {
+       "key": "E",
+       "text": "who is accompanying Tyurin during the spacewalk"
+      },
+      {
+       "key": "F",
+       "text": "which will be carried out during a space walk on Wednesday"
+      },
+      {
+       "key": "G",
+       "text": "who is going to follow the events from his home in Colorado"
+      },
+      {
+       "key": "H",
+       "text": "that it is very similar"
+      },
+      {
+       "key": "I",
+       "text": "though not everyone agrees on how long the ball will fly"
+      },
+      {
+       "key": "K",
+       "text": "because his bulky spacesuit prevents him from bringing his hands together"
+      },
+      {
+       "key": "L",
+       "text": "just tap it with the club"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      },
+      {
+       "n": 24,
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "L"
+      },
+      {
+       "n": 27,
+       "answer": "K"
+      },
+      {
+       "n": 28,
+       "answer": "E"
+      },
+      {
+       "n": 29,
+       "answer": "I"
+      },
+      {
+       "n": 30,
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2008-okt-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about The Queen's \"two birthdays\". Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-9) in the text."
+     ],
+     "title": "ONE QUEEN, TWO BIRTHDAYS",
+     "body": [
+      "Elizabeth II, the British Queen, celebrates her actual birthday on 21 April. She also celebrates her official birthday on either the first {{0}} the second, and sometimes the third Saturday in June. The tradition of having an official birthday for the Sovereign {{1}} begun for practical reasons. Monarchs who had their birthdays in the winter months often encountered problems {{2}} cold, wet weather spoiling outdoor celebrations.",
+      "King Edward VII, who was born on 9 November, was the first Sovereign {{3}} his official birthday on a separate day, holding celebrations in either May or June. Subsequent monarchs had birthdays which {{4}} at convenient times of the year, but the tradition was {{5}} by The Queen's father, King George VI. He was born in mid-December, and so also 'moved' his birthday to June, when fine weather was more {{6}}, and thus the tradition of the official birthday was established.",
+      "The Queen continues the tradition {{7}} celebrating her official birthday in June each year. Her Majesty usually spends her actual birthday privately at Windsor with friends and family {{8}} her official birthday is always marked in the same way with the Trooping of the Colour ceremony and a fly-past over Buckingham Palace. {{9}}, the Union flag is flown from government buildings and gun salutes are fired at noon."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "but"
+        },
+        {
+         "key": "B",
+         "text": "and"
+        },
+        {
+         "key": "C",
+         "text": "or"
+        },
+        {
+         "key": "D",
+         "text": "nor"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "have"
+        },
+        {
+         "key": "B",
+         "text": "-"
+        },
+        {
+         "key": "C",
+         "text": "was"
+        },
+        {
+         "key": "D",
+         "text": "had"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "due to"
+        },
+        {
+         "key": "B",
+         "text": "because"
+        },
+        {
+         "key": "C",
+         "text": "as"
+        },
+        {
+         "key": "D",
+         "text": "when"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "having marked"
+        },
+        {
+         "key": "B",
+         "text": "to have marked"
+        },
+        {
+         "key": "C",
+         "text": "marking"
+        },
+        {
+         "key": "D",
+         "text": "to mark"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "felt"
+        },
+        {
+         "key": "B",
+         "text": "fell"
+        },
+        {
+         "key": "C",
+         "text": "fall"
+        },
+        {
+         "key": "D",
+         "text": "fallen"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "reversed"
+        },
+        {
+         "key": "B",
+         "text": "revived"
+        },
+        {
+         "key": "C",
+         "text": "revised"
+        },
+        {
+         "key": "D",
+         "text": "reserved"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "likeable"
+        },
+        {
+         "key": "B",
+         "text": "probably"
+        },
+        {
+         "key": "C",
+         "text": "possibility"
+        },
+        {
+         "key": "D",
+         "text": "likely"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "by"
+        },
+        {
+         "key": "B",
+         "text": "with"
+        },
+        {
+         "key": "C",
+         "text": "in"
+        },
+        {
+         "key": "D",
+         "text": "off"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "though"
+        },
+        {
+         "key": "B",
+         "text": "when"
+        },
+        {
+         "key": "C",
+         "text": "while"
+        },
+        {
+         "key": "D",
+         "text": "as"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "However"
+        },
+        {
+         "key": "B",
+         "text": "Beside"
+        },
+        {
+         "key": "C",
+         "text": "Thus"
+        },
+        {
+         "key": "D",
+         "text": "In addition"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a true story about a lawyer and his expensive cigars. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (10-19) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "CIGARS LOST IN FIRES",
+     "body": [
+      "A lawyer bought a box of very rare and expensive cigars, then insured them {{0}} fire among other things. He smoked all these great cigars within a month and filed a claim against the insurance company without {{10}} made even his first payment on the policy. According to the claim, the cigars {{11}} lost \"in a series of small fires\". The insurance company refused to pay, naming the obvious reason: that {{12}} man had consumed the cigars in the normal fashion.",
+      "The lawyer sued and won! In delivering the ruling the judge agreed with the insurance company that the claim was ridiculous. {{13}}, the judge stated that the lawyer held a policy from the company in {{14}} it had guaranteed that it would insure the cigars against fire, without defining {{15}} is considered to be unacceptable fire, and was obliged to pay the claim. {{16}} than go through a lengthy and costly appeal process, the insurance company accepted the ruling and paid $15,000 {{17}} the lawyer for his loss of the rare cigars.",
+      "After the lawyer cashed the check, the insurance company {{18}} him arrested on 24 counts of arson!!! With his own insurance claim and testimony from the previous case being used against him, the lawyer was found {{19}} of intentionally burning his insured property and was sentenced to 24 months in jail and a $24,000 fine."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "against"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "having"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "were",
+        "got"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "the",
+        "our"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "however",
+        "nevertheless",
+        "nonetheless"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "what"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "rather"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "had",
+        "got"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "guilty"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a strange visitor to the Hudson river in New York City. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-27).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "AN UNSUSPECTED VISITOR",
+     "body": [
+      "Last August a very strange visitor dropped by what is known as the 'Big Apple'. Many {{0}} go to New York City from all over the world to see the great sights as well as take up the rich up-beat {{20}} of city life. But on this day, something {{21}} decided to take a walk in the Hudson river.",
+      "Many of the {{22}} at first didn’t know what they were looking at. One person, Randy Shull, said to the {{23}}, \"It was gigantic\". Once local authorities heard of its {{24}}, a search was initiated to find out what it was. Trackers began searching for the strange creature, without any photographic {{25}} to figure out exactly what they were looking for, however the creature was {{26}} located and identified; a manatee.",
+      "Manatees, which are an {{27}} mammal, are very uncommon in the northern parts of the United States. Most are located in Florida."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "tour",
+       "example": true,
+       "accept": [
+        "tourists"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "feel",
+       "accept": [
+        "feeling",
+        "feel"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "usual",
+       "accept": [
+        "unusual"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "reside",
+       "accept": [
+        "residents"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "press",
+       "accept": [
+        "press"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "present",
+       "accept": [
+        "presence"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "evident",
+       "accept": [
+        "evidence"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "eventual",
+       "accept": [
+        "eventually"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "endanger",
+       "accept": [
+        "endangered"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read a joke about a businessman from a small town in California. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE CITY",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A businessman walks into a bank in San Francisco and asks for",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "the loan officer. He says he is going to Europe on a business for",
+       "answer": "a"
+      },
+      {
+       "n": 28,
+       "text": "two weeks and needs to borrow $5,000. The bank officer says if",
+       "answer": "if"
+      },
+      {
+       "n": 29,
+       "text": "the bank will need some kind of security for such a loan. So far",
+       "answer": "far"
+      },
+      {
+       "n": 30,
+       "text": "the businessman hands over the keys to a Rolls Royce that parked",
+       "answer": "that"
+      },
+      {
+       "n": 31,
+       "text": "in front of the bank. The bank agrees to accept the car such as",
+       "answer": "such"
+      },
+      {
+       "n": 32,
+       "text": "collateral for the loan. Although an employee drives the Rolls",
+       "answer": "although"
+      },
+      {
+       "n": 33,
+       "text": "into the bank's underground garage and parks it there.",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "Two weeks later, the man returns back, and repays the $5,000",
+       "answer": "back"
+      },
+      {
+       "n": 35,
+       "text": "and the interest, which comes to $15.41. The loan officer says, \"We",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "are very happy to have had your business, and this transaction has",
+       "answer": null
+      },
+      {
+       "n": 37,
+       "text": "not worked out very nicely, but we are a little puzzled. While you",
+       "answer": "not"
+      },
+      {
+       "n": 38,
+       "text": "were away, we have checked you out and found that you are a",
+       "answer": "have"
+      },
+      {
+       "n": 39,
+       "text": "multimillionaire. What puzzles to us is why you would bother to",
+       "answer": "to"
+      },
+      {
+       "n": 40,
+       "text": "borrow $5,000.\" The businessman replies him, \"Where else in San",
+       "answer": "him"
+      }
+     ],
+     "outro": "Francisco can I park my car for two weeks for $15? \""
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2008-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 12,
+     "instructions": [
+      "In this section you are going to hear a news item about air marshals.",
+      "Your task is to fill in the gaps in the sentences below with one or two words.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_08okt_fl.mp3",
+      "start": 0,
+      "end": 679.35,
+      "clip": "hang/e_angol_08okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The time is {{gap}} {{gap}} past seven.",
+       "gaps": [
+        [
+         "sixteen"
+        ],
+        [
+         "minutes"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Both pilots and British Airways are somewhat {{gap}} about having air marshals on their planes.",
+       "accept": [
+        "nervous",
+        "worried",
+        "upset",
+        "unhappy"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Air marshals are {{gap}} {{gap}} on airplanes.",
+       "gaps": [
+        [
+         "armed",
+         "security"
+        ],
+        [
+         "guards",
+         "agents"
+        ]
+       ],
+       "combos": [
+        [
+         "armed",
+         "guards"
+        ],
+        [
+         "security",
+         "agents"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "In the U.S. they have been in use for years, many more of them since {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "September",
+         "Sept"
+        ],
+        [
+         "11",
+         "11th",
+         "eleventh"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "John Crouch is the {{gap}} of the Massachusetts Port Authority.",
+       "accept": [
+        "chairman"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Two of the {{gap}} used in the 2001 terrorist attacks took off from Boston Airport.",
+       "accept": [
+        "flights",
+        "planes",
+        "airplanes"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Even Professor Crouch does not know the exact {{gap}} of planes which have marshals on them.",
+       "accept": [
+        "number",
+        "quantity"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "The fire-arms used by air marshals can deal with a {{gap}} {{gap}} without the risk of damaging the plane.",
+       "gaps": [
+        [
+         "human"
+        ],
+        [
+         "target",
+         "being"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Marshals are trained to act only if there's a danger of the plane being {{gap}}.",
+       "accept": [
+        "hijacked"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "There is a danger that terrorists might start a small {{gap}} so as to expose the air marshals on board.",
+       "accept": [
+        "incident",
+        "disturbance"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "An important part of the training is that marshals should be able to identify and observe {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "suspicious"
+        ],
+        [
+         "behaviours",
+         "behaviors",
+         "behaviour",
+         "behavior"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Air marshals are not supposed to react immediately if a passenger merely raises his or her {{gap}}.",
+       "accept": [
+        "voice"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Another key issue is that marshals should be able to fade into the {{gap}} on any plane fairly easily.",
+       "accept": [
+        "crowd"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2008-okt-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "táblázat kitöltése hallás után",
+     "points": 6,
+     "instructions": [
+      "In this section you are going to hear a short news report about cars.",
+      "Your task will be to fill in the empty boxes on the right hand side of the table with the names of the countries that the statements on the left hand side of the table refer to.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_08okt_fl.mp3",
+      "start": 679.35,
+      "end": 1133.65,
+      "clip": "hang/e_angol_08okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This is the other country besides France which has the most dangerous roads in the world. {{gap}}",
+       "accept": [
+        "Austria"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "This country has the least dangerous roads in the world. {{gap}}",
+       "accept": [
+        "Norway"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "This country has 107 traffic deaths per one million population. {{gap}}",
+       "accept": [
+        "Japan"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "This country suffers the most auto thefts in the world. {{gap}}",
+       "accept": [
+        "Britain"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "This country has 11 auto thefts per ten thousand cars. {{gap}}",
+       "accept": [
+        "Spain"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "This is the country where your car is the least likely to be stolen. {{gap}}",
+       "accept": [
+        "Germany"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "This country has the third best statistics in auto theft in the world. {{gap}}",
+       "accept": [
+        "Italy"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2008-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with Chrissie, a young British woman who is currently living in Hungary.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_08okt_fl.mp3",
+      "start": 1133.65,
+      "end": 1799.68,
+      "clip": "hang/e_angol_08okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Chrissie ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "works for a television station."
+        },
+        {
+         "key": "B",
+         "text": "doesn't like talking about her job."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Chrissie says ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "her game show is unfair."
+        },
+        {
+         "key": "B",
+         "text": "participants gamble in the studio."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Chrissie says ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "about 200 people win every week."
+        },
+        {
+         "key": "B",
+         "text": "she's not talking people into doing the lottery."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Chrissie says the programmes are sent from ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Hungary to Britain."
+        },
+        {
+         "key": "B",
+         "text": "Britain to a lot of countries."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Chrissie ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn't like anything about her job."
+        },
+        {
+         "key": "B",
+         "text": "works with people from different countries."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Chrissie says ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "coming to Hungary changed her original plans."
+        },
+        {
+         "key": "B",
+         "text": "she likes jobs she can do anywhere in the world."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Chrissie ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "has already taken two degrees."
+        },
+        {
+         "key": "B",
+         "text": "is studying for another degree."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "As a journalist, Chrissie would like to do reports about ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "the aftermath of natural disasters."
+        },
+        {
+         "key": "B",
+         "text": "post-war reconstruction."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

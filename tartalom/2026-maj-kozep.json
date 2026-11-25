@@ -1,0 +1,1355 @@
+{
+ "formatVersion": 1,
+ "id": "2026-maj-kozep",
+ "year": 2026,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2026-05-07",
+ "code": "K2611",
+ "sourceFiles": {
+  "paper": "2026 - Középszintű május/k_angol_26maj_fl.pdf",
+  "key": "2026 - Középszintű május/k_angol_26maj_ut.pdf",
+  "audio": "2026 - Középszintű május/k_angol_26maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2026-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "Read the following answers from the website of the National Animal Welfare Trust (NAWT). The questions have been removed.",
+      "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1- 8).",
+      "There are three extra questions that you do not need."
+     ],
+     "title": "NATIONAL ANIMAL WELFARE TRUST — FREQUENTLY ASKED QUESTIONS",
+     "body": [
+      "Our FAQs answer the most commonly asked questions from adopting a pet to volunteering.",
+      "{{0}}\nYes, but in return for your payment you receive a pet that has been vet-checked, vaccinated, and microchipped.",
+      "{{1}}\nComplete a homefinder form through the website of the centre where the animal is staying. If the pet is still available, we will get in contact with you.",
+      "{{2}}\nAbsolutely! We never stop caring. Whatever question or problem you may have, ask us, and we’ll do all we can to help you.",
+      "{{3}}\nCertainly. We’ll arrange an in-shelter pet-introduction session to see how they get on.",
+      "{{4}}\nContact your local centre and answer a selection of questions about your pet. Please note that our centres may have waiting lists so they might not be able to accept your pet immediately.",
+      "{{5}}\nYou are not required to pay if you need us to find a new home for your beloved pet, but we will be grateful for a donation.",
+      "{{6}}\nYes, but please note that we cannot accept used wooden items and we can only accept unopened food in the original packaging.",
+      "{{7}}\nIf you are over sixteen, we would love to have you on the team. Check our vacancies page for details.",
+      "{{8}}\nWhat we are looking for is a love of animals and we will give you the training you need for the role."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Is there a fee to give up my own pet to NAWT?"
+      },
+      {
+       "key": "B",
+       "text": "Is there an age limit for adopting a pet?"
+      },
+      {
+       "key": "C",
+       "text": "Is there an adoption fee?"
+      },
+      {
+       "key": "D",
+       "text": "What skills and experience do I need for volunteering?"
+      },
+      {
+       "key": "E",
+       "text": "I am interested in adopting – what do I need to do?"
+      },
+      {
+       "key": "F",
+       "text": "How long does the adoption process take?"
+      },
+      {
+       "key": "G",
+       "text": "Will I receive any ongoing support after taking my new pet home?"
+      },
+      {
+       "key": "H",
+       "text": "Can I adopt an animal if I already have pets?"
+      },
+      {
+       "key": "I",
+       "text": "Do I need an appointment to meet the animal I’ve chosen for adoption?"
+      },
+      {
+       "key": "K",
+       "text": "How old do I have to be to volunteer at a NAWT shelter?"
+      },
+      {
+       "key": "L",
+       "text": "If I need to give up my own pet, how do I start the process?"
+      },
+      {
+       "key": "M",
+       "text": "If my pet dies, can I donate items like toys, bowls or food?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "answer": "M"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      }
+     ],
+     "source": "https://www.nawt.org.uk/frequently-asked-questions/"
+    },
+    {
+     "id": "2026-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this article about an art exhibition.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (9-15) from the list (A-L) below.",
+      "Remember that there are three extra letters that you do not need."
+     ],
+     "title": "MONET AND VENICE",
+     "body": [
+      "Claude Monet’s paintings of Venice are headlining an exhibition for the first time in more than a century. Monet is best {{0}}, and his paintings of Venice are less well known.",
+      "In 1908, the French impressionist and his wife, Alice, travelled to Venice on holiday. When they arrived, he told her that the city was “too beautiful” to paint, and {{9}}. Being in his late 60s at the time, he didn’t want to go in the first place, but his wife {{10}}, and eventually he agreed. He became so {{11}} that he was able to overcome his doubts. They spent two months in Venice, and he painted 37 oil-on- canvas paintings.",
+      "While some of the Venice paintings have {{12}}, the Brooklyn Museum’s new exhibition is the first that takes that group of work as its focus since 1912.",
+      "Monet’s work is celebrated now, and he’s often {{13}}, but when he was painting, his work wasn’t as accepted. His style, with its visible brushstrokes, bright colours and soft appearance, is widely {{14}}, but it was radical and often criticised in its time.",
+      "The exhibition provides context on how the artworks fit into Monet’s life and career. “It is well- known that he was a painter of light, but he was also a painter of water throughout his entire career,” Lisa Small, the curator of the exhibition explains. “We wanted to show how Venice, a place where you’re surrounded by water and buildings are {{15}}, ended up being the perfect Monet theme”."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "painted scenes from everyday life"
+      },
+      {
+       "key": "B",
+       "text": "fascinated by the location’s light and atmosphere"
+      },
+      {
+       "key": "C",
+       "text": "known for his paintings of water lilies"
+      },
+      {
+       "key": "D",
+       "text": "represented his artistic anxiety"
+      },
+      {
+       "key": "E",
+       "text": "reflected in the water"
+      },
+      {
+       "key": "F",
+       "text": "called the leader of the Impressionist movement"
+      },
+      {
+       "key": "G",
+       "text": "encouraged him to visit the Italian city with her"
+      },
+      {
+       "key": "H",
+       "text": "shown in the final gallery of the exhibition"
+      },
+      {
+       "key": "I",
+       "text": "appeared in other shows over the years"
+      },
+      {
+       "key": "K",
+       "text": "admired in the art world today"
+      },
+      {
+       "key": "L",
+       "text": "added that he was too old to paint such beautiful things"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "L"
+      },
+      {
+       "n": 10,
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "answer": "I"
+      },
+      {
+       "n": 13,
+       "answer": "F",
+       "alt": [
+        "K"
+       ]
+      },
+      {
+       "n": 14,
+       "answer": "K"
+      },
+      {
+       "n": 15,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2026-maj-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this text about a recent scientific discovery, and then read the statements (16-25) following it.",
+      "Mark a statement A if it is true according to the article, mark it B if it is false, and mark it C if there isn’t enough information in the text to decide if it is true or not."
+     ],
+     "title": "FOOD COLOURING LETS SCIENTISTS SEE THROUGH SKIN",
+     "body": [
+      "Using a common yellow food colouring called tartrazine, scientists at Stanford University have created a liquid that allows them to see through the skin of a living mouse.",
+      "The scientists mixed tartrazine with water to make a special lotion. When they tested this mixture on thin slices of chicken breast, the chicken turned clear. Next, the researchers repeated the method on the skin of living mice. First, they shaved the mice to get the hair out of the way. Then, they rubbed the liquid on the head of the mice. In a few minutes, the skin became see- through, and the scientists were able to see a mouse’s brain. When the mixture was rubbed on the skin of a mouse’s belly, the organs inside, like the liver and bowels, became clearly visible. When the liquid was washed off, the skin returned to normal.",
+      "To understand how the new discovery works, think about how light travels through different materials. Skin is made of many different parts, like water, fat, and protein. These different materials scatter the light, making it hard to see through skin. Tartrazine makes the watery parts of the skin more like the other areas. When the light mostly bends the same way, the skin becomes see-through.",
+      "The discovery could one day allow doctors to detect medical problems inside the body without needing to do surgery. However, the mixture has only been tested on animals, and more work needs to be done before a similar method can be used on humans."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The research was supported by the food company that produces tartrazine.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Tartrazine is normally used in the production of soft drinks.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "The liquid mixture was first tested on meat before being applied to mice.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "The tartrazine mixture was put under the skin of a mouse with a needle.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "In the test, the liquid made both the skin and hair of the mouse turn see-through.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "When its skin became see-through, the scientists could see inside the body of the mouse.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The effect of the liquid was temporary and disappeared after the mixture was removed.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "When the skin is lit with UV light, the see-through effect lasts longer.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "The method works because tartrazine removes water from the skin.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "A similar method could help doctors see inside human bodies without cutting them open.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Before starting research on humans, the method will be tested on animals with thicker skin.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2026-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés első mondatának párosítása",
+     "points": 5,
+     "instructions": [
+      "In the following text about a famous British writer, the first sentence of each paragraph has been removed.",
+      "Your task is to match the sentences to the paragraphs.",
+      "There are three extra sentences that you do not need."
+     ],
+     "title": "FACTS ABOUT ROALD DAHL",
+     "body": [
+      "{{0}}\nMany of them have been turned into films and even musicals, including Charlie and the Chocolate Factory and Matilda.",
+      "{{26}}\nHe came up with more than 500 new words and names, such as the Oompa- Loompas and scrumdiddlyumptious from Charlie and the Chocolate Factory. He called his language Gobblefunk.",
+      "{{27}}\nHe had a cosy old armchair and a specially designed writing board which would sit on his lap. He would also only write his stories using a pencil and yellow paper.",
+      "{{28}}\nOne of them was the famous chocolate maker, John Cadbury, whose company used to taste-test their chocolate bars at Roald's school. Roald used to dream that he would invent a new chocolate bar and win praise from Mr Cadbury.",
+      "{{29}}\nAs part of his work, he reported secret information that he collected at dinners and cocktail parties in the US. There, he worked alongside James Bond creator Ian Fleming, and later wrote the film storyline for the fifth James Bond movie You Only Live Twice.",
+      "{{30}}\nThe story was about a bunch of naughty little creatures who would cause all sorts of mechanical problems on aeroplanes. It later became the inspiration behind the popular film The Gremlins, which was produced by Steven Spielberg in 1984."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "His first story aimed at children was inspired by his time as a pilot."
+      },
+      {
+       "key": "B",
+       "text": "He was buried with some of his favourite things, his HB pencils, a power drill, chocolate, and snooker cues."
+      },
+      {
+       "key": "C",
+       "text": "Roald Dahl, one of Britain's most beloved writers, was the author of more than 20 children's books."
+      },
+      {
+       "key": "D",
+       "text": "He spent around four hours every day writing stories in his garden shed."
+      },
+      {
+       "key": "E",
+       "text": "His height, 6 foot 6 inches, earned him the nickname, “Lofty”."
+      },
+      {
+       "key": "F",
+       "text": "Roald Dahl was named after the famous Norwegian polar explorer, Roald Amundson."
+      },
+      {
+       "key": "G",
+       "text": "Many of his characters and stories were inspired by places and people around him."
+      },
+      {
+       "key": "H",
+       "text": "Roald Dahl loved to play around with words and invent new ones or meanings."
+      },
+      {
+       "key": "I",
+       "text": "Before he became an author, Roald Dahl was a pilot for the Royal Air Force, and he also became a spy for the British Secret Service."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "D"
+      },
+      {
+       "n": 28,
+       "answer": "G"
+      },
+      {
+       "n": 29,
+       "answer": "I"
+      },
+      {
+       "n": 30,
+       "answer": "A"
+      }
+     ],
+     "source": "https://www.bbc.co.uk/newsround/articles/cx2509xn419o"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2026-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a special service dog. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "HERCULES ON PATROL",
+     "body": [
+      "At West Virginia International Yeager Airport, Hercules patrols the mile-long airfield {{0}}. The border collie has an important job: ensuring the safety of passengers and crew by keeping birds and wildlife away from planes. Chris Keyser, the airport’s wildlife specialist and the dog’s {{1}}, says preventing a bird from hitting a plane can save {{2}} of lives.",
+      "Since 2018, Yeager management has employed the services of border collies to keep the planes safe. Hercules, the chief patrol dog, also spends time inside the terminal, calming {{3}} passengers and receiving affection.",
+      "Before his {{4}} at Yeager, Hercules trained for 18 months at Flyaway Geese Center in Charlotte, North Carolina, learning to herd geese and {{5}}, preparing for his vital role in keeping the airport safe.",
+      "When Hercules stepped onto Charleston’s airfield for the first time, “I held my {{6}},” Flyaway Geese manager Rebecca Gibson said. “But boy, he knew {{7}} what to do. It was his place. He’s done a(n) {{8}} job and has just been a great dog for them. We’re very proud of him.”",
+      "Along the way, Hercules became a local celebrity. He has his own Instagram and TikTok accounts and regularly hosts groups of schoolchildren."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "day",
+       "example": true,
+       "accept": [
+        "daily"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "own",
+       "accept": [
+        "owner"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "lot",
+       "accept": [
+        "lots"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "nerve",
+       "accept": [
+        "nervous",
+        "unnerved",
+        "nervy"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "arrive",
+       "accept": [
+        "arrival"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "sheep",
+       "accept": [
+        "sheep"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "breathe",
+       "accept": [
+        "breath"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "immediate",
+       "accept": [
+        "immediately"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "marvel",
+       "accept": [
+        "marvelous",
+        "marvellous"
+       ]
+      }
+     ],
+     "source": "https://www.independent.co.uk/travel/news-and-advice/west-virginia-yeager-airport-dogs-birds-b2759843.html"
+    },
+    {
+     "id": "2026-maj-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read a joke about a frog and an economics student. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (9-16) in the text."
+     ],
+     "title": "A MODERN TALE",
+     "body": [
+      "An economics graduate student {{0}} a road one day when a frog called out to him and said, “If you kiss me, I’ll turn into a beautiful princess.” He stopped, picked {{9}} the frog, and put it in his pocket. The frog spoke up again and said, “If you kiss me and turn me back into a beautiful princess, I will stay with you for {{10}} one week.” The graduate student took the frog out of his pocket, smiled at it, and {{11}} it to his pocket.",
+      "Desperate, the frog then cried out, “If you kiss me and turn me back into a princess, I’ll stay with you {{12}} as you want.” Again, the grad student took the frog out, smiled at it, and put it back into his pocket. Finally, the frog asked, “What is the matter? I have {{13}} you I’m a beautiful princess, that I’ll be your girlfriend and do anything you want. Why {{14}} you kiss me?” The student said, “Look, I’m an economist. I have no idea {{15}} it would be like to have a girlfriend. But a talking frog has to be {{16}} its weight in gold.”"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "did cross"
+        },
+        {
+         "key": "B",
+         "text": "has crossed"
+        },
+        {
+         "key": "C",
+         "text": "was crossing"
+        },
+        {
+         "key": "D",
+         "text": "could cross"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "on"
+        },
+        {
+         "key": "B",
+         "text": "out"
+        },
+        {
+         "key": "C",
+         "text": "up"
+        },
+        {
+         "key": "D",
+         "text": "over"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "as much"
+        },
+        {
+         "key": "B",
+         "text": "at least"
+        },
+        {
+         "key": "C",
+         "text": "over than"
+        },
+        {
+         "key": "D",
+         "text": "at last"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "removed"
+        },
+        {
+         "key": "B",
+         "text": "rescued"
+        },
+        {
+         "key": "C",
+         "text": "returned"
+        },
+        {
+         "key": "D",
+         "text": "remained"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "so much"
+        },
+        {
+         "key": "B",
+         "text": "as far"
+        },
+        {
+         "key": "C",
+         "text": "forever"
+        },
+        {
+         "key": "D",
+         "text": "as long"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "begged"
+        },
+        {
+         "key": "B",
+         "text": "said"
+        },
+        {
+         "key": "C",
+         "text": "explained"
+        },
+        {
+         "key": "D",
+         "text": "told"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "unable"
+        },
+        {
+         "key": "B",
+         "text": "won’t"
+        },
+        {
+         "key": "C",
+         "text": "refuse"
+        },
+        {
+         "key": "D",
+         "text": "haven’t"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "how"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "of"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "lose"
+        },
+        {
+         "key": "B",
+         "text": "worth"
+        },
+        {
+         "key": "C",
+         "text": "like"
+        },
+        {
+         "key": "D",
+         "text": "worse"
+        }
+       ],
+       "answer": "B"
+      }
+     ],
+     "source": "https://fee.org/articles/the-three-kinds-of-economist-jokes/"
+    },
+    {
+     "id": "2026-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read about an interesting habit of New Zealanders and Australians. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "BAREFOOT",
+     "body": [
+      "I had just moved to New Zealand, at age 12, {{0}} a new friend suggested that we go out to the corner store for some candy.",
+      "It wasn’t a warm day — July or August; {{17}} was around 50 degrees Fahrenheit (10°C) that day in Auckland. However, when I stopped {{18}} put on my shoes, she looked puzzled. Why would I need shoes {{19}} a quick trip down the road?",
+      "New Zealanders — and their Australian cousins — like to go barefoot. They’ll often choose {{20}} go to the gas station, the grocery store and even the pub without shoes.",
+      "Seth Kugel, a writer for The New York Times, put it {{21}} this: “People walk around barefoot. On the street. In supermarkets. All over. It’s not everyone, but it’s a significant enough minority to be quite surprising and {{22}} bit confusing.” In Perth, at least one elementary school has a “shoes optional” policy, with administrators claiming that going barefoot “helped children strengthen {{23}} feet and body.”",
+      "There isn’t a clear reason {{24}} it’s so common to go barefoot. Some say it is due to the influence of the two nations’ ancient cultures. Others see it {{25}} evidence of a more casual, down-to-earth culture."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "when"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "to",
+        "and"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "for",
+        "on",
+        "during"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "like"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "a"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "their",
+        "the",
+        "both"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "why"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "as",
+        "like"
+       ]
+      }
+     ],
+     "source": "https://www.nytimes.com/2024/02/03/world/australia/australia-new-zealand-no-shoes.html"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2026-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to one of Ronald Reagan’s favourite jokes.",
+      "Your task is to complete the sentences with two words indicated by the gaps, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_26maj_fl.mp3",
+      "start": 0,
+      "end": 594.85,
+      "clip": "hang/k_angol_26maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Ronald Reagan was the {{gap}} of the United States.",
+       "accept": [
+        "40th president"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "“This reminds me of a story” was a(n) {{gap}} {{gap}} President Reagan used in many of his speeches.",
+       "gaps": [
+        [
+         "famous"
+        ],
+        [
+         "line"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The story is about a(n) {{gap}} {{gap}} who were getting ready for bed.",
+       "gaps": [
+        [
+         "elderly"
+        ],
+        [
+         "couple"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The wife said she was {{gap}} {{gap}} ice cream.",
+       "gaps": [
+        [
+         "hungry"
+        ],
+        [
+         "for"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "She wanted vanilla with {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "chocolate"
+        ],
+        [
+         "sauce"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "She wanted a cherry {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "on"
+        ],
+        [
+         "top"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "She asked him to {{gap}} {{gap}} what she said.",
+       "gaps": [
+        [
+         "write"
+        ],
+        [
+         "down"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "By the time the husband arrived home, his wife was {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "in"
+        ],
+        [
+         "bed"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "In the paper bag there was a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "ham"
+        ],
+        [
+         "sandwich"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2026-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to a story in a phone-in radio programme.",
+      "Your task will be to write the letter of the correct answer in the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_26maj_fl.mp3",
+      "start": 594.85,
+      "end": 1138.7,
+      "clip": "hang/k_angol_26maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The radio frequency of Radio Bridge is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "101.2."
+        },
+        {
+         "key": "B",
+         "text": "102.1."
+        },
+        {
+         "key": "C",
+         "text": "102.2."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Jane said the weather in Chichester was ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "warm and dry."
+        },
+        {
+         "key": "B",
+         "text": "not very nice."
+        },
+        {
+         "key": "C",
+         "text": "absolutely lovely."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Jane travelled to Scotland to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "work there."
+        },
+        {
+         "key": "B",
+         "text": "have a holiday."
+        },
+        {
+         "key": "C",
+         "text": "visit a relative."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "Jane paid only £8 for the train because ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "she was a student."
+        },
+        {
+         "key": "B",
+         "text": "it was a night train."
+        },
+        {
+         "key": "C",
+         "text": "she’d bought the ticket early."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Jane’s direct bus to Heathrow ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was very late."
+        },
+        {
+         "key": "B",
+         "text": "had just left."
+        },
+        {
+         "key": "C",
+         "text": "didn’t run."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Jane couldn’t read the timetable because ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "it was too dark at the station."
+        },
+        {
+         "key": "B",
+         "text": "it was too dirty."
+        },
+        {
+         "key": "C",
+         "text": "her phone wasn’t there."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The woman …",
+       "options": [
+        {
+         "key": "A",
+         "text": "looked up Jane’s flight in the timetable."
+        },
+        {
+         "key": "B",
+         "text": "told her that she wouldn’t miss the flight."
+        },
+        {
+         "key": "C",
+         "text": "checked how to get to the airport."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The woman ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "waited with Jane for an hour."
+        },
+        {
+         "key": "B",
+         "text": "paid Jane’s fare."
+        },
+        {
+         "key": "C",
+         "text": "drove her to the airport."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Jane didn’t have ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "any cash."
+        },
+        {
+         "key": "B",
+         "text": "an Oyster card."
+        },
+        {
+         "key": "C",
+         "text": "enough money on her card."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2026-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear about Fatou, the world’s oldest gorilla in captivity.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_26maj_fl.mp3",
+      "start": 1138.7,
+      "end": 1795.17,
+      "clip": "hang/k_angol_26maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In the wild, gorillas typically live for 40-50 years.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "When she died, Colo was older than Fatou is now.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "The French sailor got more money for Fatou than he owed to the pub.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "A French animal trader sold Fatou to the Berlin Zoo.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Fatou was definitely born in 1959.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Only very few people can attend Fatou’s birthday celebrations.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Normally, Fatou does not get a lot of fruit to eat.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Despite her age, Fatou still has a few teeth.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Fatou usually plays with her neighbours in the morning.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Fatou has many children.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

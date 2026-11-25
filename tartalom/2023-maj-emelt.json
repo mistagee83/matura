@@ -1,0 +1,1460 @@
+{
+ "formatVersion": 1,
+ "id": "2023-maj-emelt",
+ "year": 2023,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2023-05-11",
+ "code": "2312",
+ "sourceFiles": {
+  "paper": "2023  - Emeltszintű május/e_angol_23maj_fl.pdf",
+  "key": "2023  - Emeltszintű május/e_angol_23maj_ut.pdf",
+  "audio": "2023  - Emeltszintű május/e_angol_23maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 29,
+    "27": 30
+   },
+   "tasks": [
+    {
+     "id": "2023-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following article, the headings of the paragraphs have been removed.",
+      "Your task is to write the letters of the titles (A-K) next to the appropriate numbers (1-6).",
+      "There are three extra headings that you do not need."
+     ],
+     "title": "THE BENEFITS OF SCHOOL STARTING LATER",
+     "body": [
+      "The vast majority of schools start before 8:30 a.m. But who says they have to and what would be the consequences of school starting later?",
+      "{{0}} With later school start times, students could accommodate their natural sleep-wake times – going to sleep past 11 p.m. and waking up around 8 or 9 a.m. –, which would give their body more time to repair itself.",
+      "{{1}} A lack of sleep hurts brain function. Students who get more sleep have better learning capabilities and are better able to process what they learn. A 2018 study found that students in schools that pushed start times to 8:45 a.m. got slightly higher grades than before the change.",
+      "{{2}} When running late in the mornings, breakfast is the first thing we skip. However, with this bad habit, students are left hungry. By school starting later, students would have the chance to have a proper breakfast.",
+      "{{3}} Poor sleep leads to drowsiness, the cause of 1 in 10 car crashes, 27% of which involve teenage drivers. However, students with later school start times have more time to sleep sufficiently, thus are significantly more likely to drive more safely.",
+      "{{4}} Teens experience mood swings as a common result of puberty; however, poor sleep only worsens their moods and may cause anxiety, stress, and irritability. When students sleep enough, they are more stable emotionally, and are less likely to have conflicts with their schoolmates.",
+      "{{5}} Students with later school start times are more likely to be in better physical condition, because sleeping adequately decreases the likelihood of developing diabetes, obesity, or high blood pressure. It also allows their bodies to have enough time to repair at night.",
+      "{{6}} Exhausted students may skip school to sleep more, but if altered school schedules permitted them to sleep longer, they’d be less likely to do so. A 2016 study found that in schools that started at 8:45 am, there was a 66% decrease in students arriving late or taking the day off."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Fewer student-teacher conflicts"
+      },
+      {
+       "key": "B",
+       "text": "Reduced risk of accidents"
+      },
+      {
+       "key": "C",
+       "text": "Longer, better quality sleep"
+      },
+      {
+       "key": "D",
+       "text": "Fewer behavioural problems"
+      },
+      {
+       "key": "E",
+       "text": "Time for a healthy meal"
+      },
+      {
+       "key": "F",
+       "text": "Fewer family conflicts"
+      },
+      {
+       "key": "G",
+       "text": "Improved academic performance"
+      },
+      {
+       "key": "H",
+       "text": "More extracurricular activities"
+      },
+      {
+       "key": "I",
+       "text": "Minimized lateness and absences"
+      },
+      {
+       "key": "K",
+       "text": "Improved health"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "E"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article about teenagers’ brain development.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (7-15) from the list (A-M) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "WHAT’S GOING ON IN THE TEENAGE BRAIN?",
+     "body": [
+      "A child’s body goes through physical changes that are obvious to all parents. Less obvious are the vital changes taking place in a child’s brain, particularly as {{0}}.",
+      "Teenagers confront challenges, stresses, and temptations with their brains not yet fully developed. It’s not just that teenagers {{7}} to acquire a wide sense of the world; quite simply, their brains just haven’t physically matured yet.",
+      "Dealing with pressure and stress is no small challenge for a fully mature brain, and it’s even harder for one that’s {{8}} and in transition from concrete to abstract thinking.",
+      "Not only that, but brain scans done on teenagers revealed that different parts of the brain mature at different rates. “In fact, some parts of the brain — such as the prefrontal cortex (PFC), which sits right behind the eyes — {{9}} until 24 years old! Other parts of the brain, however, develop to be fully mature much earlier. Many neuroscientists think that this {{10}} explains why adolescents are so emotional and impulsive,” says Andrew Garner, member of the American Academy of Pediatrics Committee.",
+      "“The PFC plays an important role in regulating mood, attention, impulse control, and the ability to think abstractly — which includes the ability both {{11}} and to see the consequences of one’s actions,” says Dr. Garner.",
+      "If you {{12}} whether it is a good idea to get into a car with friends who are drunk, most will say ‘no way.’ This is because in calmer moments, the relatively slow PFC is able to think abstractly and see the potentially tragic consequences of {{13}}. But, in the heat of the moment, thanks to the brain not being fully developed, there is a chance that the teen is going to {{14}}.",
+      "That is why, suggests Dr. Garner, it is the job of parents and teachers to get teenagers to slow down and {{15}} – and wait for the rest of their brains to develop."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "in dying their hair purple"
+      },
+      {
+       "key": "B",
+       "text": "to plan ahead"
+      },
+      {
+       "key": "C",
+       "text": "they enter their teenage years"
+      },
+      {
+       "key": "D",
+       "text": "help them think through what they are doing"
+      },
+      {
+       "key": "E",
+       "text": "haven’t had the time and experience"
+      },
+      {
+       "key": "F",
+       "text": "mismatch in brain maturity"
+      },
+      {
+       "key": "G",
+       "text": "make the wrong decision"
+      },
+      {
+       "key": "H",
+       "text": "between childhood and adulthood"
+      },
+      {
+       "key": "I",
+       "text": "bungee jumping or getting a tattoo"
+      },
+      {
+       "key": "K",
+       "text": "do not appear fully mature"
+      },
+      {
+       "key": "L",
+       "text": "driving when drunk"
+      },
+      {
+       "key": "M",
+       "text": "ask a teenager"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "E"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      },
+      {
+       "n": 9,
+       "answer": "K"
+      },
+      {
+       "n": 10,
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "answer": "M"
+      },
+      {
+       "n": 13,
+       "answer": "L"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following text about cooking classes and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "LEARN TO CREATE GREAT DISHES!",
+     "body": [
+      "Whether you’re looking to learn new recipes or improve your kitchen confidence, here are some of the best cooking classes to get you inspired.",
+      "Beautifully situated in Highland Perthshire and with spectacular views over the Tay Valley, Ballintaggart Farm has a reputation as a wonderful place to stay, eat and cook. Their cookery classes are suitable for individuals and small groups, and there is something for all abilities. The school even has rooms for those who want to stay overnight.",
+      "If you want to learn the secrets of authentic Indian cooking, then look no further than The Indian Cook School. Praveen Kumar and his wife, owners of the popular Tabla restaurant, share the delights of Indian food through their cookery lessons, which include six hours of hands-on teaching with a glass of wine and plenty to take home.",
+      "If your passion for food extends beyond cooking for friends, The New Town Cookery School runs a variety of professional courses for amateur chefs. These are specifically designed for people who are keen to perfect their skills with professional training and wish to become a professional cook.",
+      "Kaleyard is Glasgow’s first non-profit cook school, and its mission statement is to “unite people through cooking and sharing food together”. Using profits from its masterclasses and pop-up events, Kaleyard offers free cookery classes to different community groups.",
+      "The highly popular leisure cookery classes at The School of Food & Wine are aimed at the enthusiastic home chef who wants to improve their cooking skills for their own pleasure and that of their friends and family. You can opt for a grill course, where you will learn how to create delicious dishes outdoors.",
+      "The Dining Room is the best place to learn about bread and pastry. Besides the five-day bread making courses, the school schedule includes a polenta masterclass, and how to make an amazing layer cake or pork pie.",
+      "Award-winning School of Wok has an Asian focus and teaches students the fundamentals of oriental cookery. Classes at the School of Wok make an ideal present, or even a company team building day if you’re looking to do something different with your colleagues. What is more, chef Lindsay will deliver one-to-one classes in the comfort of your own kitchen."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "is for people who want a career in the food industry."
+      },
+      {
+       "key": "B",
+       "text": "offers a variety of online courses."
+      },
+      {
+       "key": "C",
+       "text": "is a cook school with a stunning location."
+      },
+      {
+       "key": "D",
+       "text": "supports a local charity."
+      },
+      {
+       "key": "E",
+       "text": "is run by a couple who also have a restaurant."
+      },
+      {
+       "key": "F",
+       "text": "is a place to choose to improve baking skills."
+      },
+      {
+       "key": "G",
+       "text": "has a course that teaches people how to barbecue."
+      },
+      {
+       "key": "H",
+       "text": "has cookery classes for kids."
+      },
+      {
+       "key": "I",
+       "text": "does not require payment for some of its courses."
+      },
+      {
+       "key": "K",
+       "text": "offers tuition in the client’s home."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Ballintaggart Farm …",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "The Indian Cook School …",
+       "answer": "E"
+      },
+      {
+       "n": 17,
+       "stem": "The New Town Cookery School …",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Kaleyard …",
+       "answer": "I"
+      },
+      {
+       "n": 19,
+       "stem": "The School of Food & Wine …",
+       "answer": "G"
+      },
+      {
+       "n": 20,
+       "stem": "The Dining Room …",
+       "answer": "F"
+      },
+      {
+       "n": 21,
+       "stem": "The School of Wok …",
+       "answer": "K"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "In the following article, some parts have been removed.",
+      "Your task is to write the letters of the paragraphs (A-I) next to the appropriate numbers (22-27) in the boxes on the right.",
+      "There are two extra paragraphs that you do not need."
+     ],
+     "title": "WOMAN GRADUATES 71 YEARS AFTER STARTING COLLEGE",
+     "body": [
+      "A 90-year-old woman will finally walk across the stage and receive her diploma 71 years after she first enrolled in college.",
+      "{{0}} But those plans changed when DeFauw met a special man at church who stole her heart. “I went to school for three and a half years, but decided to leave after I met him,” DeFauw said.",
+      "{{22}} DeFauw eventually got remarried to her late second husband, Roy DeFauw. Together they had six children. Throughout the years, her family grew, and she now has 17 grandchildren and 24 great-grandchildren.",
+      "{{23}} “I guess I was upset that I didn’t finish school and my grandchildren also encouraged me to go back,” she said, so she enrolled back at Northern Illinois and began taking classes.",
+      "{{24}} But this time around, things were much different for DeFauw. Instead of walking to campus, she attended classes from behind a computer screen her children gave her in her retirement home.",
+      "{{25}} When the Covid-19 pandemic began in 2020, she was thankful for the computer. She was on her own during that time and could have no visitors.",
+      "{{26}} Now, three years later, she’ll put on the cap and gown and receive a Bachelor of General Studies degree from the university this weekend.",
+      "{{27}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "In the end, she realized that having a study partner is helpful in many ways: not only did DeFauw and Vanessa revise together before an exam, they also became good friends despite the age difference."
+      },
+      {
+       "key": "B",
+       "text": "DeFauw is thankful she had the opportunity to get to go back to school and get her degree. “It’s nice to finish something you started,” she said."
+      },
+      {
+       "key": "C",
+       "text": "Joyce DeFauw started her freshman year at Northern Illinois University in 1951 with a plan to graduate with a degree in home economics."
+      },
+      {
+       "key": "D",
+       "text": "Flash forward to 2019, when DeFauw showed interest in the college education she left behind."
+      },
+      {
+       "key": "E",
+       "text": "“At times I wanted to quit, because I was really lonely. But I didn’t.” DeFauw said. She said she had plenty of encouragement from family, friends and the school."
+      },
+      {
+       "key": "F",
+       "text": "The special man was Don Freeman. The two got married in 1955, and had three children together before Freeman passed away, leaving her widowed for about five years."
+      },
+      {
+       "key": "G",
+       "text": "“When we made calls to the school, they were shocked to hear we were asking about a student from the 50s,” one of her granddaughters said."
+      },
+      {
+       "key": "H",
+       "text": "She planned to write her thesis about getting a degree in old age. “Believe it or not, I’m not the only one,” she says, laughing."
+      },
+      {
+       "key": "I",
+       "text": "“It was my first computer,” DeFauw said. “My children had to teach me how to use it.”"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "answer": "F"
+      },
+      {
+       "n": 23,
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "answer": "G"
+      },
+      {
+       "n": 25,
+       "answer": "I"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "B"
+      }
+     ],
+     "source": "https://edition.cnn.com/2022/12/11/us/90-year-old-woman-graduates-college-"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2023-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a new business.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "BOSTON SNOW BUSINESS",
+     "body": [
+      "What is crazier than a guy in snowbound Massachusetts boxing up the {{0}} white stuff and offering it for {{1}} online?",
+      "A man in {{2}} Boston is selling snow online to customers in warmer states. For $89, {{3}} entrepreneur Kyle Waring will ship you 6 pounds of Boston- area snow in an insulated Styrofoam box – enough for 10 to 15 snowballs, he says. And people are actually buying it. His social media {{4}} claim to have filled more than 133 orders for snow – more than 30 on Tuesday alone, his busiest day yet.",
+      "With more than 45 total inches, Boston has set a record this winter for the {{5}} month in its history. Most {{6}} see the huge piles of snow as a nuisance, but Waring saw an opportunity.",
+      "It all started a few weeks ago, when Waring and his wife were shoveling deep snow from their yard in Manchester-by-the-Sea, a {{7}} suburb north of Boston. He joked about {{8}} the stuff to friends and family in warmer states, and an idea was born.",
+      "Whether Waring can sustain his popular venture into the spring remains to be seen. But he has no {{9}} of product. “At this rate, it’s going to be July before the snow melts,” he told Boston.com."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "powder",
+       "example": true,
+       "accept": [
+        "powdery"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "sell",
+       "accept": [
+        "sale"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "suburb",
+       "accept": [
+        "suburban",
+        "suburbian"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "invent",
+       "accept": [
+        "inventive",
+        "inventor",
+        "inventious"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "count",
+       "accept": [
+        "accounts"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "snow",
+       "accept": [
+        "snowiest"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "reside",
+       "accept": [
+        "residents"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "coast",
+       "accept": [
+        "coastal"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "ship",
+       "accept": [
+        "shipping"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "short",
+       "accept": [
+        "shortage",
+        "shortfall"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the success of the French baguette. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-17) in the text."
+     ],
+     "title": "FRENCH BAGUETTE GETS UNESCO HERITAGE STATUS",
+     "body": [
+      "There are few things {{0}} uniquely French than the humble baguette. {{10}}, the baguette has been in decline in recent years, as traditional bakeries struggle against the rise of large supermarkets and the increasing popularity of sourdough.",
+      "But now {{11}} to celebrate, as UNESCO adds the baguette to its cultural heritage list. The body announced that it {{12}} \"the special know-how and culture of baguette bread\" to its list of 600 other items, joining things like traditional tea making in China and a Korean mask dance – both also included for the first time in 2022.",
+      "Its inclusion \"celebrates the French way of life,\" UNESCO chief Audrey Asoulay said, adding: \"The baguette is a daily ritual, a structuring element of the meal, {{13}} to sharing and joy.\"",
+      "The exact origin of the baguette is not known. Some suggest the bread was ordered by Napoleon because it would be easier for soldiers to carry, {{14}} others suggest it came along later – an easy bread for workers to tear and share without the need of a knife in Paris. Others still credit an Austrian baker in the 1830s for its shape.",
+      "{{15}}, the baguette as we know it today was only officially named just over 100 years ago, in 1920. It was then that strict rules about what classed as a baguette were put in place – standardised at 80cm and 250g. It even had a fixed price until 1986.",
+      "By the middle of the 20th century, the baguette had won over the country. {{16}} the fact that since 1970 400 artisanal bakeries have closed down each year, the baguette remains key to French identity. Parisian baker Priscilla Hayertz acknowledged to AFP that it was \"a basic product\" but one \"that affects all socio-cultural categories, {{17}} you're rich or poor... it doesn't matter, everyone eats baguettes.\""
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "so"
+        },
+        {
+         "key": "C",
+         "text": "more"
+        },
+        {
+         "key": "D",
+         "text": "most"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "Therefore"
+        },
+        {
+         "key": "B",
+         "text": "And yet"
+        },
+        {
+         "key": "C",
+         "text": "Moreover"
+        },
+        {
+         "key": "D",
+         "text": "Altogether"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "it is due"
+        },
+        {
+         "key": "B",
+         "text": "there’s something"
+        },
+        {
+         "key": "C",
+         "text": "they are"
+        },
+        {
+         "key": "D",
+         "text": "it was reason"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "has been added"
+        },
+        {
+         "key": "B",
+         "text": "is added"
+        },
+        {
+         "key": "C",
+         "text": "must add"
+        },
+        {
+         "key": "D",
+         "text": "had added"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "contributing"
+        },
+        {
+         "key": "B",
+         "text": "identified"
+        },
+        {
+         "key": "C",
+         "text": "regarding"
+        },
+        {
+         "key": "D",
+         "text": "considered"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "all"
+        },
+        {
+         "key": "B",
+         "text": "however"
+        },
+        {
+         "key": "C",
+         "text": "while"
+        },
+        {
+         "key": "D",
+         "text": "furthermore"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "Otherwise"
+        },
+        {
+         "key": "B",
+         "text": "Accidentally"
+        },
+        {
+         "key": "C",
+         "text": "Meanwhile"
+        },
+        {
+         "key": "D",
+         "text": "However"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "In spite"
+        },
+        {
+         "key": "B",
+         "text": "Considering"
+        },
+        {
+         "key": "C",
+         "text": "Despite"
+        },
+        {
+         "key": "D",
+         "text": "Along with"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "whether"
+        },
+        {
+         "key": "B",
+         "text": "either"
+        },
+        {
+         "key": "C",
+         "text": "why"
+        },
+        {
+         "key": "D",
+         "text": "both"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an American musician. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE ROCKIN’ GRANNY",
+     "body": [
+      "Somewhere in between Willie Nelson and Jimi Hendrix {{0}} Cordell Jackson, an American musician thought to be the first woman {{18}} produce, engineer and promote music on her own rock and roll music label. She was making music very {{19}} to the star band Velvet Underground before the world was even introduced {{20}} rock & roll. The Mississippi-born, ballgown-wearing guitarist played with more energy {{21}} any Indie band today, and during live performances, Cordell would strum on her guitar {{22}} fast that she would often break her guitar picks. At the height of her career, she appeared on MTV news and became known as “rock-and-roll granny”.",
+      "Jackson started playing the guitar at the age of 12. She began writing her own songs in her 20s after moving to Memphis, the later capital of rock & roll. “They did {{23}} have a name for “rock & roll” then, Cordell {{24}} MTV news in 1989. “I just always played it fast”.",
+      "In the 1960s and ’70s, she worked with local artists and soon became something {{25}} an icon on the Memphis music scene. She drove a yellow car and lived in a yellow house. Her first music video, {{26}} helped her gain nationwide fame, was filmed at that very house.",
+      "Jackson’s Moon Records label was the oldest continuously operating label in Memphis at the time of her death in 2004."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "similar",
+        "akin"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "so"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "told",
+        "informed"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "of",
+        "like"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "which"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a joke about a married couple. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "HAPPILY MARRIED",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "At last, Tim decided to tie the knot with his long-time girlfriend. One",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "evening, after their honeymoon, he was organizing his all golfing",
+       "answer": "all"
+      },
+      {
+       "n": 27,
+       "text": "equipment. His wife was standing nearby to watching him. After a long",
+       "answer": "to"
+      },
+      {
+       "n": 28,
+       "text": "period of the silence she finally said: “Tim, I've been thinking, now that",
+       "answer": "the"
+      },
+      {
+       "n": 29,
+       "text": "we are married maybe it’s time you quit golfing. You should spend too",
+       "answer": "should"
+      },
+      {
+       "n": 30,
+       "text": "much time on the golf course. You could probably get a good price as",
+       "answer": "as"
+      },
+      {
+       "n": 31,
+       "text": "for your clubs.” A horrified expression appeared on Tim’s face.",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "His wife alarmingly said, “Darling, what’s wrong?\"",
+       "answer": "alarmingly"
+      },
+      {
+       "n": 33,
+       "text": "“It’s funny. For a minute you were beginning to have sound like my ex-",
+       "answer": "have"
+      },
+      {
+       "n": 34,
+       "text": "wife,” he says. “Ex-wife!” she screams, “It’s a news to me you were",
+       "answer": "a"
+      },
+      {
+       "n": 35,
+       "text": "married before!” “I wasn't,” he had replied.",
+       "answer": "had"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2023-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear the story of Britain’s most famous talking bird, Sparkie, the budgie.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_23maj_fl.mp3",
+      "start": 0,
+      "end": 624.84,
+      "clip": "hang/e_angol_23maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The voice of the talking budgie can be heard in a Tyneside recorded archive.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "In the photo above we can see Sparkie and his owner when the bird was still alive.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The stuffed body of Sparkie can be seen in a museum in Newcastle.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Sparkie died at an extremely young age for a budgie.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "Sparkie was able to ‘say’ eight full nursery rhymes.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "Geordie is the local dialect used by people in the area.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "A record with Sparkie’s voice on it reached the top of the charts in 1958.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "Sparkie’s amazing ability was the result of regular training by his owner.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Sparkie is not listed as a record holder in the Guinness Book of Records any longer.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear about some interesting new fashion items.",
+      "Your task is to complete the sentences with two words indicated by the gaps, using the exact words you hear.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_23maj_fl.mp3",
+      "start": 624.84,
+      "end": 1145.58,
+      "clip": "hang/e_angol_23maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The story is about a Spanish-French luxury {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "fashion"
+        ],
+        [
+         "house"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The company is famous for being a top {{gap}} and {{gap}} of clothes of the highest standards.",
+       "unordered": true,
+       "gaps": [
+        [
+         "designer"
+        ],
+        [
+         "manufacturer"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "The fashion house’s latest item, a brand new it-bag, has become a(n) {{gap}} {{gap}} bestseller for the 2022 Autumn season.",
+       "gaps": [
+        [
+         "extremely"
+        ],
+        [
+         "popular"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The ridiculously expensive Trash Pouch has generated colossal {{gap}} {{gap}} all over the world.",
+       "gaps": [
+        [
+         "online"
+        ],
+        [
+         "excitement"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Earlier this year, the fashion house released a pair of new, deliberately {{gap}} and {{gap}} trainers.",
+       "unordered": true,
+       "gaps": [
+        [
+         "dirty"
+        ],
+        [
+         "destroyed",
+         "torn"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The fashion house has already been in the {{gap}} {{gap}} for its new Paris footwear collection.",
+       "gaps": [
+        [
+         "public"
+        ],
+        [
+         "eye"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "The brand says that they just wanted to draw attention to fashion’s role in {{gap}} {{gap}} with its new Paris sneakers.",
+       "gaps": [
+        [
+         "environmental"
+        ],
+        [
+         "pollution"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The controversial Paris shoes went viral on the Chinese {{gap}} {{gap}} Weibo last year.",
+       "gaps": [
+        [
+         "blogging"
+        ],
+        [
+         "website"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "“I can find a pair of these shoes in the {{gap}} for {{gap}},” one person wrote in a Chinese newspaper.",
+       "gaps": [
+        [
+         "dustbin"
+        ],
+        [
+         "free"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A válasz akkor elfogadható, ha a –vastagon szedett – kulcsszavak szerepelnek benne.)"
+     }
+    },
+    {
+     "id": "2023-maj-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will listen to an interview about a new contest for an attractive job.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_23maj_fl.mp3",
+      "start": 1145.58,
+      "end": 1795.79,
+      "clip": "hang/e_angol_23maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The reporter suggests that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "everybody would be happy to sit on a beach and sip a cool drink."
+        },
+        {
+         "key": "B",
+         "text": "we could even get paid to sit on a beach and sip a cool drink."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The hotel booking website offers the winner of the contest $15,000 …",
+       "options": [
+        {
+         "key": "A",
+         "text": "for visiting the company’s 10 best retro beach motels."
+        },
+        {
+         "key": "B",
+         "text": "and an additional $10,000 for travel expenses."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Melissa Dohmen is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the spokesperson for the website."
+        },
+        {
+         "key": "B",
+         "text": "being interviewed by phone."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "In addition to the money, the winner will be supplied with gifts such as …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a digital camera."
+        },
+        {
+         "key": "B",
+         "text": "sunglasses."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "To apply for the job, applicants are required to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "be 21 or older."
+        },
+        {
+         "key": "B",
+         "text": "give their Instagram username."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "The applicants will be asked questions about …",
+       "options": [
+        {
+         "key": "A",
+         "text": "their imaginary travel partner preferences."
+        },
+        {
+         "key": "B",
+         "text": "the best retro hotel they have ever stayed at."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Applications will be evaluated regarding, for example, how …",
+       "options": [
+        {
+         "key": "A",
+         "text": "experienced they are as travellers."
+        },
+        {
+         "key": "B",
+         "text": "well they answer the questions."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "These hotels are special because they …",
+       "options": [
+        {
+         "key": "A",
+         "text": "can “transport” people back to the past."
+        },
+        {
+         "key": "B",
+         "text": "are usually cheaper than large luxury hotels."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "According to Ms Dohmen, these days …",
+       "options": [
+        {
+         "key": "A",
+         "text": "more and more people want to travel."
+        },
+        {
+         "key": "B",
+         "text": "travel prices are already slowly going down."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "The deadline for …",
+       "options": [
+        {
+         "key": "A",
+         "text": "submitting applications is August 5."
+        },
+        {
+         "key": "B",
+         "text": "notifying the winner is the end of the summer."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

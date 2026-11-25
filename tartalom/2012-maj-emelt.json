@@ -1,0 +1,1460 @@
+{
+ "formatVersion": 1,
+ "id": "2012-maj-emelt",
+ "year": 2012,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2012-05-10",
+ "code": "0911",
+ "sourceFiles": {
+  "paper": "2012 - Emeltszintű májusi/e_angol_12maj_fl.pdf",
+  "key": "2012 - Emeltszintű májusi/e_angol_12maj_ut.pdf",
+  "audio": "2012 - Emeltszintű májusi/e_angol_12maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2012-maj-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this review of a children’s book and then read the statements (1-7) following it.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "BOOKCLUB",
+     "body": [
+      "Christopher Middleton on a children’s novel not to be ignored",
+      "First invent your villain. That’s the golden rule of all story-telling, as suggested by unconventional Andy Stanton, author of Mr Gum and the Power Crystals, the fourth book in a series which begins with You’re A Bad Man, Mr Gum! “I thought that if I took as my starting point a truly horrible person, then the stories would flow,” declares Stanton. “And they did!”",
+      "He hasn’t shied away from horribleness, either. As well as having ugly bloodshot eyes, Mr Gum has a personality that’s less than winning. “He was a complete horror who hated children and fun,” writes Stanton. “What he liked was snoozing in bed all day long, being lonely and scowling at things.”",
+      "Together with his henchman Billy William the Third (England’s Most Horrible Butcher), Mr Gum spends most of his time thinking up foul and anti-social schemes; in this book, for example, he sets out to reactivate a 450-year-old curse that will bring fire and destruction to his home town of Lamonic Bibber.",
+      "All he needs to achieve his dark ends is a pair of magical stones (also known as power crystals). And the only person standing in his way is a brave little nine-year-old girl called Polly.",
+      "“I think Polly is probably the only character in my books who isn’t completely stupid,” says Stanton proudly, and a look down his cast list pretty much confirms this point of view. That said, Polly’s friends and neighbours do combine kindness with daftness, especially the eccentric Friday O’Leary and Old Granny, whose special talent is to shake her head and say: “The past has a way of repeating itself” again and again.",
+      "Stanton’s writing method is to throw parts of a conventional novel up in the air and then see where they come down. And it’s this extra element of norm-bending that makes the book enjoyable for all ages, although from the outside you would think it was aimed at under- eights."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Andy Stanton originally thought that an evil character was difficult to write about.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "It was his intention to make Mr Gum as nasty as possible.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Billy William lives in a town called Lamonic Bibber.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "Mr Gum’s evil plans are directed against Lamonic Bibber.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "The magical stones belong to Polly.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "Polly is a lonely child.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Old Granny is an intelligent and talented lady.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Mr Gum and the Power Crystals is an unconventional book that appeals to both children and adults.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this account of a piano tuner’s work, and then read the summary.",
+      "Your task is to fill the gaps (8-13) in the summary with one word only."
+     ],
+     "title": "THE PIANO TUNER",
+     "body": [
+      "A little bit of patience and a lot of skill is the key to perfect tuning",
+      "Has it ever occurred to you that when you hear a piano played at a concert or on a recording, you hear the tuner’s work as much as that of the pianist? Usually we are only remembered if something goes wrong, and then there are no bouquets or subsequent royalties on CD sales!",
+      "The tuner has to make sure not only that the instrument is in tune but also that it’s performing correctly. It has to be ‘regulated’ and ‘voiced’ as the artist requires, which is not always easy to do.",
+      "What tuners need most of all is quiet, which at some concert halls can only be achieved in the middle of the night. You would be amazed at how little understanding there can be from both amateur and professional venues. At some places it is thought obligatory to put out the audience chairs while the piano tuner is working!",
+      "When you arrive you often find that the rehearsal is overrunning and the conductor needs ‘just 15 more minutes’, thereby reducing your working time − sometimes you have to beg them to finish as you see the time quickly ticking away. No sooner have you started work than inevitably various members of the orchestra return early and sometimes even start practising while you’re trying to tune! The audience also often enters too early and takes no account of the poor tuner, to the point where you can barely hear.",
+      "Among many members of the public, the image of the piano tuner is not good − an old man with case and stick. However, today’s tuners are dynamic people who travel worldwide to offer their skills to top concert halls and pianists.",
+      "SUMMARY",
+      "Pianists are not the only people responsible for the success of a concert, but the contribution of the {{0}} is often overlooked. Their job is to ensure that the {{8}} sounds exactly as it should. Ideally, they would need absolute {{9}} for their work. At some venues, however, this is rather {{10}} to get. People working in the concert hall, the public, or even {{11}} can make a lot of noise. Another thing that is necessary for doing the job properly is {{12}}, but often there is too little of this, too, between the {{13}} and the concert. Contrary to popular belief, piano tuners have a rather dynamic lifestyle."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "tuner"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "piano",
+        "pianoforte",
+        "instrument"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "quiet",
+        "silence"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "difficult",
+        "hard"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "musicians",
+        "artists",
+        "performers"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "time"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "rehearsal"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this article on a famous sports event and then read the split sentences (14-21) that follow.",
+      "Your task is to match the half sentences according to the article.",
+      "Remember there are two extra letters that you will not need."
+     ],
+     "title": "IRON MAIDENS",
+     "body": [
+      "Two determined Londoners have set their sights on victory at one of the world’s toughest sporting challenges, the Ironman",
+      "Ironman: even the name suggests something beyond normal human strength. Envisage muscle-bound superheroes covered in Lycra doing incredible deeds and you wouldn’t be far wrong. The world-famous triathlon is a gruelling test of endurance attracting 30,000 athletes each year.",
+      "Whatever the scenery, whatever the weather this formidable event is the same: a 3.8- km swim, a 180-km cycle ride and finally a 42-km marathon, to be completed consecutively and within a 17-hour limit. Although ridiculously difficult, this test of physical courage has not disheartened first-time competitors Nicole Mathison and Karen Berry. “Before we started training, living and working in London meant we spent more nights in the pub than on the race track,” says Nicole, an information manager. “Now, as well as the physical improvements, I actually feel more alive; the mental and physical changes are amazing.”",
+      "“I know completing is not a matter of luck, it’s all in the preparation,” says Karen. So, after eighteen months of training, how confident do they feel? “We’ve always believed that Ironman success is achievable, but for us the main thing is completion, the actual endurance is the challenge, not the time,” says Nicole.",
+      "It’s every man (and every woman) for themselves with this race. “I’ve had to acquire new skills, like fixing punctures,” says Karen. “If you break down during the cycling section, there’s no big strong man out there that is going to stop and help you refit your inner tube.”",
+      "Ironman is definitely for the fit, but not necessarily the young. Sister Madonna Buder, an American nun, completed the 2006 course in Hawaii aged 76, finishing with just over one hour to spare, double the world record of seven hours 50 minutes set in Germany in 1997."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "coming first."
+      },
+      {
+       "key": "B",
+       "text": "enter a triathlon."
+      },
+      {
+       "key": "C",
+       "text": "London."
+      },
+      {
+       "key": "D",
+       "text": "strength and stamina."
+      },
+      {
+       "key": "E",
+       "text": "completing the course."
+      },
+      {
+       "key": "F",
+       "text": "longer than other events."
+      },
+      {
+       "key": "G",
+       "text": "mental and physical progress."
+      },
+      {
+       "key": "H",
+       "text": "less than a day."
+      },
+      {
+       "key": "I",
+       "text": "over a year."
+      },
+      {
+       "key": "K",
+       "text": "mend their bikes."
+      },
+      {
+       "key": "L",
+       "text": "varying physical conditions."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Iron Maidens come from",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "To succeed, participants need",
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "stem": "The Ironman competition takes",
+       "answer": "H"
+      },
+      {
+       "n": 16,
+       "stem": "The regulations take no account of",
+       "answer": "L"
+      },
+      {
+       "n": 17,
+       "stem": "The two women have been training for",
+       "answer": "I"
+      },
+      {
+       "n": 18,
+       "stem": "Nicole finds training has resulted in",
+       "answer": "G"
+      },
+      {
+       "n": 19,
+       "stem": "Completing the course is more important than",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "One thing participants might need to do is",
+       "answer": "K"
+      },
+      {
+       "n": 21,
+       "stem": "Older people are capable of",
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 9,
+     "instructions": [
+      "Read this article about a tragic 19th century event. Some words have been removed from the text.",
+      "Your task is to fill the gaps (22-30) with the correct items from the list.",
+      "Remember that there are two more letters than you need."
+     ],
+     "title": "DEATH IN THE VIENNA WOODS",
+     "body": [
+      "It was a scandal that shook an empire. At 7am on January 30th, 1889, the Archduke Rudolf, heir to the throne of the Austro-Hungarian Empire, was found dead together with his mistress, Baroness Marie Vetsera in the Imperial hunting lodge at Mayerling in the Vienna Woods, fifteen miles southwest of the capital. Was it suicide as {{0}} or was it murder? The police closed their investigations with surprising haste, and the dossier on the investigations {{22}} in the state archives as it should normally have been. Members of the Imperial household were sworn to secrecy. Yet, despite these attempts to cover up, almost at once {{23}} in Vienna of a politically motivated assassination.",
+      "The death of the Crown Prince had grave consequences for the history of Europe. Undoubtedly, it {{24}} in the developments that led to the assassination of the Archduke Franz Ferdinand by a Serb nationalist at Sarajevo in June 1914 and the subsequent drift into the First World War.",
+      "Unlike his conservative father, the Emperor Franz Joseph, Rudolf was reform-minded and liberal. His education {{25}} by one of his tutors, Father Jacint Rónay, who taught the young Rudolf about philosophy, the ethics of power and the history of the Austro- Hungarian monarchy. Rónay {{26}} in the Hungarian Democratic Revolution of 1848 to 1849; he had narrowly escaped capture and lived in England as an exile for almost two decades. With his writings and lectures during this period, he {{27}} as a radical philosopher.",
+      "Rónay was much impressed by the maturity of the young Rudolf and, as well as shaping his thinking in a liberal mould, instilled in him a deep sense of his historical responsibility. Using various pen names, Rudolf began to write newspaper articles and pamphlets {{28}} pan-German Austrian policies and spelling out his own radical ideas about internal reforms and foreign policies. By the end of 1888, Rudolf {{29}} the German Kaiser Wilhelm and the Emperor Franz Joseph, as well as powerful pan-German members of the Vienna establishment.",
+      "So were the rumours true? If so, who exactly were the paymasters who hired the hit- men for that January night in 1889? We may never know. What we do know is that Rudolf {{30}}: Wilhelm did try to create a Greater German Reich by force of arms and, in the process, totally destabilized the whole of Europe for the next half century."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "openly criticising"
+      },
+      {
+       "key": "B",
+       "text": "foresaw the future"
+      },
+      {
+       "key": "C",
+       "text": "the official explanation claimed"
+      },
+      {
+       "key": "D",
+       "text": "established an international reputation"
+      },
+      {
+       "key": "E",
+       "text": "wild rumours began to circulate"
+      },
+      {
+       "key": "F",
+       "text": "had been hugely influenced"
+      },
+      {
+       "key": "G",
+       "text": "on opposite sides"
+      },
+      {
+       "key": "H",
+       "text": "had been involved"
+      },
+      {
+       "key": "I",
+       "text": "was a serious challenge"
+      },
+      {
+       "key": "K",
+       "text": "had seriously upset"
+      },
+      {
+       "key": "L",
+       "text": "was not deposited"
+      },
+      {
+       "key": "M",
+       "text": "was a key event"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "answer": "L"
+      },
+      {
+       "n": 23,
+       "answer": "E"
+      },
+      {
+       "n": 24,
+       "answer": "M"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "D"
+      },
+      {
+       "n": 28,
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "answer": "K"
+      },
+      {
+       "n": 30,
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2012-maj-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an exciting expedition for young people. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-8) in the text."
+     ],
+     "title": "ALL ABOARD!",
+     "body": [
+      "Britney Bear, 20, from Atlanta, Georgia, cannot believe her good fortune. She is among twelve young people from seven countries {{0}} forward to an amazing adventure. On October 18, after ten days of intensive training in Switzerland, they will {{1}} off from Argentina for a two-week expedition. It will be the first of the twelve Pangaea (Pan Global Adventure for Environmental Action) Expedition trips.",
+      "The Pangaea Expedition will last four years. The twelve teams of different explorers will cross {{2}} of the oceans and visit the North and South Poles. Explorer Mike Horn will lead the teams. They will travel aboard Horn's Earth-friendly yacht, {{3}} built especially for these journeys. Their goal: To learn how {{4}} save the planet.",
+      "The first part of each expedition is {{5}} sightseeing. \"Once you've seen the beauty of the planet, you'll see that we have to conserve this beauty for the future,\" Horn says.",
+      "Next comes hard work. Cleanup projects rid the oceans and beaches {{6}} trash. Teams will use nets to skim the water. Then they will compact the trash into large plastic cubes that can be recycled. Coral reef programs will {{7}} young explorers to accompany professional divers under the ocean to reconstruct {{8}} coral reefs. Other teams will plant trees in tropical regions and reroute water in deserts. Each environmental project is overseen by experts in the field."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "look"
+        },
+        {
+         "key": "B",
+         "text": "is looking"
+        },
+        {
+         "key": "C",
+         "text": "looking"
+        },
+        {
+         "key": "D",
+         "text": "are looking"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "put"
+        },
+        {
+         "key": "B",
+         "text": "set"
+        },
+        {
+         "key": "C",
+         "text": "get"
+        },
+        {
+         "key": "D",
+         "text": "make"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "every"
+        },
+        {
+         "key": "B",
+         "text": "all"
+        },
+        {
+         "key": "C",
+         "text": "the most"
+        },
+        {
+         "key": "D",
+         "text": "whole"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "what was"
+        },
+        {
+         "key": "B",
+         "text": "that has"
+        },
+        {
+         "key": "C",
+         "text": "that will be"
+        },
+        {
+         "key": "D",
+         "text": "which was"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "to help"
+        },
+        {
+         "key": "B",
+         "text": "help to"
+        },
+        {
+         "key": "C",
+         "text": "helping to"
+        },
+        {
+         "key": "D",
+         "text": "to help with"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "neglected by"
+        },
+        {
+         "key": "B",
+         "text": "made up for"
+        },
+        {
+         "key": "C",
+         "text": "devoted to"
+        },
+        {
+         "key": "D",
+         "text": "included in"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "out of"
+        },
+        {
+         "key": "B",
+         "text": "from"
+        },
+        {
+         "key": "C",
+         "text": "off"
+        },
+        {
+         "key": "D",
+         "text": "of"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "suggest"
+        },
+        {
+         "key": "B",
+         "text": "make"
+        },
+        {
+         "key": "C",
+         "text": "allow"
+        },
+        {
+         "key": "D",
+         "text": "provide"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "damaged"
+        },
+        {
+         "key": "B",
+         "text": "abused"
+        },
+        {
+         "key": "C",
+         "text": "injured"
+        },
+        {
+         "key": "D",
+         "text": "wounded"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the ancient Olympic Games. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (9-18) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "ATHLETES AT THE ANCIENT OLYMPIC GAMES",
+     "body": [
+      "There were three main criteria for participation in the Games: the competitor had to be male, {{0}} Greek origin and a free man. The athletes trained individually over several months and travelled to a city close to Olympia, {{9}} a final selection was made and only the best {{10}} allowed to participate. They took an oath, and so {{11}} the judges. They promised to take part in the competitions in an honourable way, {{12}} breaking the rules.",
+      "For both training and competitions, athletes were always nude, to illustrate the ideal of harmony {{13}} the body and the mind. Without the protection of a layer of clothing, they had to take special care of their skin. {{14}} prepare for training, they covered their body with olive oil and then dusted it with fine sand. The oil and sand combination helped to regulate their body temperature and provided protection from the sun and from the stick the trainer used for beating them {{15}} they didn't perform the exercises correctly.",
+      "At the modern Olympic Games, the first, second and third-placed athletes are rewarded. In ancient times, there was only one winner, {{16}} prize was a wreath or crown of leaves. {{17}} Olympic champions did not receive any financial reward, they became important figures in their hometowns. They often took on a political role and they had the right to {{18}} a statue of themselves erected, and they could ask a poet to write verses telling of their achievements."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "where"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "did"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "not",
+        "without",
+        "never",
+        "avoiding"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "between",
+        "of",
+        "in",
+        "within"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "if",
+        "when",
+        "whenever"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "whose"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "Although",
+        "Though",
+        "While",
+        "Whilst",
+        "Whereas"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "have",
+        "get"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about fingerprinting. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (19-27).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "FINGERPRINTS",
+     "body": [
+      "Everyone's fingerprints are different, and we leave marks on everything we touch. This makes fingerprints {{0}} for identifying individuals. People recognised the {{19}} of fingerprints 1,000 years ago. However, the FBI began collecting prints only in the 1920s. Ink and paper were used for taking fingerprints then. Today, people press their fingers on electronic sensors that scan their fingertips and create {{20}} images, which are stored on computers.",
+      "Despite the advances, fingerprinting is not an exact science. Prints left at a crime scene are often {{21}}. Also, our fingerprints are always changing slightly. Sometimes they're wet, sometimes dry. The process of taking a fingerprint can itself change the print. For example, the skin may roll, or the amount of {{22}} may vary.",
+      "Fingerprints are often used {{23}} to catch criminals. Unfortunately, however, authorities make as many as 1,000 {{24}} fingerprint matches each year in the United States.",
+      "Computer scientists all over the world are trying to develop computer systems for making {{25}} fingerprint matches. They have to be careful when writing programs to analyse prints. If a program requires too exact a match, it won't find any {{26}}. If it looks too broadly, it will produce too many choices. To keep these {{27}} in balance, programmers are constantly refining their techniques for sorting and matching patterns."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "use",
+       "example": true,
+       "accept": [
+        "useful"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "unique",
+       "accept": [
+        "uniqueness"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "digit",
+       "accept": [
+        "digital"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "complete",
+       "accept": [
+        "incomplete"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "press",
+       "accept": [
+        "pressure"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "success",
+       "accept": [
+        "successfully"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "correct",
+       "accept": [
+        "incorrect"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "accurate",
+       "accept": [
+        "accurate"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "possible",
+       "accept": [
+        "possibilities"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "require",
+       "accept": [
+        "requirements"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read a tale from China. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "ARE YOU A CRACKPOT?",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A water bearer in China had done two large pots, each hung on",
+       "answer": "done"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "the ends of a pole he carried across his neck. One of the pots had a",
+       "answer": null
+      },
+      {
+       "n": 28,
+       "text": "crack in it, while the other pot was as perfect and always delivered",
+       "answer": "as"
+      },
+      {
+       "n": 29,
+       "text": "a full portion of water. At the end of the long walk from the river",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "to the house, the cracked pot arrived only in half full. Of course,",
+       "answer": "in"
+      },
+      {
+       "n": 31,
+       "text": "the perfect pot was proud of itself, but the poor cracked pot was",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "ashamed of its imperfection. After two years the cracked pot had said",
+       "answer": "had"
+      },
+      {
+       "n": 33,
+       "text": "to the bearer, \"I feel myself miserable. This crack in my side causes",
+       "answer": "myself"
+      },
+      {
+       "n": 34,
+       "text": "water to leak out of all the way back to your house.\" The bearer",
+       "answer": "of"
+      },
+      {
+       "n": 35,
+       "text": "replied it, \"Did you notice that there were flowers only on your side",
+       "answer": "it"
+      },
+      {
+       "n": 36,
+       "text": "of the path? I planted her flower seeds there because I've always",
+       "answer": "her"
+      },
+      {
+       "n": 37,
+       "text": "known about your flaw. For two years you've been watered them",
+       "answer": "been"
+      },
+      {
+       "n": 38,
+       "text": "every day and I've decorated the table with these beautiful flowers.\"",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "Moral: We're all cracked pots. You have not to take each person",
+       "answer": "not"
+      },
+      {
+       "n": 40,
+       "text": "for granted what they are, and look for the good in them.",
+       "answer": "granted"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2012-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a report about an interesting survey.",
+      "Your task is to write the letter of the correct answer in the boxes on the right.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_12maj_fl.mp3",
+      "start": 0,
+      "end": 514.08,
+      "clip": "hang/e_angol_12maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In Mexico City, it's about …",
+       "options": [
+        {
+         "key": "A",
+         "text": "8 am."
+        },
+        {
+         "key": "B",
+         "text": "1 pm."
+        },
+        {
+         "key": "C",
+         "text": "6 pm."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "The slim girl …",
+       "options": [
+        {
+         "key": "A",
+         "text": "follows a young man."
+        },
+        {
+         "key": "B",
+         "text": "goes into an office."
+        },
+        {
+         "key": "C",
+         "text": "lets the door close."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "Jang Kim …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a woman."
+        },
+        {
+         "key": "B",
+         "text": "has a small shop."
+        },
+        {
+         "key": "C",
+         "text": "is impolite."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Monica Jones ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "goes to work."
+        },
+        {
+         "key": "B",
+         "text": "drops a folder."
+        },
+        {
+         "key": "C",
+         "text": "says thank you."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "The Reader's Digest survey was carried out by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "famous journalists."
+        },
+        {
+         "key": "B",
+         "text": "ordinary people."
+        },
+        {
+         "key": "C",
+         "text": "undercover reporters."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "The Reader's Digest survey was carried out in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "35 countries."
+        },
+        {
+         "key": "B",
+         "text": "20 big cities."
+        },
+        {
+         "key": "C",
+         "text": "20 different places in each city."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "The reporters …",
+       "options": [
+        {
+         "key": "A",
+         "text": "held doors open for people."
+        },
+        {
+         "key": "B",
+         "text": "bought different things."
+        },
+        {
+         "key": "C",
+         "text": "helped people in busy locations."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The reporters compared cities by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "giving one point for each positive result."
+        },
+        {
+         "key": "B",
+         "text": "taking away one point for each negative outcome."
+        },
+        {
+         "key": "C",
+         "text": "giving each city a maximum of fifty points."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 11,
+     "instructions": [
+      "In this section, you will hear a police officer talk about recent advances in investigation techniques.",
+      "Your task is to complete the sentences with one word or number in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_12maj_fl.mp3",
+      "start": 514.08,
+      "end": 1121.86,
+      "clip": "hang/e_angol_12maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The speaker has been a police officer for over {{gap}} years.",
+       "accept": [
+        "20"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "In the past 5 years, advances in computerisation have had a greater effect on day-to-day police work than new {{gap}} discoveries.",
+       "accept": [
+        "scientific"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The American term for an identification parade is {{gap}}.",
+       "accept": [
+        "line-up"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "The traditional parade was not only difficult to organise and time-consuming but also rather {{gap}}.",
+       "accept": [
+        "expensive",
+        "costly"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The witness had to stand behind a mirror that separated them from the {{gap}}.",
+       "accept": [
+        "suspects",
+        "suspect"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "The new identification process is fully {{gap}}.",
+       "accept": [
+        "computerised",
+        "computerized",
+        "electronic"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "It is easy to find contributors, because they are paid £{{gap}} for a few minutes' work.",
+       "accept": [
+        "80",
+        "eighty"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Each full clip about one person lasts for {{gap}} seconds.",
+       "accept": [
+        "twenty",
+        "20"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "In the case of a particular parade, officers use six different search {{gap}} to pick suitable clips.",
+       "accept": [
+        "criteria",
+        "terms"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "All in all, they use {{gap}} short clips in any video parade.",
+       "accept": [
+        "nine",
+        "9"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The exact order of the clips in the montage is determined at {{gap}} by the computer software.",
+       "accept": [
+        "random"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "So as to make sure that everything is done according to the rules, the video parade itself is also {{gap}}.",
+       "accept": [
+        "videoed",
+        "recorded",
+        "taped",
+        "filmed"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2012-maj-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear an interview with an American man who won a lot of money on the lottery.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_12maj_fl.mp3",
+      "start": 1121.86,
+      "end": 1795,
+      "clip": "hang/e_angol_12maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Brad won a net amount of $85 million on the lottery in 2007.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "His numbering system was based on the 15 numbers that had come up the least frequently over the previous six months.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "It wasn't the first time he had won money on the lottery.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Most jackpot winners spend their money on luxury items.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "His goal was to become a billionaire.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "He didn't listen to anybody's advice on what he should do with the money.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "He has made a profit of $130 million since he won the jackpot.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "He took 17 of his friends on a trip to Tahiti.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "He has just bought a new house.",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "He has at least 17 bicycles.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "He owns two VW Jetta cars.",
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "He has no time to teach in his old fitness centre any more.",
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "He has made a lot of new friends recently.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

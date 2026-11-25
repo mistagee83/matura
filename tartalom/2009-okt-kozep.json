@@ -1,0 +1,1195 @@
+{
+ "formatVersion": 1,
+ "id": "2009-okt-kozep",
+ "year": 2009,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2009-10-22",
+ "code": "0804",
+ "sourceFiles": {
+  "paper": "2009. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_09okt_fl.pdf",
+  "key": "2009. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_09okt_ut.pdf",
+  "audio": "2009. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_09okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2009-okt-kozep-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz olvasott szöveg alapján",
+     "points": 9,
+     "instructions": [
+      "Read this short article on a meteorite impact.",
+      "Your task is to give short answers (maximum four words) to the questions (1-9) that follow."
+     ],
+     "title": "Space Rock Makes a Crash Landing",
+     "body": [
+      "A grapefruit-size meteorite crashed through the roof of a house in New Zealand this spring, hit the ceiling, slammed into a couch and rolled under a table. Experts say the extremely hot rock was traveling about 500 kilometers an hour when it crashed through the roof. Its landing made a terrific explosion.",
+      "Astronomer Joel Schiff of the University of Auckland said, \"It is most likely a chip off an asteroid and is older than anything else on Earth. \"In fact, the meteorite is about 4.5 billion years old. \"It is one of the few physical records of the early solar system,\" Schiff said.",
+      "According to experts, the space rock was probably traveling 50,000 kilometers an hour when it reached Earth's atmosphere. The atmosphere slowed it down. Most likely the space rock came to Earth from an asteroid belt located between Mars and Jupiter, some 700 million kilometers away.",
+      "Luckily no one was hurt when the meteorite landed, but it could mean money from the heavens for homeowner Brenda Archer. Experts say the space rock—only the ninth known meteorite to land in New Zealand—is probably worth more than U.S. $30,000!",
+      "But don't expect to get rich on meteorites. Most space rocks entering the Earth's atmosphere burn up during their journey."
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "maxWords": 4
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "When did this crash landing happen? {{gap}}",
+       "accept": [
+        "This spring"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Where did the rock stop in the house? {{gap}}",
+       "key": "Under a table. / On the floor.",
+       "keywords": [
+        [
+         "under",
+         "table"
+        ],
+        [
+         "floor"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "What is the job of the person who believes the rock broke off an asteroid? {{gap}}",
+       "key": "(He's a(n)) astronomer/scientist.",
+       "keywords": [
+        [
+         "astronomer"
+        ],
+        [
+         "scientist"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What is the age of the rock? {{gap}}",
+       "key": "4.5 billion years.",
+       "keywords": [
+        [
+         "4",
+         "5",
+         "billion",
+         "years"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What reduced the speed of the rock before it hit the house? {{gap}}",
+       "key": "The (Earth’s) atmosphere.",
+       "keywords": [
+        [
+         "atmosphere"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "What distance did the rock travel? {{gap}}",
+       "key": "(About) 700 million kilometres.",
+       "keywords": [
+        [
+         "700",
+         "million",
+         "kilometres"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "How many meteorites have landed in New Zealand that we know about? {{gap}}",
+       "key": "9.",
+       "keywords": [
+        [
+         "9"
+        ],
+        [
+         "nine"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Who does the house belong to? {{gap}}",
+       "key": "Brenda Archer.",
+       "keywords": [
+        [
+         "brenda",
+         "archer"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What is the probable value of the meteorite? {{gap}}",
+       "key": "$30,000.",
+       "keywords": [
+        [
+         "dollars",
+         "30000"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What happens to most space rocks when they reach the Earth’s atmosphere? {{gap}}",
+       "key": "They burn up.",
+       "keywords": [
+        [
+         "burn",
+         "up"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this text about Kate’s blind date and the sentences (10-16) following it.",
+      "Mark each sentence A if it is true according to the text, B if it is false, C if there isn’t enough information in the text to say if it is true or not."
+     ],
+     "title": "“My best blind date”",
+     "body": [
+      "“When I turned 30, my grandma, with whom I am very close, became paranoid that I’d never get married, like 30 is over the hill or something. Just to quiet her, I agreed to go out with the grandson of a friend of hers, whom she knew well and claimed was ‘a very handsome lawyer.’ I, however, was certain he would be a total loser and couldn’t believe I agreed to the date. My friends and I joked about it during the weeks leading up to the date, and I had extremely low expectations. When he came to meet me outside my house, I almost fainted; he looked great. During the date I also found out he was very intelligent, well-educated and loves Woody Allen movies as much as I do. We had a great dinner, even better conversation—and there was a definite spark. We kept seeing each other after that, and each date was better than the last. We got engaged about a month ago, and of course my grandma takes all the credit!” – Kate, 30"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Kate and her grandmother get on well.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Kate’s grandmother was afraid that Kate would not be able to find a husband.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "The grandmother had never seen the young man before.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Kate only agreed to meet the young man to please her grandmother.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "He arrived at her place by car.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "At first she did not find the man attractive.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The young man was not very interested in Woody Allen movies.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "They had dinner in an expensive restaurant.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this story about a goldfish named Albert Einstein.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to fill in the gaps (17-23) from the list (A-I) below.",
+      "Remember that there is one extra letter that you do not need."
+     ],
+     "title": "Pet Fish Learn New Tricks",
+     "body": [
+      "Albert Einstein, a goldfish, is {{0}} He has learned to take food from his owner's hand, swim through hoops and tubes, {{17}} It all started when Jack Brown, 9, won two goldfish at a school fair. Soon he noticed that the fish would react to his movements {{18}} He wondered if they were smarter than he'd realized. He and his dad decided to train one of them, Albert. They used techniques {{19}} \"We wanted to show that fish can be interesting pets, not just decorations,\" said Jack's father, David Brown. The Browns bought a \"finger soccer\" kit and put weights on the tiny net and ball so they would stay at the bottom of the tank.",
+      "First Albert got treated to some tasty food every time he swam toward the net. The fish liked the treat, {{20}} Once Albert learned to go toward the net, Jack and his dad added a new step - ball handling. In the end, Albert learned {{21}}",
+      "The trainer needs to have patience, the father-son team says. It may take five or six training sessions a day for three weeks {{22}}",
+      "Just like kids, individual fish learn at different speeds!",
+      "The Browns set up a website so other people could see how much fun they were having with their fish project. They heard from so many people who wanted to train their pet fish {{23}} a small business that sells fish-training books and equipment."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to push the ball into a goal."
+      },
+      {
+       "key": "B",
+       "text": "so it learned to repeat the action to get more treats."
+      },
+      {
+       "key": "C",
+       "text": "whenever he came near the tank."
+      },
+      {
+       "key": "D",
+       "text": "that the Browns started Fish School,"
+      },
+      {
+       "key": "E",
+       "text": "and even put a miniature soccer ball into a goal!"
+      },
+      {
+       "key": "F",
+       "text": "and they were interesting"
+      },
+      {
+       "key": "G",
+       "text": "not an ordinary pet goldfish."
+      },
+      {
+       "key": "H",
+       "text": "to teach a fish something new."
+      },
+      {
+       "key": "I",
+       "text": "that work for other animals like dogs."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 17,
+       "answer": "E"
+      },
+      {
+       "n": 18,
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "answer": "I"
+      },
+      {
+       "n": 20,
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "answer": "H"
+      },
+      {
+       "n": 23,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-kozep-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this description of a near-accident and then read the gapped sentences (24-29) that follow.",
+      "Your task is to fill the gaps with one or two words based on the information in the text."
+     ],
+     "title": "Driving to the speed limit doesn’t necessarily mean you’re driving safely",
+     "body": [
+      "Recently while driving on a residential road near my home the following incident occurred. I was in second gear as I turned into the road and in the normal course of events would have perhaps gone up to third to cruise at 30mph.",
+      "It was 3pm and there was a lot of activity as children were coming home from school. On the nearside pavement 60 yards away were three girls, 10 to 12 years old, chatting. I’m not sure what it was that rang alarm bells about those three in particular. Maybe it was the intensity of their conversation and the impression that they didn’t appear to be looking around or taking in any other information from their surroundings.",
+      "I stayed at 25 mph and moved out as far as I could to the middle of the road. I also placed a finger over the horn and my right heel in front of the brake pedal. As I drew nearer I slowed to 20 mph. When I got within 2 or 3 car lengths from the girls, one turned rapidly, jumped off the pavement and ran across the road. She never looked up or to her right or left − she just went.",
+      "I hit the brake and came to a stop about 4 or 5 feet away from her. What saved her life was not what I was doing at the time, which was applying the brakes − but what I had done 50 yards previously; slowing down, moving out and above all, concentrating on her. If I had been doing 30 mph that day I could have hit her. I could have claimed legitimately that I wasn’t speeding and that it wasn’t my fault. The fact that I had slowed to 20 mph guaranteed that whatever she did I could avoid her.",
+      "The writer describes how he managed to … avoid… an accident recently.",
+      "It was early {{24}} with many children in the street.",
+      "Three girls were busy {{25}} on the pavement.",
+      "The {{26}} moved further away from the side of the road.",
+      "When one girl jumped into the road without looking, the car was moving at a speed of {{27}}.",
+      "When the driver stopped, the distance between the girl and the car was only a few {{28}}.",
+      "The writer stresses that driving safely means more than just keeping the rules and not {{29}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 24,
+       "accept": [
+        "afternoon"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "talking",
+        "chatting"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "driver",
+        "writer",
+        "storyteller",
+        "car"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "20mph"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "feet"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "driving fast",
+        "speeding"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 12,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18
+   },
+   "tasks": [
+    {
+     "id": "2009-okt-kozep-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 6,
+     "instructions": [
+      "You are going to read an article about a new invention. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-6) in the text."
+     ],
+     "title": "A DIFFERENT WAY TO WAKE UP",
+     "body": [
+      "When Matty Sallin was at university, he got an interesting task {{0}} electronics class: Create something for the household. He {{1}} to create an alarm clock. He asked different people {{2}} they'd like to wake up to instead of a noisy alarm. Many of them said, \"The smell of bacon.\"",
+      "So Sallin invented a new kind of alarm clock: a wooden box with a pig face and a digital clock {{3}} uses the smell of cooking bacon to wake someone up.",
+      "Just a few easy steps {{4}} to set the \"alarm.\" He explains, \"You put in some frozen bacon strips the night before. If you set the alarm for 7:00, it will {{5}} at 6:50 and slow cook the bacon for ten minutes under halogen bulbs. {{6}} the bulbs turn off automatically and a fan blows the scent out through the pig's nose. So you smell yourself awake, and you can pull the bacon out and eat it.\""
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "on"
+        },
+        {
+         "key": "B",
+         "text": "about"
+        },
+        {
+         "key": "C",
+         "text": "in"
+        },
+        {
+         "key": "D",
+         "text": "of"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "has decided"
+        },
+        {
+         "key": "B",
+         "text": "decided"
+        },
+        {
+         "key": "C",
+         "text": "used to decide"
+        },
+        {
+         "key": "D",
+         "text": "had decided"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "when"
+        },
+        {
+         "key": "C",
+         "text": "how"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "this"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "where"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "are needed"
+        },
+        {
+         "key": "B",
+         "text": "needs"
+        },
+        {
+         "key": "C",
+         "text": "you needed"
+        },
+        {
+         "key": "D",
+         "text": "necessary"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "switch up"
+        },
+        {
+         "key": "B",
+         "text": "switch on"
+        },
+        {
+         "key": "C",
+         "text": "turn up"
+        },
+        {
+         "key": "D",
+         "text": "turn in"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "After"
+        },
+        {
+         "key": "B",
+         "text": "When"
+        },
+        {
+         "key": "C",
+         "text": "Then"
+        },
+        {
+         "key": "D",
+         "text": "Before"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about some presidents of the United States. Some words are missing from the text.",
+      "Use the words in brackets to form one word for each of the gaps (7-16).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "FACTS ABOUT PRESIDENTS",
+     "body": [
+      "Did you know that Jimmy Carter, the 39th President of the United States, was a peanut {{0}} before he was President? Or that one of George Washington's {{7}} foods was ice cream? These are just two of the {{8}} facts about past U.S. Presidents National Geographic Kids has collected.",
+      "Many Presidents had {{9}} careers before entering the White House. Andrew Johnson, the 17th President, was a tailor. Ronald Reagan, the 40th President, was a movie {{10}}. Harry Truman bought and sold men's clothing and accessories, particularly hats.",
+      "Once in the White House, each President made his mark in {{11}} ways. In fact, before Theodore Roosevelt, the 26th President, came to office, the White House wasn't even called the White House! People called the {{12}} the President's Palace, President's House, and the Executive Mansion. Roosevelt {{13}} named it the White House in 1901.",
+      "Theodore Roosevelt wasn't the only President to invent a new {{14}}. Martin Van Buren, the {{15}} President, probably created the word \"OK.\" He was from Kinderhook, New York. During his campaign, Old Kinderhook (O.K.) clubs formed to give him {{16}}. Later, \"OK\" or \"okay,\" came to mean \"all right.\""
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "farm",
+       "example": true,
+       "accept": [
+        "farmer"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "favor",
+       "accept": [
+        "favorite",
+        "favourite"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "interest",
+       "accept": [
+        "interesting",
+        "uninteresting"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "usual",
+       "accept": [
+        "unusual"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "act",
+       "accept": [
+        "actor"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "vary",
+       "accept": [
+        "various"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "build",
+       "accept": [
+        "building"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "official",
+       "accept": [
+        "officially"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "express",
+       "accept": [
+        "expression"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "eight",
+       "accept": [
+        "eighth"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "support",
+       "accept": [
+        "support"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about bullfighting. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "BULLFIGHTING",
+     "body": [
+      "Bullfighting festivals have existed for around 300 years, {{0}} the fighting of bulls dates back to Roman times. The first bullfights were on horseback to celebrate special occasions such {{17}} royal weddings and military victories. Records suggest the killing of bulls for public entertainment also {{18}} place in England in ancient times. Today, bullfighting involves riders on horseback, called cavaliers, as well as people, called matadors, who fight against the bull {{19}} foot. Bullfights are organised in several European countries including Portugal, Spain and France, in Latin American countries and in {{20}} US state of California.",
+      "The festivals are seen by many as an important part of Portugal's tradition and history. Rather {{21}} a sport, bullfighting is seen as an art form and a cultural event, like a play or an opera. Those {{22}} support the sport talk of the skill that is shown by those involved, especially the matadors and the cavaliers. Bullfighting is an established part of Portuguese and Spanish culture and supporters say that others should try {{23}} understand and respect this.",
+      "However, {{24}} are two main arguments against the sport. Firstly, that it is cruel and secondly, that the animals involved suffer pointlessly. Even though the death of the bull isn't shown in Portugal, the bulls {{25}} nearly always killed. Horses ridden {{26}} the cavaliers also suffer, as they get injured when they clash with the bulls. Also, matadors have been killed during bullfights."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "although"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "took"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "who"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "to",
+        "and"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "there"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "are"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "by"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2009-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear a woman tell a true story.",
+      "Your task will be to complete the sentences with one word in each gap.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_09okt_fl.mp3",
+      "start": 0,
+      "end": 683.83,
+      "clip": "hang/k_angol_09okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The story happened in an unnamed country in {{gap}}",
+       "accept": [
+        "Africa"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The couple were staying in a(n) {{gap}} house.",
+       "accept": [
+        "guest"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "They didn't dare to open the {{gap}} because they were afraid of thieves.",
+       "accept": [
+        "windows",
+        "window"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The temperature was over {{gap}} degrees centigrade that night.",
+       "accept": [
+        "40",
+        "forty"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "They decided to put a lot of {{gap}} and pans under the window.",
+       "accept": [
+        "pots"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "She woke up in the middle of the night because she had heard the pans {{gap}}.",
+       "accept": [
+        "crashing",
+        "falling",
+        "fall",
+        "crash"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "She could see that there was a man standing next to her bed in a(n) {{gap}} robe.",
+       "accept": [
+        "white"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "As she had a sore throat, she couldn't {{gap}} for help.",
+       "accept": [
+        "scream",
+        "shout",
+        "cry"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Then, she realized that the 'intruder' was, in fact, her {{gap}}.",
+       "accept": [
+        "husband"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "He explained that he was just looking for aspirins because he had a(n) {{gap}}.",
+       "accept": [
+        "headache"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2009-okt-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear some interesting information about the history of submarines.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_09okt_fl.mp3",
+      "start": 683.83,
+      "end": 1260.32,
+      "clip": "hang/k_angol_09okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Who was William Bourne? A British {{gap}}",
+       "accept": [
+        "mathematician"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "When did William Bourne draw plans for a submarine? In {{gap}}",
+       "key": "1578",
+       "keywords": [
+        [
+         "1578"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "What did Cornelius van Drebbel wrap his wooden rowboat in? In waterproof {{gap}}",
+       "key": "leather",
+       "keywords": [
+        [
+         "leather"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "How long did he stay underwater? For {{gap}}",
+       "key": "3 / three hours",
+       "keywords": [
+        [
+         "3",
+         "hours"
+        ],
+        [
+         "three",
+         "hours"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "When was David Bushnell's submarine built? In {{gap}}",
+       "key": "1776",
+       "keywords": [
+        [
+         "1776"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "When was David Bushnell's submarine used? During the {{gap}}",
+       "key": "American Revolution",
+       "keywords": [
+        [
+         "american",
+         "revolution"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Which country were Simon Lake's submarines chosen by? By {{gap}}",
+       "key": "Japan",
+       "keywords": [
+        [
+         "japan"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "What did the submarines use for underwater travel? Electric {{gap}}",
+       "key": "motors",
+       "keywords": [
+        [
+         "motors"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2009-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you are going to hear some interesting facts about Broadway.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter into the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_09okt_fl.mp3",
+      "start": 1260.32,
+      "end": 1795.53,
+      "clip": "hang/k_angol_09okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "A great many famous people live on Broadway.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Broadway starts at the end of Manhattan Island.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Broadway is 240 kilometers long.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "The famous part of Broadway is just a few kilometers long.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Tickets for theaters on The Great White Way are extremely expensive.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "At night Broadway around Times Square is very different from the rest of New York.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "There are lots of colorful electric signs on the buildings in this part of Broadway.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "The Great White Way got its name from the color of the buildings in the old days.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "The word 'Broadway' means top quality American theater art today.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Broadway is also famous for its movies.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

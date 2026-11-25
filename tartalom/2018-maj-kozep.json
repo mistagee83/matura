@@ -1,0 +1,1320 @@
+{
+ "formatVersion": 1,
+ "id": "2018-maj-kozep",
+ "year": 2018,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2018-05-10",
+ "code": "1811",
+ "sourceFiles": {
+  "paper": "2018 - Középszintű májusi/k_angol_18maj_fl.pdf",
+  "key": "2018 - Középszintű májusi/k_angol_18maj_ut.pdf",
+  "audio": "2018 - Középszintű májusi/k_angol_18maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2018-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with a sign language interpreter the questions have been removed. Your task is to write the letters of the questions (A-L) next to the appropriate numbers (1-8).",
+      "There are two extra questions that you do not need."
+     ],
+     "body": [
+      "{{0}}\nI am an official sign language interpreter interpreting in state and local courts.",
+      "{{1}}\nI am an officer of the court and I perform interpreting services for persons who are deaf or hard of hearing.",
+      "{{2}}\nYears ago, I worked in the legal field and I met the wonderful lady who actually held this position at the time and decided to do the same thing.",
+      "{{3}}\nInterpreters sometimes meet movie stars, famous performers, popular athletes and important politicians. Interpreters also have the opportunity to learn so much while working.",
+      "{{4}}\nWell, sometimes I have to work at the weekends, on holidays or even at night.",
+      "{{5}}\nAll states pay differently and the pay level usually depends on the complexity of the job.",
+      "{{6}}\nYou must have a bachelor’s degree. You need to have a lot of knowledge about a lot of things, so getting more education increases your ability to interpret well.",
+      "{{7}}\nIt really is not a problem for me. It is actually more challenging to interpret for a slow talker than a fast one.",
+      "{{8}}\nBe patient because it takes a lot of time to develop language skills to become fluent enough to become a professional interpreter.",
+      "(www.jobshadow.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "How difficult is it for a sign-language interpreter to keep up with a speaker who is talking very fast?"
+      },
+      {
+       "key": "B",
+       "text": "How much money do you make as a sign language interpreter?"
+      },
+      {
+       "key": "C",
+       "text": "What do you do for a living?"
+      },
+      {
+       "key": "D",
+       "text": "What do you consider to be your greatest success?"
+      },
+      {
+       "key": "E",
+       "text": "What do you like most about being an interpreter?"
+      },
+      {
+       "key": "F",
+       "text": "How would you describe what you do?"
+      },
+      {
+       "key": "G",
+       "text": "What education and skills does one need to be a sign language interpreter?"
+      },
+      {
+       "key": "H",
+       "text": "What do you dislike about the work?"
+      },
+      {
+       "key": "I",
+       "text": "How long have you been in your present job?"
+      },
+      {
+       "key": "K",
+       "text": "What advice would you offer someone considering this career?"
+      },
+      {
+       "key": "L",
+       "text": "How did you get started in your job?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "answer": "H"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "K"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about public speaking, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (9-16) from the list (A-L) below.",
+      "Remember that there are two extra phrases that you will not need."
+     ],
+     "title": "HOW TO IMPROVE YOUR PUBLIC SPEAKING",
+     "body": [
+      "Many people panic at the thought of talking to a large audience, {{0}}.",
+      "Public speaking can make even the most confident person scared. But today, you don’t even have to be a manager to give presentations – staff at every level are expected to stand up {{9}}. Below you can read some advice from experts.",
+      "“I always begin my planning with the end in mind,” says Karen Glossop, psychologist. “What are the one or two main points {{10}}? Plan the talk around your main points and build the structure accordingly.”",
+      "Another expert, who coaches people in communication and presentation skills, suggests that you should make your speech memorable. “Create an opening that grabs attention {{11}}. We naturally remember the first and last bits better than the middle.”",
+      "When clients tell him that they don’t have time to prepare, he advises them to spend just 10 minutes thinking about what it is they want to say: “What is the one thing you want people to take away? When your audience leaves the room, {{12}}? That way you will structure your message well.”",
+      "The most important thing is to remember your main ideas and not the exact words, says the president of the Academy of Public Speakers. “Prepare in advance {{13}}. While doing so, focus on the message rather than trying to remember every single word in order,” he says. “As no one will know exactly {{14}}, leaving out a word will not cause a problem.”",
+      "“When you practise, include any slides, flip charts, aids or props {{15}},” he adds. How you present your speech is equally, or maybe even more important than what you say. Speaking slowly and clearly is very important. Don’t rush through your talk, no matter how much {{16}}. “Taking time to pause and breathe helps the speaker to feel less stressed, and helps support the voice”.",
+      "Psychologists say we should never turn down a chance to speak. We should find a safe place like a school theatre group, where we can get feedback from our friends to overcome fears.",
+      "(www.theguardian.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "in order to have enough opportunity to practise"
+      },
+      {
+       "key": "B",
+       "text": "I want the audience to leave with"
+      },
+      {
+       "key": "C",
+       "text": "but preparation and breathing techniques can help you feel relaxed"
+      },
+      {
+       "key": "D",
+       "text": "and talk about the achievements of their teams"
+      },
+      {
+       "key": "E",
+       "text": "whether you enjoy the experience"
+      },
+      {
+       "key": "F",
+       "text": "in order to help to illustrate the points you’re making"
+      },
+      {
+       "key": "G",
+       "text": "what is it that you want them to remember, think or do"
+      },
+      {
+       "key": "H",
+       "text": "you want it to be over"
+      },
+      {
+       "key": "I",
+       "text": "but doing so is brilliant for our careers"
+      },
+      {
+       "key": "K",
+       "text": "and an ending that gives the audience a takeaway"
+      },
+      {
+       "key": "L",
+       "text": "what you have planned to say"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "K"
+      },
+      {
+       "n": 12,
+       "answer": "G"
+      },
+      {
+       "n": 13,
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "answer": "L"
+      },
+      {
+       "n": 15,
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a meeting for Santas and then read the sentences (17-23) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "SANTAS FROM ALL OVER THE WORLD MEET",
+     "body": [
+      "With just five months until Christmas, Santas from around the world are gathering in Copenhagen for a mid-season break at World Santa Claus Congress, which is organised every summer.",
+      "The annual conference gives them a chance to network, meet the public and get into shape for the busy days in December. Santa Cherry from Canada, who is taking part for the fifth time, said there was much more to being a Santa than just the clothes.",
+      "“A successful Santa is not just about the costumes and the clothes. You have to be caring to be a really successful Santa and it’s not something you can make up,” she said.",
+      "The World Santa Claus Congress has taken place at the Bakken amusement park near Copenhagen since 1957 and always in the summer, which is Santa’s off season. During the congress they have the opportunity to discuss important questions concerning their job, such as the value of the presents, the length of Santa’s beard and the delivery of the presents. The most problematic question seems to be the exact date when Santa should bring the presents.",
+      "The most important part of the meeting is for the professional Santas to meet the public. Apart from parades there is also some sightseeing, Christmas cake baking and storytelling for the children. On the last day, Santas have to compete in a race.",
+      "(https://uk.reuters.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The global meeting for Santas is held in Copenhagen every two years.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The congress has three main aims.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "His or her clothes are also an important part of Santa’s success.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "According to Santa Cherry, you can still be a good Santa without being kind and loving.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The Bakken amusement park is very popular among Santas.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Santas have debates about questions such as how much they should spend on the presents.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Santas are in general agreement about when Santa should arrive with the presents.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Santas take part in a competition during the congress.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-kozep-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about two lucky sailors and then read the gapped sentences (24-29) following the article.",
+      "Your task is to complete the sentences with one or two words only based on the information in the text.",
+      "The exact word(s) you need may or may not be in the article."
+     ],
+     "title": "US SAILORS RESCUED AFTER FIVE MONTHS IN PACIFIC",
+     "body": [
+      "Two US yachtswomen and their two dogs have been rescued after spending nearly five months lost in the Pacific Ocean.",
+      "Jennifer Appel and Tasha Fuiaba say they were on their way in a small sailing boat from Hawaii to Tahiti when their engine, damaged by a storm, failed. Their boat then drifted in the open seas about 1,500km southeast of Japan, they said. They were rescued after a fishing boat alerted US authorities.",
+      "The pair said they set off in May and their engine broke down at the end of that month. They originally thought they would be able to reach land with the help of only wind and sails. Ms Appel said they sent SOS signals daily for nearly 100 days but received no response. \"It was very depressing and very hopeless, but it's the only thing you can do, so you do what you can,\" she said.",
+      "But on 24 October, a Taiwanese fishing boat saw their boat drifting in the ocean and contacted authorities on the US territory of Guam. The USS Ashland arrived early the following day to rescue the sailors and their two four-legged companions. They said they managed to survive this nightmare thanks to a water purifier and a year's worth of dry goods such as muesli and pasta.",
+      "\"The US Navy saved our lives,\" Ms Appel said. \"The pride and smiles we had when we saw them on the horizon were pure relief.\"",
+      "(www.reuters.com)",
+      "The two sailors and their dogs spent {{0}} lost in the ocean.",
+      "Their {{24}} stopped because of bad weather.",
+      "The yachtswomen got lucky when a(n) {{25}} noticed them.",
+      "At first, the sailors hoped they would be able to arrive at their destination {{26}} the engine.",
+      "The sailors’ only hope was to send out {{27}} every day.",
+      "The sailors were saved just one {{28}} after they were found on the 24th of October.",
+      "The sailors had enough food to last for {{29}} in the boat."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "five months"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "boat’s engine",
+        "yacht’s engine",
+        "engine",
+        "motor"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "fishing boat",
+        "fishing ship",
+        "fishing vessel",
+        "ship",
+        "vessel",
+        "Taiwanese boat",
+        "Taiwanese ship",
+        "Taiwanese vessel",
+        "boat",
+        "fisherman"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "without using",
+        "without"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "SOS calls",
+        "SOS signals",
+        "SOS messages",
+        "distress signals",
+        "SOS message",
+        "SOS signal",
+        "SOS call"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "day"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "a year",
+        "one year"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2018-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about the origins of Columbus Day, a public holiday in the United States. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-7).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "COLUMBUS DAY",
+     "body": [
+      "On Columbus Day, people in the U.S. remember and celebrate the day – October 12, 1492 – when Christopher Columbus landed in the Americas. It became a {{0}} holiday in 1937, however, {{1}} were held in a number of cities and states on October 12 as early as the 18th century.",
+      "Columbus left Spain for Asia in August 1492. The {{2}} monarchs, King Ferdinand and Queen Isabella supported his voyage. Columbus wanted to find a {{3}} sea route to China, India and the famous gold and spice islands of Asia. Most educated Europeans in Columbus' day understood that the world was round, but they did not yet know that the Pacific Ocean existed. They thought that only the Atlantic Ocean lay between Europe and Asia. So two months after his {{4}}, instead of Asia, Columbus landed in the Bahamas.",
+      "Columbus crossed the Atlantic several more times before his {{5}} in 1506. However, it wasn’t until his third journey that the great {{6}} finally realized he hadn't reached Asia but he had found a continent previously {{7}} to most Europeans.",
+      "Columbus Day was originally celebrated every October 12, but was changed to the second Monday in October in 1971.",
+      "(http://www.history.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "nation",
+       "example": true,
+       "accept": [
+        "national"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "celebrate",
+       "accept": [
+        "celebrations"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "Spain",
+       "accept": [
+        "Spanish"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "west",
+       "accept": [
+        "western",
+        "westward",
+        "westerly"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "depart",
+       "accept": [
+        "departure"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "die",
+       "accept": [
+        "death"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "explore",
+       "accept": [
+        "explorer"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "know",
+       "accept": [
+        "unknown"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a strange sport called ‘wife carrying’. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (8-16) in the text."
+     ],
+     "title": "WIFE CARRYING",
+     "body": [
+      "Wife carrying is a sport in {{0}} male competitors race while each carrying a female teammate. The aim is for the male {{8}} the female through a special track in the fastest time. The winning team takes home the wife's weight {{9}} beer.",
+      "Wife Carrying started in Finland, and its history is based on the 19th century legend of “Ronkainen the Robber”. Ronkainen and his thieves {{10}} food and women from villages in the area where they lived, {{11}} they carried the women on their backs as they ran away.",
+      "The first wife carrying event was held in Finland in 1992. It now {{12}} place there as the World Championship every year. Here are some of the rules:",
+      " Teammates are not {{13}} to be legally married.  The minimum weight for the female competitor is 49 kilograms, and she {{14}} be at least 18.  The only equipment allowed is a belt {{15}} by the carrier. A helmet is necessary for the woman.  There is no restriction on how the female teammate is carried.  If a competitor {{16}} his teammate, their team will be punished with five seconds added to their time.",
+      "(http://www.wife-carrying.org)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "which"
+        },
+        {
+         "key": "D",
+         "text": "-"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "carrying"
+        },
+        {
+         "key": "B",
+         "text": "who carries"
+        },
+        {
+         "key": "C",
+         "text": "is carrying"
+        },
+        {
+         "key": "D",
+         "text": "to carry"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "by"
+        },
+        {
+         "key": "B",
+         "text": "in"
+        },
+        {
+         "key": "C",
+         "text": "with"
+        },
+        {
+         "key": "D",
+         "text": "from"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "were stolen"
+        },
+        {
+         "key": "B",
+         "text": "stole"
+        },
+        {
+         "key": "C",
+         "text": "have stolen"
+        },
+        {
+         "key": "D",
+         "text": "was stealing"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "then"
+        },
+        {
+         "key": "B",
+         "text": "after"
+        },
+        {
+         "key": "C",
+         "text": "than"
+        },
+        {
+         "key": "D",
+         "text": "when"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "holds"
+        },
+        {
+         "key": "B",
+         "text": "makes"
+        },
+        {
+         "key": "C",
+         "text": "takes"
+        },
+        {
+         "key": "D",
+         "text": "gets"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "required"
+        },
+        {
+         "key": "B",
+         "text": "respected"
+        },
+        {
+         "key": "C",
+         "text": "refused"
+        },
+        {
+         "key": "D",
+         "text": "reminded"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "can"
+        },
+        {
+         "key": "B",
+         "text": "may"
+        },
+        {
+         "key": "C",
+         "text": "might"
+        },
+        {
+         "key": "D",
+         "text": "must"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "what is worn"
+        },
+        {
+         "key": "B",
+         "text": "is worn"
+        },
+        {
+         "key": "C",
+         "text": "worn"
+        },
+        {
+         "key": "D",
+         "text": "wearing"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "is dropped"
+        },
+        {
+         "key": "B",
+         "text": "drops"
+        },
+        {
+         "key": "C",
+         "text": "will drop"
+        },
+        {
+         "key": "D",
+         "text": "have dropped"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about sleeping cars designed by George Pullman, whose company manufactured and operated railroad cars. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "PULLMAN SLEEPING CARS",
+     "body": [
+      "Sleeping cars {{0}} introduced in 1838 in the US to provide \"hotel\" sleeping accommodation on overnight passenger trains. However, they were {{17}} commonly used until the late 1850s. George Pullman began manufacturing and operating sleeping cars in 1859.",
+      "Pullman believed that if he wanted his sleeping cars to {{18}} successful, he needed to provide a wide variety of services to travelers. He hired porters {{19}} provided polite and efficient service to passengers. The porters greeted the passengers, and helped them settle into their rooms. They {{20}} care of the passengers’ needs while they were on board. They were responsible {{21}} the air conditioning and heating systems, making the beds {{22}} evening, cleaning the rooms, shining shoes, mailing letters and telegrams, and bringing meals into rooms on request.",
+      "Soon, Pullman’s sleeping car became the public favourite, and sleeping cars were called Pullman cars. Pullman porters were referred to as \"George\" (the name of the company's founder) {{23}} travelers.",
+      "The company employed African-American ex-slaves {{24}} Pullman porters. Since Pullman offered better pay and security {{25}} most other jobs open to African Americans at the time, it was a respected job in black communities.",
+      "(http://www.railswest.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "not",
+        "less",
+        "never"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "be",
+        "become"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "who",
+        "that",
+        "and"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "took"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "each",
+        "every",
+        "before",
+        "by"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "by",
+        "among",
+        "amongst"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "than"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2018-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear some information about a strange house.",
+      "Your task is to complete the sentences with one word or number in each gap. Use the exact word that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_18maj_fl.mp3",
+      "start": 0,
+      "end": 656.18,
+      "clip": "hang/k_angol_18maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Simon Dale is a self-employed {{gap}}.",
+       "accept": [
+        "photographer"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Simon’s house cost him only £{{gap}} to build.",
+       "accept": [
+        "3,000",
+        "three thousand"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Besides a saw, he only used a(n) {{gap}} and a few nails to build his home.",
+       "accept": [
+        "hammer"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Simon’s father-in-law is a(n) {{gap}}.",
+       "accept": [
+        "builder"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "To make the roof waterproof, Simon covered it with sheets of {{gap}}.",
+       "accept": [
+        "plastic"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Finally, the house was covered with a layer of {{gap}} so that it would blend into its surroundings.",
+       "accept": [
+        "earth"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "In the house, {{gap}} is produced by a wood-burner.",
+       "accept": [
+        "heat"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "There is a spring close-by, which provides {{gap}} for the house.",
+       "accept": [
+        "water"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Simon’s wife is a writer and a(n) {{gap}}.",
+       "accept": [
+        "gardener"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Two of Simon’s most important {{gap}} to build the house were self-belief and readiness to work hard.",
+       "accept": [
+        "skills"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2018-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear about a strange incident involving a bear in Colorado Springs, the United States.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_18maj_fl.mp3",
+      "start": 656.18,
+      "end": 1112.09,
+      "clip": "hang/k_angol_18maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Danielle dropped her children off at school.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Danielle’s husband made a video of the strange incident.",
+       "answer": "B",
+       "alt": [
+        "C"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The bear went straight to the fridge without looking into the car.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "The door of the refrigerator and freezer was open.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Danielle used the car horn to frighten away the bear.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "After leaving the garage, the bear immediately ran away.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "Colorado Wildlife Agency believe that the bear had stolen ice-cream from another garage.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The bear is seriously underweight for his age.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The bear will have to be killed because it might be dangerous for children.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2018-maj-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear a radio interview with Zlatan Ibrahimović, the Swedish football superstar, talking about his childhood.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about your answers."
+     ],
+     "audio": {
+      "file": "k_angol_18maj_fl.mp3",
+      "start": 1112.09,
+      "end": 1794.25,
+      "clip": "hang/k_angol_18maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Zlatan’s parents are from …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Croatia."
+        },
+        {
+         "key": "B",
+         "text": "Bosnia."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Rosengard …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was considered a bad area."
+        },
+        {
+         "key": "B",
+         "text": "has changed for the better."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Zlatan thinks that the area he came from made him …",
+       "options": [
+        {
+         "key": "A",
+         "text": "tough."
+        },
+        {
+         "key": "B",
+         "text": "self-confident."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Zlatan …",
+       "options": [
+        {
+         "key": "A",
+         "text": "feels bad about the place where he came from."
+        },
+        {
+         "key": "B",
+         "text": "thinks that his example can be followed."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "After Zlatan’s parents got divorced, he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "accepted his stepfather quite easily."
+        },
+        {
+         "key": "B",
+         "text": "lost a lot of weight."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Zlatan ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "stole bikes to get to football trainings."
+        },
+        {
+         "key": "B",
+         "text": "used the postman’s bike for a long time."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Zlatan …",
+       "options": [
+        {
+         "key": "A",
+         "text": "bought a shop for his old friends."
+        },
+        {
+         "key": "B",
+         "text": "understands why his friends still steal."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Zlatan’s headmistress …",
+       "options": [
+        {
+         "key": "A",
+         "text": "said Zlatan was among the worst pupils she had ever had."
+        },
+        {
+         "key": "B",
+         "text": "thought Zlatan would get into serious trouble one day."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Zlatan admits that he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was a noisy and violent pupil."
+        },
+        {
+         "key": "B",
+         "text": "sometimes only went to school to eat."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

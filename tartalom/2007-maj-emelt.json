@@ -1,0 +1,1513 @@
+{
+ "formatVersion": 1,
+ "id": "2007-maj-emelt",
+ "year": 2007,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2007-05-10",
+ "code": "0623",
+ "sourceFiles": {
+  "paper": "2007. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_07maj_fl.pdf",
+  "key": "2007. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_07maj_ut.pdf",
+  "audio": "2007. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_07maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2007-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "Read these short articles from a daily paper.",
+      "Some parts of sentences have been removed from the texts.",
+      "Your task is to fill the gaps from the list (A-N).",
+      "Write the appropriate letters in the white boxes next to the numbers (1-10) as in the example (0).",
+      "Remember that there are two more letters than you need."
+     ],
+     "body": [
+      "Mum, where do chips come from?",
+      "The British Heart Foundation is warning against certain foods in a new advertising campaign {{0}} showing widespread ignorance among children about the content of foods.",
+      "Its survey shows, for example, that one third of British children do not know what chips are made of, {{1}} they are made from flour, eggs or even apples.",
+      "The survey of the British Heart Foundation kicks off Food4Thought, a campaign to encourage children, particularly 11 and 12 year olds, {{2}}.",
+      "With a quarter of all British children predicted to be obese by 2020, the BHF says that poor nutrition among children is {{3}}. As well as talking to children, the campaign is also urging the Government, food industry, local authorities, schools and parents {{4}}. Billboard posters will educate children about {{5}} in cheeseburgers, hot dogs and chicken nuggets.",
+      "London to Brighton rally brings out car veterans Hundreds of drivers of veteran cars braved high winds and heavy rain yesterday on the annual London to Brighton car run. Organisers said that 443 cars − all more than 100 years old − had set off from central London. Roger Etcell, {{6}}, said the rally had had its “traditional” share of breakdowns along the route, but that 367 had crossed the finish line.",
+      "Mechanical help {{7}} to drivers along the route, with a special repair centre set up in Crawley, West Sussex. Before the start more than 100 cars were driven along Regent Street. First held in 1896, the rally is the longest-running motoring event in the world.",
+      "Top of the hops New CD features animals on the route to extinction Vanishing Wildlife is a collection of some of Britain’s most elusive and rare species, some of which {{8}} before they became extinct. Some 31 species are featured on the British Library-produced CD, including the last known recording of a group of pool frogs. Also {{9}} is a greater horseshoe bat – one of the country’s rarest mammals. The CD draws on the library’s archive of more than 150,000 recordings of 10,000 species. It is {{10}} a ‘plea for help’ from some of Britain’s most endangered creatures."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "was available"
+      },
+      {
+       "key": "B",
+       "text": "making itself heard"
+      },
+      {
+       "key": "C",
+       "text": "based on research"
+      },
+      {
+       "key": "D",
+       "text": "were recorded"
+      },
+      {
+       "key": "E",
+       "text": "described as"
+      },
+      {
+       "key": "F",
+       "text": "caused by their experiences"
+      },
+      {
+       "key": "G",
+       "text": "with many believing"
+      },
+      {
+       "key": "H",
+       "text": "to pay out millions of pounds"
+      },
+      {
+       "key": "I",
+       "text": "to make healthier choices"
+      },
+      {
+       "key": "K",
+       "text": "to play their part"
+      },
+      {
+       "key": "L",
+       "text": "the event director"
+      },
+      {
+       "key": "M",
+       "text": "the common ingredients"
+      },
+      {
+       "key": "N",
+       "text": "a critical issue"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "answer": "N"
+      },
+      {
+       "n": 4,
+       "answer": "K"
+      },
+      {
+       "n": 5,
+       "answer": "M"
+      },
+      {
+       "n": 6,
+       "answer": "L"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article on flying.",
+      "For each statement choose the option that is nearest in meaning to what the article says.",
+      "Write the appropriate letters in the white boxes next to the numbers (11-15) as in the example (0)."
+     ],
+     "title": "Happy landing in Hong Kong … virtually",
+     "body": [
+      "The skies are safe. Cath Urquhart, Times travel editor, tries to fly a jumbo but never leaves Gatwick The airport runway lights blinked up at me out of the darkness. Below me were the inky waters of Victoria Harbour, and beyond, the skyscrapers of Hong Kong island, twinkling in the night. I had been intending to land on the runway, but alarmingly, it was crossing my screen from left to right instead of top to bottom. At this rate it looked as if I would shoot across it and end up in the harbour.",
+      "“Ease her nose up,” instructed flight engineer Ray Maidment, admirably keeping the panic out of his voice. I pulled the control column towards me, and turned it to the right to set our course for the runway of Kai Tak airport, one of the trickiest approaches in the world. The lights seemed terribly close, the runway terribly short. Would we land safely − or would our Boeing 7-47-200 plough into the murky harbour waters?",
+      "Climbing from the flight simulator’s cockpit ten minutes later, I felt pleased if a bit dizzy. We had landed so softly that no one in Virgin Atlantic’s upper class would have spilled a single drop of champagne. “For a first-timer, that was exceptional,” Ray said kindly.",
+      "Ray has landed at Kai Tak more times than most, if you count actual and virtual landings. After 42 years as a flight engineer with BOAC, then British Airways and Virgin, he has semi-retired and now instructs enthusiasts and would-be pilots in a flight simulator used by Virtual Aviation.",
+      "The company was set up last year by James Stevenson, a 24-year-old entrepreneur and aviation enthusiast. “We get people from all walks of life trying the simulator,” James said. “One person bought 15 hours to give to business colleagues, some are celebrating birthdays. Others can fly light aircraft and want to see what it is like to fly a jumbo. The more experience they have of flying the more they can do in their session − for example fly into turbulence.”"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The title and the subtitle of the article inform the reader that Cath Urquhart",
+       "options": [
+        {
+         "key": "A",
+         "text": "is the Times travel editor in Hong Kong."
+        },
+        {
+         "key": "B",
+         "text": "has landed safely in Hong Kong."
+        },
+        {
+         "key": "C",
+         "text": "has taken part in a virtual flight."
+        },
+        {
+         "key": "D",
+         "text": "has not been able to fly out of Gatwick."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "The first paragraph describes how Cath Urquhart",
+       "options": [
+        {
+         "key": "A",
+         "text": "piloted her jumbo jet towards Victoria Harbour."
+        },
+        {
+         "key": "B",
+         "text": "worried about missing the runway."
+        },
+        {
+         "key": "C",
+         "text": "was blinded by the lights of Hong Kong."
+        },
+        {
+         "key": "D",
+         "text": "became involved in a shooting incident."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "She followed Ray Maidment’s instructions and",
+       "options": [
+        {
+         "key": "A",
+         "text": "managed to change course."
+        },
+        {
+         "key": "B",
+         "text": "turned right to avoid Kai Tak."
+        },
+        {
+         "key": "C",
+         "text": "fortunately didn’t panic."
+        },
+        {
+         "key": "D",
+         "text": "ended up in the harbour."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Ten minutes later",
+       "options": [
+        {
+         "key": "A",
+         "text": "first class passengers were served champagne."
+        },
+        {
+         "key": "B",
+         "text": "Cath felt too dizzy to continue the flight."
+        },
+        {
+         "key": "C",
+         "text": "the instructor congratulated her."
+        },
+        {
+         "key": "D",
+         "text": "they started their descent."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Ray, the instructor",
+       "options": [
+        {
+         "key": "A",
+         "text": "has flown to Kai Tak a record number of times."
+        },
+        {
+         "key": "B",
+         "text": "has worked for BOAC for 42 years."
+        },
+        {
+         "key": "C",
+         "text": "is enthusiastic about flying."
+        },
+        {
+         "key": "D",
+         "text": "is very experienced."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "stem": "James Stevenson, the owner of Virtual Aviation says",
+       "options": [
+        {
+         "key": "A",
+         "text": "most of their customers are very rich."
+        },
+        {
+         "key": "B",
+         "text": "people book sessions for a variety of reasons."
+        },
+        {
+         "key": "C",
+         "text": "jumbo jet pilots come to receive further training."
+        },
+        {
+         "key": "D",
+         "text": "the company will not accept complete beginners."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article on water shortages in Australia.",
+      "Your task is to fill in the gaps in the sentences (16-22) according to the information in the text.",
+      "Write one word only on the dotted lines."
+     ],
+     "title": "Water shortages, undrinkable tap water, showers rationed: welcome to Australia",
+     "body": [
+      "Once it was Australia’s best grazing land. Now, after four years of drought, the rolling hills around the agricultural city of Goulburn are bleached and lifeless.",
+      "Farmers are unable to keep livestock (sheep or cows), and water rationing has been imposed. The water that dribbles from the tap, dredged from the bottom of an empty reservoir, is considered unfit for human consumption.",
+      "Goulburn, with a population of 22,000, is close to running out of water. Unless there is significant rainfall over the next few weeks, the city’s Pejar Dam, which normally contains nine billion litres of water, will be drained of its last drop. While small Australian communities of a few hundred that have run dry have survived by trucking in water, Goulburn’s thirst for one million gallons a week is too large.",
+      "And as anxious Goulburn residents look to the skies and pray for rain, those living in Sydney, Australia’s largest city, only 125 miles away, are preparing themselves for severe water rationing. Sydney’s main reservoir is already 40 per cent below capacity.",
+      "Australia, the world’s driest continent, is accustomed to emergency measures to prevent the taps from running dry. But even for a nation used to drought, the lack of rain across much of the eastern seaboard is raising serious concerns. For the first time in memory, large urban communities face having no water to drink.",
+      "In Goulburn, a city that owed its prosperity to the livestock trade, the best-known landmark is a statue of a giant Merino sheep. But the agricultural-based economy has been hit hard, with key employers recently ordered to reduce water consumption by 30 per cent. Homes are being allowed to use only 40 gallons (180 litres) of water per resident a day, the equivalent of a ten-minute shower.",
+      "Adding to Goulburn’s concerns are signs of a developing El Nino weather pattern, caused by fluctuations in ocean temperatures, which is believed to worsen drought conditions in Australia.",
+      "Goulburn’s main source of income has traditionally been {{0}}",
+      "There is very little water left in the city's {{16}}.",
+      "If the drought continues, the Pejar Dam will become completely {{17}}.",
+      "If Goulburn was {{18}}, they could use vans and lorries to cart in water.",
+      "If the dry weather continues, the city of {{19}} will experience similar shortages and cuts.",
+      "The long dry spell has mainly affected the {{20}} part of Australia.",
+      "Goulburn’s most famous sight is a huge {{21}}.",
+      "Prospects are worrying because of signs of a dangerous weather {{22}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "agriculture"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "reservoir",
+        "reserves"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "empty",
+        "dry"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "smaller",
+        "small"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "Sydney"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "eastern"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "sheep",
+        "statue",
+        "Merino",
+        "animal",
+        "one"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "pattern",
+        "change",
+        "development",
+        "fluctuation"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this article on new management principles.",
+      "Your task is to match the half sentences that follow so that they correspond to what the article says.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "Teaming with bright ideas",
+     "body": [
+      "Better ways of working together",
+      "Companies are eager these days to emphasise that they are organised around teams. A recent series of advertisements for Microsoft featured teams of employees from the giant software company getting excited about the various projects on which they were working together.",
+      "Headhunters are increasingly being asked to assemble teams of top executives, not merely to find a single high-performing CEO (Chief Executive Officer). And the bosses themselves are expected to be good at putting together teams.",
+      "The speed and efficiency with which effective teams can be brought together to resolve problems is crucial to success in the modern organisation. A recent Harvard Business Review article explains how teamwork within Linux, the software company, managed to build a barrage to protect the system against a virus that had breached a vulnerable spot: “Despite the need for the highest security, a group of some 20 people, scarcely any of whom had ever met, employed by a dozen different companies, living in as many time zones and straying far from their job descriptions, accomplished in about 29 hours what might have taken colleagues under the same roof weeks or months.”",
+      "The authors of the article argue that Linux was more successful at resolving the problem than its more conventionally structured rival Microsoft would have been. They describe the Linux people as “virtuoso practitioners of new work principles that produce energised teams and lower costs.”",
+      "But it is not only geeks in the software industry who have learnt to work in this way. The article says that the management methods of Toyota, the company that invented “lean manufacturing” (the remorseless elimination of waste) resemble the methods employed by the Linux community. One stroke of genius at Toyota was to apply the principles of lean manufacturing to inventory. What could be more wasteful than having shelves piled high with supplies that were not going to be used for weeks or months?",
+      "This gave rise to the “just-in-time” method of stock control. Toyota realised that the best way to make this system work was to allow the workers on the factory floor to control the flow of supplies because they had the information that would keep stocks at their lowest. This forced Toyota to decentralise decision-making and, unlike most Japanese companies, empower its shop-floor workers."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "recently analysed the work of some successful teams around the world."
+      },
+      {
+       "key": "B",
+       "text": "is a more traditionally organised company than its competitor."
+      },
+      {
+       "key": "C",
+       "text": "need good teams rather than just brilliant individuals these days."
+      },
+      {
+       "key": "D",
+       "text": "have recently been given a say in important decisions."
+      },
+      {
+       "key": "E",
+       "text": "are often asked to do more than just look for a suitable individual."
+      },
+      {
+       "key": "F",
+       "text": "is eager to use resources as economically as possible."
+      },
+      {
+       "key": "G",
+       "text": "are a good example because of their communication skills."
+      },
+      {
+       "key": "H",
+       "text": "has been able to solve a difficult problem in a very short time."
+      },
+      {
+       "key": "I",
+       "text": "are often better at problem-solving."
+      },
+      {
+       "key": "K",
+       "text": "have praised this method in their latest annual report."
+      },
+      {
+       "key": "L",
+       "text": "can work faster and more creatively if they are not just cooperating with immediate colleagues."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Companies",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Headhunters",
+       "answer": "E"
+      },
+      {
+       "n": 24,
+       "stem": "Teams",
+       "answer": "I"
+      },
+      {
+       "n": 25,
+       "stem": "Individuals",
+       "answer": "L"
+      },
+      {
+       "n": 26,
+       "stem": "A Harvard Business Review article",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Linux",
+       "answer": "H"
+      },
+      {
+       "n": 28,
+       "stem": "Microsoft",
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "Toyota",
+       "answer": "F"
+      },
+      {
+       "n": 30,
+       "stem": "Workers at Toyota",
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2007-maj-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a four-year-old long distance runner. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "MARATHON BOY FACES RACE BAN",
+     "body": [
+      "A four-year-old Indian boy with amazing running skills has been told he can no {{0}} run marathons because of fears about his health. Child welfare officials became worried about Budhia Singh {{1}} he collapsed before the finish in a recent race; he {{2}} run 65 kilometres (40 miles) in seven hours and two minutes. Medical reports {{3}} he was suffering from severe health problems.",
+      "His coach, Biranchi Das, said: \"A fuss is being {{4}}. He has been running seven hours a day for a year now because {{5}} he knows is how to run, eat and sleep. They knew his capacity to run long distance, {{6}} why is there this fuss about it now?\" But health experts are worried that Budhia could be doing serious damage {{7}} his body by running so long in extreme temperatures. In many countries there are strict rules {{8}} the distances kids are allowed to run.",
+      "The authorities in India say he cannot run again {{9}} further tests are completed. They are going to make sure that if he {{10}} continue to run, his health will be monitored and he will train with a proper athletics coach."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ABOUT"
+      },
+      {
+       "key": "B",
+       "text": "AFTER"
+      },
+      {
+       "key": "C",
+       "text": "ALL"
+      },
+      {
+       "key": "D",
+       "text": "DOES"
+      },
+      {
+       "key": "E",
+       "text": "HAD"
+      },
+      {
+       "key": "F",
+       "text": "HAS"
+      },
+      {
+       "key": "G",
+       "text": "IN"
+      },
+      {
+       "key": "H",
+       "text": "LONGER"
+      },
+      {
+       "key": "I",
+       "text": "MADE"
+      },
+      {
+       "key": "K",
+       "text": "TO"
+      },
+      {
+       "key": "L",
+       "text": "SHOWED"
+      },
+      {
+       "key": "M",
+       "text": "SO"
+      },
+      {
+       "key": "N",
+       "text": "UNTIL"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "H"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "E"
+      },
+      {
+       "n": 3,
+       "answer": "L"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "answer": "M"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "N"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about how a Canadian got a house for a paper clip. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "CANADIAN TRADES PAPER CLIP FOR HOUSE",
+     "body": [
+      "Kyle MacDonald challenged himself. He wanted to see {{0}} far one red paper clip would take him in the game of trading. He began his mission on the trading section of a website {{11}} contains listings and ads in many different areas. In the beginning, MacDonald simply wanted {{12}} better than his paper clip.",
+      "When he returned {{13}} a visit to his hometown, two women traded a fish-shaped pen for his paper clip. The same day he met an artist who {{14}} seen his listing on the Internet and contacted {{15}} to trade. She took the pen, and he left with a smiley face doorknob.",
+      "A man from Massachusetts traded a camping stove for MacDonald’s doorknob. MacDonald traded the camping stove to a Marine sergeant in California and received a generator {{16}} return. However, before he traded the generator, he left it in storage at his hotel. When he returned for it, he discovered the fire department had taken it {{17}} it was leaking gas. He tracked down the generator at a fire station in Manhattan.",
+      "He continued his trading until he earned a snowmobile. After seeing him on a Canadian- based television show, {{18}} snowmobile magazine gave MacDonald a trip to the Canadian mountains, and they took the snowmobile. He swapped the trip for a 1995 van. A musician {{19}} needed the van to carry his equipment gave MacDonald time in a recording studio. A young singer got the recording time, and gave MacDonald a year’s free stay in her duplex house in Phoenix, Arizona.",
+      "Hollywood has offered {{20}} turn his story into a movie, but according to MacDonald the game isn’t over yet."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "how"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "something",
+        "anything",
+        "things",
+        "stuff"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "for",
+        "on",
+        "from",
+        "after"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "him",
+        "Kyle",
+        "McDonald"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "in"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "because",
+        "since",
+        "as"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "a",
+        "some",
+        "one"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "who",
+        "that"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an enormous telephone bill. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (21-28).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "ENORMOUS TELEPHONE BILL",
+     "body": [
+      "A Malaysian man received a telephone bill for $218 trillion {{0}} for a telephone line he had disconnected in January. The bill, which was sent from Telekom Malaysia to Yahaya Wahib, included a request for {{21}} within 10 days for the large amount. Wahib was also threatened with {{22}} if he failed to pay the bill within the period given.",
+      "According to reports, Wahib, who lives in the {{23}} part of Malaysia, had his father's phone disconnected after his {{24}} in January. At that time he paid the outstanding bill. In April he received a further bill from the telephone company telling him he owed $218 trillion for {{25}} made from his father’s phone. Wahib is quoted as saying he {{26}} fainted when he saw the charge against him.",
+      "It is {{27}} whether the bill was a mistake or whether the phone had been {{28}} used over the period. Telekom Malaysia, the country's largest telecommunications company, is said to be looking into the case. Wahib, on the other hand, is ready to face legal action if necessary."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "recent",
+       "example": true,
+       "accept": [
+        "recently"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "pay",
+       "accept": [
+        "payment"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "prosecute",
+       "accept": [
+        "prosecution"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "north",
+       "accept": [
+        "northern"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "die",
+       "accept": [
+        "death"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "call",
+       "accept": [
+        "calls"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "near",
+       "accept": [
+        "nearly"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "clear",
+       "accept": [
+        "unclear"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "illegal",
+       "accept": [
+        "illegally"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about a type of jet-lag. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "SOCIAL JET-LAG",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A report recently released in the UK claims that all over half the",
+       "answer": "all"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "people living there are suffering from jet-lag. This is not the type of",
+       "answer": null
+      },
+      {
+       "n": 29,
+       "text": "jet-lag people refer to when they talking about fatigue after a long",
+       "answer": "they"
+      },
+      {
+       "n": 30,
+       "text": "flight, but would rather jet-lag due to long working hours as well as",
+       "answer": "would"
+      },
+      {
+       "n": 31,
+       "text": "the lack of a daylight.",
+       "answer": "a"
+      },
+      {
+       "n": 32,
+       "text": "According to the report, over 65% of people have been trouble",
+       "answer": "been"
+      },
+      {
+       "n": 33,
+       "text": "sleeping, with a third of people are getting 5 hours' sleep at night.",
+       "answer": "are"
+      },
+      {
+       "n": 34,
+       "text": "Less than 19% get the recommended 8 hours' sleep per night.",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "Scientists have involved in this research believe our natural",
+       "answer": "have"
+      },
+      {
+       "n": 36,
+       "text": "sleep rhythms are not disturbed by our daily routines.",
+       "answer": "not"
+      },
+      {
+       "n": 37,
+       "text": "Approximately 500 of people were questioned about their",
+       "answer": "of"
+      },
+      {
+       "n": 38,
+       "text": "sleeping habits and were categorized into 'larks' or 'night-owls'.",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "It was found that people who spend their days in offices with",
+       "answer": "with"
+      },
+      {
+       "n": 40,
+       "text": "looking at a computer screen were lot more likely to suffer from",
+       "answer": "lot"
+      }
+     ],
+     "outro": "'social jet-lag.'"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2007-maj-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with Nick Park, the famous Oscar-winning British film animator, who created Wallace and Gromit.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_07maj_fl.mp3",
+      "start": 0,
+      "end": 689.52,
+      "clip": "hang/e_angol_07maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Nick introduces ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "himself."
+        },
+        {
+         "key": "B",
+         "text": "his film characters."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Gromit is ... than Wallace.",
+       "options": [
+        {
+         "key": "A",
+         "text": "cleverer"
+        },
+        {
+         "key": "B",
+         "text": "more sensitive"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Nick thinks that Wallace and Gromit are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "not really different from each other."
+        },
+        {
+         "key": "B",
+         "text": "the same character cut into two."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Wallace ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a bit like Nick's father."
+        },
+        {
+         "key": "B",
+         "text": "makes things out of wood."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Nick thinks that ... part of his personality.",
+       "options": [
+        {
+         "key": "A",
+         "text": "Wallace represents the relaxed"
+        },
+        {
+         "key": "B",
+         "text": "Gromit represents the realistic"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Nick ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is usually sure of himself."
+        },
+        {
+         "key": "B",
+         "text": "tends to feel sorry for himself."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "One second of a film consists of twenty-five ....",
+       "options": [
+        {
+         "key": "A",
+         "text": "pictures."
+        },
+        {
+         "key": "B",
+         "text": "frames."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Nick ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "completes more than four seconds of a film a day if his characters don't talk."
+        },
+        {
+         "key": "B",
+         "text": "insists on including lots of dialogues in his films."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you are going to hear an interview with the famous American architect, Julia Turner, who designed some of the world's tallest buildings.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_07maj_fl.mp3",
+      "start": 689.52,
+      "end": 1233.97,
+      "clip": "hang/e_angol_07maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The lecture Ms Turner had given in Washington was a huge success.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "It was her husband who told her about the attack.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "She saw the second plane hitting the World Trade Center on TV.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "She had to visit her psychiatrist because after the terrorist attack she was disturbed.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "She thinks that without the World Trade Center, downtown Manhattan looks nicer.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "She has written a letter to the Congress about her plans.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "She welcomes the change that downtown Manhattan is becoming a working and living place as well.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "She thinks that after the World Trade Center tragedy, people will never want to build very tall buildings.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "She says that she cannot understand people who commit such crimes.",
+       "answer": "B",
+       "alt": [
+        "C"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "There are some people who would like to rebuild the original buildings.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "In her opinion, it wouldn't be appropriate to put up buildings at the site where the World Trade Center used to be.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear some facts about Elvis Presley, the famous American rock'n'roll singer.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_07maj_fl.mp3",
+      "start": 1233.97,
+      "end": 1796.29,
+      "clip": "hang/e_angol_07maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Elvis was born in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "1930."
+        },
+        {
+         "key": "B",
+         "text": "1935."
+        },
+        {
+         "key": "C",
+         "text": "1939."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Elvis's family ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "loved travelling around Mississipi."
+        },
+        {
+         "key": "B",
+         "text": "was always unemployed."
+        },
+        {
+         "key": "C",
+         "text": "had to move from one place to another."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "Elvis's father ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was very close to his child."
+        },
+        {
+         "key": "B",
+         "text": "spent some time in jail."
+        },
+        {
+         "key": "C",
+         "text": "was overprotective of his son."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Elvis's mother, Gladys ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "didn't think good mannners were important."
+        },
+        {
+         "key": "B",
+         "text": "showed respect to everybody."
+        },
+        {
+         "key": "C",
+         "text": "made Elvis think he was unique."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Elvis was ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "reserved."
+        },
+        {
+         "key": "B",
+         "text": "easy-going."
+        },
+        {
+         "key": "C",
+         "text": "confident."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Elvis learned to play the piano ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "from a teacher."
+        },
+        {
+         "key": "B",
+         "text": "by himself."
+        },
+        {
+         "key": "C",
+         "text": "from friends."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Elvis was ten, when he won the ... place in a singing competition.",
+       "options": [
+        {
+         "key": "A",
+         "text": "first"
+        },
+        {
+         "key": "B",
+         "text": "second"
+        },
+        {
+         "key": "C",
+         "text": "third"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "In Memphis, Elvis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "started to sing like a gospel singer."
+        },
+        {
+         "key": "B",
+         "text": "stopped playing the blues."
+        },
+        {
+         "key": "C",
+         "text": "watched how the black singers moved."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Originally, Elvis wanted to become a ... singer.",
+       "options": [
+        {
+         "key": "A",
+         "text": "gospel"
+        },
+        {
+         "key": "B",
+         "text": "rockabilly"
+        },
+        {
+         "key": "C",
+         "text": "rock'n'roll"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

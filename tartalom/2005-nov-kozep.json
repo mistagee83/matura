@@ -1,0 +1,1455 @@
+{
+ "formatVersion": 1,
+ "id": "2005-nov-kozep",
+ "year": 2005,
+ "session": "november",
+ "level": "közép",
+ "examDate": "2005-11-04",
+ "code": "0521",
+ "sourceFiles": {
+  "paper": "2005. Hagyományos október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_05nov_fl.pdf",
+  "key": "2005. Hagyományos október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_05nov_ut.pdf",
+  "audio": "2005. Hagyományos október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_05nov_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2005-nov-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "Read this text about important things to think about before getting a pet.",
+      "All the headings have been removed.",
+      "Your task is to match the headings and the paragraphs, and to put the letters in the boxes as shown in the example.",
+      "There is one extra letter that you do not need."
+     ],
+     "title": "ADOPTING A PET",
+     "body": [
+      "There are many things to think about when you bring a pet into your life. The following questions can help you:",
+      "{{0}} Do you have a busy lifestyle? Do you have many responsibilities? Do you spend a lot of time at home or are you frequently away?",
+      "{{1}} Will they get along with your new pet?",
+      "{{2}} Do you want a calm, slow-moving pet or an active one? Do you like going for regular walks?",
+      "{{3}} Do you have room for a new pet? Does the landlord limit the number or kind of pets you can keep?",
+      "{{4}} There are basic expenses that must be considered. Pet food and toys, as well as license fees can add up. It can be more costly if your pet has an unexpected injury or illness.",
+      "{{5}} Would that person be ready to take allergy shots? If you are not sure, spend some time with the animal in a small, closed area to make sure that allergies will not be a problem.",
+      "{{6}} When a pet is brought into a new home, he needs time to get used to the place. It can take up to several months for your pet to become comfortable in his new environment. Can you be patient, forgiving and loving?",
+      "Don’t forget that while there are plenty of places where you can get a pet, animal shelters are a great place to start. You will be saving a new best friend who really needs you."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Can you afford a pet?"
+      },
+      {
+       "key": "B",
+       "text": "What kind of energy level are you looking for in a pet?"
+      },
+      {
+       "key": "C",
+       "text": "Is there a vet in your neighbourhood?"
+      },
+      {
+       "key": "D",
+       "text": "Do you or does anyone in your family suffer from allergies?"
+      },
+      {
+       "key": "E",
+       "text": "Do you have enough patience?"
+      },
+      {
+       "key": "F",
+       "text": "Do you have time for a pet?"
+      },
+      {
+       "key": "G",
+       "text": "Have you considered the other pets in your home?"
+      },
+      {
+       "key": "H",
+       "text": "Are you allowed to have a pet in your home?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "F"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this advice on how to use the mobile phone in public.",
+      "Your task is to complete the text from the list following it.",
+      "There is an extra letter you do not need.",
+      "Write the letters in the boxes as shown in the example."
+     ],
+     "title": "MOBILE PHONE ETIQUETTE",
+     "body": [
+      "Use your mobile phone the polite way and set an example for others with these helpful guidelines:",
+      "Respect the people around you when you make or take calls in public. You can also be polite to the people with you by asking their permission to {{0}} If you care about who you are communicating with, {{7}} Use your phone's vibra feature in public places, such as business meetings, schools, restaurants, theaters or sporting events. If you're expecting a call, {{8}} When it's a bad time or place to take a call, for example while you're in a meeting or at a performance, {{9}} Don’t start talking, until you are {{10}} Keep your conversations {{11}}",
+      "Use your cell phone to help others. More than 100,000 calls a day are made to 911 and other emergency numbers by mobile phone users who {{12}} Some places, such as hospitals or airplanes, do not allow the use of mobile phones, so {{13}} Tell your friends and family members that you are practicing new wireless phone etiquette rules and discuss cell phone rules with them."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "find a good location to talk."
+      },
+      {
+       "key": "B",
+       "text": "at least 10 to 15 feet away from others."
+      },
+      {
+       "key": "C",
+       "text": "leave the room."
+      },
+      {
+       "key": "D",
+       "text": "keep the phone in your bag."
+      },
+      {
+       "key": "E",
+       "text": "turn your phone off."
+      },
+      {
+       "key": "F",
+       "text": "report crimes and emergencies."
+      },
+      {
+       "key": "G",
+       "text": "follow posted signs and instructions."
+      },
+      {
+       "key": "H",
+       "text": "quiet and brief."
+      },
+      {
+       "key": "I",
+       "text": "make or take a call."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read the following text about the story of a popular kind of ice-lolly.",
+      "Your task is to put the jumbled sentences in the correct order and write the letters in the boxes as shown in the example."
+     ],
+     "title": "POPSICLE",
+     "body": [
+      "Fascinating facts about the invention of the Popsicle by Frank Epperson in 1905 Frank Epperson, a then eleven-year-old, invented the Popsicle and the invention was accidental.",
+      "{{0}}",
+      "{{14}}",
+      "{{15}}\nEighteen years later - in 1923 - Frank Epperson remembered his frozen soda water mixture and began a business which produced \"Epsicles\" in seven fruit flavors.",
+      "{{16}}",
+      "{{17}}\nThere are more than thirty different flavors to choose from, but Popsicle Industries says that for many years the favorite flavor has remained \"taste-tingling orange\".",
+      "{{18}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "The temperature dropped to a record low that night and the next day Frank had a stick of frozen soda water to show his friends at school."
+      },
+      {
+       "key": "B",
+       "text": "He left the mixture on the back porch overnight with the stirring stick still in it."
+      },
+      {
+       "key": "C",
+       "text": "One day Frank mixed some soda water powder and water, which was a popular drink in those days."
+      },
+      {
+       "key": "D",
+       "text": "One estimate says three million Popsicle ice lollies are sold each year."
+      },
+      {
+       "key": "E",
+       "text": "Epperson realized the commercial possibilities of his invention, and by 1928 he had earned a lot of money by selling more than 60 million Popsicle ice pops."
+      },
+      {
+       "key": "F",
+       "text": "The name was later changed to \"Popsicle\"."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "F"
+      },
+      {
+       "n": 17,
+       "answer": "E"
+      },
+      {
+       "n": 18,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article about rock festivals in the UK.",
+      "Then read the statements below and decide if they correspond to what the article says.",
+      "If a statement says THE SAME as the article, mark it A",
+      "If what a statement says is DIFFERENT from what the article says, mark it B",
+      "If a statement says something that is NOT MENTIONED in the article, mark it C. Write the letters in the white boxes as shown in the example."
+     ],
+     "title": "HOW FESTIVALS CAPTURED SUMMER",
+     "body": [
+      "When 34-year-old Somerset farmer Michael Eavis started the first Glastonbury Festival in 1970 - with free milk for every festival-goer – he didn’t really know what he had started.",
+      "Glastonbury was not the first or biggest rock festival in Britain's fields. But it was the event that kickstarted the UK's love affair with outdoor music events.",
+      "From metal fans to clubbing mums, from loud students to fans of alternative culture, there seems to be something for everyone.",
+      "Glastonbury 'catalyst' Glastonbury had a reputation for poor security - which allowed thousands of festival-goers to see the event for free by jumping the fence - until there was a one-year break in 2001.",
+      "Then the organisers got that super-fence in 2002, which means if you buy a ticket now for Glastonbury that's the only way you can get in. You can't just waltz in like people could in the past.",
+      "24-hour sell-out By 2003 festivals had become very popular. Sir Richard Branson's Virgin brand had started the V festival in 1996. It was so successful that some years later a similar one was organised in Reading and also in Leeds.",
+      "\"We put our tickets on sale at 2004 prices just after last year's event, and we sold a third of them immediately,\" says organiser Geoff Ellis. \"Then in February we put the rest of the tickets on sale, and were the first UK festival to sell out four days later,\" he says.",
+      "\"Maybe some years ago dance culture was bigger, but now people seem to have gone back to guitar music and rock music,\" he adds.",
+      "Festival 'holiday' The need for festivals comes as people's lifestyles change, he believes.",
+      "\"When I started going to festivals in the early 1970s, the idea that someone as old as 22 or 23 would go to a festival was strange. People that age were preparing to get married and buy a house.",
+      "\"A festival has become almost like a holiday. Instead of going away to Spain for two weeks, people are taking some of their holiday and taking five days off for Glastonbury or Reading.\""
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Glastonbury festival was not started by a musician.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "People could drink milk at the first Glastonbury festival and they didn’t have to pay for it.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "There had never been an outdoor rock festival in Britain before.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Only teenagers are interested in these festivals.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "During the first Glastonbury festival the weather was perfect.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "There wasn’t a festival in Glastonbury in 2001.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "You can only get into the festival area through the gates.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "They started selling tickets for the 2005 festival in 2004.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "In the 70s people aged 22-23 often went to concerts.",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "Festivals are held in Reading too.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2005-nov-kozep-L1",
+     "number": 1,
+     "kind": "order",
+     "layout": "stems",
+     "examType": "összekevert szavak mondattá rendezése",
+     "points": 7,
+     "instructions": [
+      "The words in the sentences below are jumbled up.",
+      "Your task is to form the correct sentences and write them on the dotted lines. The first word is there for you.",
+      "You have to use each word.",
+      "Do not change the form of the words."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "first": "Next",
+       "words": [
+        "summer",
+        "we",
+        "London",
+        "going",
+        "are",
+        "visit",
+        "to"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "summer",
+         "we",
+         "are",
+         "going",
+         "to",
+         "visit",
+         "London"
+        ]
+       ],
+       "example": true
+      },
+      {
+       "n": 1,
+       "first": "English",
+       "words": [
+        "is",
+        "world",
+        "spoken",
+        "over",
+        "all",
+        "the"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "is",
+         "spoken",
+         "all",
+         "over",
+         "the",
+         "world"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "first": "Why",
+       "words": [
+        "bus",
+        "don’t",
+        "the",
+        "take",
+        "we"
+       ],
+       "end": "?",
+       "accept": [
+        [
+         "don’t",
+         "we",
+         "take",
+         "the",
+         "bus"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "first": "They",
+       "words": [
+        "excursion",
+        "cancelled",
+        "haven’t",
+        "the"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "haven’t",
+         "cancelled",
+         "the",
+         "excursion"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "first": "Amy",
+       "words": [
+        "decide",
+        "dinner",
+        "what",
+        "couldn’t",
+        "for",
+        "cook",
+        "to"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "couldn’t",
+         "decide",
+         "what",
+         "to",
+         "cook",
+         "for",
+         "dinner"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "first": "He",
+       "words": [
+        "about",
+        "very",
+        "is",
+        "new",
+        "job",
+        "excited",
+        "his"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "is",
+         "very",
+         "excited",
+         "about",
+         "his",
+         "new",
+         "job"
+        ],
+        [
+         "is",
+         "excited",
+         "about",
+         "his",
+         "very",
+         "new",
+         "job"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "first": "This",
+       "words": [
+        "where",
+        "ago",
+        "is",
+        "years",
+        "lived",
+        "the",
+        "twenty",
+        "I",
+        "house"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "is",
+         "the",
+         "house",
+         "where",
+         "I",
+         "lived",
+         "twenty",
+         "years",
+         "ago"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "first": "Don’t",
+       "words": [
+        "tell",
+        "do",
+        "me",
+        "job",
+        "to",
+        "my",
+        "how"
+       ],
+       "end": "!",
+       "accept": [
+        [
+         "tell",
+         "me",
+         "how",
+         "to",
+         "do",
+         "my",
+         "job"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a reader’s letter to a magazine. Some words are missing from the text.",
+      "Choose the most appropriate option (A-D) for each gap (8-17) in the text."
+     ],
+     "title": "DO HUSBANDS EVER GROW UP?",
+     "body": [
+      "I sometimes feel my husband, Ken is just a big child. He {{0}} always walked too fast, often {{8}} me behind. One day we {{9}} walking home from shopping. Crossing a busy road, he said: “Let’s go together.” He then {{10}} behind his back for my hand and marched {{11}} the road. He realised only on the other side that, {{12}} me, he’d grabbed hold of a punk-rock girl, accompanied by a boy with orange and pink hair and black makeup around his eyes.",
+      "Then this is {{13}} happened last Friday. I asked him {{14}} a number-seven sticker – our house number – so I could put it on our dustbin. He came back {{15}} one. He said they’d sold out. “I thought about buying a number three and a number four, {{16}} they add up to seven,” he said. “But I thought you’d tell me off for spending twice {{17}} much money.”",
+      "Well, you really need to be patient with men.",
+      "Pam Entwistle, Bristol"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "has been"
+        },
+        {
+         "key": "B",
+         "text": "has"
+        },
+        {
+         "key": "C",
+         "text": "had"
+        },
+        {
+         "key": "D",
+         "text": "would have"
+        }
+       ],
+       "example": true,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "living"
+        },
+        {
+         "key": "B",
+         "text": "letting"
+        },
+        {
+         "key": "C",
+         "text": "leaving"
+        },
+        {
+         "key": "D",
+         "text": "losing"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "could"
+        },
+        {
+         "key": "B",
+         "text": "had"
+        },
+        {
+         "key": "C",
+         "text": "were"
+        },
+        {
+         "key": "D",
+         "text": "did"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "reached"
+        },
+        {
+         "key": "B",
+         "text": "has reached"
+        },
+        {
+         "key": "C",
+         "text": "would reach"
+        },
+        {
+         "key": "D",
+         "text": "could reach"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "past"
+        },
+        {
+         "key": "B",
+         "text": "through"
+        },
+        {
+         "key": "C",
+         "text": "by"
+        },
+        {
+         "key": "D",
+         "text": "across"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "in spite of"
+        },
+        {
+         "key": "B",
+         "text": "instead of"
+        },
+        {
+         "key": "C",
+         "text": "including"
+        },
+        {
+         "key": "D",
+         "text": "in front of"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "how"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "that"
+        },
+        {
+         "key": "D",
+         "text": "why"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "should buy"
+        },
+        {
+         "key": "B",
+         "text": "buying"
+        },
+        {
+         "key": "C",
+         "text": "to buy"
+        },
+        {
+         "key": "D",
+         "text": "buy"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "without"
+        },
+        {
+         "key": "C",
+         "text": "less"
+        },
+        {
+         "key": "D",
+         "text": "with"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "which"
+        },
+        {
+         "key": "B",
+         "text": "though"
+        },
+        {
+         "key": "C",
+         "text": "but"
+        },
+        {
+         "key": "D",
+         "text": "as"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "than"
+        },
+        {
+         "key": "B",
+         "text": "as"
+        },
+        {
+         "key": "C",
+         "text": "so"
+        },
+        {
+         "key": "D",
+         "text": "more"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read a short article about the traditional British Cheese Roll. Some words are missing from the text.",
+      "Your task is to write the missing words – one word for each gap - on the dotted lines (18-25) after the text."
+     ],
+     "title": "CHEESE ROLL ENDS WITH INJURIES",
+     "body": [
+      "In Britain, {{0}} than 20 people have been injured in an annual cheese-chasing contest. Officials say that’s actually good news, {{18}} usually more people get hurt.",
+      "The annual British event involves chasing a cheese wheel down a hill. The contest {{19}} place outside of Gloucestershire. The contestants have {{20}} follow an eight-pound roll of cheese down a steep hill. People hurl themselves down the hill, trying to be {{21}} first to cross the finish line after the cheese. They often end up tumbling head over heels.",
+      "This year, three people went to hospital {{22}} fractured arms or legs and 18 others {{23}} treated for cuts and bruises.",
+      "That is the cost {{24}} victory, apparently. {{25}} of this year’s contestants left on a stretcher, clutching his cheese to his chest."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "more"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "because",
+        "as",
+        "since",
+        "for"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "takes"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "were",
+        "got"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "one"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2005-nov-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a joke.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_05nov_fl.mp3",
+      "start": 0,
+      "end": 589.01,
+      "clip": "hang/k_angol_05nov_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What three nationalities are mentioned in the introduction to the joke?",
+       "options": [
+        {
+         "key": "A",
+         "text": "The Scottish, the English and the Irish."
+        },
+        {
+         "key": "B",
+         "text": "The Scottish, the Welsh and the Irish."
+        },
+        {
+         "key": "C",
+         "text": "The English, the Scottish and the Americans."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "How many customers are there in the pub at the beginning of the story?",
+       "options": [
+        {
+         "key": "A",
+         "text": "2"
+        },
+        {
+         "key": "B",
+         "text": "3"
+        },
+        {
+         "key": "C",
+         "text": "4"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "What do the two men first drink to?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Their country."
+        },
+        {
+         "key": "B",
+         "text": "Their hometown."
+        },
+        {
+         "key": "C",
+         "text": "Nothing special."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "What do they drink to when they drink their second round?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Their country."
+        },
+        {
+         "key": "B",
+         "text": "Their hometown."
+        },
+        {
+         "key": "C",
+         "text": "Nothing special."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "What do they drink to when they drink their third round?",
+       "options": [
+        {
+         "key": "A",
+         "text": "Their country."
+        },
+        {
+         "key": "B",
+         "text": "Their hometown."
+        },
+        {
+         "key": "C",
+         "text": "Nothing special."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "When did they graduate?",
+       "options": [
+        {
+         "key": "A",
+         "text": "In ’60."
+        },
+        {
+         "key": "B",
+         "text": "In ’62."
+        },
+        {
+         "key": "C",
+         "text": "In ’61."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "How many people are there in the pub at the end of the story?",
+       "options": [
+        {
+         "key": "A",
+         "text": "2"
+        },
+        {
+         "key": "B",
+         "text": "3"
+        },
+        {
+         "key": "C",
+         "text": "4"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "What’s funny about this story?",
+       "options": [
+        {
+         "key": "A",
+         "text": "That the two men are drunk."
+        },
+        {
+         "key": "B",
+         "text": "That the two men are brothers."
+        },
+        {
+         "key": "C",
+         "text": "That the two men are Irish."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 6,
+     "instructions": [
+      "In this section you are going to hear a short news report.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_05nov_fl.mp3",
+      "start": 589.01,
+      "end": 983.52,
+      "clip": "hang/k_angol_05nov_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Where does the report come from? {{gap}}",
+       "accept": [
+        "Hungary"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "How many people’s features were studied during the research? {{gap}}",
+       "key": "hundreds of thousands (of people)",
+       "keywords": [
+        [
+         "hundreds",
+         "thousands"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What other country was involved in the project? {{gap}}",
+       "key": "Canada",
+       "keywords": [
+        [
+         "canada"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Whose characteristics has the team of researchers defined? {{gap}}",
+       "key": "(the) average human being",
+       "keywords": [
+        [
+         "average",
+         "human",
+         "being"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "How many different features of a person were registered during the research? {{gap}}",
+       "key": "one hundred/100 (features)",
+       "keywords": [
+        [
+         "one",
+         "hundred"
+        ],
+        [
+         "100"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "What exactly does the “unisex human phantom” weigh? {{gap}}",
+       "key": "64.58 kilos",
+       "keywords": [
+        [
+         "64",
+         "58",
+         "kilos"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "How tall is the “unisex human phantom”? {{gap}}",
+       "key": "170.18 centimetres/cms",
+       "keywords": [
+        [
+         "170",
+         "18",
+         "centimetres"
+        ],
+        [
+         "170",
+         "18",
+         "cms"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2005-nov-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 12,
+     "instructions": [
+      "In this section you are going to hear three short news reports.",
+      "Your task is to fill in the gaps in the sentences below with one or two words.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_05nov_fl.mp3",
+      "start": 983.52,
+      "end": 1690.19,
+      "clip": "hang/k_angol_05nov_fl_H3.mp3"
+     },
+     "body": [
+      "The time is {{0}} to seven. The French Secret Service has arrested four {{14}} and has seized some chemicals at a flat in a {{15}} of Paris. The group has been linked to three people who have been accused of plotting a {{16}} on the London Underground. One of the papers says that British MI5 {{17}} played a crucial role in helping the French Secret Service track down the criminals.",
+      "The second story is from Spain, where the Interior Ministry has set up special hit squads to tackle organised gangs of {{18}}. The paper says that the country’s {{19}} train – the AVE – has been targeted by groups which may consist of as many as 20 people. They travel on the train, and at an appointed time pull the {{20}} cord, and when the train has stopped they leap out and {{21}} each other spray-painting the carriages before running off.",
+      "The third report is about the growing number of {{22}} women in Britain, which has doubled in the past 30 years. Among the advantages of adopting the Bridget Jones lifestyle, The Times lists things such as “no {{23}}",
+      "for the bathroom, no {{24}} about choosing TV channels and fewer domestic rows”. The paper says that if the current trend continues, everybody will be living {{25}} by 2050."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "A második és harmadik feladatoknál a javítás fő szempontja az, hogy a tanuló ki tudta- e emelni a szövegből a kérdezett információt vagy sem. Ezért a megoldások elbírálásánál ragaszkodnunk kell azokhoz a jelentésekhez, amelyeket szövegben elhangzott szavak hordoznak. Ennek megfelelően nem fogadhatnánk el például a suburb szó helyett a nem azonos jelentésű *district szót, de megelégedhetnénk a rows szinonímával a szöveg szerinti arguments helyett vagy a jelentésében egyenértékű suspected terrorists megoldással a szó szerinti terrorist suspects helyett. A harmadik feladatnál – mivel mondatkiegészítésről van szó – elvileg csak olyan csak olyan megoldásokat fogadhatnánk el, amelyek hibátlanul illeszkednek a megadott mondatokba. A többes szám elmaradását azonban mégis toleráljuk – mintegy úgy felfogva a hibát, mintha helyesírási hiba lenne. Így például elfogadhatjuk a graffiti artists helyett a *graffiti artist, a queues helyett a *queue vagy az arguments helyett az *argument alakokat is. Azoknál az itemeknél, ahol a kért információ jellege és/vagy a feladatlap tipográfiája két vagy több szó beírását követeli meg, csak a teljes megoldás fogadható el. Így nem tekinthetjük helyesnek a harmadik feladatban azt, ha a kért (és a feladatlapon tipográfiailag is jelölt) terrorist suspects helyett csak *suspects, gas attack helyett *attack vagy high-speed helyett csak *speed szerepel a megoldásban. Bár a második feladat esetében ezt a feladatlap külön nem jelöli, értelmileg hiányos, és ezért nem elfogadható például a the average human being helyett az, hogy *human being, a hundreds of thousands (of people) helyett a *thousands (of people) vagy a 170.18 centimetres/cms helyett az, hogy *170.18."
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "sixteen minutes"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "terrorist suspects",
+        "suspected terrorists"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "suburb"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "gas attack"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "agents"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "graffiti artists",
+        "commando artists"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "high-speed",
+        "highspeed"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "emergency"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "film",
+        "video"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "single"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "queues"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "arguments",
+        "rows"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "alone"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

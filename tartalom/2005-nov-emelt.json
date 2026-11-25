@@ -1,0 +1,1688 @@
+{
+ "formatVersion": 1,
+ "id": "2005-nov-emelt",
+ "year": 2005,
+ "session": "november",
+ "level": "emelt",
+ "examDate": "2005-11-04",
+ "code": "0521",
+ "sourceFiles": {
+  "paper": "2005. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_05nov_fl.pdf",
+  "key": "2005. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_05nov_ut.pdf",
+  "audio": "2005. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_05nov_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2005-nov-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this passage on water traffic in Venice.",
+      "In the statements that follow the text some words have been left out.",
+      "Your task is to fill in the gaps with maximum two words according to the information in the text."
+     ],
+     "title": "Gondoliers cut up rough on regatta",
+     "body": [
+      "Gondoliers have threatened to block Venice’s most popular pageant, the regatta parade down the Grand Canal, in protest at powerful waves from motorised boats that they claim the local authorities are doing nothing to stop.",
+      "The gondoliers complain that their frail vessels cannot stand the buffeting from an increase in traffic ranging from the vaporetti water buses to taxis, tour boats and private launches.",
+      "Roberto Luppi, president of the main gondoliers’ association, is canvassing his colleagues on a plan to halt the regatta, which is held every year on the first Sunday in September and is broadcast live on Italian television. It begins with a procession of richly decorated historic boats and is followed by two-oar “gondolini” craft rowed by expert oarsmen.",
+      "“All it would take is 300 or 400 gondolas and the whole regatta would be forced to a stop. We have to make ourselves heard, not just as gondoliers but as Venetians who defend their city,” Luppi said.",
+      "The debate has been going on for decades. The number of taxis has soared since the 1960s and more recently larger boats – in addition to the regular water buses – have been allowed to carry up to 100 day-trippers from hotels and camp sites on the mainland into the heart of Venice.",
+      "As they disgorge their passengers they have to keep their engines revving at higher speeds than regulations permit or be pushed away from the landing stage, and this creates more turbulence.",
+      "Some gondoliers have developed hernias straining to keep their craft upright or to keep them from crashing into a quay. The gondolas, which used to last up to 25 years, now have a lifespan nearer 15 years.",
+      "The gondoliers want traffic police drafted in to impose speed limits and to catch boatmen ignoring one-way signs. But Paolo Costa, the mayor, argues that he is already cracking down on reckless navigation by putting up new signs, deploying more speed traps and impounding more boats.",
+      "The regatta in Venice is in danger of being stopped by {{0}}",
+      "The gondoliers think that the {{1}} should do more to protect them from motorised traffic.",
+      "Roberto Luppi claims their plan to stop the regatta would not just be for themselves but also for {{2}}.",
+      "There are many more {{3}}and large boats than some forty or fifty years ago.",
+      "Larger boats must keep revving their engines while waiting at {{4}}.",
+      "There is a danger of gondolas being knocked over by the {{5}} caused by these boats.",
+      "The police should stop reckless driving and ensure that drivers follow the {{6}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "gondoliers"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "local authorities",
+        "authorities",
+        "police"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "the city",
+        "the town",
+        "their city",
+        "their town",
+        "Venice"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "water taxis",
+        "taxis"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "landing stages"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "turbulence",
+        "waves"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "one-way signs",
+        "rules",
+        "regulations"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "állítások párosítása szövegrészekhez",
+     "points": 8,
+     "instructions": [
+      "Read these passages from a daily paper and then read the statements following them.",
+      "Your task is to decide which passages the statements refer to.",
+      "Write the appropriate letters in the white boxes as in the example.",
+      "Remember that some letters may be needed twice."
+     ],
+     "title": "Do you believe in alternative medicine?",
+     "body": [
+      "A) As a physicist I accept the importance of finding out how things work. As a patient, my perspective is different. Some years ago, suffering from the after- effects of shingles, I went back to my GP for stronger painkillers; he offered me acupuncture and this improved my condition about 50 per cent. Further treatments completed the cure.",
+      "B) For more than four years I have suffered from a chronic catarrh and sinus problem. My doctor prescribed several rounds of antibiotics, which had no effect. I grew increasingly intolerant of foods containing dairy and wheat products. I then had two rounds of surgery, neither of which made the slightest difference. In April I booked a session in a natural therapy spa, described my symptoms and had a diagnosis with a candida infection. I was put on a strict anti-fungal diet, supported by homeopathic treatments. In less than three months my catarrh massively reduced and I have been able to reintroduce wheat into my di",
+      "C) I am a fully qualified holistic therapist and feel insulted by the term “alternative medicine”. I consider alternative medicine to refer to Chinese herbs and other concoctions. Complementary therapies – which include reflexology, massage and meditation – are becoming more accepted by the medical profession. These treatments can now be found in hospices and doctors’ surgeries.",
+      "D) I read with interest the article by Professor Raymond Tallis, in which he said that alternative therapies have no basis in science. Does this mean that unless science, as we know it today, is unable to qualify the reasons for a turnaround in an individual’s symptoms then, scientifically, no improvement occurred? I would agree that conventional medicine cannot be disregarded. But I suffered from a serious disease for 34 years, and it was alternative medicine that caused it to regress. Now I",
+      "E) There is no such thing as alternative medicine. There are alternative treatments, but these are not medicine, which is based on empirical knowledge. Alternative medicines do not pass scrutiny, and it is therefore unhelpful even to use this term. Of course, it suits the practitioner to be called alternative consultants, because that gives them a false legitimacy and equivalence with medical practitioners.",
+      "F) I know many homeopaths, herbalists and acupuncturists who are minting money from this unregulated profession and causing unnecessary harm to the public. It is time the Government regulated alternative medicine."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      },
+      {
+       "key": "E",
+       "text": ""
+      },
+      {
+       "key": "F",
+       "text": ""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This letter was written by a scientist but gives a patient’s viewpoint.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "This person objects to the term ‘alternative’ which has negative connotations and suggests that another name should be used.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "In this particular case the family doctor used an alternative therapy when conventional therapy wasn’t effective enough.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "This person respects conventional medicine but questions the view that alternative medicine should be rejected on scientific grounds.",
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "stem": "Physicians and surgeons were unable to cure this person.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Stricter laws would be needed to protect people from bogus practitioners.",
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "stem": "The writer of this letter says ‘alternative medicine’ doesn’t deserve the name ‘medicine’.",
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "stem": "Many alternative practitioners are interested only in financial gain.",
+       "answer": "F"
+      },
+      {
+       "n": 14,
+       "stem": "Conventional medicine does not reject all forms of holistic medicine.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 6,
+     "instructions": [
+      "Read this passage about a new type of charity work, and then read the statements following it.",
+      "Your task is to decide if the statements correspond to what the article says.",
+      "If they say the same as the article, mark them A.",
+      "If they say something different, mark them B.",
+      "If what they say is not mentioned in the article, mark them C. Write the letters in the white boxes. There is an example for you."
+     ],
+     "title": "Executives volunteer their hard-nosed business skills",
+     "body": [
+      "Entrepreneurs, top executives and City professionals are paying £1,000 a year for the privilege of being a member of the Pilotlight Club, a charity that matches talented businesspeople with small charities that need their particular skills and expertise.",
+      "The club, which has 100 members, was started on 16 June 2003 by Jane Tewson, one of the co-founders of Comic Relief, to harness the business skills of volunteers to help 12 promising charities, both new and established.",
+      "The minimum effort required from members is just two hours’ voluntary work a month, which appeals to busy executives who want to give more than money but cannot make an open-ended commitment.",
+      "This was ideal for Garret Turley, a 36-year-old vet who bought his first surgery with a friend in 1998. Now their Pet Doctors chain comprises 23 surgeries around the South East, and turned over £9 million last year.",
+      "“I wanted to help people who hadn’t had the same good fortune as myself, but I didn’t want to spend Saturday afternoons shaking a box collecting money outside Sainsbury’s,” he says. “This is flexible, you can be upfront about what you can and can’t do, and it’s focused. You’re going in, doing a job and getting out.“ Sam Berwick, 43, who is a managing director of Mizuho International, the investment banking arm of Japan’s biggest bank, agrees: “Pilotlight gave me an opportunity to make more than a financial difference.”",
+      "Pilotlight’s charities are as varied as the executives working for them. For example, Headway helps young men with acquired brain injuries to readjust to family and working life, while the TreeHouse Trust educates children with autism. Praxis works with refugees, asylum seekers and migrants.",
+      "Pilotlight carefully matches its volunteers to the charity they can best assist after a thorough assessment of the charity’s needs. Fiona Halton, the managing director of Pilotlight, estimates that the volunteers have given more than £100,000 in professional advice over the past year."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In return for an annual fee, Pilotlight Club finds its members some unpaid work.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Pilotlight wants members to work for two hours or more every month.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Being a busy man, Garret Turley finds the terms of the club suit him.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "His friend and Pet Doctors partner is more interested in money than he is.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Being a banker, Sam Berwick wants to help people by giving them money.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Praxis helps people, often from developing countries, who want to live and work in Britain.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Over the past year Pilotlight volunteers have donated a huge sum of money (over £100,000) to various charities.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "In this passage on budget flights some words have been left out.",
+      "Your task is to fill in the gaps from the list below the text.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "The end of the 99p come-on?",
+     "body": [
+      "Ryanair has been warned that it could face court action if it persists in misleading customers with promotions such as its current one, which claims to have flights for 99p although the actual return fair, {{0}} can be as much as £63.85. Last week, the Trading Standards Institute (www.tradingstandards.gov.uk) pledged that, in future, it would {{21}} all mandatory fees in the headline website prices. If any carrier fails to do so, it could {{22}}, face unlimited fines and be forced to comply.",
+      "Usually, the TSI acts only on customer complaint but, in this case, it intends to {{23}} itself because it believes this is such a serious national problem. It has said that no-frills carriers such as Ryanair and EasyJet will {{24}}. “This practice has got to stop. Customers want transparency and they are not {{25}}. It is time they stopped misleading the public,” said the TSI. It is also {{26}} who feel they have been duped on pricing to contact their local trading standards office.",
+      "Although it does not name Ryanair, the TSI cited as an example of {{27}} a recent offer of “one million seats from 99p”. It claims that, in one instance, by the time compulsory charges were added, the fare ended up costing £63.85.",
+      "Ryanair countered: “They are obviously {{28}} our promotion. There is no way prices were up to £63.85 – the maximum we could find was £16.74. We don’t believe we are misleading anyone and are not going to {{29}} that puts us at a competitive disadvantage.” What Ryanair fails to mention is that the 99p deals may only {{30}} one way. To get back home might cost you considerably more."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "be available"
+      },
+      {
+       "key": "B",
+       "text": "be taken to court"
+      },
+      {
+       "key": "C",
+       "text": "come under particular scrutiny"
+      },
+      {
+       "key": "D",
+       "text": "do anything"
+      },
+      {
+       "key": "E",
+       "text": "force airlines to include"
+      },
+      {
+       "key": "F",
+       "text": "getting it from airlines"
+      },
+      {
+       "key": "G",
+       "text": "including taxes and charges"
+      },
+      {
+       "key": "H",
+       "text": "leaving passengers to"
+      },
+      {
+       "key": "I",
+       "text": "misleading advertising"
+      },
+      {
+       "key": "K",
+       "text": "monitor websites"
+      },
+      {
+       "key": "L",
+       "text": "referring to"
+      },
+      {
+       "key": "M",
+       "text": "say they would"
+      },
+      {
+       "key": "N",
+       "text": "urging travellers"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "answer": "E"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "answer": "K"
+      },
+      {
+       "n": 24,
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "N"
+      },
+      {
+       "n": 27,
+       "answer": "I"
+      },
+      {
+       "n": 28,
+       "answer": "L"
+      },
+      {
+       "n": 29,
+       "answer": "D"
+      },
+      {
+       "n": 30,
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2005-nov-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about laziness. Some words are missing from the text.",
+      "Choose the most appropriate option (A-D) for each gap (1-11) in the text."
+     ],
+     "title": "ADOLESCENT LAZINESS BIOLOGICAL",
+     "body": [
+      "I sure could have used a study like this when I was a kid. A new report in the Journal of Neuroscience {{0}} that adolescent laziness may be determined by human biology. Researchers found that the section of the brain associated with drive and motivation is {{1}} developed in teens than in adults. Ah, so this explains the blank stares I get {{2}} I ask my 13-year-old to throw out the garbage, {{3}} when I nag my 11- year-old to finish her book report. It {{4}} even explain why my 16-year-old, if he has the opportunity, will sleep past noon every day of the week. On a more serious note, the new {{5}} also shed light on why teens are prone to risky behavior. The adolescent brain, it turns out, requires a lot more stimulation {{6}} anything registers.",
+      "Think of the {{7}}. If adolescent laziness is rooted in body chemistry, then all of our well-intentioned parental prodding is just whistling in the wind. Sure, kids need to learn how to act {{8}} and to develop personal motivation; they have a lifetime of duty and hard work ahead of them. But for a few precious years {{9}} ambition may literally be unnatural – and maybe everyone would be better off if we simply {{10}} that. So if your house is on fire and your kid still struggles to get his butt off the couch, remember, it’s not his {{11}}. It’s just biology."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "refers"
+        },
+        {
+         "key": "B",
+         "text": "recovers"
+        },
+        {
+         "key": "C",
+         "text": "reveals"
+        },
+        {
+         "key": "D",
+         "text": "reflects"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "just better"
+        },
+        {
+         "key": "B",
+         "text": "far less"
+        },
+        {
+         "key": "C",
+         "text": "quite well"
+        },
+        {
+         "key": "D",
+         "text": "far more"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "let"
+        },
+        {
+         "key": "B",
+         "text": "though"
+        },
+        {
+         "key": "C",
+         "text": "so"
+        },
+        {
+         "key": "D",
+         "text": "when"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "or"
+        },
+        {
+         "key": "B",
+         "text": "but"
+        },
+        {
+         "key": "C",
+         "text": "also"
+        },
+        {
+         "key": "D",
+         "text": "except"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "does not"
+        },
+        {
+         "key": "B",
+         "text": "tries"
+        },
+        {
+         "key": "C",
+         "text": "could"
+        },
+        {
+         "key": "D",
+         "text": "needs"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "funds"
+        },
+        {
+         "key": "B",
+         "text": "founds"
+        },
+        {
+         "key": "C",
+         "text": "founders"
+        },
+        {
+         "key": "D",
+         "text": "findings"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "before"
+        },
+        {
+         "key": "B",
+         "text": "after"
+        },
+        {
+         "key": "C",
+         "text": "rather"
+        },
+        {
+         "key": "D",
+         "text": "without"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "implications"
+        },
+        {
+         "key": "B",
+         "text": "applications"
+        },
+        {
+         "key": "C",
+         "text": "indications"
+        },
+        {
+         "key": "D",
+         "text": "imitations"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "roughly"
+        },
+        {
+         "key": "B",
+         "text": "randomly"
+        },
+        {
+         "key": "C",
+         "text": "ruthlessly"
+        },
+        {
+         "key": "D",
+         "text": "responsibly"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "this kind"
+        },
+        {
+         "key": "B",
+         "text": "such"
+        },
+        {
+         "key": "C",
+         "text": "some"
+        },
+        {
+         "key": "D",
+         "text": "sort of"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "would acknowledge"
+        },
+        {
+         "key": "B",
+         "text": "acknowledge"
+        },
+        {
+         "key": "C",
+         "text": "acknowledged"
+        },
+        {
+         "key": "D",
+         "text": "had acknowledged"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "fault"
+        },
+        {
+         "key": "B",
+         "text": "error"
+        },
+        {
+         "key": "C",
+         "text": "sin"
+        },
+        {
+         "key": "D",
+         "text": "lack"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about reading. Some words are missing from the text.",
+      "Your task is to write the missing words – one word for each gap - on the dotted lines (12-21) after the text."
+     ],
+     "title": "READING DECLINING DRAMATICALLY",
+     "body": [
+      "My father called me recently to tell me about two books he’d stayed up all night to finish. I responded apathetically, busy with the Internet search I {{0}} conducting. “Oh, I forgot,” he said sharply. “You don’t read books anymore.” Those are fighting words. I have always thought of myself {{12}} a reader. Being an arts editor, I spend every day absorbed in newspapers, magazines and Web sites. But after sandwiching in gym time, an hour for e-mails, and the occasional conversation, {{13}} has time to read novels? Apparently {{14}} many of us. A new survey {{15}} found that fiction reading is declining dramatically among my age group, 25 to 34.",
+      "I think my dad {{16}} a point. Novels have a rare capacity to immerse you in other people’s stories; characters entirely unlike yourself {{17}} comprehensible. In years to come, {{18}} is not hard to imagine a nation of us sitting in our homes alone, compulsively Googling lost acquaintances and bargain-hunting on Ebay. If I’m ever to get to the books on my summer reading list, drastic measures may {{19}} required: I may have to turn {{20}} the cell phone, skip the gym, ignore the e-mails, and {{21}} the magazines pile up. I may even have to stay up late into the night, reading.",
+      "Carly Berwick Senior Editor"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "who",
+        "whoever"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "become",
+        "get",
+        "are"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "off"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "let"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-L3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about The Rolling Stones. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (22-31) in the text. Write the letter of the appropriate word in the white box.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "FOSSILS ON TOUR",
+     "body": [
+      "The “most wrinkled rockers” in music are back. The Rolling Stones last week {{0}} that they were going on the road yet again. It’s amazing to think that {{22}} fans, young and old, will be lining up to see a band of senior citizens thrusting their hips and shaking their skinny little bums.",
+      "The Stones are the living {{23}} that “you don’t have to spend your geezer years being, well, a geezer.” Still, there’s {{24}} unsettling about sexagenarians who {{25}} on going this way. One wonders why these guys, millionaires many {{26}} over, with enough grandchildren to {{27}} a nursery, find it necessary to remain active in a field that devours most men by age 30.",
+      "There’s not {{28}} mystery about it. Retirement and inactivity are out. Grandparents must now {{29}} second or third careers, or hike the Himalayas or jump out of aeroplanes. As people live longer and longer, society is demanding that the old remain physically and mentally fit, to {{30}} burdening the young. In the case of Sir Mick, the “busy ethic” means prancing around in front of 75,000 people, singing “Jumpin’ Jack Flash” one {{31}} time. But must it be this way? There’s something to be said for rocking away the afternoon in lazy contemplation of “a life well lived.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "announced"
+      },
+      {
+       "key": "B",
+       "text": "avoid"
+      },
+      {
+       "key": "C",
+       "text": "fill"
+      },
+      {
+       "key": "D",
+       "text": "keep"
+      },
+      {
+       "key": "E",
+       "text": "more"
+      },
+      {
+       "key": "F",
+       "text": "much"
+      },
+      {
+       "key": "G",
+       "text": "nothing"
+      },
+      {
+       "key": "H",
+       "text": "proof"
+      },
+      {
+       "key": "I",
+       "text": "put up"
+      },
+      {
+       "key": "K",
+       "text": "screaming"
+      },
+      {
+       "key": "L",
+       "text": "something"
+      },
+      {
+       "key": "M",
+       "text": "take up"
+      },
+      {
+       "key": "N",
+       "text": "times"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "answer": "K"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      },
+      {
+       "n": 24,
+       "answer": "L"
+      },
+      {
+       "n": 25,
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "answer": "N"
+      },
+      {
+       "n": 27,
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "answer": "F"
+      },
+      {
+       "n": 29,
+       "answer": "M"
+      },
+      {
+       "n": 30,
+       "answer": "B"
+      },
+      {
+       "n": 31,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about special driving courses. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "SPEEDERS TO BE SENT FOR LESSONS IN SAFE DRIVING",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Speeding motorists are to be sent back to driving school as for an",
+       "answer": "for"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "alternative to gaining points on their license.",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "A national team is used to be set up within weeks following the",
+       "answer": "used"
+      },
+      {
+       "n": 33,
+       "text": "success of six pilot courses were run by the police.",
+       "answer": "were"
+      },
+      {
+       "n": 34,
+       "text": "Its aim is how to improve the driving of those caught fractionally",
+       "answer": "how"
+      },
+      {
+       "n": 35,
+       "text": "over the speed limit who have relatively clean licenses.",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "They will have to pay a £60 fine and at the cost of the",
+       "answer": "at"
+      },
+      {
+       "n": 37,
+       "text": "specially-tailored speed awareness course.",
+       "answer": null
+      },
+      {
+       "n": 38,
+       "text": "Lessons will include the using driving simulators to improve",
+       "answer": "the"
+      },
+      {
+       "n": 39,
+       "text": "drivers’ ability to spot hazards and judge speed. Drivers will also be",
+       "answer": null
+      },
+      {
+       "n": 40,
+       "text": "forced not to confront the potentially fatal consequences of going",
+       "answer": "not"
+      }
+     ],
+     "outro": "too fast."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2005-nov-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear the story of a man called John Joseph Furcillo.",
+      "Your task will be to circle the letter or letters of the correct answer or answers in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_05nov_fl.mp3",
+      "start": 0,
+      "end": 631.32,
+      "clip": "hang/e_angol_05nov_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "John Joseph Furcillo …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was born in 1936."
+        },
+        {
+         "key": "B",
+         "text": "is an imaginary person."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "June was a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "well-known person."
+        },
+        {
+         "key": "B",
+         "text": "dancer."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Don was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "born in Italy."
+        },
+        {
+         "key": "B",
+         "text": "a good-looking man."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Their love affair was problematic because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Don was married."
+        },
+        {
+         "key": "B",
+         "text": "June had a contract."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "When they got married …",
+       "options": [
+        {
+         "key": "A",
+         "text": "June was only 17."
+        },
+        {
+         "key": "B",
+         "text": "Don was divorced."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Little John was eventually …",
+       "options": [
+        {
+         "key": "A",
+         "text": "put up for adoptation."
+        },
+        {
+         "key": "B",
+         "text": "raised by his grandmother."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Until the age of 37, John believed that his …",
+       "options": [
+        {
+         "key": "A",
+         "text": "mother was his older sister."
+        },
+        {
+         "key": "B",
+         "text": "grandmother was his mother."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "John Joseph Furcillo is the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "original name of the film star we now know as Jack Nicholson."
+        },
+        {
+         "key": "B",
+         "text": "hero of a new film starring Jack Nicholson."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-nov-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section you are going to hear an interview about fatness in the U.S.",
+      "Your task is to complete the answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_05nov_fl.mp3",
+      "start": 631.32,
+      "end": 1221.36,
+      "clip": "hang/e_angol_05nov_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How has the number of overweight Americans changed in the past decade? There are {{gap}} {{gap}} obese people today than there were a decade ago.",
+       "accept": [
+        "50% more"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What is wrong with 44 million people in the U.S.? They are {{gap}} over the healthy weight for their height.",
+       "key": "30/thirty pounds",
+       "keywords": [
+        [
+         "30",
+         "pounds"
+        ],
+        [
+         "thirty",
+         "pounds"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What is the annual cost of all this? It is more than {{gap}} every year.",
+       "key": "120/one hundred and twenty billion dollars/$120 billion",
+       "keywords": [
+        [
+         "120",
+         "billion",
+         "dollars"
+        ],
+        [
+         "one",
+         "hundred",
+         "twenty",
+         "billion",
+         "dollars"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Who is Dr Richard Carmona? He is the {{gap}} of the U.S.A.",
+       "key": "Surgeon General",
+       "keywords": [
+        [
+         "surgeon",
+         "general"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "What statistical figures does Dr Carmona provide to illustrate that American society has become more sedentary? The average child is watching TV or playing video games {{gap}} a day.",
+       "key": "more than 4/four hours",
+       "keywords": [
+        [
+         "more",
+         "than",
+         "4",
+         "hours"
+        ],
+        [
+         "more",
+         "than",
+         "four",
+         "hours"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "In what respect does he hold schools responsible for the present situation? A lot of schools have eliminated {{gap}} from their curriculum.",
+       "key": "physical activity",
+       "keywords": [
+        [
+         "physical",
+         "activity"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "How many kids are considered to be overweight in the U.S. today? {{gap}} children.",
+       "key": "9/nine million",
+       "keywords": [
+        [
+         "9",
+         "million"
+        ],
+        [
+         "nine",
+         "million"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Who does he say might be in a position to “break the cycle”? (Name any four of these circles.) {{gap}}, {{gap}}, {{gap}}, {{gap}}",
+       "key": "schools, churches, parents, extended families, baseball teams, extracurricular activities (Csak akkor elfogadható, ha bármelyik négy helyes közülük, viszont a sorrend nem számít!)",
+       "keywords": [
+        [
+         "schools",
+         "churches",
+         "parents",
+         "extended",
+         "families"
+        ],
+        [
+         "schools",
+         "churches",
+         "parents",
+         "baseball",
+         "teams"
+        ],
+        [
+         "schools",
+         "churches",
+         "parents",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "schools",
+         "churches",
+         "extended",
+         "families",
+         "baseball",
+         "teams"
+        ],
+        [
+         "schools",
+         "churches",
+         "extended",
+         "families",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "schools",
+         "churches",
+         "baseball",
+         "teams",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "schools",
+         "parents",
+         "extended",
+         "families",
+         "baseball",
+         "teams"
+        ],
+        [
+         "schools",
+         "parents",
+         "extended",
+         "families",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "schools",
+         "parents",
+         "baseball",
+         "teams",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "schools",
+         "extended",
+         "families",
+         "baseball",
+         "teams",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "churches",
+         "parents",
+         "extended",
+         "families",
+         "baseball",
+         "teams"
+        ],
+        [
+         "churches",
+         "parents",
+         "extended",
+         "families",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "churches",
+         "parents",
+         "baseball",
+         "teams",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "churches",
+         "extended",
+         "families",
+         "baseball",
+         "teams",
+         "extracurricular",
+         "activities"
+        ],
+        [
+         "parents",
+         "extended",
+         "families",
+         "baseball",
+         "teams",
+         "extracurricular",
+         "activities"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "What kind of substances have been used by some food manufacturers “to give us a taste for unhealthy diets” according to some critics? They have added {{gap}}, {{gap}} and {{gap}} to their products.",
+       "key": "sugar, fat, salt (Csak akkor elfogadható, ha mind a három helyes, viszont a sorrend nem számít!)",
+       "keywords": [
+        [
+         "sugar",
+         "fat",
+         "salt"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "What is the aim of the “goodwill campaign” initiated by Dr Carmona? The main aim is to reduce the {{gap}} in foodstuffs.",
+       "key": "(amount of) fat",
+       "keywords": [
+        [
+         "fat"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "In what areas have fast food companies shown signs of improvement recently? They have revised their {{gap}} and put healthier foods on their {{gap}}.",
+       "key": "guidelines, menu (Csak akkor elfogadható, ha mind a kettő helyes!)",
+       "keywords": [
+        [
+         "guidelines",
+         "menu"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2005-nov-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 13,
+     "instructions": [
+      "In this section you are going to hear three short news reports.",
+      "Your task is to fill in the gaps in the sentences below with one or two words.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_05nov_fl.mp3",
+      "start": 1221.36,
+      "end": 1800.37,
+      "clip": "hang/e_angol_05nov_fl_H3.mp3"
+     },
+     "body": [
+      "New research suggests that penalty shoot-outs in crucial football matches can seriously {{0}} the health of fans. The study claims that the number of {{18}} rose by 25% when England lost to Argentina in a penalty competition in the World Cup of 1998. The findings back up the theory that such fatalities can be triggered by {{19}}. The authors believe that these exciting games generate considerable stress amongst fans, which can make their blood thicken and become more sticky and their {{20}} increase, which can be fatal in some cases. Researchers recommend that people at risk should be told how to {{21}} during matches, and they even suggest that the ”lottery” of penalty shoot-out should perhaps be {{22}} on the grounds of public health.",
+      "The second report tells us that that mobile telephone companies have been deluged by enquiries from the police about calls by {{23}}. As many as half a million requests are made each year, because mobile phone {{24}} has played a key role in a number of recent {{25}}, as it did in the case of a man who was convicted of murder yesterday. Information on where and when a call is made by a suspect can be used by police to link them to a crime scene or a {{26}}. The number of enquiries has risen so sharply that mobile phone companies have begun charging a {{27}} for every request.",
+      "The third report is about a bitter {{28}} over Sir Paul McCartney’s latest {{29}}. The singer is listing 19 old Lennon- McCartney Beatles tracks as written by Paul McCartney and John Lennon, claiming that these songs were, in effect, written by him. John Lennon’s widow, Yoko Ono is furious and has called in the {{30}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "A második és a harmadik feladatnál a javítás fő szempontja az, hogy a tanuló ki tudja- e emelni a szövegből a kérdezett információt vagy sem. Ezért a megoldások elbírálásánál általában ragaszkodnunk kell azokhoz a jelentésekhez, amelyeket szövegben elhangzott szavak hordoznak. Ennek megfelelően például még elfogadhatjuk a választ, ha a szó szerinti legal row helyett legal argument vagy album helyett record vagy CD szerepel a megoldásban (ezek szinte szinonímák), de nem felel meg például az abandoned helyett (a már határozottan más jelentésű) *banned vagy a more than 4 hours helyett egyszerűen az, hogy *4 hours. Fontos azonban, hogy mindkét feladatnál – mivel mondatkiegészítésről van szó – csak olyan megoldásokat fogadhatunk el, amelyek hibátlanul illeszkednek a megadott mondatokba. Ennek megfelelően például a 21. itemnél ragaszkodnunk kell a keep//stay calm alakhoz (a *calm önmagában nem lenne jó), a 22. itemnél az abandoned alakhoz (az *abandon nem lenne jó). Az egyetlen engedményt itt a többes szám elmaradásának tolerálásával tehetjük – mintegy úgy felfogva a hibát, mintha helyesírási hiba lenne. Így például elfogadhatjuk a guidelines helyett a guideline vagy a lawyers helyett a lawyer alakokat is. Azoknál az itemeknél, ahol a kért információ jellege és/vagy a feladatlap tipográfiája két vagy több szó beírását követeli meg, csak a teljes megoldás fogadható el. Így nem tekinthetjük helyesnek a harmadik feladatban azt, ha a kért (és a feladatlapon tipográfiailag is jelölt) suspected criminals helyett csak *criminals, criminal investigations helyett *investigations vagy legal row helyett csak *row szerepel a megoldásban. Bár a második feladat esetében ezt a feladatlap külön nem jelöli, értelmileg hiányos, és ezért nem elfogadható például a Surgeon General helyett a *Surgeon, a physical activity helyett az *activity, a 9 million helyett a *9, a 30 pounds helyett a *30 vagy a 120 billion dollars helyett a *120 vagy a *120 billion megoldás."
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "endanger"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "heart attacks"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "emotional upset"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "blood pressure"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "keep calm",
+        "stay calm"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "abandoned"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "suspected criminals"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "evidence"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "criminal investigations"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "victim"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "fee"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "legal row",
+        "legal argument",
+        "argument",
+        "quarrel",
+        "battle",
+        "legal quarrel",
+        "legal battle"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "album",
+        "record",
+        "CD"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "lawyers"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

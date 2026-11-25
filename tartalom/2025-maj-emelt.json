@@ -1,0 +1,1438 @@
+{
+ "formatVersion": 1,
+ "id": "2025-maj-emelt",
+ "year": 2025,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2025-05-08",
+ "code": "E2512",
+ "sourceFiles": {
+  "paper": "2025 - Emeltszintű május/e_angol_25maj_fl.pdf",
+  "key": "2025 - Emeltszintű május/e_angol_25maj_ut.pdf",
+  "audio": "2025 - Emeltszintű május/e_angol_25maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2025-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following article about London markets and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "THE BEST LONDON MARKETS",
+     "body": [
+      "Whatever you're looking for, you'll find it at the best markets in London.",
+      "Come with an empty stomach and discover a gourmet's paradise at Borough Market near London Bridge. Find stacks of fresh and organic produce, as well as condiments, baked treats and delicious street food. Regular three-hour Borough Market Food Tours led by knowledgeable experts explain the history of the area, while you tuck into delicious food and drink fresh from the market.",
+      "Located around the historic Market Building, Covent Garden Market features a range of stalls and specialty shops, as well as entertainment outside the market from opera singers to magicians. This central London shopping market is an architectural masterpiece including toy shops, perfume boutiques, restaurants and cafés.",
+      "Feeling peckish? Then take a stairway straight to foodie heaven at Market Hall Oxford Street, the UK's largest food hall filled with everything from sweets to savouries. Three floors of eager traders are ready to serve delicious bites seven days a week in the West End.",
+      "One person’s junk is another’s gem – and you will find plenty of both at this east London market spread across several streets. At Brick Lane Market, you can pore over second-hand furniture, vintage clothes, shoes and lots more. Sunday is the best day to visit, with Upmarket featuring more than 200 stalls.",
+      "Soak up the atmosphere at one of the oldest markets in London on Portobello Road. There has been a market here since the 1800s, offering a great variety of products. Although open every day except Sunday, the market is in full swing on Saturdays when there can be more than 1,500 stalls to browse.",
+      "Go bananas for Seven Dials Market, an ex-banana warehouse turned glass-roofed chillout spot full of delicious food on every corner. Head downstairs if you're in need of a bite of street food, or upstairs for elegant terrazzo countertop cafes.",
+      "Located beneath the vaulted arches of London Bridge, the foodie paradise of Maltby Street Market comes to life every weekend. There's a fantastic range of street food, from delicious Chinese dumplings at Gyoza Guys, to Amen Ethiopian Cuisine and La Pepia's Venezuelan street food."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "is open every day."
+      },
+      {
+       "key": "B",
+       "text": "is busiest on Saturdays."
+      },
+      {
+       "key": "C",
+       "text": "offers guided tours into the history of the market."
+      },
+      {
+       "key": "D",
+       "text": "invites visitors to rent their own stalls."
+      },
+      {
+       "key": "E",
+       "text": "is famous for the shows of street performers."
+      },
+      {
+       "key": "F",
+       "text": "is the oldest market in London."
+      },
+      {
+       "key": "G",
+       "text": "offers many types of international food."
+      },
+      {
+       "key": "H",
+       "text": "offers various used objects for sale."
+      },
+      {
+       "key": "I",
+       "text": "was rebuilt after the Second World War"
+      },
+      {
+       "key": "K",
+       "text": "used to have a different function in the past."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Borough Market",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Covent Garden Market",
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "stem": "Market Hall Oxford Street",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Brick Lane Market",
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "stem": "Portobello Road Market",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Seven Dials Market",
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "stem": "Maltby Street Market",
+       "answer": "G"
+      }
+     ],
+     "source": "https://www.visitlondon.com/things-to-do/shopping/market/londons-top-markets"
+    },
+    {
+     "id": "2025-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about the creation of time zones.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (7-14) from the list (A-M) below.",
+      "Remember that there are three extra letters that you do not need."
+     ],
+     "title": "HOW RAILROADS INSPIRED THE CREATION OF TIME ZONES",
+     "body": [
+      "On 18 November, 1883, railroad companies in the United States and Canada {{0}}, leading to the ground-breaking concept of time zones around the world.",
+      "For millennia prior to this date, people around the world {{7}}, with midday determined by when the Sun was highest in the sky over that particular village or town. Mechanical clocks eventually {{8}} in the Middle Ages. Towns would set their clocks by gauging the position of the Sun, leading every city to operate on a slightly different time. This method lasted well into the 1800s, when there were at least 144 different time zones in North America.",
+      "Since many people {{9}} from their homes throughout history – generally as far as a horse, camel or wagon could carry them on land –, this form of timekeeping didn't cause much of a problem. That is, until the advent of the railroad.",
+      "In the mid-1800s, as trains became increasingly popular in the US and Canada, and railroads {{10}}, the need to create a more coordinated timekeeping system wasn't just an issue of efficiency but national safety. The existence of different local time zones {{11}}. At best, people might miss their train; at worst, trains were more likely to collide when using a single track.",
+      "In 1879, a Canadian rail engineer named Sir Sandford Fleming {{12}} after missing a train: the creation of time zones. On 18 November, 1883, the US and Canadian railroad industries adopted Fleming's idea, but because of the sheer size of the North American continent, they {{13}}: Eastern, Central, Mountain and Pacific time – each of which remain relatively unchanged to this day.",
+      "In North America, local towns and cities, eager for the prosperity and opportunities brought by the railroad, {{14}}. The US federal government, however, was a bit slower and fully adopted these new time zones in only in 1918."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "couldn’t agree on when to introduce the new system"
+      },
+      {
+       "key": "B",
+       "text": "started replacing sundials"
+      },
+      {
+       "key": "C",
+       "text": "transformed time in both countries"
+      },
+      {
+       "key": "D",
+       "text": "created major problems for the railroad"
+      },
+      {
+       "key": "E",
+       "text": "came up with a revolutionary idea"
+      },
+      {
+       "key": "F",
+       "text": "didn't travel especially long distances"
+      },
+      {
+       "key": "G",
+       "text": "were quick to adopt their continent's new time zones"
+      },
+      {
+       "key": "H",
+       "text": "measured time based on the position of the Sun"
+      },
+      {
+       "key": "I",
+       "text": "led to the accident killing more than1500 people on board"
+      },
+      {
+       "key": "K",
+       "text": "decided to create four major time zones"
+      },
+      {
+       "key": "L",
+       "text": "began carrying more passengers across the continent"
+      },
+      {
+       "key": "M",
+       "text": "found it hard to accommodate to the new time zones"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      },
+      {
+       "n": 10,
+       "answer": "L"
+      },
+      {
+       "n": 11,
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20241115-how-railroads-inspired-the-creation-of-time-zones"
+    },
+    {
+     "id": "2025-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about bothies and then read the statements (15-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "THE UK’S NETWORK OF FREE HIKING ’HOTELS’",
+     "body": [
+      "Founded in 1965, the Mountain Bothy Association is a registered charity that maintains bothies: \"simple shelters in remote country for the use of all who love wild and lonely places\". The organisation manages more than a hundred bothies in Scotland, Wales and Northern England. The system is simple. Bothies are free to use and open to anyone. They can't be booked in advance, and groups of six or more and commercial groups are asked not to use them. As long as you respect other users, the bothy and its surroundings, you're welcome.",
+      "Every bothy is an adapted building with a previous life. Most are old shepherd's huts, sheds, farmsteads or workers' accommodation. In the early 20th century, hill farming declined and fewer and fewer people lived in remote locations, leaving many buildings behind. After World War Two, hiking and mountaineering as leisure pursuits dramatically increased in popularity and those exploring the outdoors began using these abandoned buildings as shelters.",
+      "Keeping the buildings habitable is all done by volunteers; however, bothies are by no means luxurious. You won't find electricity or running water and will be lucky to have a long-drop toilet. Most will have a stove, but there's no guarantee a supply of fuel will be there – not to mention any kitchenware. You should pack as if you're camping, including a tent in case the bothy is overcrowded or you don't fancy the company.",
+      "The company you find in bothies, and the fact that it's completely unpredictable, is one of their unique attractions, according to hikers. In a world where everything is bookable and controllable, you just have to go and turn up, and you could have it all to yourself or you could meet some incredible people and connect with them.",
+      "In 2009, the locations of the bothies were shared online by the association so that more hikers can find them, which wasn’t a unanimously popular move. Part of the hikers’ concern was that the people might begin using these spaces as places to party instead of using them for a shelter while enjoying outdoor pursuits."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The network of bothies is unique to the United Kingdom.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Travel agencies are welcome to use bothies as accommodation for their clients.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Bothies used to have different functions before they provided shelter for hikers.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "In the early 20th century, many houses in remote areas were abandoned.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Maintenance work in the bothies is done twice a month.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "When staying in bothies, hikers should provide kitchen utensils for themselves.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Hikers can never know who to expect to share a bothy with.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Hikers are advised to take a tent because there might be too many people in the bothy.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Overseas hikers welcomed the sharing of the bothies’ locations.",
+       "answer": "C",
+       "alt": [
+        "B"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20241126-the-uks-network-of-free-hiking-hotels"
+    },
+    {
+     "id": "2025-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this article about ‘misokinesia’, a phenomenon also called ‘the hatred of movements’.",
+      "Some sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (23-29) from the list (A-K) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "'MISOKINESIA’ MAY AFFECT 1 IN 3 PEOPLE, RESEARCH SHOWS",
+     "body": [
+      "Misokinesia is the reduced tolerance of others’ repetitive bodily movements. Misokinesia sufferers can have an intense biological and emotional reaction to other people tapping their fingers, clicking a pen or twiddling their hair. {{0}}",
+      "The severity of people's reaction to irritating movements varies. {{23}} Others, however, may get a very strong emotional reaction – anger, panic or distress -and just can't filter them out.",
+      "One common way people try to manage the condition is by avoiding looking at fidgeting or by distracting themselves. {{24}} A lot of sufferers feel ashamed that they get such strong reactions, which can be a problem in itself, because suppressing your emotions can intensify them and make them worse.",
+      "Misokinesia sufferers often report some overlap with the sound-sensitivity of misophonia. {{25}} Dr Jane Gregory, a clinical psychologist, who has been studying both misokinesia and misophonia, told the BBC that the two go alongside each other frequently. {{26}} However, misophonia is a more recognized disorder. Obviously, people have also been experiencing misokinesia for a long time but just didn't have a name for it.",
+      "{{27}} Across a series of experiments involving over 4,100 participants, researchers concluded that one in three people might be affected by misokinesia, which causes them intense feelings of rage and disgust. {{28}} This explains a lot about why teenagers who twirl their hair or pick their nails annoy the rest of us.",
+      "The findings thus confirm that a large segment of the general population may have a visual- social sensitivity that has received little formal recognition so far. {{29}} Misokinesia could explain why open office plans often do not work out well."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "She says both conditions are surprisingly common, but misokinesia had been little studied by scientists until recent years."
+      },
+      {
+       "key": "B",
+       "text": "To their surprise, they found no behaviour difference between the groups."
+      },
+      {
+       "key": "C",
+       "text": "Other common triggers are leg and foot movements, for instance, jiggling thighs or shuffling shoes."
+      },
+      {
+       "key": "D",
+       "text": "Some people might get rather annoyed by fidgeting or repetitive movements, but it doesn't impact their day-to-day life massively."
+      },
+      {
+       "key": "E",
+       "text": "Others may withdraw and try to avoid people entirely."
+      },
+      {
+       "key": "F",
+       "text": "These nerve cells activate when we move but they also activate when we see others move."
+      },
+      {
+       "key": "G",
+       "text": "This means an intense dislike of other people's noises, such as heavy breathing or loud eating."
+      },
+      {
+       "key": "H",
+       "text": "The reality that one of three people can’t stand fidgeting is worth considering when designing business buildings and public venues."
+      },
+      {
+       "key": "I",
+       "text": "A recent Canadian study suggests that this unusual phenomenon is much more common than we realized."
+      },
+      {
+       "key": "K",
+       "text": "Moreover, they found that symptoms of misokinesia intensified in adults."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      },
+      {
+       "n": 25,
+       "answer": "G"
+      },
+      {
+       "n": 26,
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "answer": "I"
+      },
+      {
+       "n": 28,
+       "answer": "K"
+      },
+      {
+       "n": 29,
+       "answer": "H"
+      }
+     ],
+     "source": "https://www.sciencealert.com/misokinesia-phenomenon-may-affect-1-in-3-people-research-shows"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2025-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the world-famous actress Maggie Smith. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE LEGENDARY MAGGIE SMITH DIES AGED 89",
+     "body": [
+      "Maggie Smith, the {{0}}, multi-award-winning actor described by peers as {{1}} “one of a kind” and possessed of great intelligence, humour and {{2}} talent, has died aged 89.",
+      "Her work, which ranged from The Prime of Miss Jean Brodie through Harry Potter to Downton Abbey, brought her global {{3}}, as well as two Oscars and eight Baftas.",
+      "Tributes were paid by countless friends and colleagues.",
+      "Hugh Bonneville, who appeared alongside Smith in Downton Abbey, said: “Anyone who ever shared a scene with Maggie will never forget her sharp eye, sharp wit and {{4}} talent. She was a true legend and thankfully will live on in so many {{5}} screen performances.”",
+      "King Charles and Queen Camilla also paid tribute, saying: “As the curtain comes down on a national treasure, we join all those around the world who remember with the fondest {{6}} and affection her many great performances, and her {{7}} and wit that shone through both off and on the stage.”",
+      "Daniel Radcliffe, who starred in the Harry Potter series, said: “I will always consider {{8}} amazingly lucky to have been able to work with her. The word legend is {{9}} but if it applies to anyone in our industry then it applies to her. Thank you Maggie.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "fascinate",
+       "example": true,
+       "accept": [
+        "fascinating"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "be",
+       "accept": [
+        "being"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "exception",
+       "accept": [
+        "exceptional"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "appreciate",
+       "accept": [
+        "appreciation"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "stand",
+       "accept": [
+        "outstanding",
+        "standout"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "stun",
+       "accept": [
+        "stunning"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "admire",
+       "accept": [
+        "admiration"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "warm",
+       "accept": [
+        "warmth",
+        "warmness"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "I",
+       "accept": [
+        "myself"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "use",
+       "accept": [
+        "overused"
+       ]
+      }
+     ],
+     "source": "https://www.theguardian.com/film/2024/sep/27/maggie-smith-oscar-winning-star-of-stage-and-screen-dies-aged-89"
+    },
+    {
+     "id": "2025-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the history of jack-o’-lanterns. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-17) in the text."
+     ],
+     "title": "WHY DO WE CARVE PUMPKINS AT HALLOWEEN?",
+     "body": [
+      "The jack-o’-lantern has a long history with Halloween, {{0}} our favorite demonic faces haven’t always been cut out of pumpkins.",
+      "Their origin {{10}} an Irish myth about Stingy Jack, who tricked the Devil for his own monetary gain. When Jack died, God {{11}} him into heaven, and the Devil didn’t let him into hell, {{12}} Jack was sentenced to wander the earth for eternity. In Ireland, people started to carve demonic faces out of turnips to frighten away Jack’s wandering soul. {{13}} Irish immigrants moved to the U.S., they began making jack-o’-lanterns from pumpkins.",
+      "But how did jack-o’-lanterns become associated with Halloween? Halloween is based on the Celtic festival Samhain, a celebration in ancient Britain and Ireland {{14}} marked the end of summer and the beginning of the new year on November 1. It was believed that during Samhain the souls of those who had died that year traveled to the otherworld and that other souls {{15}} to visit their homes.",
+      "In the 8th century CE, the Roman Catholic Church moved All Saints’ Day, a day {{16}} the church’s saints, to November 1. This meant that All Hallows’ Eve (or Halloween) fell on October 31. Traditions from Samhain remained, such as {{17}} disguises to hide yourself from the souls wandering around your home. The folklore about Stingy Jack was quickly incorporated into Halloween, and we’ve been carving pumpkins — or turnips — ever since."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "because"
+        },
+        {
+         "key": "B",
+         "text": "therefore"
+        },
+        {
+         "key": "C",
+         "text": "although"
+        },
+        {
+         "key": "D",
+         "text": "however"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "was born"
+        },
+        {
+         "key": "B",
+         "text": "originates"
+        },
+        {
+         "key": "C",
+         "text": "comes from"
+        },
+        {
+         "key": "D",
+         "text": "brings about"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "refused"
+        },
+        {
+         "key": "B",
+         "text": "didn’t allow"
+        },
+        {
+         "key": "C",
+         "text": "banned"
+        },
+        {
+         "key": "D",
+         "text": "didn’t approve"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "however"
+        },
+        {
+         "key": "B",
+         "text": "but"
+        },
+        {
+         "key": "C",
+         "text": "so"
+        },
+        {
+         "key": "D",
+         "text": "afterwards"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "When"
+        },
+        {
+         "key": "B",
+         "text": "Initially"
+        },
+        {
+         "key": "C",
+         "text": "Though"
+        },
+        {
+         "key": "D",
+         "text": "Meanwhile"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "where"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "had"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "that appear"
+        },
+        {
+         "key": "B",
+         "text": "would return"
+        },
+        {
+         "key": "C",
+         "text": "are about"
+        },
+        {
+         "key": "D",
+         "text": "will come back"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "invited by"
+        },
+        {
+         "key": "B",
+         "text": "reminding"
+        },
+        {
+         "key": "C",
+         "text": "cared for"
+        },
+        {
+         "key": "D",
+         "text": "celebrating"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "regards"
+        },
+        {
+         "key": "B",
+         "text": "wearing"
+        },
+        {
+         "key": "C",
+         "text": "having made"
+        },
+        {
+         "key": "D",
+         "text": "decorate"
+        }
+       ],
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.britannica.com/story/why-do-we-carve-pumpkins-at-halloween"
+    },
+    {
+     "id": "2025-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an Australian ecological project. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "EMAIL THE TREES OF MELBOURNE",
+     "body": [
+      "The City of Melbourne’s Urban Forest and Ecology Team created {{0}} interactive map that allows you to {{18}} out about any tree in the city. This map, called Urban Forest Visual, {{19}} you click on any tree in the Melbourne area and provides information about the species. Each tree has {{20}} own ID number and email address.",
+      "The purpose of the email was for members of the public to inform the council of any trees that needed attention, {{21}} as a tree declining in health. However, since its launch in 2013, people have used the emails to send love letters and fan mail instead.",
+      "According to the team, the most popular tree is a Golden Elm on Punt Road. This tree is about 80 years old, and is listed by the National Trust of Australia as a Significant Tree at a state level. This is due to the tree’s aesthetic value, its contribution {{22}} the landscape and its presence as an outstanding example {{23}} its species.",
+      "“Hi tree on the corner of Punt Road and Alexandra Avenue,” says one writer. “I’ve always wondered about you ever {{24}} my slightly strange driving instructor (who always smelled like cat food and peppermints) told me you were his favourite tree.”",
+      "It’s {{25}} just people in Melbourne writing to the trees. The trees have received emails from people all over the world."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "an"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "find"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "lets",
+        "helps"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "its"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "such"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "since"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "not"
+       ]
+      }
+     ],
+     "source": "https://secretmelbourne.com/melbourne-trees-email/"
+    },
+    {
+     "id": "2025-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a family that live in the middle of a roundabout. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "LIVING IN THE MIDDLE OF A ROUNDABOUT",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "It's a sight that leaves thousands of motorists scratching their heads every",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "single day - a house all right in the middle of a busy Welsh roundabout.",
+       "answer": "all"
+      },
+      {
+       "n": 26,
+       "text": "For more than 60 years, the property has been home as to the Howatson",
+       "answer": "as"
+      },
+      {
+       "n": 27,
+       "text": "family. They moved in in 1960 and have refused to leave when Denbigh's",
+       "answer": "have"
+      },
+      {
+       "n": 28,
+       "text": "new bypass was built in the late 1970s. Instead, the roundabout on Rhyl",
+       "answer": null
+      },
+      {
+       "n": 29,
+       "text": "Road was built around them. The family even though have chickens living",
+       "answer": "though"
+      },
+      {
+       "n": 30,
+       "text": "alongside them - with the road-crossing hens a regular on sight. The hens",
+       "answer": "on"
+      },
+      {
+       "n": 31,
+       "text": "have been navigating the busy roundabout for 20 years, and only two have",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "been killed by cars. The present owner, Clwyd Howatson, has already",
+       "answer": "already"
+      },
+      {
+       "n": 33,
+       "text": "lived at the property for most of his own life. He claims that living on a",
+       "answer": "own"
+      },
+      {
+       "n": 34,
+       "text": "roundabout is not too different from having both a house on a busy road.",
+       "answer": "both"
+      },
+      {
+       "n": 35,
+       "text": "Double glazing ensures noise levels inside is minimal and the road only",
+       "answer": "levels"
+      }
+     ],
+     "outro": "gets really busy at morning and evening rush hours.",
+     "source": "https://www.walesonline.co.uk/news/wales-news/family-lived-middle-busy-welsh-30390475"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2025-maj-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will listen to the story of the famous Kon-Tiki expedition.",
+      "Your task is to complete the sentences with two words indicated by the gaps, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_25maj_fl.mp3",
+      "start": 0,
+      "end": 640.1,
+      "clip": "hang/e_angol_25maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Kon-Tiki expedition was {{gap}} {{gap}} Thor Heyerdahl.",
+       "gaps": [
+        [
+         "led"
+        ],
+        [
+         "by"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The expedition tried to demonstrate that it was possible for ancient South American people to colonize Polynesia {{gap}} {{gap}} wooden rafts.",
+       "gaps": [
+        [
+         "using"
+        ],
+        [
+         "primitive"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Heyerdahl’s team built the Kon-Tiki raft using simple {{gap}} and {{gap}} techniques.",
+       "gaps": [
+        [
+         "materials"
+        ],
+        [
+         "traditional"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The Kon-Tiki crew had to face the challenges of the crossing with limited {{gap}} and a lot of {{gap}}.",
+       "gaps": [
+        [
+         "resources"
+        ],
+        [
+         "courage"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "During the trip across the Pacific, the crew also had to face problems with the weather, such as {{gap}}, and with dangerous animals in the sea such as {{gap}}.",
+       "gaps": [
+        [
+         "storms"
+        ],
+        [
+         "sharks"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "The Kon-Tiki reached the shores of the Tuamotu Islands, {{gap}} that this voyage was {{gap}}.",
+       "gaps": [
+        [
+         "proving"
+        ],
+        [
+         "possible"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "The success of the expedition led to the publication of an award winning {{gap}} and a(n) {{gap}}.",
+       "gaps": [
+        [
+         "book"
+        ],
+        [
+         "documentary"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "However, despite the success of the expedition, some {{gap}} warned that one should be extremely sceptical of Heyerdahl’s {{gap}}.",
+       "gaps": [
+        [
+         "scientists"
+        ],
+        [
+         "theories",
+         "findings"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "According to these experts, it was more likely that the {{gap}} {{gap}} was true: people from the Pacific islands populated South America.",
+       "gaps": [
+        [
+         "exact"
+        ],
+        [
+         "opposite"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Decades later, DNA {{gap}} found that Polynesians have more {{gap}} with people from South East Asia.",
+       "gaps": [
+        [
+         "tests"
+        ],
+        [
+         "similarities"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el, és csak akkor adható pont, ha mindkét szó elfogadható. A megoldásban pontosvesszővel (;) elválasztott szavak sorrendje nem cserélhető fel.)"
+     }
+    },
+    {
+     "id": "2025-maj-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you will listen to a recording about the relationship between Mozart and Haydn.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_25maj_fl.mp3",
+      "start": 640.1,
+      "end": 1181.83,
+      "clip": "hang/e_angol_25maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mozart and Haydn had a relationship that was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "both personal and professional."
+        },
+        {
+         "key": "B",
+         "text": "characterized by mutual respect and admiration."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Haydn ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "realized that Mozart was an outstandingly gifted musician."
+        },
+        {
+         "key": "B",
+         "text": "said that Mozart was the only person in Europe who understood his music."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Haydn and Mozart ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "were both famous when they first met."
+        },
+        {
+         "key": "B",
+         "text": "mutually influenced each other."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Mozart’s …",
+       "options": [
+        {
+         "key": "A",
+         "text": "symphonies and string quartets show the signs of Haydn’s influence."
+        },
+        {
+         "key": "B",
+         "text": "later works use innovations introduced by Haydn."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The Haydn Quartets …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a set of six string quartets."
+        },
+        {
+         "key": "B",
+         "text": "was dedicated to Haydn by Mozart."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Mozart and Haydn …",
+       "options": [
+        {
+         "key": "A",
+         "text": "were both members of an amateur string quartet."
+        },
+        {
+         "key": "B",
+         "text": "co-wrote some chamber music pieces as a result of their practical collaboration."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Haydn …",
+       "options": [
+        {
+         "key": "A",
+         "text": "never commented on Mozart publicly before his death."
+        },
+        {
+         "key": "B",
+         "text": "became a keen supporter of Mozart’s musical legacy."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "The relationship between Mozart and Haydn …",
+       "options": [
+        {
+         "key": "A",
+         "text": "became a bit less friendly before Mozart’s death."
+        },
+        {
+         "key": "B",
+         "text": "had a strong influence on the history of classical music."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2025-maj-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear about a moving painting by the British painter, Edwin Henry Landseer.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_25maj_fl.mp3",
+      "start": 1181.83,
+      "end": 1799.12,
+      "clip": "hang/e_angol_25maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Victoria and Albert Museum is the largest museum in London.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Mr. Peter McGuinn is the director of the museum.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "It is the first time the woman has seen the painting he has chosen.",
+       "answer": "B",
+       "alt": [
+        "C"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "This painting has been exhibited in the museum ever since it was painted.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "The dog in the painting used to belong to the dead man in the coffin.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Landseer was an old friend of the dead man in the coffin.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Landseer’s use of light and shadow emphasizes the topic of loss and devotion.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "The personal objects in the room show that the dead man lived a rather modest life.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "There are several more paintings in the museum by Landseer, mostly featuring animals.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "This painting is so popular because it emphasizes the importance of human-animal bonds.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

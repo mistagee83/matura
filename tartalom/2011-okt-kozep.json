@@ -1,0 +1,1150 @@
+{
+ "formatVersion": 1,
+ "id": "2011-okt-kozep",
+ "year": 2011,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2011-10-20",
+ "code": "1019",
+ "sourceFiles": {
+  "paper": "2011 - Középszintű októberi/k_angol_11okt_fl.pdf",
+  "key": "2011 - Középszintű októberi/k_angol_11okt_ut.pdf",
+  "audio": "2011 - Középszintű októberi/k_angol_11okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2011-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "rövid szövegek párosítása állításokhoz",
+     "points": 7,
+     "instructions": [
+      "Read what each person said on the phone as an excuse for not going to work, and then read the notes the secretary wrote down.",
+      "Match each excuse (1-7) with the notes (A-I). There is an extra sentence that you do not need."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Rajif had to travel abroad."
+      },
+      {
+       "key": "B",
+       "text": "Pamela has had an accident."
+      },
+      {
+       "key": "C",
+       "text": "Jack is looking for something."
+      },
+      {
+       "key": "D",
+       "text": "Paul has been taken to the police station."
+      },
+      {
+       "key": "E",
+       "text": "Kate has to visit her grandmother."
+      },
+      {
+       "key": "F",
+       "text": "Sue cannot leave the flat."
+      },
+      {
+       "key": "G",
+       "text": "Andrew has to find a mechanic."
+      },
+      {
+       "key": "H",
+       "text": "Mary didn’t check the calendar."
+      },
+      {
+       "key": "I",
+       "text": "Frank overslept."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "\"I can't find my shoes. None of the shoes at home are my size.\"",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "\"I fell over my dog and we had to call an ambulance. I’m still in hospital.\"",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "\"I 've been arrested as a result of mistaken identity. There has been a robbery in the neighbourhood. They won’t let me go.\"",
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "stem": "\"My car suddenly broke down. I just can’t start the engine, so I’m trying to find someone to repair it.\"",
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "stem": "\"My cat unplugged my alarm clock. He knocked it off the bedside table. I’ve just woken up.\"",
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "stem": "\"I had to take my grandmother's ashes to India. I thought I would be back in time but my flight was delayed.\"",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "\"I forgot what day of the week it was. I’ve just realized it’s Monday. It often happens when you have so much to do at home!\"",
+       "answer": "H"
+      },
+      {
+       "n": 7,
+       "stem": "\"My boyfriend's snake’s escaped and I don’t want to risk being bitten. I have to wait in the bedroom until my boyfriend gets home.\"",
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with a hairstylist the questions have been removed.",
+      "Your task is to read the text and match the questions (8- 15) with the answers (A-K).",
+      "There is one extra question that you do not need."
+     ],
+     "title": "A DAY IN THE LIFE OF A HAIRSTYLIST",
+     "body": [
+      "{{0}} Busy and interesting. The salon opens at 11 am and shuts at 7 pm. We are quite popular, so I work from the moment I arrive till the salon closes. Apart from cutting, I colour, perm and straighten hair.",
+      "{{8}} Making a client look good. It's fun and rewarding to see the client so happy when the color and style come together just as she wanted.",
+      "{{9}} It can be tiring, and sometimes people don’t treat you professionally.",
+      "{{10}} I've always been fascinated by hair. I like fashion and I like meeting people.",
+      "{{11}} Well, you'd probably have to start as a shampoo girl, but after that it's not too difficult to become a real hairstylist.",
+      "{{12}} It depends on where you work. Our salon is popular, I am a senior stylist and have my own clients. Starting out ... you usually earn less than £1000 a month. In a small town, it could be a lot less.",
+      "{{13}} Definitely. Many of the shop’s top stylists have worked in Osaka, Paris, or New York .",
+      "{{14}} I’ll work full time as long as I need the money. When I have saved enough, I’ll work part time and maybe try something new as well, but I don’t know what yet.",
+      "{{15}} Work hard and keep in touch with the latest trends."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "How much does a hairstylist usually earn?"
+      },
+      {
+       "key": "B",
+       "text": "Why did you become a hairstylist?"
+      },
+      {
+       "key": "C",
+       "text": "Could you describe a typical working day?"
+      },
+      {
+       "key": "D",
+       "text": "What do you like best about your job?"
+      },
+      {
+       "key": "E",
+       "text": "Do you have any favourite products or shampoos?"
+      },
+      {
+       "key": "F",
+       "text": "Is it easy to find a job as a hairstylist?"
+      },
+      {
+       "key": "G",
+       "text": "Any advice for beginner hairstylists?"
+      },
+      {
+       "key": "H",
+       "text": "As a hairstylist, could you work abroad?"
+      },
+      {
+       "key": "I",
+       "text": "What are the disadvantages of the job?"
+      },
+      {
+       "key": "K",
+       "text": "Where do you see yourself in five years?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "I"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "answer": "H"
+      },
+      {
+       "n": 14,
+       "answer": "K"
+      },
+      {
+       "n": 15,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this story about the successful rescue of a young man and his dog and the sentences following it.",
+      "Mark a sentence",
+      "A if it is true according to the text,",
+      "B if it is false,",
+      "C if there is not enough information in the text to say if it is true or not."
+     ],
+     "title": "FLASH OF GENIUS RESCUES STRANDED WALKER",
+     "body": [
+      "23-year-old Malcolm Murray set out on a Friday afternoon in February for a walk with his dog on the Isle of Lewis, in the north of Britain.",
+      "Despite being a local and an experienced walker, he got lost because of bad weather. Luckily he had a mobile phone and a compact camera with him. These two gadgets saved his life.",
+      "He said: \"I just wanted to take the dog for a quick walk. There was a bit of fog when I left. But later it became very thick and I was basically lost.\" Realising how serious the situation was becoming, he phoned his father, who came up with a plan to find his son: driving up and down the road, beeping the car horn every mile or so. But his son didn't hear a thing and by late afternoon they decided they had to call in professional rescuers.",
+      "Four rescue teams set off to find Murray on foot. The Coastguard also sent in a helicopter. After some time Murray could see the helicopter lights coming and going. So, when it got close, he pressed his camera flash over and over again.",
+      "Murray's flash was spotted by Captain Richard on board the helicopter. \"It really was very clever use of the equipment he had with him,\" he said. \"I spotted a flash in the sky and then the infrared showed us exactly where Mr. Murray and his dog were. It was the flash that saved them.\"",
+      "Murray senior, who had spent the evening at home on the telephone, was proud of his son's calmness and presence of mind."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The incident took place in autumn.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "The young man lives in London.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "He had received his mobile for his birthday.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "When he left home the weather was sunny.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "He called his father when he realised he was lost.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "He had some food with him.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Technology played an important part in the rescue.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "The young man was found by the helicopter crew.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "His father was on board the helicopter during the rescue operation.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 5,
+     "instructions": [
+      "Read the following article about changes in the life of the Mayor of Worcester. Some parts of the text have been removed.",
+      "You must complete the text by matching the missing parts (A-G) with the correct numbers (24-28). There is one letter which you will not need."
+     ],
+     "title": "CASH CRISIS HITS CITY MAYOR",
+     "body": [
+      "The Mayor of Worcester, Councillor Lucy Hodgson, will have to get used to working without her guarding officer, personal car or even regular use of the Mayor’s gold chain {{0}}.",
+      "The Mayor’s chain dates back almost 150 years, and is so valuable that the Mayor cannot wear it outside the Town Hall unless she is accompanied by the guarding officer. It was given as a gift to D. Waldo Lincoln, the Mayor of the town, in 1864 by his friends, {{24}}.",
+      "In order to save money the City Council decided to send away the Mayor’s guarding officer and have a copy of the chain made for the Mayor. This new chain will be made of cheap material so the Mayor will not need protection {{25}}. Some people, however, have attacked the plan to buy a new chain, saying that the Mayor already has a gold medal on a red ribbon. Others say that making a copy of the chain for the mayor is necessary “in order to keep up traditions”, {{26}}. According to a recent survey more than 80 per cent of people think {{27}}. They believe the council should not spend money on things the city cannot afford.",
+      "The Mayor told councillors the cuts were sad but necessary. She believes that for future mayors life at the Town Hall will not be quite the same, which is very, very sad – \"{{28}}\". The council’s savings package means they also have to find other ways to arrange travel for the Mayor now that the city no longer has its own car."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "but the situation means it has to happen"
+      },
+      {
+       "key": "B",
+       "text": "and this will still save the taxpayer a lot of money"
+      },
+      {
+       "key": "C",
+       "text": "after her budget was reduced"
+      },
+      {
+       "key": "D",
+       "text": "when she leaves the building"
+      },
+      {
+       "key": "E",
+       "text": "and later he presented it to the council"
+      },
+      {
+       "key": "F",
+       "text": "but he retired after having held this post for thirty years"
+      },
+      {
+       "key": "G",
+       "text": "that reducing the Mayor’s budget is the right thing to do"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      },
+      {
+       "n": 25,
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "answer": "G"
+      },
+      {
+       "n": 28,
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 8,
+    "13": 8,
+    "14": 9,
+    "15": 10,
+    "16": 10,
+    "17": 11,
+    "18": 12,
+    "19": 12,
+    "20": 13,
+    "21": 14,
+    "22": 14,
+    "23": 15,
+    "24": 15,
+    "25": 16,
+    "26": 17,
+    "27": 17,
+    "28": 18
+   },
+   "tasks": [
+    {
+     "id": "2011-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the history of the Clock Tower in Westminster. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "PARLIAMENT'S CLOCK TOWERS",
+     "body": [
+      "The Clock Tower you see today is not the first tower {{0}} be built in Parliament’s grounds in London.",
+      "The original tower was built in 1288-90 {{1}} the reign of King Edward I and contained a bell and clock. A second tower replaced the {{2}} one in 1367. This was the first public chiming clock in England. In 1707, it was in {{3}} poor condition that it had to be demolished. A sundial was put up in {{4}} place.",
+      "In 1836, architect Sir Charles Barry designed a clock tower. Building started only in 1843. The construction fell five years {{5}} schedule and the tower was {{6}} completed in 1859. There was no official opening ceremony, possibly {{7}} completion had been so delayed.",
+      "Big Ben first rang out on 11 July 1859. The name 'Big Ben' is often associated with the Clock Tower and the Great Clock as {{8}} as the Great Bell. However, it was the Great Bell that {{9}} got the nickname. It was named after Sir Benjamin Hall, First Commissioner for Works 1855-1858, {{10}} name is inscribed on the bell.",
+      "Apart from occasional stoppages Big Ben has chimed for 150 years."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BECAUSE"
+      },
+      {
+       "key": "B",
+       "text": "BEHIND"
+      },
+      {
+       "key": "C",
+       "text": "DURING"
+      },
+      {
+       "key": "D",
+       "text": "FINALLY"
+      },
+      {
+       "key": "E",
+       "text": "ITS"
+      },
+      {
+       "key": "F",
+       "text": "ORIGINAL"
+      },
+      {
+       "key": "G",
+       "text": "ORIGINALLY"
+      },
+      {
+       "key": "H",
+       "text": "SUCH"
+      },
+      {
+       "key": "I",
+       "text": "THEIR"
+      },
+      {
+       "key": "K",
+       "text": "TO"
+      },
+      {
+       "key": "L",
+       "text": "WELL"
+      },
+      {
+       "key": "M",
+       "text": "WHOSE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "K"
+      },
+      {
+       "n": 1,
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "E"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "L"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "M"
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a joke about an actor. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-19) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "ZOO JOB",
+     "body": [
+      "One day an unemployed actor tries to earn some {{0}} as a street performer in a zoo. As {{11}} as he starts to draw a crowd, the zoo keeper appears and takes {{12}} into his office. He explains that the zoo's most popular attraction, a gorilla, has died suddenly and he offers the actor a job: {{13}} dress up as the gorilla until they get another one.",
+      "So the next morning he {{14}} on a gorilla suit and enters the cage before the visitors come. He finds the job fantastic. He can sleep, play and {{15}} fun of people and he draws bigger crowds than ever. However, eventually the crowds get bored {{16}} him and begin to pay attention to the lion in the next cage. {{17}} wanting to lose his audience, he climbs to the top of his cage and swings to the lion's cage. This makes the lion furious, but the crowd loves it.",
+      "This goes on for some time: the actor keeps teasing the lion, the crowds grow larger. Then one day {{18}} he is swinging over the furious lion he slips and falls. The lion gathers itself and prepares to attack. The actor is {{19}} scared that he starts screaming, \"Help, help!\" But the lion jumps on him and whispers, \"Shut up you idiot! Do you want to get us both fired?\""
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "money"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "soon"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "him"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "puts",
+        "pulls"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "make"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "with",
+        "of",
+        "by"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "when",
+        "while",
+        "as"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "so"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about domestic dogs. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-28).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "DOMESTIC DOGS",
+     "body": [
+      "Dogs were {{0}} the first domestic animals. They have accompanied humans for some 10,000 years. Some {{20}} say that all dogs, domestic and wild, share a common ancestor in the small South Asian wolf.",
+      "Domestic dogs still share many {{21}} features with their wild relatives. Both defend their territories and mark them by urinating on trees, rocks, fence posts, and other {{22}} places. Many pet dogs bury bones or favourite toys for future use, just as their wild relatives sometimes bury a kill to secure the meat for {{23}} meals.",
+      "Dogs communicate in several ways. Physical {{24}} is one method. Body position, movement, and facial expression often send a strong message. Many of these signals are recognisable even to humans, such as the bared teeth of an {{25}} or threatened animal. Dogs also communicate with a mixture of sounds, {{26}} barks, growls, and whines.",
+      "Domestic dogs are not only companions; many work {{27}}. They guard homes, perform police and rescue work and help {{28}}. Some special animals even guide the blind."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "probable",
+       "example": true,
+       "accept": [
+        "probably"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "science",
+       "accept": [
+        "scientists"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "character",
+       "accept": [
+        "characteristic"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "suit",
+       "accept": [
+        "suitable",
+        "unsuitable"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "late",
+       "accept": [
+        "later"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "appear",
+       "accept": [
+        "appearance"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "anger",
+       "accept": [
+        "angry",
+        "angered"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "include",
+       "accept": [
+        "including"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "hard",
+       "accept": [
+        "hard"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "hunt",
+       "accept": [
+        "hunters"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2011-okt-kozep-H1",
+     "number": 1,
+     "kind": "fix",
+     "layout": "stems",
+     "examType": "hibás szó javítása hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear a report about a very unusual hotel.",
+      "Your task is to find one incorrect word in each of the following sentences. First, cross it out, and then write the correct one on the line after the sentence.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_11okt_fl.mp3",
+      "start": 0,
+      "end": 609.5,
+      "clip": "hang/k_angol_11okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "text": "All of the rooms in the hotel have TVs in them.",
+       "example": true,
+       "fixes": [
+        {
+         "wrong": "all",
+         "accept": [
+          "Most"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 1,
+       "text": "The hotel is not cheap by American standards.",
+       "fixes": [
+        {
+         "wrong": "cheap",
+         "accept": [
+          "expensive",
+          "dear",
+          "pricey"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 2,
+       "text": "Sometimes the staff at the hotel are not very polite.",
+       "fixes": [
+        {
+         "wrong": "staff",
+         "accept": [
+          "guests"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 3,
+       "text": "The guests of the hotel can be quite noisy when they are angry.",
+       "fixes": [
+        {
+         "wrong": "angry",
+         "accept": [
+          "hungry"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 4,
+       "text": "The dogs are left there when their owners go away on business.",
+       "fixes": [
+        {
+         "wrong": "business",
+         "accept": [
+          "vacation",
+          "holiday"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 5,
+       "text": "The guests can watch TV or listen to loud stereo music.",
+       "fixes": [
+        {
+         "wrong": "loud",
+         "accept": [
+          "soft",
+          "quiet"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 6,
+       "text": "The Bruins started up their business months ago.",
+       "fixes": [
+        {
+         "wrong": "months",
+         "accept": [
+          "decades"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 7,
+       "text": "They walk the dogs once a day.",
+       "fixes": [
+        {
+         "wrong": "once",
+         "accept": [
+          "twice"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 8,
+       "text": "The basic price is $22 for large dogs.",
+       "fixes": [
+        {
+         "wrong": "$22",
+         "accept": [
+          "62",
+          "$62"
+         ]
+        },
+        {
+         "wrong": "large",
+         "accept": [
+          "small",
+          "smaller"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 9,
+       "text": "An extra service for dogs is a cosmetic session on check-in day.",
+       "fixes": [
+        {
+         "wrong": "check-in",
+         "accept": [
+          "check-out",
+          "out"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 10,
+       "text": "The Bruins also take care of cats and even horses.",
+       "fixes": [
+        {
+         "wrong": "horses",
+         "accept": [
+          "goldfish"
+         ]
+        }
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A zárójelben lévő szavak is elfogadhatók.) A vonalra írt helyes megoldást akkor is fogadjuk el, ha a vizsgázó elfelejtette kihúzni a rossz szót."
+     }
+    },
+    {
+     "id": "2011-okt-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear some interesting information about the Channel Tunnel.",
+      "Your task is to complete the sentences with one word or number in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_11okt_fl.mp3",
+      "start": 609.5,
+      "end": 1258.63,
+      "clip": "hang/k_angol_11okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The shortest distance between Britain and the Continent is {{gap}} kilometres.",
+       "accept": [
+        "32"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The first known man who swam across the Channel was a French {{gap}}.",
+       "accept": [
+        "soldier"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Bill Neal crossed the Channel in a {{gap}}.",
+       "accept": [
+        "bathtub",
+        "bath",
+        "tub"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The Calais to Dover crossing takes about one hour by {{gap}}.",
+       "accept": [
+        "ship",
+        "boat",
+        "sea",
+        "ferry"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "The first proposals for the Channel Tunnel were made in the {{gap}} century.",
+       "accept": [
+        "19th",
+        "nineteenth"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The Channel Tunnel was finally opened in {{gap}}.",
+       "accept": [
+        "1994"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Shuttle trains are special trains which carry {{gap}}.",
+       "accept": [
+        "cars"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "There are about four Eurostar passenger trains every {{gap}}.",
+       "accept": [
+        "hour"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The Channel Tunnel runs {{gap}} metres under the sea.",
+       "accept": [
+        "40",
+        "forty"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2011-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a true story about a lost wallet.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_11okt_fl.mp3",
+      "start": 1258.63,
+      "end": 1793.71,
+      "clip": "hang/k_angol_11okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mr Beck and Mr Merill collect old motorbikes.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "They answered an advertisement for a classic car.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Mr Beck was driving the car on the way to the restaurant.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "The wallet had fallen out from below the front seat of the car.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "There was a lot of money in the wallet.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Mr Putman and Mr Goodlove are the same person.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The girl Mr Goodlove kissed in the car is now his wife.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Mr Goodlove's grandfather used to live in the State of Idaho.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

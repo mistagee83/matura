@@ -1,0 +1,1176 @@
+{
+ "formatVersion": 1,
+ "id": "2015-maj-kozep",
+ "year": 2015,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2015-05-07",
+ "code": "1511",
+ "sourceFiles": {
+  "paper": "2015 - Középszintű májusi/k_angol_15maj_fl.pdf",
+  "key": "2015 - Középszintű májusi/k_angol_15maj_ut.pdf",
+  "audio": "2015 - Középszintű májusi/k_angol_15maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2015-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about a man whose invention has become a popular toy, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (1-8) from the list (A-K) below.",
+      "Remember that there is one extra phrase that you will not need."
+     ],
+     "title": "I INVENTED THE LOOM BAND",
+     "body": [
+      "Growing up in a small town in Malaysia, we did not have many toys. We had to be creative, so we built kites, played with sand and {{0}}. My father worked on a rubber-tree plantation, and sometimes he showed me the thick, rubber milk they got from the trees to produce natural rubber.",
+      "After school, I dreamed of becoming an engineer, but {{1}}, so my brother and I decided to study abroad. We landed in Kansas, USA, on a snowy day in 1991. I had never seen snow before and {{2}}.",
+      "After I graduated, I started working as an engineer. I loved my job, but I couldn’t spend much time with my family, and {{3}}. One evening I saw them making bracelets from rubber bands and I thought, \"I can impress my girls!\" I sat down and {{4}}, using the same technique we had used to make jumping ropes back in Malaysia.",
+      "The next day, my daughters took their bracelets to school and {{5}}. Children came up to me and asked me to make them bracelets. Then my older daughter suggested selling the bracelets. We all agreed, and we decided to sell not only bracelets, but also various kits containing rubber bands and tools so that kids could make their own designs.",
+      "We invested all our money in tools and rubber bands, and {{6}}. I spent months going round toy stores, trying to sell the loom band kits. Nobody was interested. The problem was that people didn't understand how they worked, so {{7}} which explained how to make rubber-band bracelets. These created a trend.",
+      "In July 2012, we received an order from a toy store for 12 kits. Two weeks later, the same store ordered kits for $10,000. When we saw it, we thought it was a mistake and {{8}}. They told us they had never seen anything like it. After that, our sales climbed quickly until, in December 2012, we reached $200,000 sales a month. Now I run our family business and I have given up my old job.",
+      "(www.theguardian.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "showed them how to link the rubber bands together"
+      },
+      {
+       "key": "B",
+       "text": "we called the store owners"
+      },
+      {
+       "key": "C",
+       "text": "made jumping ropes from rubber bands"
+      },
+      {
+       "key": "D",
+       "text": "I became a neighbourhood hero overnight"
+      },
+      {
+       "key": "E",
+       "text": "missed playing with my two daughters"
+      },
+      {
+       "key": "F",
+       "text": "I asked my daughters to create YouTube videos"
+      },
+      {
+       "key": "G",
+       "text": "I put them on her finger"
+      },
+      {
+       "key": "H",
+       "text": "I could not get into my local university"
+      },
+      {
+       "key": "I",
+       "text": "assembled the kits ourselves in our garage"
+      },
+      {
+       "key": "K",
+       "text": "hardly spoke any English"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "K"
+      },
+      {
+       "n": 3,
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "F"
+      },
+      {
+       "n": 8,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 6,
+     "instructions": [
+      "Read this article about a new kind of mirror and then read the sentences (9-14) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "MIRROR, MIRROR ON THE WALL...",
+     "body": [
+      "When IKEA discovered that nearly half of Brits surveyed by them didn’t receive a single compliment during the week and that a third of the UK population thinks it looks its worst before 9 a.m. on Monday mornings, the Swedish furniture giant decided to do something about it.",
+      "Faster than you can say \"Mirror, Mirror...\" the company's UK unit developed a talking mirror that (thanks to digital technology) compliments customers walking by with pick-up lines such as “Have you been working out?” and “Your eyes are wonderful.” or “You look fabulous today.” While the words are spoken, they are written across the mirror as well. The effect on customers was immediate and amusing.",
+      "“We all know how that first look in the bathroom or bedroom mirror can determine whether we have a good or bad day,” said Myriam Ruffo in a press release about why IKEA is reinventing the mirror. “That’s why we thought—wouldn’t it be great if the mirror actually told you something positive for a change? It’s often the small things that make the biggest difference.” Indeed. The mirror is currently being tested in one location in the UK but it seems likely that its voice will soon be heard in other locations.",
+      "(www.brandchannel.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "IKEA has done some research on people’s feelings about their looks.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The research findings showed that half of the British were dissatisfied with their appearance on Monday morning.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "It didn’t take IKEA a long time to create the mirror.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "3D technology was used to make the product.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "The mirror only says pleasant things to anyone passing by.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "IKEA advises flat owners to place the mirror in the hall.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "There are mirrors being tested at several places in Britain.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 5,
+     "instructions": [
+      "In the following interview with astronaut Al Worden the questions have been removed.",
+      "Your task is to write the letters of the questions (A-G) next to the appropriate numbers (15-19).",
+      "There is one extra question that you do not need."
+     ],
+     "title": "THE LONELIEST HUMAN BEING",
+     "body": [
+      "On each of the six Apollo missions to the Moon, one member of the crew stayed in the command module that flew around the Moon while the two other astronauts actually landed. Al Worden was one of these command module pilots.",
+      "{{0}}\nIt’s kind of funny that everybody’s interested in those who land on the Moon, but the person who stays in orbit can collect a lot more scientific data. For example, I photographed about 25% of the lunar surface.",
+      "{{15}}\nFirst, I wished them luck: “I hope you land okay!” The second thought was: “Wow, I’m glad they’ve gone because I’ve got this place all to myself.”",
+      "{{16}}\nLet’s get this clear: being alone and being lonely are not the same thing. I totally enjoyed it. On the backside of the Moon I didn’t even have to talk to Houston!",
+      "{{17}}\nYes, true, but I didn’t think about that distance! I had billions of stars to look at. You just can’t imagine how enormous the universe can feel!",
+      "{{18}}\nI didn’t need someone chatting to me all the time. I had a lot of work to do. But, of course, if anything serious happens, then you really do want to contact them.",
+      "{{19}}\nI was, and still am, an absolute Beatles fan – I just love them. I also carried some Elton John, some John Denver and the Blue Danube Waltz.",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "But you were 250,000 miles away from home, weren’t you?"
+      },
+      {
+       "key": "B",
+       "text": "Did you really prefer being out of contact with Houston? Why was that?"
+      },
+      {
+       "key": "C",
+       "text": "Do you feel that history is not fair to command module pilots? You never actually landed on the Moon."
+      },
+      {
+       "key": "D",
+       "text": "What was your favourite food during the flight?"
+      },
+      {
+       "key": "E",
+       "text": "What went through your mind when the lunar lander began its landing on the Moon?"
+      },
+      {
+       "key": "F",
+       "text": "What about music – what was your mix tape for the Moon?"
+      },
+      {
+       "key": "G",
+       "text": "Wasn’t it lonely?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "answer": "E"
+      },
+      {
+       "n": 16,
+       "answer": "G"
+      },
+      {
+       "n": 17,
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following advice on how to be a good writer and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there is one extra letter that you will not need."
+     ],
+     "title": "HOW TO BE A BEST-SELLING AUTHOR",
+     "body": [
+      "Great tips from international bestselling author Sophie Kinsella  Always carry a notebook You can do a lot with a bit of overheard dialogue. Get into the habit of looking at life like a writer and writing it all down.  Write the book that you want to read Go into a shop and imagine the book that would make you want to take it off the shelf. The chances are that other people would too.  Don't talk about what you're writing I am very secretive when I'm writing a new book. The minute you share it and ask for opinions, it will just get in the way of your creativity.  Just get to the end It's the hardest thing and it's the most important thing! Everybody can reach a dead-end or get bored – don’t give up!  Walk and drink cocktails If I get stuck, I'll go out for a walk with my husband, find a bar and we'll order cocktails and talk. It really turns the whole thing into a fun project.  Consider a pen-name There is one great advantage to having a pen-name. It gives you a bit of privacy and you won’t be stopped at every street corner.",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "and you’ve completed the most difficult part of the job."
+      },
+      {
+       "key": "B",
+       "text": "and surely many people will enjoy your story."
+      },
+      {
+       "key": "C",
+       "text": "and you can read her works in many languages."
+      },
+      {
+       "key": "D",
+       "text": "and if you pick one that sounds good, it’ll sell your books."
+      },
+      {
+       "key": "E",
+       "text": "and note down what people say around you."
+      },
+      {
+       "key": "F",
+       "text": "and it’ll help you continue writing."
+      },
+      {
+       "key": "G",
+       "text": "and whatever other people might say won’t kill your inspiration."
+      },
+      {
+       "key": "H",
+       "text": "and strangers will not disturb you."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Sophie Kinsella is a popular author…",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "You must do what real writers do…",
+       "answer": "E"
+      },
+      {
+       "n": 21,
+       "stem": "Write the sort of book that you’d love to read…",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Keep your ideas to yourself…",
+       "answer": "G"
+      },
+      {
+       "n": 23,
+       "stem": "Continue writing…",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Go out and have some fun…",
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "stem": "Don’t use your own name…",
+       "answer": "H"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 9,
+    "15": 10,
+    "16": 11,
+    "17": 11,
+    "18": 12,
+    "19": 13,
+    "20": 13,
+    "21": 14,
+    "22": 15,
+    "23": 15,
+    "24": 16,
+    "25": 17,
+    "26": 17,
+    "27": 18
+   },
+   "tasks": [
+    {
+     "id": "2015-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a 16-year-old girl's school project. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (1-8) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SNOW FENCES",
+     "body": [
+      "Erica David lives in Pinedale, Wyoming, where winter {{0}} bring temperatures of minus 37 degrees Celsius, howling winds, and a lot of snow. So {{1}} was natural that she chose to study snow for her school science fair project in sixth grade.",
+      "Now in high school, Erica is in her fifth year of snow experiments, and is well {{2}} her way to becoming a snow expert. She started with a basic question: Could snow fences {{3}} built to work better?",
+      "These important structures {{4}} used to keep snowdrifts from covering areas like roads or train tracks or to help build up snow where it can help with water shortages in spring when it melts. “Also, I wanted to protect my animals {{5}} the blowing snow,” says Erica.",
+      "Before she could test fence designs, Erica had to figure out {{6}} would act like real snow in her experiments. She tested flour, sugar, and detergents. She used a wind tunnel to see {{7}} one of them acted most like snow blown into a fence. She chose dishwasher powder.",
+      "Science fairs offer the opportunity {{8}} test hypotheses and meet other researchers. But perhaps the best reward is that her research is already being put to good use.",
+      "(www.nationalgeographic/kids.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "can"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "are",
+        "get"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "from",
+        "against"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "what"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "to"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about our sense of number. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-16).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "MATH AND OUR NUMBER SENSE",
+     "body": [
+      "Not all math skills are learned in the classroom. Some of them come {{0}}. Consider the split-second calculation you make when you estimate the number of empty seats on the bus.",
+      "Such estimates can often be done without {{9}}. That’s because humans are born with the {{10}} to guess the number of items in a group. Researchers call this characteristic a person’s “number sense”. Four-month-old infants and even some animals can make rough approximations. This inborn number sense reaches back millions of years and has been used by humans and animals to help guide everyday {{11}} such as hunting for food.",
+      "{{12}} have discovered that our number sense may influence learning and achievement in the classroom. {{13}} with teenagers show that students who are good at estimating quantities also did well on standard math tests. These results suggest a “strong {{14}}” between a person’s number sense and their capacity to learn mathematics in school.",
+      "Does this {{15}} mean that you cannot be good at math if you have a weak number sense? Or is having a strong number sense a guarantee of good {{16}} in math? The answers are not clear but one thing is certain: doing lots of math homework will boost your chances of success.",
+      "(www.sciencenewsforkids.org)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "natural",
+       "example": true,
+       "accept": [
+        "naturally"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "count",
+       "accept": [
+        "counting"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "able",
+       "accept": [
+        "ability"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "behave",
+       "accept": [
+        "behaviour",
+        "behaviours",
+        "behaviors",
+        "behavior"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "science",
+       "accept": [
+        "scientists"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "study",
+       "accept": [
+        "studies"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "relation",
+       "accept": [
+        "relationship",
+        "relation",
+        "correlation"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "connect",
+       "accept": [
+        "connection"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "perform",
+       "accept": [
+        "performance"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-kozep-L3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 11,
+     "instructions": [
+      "You are going to read a text about 'first footing', a Scottish tradition that is still practised in many parts of the country. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (17-27) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "FIRST FOOTING",
+     "body": [
+      "In the old days, in Scotland, the New Year started with a custom {{0}} 'first footing', which was supposed to {{17}} good luck to people for the coming year.",
+      "As {{18}} as midnight had passed and January 1st had started, people {{19}} to wait behind their doors for a dark-haired man to arrive. This is believed to {{20}} back to the Viking invasion, when a big blonde stranger arriving {{21}} your doorstep with a big axe meant big trouble, and probably not a happy New Year.",
+      "The 'first footer' {{22}} a piece of coal, some bread, some money and some greenery. These were all {{23}} good luck - the coal to ensure that the house would always be warm, the bread to ensure that {{24}} in the house would have enough food to eat, money {{25}} that they would have enough money, and the greenery to {{26}} sure that they would have a long life.",
+      "The visitor {{27}} took a pan of dust or ashes out of the house with him, thus symbolizing the departure of the old year.",
+      "(www. woodlands-junior.kent.sch.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BRING"
+      },
+      {
+       "key": "B",
+       "text": "CARRIED"
+      },
+      {
+       "key": "C",
+       "text": "CALLED"
+      },
+      {
+       "key": "D",
+       "text": "DATE"
+      },
+      {
+       "key": "E",
+       "text": "EVERYONE"
+      },
+      {
+       "key": "F",
+       "text": "FOR"
+      },
+      {
+       "key": "G",
+       "text": "FROM"
+      },
+      {
+       "key": "H",
+       "text": "MAKE"
+      },
+      {
+       "key": "I",
+       "text": "ON"
+      },
+      {
+       "key": "K",
+       "text": "SO"
+      },
+      {
+       "key": "L",
+       "text": "SOON"
+      },
+      {
+       "key": "M",
+       "text": "THEN"
+      },
+      {
+       "key": "N",
+       "text": "USED"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "answer": "L"
+      },
+      {
+       "n": 19,
+       "answer": "N"
+      },
+      {
+       "n": 20,
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "answer": "I"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "answer": "F"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      },
+      {
+       "n": 25,
+       "answer": "K"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "M"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2015-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear an interesting story about a little girl called Sorella Stoute.",
+      "Your task is to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_15maj_fl.mp3",
+      "start": 0,
+      "end": 609.41,
+      "clip": "hang/k_angol_15maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How old is Sorella? {{gap}}",
+       "accept": [
+        "Thirteen months old"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "When did Sorella’s dad receive an email from eBay? {{gap}}",
+       "key": "Last month. (Also acceptable: A month ago.)",
+       "keywords": [
+        [
+         "last",
+         "month"
+        ],
+        [
+         "month",
+         "ago"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "When was the car made? {{gap}}",
+       "key": "(In) 1962.",
+       "keywords": [
+        [
+         "1962"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What did he initially think about the email? {{gap}}",
+       "key": "(It was) a joke.",
+       "keywords": [
+        [
+         "joke"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What word can’t Sorella say? {{gap}}",
+       "key": "Car.",
+       "keywords": [
+        [
+         "car"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "When did Stoute contact the seller after receiving the email? {{gap}}",
+       "key": "Immediately.",
+       "keywords": [
+        [
+         "immediately"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "According to the seller’s note, what did Sorella have? {{gap}}",
+       "key": "(Very) good taste.",
+       "keywords": [
+        [
+         "good",
+         "taste"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Who had Stoute borrowed the money from? {{gap}}",
+       "key": "(From his) family.",
+       "keywords": [
+        [
+         "family"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Besides a new engine, what two things does the car need? {{gap}}",
+       "key": "Brakes, roof.",
+       "keywords": [
+        [
+         "brakes",
+         "roof"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "On what special occasion does Stoute hope to give the car to Sorella? {{gap}}",
+       "key": "(On Sorella’s / her) 16th / sixteenth birthday.",
+       "keywords": [
+        [
+         "16th",
+         "birthday"
+        ],
+        [
+         "sixteenth",
+         "birthday"
+        ],
+        [
+         "16",
+         "birthday"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2015-maj-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear some information about the history of the American Thanksgiving holiday.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_15maj_fl.mp3",
+      "start": 609.41,
+      "end": 1138.09,
+      "clip": "hang/k_angol_15maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The American tradition of Thanksgiving goes back to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "the early days of the American colonies."
+        },
+        {
+         "key": "B",
+         "text": "almost four hundred years ago."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "The Pilgrims sailed across the Atlantic to settle in the New World for … reasons.",
+       "options": [
+        {
+         "key": "A",
+         "text": "religious"
+        },
+        {
+         "key": "B",
+         "text": "economic"
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The first winter was so difficult …",
+       "options": [
+        {
+         "key": "A",
+         "text": "because they arrived too late to grow enough crops."
+        },
+        {
+         "key": "B",
+         "text": "that only half of the Pilgrims survived it."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "During the following spring, the Indians showed them how to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "grow corn."
+        },
+        {
+         "key": "B",
+         "text": "hunt and fish."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The rich harvest in the autumn of 1621 included excellent crops of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "beans and pumpkins."
+        },
+        {
+         "key": "B",
+         "text": "wheat and fruit."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "For the feast held in the autumn of 1621, the Indians …",
+       "options": [
+        {
+         "key": "A",
+         "text": "invited the colonists."
+        },
+        {
+         "key": "B",
+         "text": "brought deer and popcorn."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Celebrating the autumn harvest with a feast ... the U.S. became an independent country.",
+       "options": [
+        {
+         "key": "A",
+         "text": "was already a custom before"
+        },
+        {
+         "key": "B",
+         "text": "became an official holiday only after"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "The current day set aside for celebrating Thanksgiving ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was recommended by Abraham Lincoln."
+        },
+        {
+         "key": "B",
+         "text": "is November 26th."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear a story about the friendship of Jonny, an autistic boy, and Xena, the Warrior Puppy.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_15maj_fl.mp3",
+      "start": 1138.09,
+      "end": 1795.48,
+      "clip": "hang/k_angol_15maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Johnny is ten years old.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Johnny is an only child.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Johnny is able to speak and read.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Johnny used to sing to himself when he was playing with marbles.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Xena was brought to an animal shelter two months ago.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Xena was wounded when she was cruelly beaten.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Xena got the name ‘Warrior Puppy’ because she’d been able to get well very fast.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Johnny’s mother, Linda read about Xena on the Internet.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Johnny’s dad encouraged Linda to adopt the puppy.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "At first, Xena was afraid of Johnny.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

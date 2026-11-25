@@ -1,0 +1,1571 @@
+{
+ "formatVersion": 1,
+ "id": "2007-okt-emelt",
+ "year": 2007,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2007-10-29",
+ "code": "0621",
+ "sourceFiles": {
+  "paper": "2007. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_07okt_fl.pdf",
+  "key": "2007. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_07okt_ut.pdf",
+  "audio": "2007. Emeltszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_07okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2007-okt-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about strange objects in the world’s seas and then read the statements following it.",
+      "Mark a statement A if is true according to the article.",
+      "Mark it B if it is false,",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or not. Write the letters in the white boxes next to the numbers. There is an example (0) for you."
+     ],
+     "title": "Furry surfers ride the ocean currents",
+     "body": [
+      "Hundreds of toy animals were washed ashore on the South Coast of England last week. The cuddly toys came from containers swept overboard by rough seas during a gale in the English Channel.",
+      "Annoying as this loss is for toyshop owners, such accidents can be a goldmine for scientists tracking ocean currents.",
+      "In the autumn of 1992 thousands of plastic ducks washed ashore in southern Alaska. The duck flotilla had been launched several months previously when a container ship from Hong Kong hit a storm in the middle of the Pacific Ocean and shed its cargo. Some ducks made it into the Arctic Ocean where they were frozen in ice, while others turned south and circled the entire North Pacific in just three years.",
+      "Oceanographers plotted the voyages of the plastic ducks by collecting reports from beachcombers and used the data to show how currents and winds carried the flotsam vast distances much faster than anyone had anticipated.",
+      "This was merely the tip of mountains of rubbish drifting through the world’s seas. Some 10,000 containers are lost overboard from ships each year, along with millions of plastic bags, fishing nets, metal drums and other debris. Sadly, most of the debris is indestructible, poisoning the oceans and killing sea creatures."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Several people were rescued when their boat overturned in the English Channel last week.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "The toy animals found on the South Coast were from containers a ship had lost in a storm.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Toyshop owners were delighted at the event.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "The ducks discovered in Alaska in the early 1990s had originally come from Asia.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Unfortunately, many of these ducks were frozen to death in the Arctic Ocean.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "The data scientists collected about the speed of currents and winds didn’t surprise anybody.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "By picking up debris from beaches, beachcombers do a valuable job in protecting the environment.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "There is growing concern over the amount of rubbish in the world’s seas.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article on the nature of happiness.",
+      "Some parts of sentences have been removed.",
+      "Your task is to fill the gaps from the list.",
+      "Write the appropriate letters in the white boxes next to the numbers as in the example (0).",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "You can learn how to be happy",
+     "body": [
+      "Depressed? Positive psychology may help you look on the bright side of life",
+      "If being unhappy and dissatisfied is your normal state of mind, you may be tempted to laugh at the claim. But {{0}} we can teach ourselves to think in a more positive way. By following key rules and using mind games, say scientists, {{8}}. The theory is currently being put to the test in Britain in a unique project in which volunteers with varying levels of depression are taking part in a series of experiments. It is hoped the study, the biggest of its kind ever undertaken, will help psychologists {{9}} and how it can be combated. Positive psychology − also known as the science of happiness − was developed by Martin Seligman, of the University of Pennsylvania, and {{10}} rather than on how they become depressed.",
+      "Researchers found that inherited character traits and childhood experiences accounted for just 50 per cent of someone’s happiness potential. The rest was {{11}}. They discovered that those who class themselves as ‘very happy’ are no more sociable, beautiful or successful than the average person. Where they differed was in having found out {{12}} and including more of it in their lives.",
+      "One key to happiness is to cultivate ‘flow’ activities − hobbies or activities in which we become so immersed that time is forgotten. Another is to surround ourselves with close friends or loved ones.",
+      "Married couples were found to live longer {{13}}, but single people can achieve the same by cultivating a ‘para-family’ of friends and colleagues. Psychologists say {{14}} and include a great deal of self-disclosure to result in higher levels of happiness.",
+      "A central finding is that we can promote our happiness by learning to control, and {{15}}, negative thoughts. One technique is ‘fast forward thinking’ in which we screen a ‘film’ of a negative event in the mind then fast forward it until it becomes a blur.",
+      "Psychologists have also found that negative thoughts such as fear, boredom or embarrassment {{16}} and can be controlled. They claim a person can train themselves to think happier by understanding that these thoughts are often biased."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "everyone can eventually lead a fulfilling and contented life"
+      },
+      {
+       "key": "B",
+       "text": "controlled by the individual"
+      },
+      {
+       "key": "C",
+       "text": "experts in a new field of psychology say"
+      },
+      {
+       "key": "D",
+       "text": "focuses on how people flourish"
+      },
+      {
+       "key": "E",
+       "text": "who care about others"
+      },
+      {
+       "key": "F",
+       "text": "to learn more about depression"
+      },
+      {
+       "key": "G",
+       "text": "relationships need to be intimate"
+      },
+      {
+       "key": "H",
+       "text": "has spent time with the study team"
+      },
+      {
+       "key": "I",
+       "text": "and enjoy good physical health"
+      },
+      {
+       "key": "K",
+       "text": "what makes them happy"
+      },
+      {
+       "key": "L",
+       "text": "are often over-reactions"
+      },
+      {
+       "key": "M",
+       "text": "eventually avoid"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "answer": "K"
+      },
+      {
+       "n": 13,
+       "answer": "I"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "M"
+      },
+      {
+       "n": 16,
+       "answer": "L"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article on illegal art trade and then read the gapped sentences following it.",
+      "Your task is to fill the gaps with one or two words according to the information in the text."
+     ],
+     "title": "Europe tries to halt tide of art smuggled to America",
+     "body": [
+      "Court cases aim to break the billion-pound global trade in stolen antiquities that end up with wealthy US collectors and museums.",
+      "A series of legal actions has been launched by European governments to regain priceless works of art which they claim have been illegally smuggled to America to be sold off to wealthy collectors and museums.",
+      "One of the highest profile cases is in France, where the so-called ‘Affair of the Hebrew Manuscripts’ is reaching its climax. The case centres on Michel Garel, a specialist in ancient documents at the National Library in Paris, who is alleged to have systematically stolen medieval texts to satisfy a demand from America. One manuscript, a 600-year old French Hebrew version of biblical books such as the Lessons of the Prophets, has been traced to a New York collector who bought it for £200,000 at Christie’s, the London and New York based auction house. Garel, who maintains his innocence, is to appear before a French court on theft charges.",
+      "Agnes Saal, the library’s director, said: ‘The National Library is determined to recover this manuscript so that it can once more take its place as part of the national heritage.’",
+      "‘We are dealing with crimes that touch on the history of France,’ said Colonel Roger Lembert, head of France’s 30-strong police unit dedicated to cracking art smuggling.",
+      "The affair coincides with a similar case in Italy, where authorities have started an aggressive campaign to regain lost treasures. On trial are Marion True, a former Getty Museum antiquities curator and Robert Hecht, an American art dealer based in Paris. As a representative of the world’s richest art institution, True is accused of illegally obtaining 42 items during the 1980s and 1990s, including a 2,000-year statue of Apollo unearthed in Italy. The charges carry a 10-year sentence. She denies the charge − as does Hecht −and the Getty Museum says she is innocent.",
+      "Rocco Buttiglione, the Italian minister for culture, said Italy is paving the way for other countries to retrieve looted heritage. ‘The age of trafficking in art pieces is over,’ he warned.",
+      "The global trade in stolen art treasures is worth … billions… of pounds.",
+      "Rich {{17}} art collectors and museums play an important role in illicit art trade.",
+      "One case in France concerns an old {{18}}.",
+      "The person thought to be responsible for having stolen and sold it is called {{19}}.",
+      "According to Agnes Saal it should be returned to the {{20}}.",
+      "The aim of Colonel Roger Lembert and his {{21}} is to stop art smuggling.",
+      "If found guilty of art trafficking, Marion True will probably be sent to {{22}}.",
+      "The Italian Minister for Culture believes Italian efforts to get their art treasures back will make it easier for {{23}} to do so, too."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 17,
+       "accept": [
+        "American",
+        "US"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "Hebrew manuscript",
+        "text",
+        "document",
+        "Hebrew text",
+        "Hebrew document",
+        "manuscript"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "Michel Garel"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "National Library"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "police unit",
+        "30 men",
+        "team",
+        "men",
+        "police men",
+        "police team"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "prison",
+        "gaol",
+        "jail"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "other countries"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "In this story of a dramatic rescue operation at sea some paragraphs have been jumbled up.",
+      "Your task is to put them back in order.",
+      "Remember that there is an extra letter that you do not need."
+     ],
+     "title": "Navy helicopter lifts lifeboat crew to safety in island yacht-rescue drama",
+     "body": [
+      "A lifeboat crew was saved by a Royal Navy helicopter yesterday when the would-be rescuers became victims of the sea themselves in an early morning air-sea rescue drama.",
+      "{{0}}\nBuffeted by rising winds and high seas, the pilot of the military helicopter managed to hover close enough to the reef to allow the three men to clamber aboard.",
+      "{{24}}\nLater yesterday, the man in charge of the Royal National Lifeboat Institution (RNLI) paid tribute to the helicopter crew for their crucial role in averting what could have been a disaster.",
+      "{{25}}\nThe drama began at 12:45am yesterday morning when a frantic call from a mobile phone alerted the Clyde Coastguard operations centre.",
+      "Minutes before, the 50ft motor yacht, Enterprise, crewed by two men, had run aground on a reef off the coast of Jura. As the vessel sank, one man managed to reach the relative security of the reef itself. His companion plunged into the sea and swam to a tiny island nearby.",
+      "{{26}}",
+      "{{27}}\nWearing night-vision goggles, the helicopter’s crew of five were able to pick out the stranded men because of the lifeboat men’s survival gear that shone like beacons.",
+      "Capt Hills said: “We couldn’t actually touch down because of the contour of the land and the bushes, but we held steady long enough to get everyone on board.",
+      "{{28}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Michael Vlasto, the operations director of the RNLI, said: “We are very grateful to the Royal Navy for airlifting our two volunteer crewmen back on board the lifeboat, and getting the two yachtsmen safely to dry land.”"
+      },
+      {
+       "key": "B",
+       "text": "When the lifeboat reached the scene, the captain realised he could not get his lifeboat close enough to the scene and launched the lifeboat’s inflatable vessel which filled with water and trapped the two lifeboat men along with the yachtsman on the reef. However, the Royal Navy Sea King helicopter was en route to the scene."
+      },
+      {
+       "key": "C",
+       "text": "The two-man lifeboat crew became trapped on a sliver of reef along with a stranded yachtsman they had been attempting to rescue."
+      },
+      {
+       "key": "D",
+       "text": "The hospital spokesman said: “They were feeling fine and have been discharged.”"
+      },
+      {
+       "key": "E",
+       "text": "Once on land, he used his mobile phone to summon the rescue services."
+      },
+      {
+       "key": "F",
+       "text": "It was a good operation; we got the other guy, too. Thankfully, all is well that ends well.”"
+      },
+      {
+       "key": "G",
+       "text": "The pilot, Captain Ian Hills, then gingerly moved his Sea King helicopter toward a tiny island off the coast of Jura, in the Inner Hebrides, where he was able to pick up a second stranded yachtsman."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "G"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2007-okt-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about hamburgers. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-10) in the text."
+     ],
+     "title": "BURGER SERVED WITH LEGAL WARNING",
+     "body": [
+      "Diners wanting to taste a restaurant's £12 gourmet burgers last week {{0}} they had to sign a disclaimer. The document stated that the restaurant was not responsible for the consequences.",
+      "Managers at the Marriott West India Quay in east London's Docklands asked customers to complete the form {{1}} rare or medium-rare meat. The chef on duty also had to sign the paper, {{2}} said the restaurant should not be held responsible for food-poisoning. Customers {{3}} have their burgers cooked \"medium or above\" instead to reduce the risk.",
+      "A spokesman for Marriott said they stopped {{4}} the forms on Monday but warned customers they had the rare or medium-rare burgers \"at their own risk\". She added: \"We should {{5}} that we have full confidence in the meat products that we serve. {{6}}, customers who choose to have their burgers cooked rare or medium rare {{7}} at their own risk.\"",
+      "Nick Scade, chairman of the Restaurant Association, said: \"I {{8}} heard of anything like this before - and it's not something {{9}} in my restaurant. You've got to have a bit of common sense somewhere in life and if a customer wants to order raw meat they have to {{10}} responsibility for the risk they are taking.\""
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "refused"
+        },
+        {
+         "key": "B",
+         "text": "will accept"
+        },
+        {
+         "key": "C",
+         "text": "were told"
+        },
+        {
+         "key": "D",
+         "text": "were asked"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "unless they wanted"
+        },
+        {
+         "key": "B",
+         "text": "if they asked"
+        },
+        {
+         "key": "C",
+         "text": "so they ordered"
+        },
+        {
+         "key": "D",
+         "text": "if they wanted"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "which"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "Ø"
+        },
+        {
+         "key": "D",
+         "text": "who"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "allowed the chef"
+        },
+        {
+         "key": "B",
+         "text": "happened to"
+        },
+        {
+         "key": "C",
+         "text": "were urged to"
+        },
+        {
+         "key": "D",
+         "text": "were used to"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "to use"
+        },
+        {
+         "key": "B",
+         "text": "having used"
+        },
+        {
+         "key": "C",
+         "text": "using"
+        },
+        {
+         "key": "D",
+         "text": "being used"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "realise"
+        },
+        {
+         "key": "B",
+         "text": "call attention"
+        },
+        {
+         "key": "C",
+         "text": "care about"
+        },
+        {
+         "key": "D",
+         "text": "point out"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "Moreover"
+        },
+        {
+         "key": "B",
+         "text": "Although"
+        },
+        {
+         "key": "C",
+         "text": "However"
+        },
+        {
+         "key": "D",
+         "text": "Otherwise"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "do so"
+        },
+        {
+         "key": "B",
+         "text": "eat that"
+        },
+        {
+         "key": "C",
+         "text": "will do"
+        },
+        {
+         "key": "D",
+         "text": "order it"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "could have"
+        },
+        {
+         "key": "B",
+         "text": "certainly haven’t"
+        },
+        {
+         "key": "C",
+         "text": "probably haven’t"
+        },
+        {
+         "key": "D",
+         "text": "might have"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "I have been done"
+        },
+        {
+         "key": "B",
+         "text": "I’ll include"
+        },
+        {
+         "key": "C",
+         "text": "I’ll be doing"
+        },
+        {
+         "key": "D",
+         "text": "I encourage it"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "take any"
+        },
+        {
+         "key": "B",
+         "text": "accept altogether"
+        },
+        {
+         "key": "C",
+         "text": "take up"
+        },
+        {
+         "key": "D",
+         "text": "accept some"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a newspaper article about two children. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-19) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "BABIES SWITCHED AT BIRTH",
+     "body": [
+      "BANGKOK",
+      "Two babies born on the same day in the same hospital in Thailand were accidentally switched at birth, but nobody knew about it {{0}} a decade.",
+      "The parents of the children, now 10 years old, learned last month they {{11}} been raising children that biologically were not {{12}}, doctors said.",
+      "Doctors at the hospital where the children were born said {{13}} was still a mystery how the mix-up occurred, but noted that the pair shared certain features.",
+      "“They were born in the same room, {{14}} the same time, and had the same weight,”",
+      "said Sinchai Rongdet, the current director of Yantakhao Hospital, where both babies {{15}} delivered. “The only difference is their gender.” Doctors typically {{16}} a mother her baby’s sex as soon as the child is born and tag the baby’s wrist with his or her particulars.",
+      "The children {{17}} up in neighbouring villages and went to the same school. Neighbours constantly told the parents that their children bore close resemblance to the {{18}} child’s family. To satisfy people’s curiosity, the parents and children went for DNA tests.",
+      "“DNA tests confirmed that the children were switched,” Sinchai said, adding that the families have {{19}} yet decided how to handle the news.",
+      "A Health Ministry official said the ministry was investigating the incident."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "theirs"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "tell"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "grew"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "other"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "not"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about research on humour. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-29).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE CENTRE OF FUN",
+     "body": [
+      "Finding the centre of fun Decoding the brain has proved no {{0}} matter. People who have suffered {{20}} to the front of their brain do not get complex {{21}} stories or more sophisticated jokes, according to research.",
+      "The scientists from the University of Toronto say that, for the first time, they have {{22}} the main centre of humour - in the right frontal lobe of the brain. \"We've always thought of humour as an intangible part of our {{23}},\" said Dr Prathiba Shammi of the university's Department of Psychology.",
+      "The researchers tested numerous {{24}} to jokes in 31 adults aged 18 to 70. The study found that people with problems in the frontal lobe of their brain found it most difficult to appreciate {{25}} and verbal jokes and cartoons. They chose the wrong punchlines to jokes and were likely to choose totally {{26}} endings.",
+      "For example, they were asked to finish the {{27}} joke: A teenager is being interviewed for a summer job. \"You'll get $50 a week to start off,\" says his boss. \"Then after a month you'll get a {{28}} to $75 a week.\" The guinea pigs then had to choose from a range of punchlines: \"I'd like to take the job. When can I start?\" \"Hey boss, your nose is too big for your face!\" \"That's great! I'll come back in a month.\" The {{29}} answer was the correct one, but people with damage to their right frontal lobe tended to choose the second punchline."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "laugh",
+       "example": true,
+       "accept": [
+        "laughing"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "injure",
+       "accept": [
+        "injuries",
+        "injury"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "humour",
+       "accept": [
+        "humorous"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "local",
+       "accept": [
+        "located"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "personal",
+       "accept": [
+        "personality"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "respond",
+       "accept": [
+        "responses"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "write",
+       "accept": [
+        "written"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "logical",
+       "accept": [
+        "illogical"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "follow",
+       "accept": [
+        "following"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "rise",
+       "accept": [
+        "rise"
+       ]
+      },
+      {
+       "n": 29,
+       "prompt": "three",
+       "accept": [
+        "third"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about pigs. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "PIG FRIENDSHIP",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "I had a close friend who grew up on a farm in Indiana. We have",
+       "answer": "have"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "used to share stories of our childhood. Since my Mom was English,",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "I was forced to eat \"fish and chips\" several times a week. Given",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "the choice, I would rather have been enjoyed some BBQ ribs. Rob,",
+       "answer": "been"
+      },
+      {
+       "n": 32,
+       "text": "on the other hand, loved fish and fishing, but absolutely refused to",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "eat pork. I once asked him why he has disliked pork. Having lived on",
+       "answer": "has"
+      },
+      {
+       "n": 34,
+       "text": "a farm, I expected he would tell me how much dirty they were. “Pigs",
+       "answer": "much"
+      },
+      {
+       "n": 35,
+       "text": "are emotionally very much would like humans,” Rob said, “and once",
+       "answer": "would"
+      },
+      {
+       "n": 36,
+       "text": "you’ve not been around them you just can’t eat them.” Rob told me a",
+       "answer": "not"
+      },
+      {
+       "n": 37,
+       "text": "collection of farm stories, mostly dealing with pigs’ friendly character.",
+       "answer": null
+      },
+      {
+       "n": 38,
+       "text": "I was reminded of these pig stories when I had heard that a lot of",
+       "answer": "had"
+      },
+      {
+       "n": 39,
+       "text": "households in America had beaten potbellied pigs as indoor pets.",
+       "answer": "beaten"
+      },
+      {
+       "n": 40,
+       "text": "Their keen on intellect and strong emotional bond made them “family",
+       "answer": "on"
+      }
+     ],
+     "outro": "members” to the lonely and elderly."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 30
+   },
+   "tasks": [
+    {
+     "id": "2007-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear a text about American attitudes to cars.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_07okt_fl.mp3",
+      "start": 0,
+      "end": 680.27,
+      "clip": "hang/e_angol_07okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The speaker doesn't mention … as an essential element of the American Dream.",
+       "options": [
+        {
+         "key": "A",
+         "text": "the family"
+        },
+        {
+         "key": "B",
+         "text": "the home"
+        },
+        {
+         "key": "C",
+         "text": "the car"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "There are about … million cars in the U.S.",
+       "options": [
+        {
+         "key": "A",
+         "text": "108"
+        },
+        {
+         "key": "B",
+         "text": "147"
+        },
+        {
+         "key": "C",
+         "text": "255"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The majority of Americans drive … the speed limit.",
+       "options": [
+        {
+         "key": "A",
+         "text": "faster than"
+        },
+        {
+         "key": "B",
+         "text": "slower than"
+        },
+        {
+         "key": "C",
+         "text": "about as fast as"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "To get to work, most Americans …",
+       "options": [
+        {
+         "key": "A",
+         "text": "use their own cars."
+        },
+        {
+         "key": "B",
+         "text": "prefer to walk."
+        },
+        {
+         "key": "C",
+         "text": "use public transportation."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "San Francisco and Washington D.C. …",
+       "options": [
+        {
+         "key": "A",
+         "text": "have the most parking lots."
+        },
+        {
+         "key": "B",
+         "text": "are notorious for their traffic jams."
+        },
+        {
+         "key": "C",
+         "text": "have the best highways."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Americans will do everything they can to avoid having to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "drive."
+        },
+        {
+         "key": "B",
+         "text": "pay for parking."
+        },
+        {
+         "key": "C",
+         "text": "walk."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Automatic cars are less popular with …",
+       "options": [
+        {
+         "key": "A",
+         "text": "women."
+        },
+        {
+         "key": "B",
+         "text": "young people."
+        },
+        {
+         "key": "C",
+         "text": "men."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "American cars often reflect the owner's …",
+       "options": [
+        {
+         "key": "A",
+         "text": "financial status."
+        },
+        {
+         "key": "B",
+         "text": "personality."
+        },
+        {
+         "key": "C",
+         "text": "artistic skills."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Bumper stickers are mainly used by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the most aggressive drivers."
+        },
+        {
+         "key": "B",
+         "text": "more conventional drivers."
+        },
+        {
+         "key": "C",
+         "text": "well-educated and/or rich people."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a news report about an interesting tooth problem.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_07okt_fl.mp3",
+      "start": 680.27,
+      "end": 1041.49,
+      "clip": "hang/e_angol_07okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This news report is taken from the Daily Mirror.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Mark is rather tall for a fourth-grader.",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "He holds the record for the world's largest human tooth.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "The tooth had to be pulled because it caused him terrible pain.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Mark was very happy to get rid of his problematic tooth.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "The tooth was about two and a half centimetres long.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "At first the dentist thought it was a horse tooth.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "Mark's speech therapist lost Mark's tooth.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2007-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 11,
+     "instructions": [
+      "In this section you are going to hear an interview with Dr. Wilson, a psychologist about the concept of genius.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_07okt_fl.mp3",
+      "start": 1041.49,
+      "end": 1796.47,
+      "clip": "hang/e_angol_07okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Dr. Wilson is ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "from the Institute of Psychology."
+        },
+        {
+         "key": "B",
+         "text": "an expert on the concept of genius."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "In Dr. Wilson's view, ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "the relationship between IQ scores and genius is not clear."
+        },
+        {
+         "key": "B",
+         "text": "geniuses do not necessarily have very high IQ scores."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "According to Dr. Wilson, both Edison and Einstein ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "were rather bad students."
+        },
+        {
+         "key": "B",
+         "text": "would probably have achieved fairly average scores on an IQ test."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "W.J. Sidis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "had the highest IQ score in history."
+        },
+        {
+         "key": "B",
+         "text": "was an American psychiatrist."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "As a young child, Sidis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "learned Latin and Greek."
+        },
+        {
+         "key": "B",
+         "text": "wrote an article for the New York Times."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "By the age of eight, Sidis had completed ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "primary school."
+        },
+        {
+         "key": "B",
+         "text": "secondary school."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Sidis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "became a Harvard student at the age of 9."
+        },
+        {
+         "key": "B",
+         "text": "graduated from Harvard at the age of 19."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Sidis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "became a professor of history."
+        },
+        {
+         "key": "B",
+         "text": "could speak more than forty languages and dialects."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "At the age of 26, Sidis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "gave up his academic career."
+        },
+        {
+         "key": "B",
+         "text": "bought a department store in New York."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Sidis ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "had a lot of different jobs."
+        },
+        {
+         "key": "B",
+         "text": "died in a hotel."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Dr. Wilson says that a child with an IQ score of around 115 ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is bright enough to succeed in anything in the future."
+        },
+        {
+         "key": "B",
+         "text": "can be called a genius."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "Dr. Wilson suggests that ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "ambition and desire are less important than intelligence."
+        },
+        {
+         "key": "B",
+         "text": "hard work is more important than intelligence."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1442 @@
+{
+ "formatVersion": 1,
+ "id": "2006-febr-emelt",
+ "year": 2006,
+ "session": "február",
+ "level": "emelt",
+ "examDate": "2006-02-23",
+ "code": "0613",
+ "sourceFiles": {
+  "paper": "2006. Emeltszintű február-márciusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06febr_fl.pdf",
+  "key": "2006. Emeltszintű február-márciusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06febr_ut.pdf",
+  "audio": "2006. Emeltszintű február-márciusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_06febr_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2006-febr-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 10,
+     "instructions": [
+      "Read this comparison of British and American milk products and then read the gapped summary following it.",
+      "Your task is to fill in the gaps with one or two words only according to the information in the article."
+     ],
+     "title": "God Save the Cream",
+     "body": [
+      "As an American who lives most of the year in Britain, I may be especially alive to the charms of everyday British life. Yet, the many Britons who are, as I am, holidaying in the US this summer might also be coming to appreciate that there’s no place like home. I’m not talking about rush-hour London or polluted beaches, of course. I’m talking about dairy products.",
+      "The British tend not to take their dairy industry seriously. I do. I adore British dairy products. British milk is simply pasteurised, whereas American agri-business takes milk apart, heats it to temperatures common to the planet Mercury, and then puts Humpty-Dumpty together again, a project famously unsuccessful. So dreary is even the full-fat version in the US that on cereal I actually prefer rice milk. As British superstores drive milk’s price to rock bottom and the country’s dairy farmers out of business, here I am wishing to pay more for this rare product. You have wonderful milk. Nurture it. American milk is rubbish.",
+      "Moreover, exiled from Britain for two months now, I am developing double-cream withdrawal symptoms. Those little plastic tubs with the pull-tops – you take them for granted, don’t you? Well, even in New York City it is flat-out impossible to find cream that isn’t “ultra-pasteurised”. The first thing I do on return to London is go buy 250ml of double cream. I can’t use it all. It spoils. I throw it away. I glory in its spoilage. Because American cream never spoils. It has the shelf-life of toxic waste. The theory seems to run that you market a product that never goes off by ensuring that it tastes awful to begin with.",
+      "Summary The author, an American living in Britain, is {{0}} in the US. He misses Britain and believes that {{1}} holidaying in the US might have similar feelings. He can do without {{2}} traffic, of course, but not without British {{3}} products which, in his opinion, are of a very {{4}} standard. He describes milk produced by American {{5}} as rubbish. He suggests British producers should be protected from {{6}} whose very low prices are forcing them out of {{7}}. The technology used in America makes foodstuffs last {{8}} at the price of giving them an absolutely awful {{9}}. The author says he prefers food that {{10}} to stuff that doesn’t taste like food in the first place."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "on holiday"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "Britons",
+        "Brits",
+        "British people",
+        "English people"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "rush-hour London",
+        "peak-hour London"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "dairy",
+        "milk"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "high",
+        "good"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "agri-business"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "superstores",
+        "supermarket chains",
+        "hypermarkets"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "business"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "longer",
+        "for ever",
+        "for ages"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "taste"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "spoils",
+        "goes off",
+        "doesn’t last"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article about a new gadget and then read the sentences following it.",
+      "Your task is to choose the answers that best correspond to what the article says."
+     ],
+     "title": "Give a Warm Welcome to the Gnome – It may become a new best friend",
+     "body": [
+      "In the early days of the medium, television was dismissed as merely “radio with pictures”. How on earth, then, to describe the latest consumer device from BSkyB that offers TV without any pictures at all?",
+      "The Skygnome, launched last summer, has caused a splash in the radio industry. At first glance, the Gnome looks like the most bizarre product ever to have come out from BSkyB headquarters. The triangular receiver simply relays the audio from your TV set- top box to anywhere within a 100ft radius. What's special about that? Nothing, at first sight … but take another look. It may very well be that the Gnome plays a vital part in what will be the next phase of the digital radio revolution. It is true that commentators on the Gnome have so far been unimpressed, but they have ignored two crucial factors. First, the huge listenership to digital radio via TV. Most of the publicity that digital radio generates focuses on the success of so-called kitchen radio, with sales of more than 1.4m sets to date. Yet, according to research from audience data provider Rajar, 29% of adults have listened to digital radio services via a TV platform. A device such as the Gnome that allows you to listen to your choice of more than 80 stations while you’re in the garden or the bath can only encourage this trend and boost listenership. The second factor relates to how people listen, not just where they do it. Digital radio isn’t simply analogue radio broadcast differently. New services are increasingly available through broadband internet, digital TV and, soon, mobile phones, all of which are devices that offer a return path and are capable of transforming radio into a much more sophisticated and interactive medium. Already 60% of consumers choose what music to buy while listening to the radio; how logical, then, that future radios will allow those consumers the opportunity, for instance, to buy the music they are listening to. So let’s not look down on the Gnome. New devices such as this don’t simply provide a better version of what we have now in analogue radio. They represent a new beginning for the industry."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In the early days of television",
+       "options": [
+        {
+         "key": "A",
+         "text": "its significance was not fully understood."
+        },
+        {
+         "key": "B",
+         "text": "you could receive sound without pictures on your radio."
+        },
+        {
+         "key": "C",
+         "text": "everybody wanted to have TV-sets in their homes."
+        },
+        {
+         "key": "D",
+         "text": "it was welcomed as a great innovation."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "Skygnome is",
+       "options": [
+        {
+         "key": "A",
+         "text": "the full name of the Gnome device."
+        },
+        {
+         "key": "B",
+         "text": "the name of an old version of Gnome."
+        },
+        {
+         "key": "C",
+         "text": "the name of a new version of Gnome."
+        },
+        {
+         "key": "D",
+         "text": "the name of one special type of Gnome."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "The novelty of the Gnome lies in the fact that it",
+       "options": [
+        {
+         "key": "A",
+         "text": "looks bizarre but modern."
+        },
+        {
+         "key": "B",
+         "text": "has a simple triangular shape."
+        },
+        {
+         "key": "C",
+         "text": "allows you to watch TV from a distance."
+        },
+        {
+         "key": "D",
+         "text": "allows you to listen to TV from a distance."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "stem": "So far commentators have generally",
+       "options": [
+        {
+         "key": "A",
+         "text": "greeted the Gnome as an important innovation."
+        },
+        {
+         "key": "B",
+         "text": "regarded it as a must for every home."
+        },
+        {
+         "key": "C",
+         "text": "overlooked the real importance of Gnome."
+        },
+        {
+         "key": "D",
+         "text": "overestimated its importance."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "The author believes that the true significance of the Gnome is that it",
+       "options": [
+        {
+         "key": "A",
+         "text": "can be stored in a simple TV-set top box."
+        },
+        {
+         "key": "B",
+         "text": "is a sophisticated yet simple device to operate."
+        },
+        {
+         "key": "C",
+         "text": "offers a cheap solution to the kitchen radio."
+        },
+        {
+         "key": "D",
+         "text": "belongs to a new age in radio listening."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "stem": "In the future of the radio",
+       "options": [
+        {
+         "key": "A",
+         "text": "most of the listeners will be adults."
+        },
+        {
+         "key": "B",
+         "text": "listening will be more interactive."
+        },
+        {
+         "key": "C",
+         "text": "young people will listen to music most of the time."
+        },
+        {
+         "key": "D",
+         "text": "people’s tastes in music will be more sophisticated."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "bekezdés összefoglalásának kiválasztása (A-D)",
+     "points": 6,
+     "instructions": [
+      "Read this short essay by 20th century writer JB Priestley (published in the Sunday Express newspaper) and then look at the sentences following it.",
+      "Your task is to choose the sentences that best summarize the idea(s) expressed in each paragraph."
+     ],
+     "title": "JB Priestley’s Delights",
+     "body": [
+      "{{0}}\nPriestley’s timeless, uplifting essays on the nature of delight have proved a huge hit with Sunday Express readers. Please keep your own delights coming – we will publish our third collection of your contributions soon. Women and Clothes",
+      "{{16}}\nWomen who say they are indifferent to clothes, like men who say they do not mind what they eat, should be distrusted: there is something wrong. And men who sneer at a woman’s passionate concern about dress should be banished to the woods.",
+      "{{17}}\nFor my part I delight in women when they go into a conference – and huddle over new clothes. They seem to me then most themselves, and the furthest removed from my sex. They are at such times completely in their own world. They are half children, half witches. Note their attitude during these clothes conferences.",
+      "{{18}}\nFor example, their absolute clear sighted realism about themselves. We chaps always peer at ourselves through a haze of goodwill. We never believe we are as fat or as thin as other people say we are. The ladies are free of all such illusions. (Note the direct level glances they give each other on these occasions.)",
+      "{{19}}\nSo in their clothes conference, unlike all masculine conferences, there is no clash of illusions. All of them meet on the firm ground of fact. What is known is immediately taken into account: Kate’s left shoulder is higher than her right; Meg is very broad across the hips; Phyllis has very short legs.",
+      "{{20}}\nThe conference line – and very sensible too – is that we are all imperfect creatures, so how do we make the best of ourselves? (If politicians and their senior officials tried the same line at international conferences, they could change the world in a week.) Yet the whole clothes-huddle is not simply so much grim realism.",
+      "{{21}}\nThere is one grand illusion that they all share and never dream of challenging. It is the belief that out of these clothes, with necessary swaps and alterations, beauty and witchery can emerge, that somewhere here is the beginning of an enchanted life. And I for one find this altogether delightful."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "options": [
+        {
+         "key": "A",
+         "text": "Readers are asked to send in writings inspired by JB Priestley."
+        },
+        {
+         "key": "B",
+         "text": "JB Priestley’s essays on the delights of nature are uplifting."
+        },
+        {
+         "key": "C",
+         "text": "Sunday Express readers are unfamiliar with JB Priestley’s writings."
+        },
+        {
+         "key": "D",
+         "text": "A collection of essays by JB Priestley is about to be published."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "People talking about food or clothes are not to be trusted."
+        },
+        {
+         "key": "B",
+         "text": "Men often sneer at women for their passion about clothes."
+        },
+        {
+         "key": "C",
+         "text": "Women are as passionate about clothes as men are about food."
+        },
+        {
+         "key": "D",
+         "text": "There is something wrong with men who keep talking about food."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "The author delights in watching women discussing clothes."
+        },
+        {
+         "key": "B",
+         "text": "The author finds women’s attitude to clothes quite childish."
+        },
+        {
+         "key": "C",
+         "text": "Men had better not disturb women talking about clothes."
+        },
+        {
+         "key": "D",
+         "text": "While discussing clothes, women take no interest in the other sex."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "Men are less severe critics of each others’ looks than women."
+        },
+        {
+         "key": "B",
+         "text": "Ladies are more realistic about men than men are about themselves."
+        },
+        {
+         "key": "C",
+         "text": "Men feel good when they are complimented on their appearance."
+        },
+        {
+         "key": "D",
+         "text": "Ladies have a clearer picture of what they look like than men."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "Women are openly critical of each others’ figure."
+        },
+        {
+         "key": "B",
+         "text": "They cling to their illusions about their appearance."
+        },
+        {
+         "key": "C",
+         "text": "They do not want to shatter each others’ illusions."
+        },
+        {
+         "key": "D",
+         "text": "They sound matter-of-fact when discussing their looks."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "Clothes should serve to make us look better."
+        },
+        {
+         "key": "B",
+         "text": "Politicians should try and improve their looks."
+        },
+        {
+         "key": "C",
+         "text": "Women have a sense of what is in fashion and what is not."
+        },
+        {
+         "key": "D",
+         "text": "Clothes huddles are not as grim as political conferences."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "Alterations are always necessary to make clothes look beautiful."
+        },
+        {
+         "key": "B",
+         "text": "For all their realism, women are very romantic about clothes."
+        },
+        {
+         "key": "C",
+         "text": "For a woman, finding the right clothes is a real challenge."
+        },
+        {
+         "key": "D",
+         "text": "Women share several illusions about clothes and beauty."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this text about improving young people’s chances of getting good jobs and then read the statements following it.",
+      "Your task is to decide if the statements correspond to what the article says or not.",
+      "If a statement means the same as what the article says, mark it A.",
+      "If it says something different, mark it B.",
+      "If it says something that is not discussed in the article (so, on the basis of the text, it is impossible to judge the truth of the statement), mark it C."
+     ],
+     "title": "Work experience",
+     "body": [
+      "Alongside the more familiar parental anxieties – such as placing children in good schools and universities – there is now a new cause for concern. Finding the right work experience, say teachers and employment experts, has become a key step to future career success.",
+      "The number of graduates with good grades is rocketing and employers, unable to distinguish between candidates on academic grounds, are looking for something extra on the CV. Thus, with more and more people getting into higher education, the importance of work experience is set to rise further. Those who can develop early the office skills that employers like – such as teamwork and personal communication – will prosper at the expense of the rest.",
+      "Why employers now look beyond academic qualifications is illustrated by the experience of Allen & Overy, a City law practice. It is so inundated with applications that a spokesman said: “Due to the excessive numbers of applications we receive, we only consider people with very good degrees. Beyond that we look to see if applicants have interesting work experience. It is something that can set candidates apart.”",
+      "The irony is that – despite the government’s drive for equality in education – it is still who you know that counts. “You’ve really got to use your grapevine, people you know who are in interesting jobs, people you’ve studied with – do they have any friends or parents in jobs that you’d like to do?” Dr Peter Hawkins, a graduate employment expert at Liverpool University said.",
+      "The problem is partly that there are not enough openings to go round. The expansion of higher education has not led to an increase in the demand for ‘knowledge workers’. Up to 40% of graduates are in non-graduate work.",
+      "Even work experience opportunities that sound exciting can prove to be deeply disappointing. There is, of course, a fine line between work experience and ‘slave labour’. One 23-year-old graduate, who wished to remain anonymous, said last week that a three- month stint with a television production company had put him off a broadcasting career.",
+      "“It taught me that in television there is an attitude that work experience people are free labour,” he said. “We were expected to do the dirty work for nothing.\"",
+      "However, even that sort of experience can be valuable. Dr Martin Stephen, headmaster of St Paul’s boys’ school, suggested that working in a supermarket should not be sniffed at.",
+      "“The work experience that I would personally support would be stacking shelves – I think it’s a wonderful experience,” he said. “It’s the real world. And I think it’s not a bad thing to make a child live off what they earn for five or six weeks. That’s real learning.”"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It is common for parents to worry about their children’s education.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "These days they also worry about whether their children can find the right kind of work experience.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Children from good schools are usually successful in finding good holiday jobs.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "It is difficult for employers to find candidates with good academic results.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Employers want people who can work with others.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "The idea that equality in education is a basic human right has become an election issue.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "Allen & Overy say they don’t care if a candidate’s grades are good or not.",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "There are great regional differences in the availability of good jobs round the country.",
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "Glamorous-sounding jobs can sometimes prove unsatisfactory.",
+       "answer": "A"
+      },
+      {
+       "n": 30,
+       "stem": "Dr Martin Stephen believes young people should not be allowed to work in supermarkets.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2006-febr-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the intelligence of mammals. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-8) in the text."
+     ],
+     "title": "WHY CAN MAMMALS DEVELOP SUCH INTELLIGENCE?",
+     "body": [
+      "Compared to their body size, mammals have the largest brains of any group of animals. It is the brain that interprets {{0}} information coming in from the animals' senses and co- ordinates the response. Why do mammals need brains {{1}} other animals?",
+      "One reason is linked to the fact that they regulate their own body temperature. This is an expensive process, {{2}} lots of energy from food, and so mammals have to be very {{3}} in the way that they find food and extract all the nutrition they can from it. {{4}} reptiles have a rather simple approach to food: eat first, think later. Think of the way a crocodile behaves - it will lunge at anything {{5}} moves and therefore might be edible, and it takes in a lot of mud and other inedible things with its meal.",
+      "Mammals, {{6}}, can't afford to fill up on things that aren't going to {{7}} them any benefit. Instead, they are generally very selective about what they eat and make judgements about whether it is {{8}} it or not. This means that they may have similar senses to other animals, but they have a bigger brain to process what comes in, and judge what action to take."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "all of"
+        },
+        {
+         "key": "B",
+         "text": "all the"
+        },
+        {
+         "key": "C",
+         "text": "whole"
+        },
+        {
+         "key": "D",
+         "text": "pieces"
+        }
+       ],
+       "example": true,
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "large as"
+        },
+        {
+         "key": "B",
+         "text": "so large"
+        },
+        {
+         "key": "C",
+         "text": "larger than"
+        },
+        {
+         "key": "D",
+         "text": "as large as"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "in need"
+        },
+        {
+         "key": "B",
+         "text": "needing"
+        },
+        {
+         "key": "C",
+         "text": "needed"
+        },
+        {
+         "key": "D",
+         "text": "which need"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "inefficient"
+        },
+        {
+         "key": "B",
+         "text": "efficient"
+        },
+        {
+         "key": "C",
+         "text": "ineffective"
+        },
+        {
+         "key": "D",
+         "text": "effective"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "Most"
+        },
+        {
+         "key": "B",
+         "text": "Most of"
+        },
+        {
+         "key": "C",
+         "text": "The most"
+        },
+        {
+         "key": "D",
+         "text": "The most of"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "but"
+        },
+        {
+         "key": "D",
+         "text": "who"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "despite"
+        },
+        {
+         "key": "B",
+         "text": "but"
+        },
+        {
+         "key": "C",
+         "text": "although"
+        },
+        {
+         "key": "D",
+         "text": "though"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "make"
+        },
+        {
+         "key": "B",
+         "text": "take"
+        },
+        {
+         "key": "C",
+         "text": "give"
+        },
+        {
+         "key": "D",
+         "text": "do"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "worthy"
+        },
+        {
+         "key": "B",
+         "text": "worthless"
+        },
+        {
+         "key": "C",
+         "text": "worse"
+        },
+        {
+         "key": "D",
+         "text": "worth"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about “green” buildings. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-17).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "\"GREEN\" BUILDINGS MAY HELP SAVE ENVIRONMENT",
+     "body": [
+      "These days a green building means more than just the color of the paint. “Green” building can also refer to {{0}} friendly houses, factories, and offices. Green building means reducing the impact of the building on the land. Green buildings can reduce energy and water use. Also, the buildings are often located near public {{9}} such as buses and subways, so that people can drive their cars less. That could be good for the environment, because cars use lots of {{10}} resources, such as gasoline, and cause {{11}}. Green buildings are often built on {{12}} developed land, so that the buildings don't destroy forests or other wild habitats. The first green {{13}} high-rise building in the U.S. is called the Solaire. Its project {{14}} says: \"We've reduced our energy {{15}} by one-third and our water by 50 percent.\" The Solaire cuts energy in part by using solar power. On the face of the building there are panels. They absorb the sun's energy and convert it to {{16}}. The Solaire also has lights that {{17}} turn off when people leave the room. Plus, the building has lots of windows. This allows people to use the sun for light instead of lamps during the day."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "environment",
+       "example": true,
+       "accept": [
+        "environmentally"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "transport",
+       "accept": [
+        "transport",
+        "transportation"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "nature",
+       "accept": [
+        "natural"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "pollute",
+       "accept": [
+        "pollution"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "previous",
+       "accept": [
+        "previously"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "resident",
+       "accept": [
+        "residential"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "manage",
+       "accept": [
+        "manager",
+        "management"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "consume",
+       "accept": [
+        "consumption"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "electric",
+       "accept": [
+        "electricity"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "automatic",
+       "accept": [
+        "automatically"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about the negative effects of flying long distances. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-28) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "JET LAG",
+     "body": [
+      "The most important factor in jet lag is how {{0}} time zones you cross and travelling east seems to be worst for most people. Jet lag occurs when you cross over a number of time zones and disrupt the normal 24-hour rhythms, {{18}} help you wake up in the morning and go to sleep at night - also known {{19}} the 'body clock'.",
+      "{{20}} you have a rigid routine, it's likely that you might suffer more {{21}} someone who adapts easily to change. The symptoms of jet lag can include exhaustion, a feeling of disorientation and the inability to sleep. You may also feel dehydrated from {{22}} stuck in an air-conditioned cabin for hours and this can cause headaches, make {{23}} skin dry and make you more susceptible to colds or viruses.",
+      "Counteracting jet lag: • change your watch as soon as you {{24}} on the flight • a glass of wine during the flight has the effect of two to three glasses on the ground. Avoid feeling even worse with a hangover {{25}} reducing alcohol intake before and during your flight • walk up and down the aisle and {{26}} stretching exercises in your seat to reduce discomfort and to have a more relaxed flight • when you arrive {{27}} the new time zone, spend some time outside during daylight hours {{28}} natural light can help align your body clock • try to adjust your bedtime and mealtimes to the local timetable as soon as possible ."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "many"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "if"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "being",
+        "getting"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "your",
+        "the"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "get",
+        "are"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "do",
+        "try",
+        "perform",
+        "use"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "in",
+        "at"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "as",
+        "because",
+        "since"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about the Iron Age Celts. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "IRON AGE CELTS",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "The name Iron Age comes from the Celts’ discovery and use of iron.",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "The clues were dug up by archaeologists show how skilled the Iron",
+       "answer": "were"
+      },
+      {
+       "n": 29,
+       "text": "Age Celts were at least making metal objects.",
+       "answer": "least"
+      },
+      {
+       "n": 30,
+       "text": "Archaeologists found a lots of jewellery when digging for clues",
+       "answer": "a"
+      },
+      {
+       "n": 31,
+       "text": "about the Celts. The Celts used to bronze and gold as well as iron.",
+       "answer": "to"
+      },
+      {
+       "n": 32,
+       "text": "The heads of the tribe would wear fancy jewellery to show us how",
+       "answer": "us"
+      },
+      {
+       "n": 33,
+       "text": "important they were.",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "Celtic craftsmen loved symmetrical designs and patterns. They",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "were especially fond of a three-legged shape. They would also liked",
+       "answer": "would"
+      },
+      {
+       "n": 36,
+       "text": "to use animal shapes and faces in their patterns.",
+       "answer": null
+      },
+      {
+       "n": 37,
+       "text": "Because of archaeologists rarely find clothing, leatherwork or",
+       "answer": "of"
+      },
+      {
+       "n": 38,
+       "text": "basketwork, we can only guess by looking at the metal, gold and",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "other objects that have survived that the Celts very liked bright colours",
+       "answer": "very"
+      },
+      {
+       "n": 40,
+       "text": "and the complicated patterns.",
+       "answer": "the"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 16,
+   "maxExamPoints": 30,
+   "omitted": [
+    {
+     "number": 1,
+     "points": 10,
+     "reason": "rövid válasz tartalmi kulccsal (SPEC 3.3)"
+    }
+   ],
+   "originalMaxTaskPoints": 26,
+   "tasks": [
+    {
+     "id": "2006-febr-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear some interesting information about the London Eye, a famous sight in London.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in three sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your answers."
+     ],
+     "audio": {
+      "file": "e_angol_06febr_fl.mp3",
+      "start": 697.61,
+      "end": 1273.6,
+      "clip": "hang/e_angol_06febr_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The London Eye …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a giant wheel."
+        },
+        {
+         "key": "B",
+         "text": "carries passengers."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The London Eye …",
+       "options": [
+        {
+         "key": "A",
+         "text": "has been working since the end of 2000."
+        },
+        {
+         "key": "B",
+         "text": "is over 130 metres high."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "The London Eye …",
+       "options": [
+        {
+         "key": "A",
+         "text": "turns around without stopping."
+        },
+        {
+         "key": "B",
+         "text": "offers at least a 25-mile view on a clear day."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "David Marks and Julia Barfield are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the designers of the London Eye."
+        },
+        {
+         "key": "B",
+         "text": "a married couple."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "The giant wheel …",
+       "options": [
+        {
+         "key": "A",
+         "text": "marks the year 2000."
+        },
+        {
+         "key": "B",
+         "text": "represents the universe."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The London Eye is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "wider than St Paul's Cathedral."
+        },
+        {
+         "key": "B",
+         "text": "higher than the Prater Wheel."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "The London Eye …",
+       "options": [
+        {
+         "key": "A",
+         "text": "has capsules on the outside of the wheel."
+        },
+        {
+         "key": "B",
+         "text": "is supported by an A-frame."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Taking a ride on the wheel …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is not recommended for people who easily get dizzy."
+        },
+        {
+         "key": "B",
+         "text": "has been made safe by applying computer simulation technology."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Last year more than …",
+       "options": [
+        {
+         "key": "A",
+         "text": "three million people took the ride."
+        },
+        {
+         "key": "B",
+         "text": "£40 million were paid for the ride."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2006-febr-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an interview with Cecily, a young American woman who spent three years in Hungary.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_06febr_fl.mp3",
+      "start": 1273.6,
+      "end": 1799.92,
+      "clip": "hang/e_angol_06febr_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Cecily didn't like the schools she went to.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Choate Rosemary Hall is on the east coast of the United States.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "Cecily doesn't think she will ever meet people who are as creative as the students of Choate Rosemary Hall were.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The students of Rosemary Hall weren't interested in politics.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Some of the students were expelled from Rosemary Hall for not doing their schoolwork.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Choat Rosemary Hall is in a major city.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Playing word games, mind games and writing plays helped students find out what they were good at.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Cecily did very well in her exams at Columbia University.",
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "stem": "Cecily didn't like the people who studied economics.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

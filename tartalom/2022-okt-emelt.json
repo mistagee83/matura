@@ -1,0 +1,1327 @@
+{
+ "formatVersion": 1,
+ "id": "2022-okt-emelt",
+ "year": 2022,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2022-10-20",
+ "code": "2219",
+ "sourceFiles": {
+  "paper": "2022 - Emeltszintű október/e_angol_22okt_fl.pdf",
+  "key": "2022 - Emeltszintű október/e_angol_22okt_ut.pdf",
+  "audio": "2022 - Emeltszintű október/e_angol_22okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2022-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "In this article about a very valuable violin some paragraphs have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (1-6).",
+      "Write the appropriate letters (A-I) in the white boxes next to the appropriate numbers as in the example (0).",
+      "There are two extra letters."
+     ],
+     "title": "MUSICIAN STEPHEN MORRIS REUNITED WITH £250,000 TECCHLER VIOLIN",
+     "body": [
+      "A 310-year-old violin worth £250,000 that was left on a train in south London has been returned to its owner.",
+      "{{0}}",
+      "{{1}}\nBritish Transport Police (BTP) later released a CCTV image of a man believed to have taken the violin as the train approached Bromley South and asked him to get in touch, generating calls on social media for its return.",
+      "{{2}}",
+      "{{3}}\nCalling himself \"Gene\", which was not his real name, the man agreed to meet Mr Morris on Friday evening at a Waitrose car park near Beckenham train station.",
+      "{{4}}",
+      "{{5}}\n\"He was very apologetic, he said he wanted to hand it to me in person. The violin and bows were intact and in tune. It couldn’t have ended in a happier way,\" Mr Morris said.",
+      "On Saturday BTP issued a statement concerning the incident.",
+      "{{6}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Tired after a long day recording at Abbey Road studios Mr Morris, who has played on film scores including The Lord of the Rings and James Bond, was distressed."
+      },
+      {
+       "key": "B",
+       "text": "\"I feel a bit battered and bruised,\" he said. \"I haven't had a great deal of sleep since it went missing.\""
+      },
+      {
+       "key": "C",
+       "text": "The violin, which was made by master craftsman David Tecchler in 1709, was left on the London to Orpington train on 22 October when Stephen Morris, a professional musician, got out at Penge East with his bike."
+      },
+      {
+       "key": "D",
+       "text": "Shortly after 22:10, the police team watched as \"Gene\", in his mid to late 20s, approached Mr Morris, shook his hand and transferred a holdall containing the violin."
+      },
+      {
+       "key": "E",
+       "text": "“I knew from experience that we were not dealing with a hardened criminal,” the officer said. “The man was desperate to get it back, but needed to be convinced that he would not be arrested.”"
+      },
+      {
+       "key": "F",
+       "text": "Over the next 24 hours further contact was made with the person who had sent the message – it's suspected that he was in fact the individual who had taken the violin."
+      },
+      {
+       "key": "G",
+       "text": "It said they would be taking no further action against the man because he had taken reasonable steps to contact the violin owner and had handed it back."
+      },
+      {
+       "key": "H",
+       "text": "The breakthrough came on Thursday when Mr Morris received a direct Twitter message, which read: \"I recognise the person in the picture. I think it may be somebody I know – I'd like to be of help. I know what it's like to leave valuables on a train.\""
+      },
+      {
+       "key": "I",
+       "text": "In an operation co-ordinated by the musician's friend and former police officer, Mike Pannett, a team of plain-clothes officers were placed on stand-by in case the handover went wrong."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "F"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      }
+     ],
+     "source": "https://www.bbc.com/news/uk-england-london-50275613"
+    },
+    {
+     "id": "2022-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about a tiny Canadian island some parts of sentences have been left out.",
+      "Your task is to complete the text by filling in the gaps (7-15).",
+      "Write the appropriate letters (A-N) in the white boxes next to the appropriate numbers as in the example (0).",
+      "There are three more letters than you need."
+     ],
+     "title": "LAST TWO RESIDENTS STAND FIRM AS ISLAND IS ABANDONED",
+     "body": [
+      "Little Bay Islands is the kind of place where you can {{0}}, go on holiday for three weeks and return to an undisturbed home. The owners of the only shop {{7}} and, in their absence, leave a container with coins and wrinkled bills on the counter. Residents buy what they need and {{8}}.",
+      "The tiny island community in Canada’s easternmost province, Newfoundland and Labrador, is home to 54 permanent residents, and more in the summertime. But on 31 December, electricity and water will {{9}} and the ferry service discontinued. Little Bay Islands has agreed to resettle on the mainland as part of the province’s community relocation policy, which offers government compensation to people who {{10}}.",
+      "Two-thirds of Canada’s 37.5 million inhabitants live within 100km of the country’s southern border with the US, a strip of land that constitutes just 4% of Canada’s territory. Remote areas in the rest of the country have long struggled to {{11}} such as healthcare, utilities and the internet.",
+      "Newfoundland and Labrador faces an acute struggle: a rapidly ageing population spread over a vast area. Decline began in 1992 with a ban on fishing cod to {{12}}, putting people out of work. The school shut down in 2018 after two consecutive years with no pupils.",
+      "The decision to {{13}} has taken nine years. As part of that process, the province compared the cost of service delivery to paying each household between C$250,000 and C$270,000 to leave. It estimated resettlement could {{14}} over 20 years.",
+      "Residents have been slowly filing out. Many {{15}}, but for others this may be goodbye. By New Year’s Day, Mike and Georgina Parsons will be the only permanent residents of Little Bay Islands. Watching his parents and neighbours pack up and leave was tough, said Parsons. “In spite of the fact that they have voted to leave, I know that to actually do it, to pack up their things and leave, is just heartbreaking.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "leave remote areas"
+      },
+      {
+       "key": "B",
+       "text": "apply for a better job"
+      },
+      {
+       "key": "C",
+       "text": "leave your doors unlocked"
+      },
+      {
+       "key": "D",
+       "text": "resettle Little Bay Island’s population"
+      },
+      {
+       "key": "E",
+       "text": "manage declining stocks"
+      },
+      {
+       "key": "F",
+       "text": "install solar panels"
+      },
+      {
+       "key": "G",
+       "text": "keep irregular hours"
+      },
+      {
+       "key": "H",
+       "text": "save C$20 million"
+      },
+      {
+       "key": "I",
+       "text": "intend to return in summer"
+      },
+      {
+       "key": "K",
+       "text": "ask some hard questions"
+      },
+      {
+       "key": "L",
+       "text": "take their own change"
+      },
+      {
+       "key": "M",
+       "text": "be turned off"
+      },
+      {
+       "key": "N",
+       "text": "access services"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "L"
+      },
+      {
+       "n": 9,
+       "answer": "M"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "N"
+      },
+      {
+       "n": 12,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "answer": "H"
+      },
+      {
+       "n": 15,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2022-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about book covers and then read the statements (16-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "WHAT MAKES AN ICONIC BOOK COVER?",
+     "body": [
+      "A great book might stay with us for a long time but, often, its cover does, too. There’s a famous saying about never forming your opinion of a book by the jacket on it. But most readers know that we do judge books by their covers all the time. Everything about a book’s cover – the font, the images, the colours – tells us something about what we can expect to find inside. A reader looking for some thrilling detective story is unlikely to reach for a pastel- coloured cover with a romantic design.",
+      "Covers can be a swift way to signal genre, but the good ones do more than that. They give a face to a book’s personality. They’re what will make you pick it up in the first place, then keep it on your shelf to remind you what it meant to you. “When you’re reading a book, it stays with you for a while, literally,” says Donna Payne, creative director at Faber & Faber.",
+      "The emergence of ebooks posed a threat to physical books a decade or so ago. But publishers fought back, making books that were more beautiful to look at and to hold than ever before. Fonts got bolder, colours are brighter. Alongside this, people increasingly started posting pictures of books on social media. Search #bookstagram on Instagram and you’ll find more than 43 million images of books – next to cups of coffee, lying on crisp duvet covers, or perched on the edge of sun loungers.",
+      "All this means cover design is more important than ever. “I think people are really appreciating it as art again,” says Payne. But what makes a great cover? “For us, it’s one that provokes a reaction of some sort. It might be that not everyone loves the cover. Or it might be that everyone is talking about it. But what we don’t ever want to do is produce covers that are bland.”",
+      "Payne says creating a cover that is true to the book is just as important as creating something memorable. “You can publish an incredibly beautiful cover that leads people to believe it’s a certain type of book, and if the reading experience is quite different from that, they feel they’re not getting what they’ve paid for. You’ve failed in finding the right readers for that book.”"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Book covers are playing an increasingly important role in the literary business.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The majority of readers do not have expectations about a book’s content based on its cover.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "More detective stories are sold yearly than romantic novels.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "A book cover draws attention to a book so that readers want to read it.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Ebooks made publishers rethink their attitude to book covers.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "People post pictures of books on Instagram because they want to boast about how rich their book collection is.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Designers’ main goal is to create book covers that readers admire.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "If the cover of a book does not reflect its content, readers are disappointed.",
+       "answer": "A"
+      }
+     ],
+     "source": "https://www.bbc.com/culture/article/20200604-the-best-book-covers-in-history"
+    },
+    {
+     "id": "2022-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read this article about a new law in Germany and then read the half sentences (23-28) following it.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "There are three extra letters that you will not need."
+     ],
+     "title": "NEW DOG WALKING RULE IN GERMANY CAUSES CONFUSION",
+     "body": [
+      "A new rule forcing Germans to take their dog for a walk twice a day has unleashed a debate on whether the state can decide what is best for the country’s 9.4 million pet canines.",
+      "Agriculture Minister Julia Kloeckner announced this week she had taken expert advice and was introducing a law to ensure dogs go for a walk or run in the garden at least twice a day for a total of an hour. “Pets are not cuddly toys – they also have their own needs, which need to be taken into account,” said Kloeckner, adding that pets must get sufficient exercise and not be left alone for too long.",
+      "The rules are based on new scientific findings that show dogs need a “sufficient measure of activity and contact with environmental stimuli”, especially in the form of spending time in green areas and out of the city. Tying dogs on a chain or a lead for long periods also faces an all-out ban.",
+      "With almost one in five German homes owning a hound, the new Animal Welfare Regulation, which also sets limits on the transportation of farm animals in hot weather, affects a significant proportion of the population.",
+      "“Compulsory Walkies for Dog Owners? Rubbish!” wrote one of the top-selling German newspapers in a heated opinion piece on the new decree. Its author, Udo Kopernik, the spokesman for the National German Dog Association, said most owners were laughing at the new rule because they already spent enough time walking their four-legged friend. “One rule for all dogs is probably well meant but unrealistic,” he said. Dog trainer Anja Striegel seems to concur when she claims that the amount of exercise a dog needs depends on the health, age and breed of the animal.",
+      "“For a young and fit Labrador two hours of walkies are healthier than for a sickly Pekingese with heart problems,” she said in an interview. Germany’s most popular breeds are the German Shepherd and short-legged, long-bodied Dachshund, known as “sausage dogs”, followed by Labradors, and French spaniels.",
+      "Then there is the question of enforcement. The ministry has said the regional governments will be responsible for enforcing the rule, but as one dog owner, Lisa, said: “I find it patronising to be told how long I should take my dog out for. Ridiculous!”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "that it’s not good for dogs to be kept in urban areas all the time."
+      },
+      {
+       "key": "B",
+       "text": "that the same regulation cannot possibly work well for all dogs."
+      },
+      {
+       "key": "C",
+       "text": "why the new dog walking rule was introduced."
+      },
+      {
+       "key": "D",
+       "text": "that he was personally involved in drafting the new regulation."
+      },
+      {
+       "key": "E",
+       "text": "that farm animals need less exercise in hot weather."
+      },
+      {
+       "key": "F",
+       "text": "that he finds it quite ridiculous."
+      },
+      {
+       "key": "G",
+       "text": "that the new law treats her like a child."
+      },
+      {
+       "key": "H",
+       "text": "that dogs become too lazy if they don’t exercise."
+      },
+      {
+       "key": "I",
+       "text": "that it’s up to the government to make such a decision."
+      },
+      {
+       "key": "K",
+       "text": "that people don’t always consider what their four-legged friends want."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Many people don’t understand the reason",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "There are some people who doubt",
+       "answer": "I"
+      },
+      {
+       "n": 24,
+       "stem": "The Agriculture Minister suggests",
+       "answer": "K"
+      },
+      {
+       "n": 25,
+       "stem": "Recent research shows",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Mr. Kopernik’s first reaction to the new law shows",
+       "answer": "F"
+      },
+      {
+       "n": 27,
+       "stem": "Mr. Kopernik and Ms. Striegel agree",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "At least one dog owner is offended by the idea",
+       "answer": "G"
+      }
+     ],
+     "source": "https://www.theguardian.com/world/2020/aug/19/germans-must-walk-their-dogs-twice-a-day-new-law-will-say"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2022-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read about the history of Left-Handers Day. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are four extra words that you do not need to use."
+     ],
+     "title": "LEFT-HANDERS DAY",
+     "body": [
+      "On 13th August 1992 the Left-Handers Club launched International Left- Handers Day, an {{0}} event when left-handers can celebrate their left-handedness and increase public awareness of the advantages and disadvantages of {{1}} left-handed. It is now celebrated worldwide, and there have been numerous events to mark the day in recent years – {{2}} left-v-right sports matches, left-handed tea parties, pubs using left-handed corkscrews where patrons drank and played pub games with the left hand only, and “Lefty Zones” where left-handers’ creativity, adaptability and sporting skills were celebrated, {{3}} right-handers were encouraged to try out everyday left-handed objects to see just how awkward it can feel {{4}} the wrong equipment!",
+      "These events have contributed more than anything else to the general awareness of the difficulties left-handers {{5}} in everyday life, and have {{6}} to improved product design and greater consideration of their needs by the right-handed majority. {{7}}, there is still a long way to go!",
+      "The Club was formed in 1990 to keep members in touch with developments, make their views {{8}} to manufacturers, to promote research into left-handedness and development of new left-handed items."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BECAUSE"
+      },
+      {
+       "key": "B",
+       "text": "BEING"
+      },
+      {
+       "key": "C",
+       "text": "ANNUAL"
+      },
+      {
+       "key": "D",
+       "text": "DO"
+      },
+      {
+       "key": "E",
+       "text": "EXPERIENCE"
+      },
+      {
+       "key": "F",
+       "text": "FACED"
+      },
+      {
+       "key": "G",
+       "text": "HAD"
+      },
+      {
+       "key": "H",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "I",
+       "text": "INCLUDING"
+      },
+      {
+       "key": "K",
+       "text": "KNOWN"
+      },
+      {
+       "key": "L",
+       "text": "LED"
+      },
+      {
+       "key": "M",
+       "text": "USING"
+      },
+      {
+       "key": "N",
+       "text": "WHILST"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "answer": "N"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "answer": "L"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "K"
+      }
+     ],
+     "source": "https://www.lefthandersday.com/left-handers-day#.X4wdbtAzZPY"
+    },
+    {
+     "id": "2022-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about Benjamin Franklin (1706-1790), who was one of the leading figures of American history. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-16).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "BENJAMIN FRANKLIN",
+     "body": [
+      "The man considered the most brilliant American of his age rarely saw the inside of a classroom. Franklin spent just two years attending school before {{0}} the family candle- and soap-making business.",
+      "By age 12, he was serving as an apprentice at a printing shop {{9}} by his brother, James. Young Benjamin made up for his lack of schooling by spending the little money he earned on books, often going without food to afford new volumes. He taught himself to become a {{10}} writer by reading essays and articles and then rewriting them from memory.",
+      "After his brother James founded a weekly newspaper in the 1720s, the 16-year-old Franklin began secretly {{11}} essays as “Silence Dogood,” a fictitious widow who wrote comments on everything from fashion and {{12}} to women’s rights and religion. The letters were hugely popular, and Mrs. Dogood soon received several {{13}} from bachelors in Boston. Franklin penned 14 essays before unmasking himself as their author, much to his jealous brother’s anger.",
+      "Sick of the hard work and beatings he endured as James’ apprentice, Franklin fled Boston in 1723 and settled in Philadelphia. He was practically penniless, but over the next two decades he became enormously {{14}} as a print shop owner, land speculator and {{15}}. By 1748, he was rich enough to become a “gentleman of leisure.” Franklin’s {{16}} allowed him to spend his remaining 42 years devoting himself to public service."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "join",
+       "example": true,
+       "accept": [
+        "joining"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "own",
+       "accept": [
+        "owned"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "skill",
+       "accept": [
+        "skilled",
+        "skillful",
+        "skilful"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "submit",
+       "accept": [
+        "submitting"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "marry",
+       "accept": [
+        "marriage",
+        "marrying",
+        "marriages"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "propose",
+       "accept": [
+        "proposals",
+        "propositions"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "wealth",
+       "accept": [
+        "wealthy"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "publish",
+       "accept": [
+        "publisher",
+        "publicist"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "retire",
+       "accept": [
+        "retirement",
+        "retiring"
+       ]
+      }
+     ],
+     "source": "https://www.history.com/news/11-surprising-facts-about-benjamin-franklin"
+    },
+    {
+     "id": "2022-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a legal battle between two famous chocolate companies. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-24) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SQUARE CHOCOLATE BATTLE",
+     "body": [
+      "For decades, Ritter Sport {{0}} marketed its chocolate bars on their unique, square shape. So when Swiss brand Milka challenged its German monopoly on square chocolate, the battle lines were drawn.",
+      "The square bar dates back to 1932, when Clara Ritter came up {{17}} the idea, according to company legend. \"Let's make a chocolate bar {{18}} fits in everyone's jacket pocket without breaking and weighs the same as a normal long bar,\" she is supposed to {{19}} said. Later, in 1970, the company launched its first television advert with the slogan \"Square. Practical. Good\".",
+      "The Ritter family company registered the shape with the German patent and trademark office in 1993, so when Milka began marketing a square bar in 2010, the case went {{20}} court. Milka achieved an initial victory in 2016 by {{21}} the trademark deleted but that decision was changed the following year, and Ritter could keep its monopoly. Finally, the case {{22}} up in the Federal Court of Justice, where judges threw out Milka's complaint and decided in {{23}} of Ritter Sport in 2020.",
+      "Normally, a brand cannot claim trademark protection in Germany if its shape is simply a functional characteristic of the product. But the judges said Ritter Sport was different. \"Consumers consider the shape as an indication of both {{24}} the chocolate comes from and its quality,\" they concluded. It means that Ritter’s bar can remain the only top-brand square chocolate bar on the shelves in German shops."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "getting",
+        "having"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "ended",
+        "came"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "favour",
+        "favor"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "where",
+        "who"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/news/world-europe-53510219"
+    },
+    {
+     "id": "2022-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a place in Mexico where a kiss brings 15 years of good luck. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "ALLEY OF THE KISS",
+     "intro": "Nothing is more romantic in the Mexican city of Guanajuato than the Alley of the Kiss, where two, nearly touching balconies hang over a thin stone staircase. For a small tip, local guides tell the tragic",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "tale of Ana and Carlos, the lovers who made the alley famous for.",
+       "answer": "for"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "“Ana was a rich lady who lived in the house with one of the",
+       "answer": null
+      },
+      {
+       "n": 25,
+       "text": "balconies and Carlos was a poor miner,” a guide explained it.",
+       "answer": "it"
+      },
+      {
+       "n": 26,
+       "text": "“One night, Ana’s father caught them by kissing in the narrow space",
+       "answer": "by"
+      },
+      {
+       "n": 27,
+       "text": "between the two balconies. The father angrily said that even if the",
+       "answer": "even"
+      },
+      {
+       "n": 28,
+       "text": "same thing happened again as the following night, he would kill Ana.",
+       "answer": "as"
+      },
+      {
+       "n": 29,
+       "text": "The next night, the couple kissed again, and the father stabbed his",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "own daughter to death. As though Carlos jumped to protect Ana,",
+       "answer": "though"
+      },
+      {
+       "n": 31,
+       "text": "he fell to the ground and broke his neck, landing on the third step.”",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "Now, couples are passing through the alley must kiss on that",
+       "answer": "are"
+      },
+      {
+       "n": 33,
+       "text": "step – where Carlos’ spirit is thought to be watching over with",
+       "answer": "with"
+      },
+      {
+       "n": 34,
+       "text": "lovers – if they want their romance to endure. If they don’t kiss,",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "they’ll be cursed with seven more years of bad luck. If they kiss,",
+       "answer": "more"
+      }
+     ],
+     "outro": "they’ll receive 15 years of good luck.",
+     "source": "http://www.bbc.com/travel/story/20160204-where-one-kiss-brings-15-years-of-luck"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2022-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear some information about e-sports, in which teams of players play competitive video games.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_22okt_fl.mp3",
+      "start": 0,
+      "end": 643.99,
+      "clip": "hang/e_angol_22okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How old was Kyle Bautista when he started playing e-sports? He was {{gap}}.",
+       "accept": [
+        "14 years old",
+        "14"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "What is the full name of the game Kyle and his teammates compete in? It’s called {{gap}}.",
+       "key": "League of Legends / league of legends",
+       "keywords": [
+        [
+         "league",
+         "legends"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "What does Kyle say about his becoming a member of a competitive team? That it was a(n) {{gap}}.",
+       "key": "fun new step",
+       "keywords": [
+        [
+         "fun",
+         "new",
+         "step"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What do more than 1,200 schools have? All of them have {{gap}}.",
+       "key": "registered (e-sports) teams",
+       "keywords": [
+        [
+         "registered",
+         "teams"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What do some colleges offer to certain students and to whom exactly? They offer {{gap}} to {{gap}}.",
+       "key": "scholarships; e-sports players (Csak akkor adható pont, ha mind a kettőt beírta!)",
+       "gaps": [
+        [
+         "scholarships"
+        ],
+        [
+         "players",
+         "e-sports players",
+         "esports players"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "What does Kyle’s coach say about competitive video game players? She says that they are {{gap}}.",
+       "key": "athletes",
+       "keywords": [
+        [
+         "athletes"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "What does Amy Whitlock give her team to help them focus during competitions? She gives them {{gap}}.",
+       "key": "mental exercises",
+       "keywords": [
+        [
+         "mental",
+         "exercises"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "What does the coach say is a big difference between e-sports and traditional sports? That in e-sports, the teams are not {{gap}}.",
+       "key": "separated by gender",
+       "keywords": [
+        [
+         "separated",
+         "by",
+         "gender"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Why does she say e-sports can be beneficial to kids who find it difficult to fit in? Because it gives them a reason to {{gap}}.",
+       "key": "connect with the people around them",
+       "keywords": [
+        [
+         "connect"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What is Kyle’s prediction about the future of e-sports? His prediction is that they will {{gap}}.",
+       "key": "explode in the near future",
+       "keywords": [
+        [
+         "explode"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(A válasz akkor elfogadható, ha a – vastagon szedett – kulcsszavak szerepelnek benne.)"
+     }
+    },
+    {
+     "id": "2022-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to a news report about a very interesting scientific experiment.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_22okt_fl.mp3",
+      "start": 643.99,
+      "end": 1252.78,
+      "clip": "hang/e_angol_22okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The experiment took place in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a cave."
+        },
+        {
+         "key": "B",
+         "text": "France."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "The participants …",
+       "options": [
+        {
+         "key": "A",
+         "text": "spent 14 days in the cave."
+        },
+        {
+         "key": "B",
+         "text": "included eight men and seven women in all."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Lombrives Cave is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the longest cave in Europe."
+        },
+        {
+         "key": "B",
+         "text": "39 kilometers long."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "The aim of the experiment was to find out how people can …",
+       "options": [
+        {
+         "key": "A",
+         "text": "cope with the strange and unfamiliar circumstances."
+        },
+        {
+         "key": "B",
+         "text": "tolerate each other when they are locked up together for so long."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "In the cave, the participants had to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "generate light for themselves."
+        },
+        {
+         "key": "B",
+         "text": "pull water up from a well."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "An important part of the experiment was to learn how the human …",
+       "options": [
+        {
+         "key": "A",
+         "text": "brain keeps track of time without any outside clues."
+        },
+        {
+         "key": "B",
+         "text": "body tolerates the lack of sunshine for such a long time."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "With the passage of time, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "different participants developed their own individual sleeping patterns."
+        },
+        {
+         "key": "B",
+         "text": "participants lost track of the time in the outside world."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "At the end of the experiment, there was one “camper” who thought they had spent …",
+       "options": [
+        {
+         "key": "A",
+         "text": "more than 40 days in the cave."
+        },
+        {
+         "key": "B",
+         "text": "only 23 days in the cave."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "When the experiment was over, the majority of the “campers” said they …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had enjoyed the adventure."
+        },
+        {
+         "key": "B",
+         "text": "would have stayed underground longer if it had been possible."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2022-okt-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a report about some recent research into the psychology behind a classic optical illusion.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_22okt_fl.mp3",
+      "start": 1252.78,
+      "end": 1795.77,
+      "clip": "hang/e_angol_22okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "“My Wife and My Mother-in-Law” was first published in 1915.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "It is difficult to see both faces in the drawing simultaneously.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "At first, most people can’t see any faces when they take a look at the image.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "It’s been found that the order in which you first see the women may depend on your age.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The younger woman’s necklace is the older woman’s mouth in the drawing.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "The older woman’s nose was the most difficult to draw.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Australian researchers chose the participants of the study from all over the world.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "The results show that the younger you are, the more likely you are to see the old lady first.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Very young people tend to like this picture more than elderly people.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

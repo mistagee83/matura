@@ -1,0 +1,1336 @@
+{
+ "formatVersion": 1,
+ "id": "2019-okt-emelt",
+ "year": 2019,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2019-10-17",
+ "code": "1714",
+ "sourceFiles": {
+  "paper": "2019 - Emeltszintű október/e_angol_19okt_fl.pdf",
+  "key": "2019 - Emeltszintű október/e_angol_19okt_ut.pdf",
+  "audio": "2019 - Emeltszintű október/e_angol_19okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2019-okt-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 8,
+     "instructions": [
+      "Read this article about a famous English artist and then read the gapped sentences (1-8) following it.",
+      "Your task is to fill the gaps with one word only based on the information in the article.",
+      "The exact word you need may or may not be in the text."
+     ],
+     "title": "TURNER'S ROME MASTERPIECE TO GO ON SALE AT SOTHEBY'S",
+     "body": [
+      "One of the last Turner masterpieces still in private hands will go on sale for the first time in 130 years with an estimated price of £20 million. The painting, entitled Rome, from Mount Aventine, set a record price of £6,000 last time it was sold, but has remained in the same family since 1878. Considered an \"extraordinary\" example of the painter's work, and one of fewer than ten Turner paintings still in private collections, it will now go up for sale for only the second time in its history.",
+      "A spokesman for the Roseberry family, its current owner, said: \"During the first hundred years we owned this picture, it hung in pride of place in our homes – first in London and later in Buckinghamshire. For the last forty years or so, the painting has been on loan to major museums, and we have drawn much pleasure from knowing that so many people have had the opportunity to see and enjoy it. Now, in order to maintain the estates for which we are responsible, and to safeguard their future, we have made the decision to sell it.\"",
+      "Alex Bell of Sotheby's Old Master Paintings Departments said: \"This painting, which is nearly 200 years old, looks today as if it has come straight from the easel of the artist. Never subject to restoration, the picture retains the freshness of the moment it was painted: the hairs from Turner's brush, the drips of liquid paint which have run down the edge of the canvas, and every scrape of his palette knife have been preserved in incredible detail.\"",
+      "Commissioned by Turner's patron Hugh Munro of Novar in 1828, it took the artist seven years to complete after a visit to Rome and numerous detailed studies. In 1836, when Turner exhibited his work at the Royal Academy, the Morning Post wrote: \"This amazing picture confounds all criticism: it is beyond praise.\" It later hung in the London home of Hugh Monro of Novar until his death, whereupon it was bought at auction by Archibald Primrose, 5th Earl of Roseberry.",
+      "The vast majority of Turner's output is currently housed in public galleries, after the artist bequeathed his collection to the nation on his death.",
+      "(www. telegraph.co.uk)",
+      "Rome, from Mount Aventine was painted by {{0}}",
+      "Very few Turner paintings are still owned {{1}}.",
+      "The painting has only been sold {{2}} in its entire history.",
+      "In the past decades the {{3}} have allowed ordinary people to admire the picture.",
+      "The money the painting fetches will pay for the maintenance of the Roseberry {{4}}.",
+      "The painting has never been {{5}} yet.",
+      "Turner made many {{6}} before completing the picture.",
+      "It was after the death of Turner's {{7}} that this masterpiece was first auctioned.",
+      "In his will, Turner left many of his paintings to the {{8}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "Turner"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "privately"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "once"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "owners",
+        "Roseberrys"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "estates",
+        "property"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "restored"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "studies",
+        "sketches"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "patron"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "nation",
+        "state",
+        "country"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about a famous Hungarian some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (9-16) from the list (A-M) as shown in the example (0).",
+      "Remember there are three extra phrases you will not need."
+     ],
+     "title": "JUDIT POLGÁR: THE GIRL RAISED TO BE A CHESS GRANDMASTER",
+     "body": [
+      "Judit Polgár's father had a theory. An educationalist in Soviet-occupied Hungary, László Polgár was convinced that {{0}}. So he decided to demonstrate it, taking his three daughters out of school and concentrating them, from a young age, on a particular specialist subject. The subject was chess, and Judit {{9}}. She’s now the greatest female chess player of all time and the only woman ever to reach the top 10 in the world rankings.",
+      "As Judit points out, László himself was no chess prodigy. \"As a teacher of chess, he {{10}}!\" she laughs. \"But they’re very good pedagogues, my mother and father. They know very well how to convince, to lead the child in such a way that we {{11}}. And little by little we got more serious.\" Judit and her older sisters began by playing just 10 minutes of chess a day; by the time she was 12, it was 10 hours. Then in 1991 she {{12}} to become the world's youngest grand master, at just 15.",
+      "Her most significant legacy has been to explode the myth that {{13}}. During Judit's career she has inflicted defeat on nine world champions. \"When I started playing, there was an even bigger gap between men and women than there was in most physical sports,\" she says. \"Generally it was not accepted that {{14}}. Obviously I don't agree... and I showed them that I'm right.\"",
+      "The family were ostracised both by the Hungarian chess federation and the Soviet government for their unusual methods. \"There were so many difficulties that it made us very happy for every small result that {{15}},\" says Polgár. Judit now has children of her own, and works with schools charity CSC (Chess for Schools and Communities), as well as having her own foundation. But she's not taking her children down the same path {{16}}. \"I can't really advise people this is the way to do it,\" she admits. \"My parents had to give up their own professions to care only about us. My children only play for fun now.\"",
+      "(The Observer Magazine)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "women are able to reach the same level"
+      },
+      {
+       "key": "B",
+       "text": "himself was an excellent player"
+      },
+      {
+       "key": "C",
+       "text": "genius was made, not born"
+      },
+      {
+       "key": "D",
+       "text": "broke the then record"
+      },
+      {
+       "key": "E",
+       "text": "were happy playing"
+      },
+      {
+       "key": "F",
+       "text": "became the coach of the men's team"
+      },
+      {
+       "key": "G",
+       "text": "was good for only a very short time"
+      },
+      {
+       "key": "H",
+       "text": "complained her opponents played too slowly"
+      },
+      {
+       "key": "I",
+       "text": "her father took her on"
+      },
+      {
+       "key": "K",
+       "text": "became his proof"
+      },
+      {
+       "key": "L",
+       "text": "either of us achieved"
+      },
+      {
+       "key": "M",
+       "text": "men are 'naturally' better than women at chess"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "K"
+      },
+      {
+       "n": 10,
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "answer": "E"
+      },
+      {
+       "n": 12,
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "answer": "M"
+      },
+      {
+       "n": 14,
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "answer": "L"
+      },
+      {
+       "n": 16,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a near-fatal incident in a tropical forest and then read the sentences (17-23) following it.",
+      "Your task is to choose the option (A-D) that best corresponds to what the text says."
+     ],
+     "title": "GEORGE MONBIOT: HOW I ENDED UP IN THE JUNGLE WITH DEADLY HORNETS IN MY HAIR",
+     "body": [
+      "In 1987, I was working with the photographer Adrian Arbib in the capital of West Papua. One morning I set off for a walk in the forest close to the town. It was a hot day and I soon took off my shirt and slung it over my shoulder. I followed a trail that took me down to a small stream. Halfway up the slope on the other side, I brushed against a rotten stump. I took another step and found myself under attack.",
+      "Giant hornets swarmed over my body, buzzing frantically. I knew how dangerous they were: plenty of people had died from their stings. I panicked. I was stung eight times ̶ I suspected I was as good as dead.",
+      "I stumbled across the clearing, shouting for help. I saw a rickety house. There was a man inside; I stepped forward and said: “Hello. I’m George. I’ve just been attacked by hundreds of insects.” The man’s mouth fell open; he didn’t seem to believe what I said.",
+      "Instead of serangga ̶ which means insects ̶ in my panic I’d said semangka; or watermelons. “I need help. I was attacked by watermelons. Eight of them bit me, eight watermelons.” He stared at me, his eyes becoming bigger and rounder. Then he suddenly smiled. “Ahh, serangga. You stay here, I have some medicine for you.”",
+      "I was going to be saved! These men lived with the hornets, didn’t they? They must have an antidote, refined over millennia from forest herbs. The man began to rub something in my back. It felt soothing, and the pain began to ebb. The smell of the medicine was strangely familiar.",
+      "I turned my head and saw in his hand a jar of VicksVapoRub, the ointment I sometimes use for mosquito bites. “No, no! I’m going to die!” I cried and ran from the room. Just before I reached the town, the convulsions began. I stumbled along the streets, shuddering, holding on to buildings to stay upright. I fell through the door of the hotel and into the room, where Adrian was sitting on his bed, reading.",
+      "I tried to speak, but my mouth didn’t seem to work. I fell face down onto my bed, shivering violently. He must have noticed the welts on my back, because he forced a couple of antihistamines down me. The fit began to subside. I was saved.",
+      "(https://www.theguardian.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "George Monbiot liked long walks."
+        },
+        {
+         "key": "B",
+         "text": "The forest near the town looked inviting."
+        },
+        {
+         "key": "C",
+         "text": "One day George decided to go for a walk."
+        },
+        {
+         "key": "D",
+         "text": "Adrian stayed behind with some work to do."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The day was unusually hot."
+        },
+        {
+         "key": "B",
+         "text": "Because of the heat George was half naked."
+        },
+        {
+         "key": "C",
+         "text": "Not knowing the area well, he stuck to the path."
+        },
+        {
+         "key": "D",
+         "text": "He lost his way and found himself on a slope."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Halfway up the slope George fell over a tree stump."
+        },
+        {
+         "key": "B",
+         "text": "In no time he saw a giant hornet coming for him."
+        },
+        {
+         "key": "C",
+         "text": "There were, in fact, eight hornets buzzing around him."
+        },
+        {
+         "key": "D",
+         "text": "He knew that hornets' stings could be fatal."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Hearing his cries a man rushed to help George."
+        },
+        {
+         "key": "B",
+         "text": "George was worried he had received a deadly dose."
+        },
+        {
+         "key": "C",
+         "text": "Luckily, the man seemed to grasp the situation at once."
+        },
+        {
+         "key": "D",
+         "text": "He asked George to go inside his hut."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "George thought the man knew some English."
+        },
+        {
+         "key": "B",
+         "text": "The man misunderstood what George said."
+        },
+        {
+         "key": "C",
+         "text": "George's slip of the tongue didn't help communication."
+        },
+        {
+         "key": "D",
+         "text": "The mention of 'watermelons' made the man suspicious."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The man listened to George's account incredulously."
+        },
+        {
+         "key": "B",
+         "text": "The man had heard many similar stories before."
+        },
+        {
+         "key": "C",
+         "text": "George was getting more and more frightened of the man."
+        },
+        {
+         "key": "D",
+         "text": "George was relieved when he remembered the word for hornets."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "George was sure the man would have an effective remedy."
+        },
+        {
+         "key": "B",
+         "text": "The forest herbs the man produced eased the pain."
+        },
+        {
+         "key": "C",
+         "text": "VicksVapoRub had absolutely no effect on George."
+        },
+        {
+         "key": "D",
+         "text": "George thought VicksVapoRub was going to kill him."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "George was about to reach the hotel when the fits started."
+        },
+        {
+         "key": "B",
+         "text": "Worried, Adrian was waiting for him in the hotel room."
+        },
+        {
+         "key": "C",
+         "text": "Adrian was alerted by George's cry for help."
+        },
+        {
+         "key": "D",
+         "text": "It was Adrian who saved George's life."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about two real-life hijacks and a film and then read the statements (24-30) that follow. Your task is to decide if the statements are true or not according to the article.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "REAL-LIFE LIBYA PLANE HIJACK HALTS HIJACK FILM SHOOT",
+     "body": [
+      "The movie Entebbe is based on a hostage situation that happened 40 years ago in Uganda. However, unlike that hijacking, in an incident on Friday that involved a Libyan Airways plane, the two hijackers surrendered peacefully to police. Officials said the Entebbe film was just being shot at Malta International Airport, but the crew had to halt filming on the airport grounds when the Libyan plane landed there. The domestic flight with 118 people on board had taken off from Sabha and had been bound direct for the Libyan capital Tripoli.",
+      "The head of airport security said that the Maltese armed forces were well able to cope with such events. \"We've had five hijackings landing here and ironically today they were actually filming Entebbe on the airport grounds - and that had to be stopped,\" she told the BBC.",
+      "The Friday hijacking ended peacefully. However, in Uganda in 1976 the hostage situation dragged on for about a week after Palestinian hostage-takers hijacked the flight from Tel Aviv to Paris and diverted it to Entebbe. The Air France plane had 250 passengers – many of whom were Israeli – and 12 crew. The hijackers demanded the release of 54 militants held by Israel and four other countries and a $5million ransom.",
+      "In one of the most daring operations in its history, Israel secretly sent a unit of elite commandos - led by Yonatan Netanyahu, the brother of Prime Minister Benjamin Netanyahu - to rescue the hostages. They flew eight-and-a-half-hours over 4,000km, through hostile territory and beneath the scope of enemy radar, to carry out a surprise raid. The commandos killed all the hostage-takers as well as 20 Ugandan troops before flying the freed passengers and crew back to Israel. Three hostages lost their lives in the operation, as well as Yonatan Netanyahu, the only fatality among the troops.",
+      "(reuters.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Hijackers took a plane to Entebbe 40 years ago.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The Entebbe hijackers gave in without any violence.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The film shoot was just about to finish when the Libyan plane landed.",
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "stem": "The plane from Sabha was scheduled to fly non-stop to Tripoli.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "The Maltese army had had some previous experience with hijackings before the Friday incident.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "In 1976, the plane flew direct from Paris to Entebbe.",
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "The Israeli commandos’ secret flight was not detected because they flew at high altitude.",
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "The leader of the Israeli commandos died during the operation.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2019-okt-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about the first solo non-stop flight from New York to Paris. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-7) in the text."
+     ],
+     "title": "A FAMOUS FLIGHT",
+     "body": [
+      "In 1919, a New York City hotel owner named Raymond Orteig {{0}} $25,000 to the first aviator to fly non-stop from New York to Paris. Several pilots were killed or injured {{1}} competing for the Orteig Prize. By 1927, it had still not been won.",
+      "Charles Lindbergh, a 25-year-old American pilot, believed he could win it if he {{2}} the right airplane. He persuaded nine St. Louis businessmen {{3}} for a special airplane to be built. Lindbergh had the plane {{4}} with only a single engine. He knew having just one engine was risky, but felt that it gave him a better chance of success. Also, it was built to be as aerodynamic as possible to make the fuel last longer.",
+      "On May 20, 1927 Lindbergh took off from New York aboard his plane, the Spirit of St. Louis, and 33.5 hours later he arrived {{5}} Paris. He used the stars to navigate when possible, but sometimes he just had a compass to guide him. {{6}} the perils of navigating the foggy Atlantic, Lindbergh’s biggest challenge was simply staying awake.",
+      "Lindbergh’s major achievement was not that he was the first person to cross the Atlantic by airplane, but {{7}} that he did it alone and between two major international cities.",
+      "(www.ducksters.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "proposed"
+        },
+        {
+         "key": "B",
+         "text": "suggested"
+        },
+        {
+         "key": "C",
+         "text": "offered"
+        },
+        {
+         "key": "D",
+         "text": "given"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "meanwhile"
+        },
+        {
+         "key": "B",
+         "text": "˗"
+        },
+        {
+         "key": "C",
+         "text": "in"
+        },
+        {
+         "key": "D",
+         "text": "during"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "had had"
+        },
+        {
+         "key": "B",
+         "text": "was having"
+        },
+        {
+         "key": "C",
+         "text": "would have"
+        },
+        {
+         "key": "D",
+         "text": "had"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "to help pay"
+        },
+        {
+         "key": "B",
+         "text": "helping pay"
+        },
+        {
+         "key": "C",
+         "text": "to help paying"
+        },
+        {
+         "key": "D",
+         "text": "helping to pay"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "built"
+        },
+        {
+         "key": "B",
+         "text": "be built"
+        },
+        {
+         "key": "C",
+         "text": "been built"
+        },
+        {
+         "key": "D",
+         "text": "being built"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "to"
+        },
+        {
+         "key": "C",
+         "text": "in"
+        },
+        {
+         "key": "D",
+         "text": "by"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "However"
+        },
+        {
+         "key": "B",
+         "text": "Similarly"
+        },
+        {
+         "key": "C",
+         "text": "Apart from"
+        },
+        {
+         "key": "D",
+         "text": "In addition"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "more likely"
+        },
+        {
+         "key": "B",
+         "text": "preferably"
+        },
+        {
+         "key": "C",
+         "text": "even more"
+        },
+        {
+         "key": "D",
+         "text": "rather"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about what archaeologists have found out about William Shakespeare’s grave with the help of laser scanning technology. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (8-15) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SHAKESPEARE'S SKULL 'MISSING' FROM HIS GRAVE",
+     "body": [
+      "More than 250 years after Shakespeare’s death, a story began to circulate that his skull had {{0}} stolen from his grave in Holy Trinity Church in Stratford-upon-Avon by trophy hunters. For more than a century the tale {{8}} widely dismissed as a myth, but now, on the 400th anniversary of Shakespeare’s death, archaeologists believe they have found evidence {{9}} support the claims.",
+      "Using ground-penetrating radar to scan the grave reputed to {{10}} Shakespeare’s, they have discovered that the skull is apparently absent from the rest of the skeleton. They also established that a skull in a church in Beoley, 20 miles away, {{11}} according to local legend belonged to the playwright, was in fact that {{12}} a 77-year-old woman. This means, they said, that Shakespeare’s skull could still be at large somewhere.",
+      "Shakespeare’s grave is not marked with his name, but is covered {{13}} a stone inscribed with a curse to ward off anyone planning to move the remains. With the developments of radar and geophysical techniques, the archaeologists realised they could answer many questions about what’s beneath those stones {{14}} having to dig them up. The scan showed evidence of a “mysterious and significant repair” to the head end of the grave, giving credence to a story published in Argosy magazine in 1879. According to this, a group of trophy hunters {{15}} lifted the stone, dug up the grave and stolen Shakespeare’s skull. The technology shows half of the grave has not been disturbed. It means Shakespeare’s remains are there.",
+      "(www.independent.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "been"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "was",
+        "got",
+        "remained"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "which",
+        "that"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "by",
+        "with"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "without"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "had"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the history of Speakersˈ Corner in Hyde Park, London. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (16-24).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "SPEAKERS' CORNER",
+     "body": [
+      "Speakers' Corner has been a traditional site for public {{0}} and debates since the mid 1800's. Karl Marx, Vladimir Lenin, George Orwell and other {{16}} figures were known to often use the area to demonstrate free speech. Even today, on a Sunday morning, it's not {{17}} to find crowds gathering at Speakers' Corner to listen to enthusiasts expounding their views. Anyone can turn up to speak on any subject, as long as the police consider their speeches {{18}}.",
+      "Close to this spot, about 250 years ago, people were still being hanged at the infamous Tyburn Gallows. Everyone condemned to die at Tyburn could make a final speech. Some confessed, others emphasized their {{19}}. For onlookers, the executions were big social events. Eventually, the authorities decided the {{20}} were too violent and transferred them to Newgate Prison.",
+      "The origins of Speakers' Corner as it is known today go back to 1866, when a meeting of the Reform League demanding the {{21}} of the right to vote was suppressed by the Government. Marches and protests had long started or terminated their routes at Speakers' Corner. Finding the park {{22}}, demonstrators tore up hundreds of yards of railings to gain access, and three days of rioting followed. The next year, when a crowd of 150,000 refused to obey another government {{23}} and marched to Hyde Park, police and troops did not intervene. The Home Secretary resigned the next day. In the 1872 Parks Regulation Act, through a series of regulations {{24}} the conduct of meetings, the right to meet and speak freely in Hyde Park was established.",
+      "(www.royalparks.org.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "speak",
+       "example": true,
+       "accept": [
+        "speeches"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "stand",
+       "accept": [
+        "outstanding"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "usual",
+       "accept": [
+        "unusual"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "law",
+       "accept": [
+        "lawful"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "innocent",
+       "accept": [
+        "innocence"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "hang",
+       "accept": [
+        "hangings"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "extend",
+       "accept": [
+        "extension"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "lock",
+       "accept": [
+        "locked"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "ban",
+       "accept": [
+        "ban"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "govern",
+       "accept": [
+        "governing"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about the origins of cream tea, which is a light afternoon meal. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "ANCIENT ROOTS OF CREAM TEA DISCOVERED",
+     "intro": "Historians in Devon have unearthed evidence which they claim",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "proves the traditional cream tea was originated in the county some",
+       "answer": "was"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "1,000 years ago. Local historians have been studying ancient",
+       "answer": null
+      },
+      {
+       "n": 25,
+       "text": "manuscripts, and after that piecing together fragments of",
+       "answer": "that"
+      },
+      {
+       "n": 26,
+       "text": "manuscripts, they have been discovered that the monks of",
+       "answer": "been"
+      },
+      {
+       "n": 27,
+       "text": "Tavistock's Benedictine Abbey could have created the famous for",
+       "answer": "for"
+      },
+      {
+       "n": 28,
+       "text": "dish to reward workers who have helped to restore the building.",
+       "answer": "have"
+      },
+      {
+       "n": 29,
+       "text": "The Abbey was established in the 10th century, but was",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "plundered and badly damaged by Vikings in 997 AD. When the task",
+       "answer": "when"
+      },
+      {
+       "n": 31,
+       "text": "of restoring the Abbey was undertaken by Ordulf, Earl of Devon,",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "whose father had been a responsible for establishing the Abbey.",
+       "answer": "a"
+      },
+      {
+       "n": 33,
+       "text": "Ordulf was helped by local workers who the monks fed up with",
+       "answer": "up"
+      },
+      {
+       "n": 34,
+       "text": "bread, clotted cream and little strawberry jam. The cream teas were",
+       "answer": "little"
+      },
+      {
+       "n": 35,
+       "text": "so much popular that the monks continued to serve them to passing",
+       "answer": "much"
+      }
+     ],
+     "outro": "travellers. We can only wonder who it was who carried news of this dish into Cornwall. (www.news.bbc.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 16,
+   "maxExamPoints": 30,
+   "omitted": [
+    {
+     "number": 2,
+     "points": 9,
+     "reason": "kép nélkül nem oldható meg"
+    }
+   ],
+   "originalMaxTaskPoints": 25,
+   "tasks": [
+    {
+     "id": "2019-okt-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a news report about an unusual incident in a British school.",
+      "Your task will be to circle the letter or letters of the correct answer or answers in the boxes on the right. Please note that in this task both answers may be correct. This means you will have to circle either A or B, or both A and B.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_19okt_fl.mp3",
+      "start": 0,
+      "end": 546.04,
+      "clip": "hang/e_angol_19okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This news report is about something that is taking place in the ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "UK."
+        },
+        {
+         "key": "B",
+         "text": "summer."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "This week, temperatures all over in Britain are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "pretty high."
+        },
+        {
+         "key": "B",
+         "text": "over 30 degrees Celsius."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Because of the heat last Tuesday, twenty boys in an East Sussex school …",
+       "options": [
+        {
+         "key": "A",
+         "text": "refused to wear their usual PE shorts."
+        },
+        {
+         "key": "B",
+         "text": "turned up wearing shorts."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Some of the rebels were …",
+       "options": [
+        {
+         "key": "A",
+         "text": "put in isolation."
+        },
+        {
+         "key": "B",
+         "text": "sent home to change."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "In protest, two days later, the boys turned up …",
+       "options": [
+        {
+         "key": "A",
+         "text": "wearing skirts."
+        },
+        {
+         "key": "B",
+         "text": "with their parents."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "The head teacher said …",
+       "options": [
+        {
+         "key": "A",
+         "text": "she would allow students to wear shorts if the heat continued."
+        },
+        {
+         "key": "B",
+         "text": "it was only a small minority that protested."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "One boy told the BBC that the head teacher had eventually allowed them to wear …",
+       "options": [
+        {
+         "key": "A",
+         "text": "shorts."
+        },
+        {
+         "key": "B",
+         "text": "skirts."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "This isn’t the first time boys in Britain have worn … to protest the heat.",
+       "options": [
+        {
+         "key": "A",
+         "text": "shorts"
+        },
+        {
+         "key": "B",
+         "text": "skirts"
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear an interview with Harrison Ford, who played the character Han Solo in the Star Wars series.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_19okt_fl.mp3",
+      "start": 1120.6,
+      "end": 1795.69,
+      "clip": "hang/e_angol_19okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The interviewer and Harrison Ford are going to talk about Star Wars.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The interview takes place about four decades after the first movie was made.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Harrison Ford firmly believed in the success of the film from the very beginning.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Ford thought it was a simple science fiction story when he first read the script.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Ford thought that the characters were like typical fairy-tale characters.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Ford thought that Han Solo was more important than the other characters in the film.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Ford suggests that the post production didn’t add much to the success of the film.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Ford does not consider the moral themes as particularly important in the film.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Ford’s kids didn’t particularly enjoy the Star Wars films.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Ford thinks that Han Solo and Indiana Jones are equally important characters for his fans.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

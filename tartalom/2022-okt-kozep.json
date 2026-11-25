@@ -1,0 +1,1284 @@
+{
+ "formatVersion": 1,
+ "id": "2022-okt-kozep",
+ "year": 2022,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2022-10-20",
+ "code": "2211",
+ "sourceFiles": {
+  "paper": "2022 - Középszintű október/k_angol_22okt_fl.pdf",
+  "key": "2022 - Középszintű október/k_angol_22okt_ut.pdf",
+  "audio": "2022 - Középszintű október/k_angol_22okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2022-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "Read the following collection of frequently asked questions and answers from the website of a language school. All of the questions have been removed.",
+      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (1- 7).",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "FAQS LANGUAGE COURSES UK",
+     "body": [
+      "Cannot find the information you are looking for? Email info@languagecoursesuk.co.uk for a response within 24 hours.",
+      "{{0}}\nOur evening courses are for adults of all ages and for all levels from beginners upwards. For most courses, the average age range will be mid-20s to mid-40s.",
+      "{{1}}\nOur maximum class size is 12 students per class for face-to-face courses. If the course takes place online, the maximum class size is 10.",
+      "{{2}}\nIf you are unsure where to start or progress to, take our online placement test.",
+      "{{3}}\nThe earlier the better. If we don’t receive enough bookings for a course, we will regrettably have to cancel it.",
+      "{{4}}\nYes, if there is space in the classes, we can take bookings for students to join the class a week later, although there will be no discount on the price.",
+      "{{5}}\nNo, the entire amount must be paid by card at time of booking.",
+      "{{6}}\nNo, our coursebook CDs are designed to be used in class and with a teacher; they are not designed for self-study.",
+      "{{7}}\nAlthough we can’t guarantee that your teacher will be available, we’ll do our best to assign them to your next level."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Will I get a copy of the listening materials that are used in the class?"
+      },
+      {
+       "key": "B",
+       "text": "Can I pay a deposit and then pay the rest of the fee later?"
+      },
+      {
+       "key": "C",
+       "text": "What is the profile of the students on the courses?"
+      },
+      {
+       "key": "D",
+       "text": "What is the minimum number of students?"
+      },
+      {
+       "key": "E",
+       "text": "How do I know what level I am?"
+      },
+      {
+       "key": "F",
+       "text": "If I like my teacher and classmates, can I continue with them next term?"
+      },
+      {
+       "key": "G",
+       "text": "Am I allowed a discount if I book two courses?"
+      },
+      {
+       "key": "H",
+       "text": "How big are the classes?"
+      },
+      {
+       "key": "I",
+       "text": "Can I join a class in the second week?"
+      },
+      {
+       "key": "K",
+       "text": "How soon should I enrol?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "E"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "F"
+      }
+     ],
+     "source": "https://www.languagecoursesuk.co.uk/faqs/"
+    },
+    {
+     "id": "2022-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 5,
+     "instructions": [
+      "In the following text about volunteering, the headings have been removed.",
+      "Your task is to match the headings to the paragraphs.",
+      "There are two extra headings that you do not need."
+     ],
+     "title": "VOLUNTEERING",
+     "body": [
+      "Volunteering is an opportunity to change lives, including your own. If you'd like to support a cause but can't afford to donate money, you can donate your time instead. So how do you go about it?",
+      "{{0}}\nWhen volunteering, you can pick what really interests you and who or what is most deserving of your time. Here are some ideas to get you started:",
+      "{{8}}\nBecome a camp counsellor, or volunteer for an after-school sports program. Provide homework help in a specific subject or become a reading partner for students who struggle with reading.",
+      "{{9}}\nServe Christmas dinner to the homeless, volunteer at your local food bank, or distribute toys to kids. Local charities also may be able to use your help then.",
+      "{{10}}\nMost shelters depend on volunteers to keep the cats and dogs happy and well exercised. And when you're walking rescued dogs, you get a workout too.",
+      "{{11}}\nJoin a conservation group and count wildlife or plants. Take part in a local park clean-up day. You don't have to be an outdoors type — you could help out in a park office or education centre as well.",
+      "{{12}}\nLots of us are close to people who have a medical problem. It can feel good to donate your time to an organization that raises money for research, delivers meals, or offers other help to people with an illness.",
+      "Volunteering gives you a place to be where you can have a good time, keep busy and make the world a better place."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Find what fits your timetable"
+      },
+      {
+       "key": "B",
+       "text": "Look after abandoned pets"
+      },
+      {
+       "key": "C",
+       "text": "Find what's best for you"
+      },
+      {
+       "key": "D",
+       "text": "Support a health-related cause"
+      },
+      {
+       "key": "E",
+       "text": "Help the environment"
+      },
+      {
+       "key": "F",
+       "text": "Help and see the world"
+      },
+      {
+       "key": "G",
+       "text": "Help during the holiday season"
+      },
+      {
+       "key": "H",
+       "text": "Help kids learn and grow"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "E"
+      },
+      {
+       "n": 12,
+       "answer": "D"
+      }
+     ],
+     "source": "https://kidshealth.org/en/teens/volunteering.html#catjobs"
+    },
+    {
+     "id": "2022-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a meteorite that landed in a Canadian home and then read the statements (13-19) following it.",
+      "Mark a statement A if it is true according to the article, mark it B if it is false, and mark it C if there isn’t enough information in the text to decide if it is true or not."
+     ],
+     "title": "METEORITE CRASH-LANDED IN A CANADIAN WOMAN’S BED WHILE SHE SLEPT",
+     "body": [
+      "When Ruth Hamilton woke up on October 3 to the sound of her dog barking, followed shortly by an explosion and drywall pieces falling on her face, she was afraid there was a burglar in the house. But instead, she noticed a dark grey rock behind her pillows that matched the size of the hole in her ceiling.",
+      "The police officer who visited Ms Hamilton’s home first suspected that a nearby building site might be responsible for the damage. But the construction workers made the officer think of another explanation. They had heard a loud noise and seen an explosion in the sky just before Ms Hamilton reported the incident. “The police officer came back in and said: ‘Well, I think you have a meteorite in your bed,’” says Ms Hamilton.",
+      "Ms Hamilton shared the space-rock, which weighs about 1.3 kilograms, with researchers at the University of Western Ontario, which has a collection of meteorites, so they can study it further. \"It's certainly a meteorite,\" says meteor physicist Peter Brown, member of the research team. \"Everything about the story pointed to a meteorite fall, and the fact that the bright fireball had occurred basically right at the same time made it a pretty obvious case.\"",
+      "The researchers are asking local residents for videos that may have captured the fall of the fireball. They can use video to reconstruct the path that the meteorite followed from the asteroid belt to Earth.",
+      "Ms Hamilton considers herself lucky to be unharmed. “I didn’t get hurt,” she says. “I didn’t even get a scratch. So, all I had to do is have a shower and mop the floor.”",
+      "Because the meteorite landed on Ms Hamilton’s property, it belongs to her, and she plans to keep it as a souvenir of the unusual night. Her grandchildren also think it’s pretty cool."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Ruth Hamilton was woken up by pieces of wall falling on her bed.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "The incident happened shortly after midnight.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Ruth Hamilton’s home had been broken into before.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The construction workers did not notice anything strange.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Researchers are sure that the rock is a meteorite.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Residents will be paid a small sum of money for sharing videos that capture the fireball.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Ms Hamilton did not get injured when the space-rock hit her home.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Ms Hamilton has given the meteorite to her grandchildren as a souvenir.",
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.smithsonianmag.com/smart-news/meteorite-crash-landed-in-a-canada-womans-bed-while-she-slept-180978878/"
+    },
+    {
+     "id": "2022-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article about a library delivery service.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (20- 28) from the list (A-M) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "DRONE DELIVERS BOOKS TO KIDS",
+     "body": [
+      "Kids in the Montgomery County school district had a special way of getting books to read when the pandemic started: the books were {{0}}. A drone is a small remote- controlled aircraft, like a toy-sized plane or helicopter.",
+      "Kelly Passek is a librarian at a local school. When schools closed because of the Covid-19 pandemic, she wanted to make sure students in her school district would still {{20}}. A company called Wing Aviation uses drones to {{21}} from restaurants and stores in Ms Passek’s town. She had used the drone service to have things delivered to her own home, and she thought it could {{22}}.",
+      "The people at Wing agreed and the company began making deliveries. Students who {{23}} could fill out a Google form to request a specific book, or ask Ms Passek to choose one for them.",
+      "Ms Passek received the requests, then got the books from the library, {{24}}, and took them to Wing’s shipping centre.",
+      "Wing {{25}}, which flew to the delivery location, lowered the book on a cable, and released it when it was close to the ground.",
+      "The first book sent out this way – and maybe the first library book ever to be delivered by drone – was All Quiet on the Western Front, by Erich Maria Remarque. It was {{26}} in the district.",
+      "The drones have a wingspan of about one metre, and weigh about 4.5 kilograms. They can carry packages that weigh up to 1.3 kilograms, so students were {{27}}.",
+      "Students have now {{28}}, but many are hoping to use the drone service in the future."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "have access to books"
+      },
+      {
+       "key": "B",
+       "text": "work for delivering books to students, too"
+      },
+      {
+       "key": "C",
+       "text": "delivered to their homes by drones"
+      },
+      {
+       "key": "D",
+       "text": "required summer reading for a 14-year-old student"
+      },
+      {
+       "key": "E",
+       "text": "used school buses to deliver reading material to kids"
+      },
+      {
+       "key": "F",
+       "text": "loaded each book onto a drone"
+      },
+      {
+       "key": "G",
+       "text": "deliver food and other items"
+      },
+      {
+       "key": "H",
+       "text": "lived in the delivery zone"
+      },
+      {
+       "key": "I",
+       "text": "allowed to request more than one book"
+      },
+      {
+       "key": "K",
+       "text": "put them in a special package"
+      },
+      {
+       "key": "L",
+       "text": "find a satisfied customer"
+      },
+      {
+       "key": "M",
+       "text": "returned to in-person classes"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "G"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      },
+      {
+       "n": 24,
+       "answer": "K"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "answer": "I"
+      },
+      {
+       "n": 28,
+       "answer": "M"
+      }
+     ],
+     "source": "https://teachingkidsnews.com/2020/09/27/drone-delivers-books-to-kids/"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2022-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a new way of gardening. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "RENT A GOAT",
+     "body": [
+      "It’s hard to keep your backyard tidy and {{0}} without harming the Earth. Just consider the tools. Lawn mowers use fossil fuels, adding to the {{1}} of the atmosphere every time you push them across the grass.",
+      "That’s why many are trying out a more {{2}} form of lawn care and management: goats. According to Forbes, goat rentals are becoming a(n) {{3}} service for homeowners and farmers who want to get their land under control.",
+      "Goat rental businesses function very simply. Customers call in with the {{4}} of their land — the size, the landscape, and any other important features. Then the goat rental service makes a(n) {{5}}. Once the price is settled, the two parties agree on a(n) {{6}} date of service. On that day, the goats arrive. They graze the grass until the evening, then leave, and possibly return the next morning if the size of the job makes it necessary. When their work is done, customers are left with a freshly manicured lawn, achieved without burning any fossil fuel.",
+      "These {{7}} businesses can send 100 or more goats at a time. Goats offer obvious {{8}} benefits, since they replace both mowers and chemical insect killers."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "health",
+       "example": true,
+       "accept": [
+        "healthy"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "pollute",
+       "accept": [
+        "pollution"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "nature",
+       "accept": [
+        "natural"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "fashion",
+       "accept": [
+        "fashionable",
+        "in-fashion"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "describe",
+       "accept": [
+        "description"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "offer",
+       "accept": [
+        "offer"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "suit",
+       "accept": [
+        "suitable"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "create",
+       "accept": [
+        "creative"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "environment",
+       "accept": [
+        "environmental"
+       ]
+      }
+     ],
+     "source": "https://www.greenmatters.com/news/2018/08/29/MH8Rx/goat-grazing-rentals"
+    },
+    {
+     "id": "2022-okt-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the mystery of the Hanging Gardens of Babylon. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (9-16) in the text."
+     ],
+     "title": "THE HANGING GARDENS OF BABYLON",
+     "body": [
+      "Ancient writers describe a fantastic series {{0}} gardens constructed at the ancient city of Babylon in modern-day Iraq. It’s not clear when these gardens {{9}} built, but some writers were {{10}} impressed that they called them a “wonder of the world”. Around 250 B.C., Philo of Byzantium wrote that the Hanging Gardens had “plants grown at a height above ground level, and the roots are planted in an upper terrace rather {{11}} in the earth.”",
+      "So {{12}}, archaeologists who have excavated Babylon have been unable to find the remains of the garden. This {{13}} left archaeologists with a question: {{14}} the hanging gardens really exist? In 2013, a researcher at the University of Oxford proposed that the gardens were actually located at the Assyrian city of Nineveh. Over the {{15}} two decades, both Babylon and Nineveh have suffered damage from wars, and it seems {{16}} that this mystery will ever be solved."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "with"
+        },
+        {
+         "key": "B",
+         "text": "in"
+        },
+        {
+         "key": "C",
+         "text": "of"
+        },
+        {
+         "key": "D",
+         "text": "about"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "might be"
+        },
+        {
+         "key": "B",
+         "text": "were"
+        },
+        {
+         "key": "C",
+         "text": "had"
+        },
+        {
+         "key": "D",
+         "text": "have been"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "as"
+        },
+        {
+         "key": "B",
+         "text": "very"
+        },
+        {
+         "key": "C",
+         "text": "so"
+        },
+        {
+         "key": "D",
+         "text": "much"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "then"
+        },
+        {
+         "key": "B",
+         "text": "there"
+        },
+        {
+         "key": "C",
+         "text": "than"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "far"
+        },
+        {
+         "key": "B",
+         "text": "much"
+        },
+        {
+         "key": "C",
+         "text": "many"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "has"
+        },
+        {
+         "key": "B",
+         "text": "had"
+        },
+        {
+         "key": "C",
+         "text": "never"
+        },
+        {
+         "key": "D",
+         "text": "was"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "How"
+        },
+        {
+         "key": "B",
+         "text": "Must"
+        },
+        {
+         "key": "C",
+         "text": "Would"
+        },
+        {
+         "key": "D",
+         "text": "Did"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "passed"
+        },
+        {
+         "key": "B",
+         "text": "past"
+        },
+        {
+         "key": "C",
+         "text": "several"
+        },
+        {
+         "key": "D",
+         "text": "late"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "certain"
+        },
+        {
+         "key": "B",
+         "text": "unlikely"
+        },
+        {
+         "key": "C",
+         "text": "likely"
+        },
+        {
+         "key": "D",
+         "text": "certainly"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2022-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read about a journalist’s experiences in the Bahamas. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "WHERE PIGS SWIM FREE",
+     "body": [
+      "For more than 30 years, I have photographed animals. It is important to me to portray animals as having their {{0}} thoughts and personalities.",
+      "I heard about the swimming pigs from an Englishwoman, who told me that she was 300 feet offshore in the Bahamas when a pig smelled her pizza and swam out to ask {{17}} a bite.",
+      "The pigs live on Big Major Cay, a tiny, uninhabited island with thick forests. About a dozen pigs live here, and {{18}} are different stories about how that happened. Some say the pigs swam to the island after a shipwreck; {{19}} say sailors left them here, planning to come back and eat them. Recently, they’ve become celebrities. The comedian Amy Schumer posted a photograph on Instagram {{20}} showed her and her buddies hanging {{21}} with one of the pigs on the island.",
+      "On the island, the pigs are very tolerant of tourists. They expect {{22}} be fed. When I was there in February, a lot of people brought salad and bread. My guide, Dreko, said the pigs prefer anything {{23}} salad, as they already have that on the island, but being pigs, they ate it all.",
+      "All in {{24}}, it was more interesting to watch the people. They want this exciting pig experience and can become unbelievably and noisily happy, {{25}} spite of the fact that they probably ate bacon and eggs for breakfast."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "own"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "there",
+        "here"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "others",
+        "some",
+        "many"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "out",
+        "around"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "to",
+        "over",
+        "but"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "all"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "in"
+       ]
+      }
+     ],
+     "source": "https://www.nytimes.com/interactive/2016/03/30/magazine/voyages-big-major-cay-pigs.html"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2022-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear about the life of a famous scientist.",
+      "Your task is to complete the sentences with one word or number in each gap, using the exact words you hear.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_22okt_fl.mp3",
+      "start": 0,
+      "end": 622.88,
+      "clip": "hang/k_angol_22okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mária Telkes was a Hungarian-American scientist and {{gap}}.",
+       "accept": [
+        "inventor"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Her nickname was “the Sun {{gap}}”.",
+       "accept": [
+        "queen"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "At the University of Budapest she studied physical {{gap}}.",
+       "accept": [
+        "chemistry"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "She started teaching in the year {{gap}}.",
+       "accept": [
+        "1924"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Her device at the Cleveland Clinic Foundation recorded {{gap}} waves.",
+       "accept": [
+        "brain"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "In 1937 she became a(n) {{gap}} engineer at Westinghouse Electric.",
+       "accept": [
+        "research"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "At Westinghouse Electric, she converted {{gap}} into electrical energy.",
+       "accept": [
+        "heat"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Her invention saved the lives of many {{gap}} and airmen.",
+       "accept": [
+        "sailors"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "In Dover Sun House, the storage compartment was filled with {{gap}}.",
+       "accept": [
+        "salt"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "It was in 1977 that Mária Telkes {{gap}}.",
+       "accept": [
+        "retired"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2022-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a radio interview with a street musician.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_22okt_fl.mp3",
+      "start": 622.88,
+      "end": 1191.73,
+      "clip": "hang/k_angol_22okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Stefano Rosa is an Italian street musician.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Stefano was satisfied with the money he earned in clubs and cafés.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Stefano never plays the same song twice.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Stefano’s mother taught music to her own children too.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Stefano has been listening to rock music since he was a very small child.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Stefano thinks he is a guitarist rather than a singer.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Stefano prefers performing with other musicians to playing on his own.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Stefano never plays on Sundays.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "The British girls in Piazza Duomo in Milan were very pretty.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "A drunk guy in Pisa stole Stefano’s microphone.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2022-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you will listen to a true survival story.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_22okt_fl.mp3",
+      "start": 1191.73,
+      "end": 1795.27,
+      "clip": "hang/k_angol_22okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Ewa Wiśnierska is a(n)…",
+       "options": [
+        {
+         "key": "A",
+         "text": "artist."
+        },
+        {
+         "key": "B",
+         "text": "sportsperson."
+        },
+        {
+         "key": "C",
+         "text": "scientist."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Ewa was practising...",
+       "options": [
+        {
+         "key": "A",
+         "text": "on her own."
+        },
+        {
+         "key": "B",
+         "text": "in Australia."
+        },
+        {
+         "key": "C",
+         "text": "for the European championship."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Ewa wasn’t afraid thanks to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the promising weather forecast."
+        },
+        {
+         "key": "B",
+         "text": "the clear skies."
+        },
+        {
+         "key": "C",
+         "text": "her previous experience."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Ewa...",
+       "options": [
+        {
+         "key": "A",
+         "text": "lost control of her paraglider."
+        },
+        {
+         "key": "B",
+         "text": "decided to fly as high as she could."
+        },
+        {
+         "key": "C",
+         "text": "checked her GPS at 6,900 metres."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Ewa was…",
+       "options": [
+        {
+         "key": "A",
+         "text": "flying nearly as high as Mount Everest."
+        },
+        {
+         "key": "B",
+         "text": "almost hit by an aeroplane."
+        },
+        {
+         "key": "C",
+         "text": "wearing warm clothing."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Ewa...",
+       "options": [
+        {
+         "key": "A",
+         "text": "and her paraglider got totally icy."
+        },
+        {
+         "key": "B",
+         "text": "managed to open her paraglider."
+        },
+        {
+         "key": "C",
+         "text": "landed very close to where she had started."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Ewa was able to…",
+       "options": [
+        {
+         "key": "A",
+         "text": "tell her team mates her position."
+        },
+        {
+         "key": "B",
+         "text": "take off her icy clothes."
+        },
+        {
+         "key": "C",
+         "text": "cover herself in warm blankets."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Ewa didn’t …",
+       "options": [
+        {
+         "key": "A",
+         "text": "need to be taken to hospital."
+        },
+        {
+         "key": "B",
+         "text": "have any injuries at all."
+        },
+        {
+         "key": "C",
+         "text": "wait long to continue paragliding."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

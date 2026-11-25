@@ -1,0 +1,434 @@
+{
+  "formatVersion": 1,
+  "id": "2024-maj-emelt",
+  "year": 2024,
+  "session": "május",
+  "level": "emelt",
+  "examDate": "2024-05-09",
+  "code": "E2412",
+  "sourceFiles": {
+    "paper": "2024 - Emeltszintű május/e_angol_24maj_fl.pdf",
+    "key": "2024 - Emeltszintű május/e_angol_24maj_ut.pdf",
+    "audio": "2024 - Emeltszintű május/e_angol_24maj_fl.mp3"
+  },
+  "sections": [
+    {
+      "id": "reading",
+      "title": "I. Olvasott szöveg értése",
+      "minutes": 70,
+      "maxTaskPoints": 28,
+      "maxExamPoints": 30,
+      "conversion": {"28":30,"27":29,"26":28,"25":27,"24":26,"23":25,"22":24,"21":23,"20":21,"19":20,"18":19,"17":18,"16":17,"15":16,"14":15,"13":14,"12":13,"11":12,"10":11,"9":10,"8":9,"7":8,"6":6,"5":5,"4":4,"3":3,"2":2,"1":1,"0":0},
+      "tasks": [
+        {
+          "id": "2024-maj-emelt-R1",
+          "number": 1,
+          "kind": "bank",
+          "layout": "inline",
+          "examType": "bekezdés első mondatának párosítása",
+          "points": 6,
+          "instructions": [
+            "In the following text about emotional eating, the first sentence of each paragraph has been removed.",
+            "Your task is to match the sentences to the paragraphs.",
+            "Write the letters of the sentences (A-I) next to the appropriate numbers (1-6).",
+            "There are two extra sentences that you do not need."
+          ],
+          "title": "WHAT IS EMOTIONAL EATING?",
+          "body": [
+            "{{0}}\nThey often seek comfort or distraction in food when they’re stressed, sad, anxious, or bored. But emotional eating can be linked to positive feelings as well, like the celebration of a holiday feast.",
+            "{{1}}\nWho hasn’t suddenly found room for dessert after a filling dinner or eaten cookie after cookie while cramming for a big test? But when done a lot, emotional eating can cause weight gain or cycles of binge eating.",
+            "{{2}}\nYou may often feel even worse about eating the amount or type of food you did. It is important to be aware of the connection between eating and your feelings.",
+            "{{3}}\nA child who gets candy after a big achievement may grow up using candy as a reward for a job well done. A kid who is given cookies as a way to stop crying may learn to link cookies with comfort.",
+            "{{4}}\nBut it is possible. It starts with understanding the differences between two types of hunger. Physical hunger means you’re likely to stop eating when full and it doesn’t cause feelings of guilt. Emotional hunger may cause specific cravings (e.g. for pizza or ice cream) and it can make you eat more than you normally would, which may result in feeling guilty afterwards.",
+            "{{5}}\nFor example, if you head to the kitchen after school each day, try to change the routine. Instead of looking for food, stop and ask yourself if you’re really hungry. Check in to see which type of hunger is making you want to eat.",
+            "{{6}}\nIf not, take a few minutes to go over the things that have happened that day and acknowledge how they made you feel. If your eating is triggered by a specific situation or mood, find a replacement activity. There are better ways to deal with the feelings that make you turn to food."
+          ],
+          "bank": [
+            {"key": "A", "text": "Managing emotional eating starts with breaking the automatic cycle."},
+            {"key": "B", "text": "We're all emotional eaters to some extent."},
+            {"key": "C", "text": "Emotional eating is when people use food to deal with feelings instead of to satisfy hunger."},
+            {"key": "D", "text": "Food restriction by parents often triggers a child’s desire to eat more food."},
+            {"key": "E", "text": "The trouble with emotional eating is that after the pleasure of eating is gone, the feelings that cause it remain."},
+            {"key": "F", "text": "However, some people eat less in the face of strong emotions."},
+            {"key": "G", "text": "People tend to learn emotional eating patterns at an early age."},
+            {"key": "H", "text": "It’s not easy to “unlearn” patterns of emotional eating."},
+            {"key": "I", "text": "If you find signs of physical hunger, choose a healthy snack."}
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C"},
+            {"n": 1, "answer": "B"},
+            {"n": 2, "answer": "E"},
+            {"n": 3, "answer": "G"},
+            {"n": 4, "answer": "H"},
+            {"n": 5, "answer": "A"},
+            {"n": 6, "answer": "I"}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-R2",
+          "number": 2,
+          "kind": "choice",
+          "layout": "stems",
+          "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+          "points": 8,
+          "instructions": [
+            "Read this article about penguins’ sleeping habits and then read the statements (7-14) following it.",
+            "Mark a sentence A if it is true according to the article.",
+            "Mark it B if it is false.",
+            "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+          ],
+          "title": "PENGUINS TAKE THOUSANDS OF NAPS A DAY",
+          "body": [
+            "Penguins are champion power nappers. Over the course of a single day, they fall asleep thousands of times, each time only for a few seconds, a new study has found. Although animals have a wide range of sleeping styles, penguins easily take the record for fragmented sleeping.",
+            "The science of sleep got its start in the early 1900s when researchers used scalp electrodes to discover that people produce slow brain waves when dozing. They found similar wave patterns in mice, pigeons and other captive animals. Over time, scientists discovered that every animal they studied spent some time each day unresponsive to their environment. Even jellyfish sleep despite their lack of a brain.",
+            "But how animals sleep varies. Brown bats remain asleep for 20 hours a day, whereas giraffes get by on less than two hours. Seals are able to shut down a single side of their brain: with the other still awake, they can continue swimming as they doze.",
+            "As technological devices have become smaller and more powerful, researchers have discovered that sleep patterns documented in animals in captivity are significantly different from those observed in the wild. In zoos, for example, sloths will sleep for almost 16 hours a day. But in a Panamanian rainforest, scientists observed the animals sleeping for less than 10.",
+            "In 2019, neuroscientist Paul-Antoine Libourel and his colleagues tracked sleeping animals in a remote environment: King George Island, 70 miles north of Antarctica, where several thousands of breeding pairs of chinstrap penguins gather in nesting colonies to raise their young. They found that the birds split their time between swimming in the ocean and staying at the nests to keep their eggs and chicks warm. While in the ocean, the birds barely slept, spending just three percent of their time resting on the surface of the sea. When the penguins returned to their nests, however, their brain waves slowed to a pattern that is typical for sleeping birds — but only for a few seconds. They woke up again, only to fall back asleep. The birds sped through this cycle 600 times in an hour.",
+            "Humans, too, can experience this sort of microsleep, though typically only after failing to get a good night’s sleep. It can be dangerous, especially if we’re nodding off at the wheel. But for chinstrap penguins, microsleep seems to be the norm."
+          ],
+          "options": [
+            {"key": "A", "text": "TRUE"},
+            {"key": "B", "text": "FALSE"},
+            {"key": "C", "text": "NOT ENOUGH INFORMATION"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "In the animal kingdom, penguins fall asleep the most times during a day.", "answer": "A"},
+            {"n": 7, "stem": "Scientists found similar brain activity during sleep in both humans and certain animals in captivity.", "answer": "A"},
+            {"n": 8, "stem": "Scientists can’t explain why jellyfish can sleep despite not having a brain.", "answer": "C"},
+            {"n": 9, "stem": "The size of an animal’s brain determines the amount of time it sleeps a day.", "answer": "C"},
+            {"n": 10, "stem": "Seals can only swim if their whole brain is awake.", "answer": "B"},
+            {"n": 11, "stem": "The sleeping patterns of species change according to where they live.", "answer": "A"},
+            {"n": 12, "stem": "On King George Island, a small colony of penguins were observed by neuroscientists.", "answer": "B"},
+            {"n": 13, "stem": "It was during the time spent in their nests that the penguins were observed to fall asleep many times in a short period of time.", "answer": "A"},
+            {"n": 14, "stem": "When it comes to humans, microsleep normally occurs when we are well-rested.", "answer": "B"}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-R3",
+          "number": 3,
+          "kind": "bank",
+          "layout": "stems",
+          "examType": "félmondatok párosítása",
+          "points": 6,
+          "instructions": [
+            "Read the following text about parks in London and then read the half sentences that follow the text.",
+            "Your task is to match the half sentences based on the information in the text.",
+            "Write the letters (A-K) next to the numbers (15-20).",
+            "Remember that there are three extra letters that you will not need."
+          ],
+          "title": "LONDON’S BEST PARKS",
+          "body": [
+            "With more than 3,000 parks and open spaces, London is one of the world’s greenest cities. Here’s our lowdown on London’s best major parks.",
+            "Wild and undulating, Hampstead Heath makes a wonderful contrast to the more manicured London parks. It’s a playground for picnickers, dog-walkers and nature-lovers. Take a dip in the ponds: the men’s and ladies’ ponds are open all year round, but be warned that even in the summer, the water is pretty frosty.",
+            "Crystal Palace Park – The Crystal Palace, which gave the park its name, may have burnt to the ground in 1936, but its landscaped grounds still house some pretty amazing features, including five massive dinosaur sculptures that lurk among the trees around a lake.",
+            "Dulwich Park is charming, peaceful and has a unique atmosphere. If you’re up for something sporty, there are tennis courts, football pitches, and an outdoor gym. There’s also table tennis, and if you’re feeling particularly poetic, then you can enjoy a romantic stroll around a lake.",
+            "Greenwich Park – The oldest Royal Park provides an urban sanctuary for deer, foxes and over 70 bird species. Take a look at Queen Elizabeth’s Oak. It may look like a mossy old lump of wood, but it’s been in the park since the twelfth century. According to legend, Henry VIII once danced around it with Anne Boleyn.",
+            "London Fields – This vibrant hipster hangout is probably the coolest of London’s green spots with its wildflower meadow in the spring and summer. Bring a picnic, not a disposable barbecue. This used to be one of the few open spaces in London where you could barbecue legally, but that’s been changed recently due to cleaning costs.",
+            "Green Park – This green, triangle-shaped area was enclosed by Charles II as a hunting ground in 1668. Thankfully, it was opened to the public in 1826 and today you’ll find lunching commuters and tourists lounging in the park’s famous stripy deckchairs.",
+            "Hyde Park is one of the largest and maybe the most famous of London’s Royal Parks with London’s oldest boating lake. Catch a glimpse of the Victorian pet cemetery hidden in the park’s north-west corner, where around 300 furry Londoners from the past rest in peace."
+          ],
+          "bank": [
+            {"key": "A", "text": "is ideal for people who love various types of outdoor exercise."},
+            {"key": "B", "text": "is the place where Henry VIII used to hunt for deer."},
+            {"key": "C", "text": "has separate lakes for men and women to swim in."},
+            {"key": "D", "text": "has an area that used to be a burial ground for animals."},
+            {"key": "E", "text": "doesn’t allow visitors to have open fires while hanging out there."},
+            {"key": "F", "text": "was named after a building that does not exist anymore."},
+            {"key": "G", "text": "is home to various species of wild animals."},
+            {"key": "H", "text": "charges people for boating in its pond."},
+            {"key": "I", "text": "has a lot of sculptures of historic figures."},
+            {"key": "K", "text": "used to serve the hobby of a monarch."}
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "Hampstead Heath ...", "answer": "C"},
+            {"n": 15, "stem": "Crystal Palace Park ...", "answer": "F"},
+            {"n": 16, "stem": "Dulwich Park ...", "answer": "A"},
+            {"n": 17, "stem": "Greenwich Park ...", "answer": "G"},
+            {"n": 18, "stem": "London Fields ...", "answer": "E"},
+            {"n": 19, "stem": "Green Park ...", "answer": "K"},
+            {"n": 20, "stem": "Hyde Park ...", "answer": "D"}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-R4",
+          "number": 4,
+          "kind": "bank",
+          "layout": "inline",
+          "examType": "mondatrész visszahelyezése szövegbe",
+          "points": 8,
+          "instructions": [
+            "Read this article about the word of the year in 2023.",
+            "Some parts of sentences have been left out from the text.",
+            "Your task is to reconstruct the text by filling in the gaps (21-28) from the list (A-L) below.",
+            "Remember that there are two extra letters that you do not need."
+          ],
+          "title": "CAMBRIDGE DICTIONARY’S WORD OF THE YEAR IN 2023",
+          "body": [
+            "Cambridge dictionary’s word of the year for 2023 is “hallucinate” – {{0}}.",
+            "The original definition of the chosen word is to “seem to see, hear, feel, or smell” something that does not exist, usually because of “a health condition or {{21}}”. It now has an additional meaning, relating to when artificial intelligence systems such as ChatGPT, which generates text that mimics human writing, “hallucinates” and {{22}}.",
+            "The word was chosen because the new meaning “gets to the heart of why people are talking about AI”, according to a post on the dictionary site. Generative AI is a “powerful” but “far from perfect” tool, “one we’re all still learning how {{23}} – this means being aware of both its potential strengths and its current weaknesses.”",
+            "“AI hallucinations remind us that humans still need {{24}} to the use of these tools,” continued the post. “Large language models (LLMs) are only as reliable as the information their algorithms learn from. Human expertise is arguably more important than ever, {{25}} that large language models can be trained on.”",
+            "Henry Shevlin, an AI ethicist at the University of Cambridge, said that it is striking that rather than choosing a computer-specific term like “bugs” to describe the mistakes that LLMs make, the dictionary team {{26}}. He said that this may be because “it’s so easy to anthropomorphise these systems, treating them as if they had minds of their own.”",
+            "The dictionary provides two example sentences of “hallucinate” relating to AI: “LLMs are notorious for hallucinating – {{27}}, often supported by fictitious citations” and “The latest version of the chatbot is greatly improved but it will still hallucinate facts.”",
+            "It wasn’t only Cambridge’s decision {{28}}: according to Collins dictionary, the word of 2023 is “AI” itself."
+          ],
+          "bank": [
+            {"key": "A", "text": "to interact with safely and effectively"},
+            {"key": "B", "text": "generating completely false answers"},
+            {"key": "C", "text": "a verb that gained an additional meaning this year"},
+            {"key": "D", "text": "having taken a drug"},
+            {"key": "E", "text": "decided on a “vivid psychological verb”"},
+            {"key": "F", "text": "came as a surprise to online dictionary users"},
+            {"key": "G", "text": "produces false information"},
+            {"key": "H", "text": "to bring their critical thinking skills"},
+            {"key": "I", "text": "proves to be correct based on research"},
+            {"key": "K", "text": "to pick a word connected to AI"},
+            {"key": "L", "text": "to create the accurate and up-to-date information"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C"},
+            {"n": 21, "answer": "D"},
+            {"n": 22, "answer": "G"},
+            {"n": 23, "answer": "A"},
+            {"n": 24, "answer": "H"},
+            {"n": 25, "answer": "L"},
+            {"n": 26, "answer": "E"},
+            {"n": 27, "answer": "B"},
+            {"n": 28, "answer": "K"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "II. Nyelvhelyesség",
+      "minutes": 50,
+      "maxTaskPoints": 35,
+      "maxExamPoints": 30,
+      "conversion": {"35":30,"34":29,"33":28,"32":27,"31":27,"30":26,"29":25,"28":24,"27":23,"26":22,"25":21,"24":21,"23":20,"22":19,"21":18,"20":17,"19":16,"18":15,"17":15,"16":14,"15":13,"14":12,"13":11,"12":10,"11":9,"10":9,"9":8,"8":7,"7":6,"6":5,"5":4,"4":3,"3":3,"2":2,"1":1,"0":0},
+      "tasks": [
+        {
+          "id": "2024-maj-emelt-L1",
+          "number": 1,
+          "kind": "text",
+          "layout": "inline",
+          "examType": "szóképzés (zárójeles szó)",
+          "points": 9,
+          "grading": {"spelling": "strict", "maxWords": 1},
+          "instructions": [
+            "You are going to read an article about the world’s smallest fine-dining restaurant. Some words are missing from the text.",
+            "Use the words in brackets to form the words that fit in the gaps (1-9).",
+            "There might be cases when you do not have to change the word in brackets.",
+            "Use only one word for each gap."
+          ],
+          "title": "JUST FOR TWO",
+          "body": [
+            "Solo Per Due – “Just for Two” in Italian – is no {{0}} restaurant, and not just because of its tiny size. It’s an extravagant place where an {{1}} meal for two costs over $500.",
+            "Champagne, top wines and floral decorations cost extra. The {{2}} is amazing. The restaurant is {{3}} by an exotic garden with different species of palm trees from across the world. The {{4}} have a view of an ancient Roman villa.",
+            "The tiny dining room is part of a rural 20th-century stone mansion near a village north of Rome. The {{5}} claim it is the smallest fine-dining establishment not only in Italy but in the world, too. Ideal for romantic meals, it’s open year-round for lunch and dinner but has no menu. The food served is tailor-made for the tastes and wishes of clients. Discreetness, {{6}} and secrecy rule. It is the perfect hiding place – except for the fact that it’s {{7}} advertised and reviewed.",
+            "There are strict rules. Bookings must be made by phone and confirmed 10 days in advance. Details of the customized meal are defined at the time of {{8}}. Visitors can’t pop in as they please to take a look inside before making a {{9}}. A meal can’t be canceled last-minute and guests are required to arrive at a specific time."
+          ],
+          "items": [
+            {"n": 0, "example": true, "prompt": "order", "accept": ["ordinary"]},
+            {"n": 1, "prompt": "exclude", "accept": ["exclusive"]},
+            {"n": 2, "prompt": "local", "accept": ["location", "locality", "locale"]},
+            {"n": 3, "prompt": "surround", "accept": ["surrounded"]},
+            {"n": 4, "prompt": "dine", "accept": ["diners"]},
+            {"n": 5, "prompt": "own", "accept": ["owners"]},
+            {"n": 6, "prompt": "private", "accept": ["privacy", "privateness"]},
+            {"n": 7, "prompt": "wide", "accept": ["widely"]},
+            {"n": 8, "prompt": "confirm", "accept": ["confirmation", "confirming"]},
+            {"n": 9, "prompt": "reserve", "accept": ["reservation"]}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-L2",
+          "number": 2,
+          "kind": "choice",
+          "layout": "inline",
+          "examType": "feleletválasztós szövegkiegészítés (A-D)",
+          "points": 8,
+          "instructions": [
+            "You are going to read an article about a joyful summer job. Some words are missing from the text.",
+            "Choose the most appropriate answer from the options (A-D) for each gap (10-17) in the text."
+          ],
+          "title": "PET-SITTING AROUND EUROPE",
+          "body": [
+            "An American student has revealed {{0}} she managed to enjoy a long summer holiday in various destinations across Europe – by looking after other people's pets. Soriah Abraham, 19, saved £3,000 living rent-free by volunteering to pet sit for people going on holiday – and says she {{10}} spending just £400 in two months.",
+            "The student, {{11}} originally from Salem, Oregon but moved to London in October 2022 {{12}} study fashion design, got the idea for pet-sitting travel after seeing others doing it. {{13}} joining a specialized website, she started doing home sits around London to build up her reviews – meaning she would be able to easily secure pet-sitting jobs abroad over her summer break.",
+            "When she finished in June, she celebrated ending her first year of university with a two-month adventure in Germany, Switzerland and Amsterdam. Not only {{14}} three countries in one trip, she also only spent just £400 during the trip – on food, travel and the occasional hotel, estimating it {{15}} her around £3,400 without her pet-sitting jobs.",
+            "From June 2023 she started using the app to hop around Europe – without spending very much. She said: 'I went to Stuttgart, Germany, first and got to bike around the city.' She looked after two cats there, Tequila and Vodka, before coming back to London to take {{16}} of a dog, Mimi, and then heading to Bern, Switzerland, to look after another feline, Claire. Soriah said: 'I could eat {{17}} I found in the fridge and use their bikes. It was gorgeous, and the cat was super independent.'"
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C", "options": [{"key": "A", "text": "as"}, {"key": "B", "text": "though"}, {"key": "C", "text": "how"}, {"key": "D", "text": "most"}]},
+            {"n": 10, "answer": "C", "options": [{"key": "A", "text": "managed"}, {"key": "B", "text": "could afford"}, {"key": "C", "text": "ended up"}, {"key": "D", "text": "continued"}]},
+            {"n": 11, "answer": "D", "options": [{"key": "A", "text": "came"}, {"key": "B", "text": "that's"}, {"key": "C", "text": "whose"}, {"key": "D", "text": "who's"}]},
+            {"n": 12, "answer": "B", "options": [{"key": "A", "text": "in order that"}, {"key": "B", "text": "to"}, {"key": "C", "text": "so that"}, {"key": "D", "text": "for"}]},
+            {"n": 13, "answer": "A", "options": [{"key": "A", "text": "After"}, {"key": "B", "text": "While"}, {"key": "C", "text": "Despite"}, {"key": "D", "text": "As for"}]},
+            {"n": 14, "answer": "D", "options": [{"key": "A", "text": "she did experience"}, {"key": "B", "text": "experienced she"}, {"key": "C", "text": "she experienced"}, {"key": "D", "text": "did she experience"}]},
+            {"n": 15, "answer": "B", "options": [{"key": "A", "text": "would cost"}, {"key": "B", "text": "would have cost"}, {"key": "C", "text": "would not cost"}, {"key": "D", "text": "had cost"}]},
+            {"n": 16, "answer": "C", "options": [{"key": "A", "text": "on"}, {"key": "B", "text": "advantage"}, {"key": "C", "text": "care"}, {"key": "D", "text": "account"}]},
+            {"n": 17, "answer": "B", "options": [{"key": "A", "text": "which"}, {"key": "B", "text": "what"}, {"key": "C", "text": "that"}, {"key": "D", "text": "if"}]}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-L3",
+          "number": 3,
+          "kind": "text",
+          "layout": "inline",
+          "examType": "nyílt cloze (egy szó)",
+          "points": 8,
+          "grading": {"spelling": "strict", "maxWords": 1},
+          "instructions": [
+            "You are going to read an article about an unusual job offer. Some words are missing from the text.",
+            "Your task is to write the missing words in the gaps (18-25).",
+            "Use only one word in each gap."
+          ],
+          "title": "ZOO SEEKS WORKERS TO WEAR EAGLE COSTUME AND SCARE SEAGULLS",
+          "body": [
+            "If you’re friendly, energetic and up for a challenge, a zoo in a popular British seaside town may have the perfect role for you: chasing away seagulls {{0}} wearing a giant bird suit.",
+            "The successful candidates will be paid up to £10.80 per hour {{18}} wear an eagle costume and act as a “scarecrow” to prevent the birds from attacking guests and animals alike at Blackpool Zoo in northwest England.",
+            "Those applying {{19}} be “visitor focused,” “friendly” and also “outgoing – as you need to be comfortable wearing a bird costume!” the advertisement says. “Lively, energetic, fun and, last but not {{20}}, an excellent flapper, will be top of the essentials list during interviews,” the zoo added in a statement, particularly as successful candidates {{21}} likely to be “approached by a lot of people asking {{22}} pictures.”",
+            "Khaled Fawzy, the zoo’s head for birds and events, said in an interview that the global attention on the job ad had “taken us all {{23}} surprise.” More than 200 people have applied {{24}} the five available roles, including some from countries as {{25}} away as Thailand, India, Ukraine and Uganda. Fawzy said some had even sent videos of themselves wearing animal costumes as part of their applications."
+          ],
+          "items": [
+            {"n": 0, "example": true, "accept": ["while"]},
+            {"n": 18, "accept": ["to"]},
+            {"n": 19, "accept": ["should", "must"]},
+            {"n": 20, "accept": ["least"]},
+            {"n": 21, "accept": ["are", "were"]},
+            {"n": 22, "accept": ["for", "about"]},
+            {"n": 23, "accept": ["by"]},
+            {"n": 24, "accept": ["for"]},
+            {"n": 25, "accept": ["far"]}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-L4",
+          "number": 4,
+          "kind": "lines",
+          "layout": "lines",
+          "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+          "points": 10,
+          "instructions": [
+            "You are going to read an article about James Joyce, the famous Irish writer. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+            "Tap the extra word in each line.",
+            "Some lines may be correct. Mark the correct line(s) with the tick button.",
+            "The task begins with two examples."
+          ],
+          "title": "WRITING IS HARD",
+          "intro": "James Joyce was an Irish writer, poet and playwright. Although his literary production",
+          "items": [
+            {"n": "0a", "example": true, "text": "was not very large, his role was of fundamental importance for the", "answer": null},
+            {"n": "0b", "example": true, "text": "development all of the Modernist literature of the twentieth century. An", "answer": "all"},
+            {"n": 26, "text": "anecdote, having reported by the writer Stephen King himself, says that", "answer": "having"},
+            {"n": 27, "text": "one day, a friend who was going to visit the author found him as lying", "answer": "as"},
+            {"n": 28, "text": "on the desk in a state of deep despair. “James, what’s wrong?” asked", "answer": null},
+            {"n": 29, "text": "of his friend. “Is it the job?” Joyce didn’t lift his head from the desk and", "answer": "of"},
+            {"n": 30, "text": "said nothing; of course what it was a matter of work. His friend continued", "answer": "what"},
+            {"n": 31, "text": "by it asking: “How many words did you write today?” Joyce, in a", "answer": "it"},
+            {"n": 32, "text": "desperate mood and with his face while still resting on the desk said:", "answer": "while"},
+            {"n": 33, "text": "“Seven.” “Seven? But that’s good for you, isn’t it?” the friend replied.", "answer": null},
+            {"n": 34, "text": "“Yes,” Joyce said. Finally, raising his head, he had continued: “I suppose", "answer": "had"},
+            {"n": 35, "text": "so, but I do not know which order they go in!”", "answer": null}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "III. Hallott szöveg értése",
+      "minutes": 30,
+      "maxTaskPoints": 25,
+      "maxExamPoints": 30,
+      "conversion": {"25":30,"24":29,"23":28,"22":26,"21":25,"20":24,"19":23,"18":22,"17":20,"16":19,"15":18,"14":17,"13":16,"12":14,"11":13,"10":12,"9":11,"8":10,"7":8,"6":7,"5":6,"4":5,"3":4,"2":2,"1":1,"0":0},
+      "tasks": [
+        {
+          "id": "2024-maj-emelt-H1",
+          "number": 1,
+          "kind": "multi",
+          "layout": "stems",
+          "examType": "kettős választás (A, B vagy mindkettő)",
+          "points": 8,
+          "audio": {"file": "e_angol_24maj_fl.mp3", "start": 0, "end": 664.87, "clip": "hang/e_angol_24maj_fl_H1.mp3"},
+          "instructions": [
+            "In this section, you will listen to a story about an experiment a professor carried out in his university class.",
+            "Your task will be to choose the correct answer(s). Please note that in this task both answers may be correct. However, there is always at least one correct answer.",
+            "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+            "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to mark your answers."
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "Kenyon Wilson …", "options": [{"key": "A", "text": "is a professor at the University of Tennessee at Chattanooga."}, {"key": "B", "text": "wanted to test if any of his students read his syllabus throroughly enough."}], "answer": ["A", "B"]},
+            {"n": 1, "stem": "During the semester, Professor Wilson …", "options": [{"key": "A", "text": "gave seminars on music."}, {"key": "B", "text": "had 17 students in his class."}], "answer": ["A"]},
+            {"n": 2, "stem": "In his syllabus, he hid information about …", "options": [{"key": "A", "text": "the number of and the combination to a locker."}, {"key": "B", "text": "where the $50 cash prize was hidden."}], "answer": ["A", "B"]},
+            {"n": 3, "stem": "The money was available to anyone who was the first to …", "options": [{"key": "A", "text": "report the combination to Professor Wilson."}, {"key": "B", "text": "find and open the locker."}], "answer": ["B"]},
+            {"n": 4, "stem": "At the end of the semester, Professor Wilson …", "options": [{"key": "A", "text": "discussed the experiment with his students."}, {"key": "B", "text": "took the cash prize out of the locker."}], "answer": ["B"]},
+            {"n": 5, "stem": "Professor Wilson said that his aim was to …", "options": [{"key": "A", "text": "improve the mood of his students during the pandemic."}, {"key": "B", "text": "reward his students for reading everything in the syllabus."}], "answer": ["A", "B"]},
+            {"n": 6, "stem": "Professor Wilson said that …", "options": [{"key": "A", "text": "when he was a student he would certainly have fully read the document."}, {"key": "B", "text": "not everything was equally important in a syllabus."}], "answer": ["B"]},
+            {"n": 7, "stem": "The professor had no doubt that the money had remained unclaimed because …", "options": [{"key": "A", "text": "the lucky student would definitely have mentioned it."}, {"key": "B", "text": "nobody seemed to have touched the lock."}], "answer": ["A", "B"]},
+            {"n": 8, "stem": "A senior student said that …", "options": [{"key": "A", "text": "he felt quite stupid when he learnt about Mr. Wilson's joke."}, {"key": "B", "text": "it was out of character for Mr. Wilson to do something like that."}], "answer": ["A"]}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-H2",
+          "number": 2,
+          "kind": "text",
+          "layout": "stems",
+          "examType": "mondatkiegészítés hallás után (két szó)",
+          "points": 8,
+          "grading": {"spelling": "lenient", "caseSensitive": false, "note": "A válasz akkor elfogadható, ha a kulcsszavak szerepelnek benne. Egy pont csak akkor jár, ha mindkét szó jó."},
+          "audio": {"file": "e_angol_24maj_fl.mp3", "start": 664.87, "end": 1278.57, "clip": "hang/e_angol_24maj_fl_H2.mp3"},
+          "instructions": [
+            "In this section, you will hear an anecdote about Kurt Vonnegut, the famous American writer.",
+            "Your task is to complete the sentences with two words indicated by the gaps, using the exact words you hear in the recording.",
+            "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+            "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "An American high school English teacher asked her students to write a letter to a {{gap}} {{gap}}.", "gaps": [["famous"], ["author"]]},
+            {"n": 9, "stem": "In his letter, Kurt Vonnegut wrote that he didn’t make {{gap}} {{gap}} any longer.", "gaps": [["public"], ["appearances"]]},
+            {"n": 10, "stem": "His most important message was that the students should {{gap}} any {{gap}}.", "gaps": [["practice", "practise", "do"], ["art"]]},
+            {"n": 11, "stem": "Students should not dance, act, sing or paint to get {{gap}} and {{gap}}, but to experience becoming an adult.", "gaps": [["money"], ["fame"]], "unordered": true},
+            {"n": 12, "stem": "He also encouraged them to do all sorts of crazy things, for example to {{gap}} a {{gap}} in their mashed potatoes.", "gaps": [["make", "draw"], ["face"]]},
+            {"n": 13, "stem": "Vonnegut also asked them to write a poem that consisted of {{gap}} {{gap}} and rhymes.", "gaps": [["six", "6"], ["lines"]]},
+            {"n": 14, "stem": "He told them not to show the poem to anyone, not even to their {{gap}} or {{gap}} or their English teacher.", "gaps": [["girlfriend"], ["parents"]], "unordered": true},
+            {"n": 15, "stem": "Then, they should tear up their poem into small pieces, and throw them into widely separated {{gap}} {{gap}}.", "gaps": [["trash"], ["containers"]]},
+            {"n": 16, "stem": "By writing and then getting rid of their poems, they would not only learn a lot about themselves, but they would also make their {{gap}} {{gap}}.", "gaps": [["souls"], ["grow"]]}
+          ]
+        },
+        {
+          "id": "2024-maj-emelt-H3",
+          "number": 3,
+          "kind": "choice",
+          "layout": "stems",
+          "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+          "points": 9,
+          "audio": {"file": "e_angol_24maj_fl.mp3", "start": 1278.57, "end": 1795.77, "clip": "hang/e_angol_24maj_fl_H3.mp3"},
+          "instructions": [
+            "In this section, you will hear the story of a cat that disappeared from her home near the Rocky Mountains and was found in New York last week.",
+            "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say.",
+            "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+            "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to mark your answers."
+          ],
+          "options": [
+            {"key": "A", "text": "TRUE"},
+            {"key": "B", "text": "FALSE"},
+            {"key": "C", "text": "THE TEXT DOES NOT SAY"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "The cat named Willow disappeared from her home last Wednesday.", "answer": "B"},
+            {"n": 17, "stem": "All three of the Squires children still remember Willow.", "answer": "B"},
+            {"n": 18, "stem": "It is still not known how Willow ended up in New York.", "answer": "A"},
+            {"n": 19, "stem": "The Squireses have never given up hope that Willow will return home one day.", "answer": "B"},
+            {"n": 20, "stem": "A lot of people responded to the ‘lost cat’ posters the family had put out.", "answer": "C"},
+            {"n": 21, "stem": "The Squireses were informed that Willow had been found via email.", "answer": "B"},
+            {"n": 22, "stem": "Willow was found by animal rights activists.", "answer": "C"},
+            {"n": 23, "stem": "Mrs Squires says that she would have a microchip implanted in her kids if she could.", "answer": "A"},
+            {"n": 24, "stem": "The Squireses had their home renovated in 2018.", "answer": "A"},
+            {"n": 25, "stem": "Microchipping might cause your pet some pain.", "answer": "B"}
+          ]
+        }
+      ]
+    }
+  ]
+}

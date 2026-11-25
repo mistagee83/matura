@@ -1,0 +1,1175 @@
+{
+ "formatVersion": 1,
+ "id": "2023-maj-kozep",
+ "year": 2023,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2023-05-11",
+ "code": "2311",
+ "sourceFiles": {
+  "paper": "2023 - Középszintű május/k_angol_23maj_fl.pdf",
+  "key": "2023 - Középszintű május/k_angol_23maj_ut.pdf",
+  "audio": "2023 - Középszintű május/k_angol_23maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2023-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 9,
+     "instructions": [
+      "Read the following questions and answers from the website of a library. The questions have been removed.",
+      "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1- 9).",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "CITY LIBRARY FREQUENTLY ASKED QUESTIONS",
+     "body": [
+      "Thank you for being interested in learning more about the City Library. Answers to the most common questions about our services can be found below.",
+      "{{0}}\nYou can apply for one in person at the circulation desk. You must bring a photo I.D. and a document that shows your address.",
+      "{{1}}\nNo, registration is free for local residents. However, people who live outside the city are required to pay if they want to join the library.",
+      "{{2}}\nCheck the dates on the card. You may need to renew your membership. Cards are valid for two years.",
+      "{{3}}\nYou can check out up to 20 items at a time, including books, e-books, magazines, CDs and DVDs.",
+      "{{4}}\nYes, but only if they can show your library card at the desk.",
+      "{{5}}\nThe loan period is four weeks. If you would like to keep the items longer, you may renew them in person or online.",
+      "{{6}}\nUp to two times if no one else is waiting for them.",
+      "{{7}}\nYou will need to pay the replacement cost of the material that you are unable to return in the original condition.",
+      "{{8}}\nPencils, paper and a laptop. Bags bigger than A4 size and other items, such as food, drink and pens, must be left in lockers on the ground floor.",
+      "{{9}}\nYes, our librarians will place the request for you. However, depending on where it comes from, it can take a week or longer for the item to arrive."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What other services does the library offer besides lending materials?"
+      },
+      {
+       "key": "B",
+       "text": "Can someone else pick up my books?"
+      },
+      {
+       "key": "C",
+       "text": "How do I get a library card?"
+      },
+      {
+       "key": "D",
+       "text": "If the library doesn’t have a title I’m looking for, is it possible to order it from another library?"
+      },
+      {
+       "key": "E",
+       "text": "Do you charge a fine if the items are not returned in time?"
+      },
+      {
+       "key": "F",
+       "text": "What can I do if my library card is not accepted?"
+      },
+      {
+       "key": "G",
+       "text": "Is there a membership fee?"
+      },
+      {
+       "key": "H",
+       "text": "How many books can I borrow?"
+      },
+      {
+       "key": "I",
+       "text": "What can I take into the reading rooms?"
+      },
+      {
+       "key": "K",
+       "text": "How long can I keep my borrowed materials?"
+      },
+      {
+       "key": "L",
+       "text": "How many times can I renew the items that I borrowed?"
+      },
+      {
+       "key": "M",
+       "text": "What happens if I lose or damage the borrowed item?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "answer": "L"
+      },
+      {
+       "n": 7,
+       "answer": "M"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this article about providing internet service to mountain climbers.",
+      "Some sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (10-15) from the list (A-I) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "MOUNT KILIMANJARO GETS INTERNET SERVICE",
+     "body": [
+      "At 5,895 meters, Mount Kilimanjaro is the highest mountain in Africa. {{0}} It rises out of a large, flat area in Tanzania and Kenya. The mountain is part of Kilimanjaro National Park, which has around 50,000 visitors each year. {{10}} But climbing Africa’s tallest mountain isn’t easy. It has snowy glaciers surrounding its peak. {{11}} The government of Tanzania has recently set up a high-speed internet service on the mountain to make it easier for climbers to reach the top. They’ll be able to use the internet to check the weather and use navigation tools. {{12}}",
+      "The government says safety is the main reason for setting up the internet service on the mountain. {{13}} Having people post selfies on social media as they work their way up the tallest mountain could certainly make the spot even more popular with visitors. Residents in Tanzania, however, are upset that the government is focusing on tourists instead of helping the people who live in the country. {{14}}",
+      "Also with tourists in mind, last year the Tanzanian government approved a $72 million project to build a cable car on Mount Kilimanjaro to allow tourists who weren’t climbers to enjoy the mountain. {{15}} It also bothered people who were worried about how the construction might affect the environment on the mountain. They point out that as a World Heritage site, Mount Kilimanjaro is a place which is important to protect."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "As an added bonus, the tourist industry may benefit as well."
+      },
+      {
+       "key": "B",
+       "text": "But the plan caused anger among climbers and expedition guides."
+      },
+      {
+       "key": "C",
+       "text": "It’s also the world’s tallest mountain that’s not part of a mountain range."
+      },
+      {
+       "key": "D",
+       "text": "They’ll also be able to call for help if they need it."
+      },
+      {
+       "key": "E",
+       "text": "Scientists believe global warming is responsible for the loss of ice."
+      },
+      {
+       "key": "F",
+       "text": "They became the first recorded European climbers to reach Kilimanjaro’s summit in 1889."
+      },
+      {
+       "key": "G",
+       "text": "Roughly one third of the people who try to climb it finally give up."
+      },
+      {
+       "key": "H",
+       "text": "Most of them are trying to climb Mount Kilimanjaro."
+      },
+      {
+       "key": "I",
+       "text": "Only about 83% of the population in Tanzania can get cell phone service where they live."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following description of escape rooms available for adventurous teams and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "CHOOSE YOUR ADVENTURE",
+     "body": [
+      "If you’re looking for a fun afternoon with friends, book one of our escape rooms. Here are the missions for your team to choose from. The Yellow Room: Spies must be removed from the ministry of wizards where you work. You have one hour to undertake a trial of magic to prove that you are true wizards. The Pink Room: You find yourselves on a mysterious island, home to strange animals and magical plants. You’ll need to solve puzzles, unlock portals and find your way back to the real world. The Green Room: Going on holiday overseas, your plane has crashed and now you’re all stuck on a small island in the Pacific Ocean. With the weather getting worse, you need a place to hide until the rescue team finds you. You have 45 minutes to build a shelter. The Grey Room: The secret service has been working on locating and removing threats from the city centre. As a team of experts, you must find the last bomb at the top of a tower block and save the city. The Black Room: Enter a mystical cave and navigate your way in the dark to find the magic lamp without being trapped forever. The cave is full of puzzles designed to guard the powerful lamp. The Blue Room: Step into 1942, when the world is at war. As MI6’s top agents you’ve been chosen to discover the location of the enemy’s superweapons, destroy them and save Britain. The Red Room: The mystery takes place at a research laboratory, where a professor has been killed by one of his colleagues. You and your team are detectives who are invited to solve the case and find the criminal."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "the story takes place in space."
+      },
+      {
+       "key": "B",
+       "text": "the team has to escape from an imaginary island which is full of mystery."
+      },
+      {
+       "key": "C",
+       "text": "your team must complete challenges to show that you are not spies."
+      },
+      {
+       "key": "D",
+       "text": "the players have to prevent an explosion in a tall building."
+      },
+      {
+       "key": "E",
+       "text": "the story is set in the past."
+      },
+      {
+       "key": "F",
+       "text": "the story starts with an accident."
+      },
+      {
+       "key": "G",
+       "text": "the team must save people from a sinking ship."
+      },
+      {
+       "key": "H",
+       "text": "the team’s mission is to solve a murder mystery."
+      },
+      {
+       "key": "I",
+       "text": "the team will go underground to search for something."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In The Yellow Room …",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "In The Pink Room …",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "In The Green Room …",
+       "answer": "F"
+      },
+      {
+       "n": 18,
+       "stem": "In The Grey Room …",
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "stem": "In The Black Room …",
+       "answer": "I"
+      },
+      {
+       "n": 20,
+       "stem": "In The Blue Room …",
+       "answer": "E"
+      },
+      {
+       "n": 21,
+       "stem": "In The Red Room …",
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about some scientific research and then read the statements (22-28) following it.",
+      "Mark a statement A if it is true according to the article, mark it B if it is false, and mark it C if there isn’t enough information in the text to decide if it is true or not."
+     ],
+     "title": "SCIENTISTS LEARN THAT DOGS CAN SMELL STRESS",
+     "body": [
+      "Scientists ran an experiment which showed that dogs can tell the difference between the smell of a person when they’re relaxed and when they’re stressed.",
+      "Researchers at Queen’s University Belfast worked with four dogs and 36 humans. The dogs included in the study were pets, volunteered by their owners. First, researchers taught the dogs to use a special smell-testing device. Then, they collected sweat and breath samples from the human participants under two different conditions: in a non-stressful and a stressful situation. When people were calm, their blood pressure and heart rates were measured and then they were asked to wipe their skin with a clean piece of cloth. Then they had to put the cloth sample in a tube and breathe on it hard three times.",
+      "The study team then collected another round of breath and sweat samples a few minutes later, after the people had completed a difficult maths task, counting backward in their heads from 9,000 in units of 17 in front of two researchers for three minutes. The researchers kept telling the people to hurry up. After the task the participants reported feeling stressed, and their blood pressure and heart rate had gone up.",
+      "Then the dogs were given a relaxed and a stressed sample from each person. The dogs correctly identified the stressed sample in 94% of 720 tests.",
+      "The study provides evidence that dogs can smell stress from breath and sweat. Researchers say the skill could be useful when training therapy dogs."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Four universities took part in the research.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "The experiment involved police dogs.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Sweat and breath samples were collected from students.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "In the experiment the dogs smelled the participants’ clothes.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The relaxed and stressed samples were taken on the same day.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "The stressful task lasted for three minutes.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Each dog was given three samples to choose from.",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "The study was published in an international journal.",
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2023-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about what flight attendants don’t like about some passengers’ behavior.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "MAKE THEM HAPPY",
+     "body": [
+      "We asked flight attendants about the most {{0}} things passengers do on planes.",
+      "As any frequent traveler will tell you, traveling by air can be a rather {{1}} experience, especially as more and more flights are {{2}} or canceled. But it's important to remember that {{3}} is a miracle, and those who help you get from point A to point B safely — your flight crew members — deserve the highest respect.",
+      "\"Our job is much more than serving food and drinks. We are safety professionals and are trained to handle {{4}} situations that can occur during a flight,\" Andy, a current crew member at a major airline, shared with Travel + Leisure.",
+      "So, how can you get treated like a VIP in the air by your cabin crew? It couldn’t be {{5}}: be nice.",
+      "\"If you show me a little respect, I'll be more than happy to make your flight as {{6}} as possible,\" said Andy.",
+      "We carried out a survey to ask flight attendants about what passengers do that crew members find {{7}}. Here are the most offensive actions you should avoid: touching a crew member without their {{8}}, asking for water {{9}} upon boarding, using the bathroom at an inappropriate time, pressing the call bell every two minutes, and last but not least, not saying thank you."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "irritate",
+       "example": true,
+       "accept": [
+        "irritating"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "stress",
+       "accept": [
+        "stressful",
+        "stressed",
+        "stressing"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "delay",
+       "accept": [
+        "delayed"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "fly",
+       "accept": [
+        "flying",
+        "flight"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "emerge",
+       "accept": [
+        "emergency",
+        "emergent",
+        "emerging"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "simple",
+       "accept": [
+        "simpler"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "enjoy",
+       "accept": [
+        "enjoyable"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "annoy",
+       "accept": [
+        "annoying"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "permit",
+       "accept": [
+        "permission"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "immediate",
+       "accept": [
+        "immediately"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an anecdote about Theodore Roosevelt, the 26th president of the U.S. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (10-17) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "A BUSY JOURNEY",
+     "body": [
+      "The famous biographer David McCullough {{0}} told the following story from the early life of Theodore Roosevelt: Once upon a time, in the coldest days of winter, in the Dakota Territory, Theodore Roosevelt took off in a small boat down the Little Missouri River to catch a {{10}} of thieves who had stolen his favorite rowboat. After {{11}} days on the river, Roosevelt caught up with the thieves. He drew his trusty Winchester rifle, and forced them to {{12}} up the stolen boat. Then he set off in a borrowed horse-drawn wagon to {{13}} the thieves cross-country to prison. They traveled across the snow-covered wilderness to the railway at Dickinson, North Dakota, and Roosevelt walked the whole {{14}}, the entire forty miles. It was an extraordinary {{15}}. But what makes it especially important is that during that time, he {{16}} to read all of Anna Karenina, Leo Tolstoy’s 900-page novel.",
+      "I often think of this story when I hear people {{17}} they haven’t time to read."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACHIEVEMENT"
+      },
+      {
+       "key": "B",
+       "text": "COULD"
+      },
+      {
+       "key": "C",
+       "text": "ONCE"
+      },
+      {
+       "key": "D",
+       "text": "COUPLE"
+      },
+      {
+       "key": "E",
+       "text": "DIRECTION"
+      },
+      {
+       "key": "F",
+       "text": "GIVE"
+      },
+      {
+       "key": "G",
+       "text": "MANAGED"
+      },
+      {
+       "key": "H",
+       "text": "SEVERAL"
+      },
+      {
+       "key": "I",
+       "text": "SAY"
+      },
+      {
+       "key": "K",
+       "text": "TAKE"
+      },
+      {
+       "key": "L",
+       "text": "TELL"
+      },
+      {
+       "key": "M",
+       "text": "WAY"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "answer": "M"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "G"
+      },
+      {
+       "n": 17,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a new Barbie doll inspired by Dr. Jane Goodall, one of the world's most famous conservationists. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "DR. JANE GOODALL BARBIE DOLL MADE OF RECYCLED PLASTIC",
+     "body": [
+      "Barbie is going green with a new doll modeled after Dr. Jane Goodall, which will {{0}} released next Tuesday ahead of World Chimpanzee Day. According {{18}} Mattel company, Goodall's Barbie doll is made of 90 percent recycled plastic that otherwise would have ended {{19}} in the ocean.",
+      "The 88-year-old researcher tells People Magazine she \"couldn’t be happier\" to see herself {{20}} a Barbie doll, something she long hoped for. Goodall says she wants her Barbie {{21}} \"inspire little girls\" everywhere. \"So many people know about Jane because they learn about me at school,\" she says, \"so I think they'll {{22}} delighted to be given a Barbie Jane.\"",
+      "Lisa McKnight, Executive Vice President of Barbie and Dolls at Mattel, said in a statement that the company is \"excited to introduce\" the new doll. \"Kids need more role models {{23}} Dr. Jane Goodall because imagining that they can be anything is just the beginning – seeing it {{24}} a huge difference,\" said McKnight.",
+      "\"We hope this collection and our respect for women in science will inspire girls to learn more about green careers, how they can protect the planet, and act {{25}} stories about the environment in their doll play,\" she added."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "up"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "as",
+        "in",
+        "become",
+        "becoming",
+        "inspire"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "be",
+        "feel"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "like",
+        "resembling"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "makes"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "out",
+        "in",
+        "their"
+       ]
+      }
+     ],
+     "source": "https://people.com/human-interest/dr-jane-goodall-has-her-own-barbie-new-doll-made-of-90-recycled-ocean-bound-plastic/"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2023-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear some interesting information about sugar.",
+      "Your task is to complete the sentences with one word or number in each gap, using the exact words you hear.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_23maj_fl.mp3",
+      "start": 0,
+      "end": 581.86,
+      "clip": "hang/k_angol_23maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mary Poppins sings that a(n) {{gap}} of sugar makes the medicine go down.",
+       "accept": [
+        "spoonful"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "It wasn’t Mary Poppins who invented the {{gap}} of taking medicines with sugar.",
+       "accept": [
+        "trick"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "In the past, sugar used to be the main {{gap}} of some medicines.",
+       "accept": [
+        "ingredient"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Besides kidney problems, Middle Eastern doctors recommended sugar for poor {{gap}}.",
+       "accept": [
+        "eyesight",
+        "eye sight"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "In the 11th century, English monks noticed sugar could cure {{gap}} problems.",
+       "accept": [
+        "stomach"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Besides sugar, {{gap}} was recommended for asthma attacks in the 1700s.",
+       "accept": [
+        "lemon"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "People thought sugar was a powerful medicine because it was {{gap}}.",
+       "accept": [
+        "rare",
+        "expensive"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "In India, people started getting sugar from sugar cane about {{gap}} years ago.",
+       "accept": [
+        "2,500"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "A German {{gap}} discovered how to produce sugar from sugar beet.",
+       "accept": [
+        "chemist"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "After Marggraf’s discovery, lots of sugar {{gap}} appeared in Europe.",
+       "accept": [
+        "factories"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2023-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear an interview with an archaeologist about a famous archaeological site called Sutton Hoo.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_23maj_fl.mp3",
+      "start": 581.86,
+      "end": 1190.21,
+      "clip": "hang/k_angol_23maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Morgan Grant is from the UK.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "A mound is a large hole in the ground.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Only Edith Pretty saw shadowy figures and a man sitting on a horse.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Basil Brown was delighted that Edith Pretty had asked him to start excavating.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Basil Brown found a ship which was buried in the 7th century.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "The wooden parts of the ship were in surprisingly good condition.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The custom of burying ships was very common all over Europe at the time.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Basil found a small building, a coffin and a lot of treasures in the ship.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "King Raedwald was a very powerful and highly effective ruler.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The importance of Sutton Hoo is that it shows how brave Anglo-Saxons were.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2023-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section, you will listen to a story of true friendship.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_23maj_fl.mp3",
+      "start": 1190.21,
+      "end": 1795.22,
+      "clip": "hang/k_angol_23maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "“Hello Darkness, my old friend” is the ……… of a song.",
+       "options": [
+        {
+         "key": "A",
+         "text": "first line"
+        },
+        {
+         "key": "B",
+         "text": "last line."
+        },
+        {
+         "key": "C",
+         "text": "title"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Art Garfunkel and Sandy Greenberg ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "went to the same high school."
+        },
+        {
+         "key": "B",
+         "text": "were both interested in literature."
+        },
+        {
+         "key": "C",
+         "text": "were classmates."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Sandy …",
+       "options": [
+        {
+         "key": "A",
+         "text": "didn’t want to see any doctors."
+        },
+        {
+         "key": "B",
+         "text": "had always been afraid of going blind."
+        },
+        {
+         "key": "C",
+         "text": "was told he was going to lose his vision."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Sandy ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "accepted the bad news peacefully."
+        },
+        {
+         "key": "B",
+         "text": "went back to Buffalo to study law."
+        },
+        {
+         "key": "C",
+         "text": "avoided contact with his friends."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Art Garfunkel ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was the only person Sandy invited."
+        },
+        {
+         "key": "B",
+         "text": "persuaded Sandy to go on with his studies."
+        },
+        {
+         "key": "C",
+         "text": "promised to try and find the best eye-doctor for Sandy."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "‘Darkness’ became the name of ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Art."
+        },
+        {
+         "key": "B",
+         "text": "Sandy."
+        },
+        {
+         "key": "C",
+         "text": "blindness."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "One day, Art …",
+       "options": [
+        {
+         "key": "A",
+         "text": "accidentally lost Sandy in a crowded place."
+        },
+        {
+         "key": "B",
+         "text": "left Sandy alone because he had to hurry somewhere."
+        },
+        {
+         "key": "C",
+         "text": "pretended to leave Sandy on his own."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "After the incident, Sandy was … for being left alone.",
+       "options": [
+        {
+         "key": "A",
+         "text": "angry"
+        },
+        {
+         "key": "B",
+         "text": "disappointed"
+        },
+        {
+         "key": "C",
+         "text": "grateful"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

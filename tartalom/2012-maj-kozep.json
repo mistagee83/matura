@@ -1,0 +1,1253 @@
+{
+ "formatVersion": 1,
+ "id": "2012-maj-kozep",
+ "year": 2012,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2012-05-10",
+ "code": "1211",
+ "sourceFiles": {
+  "paper": "2012 - Középszintű májusi/k_angol_12maj_fl.pdf",
+  "key": "2012 - Középszintű májusi/k_angol_12maj_ut.pdf",
+  "audio": "2012 - Középszintű májusi/k_angol_12maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2012-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with Billy Keen, head zookeeper at the Elmwood Park Zoo in Norristown, the questions have been removed.",
+      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (1-8).",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nIt’ll be 2 years in July.",
+      "{{1}}\nIt started in Scouts. I ran nature centres at Scout camps. When I was older I worked in a pet store. From age 14 on I got paid for working with animals.",
+      "{{2}}\nA zookeeper needs a 4-year degree in a biology-related field. I went to zookeeper school in Florida. It was a 3-semester course.",
+      "{{3}}\nI have eight zookeepers with interns. The interns are students working for us as part of their college training.",
+      "{{4}}\nTaking care of the animals is a daily job. There’s also repainting of buildings, sweeping walkways, picking up trash…. it’s an ongoing task that never ends.",
+      "{{5}}\nWe try to show the more unusual North American species that people wouldn’t recognize. I also have a few exotic animals.",
+      "{{6}}\nIt depends on what the animal is. Our cats get a prepared meal called Bravo. It's regular ground meat. The omnivores get vegetables with a little Bravo added. The insect eaters get live crickets and earthworms.",
+      "{{7}}\nIt varies because of the season. It’s hard to give an exact number; it really depends on the month. Most of our visitors come May-July; during the winter we don't get many people.",
+      "{{8}}\nThere are lots of projects that we’re trying to get done. The zoo is very old; we’re updating parts of it. We’re trying to make the zoo as interactive and fun as we can and at the same time allowing people to get educated.",
+      "(http://library.thinkquest.org)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What kinds of animals do you have?"
+      },
+      {
+       "key": "B",
+       "text": "How many workers are there at the zoo?"
+      },
+      {
+       "key": "C",
+       "text": "How long have you been at the Elmwood Park Zoo?"
+      },
+      {
+       "key": "D",
+       "text": "How did you become interested in animals?"
+      },
+      {
+       "key": "E",
+       "text": "What is your favourite animal?"
+      },
+      {
+       "key": "F",
+       "text": "What kind of training did you go through?"
+      },
+      {
+       "key": "G",
+       "text": "What do you feed the different animals?"
+      },
+      {
+       "key": "H",
+       "text": "What changes could be made to the Elmwood Park Zoo?"
+      },
+      {
+       "key": "I",
+       "text": "What does the zookeeper’s job involve?"
+      },
+      {
+       "key": "K",
+       "text": "How many people come to the zoo daily?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this funny story about some unlucky burglars.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the story by filling in the gaps (9-14) from the list (A-H) below.",
+      "Remember that there is one extra letter that you do not need."
+     ],
+     "title": "THE SMART WAY TO CATCH BURGLARS",
+     "body": [
+      "It was late and Charlie was about to climb into bed when his wife, looking really frightened, whispered to him that there was a light on in their garden shed. Charlie started to go outside to turn off the light but {{0}} who were busy stealing his things.",
+      "He ran back inside right away and called the cops, who asked him \"Are there any strangers in your house?\" to which {{9}} and explained what was happening. The cops told Charlie that all patrol cars were busy in another part of the city a long way off, and that he should {{10}} and a uniformed police officer would be at his house when one was free.",
+      "Charlie answered, \"Alright,\" hung up, waited 30 seconds, and {{11}}.",
+      "\"Hello, I called a short while ago because there were people stealing things from my shed. I want to let you know that {{12}} because I've just shot every one of them.\"",
+      "Charlie then hung up the phone. In five short minutes, three patrol cars, a SWAT team, and an ambulance arrived, and of course, the cops {{13}}.",
+      "One of the officers snapped at Charlie: \"I thought you said that {{14}}!\"",
+      "\"I thought you said that there were no patrol cars free!\" Charlie answered.",
+      "(www.onlyfunnystories.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "they're not a problem any more"
+      },
+      {
+       "key": "B",
+       "text": "the line was busy"
+      },
+      {
+       "key": "C",
+       "text": "noticed some people in the shed"
+      },
+      {
+       "key": "D",
+       "text": "you had shot every one of them"
+      },
+      {
+       "key": "E",
+       "text": "caught the burglars in the act"
+      },
+      {
+       "key": "F",
+       "text": "just lock his door"
+      },
+      {
+       "key": "G",
+       "text": "called the police station again"
+      },
+      {
+       "key": "H",
+       "text": "Charlie replied \"no\""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this article about an interesting way of finding new friends and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there is one extra letter that you will not need."
+     ],
+     "title": "A DIFFERENT KIND OF SOCIAL NETWORKING",
+     "body": [
+      "Bottles with messages from Harold Hackett, 58, from Newfoundland, have made it to France, the United States and even Africa",
+      "It all started when Harold Hackett threw a glass Pepsi bottle with a note inside overboard while he was bored to death fishing for tuna in 1996. Since starting his message-in-a-bottle hobby, Hackett has thrown 4,871 bottles into the Atlantic. The note inside asks finders to write back to him, saying when and where they found his bottle. So far he has received over 3,100 letters, a 73.6% response rate.",
+      "\"I got one note back with five different people finding it. They found it, put the message back and let it go. It started in Cape Breton and went to Nova Scotia. Then, it went to Massachusetts, North Carolina and Florida, and then the guy there wrote back to me,\" he says. \"There were five letters in the envelope when I got it.\"",
+      "\"I used to write all of those letters out by hand in the first four or five years,\" he remembers. He later had to start getting his notes photocopied. Then he entered the send-off date with a pen.",
+      "\"I still have a lot of writing,\" he says, explaining that he writes back to everyone who contacts him with information on a found bottle.",
+      "Local fishermen often see his bottles with neon paper bobbing in the water. \"The minute they see it, they don't even have to look at it. They just say, 'that's Harold Hackett,' and they throw it back in,\" he says smiling.",
+      "With all the bottles he's received news about, there's one bottle that still escapes him – bottle number 1 from 1996. \"I've got a feeling this year will be the one,\" he says.",
+      "(www.theguardian.pe.ca)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "wants to know about the time and place of the find."
+      },
+      {
+       "key": "B",
+       "text": "have actually been found by people."
+      },
+      {
+       "key": "C",
+       "text": "travelled as far as Africa."
+      },
+      {
+       "key": "D",
+       "text": "it contained a photo of Mr Hackett."
+      },
+      {
+       "key": "E",
+       "text": "know well that he has this message-in-the-bottle hobby."
+      },
+      {
+       "key": "F",
+       "text": "while he was sitting in a boat and had nothing interesting to do."
+      },
+      {
+       "key": "G",
+       "text": "will get an answering letter from Harold."
+      },
+      {
+       "key": "H",
+       "text": "it travelled to different parts of the ocean."
+      },
+      {
+       "key": "I",
+       "text": "found that he couldn’t write so many notes any more."
+      },
+      {
+       "key": "K",
+       "text": "will inform him about his very first bottle this year."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "At least one of Mr Hackett’s bottles",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Harold’s hobby started…",
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "stem": "When someone picks a bottle from the ocean, Harold…",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The statistics show that more than two thirds of the messages…",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "One of the bottles was found by several people, while…",
+       "answer": "H"
+      },
+      {
+       "n": 19,
+       "stem": "As his hobby grew, Harold…",
+       "answer": "I"
+      },
+      {
+       "n": 20,
+       "stem": "If someone informs him about a find, s/he…",
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "stem": "By now the fishermen in Harold’s village…",
+       "answer": "E"
+      },
+      {
+       "n": 22,
+       "stem": "Harold really hopes that someone…",
+       "answer": "K"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a young hacker’s discovery and then read the statements (23-29) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "CHILD HACKERS’ CONFERENCE",
+     "body": [
+      "A new type of security problem has been found in many mobile games by a ten-year old hacker. The hacker, CyFi, gave a presentation about his findings at DefCon Kids, which held its first meeting during the larger DefCon hacker conference. The conference now has sessions for young people who are interested in trying things out in hardware and software.",
+      "CyFi found that advancing the clock on a tablet or phone, in many games, makes it possible to get access to data which are not meant for the public. He discovered the bug after getting bored with the pace of farming games and seeking ways to speed them up.",
+      "Many farm-based games force players to wait hours before they can produce fruit or crops grown from virtual seeds. As a result CyFi, who has not revealed his real name, started manipulating the clock on his handset to see if he could make the game faster.",
+      "By disconnecting his phone from wi-fi and only advancing the clock by small amounts, he found the game in a state not tested by its original creators. CyFi's discovery has since been inspected by independent security researchers. Exactly which games are unprotected has not been revealed, to give their creators time to fix them.",
+      "(http://www.bbc.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The hacker, CyFi, is 10 years old.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "DefCon Kids conference was part of the DefCon conference.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The hacker was the first speaker at the conference.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "In the hacker’s opinion the game took too long to play.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "The hacker found the weak point in the system when he was at home.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "It is not known how he managed to speed up the game.",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "Experts have checked the games to find out if the hacker’s findings were correct.",
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "The problems in the games have already been fixed.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": null,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2012-maj-kozep-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read a joke. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-8) in the text."
+     ],
+     "title": "NEW SON-IN-LAW",
+     "body": [
+      "A very successful businessman had a meeting with {{0}} new son-in-law.",
+      "“I {{1}} you into the family,” said the man. “To show you {{2}} we care for you, I am making you a 50-50 partner in my business. All you {{3}} do is go to the factory every day and learn how it all works.”",
+      "The son-in-law interrupted. “I hate factories. I {{4}} stand the noise.”",
+      "“I see,” replied the father-in-law, “Well, then {{5}} in the office and take charge of some of the business.”",
+      "“I hate office work,” said the son-in-law. “I can’t tolerate sitting {{6}} a desk.”",
+      "“Wait a minute,” said the father-in-law. “I {{7}} just made you half owner of a money- making industry, but you don’t like factories, and won’t work in an office. What {{8}} to do with you?”",
+      "“Easy,” said the son-in-law. “Buy me out.”",
+      "(http://www.gigglepedia.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "a"
+        },
+        {
+         "key": "B",
+         "text": "some"
+        },
+        {
+         "key": "C",
+         "text": "his"
+        },
+        {
+         "key": "D",
+         "text": "other"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "greet"
+        },
+        {
+         "key": "B",
+         "text": "congratulate"
+        },
+        {
+         "key": "C",
+         "text": "welcome"
+        },
+        {
+         "key": "D",
+         "text": "meet"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "that much"
+        },
+        {
+         "key": "B",
+         "text": "so much"
+        },
+        {
+         "key": "C",
+         "text": "as much"
+        },
+        {
+         "key": "D",
+         "text": "how much"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "have to"
+        },
+        {
+         "key": "B",
+         "text": "needn’t"
+        },
+        {
+         "key": "C",
+         "text": "were to"
+        },
+        {
+         "key": "D",
+         "text": "can’t"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "couldn’t"
+        },
+        {
+         "key": "B",
+         "text": "shouldn’t"
+        },
+        {
+         "key": "C",
+         "text": "can’t"
+        },
+        {
+         "key": "D",
+         "text": "mustn’t"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "you’re working"
+        },
+        {
+         "key": "B",
+         "text": "you’ll work"
+        },
+        {
+         "key": "C",
+         "text": "you worked"
+        },
+        {
+         "key": "D",
+         "text": "you’ve worked"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "below"
+        },
+        {
+         "key": "B",
+         "text": "along"
+        },
+        {
+         "key": "C",
+         "text": "over"
+        },
+        {
+         "key": "D",
+         "text": "behind"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "have"
+        },
+        {
+         "key": "B",
+         "text": "already"
+        },
+        {
+         "key": "C",
+         "text": "had"
+        },
+        {
+         "key": "D",
+         "text": "not"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "am I trying"
+        },
+        {
+         "key": "B",
+         "text": "should I"
+        },
+        {
+         "key": "C",
+         "text": "am I going"
+        },
+        {
+         "key": "D",
+         "text": "I am going"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an adventurous cow. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-17).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "OH DEER!",
+     "body": [
+      "A cow called Yvonne, who has been on the run in Germany for nearly 10 months, has now found a home with a herd of deer. Dozens of {{0}} have reported sightings and say the cow now {{9}} thinks she’s a deer. Yvonne’s fight for {{10}}",
+      "began when she escaped from a Bavarian sausage maker almost 10 months ago. Soon afterwards, the {{11}} press picked up the story and reported that {{12}} had been given permission to shoot the cow. Animal rights campaigners in Germany are protesting against the {{13}} and have since organised a widespread search, which started at the weekend. {{14}} of people travelled to Bavaria to help with the search and even brought {{15}}",
+      "cow and its calf with them to help trick Yvonne into leaving the woods. {{16}}, they had no luck and the cow still remains on the run. Michael Aufhauser, an Austrian multimillionaire and animal {{17}}, has agreed to buy the smart animal from the sausage maker as soon as the cow is captured, but it seems Yvonne really enjoys life with the deer.",
+      "(http://www.metro.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "witness",
+       "example": true,
+       "accept": [
+        "witnesses"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "clear",
+       "accept": [
+        "clearly"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "independent",
+       "accept": [
+        "independence"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "local",
+       "accept": [
+        "local"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "hunt",
+       "accept": [
+        "hunters",
+        "huntsmen"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "decide",
+       "accept": [
+        "decision"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "hundred",
+       "accept": [
+        "hundreds"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "other",
+       "accept": [
+        "another"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "fortunately",
+       "accept": [
+        "unfortunately"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "love",
+       "accept": [
+        "lover"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a famous dog trainer. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE DOG WHISPERER",
+     "body": [
+      "“There is nothing better than taking a pack of 40 dogs to the beach {{0}} a walk,” says Cesar Millan. On a typical day at work he {{18}} on his running shoes and takes a four-hour jog through the mountains with 40 dogs - dogs large and small, young and old, and none {{19}} them on leashes. Amazingly, most of the dogs belong {{20}} him. The rest are troubled dogs sent to Millan to learn good behavior.",
+      "Millan, star of the National Geographic Channel’s show Dog Whisperer, has a special gift for working with these animals. “My grandfather taught me at an early age {{21}} to work against nature,” he explains. In nature, dogs are pack animals. They form a group and follow one leader. Millan’s specialty is teaching people {{22}} be pack leaders for their dogs. Studying dogs on the farm {{23}} he spent his childhood, Millan realized they need a {{24}} of exercise to be calm. He explains his approach: “Exercise and discipline first, and then friendship and love!”",
+      "At his Dog Psychology Center in Los Angeles, Millan also works with \"dangerous\" dogs {{25}} behavior, often a result of ill-treatment, makes {{26}} difficult to find homes for them. He teaches them to be loving, gentle pets.",
+      "(http://kids.nationalgeographic.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "puts",
+        "pulls"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "not",
+        "never"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "where"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "lot"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "whose"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "it"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 23,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 9,
+    "7": 10,
+    "8": 11,
+    "9": 13,
+    "10": 14,
+    "11": 16,
+    "12": 17,
+    "13": 19,
+    "14": 20,
+    "15": 22,
+    "16": 23,
+    "17": 24,
+    "18": 26,
+    "19": 27,
+    "20": 29,
+    "21": 30,
+    "22": 32,
+    "23": 33
+   },
+   "tasks": [
+    {
+     "id": "2012-maj-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear the story of the famous Siamese twins.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_12maj_fl.mp3",
+      "start": 0,
+      "end": 722.61,
+      "clip": "hang/k_angol_12maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The mother in the story gave birth to twin girls.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "The two babies were joined at their arms.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The young twins were famous in their home country before they went to the USA.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "They were taken to the USA against their will.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "They visited their family back in Siam when they had collected enough money.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "They traveled across the USA for more than ten years before they settled down.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Adelaide was much older than Sarah.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The sisters took turns to stay in the brothers' house for four days at a time.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Both couples had a lot of children.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The brothers didn’t always get on very well with each other.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The Siamese twins died of cancer.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2012-maj-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear an interview about an interesting new invention.",
+      "Your task will be to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_12maj_fl.mp3",
+      "start": 722.61,
+      "end": 1362.12,
+      "clip": "hang/k_angol_12maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What's Peter O'Brian by profession? {{gap}}",
+       "accept": [
+        "a technician"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "What is the bed connected to? {{gap}}",
+       "key": "(It is connected to an) alarm clock (and a tape recorder). (Mindkét vastagon szedett szó kell!)",
+       "keywords": [
+        [
+         "alarm",
+         "clock"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Whose voice does Hiroyuki hear if he is still in bed after the first warning? {{gap}}",
+       "key": "His girlfriend's (recording/voice).",
+       "keywords": [
+        [
+         "girlfriend's"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Whose voice does Hiroyuki hear if the first recording didn't work? {{gap}}",
+       "key": "His boss(' recording/voice).",
+       "keywords": [
+        [
+         "boss"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "What does the mechanical device in the bed do to you if you are still not awake? {{gap}}",
+       "key": "Kicks (you in the leg).",
+       "keywords": [
+        [
+         "kicks"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Where do the laziest people end up? {{gap}}",
+       "key": "(On the) floor. // Out of bed. (A kettő közül az egyik.)",
+       "keywords": [
+        [
+         "floor"
+        ],
+        [
+         "out",
+         "bed"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "How many beds has Hiroyuki made so far? {{gap}}",
+       "key": "(Only) one. // (Only) the prototype. (A kettő közül az egyik.)",
+       "keywords": [
+        [
+         "one"
+        ],
+        [
+         "prototype"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "What does Hiroyuki believe he will become one day? {{gap}}",
+       "key": "(A very) rich (man).",
+       "keywords": [
+        [
+         "rich"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(A helyes válaszoknak tartalmazniuk kell a vastagon szedett szavakat.)"
+     }
+    },
+    {
+     "id": "2012-maj-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 6,
+     "instructions": [
+      "In this section you are going to hear a news report about an interesting museum in London.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_12maj_fl.mp3",
+      "start": 1362.12,
+      "end": 1795.04,
+      "clip": "hang/k_angol_12maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The museum is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "in London."
+        },
+        {
+         "key": "B",
+         "text": "at a hospital."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The museum gives the impression that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "modern medicine has developed a lot since the old days."
+        },
+        {
+         "key": "B",
+         "text": "operations were sometimes just as dangerous as the disease."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The operating table was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "made of wood."
+        },
+        {
+         "key": "B",
+         "text": "covered with sawdust."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The importance of keeping operating theatres clean was discovered by ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "an Englishman."
+        },
+        {
+         "key": "B",
+         "text": "a doctor."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Doctors ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "usually washed their hands before operations."
+        },
+        {
+         "key": "B",
+         "text": "often worked in street clothes."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Operations were often attended by the ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "relatives of the patient."
+        },
+        {
+         "key": "B",
+         "text": "doctor’s students."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The visitors sometimes ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "made loud remarks during the operation."
+        },
+        {
+         "key": "B",
+         "text": "had to pay an entrance fee."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

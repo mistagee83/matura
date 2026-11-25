@@ -1,0 +1,1679 @@
+{
+ "formatVersion": 1,
+ "id": "2016-okt-emelt",
+ "year": 2016,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2016-10-20",
+ "code": "1519",
+ "sourceFiles": {
+  "paper": "2016 - Emeltszintű októberi/e_angol_16okt_fl.pdf",
+  "key": "2016 - Emeltszintű októberi/e_angol_16okt_ut.pdf",
+  "audio": "2016 - Emeltszintű októberi/e_angol_16okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2016-okt-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read these two articles from a British daily and then read the statements (1-8) that follow. Your task is to decide if the statements are true or not according to the article.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "THE NEW STYLE MARY POPPINS REALLY PACKS A PUNCH",
+     "body": [
+      "A knowledge of self defence, the ability to drive at high speed and the ability to get rid of potential kidnappers are accomplishments that should figure on any self-respecting bodyguard's CV – but they are also among the new skills being taught to trainee nannies.",
+      "Once it was enough for a nanny to be able to push a pram and settle the kids with a bedtime story, but students at the famous Norland College, Bath, are finding they need a new skill-set to prepare them for the 21st-century childcare environment. The £36,000, three-year BA Honours degree course features Tae Kwon Do lessons as well as driving instruction on a skid pan so the nannies will be able to safely escape pursuing photographers.",
+      "Famous for the brown uniform, felt hat and white gloves worn by graduates, Norland College has been training since 1892. Many go on to work for celebrities and other high profile families.",
+      "Lecturer Claire Burgess believes founder Emily Ward would approve. She says: 'When Emily set up Norland, it was forward-thinking, and I think she'd love the idea we're now moving it even more forward.' And so would Mary Poppins.",
+      "SLUMDOG MAKES TOP 50",
+      "In any list of great films, it is the ones left out that cause excitement. So when film critic Barry Norman last month published his top 49 British films and left it to Radio Times readers to pick the 50th, more than 3,000 piled in with over 500 suggestions.",
+      "And one stood out as clear favourite ̶ Slumdog Millionaire ̶ which Mr Norman claims he took off his original list. The film, which won eight Oscars and seven Baftas, is the story of a Mumbai teenager winning the Indian version of Who Wants To Be A Millionaire?",
+      "Mr Norman said: \"When I was asked to do the list, Slumdog Millionaire was on there. I excluded it partly out of curiosity to see what kind of reaction it might get. Slumdog doesn't have a phoney feel-good ending, but there is a sense of hope which runs throughout the film, which is great. \"",
+      "(Daily Mail)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The first headline refers to a character in a children’s story and ends with a play on words.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Some skills nannies need these days are not different from those necessary for bodyguards.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Norland College has dropped some traditional skills from its programme to make way for new ones.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "The College has had to invest in a skid pan for the new-style driving lessons.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "It is common for nannies graduating from the College to be employed by well- known personalities.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "Emily Ward supported the idea of modernising courses to meet 21st-century challenges.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Film critic Barry Norman received 500 nominations for the 50 best British films.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Slumdog Millionaire is popular with both critics and ordinary cinemagoers.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Barry Norman struck Slumdog Millionaire off his list because he didn't like the ending.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this article about a learning difficulty and then read the half sentences following it.",
+      "Your task is to match the half sentences based on what the article says.",
+      "There are three extra letters that you will not need."
+     ],
+     "title": "HOW ROBERT REDFORD'S FAMILY ARE CHANGING OUR THINKING ON DYSLEXIA",
+     "body": [
+      "On the face of it, Dylan Redford has everything going for him − he is a handsome, intelligent and artistic 22-year-old who happens to be the grandson of Robert Redford, world-famous actor and director. But he is also severely dyslexic and, at the age of 10, could barely read or write.",
+      "At school in Marin County, California, he found it impossible to use the lockers. The combination of remembering a sequence of numbers and then twisting the padlock dial in the right direction proved difficult to master. \"I had to ask my friends to do it for me,\" says Dylan.",
+      "Dylan's experiences with dyslexia are depicted in a new documentary, The Big Picture, directed by Dylan's father, James. After watching his \"intellectually curious son\" struggle with dyslexia throughout much of his childhood, James Redford, the eldest surviving child of Robert, says his ambition was simple. He wanted \"to make the movie I wish my family could have seen\".",
+      "The Big Picture, which is to be released in the UK later this month after getting excellent reviews in the US, follows the stories of several dyslexics of different ages, including Dylan, and examines how people with the condition cope from a young age right through adulthood.",
+      "Among the interviewees are prominent lawyers, bankers and chief executives. Richard Branson, the founder of Virgin Group, talks candidly on camera about his own dyslexia, admitting that someone once had to explain to him the difference between \"gross\" and \"net\" profit after a board meeting.",
+      "Dyslexia is a persistent condition consisting of a combination of abilities and difficulties. According to the Dyslexia Research Trust it it the most common cause of childhood loss of confidence, sometimes leading to frustration and depression. Yet the condition is still shrouded in mystery. When Dylan was a child, most people still assumed it was a \"made-up\" illness that children could grow out of.",
+      "The Big Picture explores some recent scientific research around dyslexia which has used brain imaging to demonstrate that shrinkage in the part of brain that processes word sounds and language could be one of the condition's contributory factors.",
+      "(The Observer)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "is linked to more than just one cause."
+      },
+      {
+       "key": "B",
+       "text": "intelligent."
+      },
+      {
+       "key": "C",
+       "text": "dyslexic."
+      },
+      {
+       "key": "D",
+       "text": "a common cause."
+      },
+      {
+       "key": "E",
+       "text": "runs in the Redford family."
+      },
+      {
+       "key": "F",
+       "text": "routine activities."
+      },
+      {
+       "key": "G",
+       "text": "ask other students for help."
+      },
+      {
+       "key": "H",
+       "text": "need not prevent people from succeeding in life."
+      },
+      {
+       "key": "I",
+       "text": "is not well understood."
+      },
+      {
+       "key": "K",
+       "text": "alive."
+      },
+      {
+       "key": "L",
+       "text": "the classroom."
+      },
+      {
+       "key": "M",
+       "text": "made a documentary."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "22-year-old Dylan is bright, good-looking and",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "Young Dylan's problems were not limited to",
+       "answer": "L"
+      },
+      {
+       "n": 10,
+       "stem": "Dylan had to rely on his friends' help in",
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "stem": "Not all of Robert Redford's children are",
+       "answer": "K"
+      },
+      {
+       "n": 12,
+       "stem": "Wanting to help those affected, James",
+       "answer": "M"
+      },
+      {
+       "n": 13,
+       "stem": "The Big Picture proves that dyslexia",
+       "answer": "H"
+      },
+      {
+       "n": 14,
+       "stem": "Even now the condition",
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "stem": "Researchers assume that dyslexia",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The article does not say if dyslexia",
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read how the writer of this article remembers a rather unusual teaching job and then read the sentences (17-21) following the article.",
+      "Your task is to choose the option (A-D) that best corresponds to what the article says.",
+      "Write the appropriate letters against the numbers in the white boxes.",
+      "There is and example (0) for you."
+     ],
+     "title": "NO MORE OF THIS",
+     "body": [
+      "After 14 years teaching in prison, Alan Smith explains why he has given it up \"You OK? \" said Casey. \"Yeah, fine. I'm all right,\" I said, but I wasn't. I knew that I had lost the stomach for the whole damned business. In 14 years, I had never excluded anyone, no matter how difficult they were. But now, my confidence had gone and I wanted to get under the duvet and stay there. Casey gave me a hug: \"Retire, man. You don't need all this.\"",
+      "I suppose it had all been creeping up on me for a while. What I had to face up to was that I was becoming increasingly indifferent. I had always tried to avoid this. Failure begins with indifference. There were moments now, more and more of them, when I didn't care about the things that happened, who they happened to.",
+      "And so it was time to go. I couldn't just walk away. I offered the men a deal. I would stay as long as they did. Sue, the education manager, finally agreed to let the class run down, no more new faces.",
+      "By that time there were only four members in the group and, out of the blue, there was a run of golden, other-worldly mornings when we read Chaucer. Chaucer. They couldn't get enough of the Canterbury Tales, that lovely run of characters. The men's enthusiasm reassured me that I hadn't wasted my time. What, after all, does education offer to people if not a greater sense of being human? When we don't know about history and art and society we are adrift, lost. Many of the men I taught were ignorant of just about everything, and as grown men they felt this keenly. Education was a relief, a route to self-respect.",
+      "Then three of the men were released and it was just me and Casey. We decided to do quantum physics, and for a few months we followed a course of lectures on CD. I found it hard going, but in fact his maths turned out to be better than mine and he helped me to understand things. I know that I tried his patience, making him go over things three or four times, but he was a good teacher.",
+      "One afternoon, Sue rang me up. \"Casey was released yesterday.\" And I was finished.",
+      "(The Guardian)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "When Casey asked him, Alan said he was exhausted."
+        },
+        {
+         "key": "B",
+         "text": "Alan didn't really know what was wrong with him."
+        },
+        {
+         "key": "C",
+         "text": "Casey told Alan not to worry about things."
+        },
+        {
+         "key": "D",
+         "text": "Casey said Alan should quit teaching."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 17,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Alan's problems had started quite suddenly."
+        },
+        {
+         "key": "B",
+         "text": "People soon noticed Alan was caring less and less."
+        },
+        {
+         "key": "C",
+         "text": "Alan felt he was gradually losing interest in his work."
+        },
+        {
+         "key": "D",
+         "text": "Alan thought he had failed too many times to try again."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Alan was told he couldn't just stop teaching and walk away."
+        },
+        {
+         "key": "B",
+         "text": "Sue didn't want any new inmates to join Alan's classes."
+        },
+        {
+         "key": "C",
+         "text": "Alan promised his students that he'd carry on until they left prison."
+        },
+        {
+         "key": "D",
+         "text": "With only four members left the group was not easy to teach."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Alan read out Canterbury Tales as they didn't have enough copies."
+        },
+        {
+         "key": "B",
+         "text": "Chaucer's language was a source of great attraction to the men."
+        },
+        {
+         "key": "C",
+         "text": "Blue skies and golden sunshine always put Alan in a good mood."
+        },
+        {
+         "key": "D",
+         "text": "The men's attitude proved that Alan's efforts had not been wasted."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The study of history and art is irrelevant for most people."
+        },
+        {
+         "key": "B",
+         "text": "The men thought Alan's classes were a waste of time."
+        },
+        {
+         "key": "C",
+         "text": "The men were unaware of how ignorant they were."
+        },
+        {
+         "key": "D",
+         "text": "The men welcomed their chance for education."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Alan had a CD on quantum physics so he and Casey decided to listen to it."
+        },
+        {
+         "key": "B",
+         "text": "In the new quantum physics course Casey did more teaching than Alan."
+        },
+        {
+         "key": "C",
+         "text": "Alan and Casey soon realised they didn't have the patience for physics."
+        },
+        {
+         "key": "D",
+         "text": "Both Sue and Alan were sorry when Casey finally left."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about travelling on escalators some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "ESCALATOR ETIQUETTE: THE DOS AND DON'TS",
+     "body": [
+      "Michael Bloomberg, Mayor of New York, has said that {{0}}. Good exercise, yes, but some cities discourage it. And there's one thing obstructing walkers – people who stand.",
+      "But Bloomberg is still in a minority of escalator users around the world. In London, about 25% of people on the Tube walk on the escalators and in Shanghai only about 3%, according to a study. And in some countries, {{22}}. On the Toronto subway system, signs that encouraged people to walk on the left were removed at the recommendation of safety experts.",
+      "Most escalators across the world that {{23}} follow the \"walk on the left\" custom, to speed up the flow. One of the exceptions is Australia, where {{24}}. One thing, though, unites all the cities that do have a system - there's conflict when people obstruct the walking lane.",
+      "\"Able-bodied people standing on the downward escalator are in effect {{25}},\" says Hamilton Nolan, who writes for The New Yorker and regularly uses the subway. \"It's not open war,\" he adds, \"it's a war waged in the privacy of the enraged minds of walkers who are forced to stand impatiently behind as {{26}}.\"",
+      "But people who stand defend themselves by {{27}}, because the escalator is doing the work for them. There are plenty of examples online of frustrated commuters venting their anger about what they regard as anti-social behaviour. Common complaints include people standing on the wrong side, not leaving enough space between standers, {{28}} and blocking the way with luggage.",
+      "In Toronto, that tension has been defused since the signs telling people to walk on the left were removed, says commuter Tom Robertson. \"You can tell some people get a little annoyed when they are {{29}} but I've never seen anyone say anything about it. I think many people have forgotten about the signs.\"",
+      "In fact, accidents and fatalities on escalators are rare. In Beijing, one person died and dozens were injured in 2011 when {{30}} and threw them off balance. Other cases have involved people being entrapped by clothes, but deaths are very rare.",
+      "Anyway, if you really want to avoid escalators, you should move to Wyoming. The US state has only two escalators, both in a bank.",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "robbing the people behind them of time"
+      },
+      {
+       "key": "B",
+       "text": "standing behind someone on the left"
+      },
+      {
+       "key": "C",
+       "text": "he always walks on escalators"
+      },
+      {
+       "key": "D",
+       "text": "hurried down the steps"
+      },
+      {
+       "key": "E",
+       "text": "telling walkers not to be so impatient"
+      },
+      {
+       "key": "F",
+       "text": "reached the top of the escalator"
+      },
+      {
+       "key": "G",
+       "text": "do have a standing/walking system"
+      },
+      {
+       "key": "H",
+       "text": "walking on escalators is discouraged"
+      },
+      {
+       "key": "I",
+       "text": "an escalator suddenly changed direction"
+      },
+      {
+       "key": "K",
+       "text": "people walk on the right"
+      },
+      {
+       "key": "L",
+       "text": "the escalator slowly descends"
+      },
+      {
+       "key": "M",
+       "text": "stopping at the top"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "answer": "H"
+      },
+      {
+       "n": 23,
+       "answer": "G"
+      },
+      {
+       "n": 24,
+       "answer": "K"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "L"
+      },
+      {
+       "n": 27,
+       "answer": "E"
+      },
+      {
+       "n": 28,
+       "answer": "M"
+      },
+      {
+       "n": 29,
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "answer": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 45,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 7,
+    "11": 7,
+    "12": 8,
+    "13": 9,
+    "14": 9,
+    "15": 10,
+    "16": 11,
+    "17": 11,
+    "18": 12,
+    "19": 13,
+    "20": 13,
+    "21": 14,
+    "22": 15,
+    "23": 15,
+    "24": 16,
+    "25": 17,
+    "26": 17,
+    "27": 18,
+    "28": 19,
+    "29": 19,
+    "30": 20,
+    "31": 21,
+    "32": 21,
+    "33": 22,
+    "34": 23,
+    "35": 23,
+    "36": 24,
+    "37": 25,
+    "38": 25,
+    "39": 26,
+    "40": 27,
+    "41": 27,
+    "42": 28,
+    "43": 29,
+    "44": 29,
+    "45": 30
+   },
+   "tasks": [
+    {
+     "id": "2016-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an anecdote about Mark Twain (Samuel Langhorne Clemens), the famous humorist, writer and lecturer. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-O) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "THE BIG CATCH",
+     "body": [
+      "As a boy {{0}} on the banks of the Mississippi, Mark Twain {{1}} delighted with the romance of life on the great river. When he began writing, he {{2}} his pseudonym from the river men’s term for water just barely deep enough for safe navigation.",
+      "Twain loved to boast {{3}} his hunting and fishing exploits.",
+      "He once spent three weeks fishing in the Maine woods, regardless of the fact that it was the state's closed season for {{4}}. Relaxing in the lounge car of the train on his {{5}} journey to New York, his catch iced down in the baggage car, he looked for someone to whom he could relate the story of his successful holiday.",
+      "The stranger to whom he {{6}} to brag about his sizable catch {{7}} at first unresponsive, then looked serious. \"By the way, who are you, sir?\" inquired Twain {{8}} no sign of worry. \"I'm the state {{9}} warden,\" was the unwelcome response. \"Who are you?\" Twain nearly swallowed his cigar. \"Well, to be perfectly truthful, warden,\" he said hastily, \"I'm the biggest damn {{10}} in the whole United States.\" (Pawprints anecdotes)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "APPEARED"
+      },
+      {
+       "key": "B",
+       "text": "BACK"
+      },
+      {
+       "key": "C",
+       "text": "LIVING"
+      },
+      {
+       "key": "D",
+       "text": "BECAME"
+      },
+      {
+       "key": "E",
+       "text": "BEGAN"
+      },
+      {
+       "key": "F",
+       "text": "FISHING"
+      },
+      {
+       "key": "G",
+       "text": "GAME"
+      },
+      {
+       "key": "H",
+       "text": "HEARING"
+      },
+      {
+       "key": "I",
+       "text": "LIAR"
+      },
+      {
+       "key": "K",
+       "text": "OF"
+      },
+      {
+       "key": "L",
+       "text": "OVER"
+      },
+      {
+       "key": "M",
+       "text": "RETURN"
+      },
+      {
+       "key": "N",
+       "text": "SHOWING"
+      },
+      {
+       "key": "O",
+       "text": "TOOK"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "O"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "answer": "M"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "N"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about a box of precious stones that lay hidden in the French Alps for decades. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-22) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "FROZEN TREASURE FOUND IN THE FRENCH ALPS",
+     "body": [
+      "A treasure of precious jewels has been found {{0}} a young alpinist on the ice caps of Mont Blanc, {{11}} it was probably lost decades ago among the wreckage of a crashed airliner.",
+      "Local police chief Sylvain Merly confirmed that about a hundred small precious stones were found in a metallic box in the ice caps known {{12}} Bossons. Merly said the stones were separated in plastic bags that were stamped \"Made in India.\" A local jeweler estimates the treasure to {{13}} worth around $250,000. The diamonds, emeralds, sapphires and rubies are believed {{14}} have come from one of two Air India planes {{15}} crashed in the French Alps in 1950 and 1966.",
+      "The young male climber who stumbled across the lost treasure wishes to {{16}} anonymous. French authorities are contacting {{17}} Indian counterparts to trace the owners of the jewels. {{18}} someone claims the gems, they will be returned to the young mountaineer.",
+      "Merly said that as the ice caps change, debris from the plane crashes rises to the surface periodically. Climbers have encountered all manner of artefacts including newspapers, a jet engine and human remains {{19}} the years. In 2012, a bag of Indian diplomatic mail marked \"ministry of external affairs\" {{20}} discovered.",
+      "Arnaud Christmann, another alpinist familiar {{21}} the area, said he feared the discovery would trigger \"a gold rush\" to the area. He asked \"for some respect {{22}} the crash victims\" and regretted the \"spirit of treasure hunters\" that motivated some mountain climbers.",
+      "(www.nbcnews.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "where",
+        "and"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "remain",
+        "stay"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "their"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "unless"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "over"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "for"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the history of tea bags. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (23-32) in the text."
+     ],
+     "title": "THE TEA BAG",
+     "body": [
+      "The purpose of the tea bag is {{0}} in the belief that for tea to taste its best, the leaves {{23}} to be removed from the hot water at the end of a specific brewing period. The earliest examples of removable infusing devices for holding tea {{24}} metal tea eggs and tea balls.",
+      "Needless {{25}}, it was in America, with its love of labour-saving devices, that tea bags were first developed. In 1908, Thomas Sullivan, a New York tea merchant, started to send samples of tea to his customers in small silken bags. Some assumed that these were {{26}} to be used in the same way as the metal infusers, by putting the entire bag into the pot, rather than {{27}} out the contents. It was thus {{28}} accident that the tea bag was born! During the 1920s tea bags were developed for commercial production, and they grew in popularity in the USA.",
+      "{{29}} Americans took to tea bags with enthusiasm, the British were naturally cautious about such a radical change in their tea-making methods. The material shortages of World War Two also delayed the mass adoption of tea bags in Britain, and it was not until the 1950s that they really {{30}} off. The 1950s were a time when all sorts of household gadgets {{31}} promoted as eliminating tedious household chores. Tea bags gained popularity {{32}} they removed the need to empty out the used tea leaves from the pot. In the early 1960s, tea bags made up less than 3 per cent of the British market but by 2007 this had increased to 96 per cent.",
+      "(www.tea.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "based"
+        },
+        {
+         "key": "B",
+         "text": "found"
+        },
+        {
+         "key": "C",
+         "text": "rooted"
+        },
+        {
+         "key": "D",
+         "text": "made"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "has"
+        },
+        {
+         "key": "B",
+         "text": "should"
+        },
+        {
+         "key": "C",
+         "text": "ought"
+        },
+        {
+         "key": "D",
+         "text": "must"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "was"
+        },
+        {
+         "key": "B",
+         "text": "had been"
+        },
+        {
+         "key": "C",
+         "text": "have been"
+        },
+        {
+         "key": "D",
+         "text": "were"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "telling"
+        },
+        {
+         "key": "B",
+         "text": "saying"
+        },
+        {
+         "key": "C",
+         "text": "to tell"
+        },
+        {
+         "key": "D",
+         "text": "to say"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "options": [
+        {
+         "key": "A",
+         "text": "suggested"
+        },
+        {
+         "key": "B",
+         "text": "told"
+        },
+        {
+         "key": "C",
+         "text": "supposed"
+        },
+        {
+         "key": "D",
+         "text": "preferred"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "options": [
+        {
+         "key": "A",
+         "text": "emptied"
+        },
+        {
+         "key": "B",
+         "text": "emptying"
+        },
+        {
+         "key": "C",
+         "text": "have emptied"
+        },
+        {
+         "key": "D",
+         "text": "to empty"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "options": [
+        {
+         "key": "A",
+         "text": "through"
+        },
+        {
+         "key": "B",
+         "text": "with"
+        },
+        {
+         "key": "C",
+         "text": "by"
+        },
+        {
+         "key": "D",
+         "text": "from"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "options": [
+        {
+         "key": "A",
+         "text": "But while"
+        },
+        {
+         "key": "B",
+         "text": "However,"
+        },
+        {
+         "key": "C",
+         "text": "In spite of"
+        },
+        {
+         "key": "D",
+         "text": "Nonetheless,"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 30,
+       "options": [
+        {
+         "key": "A",
+         "text": "got"
+        },
+        {
+         "key": "B",
+         "text": "took"
+        },
+        {
+         "key": "C",
+         "text": "put"
+        },
+        {
+         "key": "D",
+         "text": "went"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 31,
+       "options": [
+        {
+         "key": "A",
+         "text": "had been"
+        },
+        {
+         "key": "B",
+         "text": "should be"
+        },
+        {
+         "key": "C",
+         "text": "would have"
+        },
+        {
+         "key": "D",
+         "text": "were being"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 32,
+       "options": [
+        {
+         "key": "A",
+         "text": "since"
+        },
+        {
+         "key": "B",
+         "text": "because of"
+        },
+        {
+         "key": "C",
+         "text": "consequently"
+        },
+        {
+         "key": "D",
+         "text": "despite"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read the story of Lady Godiva, an English noblewoman who lived in the 11th century. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "LADY GODIVA",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Lady Godiva irritated her husband by persistently begging to him",
+       "answer": "to"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "to reduce the taxes on the people of Coventry. To silence her, he",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "declared he would rather do so only if she rode naked through the",
+       "answer": "rather"
+      },
+      {
+       "n": 34,
+       "text": "town's market place. The 17-year-oldGodiva called his bluff and by",
+       "answer": "by"
+      },
+      {
+       "n": 35,
+       "text": "the next day, she set out for the town on horseback, completelynaked.",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "However, by concealing the most of her body with her long, thick",
+       "answer": "the"
+      },
+      {
+       "n": 37,
+       "text": "hair, she preserved both of her own modesty and her husband's",
+       "answer": "of"
+      },
+      {
+       "n": 38,
+       "text": "pride, enabling for him to reduce the taxes without loss of face.",
+       "answer": "for"
+      },
+      {
+       "n": 39,
+       "text": "A later version of this tale suggests that how Lady Godiva told",
+       "answer": "how"
+      },
+      {
+       "n": 40,
+       "text": "the townspeople so that they should remain indoors, behind",
+       "answer": "so"
+      },
+      {
+       "n": 41,
+       "text": "shuttered windows, if they wanted their taxes be reduced.",
+       "answer": "be"
+      },
+      {
+       "n": 42,
+       "text": "Everyone had obeyed except a tailor called Tom. This curious",
+       "answer": "had"
+      },
+      {
+       "n": 43,
+       "text": "citizen who peeped through his curtains he was instantly struck",
+       "answer": "he"
+      },
+      {
+       "n": 44,
+       "text": "blind (or, in some versions, dead). Poor Tom, blind or dead as the",
+       "answer": null
+      },
+      {
+       "n": 45,
+       "text": "case may be, left the phrase \"a peeping Tom\" as if a permanent",
+       "answer": "if"
+      }
+     ],
+     "outro": "legacy to the English language. (Pawprints anecdotes)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2016-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear a strange story that happened in Kasuya, Japan.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_16okt_fl.mp3",
+      "start": 0,
+      "end": 577.53,
+      "clip": "hang/e_angol_16okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The elderly man lived with his wife.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "He noticed that something was wrong when some of his clothes disappeared.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "He bought the best security cameras available.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "The police found the front door wide open.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "The police found the person immediately.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "The woman was hiding under a bed in the attic.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "The woman had a very comfortable place to sleep.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The woman looked deeply ashamed when the police arrested her.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The woman had been using the man’s house in the past twelve months.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The police found stolen money and other valuables she had taken from the house.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The woman looked incredibly dirty.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear an interview with John Grisham, the author of popular legal thriller books.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_16okt_fl.mp3",
+      "start": 577.53,
+      "end": 1313.54,
+      "clip": "hang/e_angol_16okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The book entitled The Appeal …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is John Grisham’s first book."
+        },
+        {
+         "key": "B",
+         "text": "will be available in January."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "According to John Grisham, the criminal justice system is a mess because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "several dangerous criminals are not imprisoned."
+        },
+        {
+         "key": "B",
+         "text": "there are too few public defenders."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "John Grisham …",
+       "options": [
+        {
+         "key": "A",
+         "text": "represented big corporations as a lawyer for ten years."
+        },
+        {
+         "key": "B",
+         "text": "thinks Americans like to see successful people fail."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "John Grisham thinks that most …",
+       "options": [
+        {
+         "key": "A",
+         "text": "lawyers are dishonest."
+        },
+        {
+         "key": "B",
+         "text": "people want to read about dishonest lawyers."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "John Grisham says ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "he has always wanted to write a nonfiction book."
+        },
+        {
+         "key": "B",
+         "text": "people wouldn’t believe the story of The Innocent Man if it was a novel."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "John Grisham says …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he tends to delay things he should do."
+        },
+        {
+         "key": "B",
+         "text": "if he had more time, he would write better books."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "John Grisham …",
+       "options": [
+        {
+         "key": "A",
+         "text": "always starts to write a new book around the same time of the year."
+        },
+        {
+         "key": "B",
+         "text": "finds it incredibly easy to find an idea for a book."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "John Grisham …",
+       "options": [
+        {
+         "key": "A",
+         "text": "suspected that A Time to Kill would have a strong influence on racial issues."
+        },
+        {
+         "key": "B",
+         "text": "thinks A Time to Kill successfully depicts racial relations in the Deep South."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "John Grisham …",
+       "options": [
+        {
+         "key": "A",
+         "text": "has never written a book without a lawyer character."
+        },
+        {
+         "key": "B",
+         "text": "doesn’t find it impossible that one day he might write a series."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "John Grisham thinks he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn’t have what it takes to be an actor."
+        },
+        {
+         "key": "B",
+         "text": "looks better in photos than in real life."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear a story about a very lucky – or unlucky - person.",
+      "Your task will be to write one word in each of the gaps below using the exact words that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_16okt_fl.mp3",
+      "start": 1313.54,
+      "end": 1794.65,
+      "clip": "hang/e_angol_16okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Sam is an unemployed {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "bus"
+        ],
+        [
+         "driver"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The first thing he had ever won in his life was a(n) {{gap}} {{gap}} he won in a school raffle.",
+       "gaps": [
+        [
+         "photo"
+        ],
+        [
+         "album"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "The Big Cube is a California state {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "lottery"
+        ],
+        [
+         "game"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The first thing contestants have to do in the television show is to guess which {{gap}} a spinning {{gap}} will stop on.",
+       "gaps": [
+        [
+         "number"
+        ],
+        [
+         "cube"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The first variable referred to how many cars would run the {{gap}} {{gap}} at a crossroads in six hours.",
+       "gaps": [
+        [
+         "stop"
+        ],
+        [
+         "sign"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The second variable referred to how many times an average American teenage boy would change {{gap}} {{gap}} in a three-hour period.",
+       "gaps": [
+        [
+         "TV"
+        ],
+        [
+         "channels"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "While the number of traffic offences in the first variable was only {{gap}}, the average teen clicked {{gap}} times.",
+       "gaps": [
+        [
+         "76"
+        ],
+        [
+         "120"
+        ]
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "As he was crossing the street talking excitedly on his {{gap}} {{gap}}, he got hit by a sports car.",
+       "gaps": [
+        [
+         "cell"
+        ],
+        [
+         "phone"
+        ]
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "The amount of Sams’s {{gap}} {{gap}} was $110,000.",
+       "gaps": [
+        [
+         "hospital"
+        ],
+        [
+         "bill"
+        ]
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "The {{gap}} {{gap}} for the sports car’s owner sued Sam for the sum of $9,000.",
+       "gaps": [
+        [
+         "insurance"
+        ],
+        [
+         "company"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

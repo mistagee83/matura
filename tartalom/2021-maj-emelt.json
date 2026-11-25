@@ -1,0 +1,1442 @@
+{
+ "formatVersion": 1,
+ "id": "2021-maj-emelt",
+ "year": 2021,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2021-05-06",
+ "code": "2112",
+ "sourceFiles": {
+  "paper": "2021 - Emeltszintű május/e_angol_21maj_fl.pdf",
+  "key": "2021 - Emeltszintű május/e_angol_21maj_ut.pdf",
+  "audio": "2021 - Emeltszintű május/e_angol_21maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 29,
+    "27": 30
+   },
+   "tasks": [
+    {
+     "id": "2021-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following article about technology addiction, seven headings have been removed.",
+      "Your task is to write the letters of the headings (A-I) next to the appropriate numbers (1-6).",
+      "There are two extra headings that you do not need."
+     ],
+     "title": "SIX SIGNS YOU MAY HAVE A TECHNOLOGY ADDICTION",
+     "body": [
+      "{{0}}\nAs with anything pleasurable that we experience in life (such as eating chocolate or drinking coffee), the brain releases dopamine, the feel-good hormone. Technology use can be addictive: we might see a funny photo on Instagram or achieve a level on a video game, and we simply want more. Here are six signs that you may be consuming too much technology.",
+      "{{1}}\nThere is no specific number of hours that is ‘safe’ for teenagers to use technology. However, they need a balance of experiences in their lives and their leisure time should not be dominated by digital devices.",
+      "{{2}}\nThe use of a smartphone while waiting for a bus, doing some fact checking for a school assignment, or even checking your social media sites is not harmful. However, if you cannot sit still anywhere without using a gadget, it may indicate that you have a technology addiction.",
+      "{{3}}\nCan you sustain friendships away from screens? If you would rather chat online than play or talk in person, it might be cause for concern.",
+      "{{4}}\nMany teenagers stay up late playing games or wake early to complete a game. If the sentence “I just need to finish off this level and then I’ll switch it off” sounds familiar, you might want to consider limiting your screen time.",
+      "{{5}}\nDon’t worry, teenagers need to switch off – it is a healthy part of brain development. In today’s society we are constantly entertained or engaged, however, we need to be aware of the fact that boredom and ‘quietness’ are beneficial for us.",
+      "{{6}}\nIf traditional activities that you were once keen on have been overtaken by digital devices and games, you might consider switching the devices off."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Do you spend vast amounts of time engaged with technology?"
+      },
+      {
+       "key": "B",
+       "text": "Do you often feel that you are ‘bored’ when not using digital devices?"
+      },
+      {
+       "key": "C",
+       "text": "Are we “addicted” to technology?"
+      },
+      {
+       "key": "D",
+       "text": "When you need help, do you turn to online advice pages instead of people they know?"
+      },
+      {
+       "key": "E",
+       "text": "Do you withdraw from face-to-face social situations in preference for using digital devices?"
+      },
+      {
+       "key": "F",
+       "text": "Do you tend to withdraw from activities you previously enjoyed?"
+      },
+      {
+       "key": "G",
+       "text": "Do you feel you are constantly preoccupied with technology?"
+      },
+      {
+       "key": "H",
+       "text": "Do you have trouble making a difference between what you experienced online and what happened to you in real life?"
+      },
+      {
+       "key": "I",
+       "text": "Do you tend to get less than enough sleep?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      }
+     ],
+     "source": "https://drkristygoodwin.com/7-signs-your-child-may-have-a-technology-addiction/"
+    },
+    {
+     "id": "2021-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this article about test anxiety, where sentences have been removed.",
+      "Your task is to reconstruct the text by filling in the gaps (7-12) from the list (A-I) below.",
+      "There are two extra letters that you do not need."
+     ],
+     "title": "TEST ANXIETY AND WHAT IS BEHIND IT",
+     "body": [
+      "You've done all your homework and studied hard, you think you are well-prepared. {{0}}. Suddenly, you blank out, freeze up, zone out, or feel so nervous that you can't respond to the questions you knew the answers to just last night. If this sounds like you, you may have a case of test anxiety — that nervous feeling that people sometimes get when they're about to take a test.",
+      "It's normal to feel a little nervous and stressed before a test. {{7}}. A little nervous anticipation can even help you do better on a test. But for some people, test anxiety is more intense. {{8}}.",
+      "Test anxiety is a type of performance anxiety — a feeling someone might have in a situation where performance really counts, for example before singing a solo on stage, getting ready for a running race, or taking a final exam.",
+      "{{9}}. Some people might feel shaky or sweaty, or feel their heart beating quickly as they wait for the test to be given out. Some may even feel like they might pass out or throw up.",
+      "All types of anxiety are a reaction to something stressful that we know is coming. Like other anxiety reactions, test anxiety affects both the body and the mind. {{10}}. That's what causes the physical symptoms, such as sweating, a pounding heart, and rapid breathing.",
+      "Focusing on the bad things that could happen can also fuel test anxiety. For example, someone worrying about doing poorly might have thoughts like, \"What if I forget everything I know?\" or \"What if the test is too hard?\" {{11}}.",
+      "People who worry a lot or who are perfectionists are more likely to have trouble with test anxiety. {{12}}. In this way, even without meaning to, they might really pressure themselves."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "When you're under stress, your body releases the hormone ‘adrenaline’, which prepares it for danger."
+      },
+      {
+       "key": "B",
+       "text": "Those with such traits sometimes find it hard to accept mistakes they might make or to get anything less than a perfect score."
+      },
+      {
+       "key": "C",
+       "text": "But then the day of the test comes."
+      },
+      {
+       "key": "D",
+       "text": "The nervousness they feel before a test can be so strong that it interferes with their concentration or performance."
+      },
+      {
+       "key": "E",
+       "text": "Just about everyone does."
+      },
+      {
+       "key": "F",
+       "text": "People suffering from test anxiety can easily learn how to cope with this feeling."
+      },
+      {
+       "key": "G",
+       "text": "Like other situations in which a person might feel performance anxiety, test anxiety can cause nausea, a stomach ache, or a headache."
+      },
+      {
+       "key": "H",
+       "text": "Too many thoughts like these leave no mental space for focusing on the test questions."
+      },
+      {
+       "key": "I",
+       "text": "In case of severe test anxiety, it is advisable to do yoga or other forms of relaxing activities before taking the test."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "E"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      }
+     ],
+     "source": "https://kidshealth.org/en/teens/test-anxiety.html"
+    },
+    {
+     "id": "2021-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about life in space and then read the statements (13-20) following it.",
+      "Your task is to decide whether the statements are true or not.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "HOW TO SURVIVE IN SPACE",
+     "body": [
+      "Firstly, whether it’s a suit that fits around your body or a larger vehicle that gives you some freedom of movement, you need a spaceship if you're going into space. Humans can only survive for about 15 seconds in the vacuum of space without a protective shell, and even if they could survive longer, they would quickly receive a fatal dose of radiation from the sun.",
+      "An efficient spaceship like the International Space Station (ISS) reuses 93 percent of the wastewater generated by its occupants, converting it into either clean water or oxygen. All the more important as every astronaut needs a personal supply of water. It is a fundamental necessity, not only to keep the body alive, but to keep it clean, and it’s an essential additive for the foods that accompany astronauts into space, which are all stored in a dried state. Preferred space foods are those that don't crumble – weightless crumbs get in everyone's way and can harm instruments. Astronauts need to follow a balanced diet, and because weightlessness dulls the sense of taste, most prefer spicy meals.",
+      "Personal hygiene is just as important in space as it is on Earth; astronauts can take showers, but they usually do it with a sponge to preserve supplies. In addition, they use soap and shampoo that work without water. In order to stay fit and fight the weakening effect of weightlessness on the leg and lower back muscles, anyone going to space for an extended period has a greater than usual need of some sort of gym equipment; otherwise, even the simplest activities would become extremely exhausting after you return home from a space mission.",
+      "If musical instruments aren't on your A-list of space supplies, then think again. Scientists have found that music has a key role in maintaining a sense of normalcy and mental balance, and the ISS astronauts have a range of instruments available for jamming and recording in space. And while you may well be able to entertain yourself by watching water droplets float around in the zero-gravity environment, there is no substitute for that collection of books and CDs you packed."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Astronauts need protective gear to survive in space.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "The vacuum of space does not immediately kill a person without any protection.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Cleaning used water on the ISS requires a significant amount of energy.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Without a supply of water, astronauts would not be able to eat.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Typically, astronauts want stronger flavours in their food in space.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Most astronauts lose weight during the period they spend in space.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "Due to weightlessness, regular exercise is less important in space than on Earth.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Astronauts on the same mission often play music together.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "The wonders of space provide astronauts with better entertainment than regular free-time activities back on Earth.",
+       "answer": "B"
+      }
+     ],
+     "source": "https://sciencing.com/what-astronauts-really-eat-in-space-13717332.html"
+    },
+    {
+     "id": "2021-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this article about how people can sometimes help each other at difficult times. In the text, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are three extra letters you will not need."
+     ],
+     "title": "CHRISTMAS KINDNESS",
+     "body": [
+      "Christmas is a time of giving, and that's exactly {{0}} during the festive season. Just a few weeks before the holidays, Massachusetts police officer Matt Lima received a call about shoplifting at a food store in Somerset.",
+      "As soon as he arrived at the store, he spoke to a staff member {{21}} were not scanning all their groceries before putting them into shopping bags at the self-checkout.",
+      "When they were questioned a few minutes later in the storekeeper’s office, the women said {{22}}. They had attempted to take additional food items they couldn't pay for because they were desperate to make a proper Christmas dinner for their children.",
+      "When he heard about the details of the family’s situation, the officer decided to temporarily ban them from the store but did not press charges {{23}}. Not only that, but Lieutenant Lima then went on to buy the women gift cards worth $250 with his own money so they could purchase groceries for their dinner at another store.",
+      "“The two children with the women reminded me of my kids, {{24}}. They were very thankful… and they were kind of shocked. I'm sure a lot of people in that same situation would be thinking {{25}}, and maybe they would be arrested or have to go to court,” Lima told media outlet Massachusetts Today.",
+      "When a report about the case reached Police Chief George McNeil, he said the incident was a true testament of Lima’s great character. “His actions exemplify {{26}}. When faced with a difficult situation {{27}}, he made the generous decision to not press charges and instead ensured that they would have a Christmas dinner they could enjoy.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "so I had to help them out"
+      },
+      {
+       "key": "B",
+       "text": "where a family was trying to provide a meal for their kids"
+      },
+      {
+       "key": "C",
+       "text": "what a US police officer did to help a family in need"
+      },
+      {
+       "key": "D",
+       "text": "that they were going through some very rough times"
+      },
+      {
+       "key": "E",
+       "text": "where the family had moved only very recently"
+      },
+      {
+       "key": "F",
+       "text": "what it means to protect and serve the members of our community"
+      },
+      {
+       "key": "G",
+       "text": "so the children had to go without hot food for over a week"
+      },
+      {
+       "key": "H",
+       "text": "who told him two women with two young children"
+      },
+      {
+       "key": "I",
+       "text": "as generous acts like this tend to attract significant media attention"
+      },
+      {
+       "key": "K",
+       "text": "as all the items on the receipt were for food"
+      },
+      {
+       "key": "L",
+       "text": "that there was going to be a different outcome"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "H"
+      },
+      {
+       "n": 22,
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "answer": "K"
+      },
+      {
+       "n": 24,
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "answer": "L"
+      },
+      {
+       "n": 26,
+       "answer": "F"
+      },
+      {
+       "n": 27,
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.stuff.co.nz/world/americas/123865129/christmas-kindness-us-police-officer-buys-family-food-instead-of-arresting-"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2021-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a new rule on taking animals on planes.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "US ENDS ERA OF EMOTIONAL SUPPORT ANIMALS ON PLANES",
+     "body": [
+      "US airlines will no {{0}} be required to transport emotional support animals after passengers insisted on bringing on board their horses, pigs, peacocks and turkeys for {{1}} reasons. Wednesday’s rule change by the US Department of Transportation now says only dogs {{2}} as support or service animals. The new rule defines such dogs as “individually trained to do work or perform tasks for the benefit of a person with a disability”, and says other animals should be treated by airlines as pets that can be placed in the cargo hold for a fee.",
+      "Previously, the federal government had no law {{3}} emotional support animals. Due to state-level regulations, emotional support animals, {{4}} pets, were allowed to travel for free. Airlines were required to accommodate them in the cabin despite {{5}} from passengers. There have been several incidents of misbehaving animals causing {{6}} to passengers and flights crews. Some of those incidents have led to lawsuits.",
+      "“The Department of Transportation’s final rule will protect the travelling public and airline crewmembers from {{7}} animals in the cabin,” Airlines for America President Nicholas E. Calio said in a {{8}}. The long-awaited {{9}} was applauded by airline industries and airline employee unions."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "long",
+       "example": true,
+       "accept": [
+        "longer"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "psychology",
+       "accept": [
+        "psychological"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "qualify",
+       "accept": [
+        "qualify"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "regard",
+       "accept": [
+        "regarding"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "like",
+       "accept": [
+        "unlike"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "complain",
+       "accept": [
+        "complaints"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "injure",
+       "accept": [
+        "injuries",
+        "injury"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "train",
+       "accept": [
+        "untrained",
+        "ill-trained",
+        "undertrained"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "state",
+       "accept": [
+        "statement"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "decide",
+       "accept": [
+        "decision"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/news/world-us-canada-55177736"
+    },
+    {
+     "id": "2021-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a special natural site. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-18) in the text."
+     ],
+     "title": "MYSTERIOUS NEW YORK WATERFALL",
+     "body": [
+      "Fire and water don’t mix. Everyone knows that. {{0}} there is a mysterious and magical place in western New York State where the laws of nature {{10}} and visitors can see a small flame burning brightly in a waterfall. Eternal Flame Falls continues to surprise geologists with its continuous flame.",
+      "The waterfall itself, part of Chestnut Ridge Park, is not very {{11}}. At the base of the waterfall, {{12}}, there is a small cave. Natural gas seeps through a crack in the rock, fuelling the eternal flame, {{13}} shines brightly through the water. According to local legends, a Native American lit the flame long ago and it has burned {{14}}. That is not entirely true. Occasionally the flame is extinguished and {{15}} to be re-lit with a lighter.",
+      "There are other eternal flames around the world, so scientists {{16}} that the fire at Eternal Flame Falls was the result of the same process. In the other eternal flames, the temperature of the rock beneath the flame is hot – at or exceeding the boiling point of water. The heat breaks down the carbon molecules in the rock, releasing natural gas. But at Eternal Flame Falls, the rock beneath the flame is much cooler. {{17}}, the gas keeps coming.",
+      "Geologists are researching the natural processes at work at Eternal Flame Falls. They believe that if they understand {{18}} the gas is released at cooler temperatures, it will help them to find ways to extract natural gas from the rock in a safe and non-invasive way."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "Anyway"
+        },
+        {
+         "key": "B",
+         "text": "However"
+        },
+        {
+         "key": "C",
+         "text": "But"
+        },
+        {
+         "key": "D",
+         "text": "As"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "can’t count"
+        },
+        {
+         "key": "B",
+         "text": "stay behind"
+        },
+        {
+         "key": "C",
+         "text": "don’t apply"
+        },
+        {
+         "key": "D",
+         "text": "appears strong"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "attracting"
+        },
+        {
+         "key": "B",
+         "text": "impressive"
+        },
+        {
+         "key": "C",
+         "text": "enormous"
+        },
+        {
+         "key": "D",
+         "text": "inspired"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "although"
+        },
+        {
+         "key": "B",
+         "text": "either"
+        },
+        {
+         "key": "C",
+         "text": "however"
+        },
+        {
+         "key": "D",
+         "text": "too"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "how"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "which"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "ever after"
+        },
+        {
+         "key": "B",
+         "text": "forever"
+        },
+        {
+         "key": "C",
+         "text": "after all"
+        },
+        {
+         "key": "D",
+         "text": "ever since"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "needs"
+        },
+        {
+         "key": "B",
+         "text": "must"
+        },
+        {
+         "key": "C",
+         "text": "is"
+        },
+        {
+         "key": "D",
+         "text": "had"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "once believed"
+        },
+        {
+         "key": "B",
+         "text": "think so"
+        },
+        {
+         "key": "C",
+         "text": "considered it"
+        },
+        {
+         "key": "D",
+         "text": "have been expected"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "Still"
+        },
+        {
+         "key": "B",
+         "text": "Therefore"
+        },
+        {
+         "key": "C",
+         "text": "Furthermore"
+        },
+        {
+         "key": "D",
+         "text": "Otherwise"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "whether"
+        },
+        {
+         "key": "B",
+         "text": "as"
+        },
+        {
+         "key": "C",
+         "text": "it"
+        },
+        {
+         "key": "D",
+         "text": "how"
+        }
+       ],
+       "answer": "D"
+      }
+     ],
+     "source": "https://historydaily.org/mysterious-new-york-waterfall-defies-the-laws-of-nature"
+    },
+    {
+     "id": "2021-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a mystery in a Welsh village. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "NO CONNECTION",
+     "body": [
+      "For 18 months, residents of a village in Wales have been mystified as to {{0}} their broadband internet crashed every morning.",
+      "Now engineers have finally identified the reason: a second-hand television that gave off a signal {{19}} broke the connection. A team of engineers have become heroes in the village of Aberhosan after finally finding the source of the problem, according to an announcement from Openreach, the company that runs the UK's digital network.",
+      "Earlier, local experts {{20}} visited the village several times and found no fault with the network. They even replaced cables in the area to try and solve the problem, but with {{21}} success at all.",
+      "Then local engineer Michael Jones called in assistance from experts at the Openreach chief engineer team. After {{22}} out numerous tests, engineers had a theory that the problem could be caused by an episode called “single high-level impulse noise” (SHINE), in {{23}} an appliance produces electrical interference that has an impact on broadband connections. Engineers used a special device and walked up and down the village at 6 a.m. to see {{24}} they could locate an electrical noise.",
+      "At 7 a.m. the device picked up a large burst of electrical noise coming from a property in the village. It turned out that at 7 a.m. every morning the occupant switched on their old TV, which {{25}} turn knocked out broadband for the entire village.",
+      "Since the old TV was retired, {{26}} have been no more problems with the connection, said Openreach."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "why"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "that",
+        "which",
+        "and"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "no"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "carrying",
+        "trying",
+        "working"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "if",
+        "whether",
+        "where",
+        "when"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "in"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "there"
+       ]
+      }
+     ],
+     "source": "https://edition.cnn.com/2020/09/22/uk/old-tv-breaks-broadband-village-scli-intl-gbr/index.html"
+    },
+    {
+     "id": "2021-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a practical application of Artificial Intelligence (AI). In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "SMART DOG COLLAR",
+     "intro": "A South Korean startup has developed an AI-powered dog collar that",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "can detect five emotions in the dogs by monitoring their barks using",
+       "answer": "the"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "voice recognition technology. The Petpuls collar can tell pet owners",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "through a smartphone application as if their dogs are happy, relaxed,",
+       "answer": "as"
+      },
+      {
+       "n": 28,
+       "text": "anxious, angry or sad. It can also tracks dogs’ physical activity and rest.",
+       "answer": "can"
+      },
+      {
+       "n": 29,
+       "text": "The company began gathering different types of barks to analyse dogs’",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "emotions in 2017. Three years later than they developed an algorithm",
+       "answer": "than"
+      },
+      {
+       "n": 31,
+       "text": "that based on a database of more than 10,000 samples from 50 breeds of",
+       "answer": "that"
+      },
+      {
+       "n": 32,
+       "text": "dogs. The collar has a 90 percent average accuracy rate size of emotional",
+       "answer": "size"
+      },
+      {
+       "n": 33,
+       "text": "recognition, according to Seoul National University, which is tested the",
+       "answer": "is"
+      },
+      {
+       "n": 34,
+       "text": "device. The company says the collar is the first of its other kind to be",
+       "answer": "other"
+      },
+      {
+       "n": 35,
+       "text": "powered by AI voice recognition technology. Petpuls Lab has started",
+       "answer": "has"
+      }
+     ],
+     "outro": "marketing the collar online in October last year at $99.",
+     "source": "https://www.reuters.com/article/us-southkorea-dog-smartcollar/south-korean-firms-smart-dog-collar-tells-owners-whats-in-a-"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2021-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear an interesting story about an engagement ring.",
+      "Your task will be to write the letter of the correct answer in the boxes on the right.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_21maj_fl.mp3",
+      "start": 0,
+      "end": 583.24,
+      "clip": "hang/e_angol_21maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Daniella and John travelled by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "land."
+        },
+        {
+         "key": "B",
+         "text": "sea."
+        },
+        {
+         "key": "C",
+         "text": "air."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "John had decided to propose to Daniella … before they went to New York.",
+       "options": [
+        {
+         "key": "A",
+         "text": "years"
+        },
+        {
+         "key": "B",
+         "text": "months"
+        },
+        {
+         "key": "C",
+         "text": "days"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "John found Central Park the ideal place to propose because it was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "leafy green with happy people."
+        },
+        {
+         "key": "B",
+         "text": "a beautiful day with young people all around."
+        },
+        {
+         "key": "C",
+         "text": "a nice fall day with only a few people around."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "Daniella … John’s proposal.",
+       "options": [
+        {
+         "key": "A",
+         "text": "immediately accepted"
+        },
+        {
+         "key": "B",
+         "text": "was lost for words after"
+        },
+        {
+         "key": "C",
+         "text": "hesitated briefly before accepting"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Daniella …",
+       "options": [
+        {
+         "key": "A",
+         "text": "pretended the ring was the right size."
+        },
+        {
+         "key": "B",
+         "text": "realized the ring was the wrong size."
+        },
+        {
+         "key": "C",
+         "text": "insisted on wearing the ring."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Daniella and John were … when the ring disappeared.",
+       "options": [
+        {
+         "key": "A",
+         "text": "eating in a restaurant"
+        },
+        {
+         "key": "B",
+         "text": "standing in Times Square"
+        },
+        {
+         "key": "C",
+         "text": "heading for their hotel"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Daniella and John …",
+       "options": [
+        {
+         "key": "A",
+         "text": "lifted the grate with a crow bar to find the ring."
+        },
+        {
+         "key": "B",
+         "text": "decided to have a nice weekend anyway."
+        },
+        {
+         "key": "C",
+         "text": "made sure the police recorded their names."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "After Daniella and John arrived back home, they …",
+       "options": [
+        {
+         "key": "A",
+         "text": "went to a jewellery store to buy another ring."
+        },
+        {
+         "key": "B",
+         "text": "were told about the social media campaign."
+        },
+        {
+         "key": "C",
+         "text": "were phoned by the New York Police Deparment."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "The CCTV footage showed … searching for the ring.",
+       "options": [
+        {
+         "key": "A",
+         "text": "Daniella and John"
+        },
+        {
+         "key": "B",
+         "text": "helpful New Yorkers"
+        },
+        {
+         "key": "C",
+         "text": "Special Operations Officers"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2021-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a museum guide describing a famous painting by Francisco Goya.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the recording twice.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "e_angol_21maj_fl.mp3",
+      "start": 583.24,
+      "end": 1233.56,
+      "clip": "hang/e_angol_21maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The museum guide says that the Francisco Goya room is the first stop on the tour.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Goya finished the painting in the second decade of the 19th century.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Napoleon’s brother became the king of Spain.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "The French executed hundreds of Spanish people on the 3rd of May.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Goya had never sympathized with the French Revolution.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "No painter had used light and dark before as powerfully as Goya did.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "The man in the white shirt was a well-known aristocrat.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The light from the moon fell on the soldiers.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Goya’s portrayal of the French soldiers shows that they felt no pity for their victims.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "According to the museum guide, Goya’s painting is as powerful now as it was in the past.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2021-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will listen to some information about fighting off the common cold.",
+      "Your task will be to write one word or number in each of the gaps below using the exact words that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the recording twice.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_21maj_fl.mp3",
+      "start": 1233.56,
+      "end": 1794.96,
+      "clip": "hang/e_angol_21maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The treatments this article focuses on are called {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "home"
+        ],
+        [
+         "remedies"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "A virus which enters our bodies has to fight against {{gap}} {{gap}} systems.",
+       "gaps": [
+        [
+         "2",
+         "two"
+        ],
+        [
+         "defence"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The adaptive system creates specific {{gap}} {{gap}} so that the body can remember the new viruses if they return.",
+       "gaps": [
+        [
+         "memory"
+        ],
+        [
+         "cells"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The common cold virus confuses our adaptive system because it {{gap}} its {{gap}}.",
+       "gaps": [
+        [
+         "changes"
+        ],
+        [
+         "appearance"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "{{gap}} and {{gap}} habits affect how strong our immune systems are.",
+       "unordered": true,
+       "gaps": [
+        [
+         "diet"
+        ],
+        [
+         "lifestyle"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "If we have a balanced diet, supplementing it with vitamins and minerals will make {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "little"
+        ],
+        [
+         "difference"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "In a study, either a placebo or a daily garlic supplement were given to 146 {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "healthy"
+        ],
+        [
+         "adults"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "In the placebo group, the 65 colds resulted in {{gap}} of sickness.",
+       "accept": [
+        "366 days",
+        "three hundred and sixty-six days"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "As far as orange juice is concerned, there is no {{gap}} {{gap}} that it prevents colds, makes symptoms less serious or reduces the length of a cold.",
+       "gaps": [
+        [
+         "powerful"
+        ],
+        [
+         "evidence"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Az elfogadható válaszban az alábbi szavaknak feltétlenül szerepelniük kell!)"
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1480 @@
+{
+ "formatVersion": 1,
+ "id": "2008-okt-kozep",
+ "year": 2008,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2008-10-27",
+ "code": "0801",
+ "sourceFiles": {
+  "paper": "2008. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_08okt_fl.pdf",
+  "key": "2008. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_08okt_ut.pdf",
+  "audio": "2008. Középszintű október-novemberi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_08okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2008-okt-kozep-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this story of a driving accident and then read the short summary following it.",
+      "Your task is to fill the gaps in the summary with just one word based on the information in the text."
+     ],
+     "title": "My first crash",
+     "body": [
+      "I have never had a big full-scale crash, but the first one did seem important to me at the time. Although I was already in my forties I had only just passed my driving test. I was in my husband’s yellow Sunbeam Alpine on holiday in the Irish Republic, with my mum. There was nobody else involved. There was no traffic to be seen. I couldn’t even blame the weather. As I was turning off the road into the driveway of the house somehow I managed to catch the front of the car on the gate. My heart sank when I heard the crunch. I can remember feeling real shame in front of my mother for doing something so stupid.",
+      "I got out to have a look. It wasn’t that bad but there was a long scratch on the front. I dreaded having to tell my husband. He was very keen on driving and I knew he was also particularly fond of his Alpine. When I did tell him, he pretended he didn’t mind but I knew he did really. It wasn’t a very exciting crash but I took it more to heart than most people. I think it was because I was a novice driver. I didn’t realise this sort of thing could happen to anybody.",
+      "Summary The author says she has {{0}} had a serious driving accident. She was over {{1}} years old when she got her driving licence. Her {{2}} accident, though not a serious one, made her feel really ashamed. It happened while she was driving her {{3}} car. The weather was fine and there were no other {{4}} on the road. There was nobody else to blame, just {{5}}. As she was turning into the driveway of the house she hit the {{6}} and damaged the front of the car. She felt miserable because she didn’t know that this kind of {{7}} was quite common."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "never"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "forty",
+        "40"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "first"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "husband’s"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "cars",
+        "vehicles",
+        "drivers"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "herself",
+        "her"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "gate"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "accident",
+        "crash",
+        "event",
+        "thing"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "In these short news items some words are missing.",
+      "Your task is to fill the gaps from the list below.",
+      "Remember that there is an extra letter that you do not need."
+     ],
+     "title": "Engineers call time on Big Ben",
+     "body": [
+      "The famous clock will be stopped for {{0}} that will include re-tuning until about 4pm on Sunday. It is the longest stoppage since 1983. Engineers will {{8}} a thorough inspection of the clock including the four quarter bells and the hour bell, which will also need to be re-tuned.",
+      "Stowaway mouse {{9}}",
+      "A mouse grounded a Qatar Airways aeroplane and 250 passengers for 13 hours. The aircraft was preparing for take-off from Manila airport this week when a {{10}} saw the mouse in the economy class section. The captain ordered the passengers to get off the plane while maintenance staff searched the aircraft, but the mouse {{11}}.",
+      "The aircraft took off for Doha 13 hours late, most probably with the mouse still on board.",
+      "Unhealthy health service The Government has finally agreed to take the mercury content away from vaccines given to babies, but why {{12}} the same with dental fillings?",
+      "We took a child to a National Health Service dentist {{13}} and were told she needed three fillings. But the dentist warned us that the NHS only offered potentially very harmful mercury fillings. If we didn’t want to {{14}}, we would have to go private and pay. So we did and ended up paying £105 for the three fillings.",
+      "This is grotesque. Many families can’t afford this sort of money, especially if they’ve got large numbers of children. It’s time the Government changed this system.",
+      "More stub out cigs The NHS yesterday claimed dramatic success in its {{15}} to help people to give up smoking. More than 170,000 have given up the habit in the last eight months.",
+      "Older smokers were the most successful in reaching the {{16}} without lighting up. Most of those who gave up used nicotine replacement therapy such as chewing gum or patches.",
+      "Figures show that stop-smoking services cost the NHS more than £32 million, with another £30 million spent on {{17}}."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "crew member"
+      },
+      {
+       "key": "B",
+       "text": "can’t it do"
+      },
+      {
+       "key": "C",
+       "text": "maintenance work"
+      },
+      {
+       "key": "D",
+       "text": "last month"
+      },
+      {
+       "key": "E",
+       "text": "carry out"
+      },
+      {
+       "key": "F",
+       "text": "could not be found"
+      },
+      {
+       "key": "G",
+       "text": "delays flight"
+      },
+      {
+       "key": "H",
+       "text": "make first"
+      },
+      {
+       "key": "I",
+       "text": "prescriptions"
+      },
+      {
+       "key": "K",
+       "text": "take the risk"
+      },
+      {
+       "key": "L",
+       "text": "four-week target"
+      },
+      {
+       "key": "M",
+       "text": "campaign"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "answer": "K"
+      },
+      {
+       "n": 15,
+       "answer": "M"
+      },
+      {
+       "n": 16,
+       "answer": "L"
+      },
+      {
+       "n": 17,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about an expedition to unknown parts of South America.",
+      "Some words have been removed from the text.",
+      "Your task is to fill the gaps from the list below.",
+      "Remember that there is an extra letter that you do not need."
+     ],
+     "title": "Lost Inca world",
+     "body": [
+      "A lost world of 5,000ft-deep {{0}} has been uncovered in an epic journey along one of the last unexplored rivers in South America. John Blashford-Snell, the 67-year-old British explorer, led a team of {{18}} for two months through 400 rapids and waterfalls along a 250-mile stretch of the Rio Grande in Bolivia. Travelling in specially-designed inflatable boats, they followed the river {{19}} in the Andes to the town of Abapo near the border with Paraguay.",
+      "The expedition was the fifth of a series commanded by Blashford- Snell, a former soldier who aims to prove that the Incas could have reached South America’s Atlantic coast {{20}} from the Andes into the Amazon basin.",
+      "Previous expeditions used boats made from reeds, {{21}} shown in Inca carvings. Because of the violent force of the Rio Grande, Blashford-Snell is now convinced that {{22}} would not have survived the journey.",
+      "“Everyone came back safe. Despite the fact that we were thrown about {{23}} for much of the time we had no broken bones,” Blashford-Snell said last night.",
+      "In one {{24}} known as the Devil’s Gorge the river was blocked by huge rocks and {{25}} had to be carried. At other times the boats had to be guided through dangerous rapids using ropes."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "based on designs"
+      },
+      {
+       "key": "B",
+       "text": "from its source"
+      },
+      {
+       "key": "C",
+       "text": "canyons and Inca ruins"
+      },
+      {
+       "key": "D",
+       "text": "some of these skeletons"
+      },
+      {
+       "key": "E",
+       "text": "like ping-pong balls"
+      },
+      {
+       "key": "F",
+       "text": "particularly difficult section"
+      },
+      {
+       "key": "G",
+       "text": "scientists and archaeologists"
+      },
+      {
+       "key": "H",
+       "text": "this kind of boat"
+      },
+      {
+       "key": "I",
+       "text": "the boats and stores"
+      },
+      {
+       "key": "K",
+       "text": "following rivers"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "answer": "G"
+      },
+      {
+       "n": 19,
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "answer": "K"
+      },
+      {
+       "n": 21,
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "answer": "H"
+      },
+      {
+       "n": 23,
+       "answer": "E"
+      },
+      {
+       "n": 24,
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article about skiing in the Alps and then read the sentences that follow it.",
+      "Your task is to choose the answer that is nearest in meaning to what the article says."
+     ],
+     "title": "Up and Away",
+     "body": [
+      "Every winter, some 1.25 million Britons migrate to the Alps, where they find purpose-built resorts with fantastic slopes near villages that are so commercialised that it’s impossible to move without ringing a cowbell. More and more people are beginning to realise that there are other things you can do in the mountains besides downhill skiing, and that away from the fashionable slopes there are exciting areas of country to be discovered.",
+      "Two ways of reaching parts of the Alps that others don’t are heli-skiing (flying in a helicopter to a mountain and skiing down from there) and para-gliding (jumping from a high place and floating slowly to the ground with a parachute-like structure). Of course, you have to be extremely rich to do the first and experienced and mad-brave to do the second.",
+      "A much gentler way of getting to the Alpine outback is heels-free or Nordic skiing (skiing across the countryside), which is the traditional Scandinavian method of winter travel. Using flexible boots and lightweight skis wrapped in skins (one-sided Velcro these days) it’s possible to climb most slopes. And the thing about heels-free skiing is that it is a journey; using mountain huts that offer everything from beds and showers to hot meals and cold beers, it is possible to spend whole weeks on the hill. It’s an eco-friendly form of discovery, too: no buses, no trains, no lifts, no hotels, no street lights, no crowded streets or car parks. Best of all you will never meet that curse of downhill skiing: the queue.",
+      "If you don’t feel athletic enough to do this, rent a house in one of the smaller villages, those that lie below the snowline but are only 15 minutes or so by bus from the nearest lift. By living in a small village you’ll have a better chance of knowing your neighbours, and if you stay long enough, you may even be accepted as part of the community."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "More than a million Brits go to the Alps every year in order to",
+       "options": [
+        {
+         "key": "A",
+         "text": "enjoy skiing."
+        },
+        {
+         "key": "B",
+         "text": "learn to ski."
+        },
+        {
+         "key": "C",
+         "text": "look fashionable."
+        },
+        {
+         "key": "D",
+         "text": "settle there."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "People are getting less and less happy with famous resorts because",
+       "options": [
+        {
+         "key": "A",
+         "text": "the skiing is not as good as it used to be."
+        },
+        {
+         "key": "B",
+         "text": "the villages have become too touristy."
+        },
+        {
+         "key": "C",
+         "text": "there are too many cows in the villages."
+        },
+        {
+         "key": "D",
+         "text": "there are too many people on the slopes."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "The author suggests that",
+       "options": [
+        {
+         "key": "A",
+         "text": "para-gliding is more dangerous than heli-skiing."
+        },
+        {
+         "key": "B",
+         "text": "heli-skiing is the best way of avoiding crowds."
+        },
+        {
+         "key": "C",
+         "text": "you have to be brave to try the first."
+        },
+        {
+         "key": "D",
+         "text": "brave people are usually a little mad."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "The author recommends Nordic skiing because",
+       "options": [
+        {
+         "key": "A",
+         "text": "it is the traditional Scandinavian method."
+        },
+        {
+         "key": "B",
+         "text": "it is a ‘green’ sport."
+        },
+        {
+         "key": "C",
+         "text": "the boots are lightweight."
+        },
+        {
+         "key": "D",
+         "text": "you’re wrapped in skins."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "The most enjoyable thing about Nordic skiing is that you",
+       "options": [
+        {
+         "key": "A",
+         "text": "get good meals in the huts."
+        },
+        {
+         "key": "B",
+         "text": "meet friendly people on the way."
+        },
+        {
+         "key": "C",
+         "text": "can forget about queues."
+        },
+        {
+         "key": "D",
+         "text": "don’t need electric lights."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 30,
+       "stem": "Away from fashionable resorts you will",
+       "options": [
+        {
+         "key": "A",
+         "text": "live below the snowline."
+        },
+        {
+         "key": "B",
+         "text": "meet fewer people."
+        },
+        {
+         "key": "C",
+         "text": "get to know local people."
+        },
+        {
+         "key": "D",
+         "text": "have to use the nearest ski lift."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 8,
+    "13": 8,
+    "14": 9,
+    "15": 10,
+    "16": 10,
+    "17": 11,
+    "18": 12,
+    "19": 12,
+    "20": 13,
+    "21": 14,
+    "22": 14,
+    "23": 15,
+    "24": 15,
+    "25": 16,
+    "26": 17,
+    "27": 17,
+    "28": 18
+   },
+   "tasks": [
+    {
+     "id": "2008-okt-kozep-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about copyright. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-10) in the text."
+     ],
+     "title": "MOTHER PAYS UP",
+     "body": [
+      "A mother who faced a £4,000 compensation demand because her daughter downloaded music {{0}} the Internet has reached an out-of-court settlement.",
+      "Sylvia Price, 53, made an {{1}} to the British Phonographic Industry, which {{2}} accepted. The {{3}} of the payment has not been revealed.",
+      "Mrs Price had been shocked to be told last June that she {{4}} pay because 14-year-old Emily had broken copyright law. She was warned that, {{5}} refused, she would face a court case and even jail.",
+      "Mrs Price, from Cheltenham, had not even {{6}} that her daughter was using the computer in her bedroom {{7}} download songs via file-sharing software.",
+      "Emily, who collected 1,400 songs in two years, claimed she did not know {{8}} was illegal.",
+      "Mrs Price was {{9}} 88 people targeted in June by Wiggins Solicitors of London, who prosecute Internet pirates on behalf of record companies.",
+      "She said in June: “I can’t find {{10}} money. They’ll have to jail me. They should have sent a warning first.”"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "off"
+        },
+        {
+         "key": "B",
+         "text": "out of"
+        },
+        {
+         "key": "C",
+         "text": "from"
+        },
+        {
+         "key": "D",
+         "text": "down"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "operation"
+        },
+        {
+         "key": "B",
+         "text": "offer"
+        },
+        {
+         "key": "C",
+         "text": "order"
+        },
+        {
+         "key": "D",
+         "text": "opinion"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "has"
+        },
+        {
+         "key": "B",
+         "text": "will be"
+        },
+        {
+         "key": "C",
+         "text": "were"
+        },
+        {
+         "key": "D",
+         "text": "has been"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "lot"
+        },
+        {
+         "key": "B",
+         "text": "large"
+        },
+        {
+         "key": "C",
+         "text": "amount"
+        },
+        {
+         "key": "D",
+         "text": "bill"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "had to"
+        },
+        {
+         "key": "B",
+         "text": "had"
+        },
+        {
+         "key": "C",
+         "text": "need"
+        },
+        {
+         "key": "D",
+         "text": "can"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "although she"
+        },
+        {
+         "key": "B",
+         "text": "because she"
+        },
+        {
+         "key": "C",
+         "text": "if she"
+        },
+        {
+         "key": "D",
+         "text": "if she had"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "repeated"
+        },
+        {
+         "key": "B",
+         "text": "returned"
+        },
+        {
+         "key": "C",
+         "text": "received"
+        },
+        {
+         "key": "D",
+         "text": "realised"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "to"
+        },
+        {
+         "key": "B",
+         "text": "not to"
+        },
+        {
+         "key": "C",
+         "text": "no more"
+        },
+        {
+         "key": "D",
+         "text": "so that"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "which"
+        },
+        {
+         "key": "B",
+         "text": "it"
+        },
+        {
+         "key": "C",
+         "text": "there"
+        },
+        {
+         "key": "D",
+         "text": "all"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "none of"
+        },
+        {
+         "key": "B",
+         "text": "one of"
+        },
+        {
+         "key": "C",
+         "text": "in front of"
+        },
+        {
+         "key": "D",
+         "text": "either of"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "so little"
+        },
+        {
+         "key": "B",
+         "text": "a lot"
+        },
+        {
+         "key": "C",
+         "text": "lot of"
+        },
+        {
+         "key": "D",
+         "text": "so much"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 9,
+     "instructions": [
+      "You are going to read a humorous story. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-L) for each gap (11-19) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "WORKING ON THE ROAD",
+     "body": [
+      "A fellow stopped at a rural gas station and, after filling his tank, he paid the {{0}} and bought a soft drink.",
+      "He stood by his car to drink his cola and {{11}} a couple of men working along the roadside. One dug a hole, two or three feet {{12}}, and then moved on. The other man came along behind and filled in the hole. While one was digging a new {{13}}, the other was about 25 feet behind filling in the old. \"I can't stand this,\" thought the man, {{14}} the can in a trash container and heading down the road toward the men.",
+      "\"Hold it, hold it,\" he said to the workers. \"{{15}} you tell me what's going on here with this digging?\"",
+      "\"Well, we work for the county government,\" one of the men said.",
+      "\"But one of you is digging a hole and the {{16}} is filling it up.",
+      "You're not accomplishing anything. Aren't you {{17}} the county's money?\"",
+      "\"You {{18}} understand, mister,\" one of the men said.",
+      "\"Normally, there are three of us, Rodney, Mike and me. I dig the hole, Rodney puts in the tree and Mike here puts the earth {{19}}. Now that Rodney's sick, it doesn't mean we can't work, does it?\""
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BACK"
+      },
+      {
+       "key": "B",
+       "text": "BILL"
+      },
+      {
+       "key": "C",
+       "text": "CAN"
+      },
+      {
+       "key": "D",
+       "text": "DEEP"
+      },
+      {
+       "key": "E",
+       "text": "DON’T"
+      },
+      {
+       "key": "F",
+       "text": "HOLE"
+      },
+      {
+       "key": "G",
+       "text": "OTHER"
+      },
+      {
+       "key": "H",
+       "text": "OFFERED"
+      },
+      {
+       "key": "I",
+       "text": "THROWING"
+      },
+      {
+       "key": "K",
+       "text": "WASTING"
+      },
+      {
+       "key": "L",
+       "text": "WATCHED"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "L"
+      },
+      {
+       "n": 12,
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "answer": "F"
+      },
+      {
+       "n": 14,
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "answer": "G"
+      },
+      {
+       "n": 17,
+       "answer": "K"
+      },
+      {
+       "n": 18,
+       "answer": "E"
+      },
+      {
+       "n": 19,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a dog’s adventures. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (20-28) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "DOG LOST IN COLORADO FOUND IN TENNESSEE",
+     "body": [
+      "Seven months after disappearing from her yard in Colorado, a terrier named Daisy walked into {{0}} arms of Tracie Crass in Knoxville, 1,300 miles away. Thanks {{20}} Tracie, Daisy got an airplane ride home.",
+      "Tracie noticed 2-year-old Daisy wandering down her sidewalk {{21}} Christmas Eve. She thought the 12-pound dog had slipped out of its home during the holiday festivities, so she brought the animal to her house and waited for its owner {{22}} come looking for it. {{23}} no one showed up by the next day, Tracie telephoned the number on Daisy's collar. She reached Daisy's veterinarian, who contacted Daisy's owner, Vanda Lundstrom.",
+      "\"The kindness of people gives you hope,\" Vanda said. \"It's {{24}} best Christmas present I’ve ever had.\" A cell phone photograph of Daisy sent to Tracie confirmed it was the same little dog {{25}} dug a hole under the fence at Vanda’s home in April and disappeared. With the help {{26}} Knoxville's Animal Center, Daisy flew home on Wednesday.",
+      "Vanda has never been to Knoxville and does {{27}} know anybody there. She believes somebody stole Daisy. She says she {{28}} already filled in the hole under her fence. \"I'm going to do everything to make sure it doesn't happen again,\" she said."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "When",
+        "As",
+        "Since",
+        "After",
+        "Because"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "that",
+        "which",
+        "as",
+        "who"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "has"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 14,
+    "11": 15,
+    "12": 17,
+    "13": 18,
+    "14": 19,
+    "15": 21,
+    "16": 22,
+    "17": 23,
+    "18": 25,
+    "19": 26,
+    "20": 28,
+    "21": 29,
+    "22": 30,
+    "23": 32,
+    "24": 33
+   },
+   "tasks": [
+    {
+     "id": "2008-okt-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a short news report about an interesting championship.",
+      "Your task is to give short answers to the questions below.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_08okt_fl.mp3",
+      "start": 0,
+      "end": 646.59,
+      "clip": "hang/k_angol_08okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What was the winner's nickname? {{gap}}",
+       "accept": [
+        "Cookie"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "How many sandwiches did the champion eat? {{gap}}",
+       "key": "19",
+       "keywords": [
+        [
+         "19"
+        ],
+        [
+         "nineteen"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "How many people ate 10 sandwiches during the 10 minutes allowed? {{gap}}",
+       "key": "2",
+       "keywords": [
+        [
+         "2"
+        ],
+        [
+         "two"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "How long was the extra time which decided about the third place? {{gap}}",
+       "key": "1 minute",
+       "keywords": [
+        [
+         "1",
+         "minute"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "How many contestants took part in the Little Rock contest? {{gap}}",
+       "key": "6",
+       "keywords": [
+        [
+         "6"
+        ],
+        [
+         "six"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "How many cities took part in the GoldenPalace.com Championship? {{gap}}",
+       "key": "15",
+       "keywords": [
+        [
+         "15"
+        ],
+        [
+         "fifteen"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "What exactly is GoldenPalace.com? {{gap}}",
+       "key": "a(n online) casino // one of the sponsors",
+       "keywords": [
+        [
+         "casino"
+        ],
+        [
+         "one",
+         "sponsors"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "How much money did the winner get? {{gap}}",
+       "key": "$1,000/one thousand dollars",
+       "keywords": [
+        [
+         "dollars",
+         "1000",
+         "dollars"
+        ],
+        [
+         "dollars",
+         "one",
+         "thousand",
+         "dollars"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2008-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with Chrissie, who has been living in Hungary for some time.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_08okt_fl.mp3",
+      "start": 646.59,
+      "end": 1225.31,
+      "clip": "hang/k_angol_08okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Chrissie can …",
+       "options": [
+        {
+         "key": "A",
+         "text": "say one or two words in Hungarian."
+        },
+        {
+         "key": "B",
+         "text": "manage everyday situations in Hungarian."
+        },
+        {
+         "key": "C",
+         "text": "speak Hungarian as well as English."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Chrissie's … can't speak Hungarian.",
+       "options": [
+        {
+         "key": "A",
+         "text": "flatmate"
+        },
+        {
+         "key": "B",
+         "text": "father"
+        },
+        {
+         "key": "C",
+         "text": "step-father"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "Chrissie has been staying in Hungary for …",
+       "options": [
+        {
+         "key": "A",
+         "text": "about six months."
+        },
+        {
+         "key": "B",
+         "text": "a year."
+        },
+        {
+         "key": "C",
+         "text": "over a year."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "Chrissie thinks Hungarian men are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "sometimes irritating."
+        },
+        {
+         "key": "B",
+         "text": "always unfriendly."
+        },
+        {
+         "key": "C",
+         "text": "generally unreliable."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "Chrissie thinks elderly people in Hungary are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a little unhelpful."
+        },
+        {
+         "key": "B",
+         "text": "usually unhappy."
+        },
+        {
+         "key": "C",
+         "text": "rather aggressive."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Chrissie finds Hungarian food …",
+       "options": [
+        {
+         "key": "A",
+         "text": "delicious."
+        },
+        {
+         "key": "B",
+         "text": "exotic."
+        },
+        {
+         "key": "C",
+         "text": "hot and spicy."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Chrissie misses … shops.",
+       "options": [
+        {
+         "key": "A",
+         "text": "exclusive"
+        },
+        {
+         "key": "B",
+         "text": "non-stop"
+        },
+        {
+         "key": "C",
+         "text": "old-fashioned"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Chrissie likes it that Hungarians are very …",
+       "options": [
+        {
+         "key": "A",
+         "text": "friendly."
+        },
+        {
+         "key": "B",
+         "text": "generous."
+        },
+        {
+         "key": "C",
+         "text": "open."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2008-okt-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section you are going to hear a story about a psychologist and a genie.",
+      "Your task is to fill in each gap in the sentences below with one word.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_08okt_fl.mp3",
+      "start": 1225.31,
+      "end": 1800.84,
+      "clip": "hang/k_angol_08okt_fl_H3.mp3"
+     },
+     "body": [
+      "A psychologist was walking along a {{0}} in Hawaii when he found a {{15}} in the sand. When he opened it, to his surprise he saw a cloud of {{16}} and a genie.",
+      "The genie said he would grant the psychologist one {{17}} for his kindness. What the psychologist wanted was nothing less than a {{18}} from Hawaii to California. The genie complained that the psychologist was asking for too much, as the construction would require too many posts and too much concrete and {{19}}. Not wanting to be {{20}}, the psychologist agreed to ask for something else: now he wanted the genie to make him understand his {{21}}. He wanted to know why they laughed and {{22}} and also why they were so {{23}} to get along with. The poor genie just sighed and asked if the psychologist wanted two {{24}} or four."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "beach"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "bottle"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "smoke"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "wish"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "road",
+        "highway"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "steel"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "unreasonable"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "patients"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "cried"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "difficult"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "lanes"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1643 @@
+{
+ "formatVersion": 1,
+ "id": "2013-okt-emelt",
+ "year": 2013,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2013-10-17",
+ "code": "1211",
+ "sourceFiles": {
+  "paper": "2013 - Emeltszintű októberi/e_angol_13okt_fl.pdf",
+  "key": "2013 - Emeltszintű októberi/e_angol_13okt_ut.pdf",
+  "audio": "2013 - Emeltszintű októberi/e_angol_13okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2013-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this text about an outdoor music festival some parts of sentences are missing.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "SUN, SAND AND SYMPHONIES",
+     "body": [
+      "Towards the end of Wagner’s Tannhäuser Overture, the heavens open. Those audience members in the know {{0}}, others go scurrying for shelter. But the orchestra and its instruments are under cover, and {{1}} at an outdoor music festival? Well, this is no polite British drizzle, it’s a tropical downpour − {{2}} when holding a classical music festival in the Seychelles. However, the deluge only lasts a couple of minutes, and the audience drifts back to hear Tchaikovsky’s Violin Concerto. It’s all part of the charm of {{3}} in the tropics, four degrees south of the Equator.",
+      "But, I hear you ask, since when has this remote archipelago in the middle of the Indian Ocean had a dedicated classical music festival? The answer is, for the past 10 years. This biennial event {{4}} in May and June and involves everything from choral works to chamber-music recitals and children’s concerts. It’s all {{5}} of Marc Sabadin, a retired Seychelles-born teacher. Sabadin proudly tells me his festival is the biggest international classical music event outside Europe and America. It’s {{6}} but it hasn’t been easy.",
+      "The logistics of transporting an entire symphony orchestra to an island 1000 miles east of Kenya is mind-boggling. The adventure {{7}} where the Air Seychelles flight to Mahé, the main Seychelles island, is packed with choristers, musicians and their instruments.",
+      "Most of the Festival’s concerts {{8}} around Mahé but, for the first time in 2006, the Festival held a chamber concert on the small island of La Digue, a little Garden of Eden where life is laid back and residents get around by bicycle or ox-drawn cart. Ten or so musicians pack into the pastel-coloured Catholic church in the centre of the island and perform a selection of Haydn, Mozart and Ravel. The atmosphere is magical.",
+      "(Classic FM)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "lying on this beautiful beach"
+      },
+      {
+       "key": "B",
+       "text": "take place in various venues"
+      },
+      {
+       "key": "C",
+       "text": "have brought umbrellas"
+      },
+      {
+       "key": "D",
+       "text": "starts at London Heathrow"
+      },
+      {
+       "key": "E",
+       "text": "quite an achievement"
+      },
+      {
+       "key": "F",
+       "text": "resident in England"
+      },
+      {
+       "key": "G",
+       "text": "what’s a bit of rain"
+      },
+      {
+       "key": "H",
+       "text": "attending a festival"
+      },
+      {
+       "key": "I",
+       "text": "a risk you run"
+      },
+      {
+       "key": "K",
+       "text": "runs for two weeks"
+      },
+      {
+       "key": "L",
+       "text": "down to the tireless efforts"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "I"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "K"
+      },
+      {
+       "n": 5,
+       "answer": "L"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article about a world-famous photographer and then read the half sentences that follow it.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "RARE ROBERT CAPA PRINT IN AUCTION",
+     "body": [
+      "A rare photograph by celebrated Hungarian war photographer Robert Capa is to be sold at auction as part of one of the greatest collections of historic news images − owned by the veteran Life magazine photo editor John G. Morris.",
+      "The Capa photograph of a Gypsy wedding in Slovakia in 1947 could be the rarest surviving image by the Magnum agency photographer, who was killed covering the conflict in Indochina in 1954. The photo survives only as a single print, with the negative thought to have been lost in the 1950s, and is expected to fetch up to £9,000 in Paris on 20 April.",
+      "The collection of photographs from the 1930s to the 1970s was amassed over 70 years by the veteran magazine photo editor John G. Morris, a colleague and close friend of many of the 20th century’s greatest newspaper and magazine photographers. Morris, now aged 94, was the London picture editor of Life magazine during the Second World War. At its peak, Life regularly sold millions of copies a week.",
+      "Capa had already been hailed as the world’s greatest war photographer for his Spanish civil war images, including the famous “falling soldier” shot, when Morris worked with him on the story that led to the most famous series of photographs of all time − the surviving “magnificent 11” shots of US troops landing on Omaha Beach in Normandy on D-Day.",
+      "Also included in the auction, entitled The Photo Diary of John G. Morris, are hitherto unseen photographs taken by Morris in France soon after D-Day, while he was working with his staff photographers on the frontline. Of great interest to photo-historians is a rare shot of Capa at work, photographing German prisoners being rounded up in Normandy. No other shot of Capa at work in a war zone is known to exist.",
+      "“As far as I know, this is the first photojournalism collection to come on to the art market,” said Morris. “My personal favourite is the Capa shot of the Gypsies. That picture seems to touch people. Capa’s humanity was special; he had a feeling for people, an instant rapport with almost anybody.”",
+      "(The Observer)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "was taken in Spain."
+      },
+      {
+       "key": "B",
+       "text": "spent decades building this collection."
+      },
+      {
+       "key": "C",
+       "text": "belonging to Morris will be auctioned."
+      },
+      {
+       "key": "D",
+       "text": "used to be immensely popular at one time."
+      },
+      {
+       "key": "E",
+       "text": "is evident in his photos."
+      },
+      {
+       "key": "F",
+       "text": "has publication marks on it."
+      },
+      {
+       "key": "G",
+       "text": "was killed in Indochina."
+      },
+      {
+       "key": "H",
+       "text": "will be made into a film."
+      },
+      {
+       "key": "I",
+       "text": "is probably Capa’s rarest photo."
+      },
+      {
+       "key": "K",
+       "text": "shows Capa himself."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "A rare Capa photograph",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "Robert Capa",
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "stem": "Gipsy wedding",
+       "answer": "I"
+      },
+      {
+       "n": 11,
+       "stem": "John G. Morris",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Life magazine",
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "stem": "The \"falling soldier\" photo",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "One photo by Morris",
+       "answer": "K"
+      },
+      {
+       "n": 15,
+       "stem": "Capa’s humanity",
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this article about a new website and then read the statements (16-25) following it.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "POTTERMORE WEBSITE LAUNCHED BY JK ROWLING",
+     "body": [
+      "JK Rowling shocked and thrilled her fans in equal measure today, with the revelation that her new venture Pottermore was set to feature a wealth of new and previously unpublished material about the world of Harry Potter.",
+      "Although the author made it clear that she had “no plans to write another novel”, the fresh Potter material − to be launched later this year – already stretches to 18,000 words about the novel’s characters, places and objects at Hogwarts School of Wizardry, with more to come. From Professor McGonagall’s love for a Muggle (a non-wizard) as a young woman, to how the Dursleys (Harry’s horrible uncle and aunt) met; from new information about Slytherin, Ravenclaw and Hufflepuff, three of the four houses at Hogwarts, to details about magic wands, Rowling’s writing will be just one part of the richly interactive, free Pottermore.com website. Pottermore.com is intended to bring the Harry Potter storylines to interactive life for readers. “Just as I have contributed to the website, everyone else will be able to join in by submitting their own comments, drawings and other content in a safe and friendly environment,” Rowling said.",
+      "Starting with the first novel in the series, Harry Potter and the Philosopher’s Stone, Pottermore will allow its users to navigate their way through the story with interactive ‘moments’. Users start out by choosing a magical username, and as they move through the chapters of the book they will be sorted into houses − Rowling herself has written a ‘vast pool’ of questions to direct users to their correct home − and experience life at the school, just like Harry. Points can be won for houses by casting spells and mixing potions − and Rowling herself will be dropping in ‘as an ordinary visitor’ now and then.",
+      "“If you are not sorted into Harry’s house, Gryffindor, if you go into one of the other three houses, you will effectively get an extra quarter of a chapter. You will go off into your own common room, meet your own prefect, and find out what the true nature of the house is. In the main novel you only see the houses through the eyes of the heroes. So it’s not a terrible thing to be in Slytherin,” said the author.",
+      "For the moment, Pottermore will be restricted to the first book, but all seven books will be added in due course with new material from Rowling − including, she promised, a more detailed explanation of Quidditch, the wizarding sport played at Hogwarts.",
+      "(www.guardian.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "JK Rowling has revealed to fans that she has the resources to start a new website without outside financial support.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "The website called Pottermore will see the publication of her new novel.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The author also plans to write some 18,000 words of background material to the Harry Potter novels.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Pottermore will feature new information about some of the characters’ younger years.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "In Professor McGonagall’s love story some autobiographical elements are to be found.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "Although the site will be free for anyone to contribute, JK Rowling says it will be safe as well as friendly.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "JK Rowling has sought the advice of top internet safety experts to make the website secure for visitors.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Once visitors have a magical user name, they will be sorted into different houses on the basis of their answers to a variety of questions.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "How things develop will depend entirely on users − the author does not plan to appear on Pottermore.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Experiencing life at Hogwarts may bring surprises as users will not necessarily see things from the same angle as in the Harry Potter novels.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "There is still some doubt whether all seven Harry Potter books will appear on the new website.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article about a new university course, and then read the sentences following it.",
+      "Your task is to choose the letter (A-D) that best completes each half sentence (26-30) according to what the article says."
+     ],
+     "title": "VIRTUAL AND ARTIFICIAL BUT 58,000 WANT COURSE",
+     "body": [
+      "A free online course at Stanford University on artificial intelligence, to be taught this fall by two leading experts from Silicon Valley, has attracted more than 58,000 students around the globe − a class nearly four times the size of Stanford’s entire student body.",
+      "The online students will not get Stanford grades or credit, but they will be ranked in comparison to the work of other online students and will receive a “statement of accomplishment.”",
+      "For the artificial intelligence course, students may need some higher math, like linear algebra and probability theory, but there are no restrictions to online participation. So far, the age range is from high school to retirees, and the course has attracted interest from more than 175 countries.",
+      "The instructors are Sebastian Thrun and Peter Norvig, two of the world’s best-known artificial intelligence experts. In 2005 Dr. Thrun led a team of Stanford students and professors in building a robotic car that won a Pentagon-sponsored competition by driving 132 miles over unpaved roads in a California desert. More recently, he has led a secret Google project to develop autonomous vehicles that have driven more than 100,000 miles on public roads in California. Dr. Norvig is a former NASA scientist who is now Google’s director of research and the author of a textbook on artificial intelligence.",
+      "The two scientists said they had been inspired by the recent work of Salman Khan, an M.I.T.–educated electrical engineer, who in 2006 established a nonprofit organization to provide video tutorials to students around the world on a variety of subjects via YouTube. His vision is to change the world by bringing education to places that can’t be reached today. The Khan Academy focuses on high school and middle school.",
+      "How will the artificial intelligence instructors assess 58,000 students? The scientists said they would make extensive use of technology. In place of office hours, they will use the Google moderator service, software that will allow students to vote on the best questions for the professors to respond to in an online chat. They are considering personalizing the exams to minimize cheating. Part of the instructional software was developed by Know Labs, a company Dr. Thrun helped start.",
+      "(The New York Times)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Stanford University",
+       "options": [
+        {
+         "key": "A",
+         "text": "will start a new online course this autumn."
+        },
+        {
+         "key": "B",
+         "text": "would like to make the new course popular."
+        },
+        {
+         "key": "C",
+         "text": "will not pay the two Silicon Valley experts."
+        },
+        {
+         "key": "D",
+         "text": "will not allow Stanford students to enroll."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Online students will",
+       "options": [
+        {
+         "key": "A",
+         "text": "be assessed against Stanford students."
+        },
+        {
+         "key": "B",
+         "text": "not be told how well they are doing."
+        },
+        {
+         "key": "C",
+         "text": "not get a standard Stanford degree."
+        },
+        {
+         "key": "D",
+         "text": "have to work hard to gain credits."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "There are no special requirements for the course",
+       "options": [
+        {
+         "key": "A",
+         "text": "apart from applicants having finished secondary school."
+        },
+        {
+         "key": "B",
+         "text": "but of course some previous knowledge of mathematics will be helpful."
+        },
+        {
+         "key": "C",
+         "text": "although from certain countries it might be more difficult to join."
+        },
+        {
+         "key": "D",
+         "text": "but older people might find the course quite difficult to follow."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "The article says",
+       "options": [
+        {
+         "key": "A",
+         "text": "Dr Thrun and his team designed and produced a self-driven vehicle."
+        },
+        {
+         "key": "B",
+         "text": "Dr Thrun’s research work was sponsored by a Californian car factory."
+        },
+        {
+         "key": "C",
+         "text": "Dr.Thrun and Dr. Norvig worked on a secret Google project."
+        },
+        {
+         "key": "D",
+         "text": "Dr. Norvig is writing textbooks on artificial intelligence."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "Salman Khan’s work",
+       "options": [
+        {
+         "key": "A",
+         "text": "is targeted at younger people than the Stanford project."
+        },
+        {
+         "key": "B",
+         "text": "has proved more influential than was originally thought."
+        },
+        {
+         "key": "C",
+         "text": "forms the basis of a commercial educational venture."
+        },
+        {
+         "key": "D",
+         "text": "has changed educational practices worldwide."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 30,
+       "stem": "The new A.I. course",
+       "options": [
+        {
+         "key": "A",
+         "text": "will test students via the internet using multiple choice questions."
+        },
+        {
+         "key": "B",
+         "text": "has developed new types of personalized tests to stop cheating."
+        },
+        {
+         "key": "C",
+         "text": "may do away with online tests altogether."
+        },
+        {
+         "key": "D",
+         "text": "will make use of Know Labs software."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 43,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 13,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18,
+    "27": 19,
+    "28": 20,
+    "29": 20,
+    "30": 21,
+    "31": 22,
+    "32": 22,
+    "33": 23,
+    "34": 24,
+    "35": 24,
+    "36": 25,
+    "37": 26,
+    "38": 27,
+    "39": 27,
+    "40": 28,
+    "41": 29,
+    "42": 29,
+    "43": 30
+   },
+   "tasks": [
+    {
+     "id": "2013-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the history of teddy bears. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "TEDDY BEAR",
+     "body": [
+      "In November 1902 Theodore ‘Teddy’ Roosevelt, President of the US, was hunting in Mississippi. The President {{0}} to make a kill so his hosts {{1}} and tied a bear, presenting it to him as a target.",
+      "He refused to shoot it, saying: ‘Spare the bear! I {{2}} not shoot a tied animal.’ His action was immortalised in a Washington Post cartoon.",
+      "{{3}} same month Brooklyn shopkeeper Morris Michtom made a soft bear toy, {{4}} he named ‘Teddy’s Bear’ and displayed in his window with a copy of the cartoon. America {{5}} bear-mad almost overnight. At the same time, a factory in Germany {{6}} by seamstress Margarete Steiff {{7}} making a soft plush bear and sold 3,000 to America in March 1903.",
+      "{{8}} Steiff and Michtom were both making teddy bears at around the same time, neither would have known of the other's creation {{9}} to poor transatlantic communication. {{10}} to who created the very first bear, there is disagreement. (www.theteddybearmuseum.com.)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AS"
+      },
+      {
+       "key": "B",
+       "text": "BEGAN"
+      },
+      {
+       "key": "C",
+       "text": "FAILED"
+      },
+      {
+       "key": "D",
+       "text": "CAUGHT"
+      },
+      {
+       "key": "E",
+       "text": "DUE"
+      },
+      {
+       "key": "F",
+       "text": "MIGHT"
+      },
+      {
+       "key": "G",
+       "text": "OWNED"
+      },
+      {
+       "key": "H",
+       "text": "THAT"
+      },
+      {
+       "key": "I",
+       "text": "THOUGH"
+      },
+      {
+       "key": "K",
+       "text": "WENT"
+      },
+      {
+       "key": "L",
+       "text": "WHAT"
+      },
+      {
+       "key": "M",
+       "text": "WHICH"
+      },
+      {
+       "key": "N",
+       "text": "WILL"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "N"
+      },
+      {
+       "n": 3,
+       "answer": "H"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the first statue of Dickens in Britain. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (11-19) in the text."
+     ],
+     "title": "DICKENS TO GET UNWANTED STATUE",
+     "body": [
+      "The design has been chosen for the United Kingdom's first-ever statue {{0}} its greatest novelist, Charles Dickens (1812-1870), {{11}} of his request that there should be no monuments in his honour.",
+      "The decision to erect the statue was controversial. In his will Dickens wrote: \"I ask my friends {{12}} no account to make me the subject of any monument or memorial.\" Partly as a result, {{13}} such monuments exist in Sydney and Philadelphia as a tribute to his international popularity, there {{14}} a statue of the author in the UK.",
+      "His last will is now interpreted by many, including the writer's {{15}}, as a request that he should not have the kind of grand mausoleum popular in Victorian times. Ian Dickens, great-great grandson of the author, said the comments in the will {{16}} be taken in context. \"He was talking to his friends about his funeral and burial: the number of mourners and what {{17}} wearing. Also, he said he did not want some ghastly memorial. We absolutely believe that was in relation to the mausoleums so common in Victorian times.\"",
+      "Mr Dickens said the statue would show the personality of the great writer: his creativity, sparkle, wit and energy. The winning maquette was based on a photograph of Dickens reading {{18}} his daughters at his home in Kent. Mr Dickens said a statue of a seated figure would be more approachable. Children will not be {{19}} from climbing onto the statue's knee or its pile of books. \"Dickens was a man of the people and we wanted people to be able to interact easily with him.\"",
+      "(www.independent.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "by"
+        },
+        {
+         "key": "B",
+         "text": "about"
+        },
+        {
+         "key": "C",
+         "text": "of"
+        },
+        {
+         "key": "D",
+         "text": "from"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "because"
+        },
+        {
+         "key": "B",
+         "text": "despite"
+        },
+        {
+         "key": "C",
+         "text": "in spite"
+        },
+        {
+         "key": "D",
+         "text": "no matter"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "on"
+        },
+        {
+         "key": "B",
+         "text": "for"
+        },
+        {
+         "key": "C",
+         "text": "by"
+        },
+        {
+         "key": "D",
+         "text": "at"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "but"
+        },
+        {
+         "key": "B",
+         "text": "although"
+        },
+        {
+         "key": "C",
+         "text": "however"
+        },
+        {
+         "key": "D",
+         "text": "nevertheless"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "had never been"
+        },
+        {
+         "key": "B",
+         "text": "will never be"
+        },
+        {
+         "key": "C",
+         "text": "would never be"
+        },
+        {
+         "key": "D",
+         "text": "has never been"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "descendants"
+        },
+        {
+         "key": "B",
+         "text": "ancestors"
+        },
+        {
+         "key": "C",
+         "text": "friends"
+        },
+        {
+         "key": "D",
+         "text": "predecessors"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "need"
+        },
+        {
+         "key": "B",
+         "text": "must"
+        },
+        {
+         "key": "C",
+         "text": "has to"
+        },
+        {
+         "key": "D",
+         "text": "-"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "should they be"
+        },
+        {
+         "key": "B",
+         "text": "they have been"
+        },
+        {
+         "key": "C",
+         "text": "they should be"
+        },
+        {
+         "key": "D",
+         "text": "have they been"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "out"
+        },
+        {
+         "key": "C",
+         "text": "to"
+        },
+        {
+         "key": "D",
+         "text": "at"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "disapproved"
+        },
+        {
+         "key": "B",
+         "text": "discouraged"
+        },
+        {
+         "key": "C",
+         "text": "disturbed"
+        },
+        {
+         "key": "D",
+         "text": "dismissed"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about the rhino horn trade. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-29).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "INTERNATIONAL ACTION AGAINST RHINO HORN TRADE",
+     "body": [
+      "Britain has achieved international {{0}} to limit the illegal trade in rhino horn, which has become so sought after it is now worth more than diamonds, gold, heroin and cocaine. The UK will lead {{20}} talks to fight the myths that rhino horn can cure cancer or help with strokes, which are fuelling demand for it in Asia so much that it is worth £50,000 a kilo.",
+      "Environment Secretary Caroline Spelman said: \"{{21}} trading in rhino horn have lined their pockets while bringing this {{22}} animal to the brink of extinction, but their days are numbered.\" Countries and conservation groups across the world will also work together by sharing information and public {{23}} campaigns against the illegal trade. The UK will support a workshop in South Africa in September to help develop better {{24}} between countries where rhinos are poached and countries where their horns are sold.",
+      "Last year, after the UK's Animal Health agency detected a {{25}} in the number of rhino horn products sold through auction houses in the country, it issued a {{26}} that it would be refusing almost all {{27}} to export such items from the UK. It was feared that the legal export of \"worked items\", such as ornaments, created and acquired before June 1947, was used to send rhino horn to Asia, where it is powdered and used for {{28}} purposes.",
+      "Under rules brought in for the UK and then backed by the EU, export licences are now only granted under special circumstances – e.g. if the item is of such {{29}} value that it exceeds its potential value on the black market. (www.independent.com.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "agree",
+       "example": true,
+       "accept": [
+        "agreement"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "globe",
+       "accept": [
+        "global"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "crime",
+       "accept": [
+        "criminals"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "magnificence",
+       "accept": [
+        "magnificent"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "aware",
+       "accept": [
+        "awareness"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "co-operate",
+       "accept": [
+        "co-operation"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "rise",
+       "accept": [
+        "rise"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "warn",
+       "accept": [
+        "warning"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "apply",
+       "accept": [
+        "applications"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "medicine",
+       "accept": [
+        "medicinal",
+        "medical"
+       ]
+      },
+      {
+       "n": 29,
+       "prompt": "art",
+       "accept": [
+        "artistic"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 14,
+     "instructions": [
+      "You are going to read an anecdote about Albert Einstein. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE PAPER CLIP",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Albert Einstein (1879-1955) was a Nobel Prize-winning theoretical",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "physicist. He has developed the theory of relativity and published",
+       "answer": "has"
+      },
+      {
+       "n": 30,
+       "text": "lot more than 300 scientific papers along with over 150 non-",
+       "answer": "lot"
+      },
+      {
+       "n": 31,
+       "text": "scientific works. Since his great intelligence and originality have",
+       "answer": "since"
+      },
+      {
+       "n": 32,
+       "text": "made up the word \"Einstein\" synonymous with genius.",
+       "answer": "up"
+      },
+      {
+       "n": 33,
+       "text": "There are several funny stories talked about him but Einstein once",
+       "answer": "talked"
+      },
+      {
+       "n": 34,
+       "text": "told to an assistant at Princeton University that the following was",
+       "answer": "to"
+      },
+      {
+       "n": 35,
+       "text": "the most characteristic anecdote that could be told of him.",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "Einstein and an assistant, having been finished a paper, searched",
+       "answer": "been"
+      },
+      {
+       "n": 37,
+       "text": "the office for a paper clip. They had finally found one but it was too",
+       "answer": "had"
+      },
+      {
+       "n": 38,
+       "text": "badly bent to use. They looked for an implement to straighten",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "it, and after opening many more drawers came upon with a whole",
+       "answer": "with"
+      },
+      {
+       "n": 40,
+       "text": "box of clips. Einstein at least once shaped one into a tool to",
+       "answer": "least"
+      },
+      {
+       "n": 41,
+       "text": "straighten the bent clip. His assistant, puzzled, asked that why he",
+       "answer": "that"
+      },
+      {
+       "n": 42,
+       "text": "was doing this when there was a whole boxful of usable clips.",
+       "answer": null
+      },
+      {
+       "n": 43,
+       "text": "\"Once again I am set on a goal it becomes difficult to distract me,\"",
+       "answer": "again"
+      }
+     ],
+     "outro": "said Einstein. (Paw Prints Anecdotes)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2013-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear a museum guide describing a famous painting by Van Gogh called La Berceuse.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_13okt_fl.mp3",
+      "start": 0,
+      "end": 612.43,
+      "clip": "hang/e_angol_13okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Van Gogh painted this picture at the beginning of the 1880s.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "Van Gogh was forced to go to hospital.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "Van Gogh and Augustine’s husband were friends.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "A lot of people visited Van Gogh in the hospital.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "Van Gogh’s neighbours behaved in a friendly manner towards him.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "In the painting, Augustine represents the sorrows and hopelessness of life.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "Van Gogh didn’t like the attitude and way of thinking of farmers.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Augustine’s hands bear the signs of farm labour.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The other end of the rope in Augustine’s hand must be tied to a cradle.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Van Gogh often painted backgrounds that contrasted with the character of his models.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The wallpaper was designed by Augustine.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "Augustine Roulin must have been a strong and energetic woman.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Van Gogh thought that Augustine chose the best version of the paintings.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2013-okt-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 10,
+     "instructions": [
+      "In this section, you will hear some information about a building in Germany.",
+      "Your task will be to complete the sentences with the exact words you hear in the text. Write one word in each gap, that is, two words in each item.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_13okt_fl.mp3",
+      "start": 612.43,
+      "end": 1102.61,
+      "clip": "hang/e_angol_13okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Blueprints for the German {{gap}} {{gap}} building had been stolen.",
+       "gaps": [
+        [
+         "Intelligence"
+        ],
+        [
+         "Agency"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "A high-ranking official called the technical and logistics centre the {{gap}} {{gap}} of the complex.",
+       "gaps": [
+        [
+         "beating"
+        ],
+        [
+         "heart"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Besides the function of every single room, the plan also included the exact position of every {{gap}} {{gap}} and every security checkpoint.",
+       "gaps": [
+        [
+         "emergency"
+        ],
+        [
+         "exit"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "According to analysts, the theft is a(n) {{gap}} {{gap}} for the German Intelligence Agency.",
+       "gaps": [
+        [
+         "major"
+        ],
+        [
+         "embarrassment"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "A security expert thinks that criminals or terrorists might break in and {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "commit"
+        ],
+        [
+         "crimes"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Officials don’t take the theft very seriously, saying that although the blueprints were {{gap}} {{gap}}, they were not top secret.",
+       "gaps": [
+        [
+         "labelled"
+        ],
+        [
+         "confidential"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "According to ARD, the theft had taken place from the {{gap}} {{gap}} construction site.",
+       "gaps": [
+        [
+         "supposedly"
+        ],
+        [
+         "secure"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Because of the September 11 attacks on the World Trade Center, the German government re-evaluated its {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "security"
+        ],
+        [
+         "priorities"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "At the construction site, the use of cameras or cell phones is {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "strictly"
+        ],
+        [
+         "forbidden"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Construction work is expected to be completed within {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "three",
+         "3"
+        ],
+        [
+         "years"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "A German newspaper called the complex the {{gap}} {{gap}} and secret building in the country.",
+       "gaps": [
+        [
+         "most"
+        ],
+        [
+         "expensive"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak akkor adható pont, ha MINDKETTŐ szó elfogadható!)"
+     }
+    },
+    {
+     "id": "2013-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an interview with John Williams, who composed the score for Star Wars.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_13okt_fl.mp3",
+      "start": 1102.61,
+      "end": 1795.42,
+      "clip": "hang/e_angol_13okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Stephen Spielberg …",
+       "options": [
+        {
+         "key": "A",
+         "text": "and George Lucas were friends in the 70s."
+        },
+        {
+         "key": "B",
+         "text": "has never worked with John Williams."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "John Williams …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had already met George Lucas before meeting Stephen Spielberg."
+        },
+        {
+         "key": "B",
+         "text": "wrote the music for Jaws."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "John Williams …",
+       "options": [
+        {
+         "key": "A",
+         "text": "didn’t know there would be more than one Star Wars film."
+        },
+        {
+         "key": "B",
+         "text": "thinks that Lucas had more than one Star Wars film in mind from the start."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "John Williams ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "found a lot of inspiration in the script."
+        },
+        {
+         "key": "B",
+         "text": "doesn’t remember if he was offered to read the script or not."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "John Williams ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "didn’t see the final version of Star Wars when he first saw the film."
+        },
+        {
+         "key": "B",
+         "text": "decided on his own which parts of the film would have music."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "According to John Williams ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "everybody was surprised at the huge success of Star Wars."
+        },
+        {
+         "key": "B",
+         "text": "every culture has a similar figure to Darth Vader."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "John Williams ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was following George Lucas’s idea about the mood of the music."
+        },
+        {
+         "key": "B",
+         "text": "wanted to emphasize the strangeness of unknown lands with the music."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 29,
+       "stem": "John Williams ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was inspired by music from the 19th century."
+        },
+        {
+         "key": "B",
+         "text": "thinks the music of the film is cross-cultural."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 30,
+       "stem": "John Williams ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "denies that full orchestral scores were out of fashion in the 50s and 60s."
+        },
+        {
+         "key": "B",
+         "text": "agrees that his music paved the way for the success of symphony orchestras."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

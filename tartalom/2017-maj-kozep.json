@@ -1,0 +1,1177 @@
+{
+ "formatVersion": 1,
+ "id": "2017-maj-kozep",
+ "year": 2017,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2017-05-11",
+ "code": "1711",
+ "sourceFiles": {
+  "paper": "2017 - Középszintű májusi/k_angol_17maj_fl.pdf",
+  "key": "2017 - Középszintű májusi/k_angol_17maj_ut.pdf",
+  "audio": "2017 - Középszintű májusi/k_angol_17maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 31,
+    "27": 32,
+    "28": 33
+   },
+   "tasks": [
+    {
+     "id": "2017-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this part from the afterword to the book How to Make a Spaceship, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (1-8) from the list (A-K) below.",
+      "Remember that there is one extra phrase that you will not need."
+     ],
+     "title": "HAWKING ON SPACE TRAVEL",
+     "body": [
+      "In this extract from How To Make A Spaceship, Stephen Hawking explains why he said yes when offered a seat on Virgin’s SpaceShipTwo and {{0}}.",
+      "‘I have no fear of adventure. Years ago I barrelled down the steepest hills of San Francisco in my wheelchair. I travel widely and have been to Antarctica and Easter Island and {{1}}. In 2007, after my sixty-fifth birthday, I did something special: I experienced zero gravity. It temporarily took away my disability and {{2}}. After forty years in a wheelchair, I had four wonderful minutes of weightlessness. I travelled in a modified Boeing 727 jet over the ocean off Florida which {{3}}. It has always been my dream to travel into space, and the experience was amazing.",
+      "Now I have a chance to travel to the start of space aboard a Virgin Galactic SpaceShip. Richard Branson is opening spaceflight up for ordinary citizens, and {{4}}. I immediately said yes to Richard when he offered me a seat on SpaceShipTwo. I have lived with ALS, amyotrophic lateral sclerosis, for fifty years. When I was diagnosed at age twenty- one, I was given two years to live. I was starting my PhD at Cambridge and {{5}} whether the universe had always existed and would always exist or had begun with a big explosion. As my body grew weaker, my mind grew stronger. I lost the use of my hands and {{6}}, but I developed ways of travelling through the universe in my mind and visualising how it all worked.",
+      "I believe that we need a new generation of astronauts to explore our solar system. These first private astronauts will be pioneers, and {{7}}. It is my belief, and it is the message of Julian Guthrie’s book, for which I have written the afterword, that there is no limit to human effort. Raise your sights. Be brave and kind. Remember to look up at the stars and {{8}}. Space, here I come!’",
+      "(https://www.theguardian.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "facing the scientific challenge of determining"
+      },
+      {
+       "key": "B",
+       "text": "gave me a feeling of true freedom"
+      },
+      {
+       "key": "C",
+       "text": "why we need a new generation of explorers"
+      },
+      {
+       "key": "D",
+       "text": "not at your feet"
+      },
+      {
+       "key": "E",
+       "text": "if I am lucky, I hope to be among the early passengers"
+      },
+      {
+       "key": "F",
+       "text": "down in a submarine"
+      },
+      {
+       "key": "G",
+       "text": "could no longer write equations"
+      },
+      {
+       "key": "H",
+       "text": "trying to catch them"
+      },
+      {
+       "key": "I",
+       "text": "they will help to change the world for good"
+      },
+      {
+       "key": "K",
+       "text": "did manoeuvres that took me into this state of weightlessness"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "E"
+      },
+      {
+       "n": 5,
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "I"
+      },
+      {
+       "n": 8,
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-kozep-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about how a fisherman’s glasses were found and then read the sentences (9-16) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "OPTICIAN FINDS FISHERMAN'S GLASSES IN THE SEA",
+     "body": [
+      "Mike Richardson, aged 69, was working on a friend's boat in Swansea Marina when his £250 prescription glasses fell into the water. He wanted to order a new pair, but when a local optician, Nick King, heard about the accident he decided to help.",
+      "Diving as a qualified British Sub-Aqua Club national instructor, Nick used 31 years of experience to find Mike's lost glasses 20 feet down at the bottom of the Marina. He turned up holding the glasses after a five-minute search.",
+      "Mike said: ‘When my glasses fell into the water I thought I'd have to buy a new pair, but luckily my friend knew Nick and called him for advice. He arrived within two hours of the call and started searching the Marina in the area around the boat. We thought he'd never find them because it's very dark water down there. After five minutes there were a lot of people at the scene who came to watch and we were all amazed when Nick came up from the freezing water with my glasses! No one could believe it when we found out that Nick was actually an optician from the local Specsavers!’",
+      "The glasses were fine to use after a quick wash. Mike added: ‘I'm extremely grateful to Nick for returning my glasses to me!’",
+      "Nick said: ‘Looking for lost glasses isn't normally part of the Specsavers service, but when I heard about Mike's problem I couldn't resist helping him out. I have dived all over the world, but my dive in Swansea's Marina was unique, as I was able to use my diving skills to help a Specsavers patient in such an exceptional way!’",
+      "(www.thewave.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mike Richardson was working on his daughter’s boat when his glasses fell into the sea.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Mike Richardson thought he would have to get new glasses.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Nick King had several years’ experience as a diver.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "He found the glasses two hours after jumping into the water.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Nick King had been contacted by Mike’s friend.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Nick King bought his diving equipment shortly before the incident.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "The glasses did not need to be repaired.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Nick King had already found lots of lost items.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "The company Specsavers regularly offers to help find lost glasses.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-kozep-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about the benefits of taking a nap.",
+      "In the sentences (17-22) that follow the text there are some gaps.",
+      "Your task is to fill each gap with one word so that the sentences correspond to what the text says."
+     ],
+     "title": "THE SECRET OF POWER NAPPING",
+     "body": [
+      "The power of the nap cannot be ignored. A recent study at Düsseldorf University has shown that even very short naps improve your memory. Looking at their effects on pilots on long flights, the researchers reported: “Naps can greatly improve both your energy level and general mood.”",
+      "Naps are of critical importance to pilots, but they can have the same benefits for anyone. Taking a nap for about half an hour is the most practical. If you want to try it yourself, have a coffee beforehand, so that it takes effect towards the end of your nap. Don’t sip your coffee too slowly, as you might find it’s already taking effect as you begin your nap.",
+      "The truth is that we can nap anywhere. The best way is to find a spot where you can make yourself comfortable at some point during the afternoon period – an unused office, the sofa in the staff room or even in the park. Then close your eyes and just let go. Some people say that they simply “can’t nap” and they won’t be able to fall asleep. But here is the thing: it doesn’t matter. What’s important is that you use this period to close your eyes and disconnect from the world for a short while.",
+      "After a nap, take five minutes to become aware of your surroundings and have a cup of tea or a glass of water. One more thing - light will reduce any tiredness quickly, so you will be full of energy and enjoy all the benefits of your nap.",
+      "(bbc.co.uk)",
+      "According to the article you cannot overlook the importance of taking a(n) nap during the day.",
+      "Just a brief nap will help you {{17}} things better.",
+      "It’s a good idea to have a(n) {{18}} minute nap in the afternoon.",
+      "If you drink your coffee very {{19}}, you won’t be able to have a nap.",
+      "During a nap, it’s not that important to actually {{20}}.",
+      "After a nap it’s a good idea to give yourself a little time to wake up and to {{21}} something.",
+      "After a short nap {{22}} will help you feel energetic again."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 17,
+       "accept": [
+        "remember"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "thirty",
+        "30"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "slowly"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "sleep"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "drink"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "light"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following story about a clever invention and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "BIKE LOCK DEVELOPED THAT MAKES THIEVES IMMEDIATELY VOMIT",
+     "body": [
+      "A thief approaches a bicycle, with an electric saw in his hand. He starts to drill, and is shot in the face with a foul spray that makes him vomit uncontrollably. This is the dream of the inventor of SkunkLock.",
+      "“Basically I was fed up with thefts,” says inventor Daniel Idzkowski. “The real last straw was when a friend parked his very expensive electric bike outside a café, and then went to have lunch and chat. When he left, his bike was gone.” He was outraged.",
+      "“I realized that the biggest problem is that most people don’t know that the lock that they bought for $20 is absolutely worthless. It costs at least $100 to get at least somewhere close to where you can at least limit the chances of a thief wanting to steal your bike. With the right tools a thief could cut through most locks in less than a minute. Thieves talk in seconds: a 15-second bike, a 20-second bike, and it goes up to 60-second bikes.”",
+      "Idzkowski created a U-shaped lock of carbon and steel with a hollow chamber to hold a pressurized gas. When someone cuts about 30% of the way into the lock the gas erupts in the direction of the cut. “It’s pretty much immediately vomit inducing,” Idzkowski said.",
+      "The inventors have tested it on themselves and volunteers at distances of 50cm and 2 metres. “At 50cm it was pretty bad. It was absolutely vomit inducing in 99% of people. At 2 metres it’s still definitely detectable and very unpleasant.”",
+      "(guardian.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "their lock cannot protect their bike."
+      },
+      {
+       "key": "B",
+       "text": "they will almost certainly start vomiting."
+      },
+      {
+       "key": "C",
+       "text": "will get a very smelly surprise."
+      },
+      {
+       "key": "D",
+       "text": "can resist a thief for more than a minute."
+      },
+      {
+       "key": "E",
+       "text": "they cannot touch the bike."
+      },
+      {
+       "key": "F",
+       "text": "a friend’s electric bike was stolen."
+      },
+      {
+       "key": "G",
+       "text": "it will release its smelly gas."
+      },
+      {
+       "key": "H",
+       "text": "his friends ask him for help."
+      },
+      {
+       "key": "I",
+       "text": "they try to cut off SkunkLock."
+      },
+      {
+       "key": "K",
+       "text": "you can steal the bike."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The thief with an electric saw …",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "It will make the thief vomit if …",
+       "answer": "I"
+      },
+      {
+       "n": 24,
+       "stem": "The inventor finally decided to create SkunkLock when …",
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "stem": "Most people have no idea that …",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "There is no bike lock that …",
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "stem": "If you cut less than half way through SkunkLock,…",
+       "answer": "G"
+      },
+      {
+       "n": 28,
+       "stem": "When the gas hits someone from half a metre away, …",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2017-maj-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the Channel Tunnel, which was recognised as one of the \"Seven Wonders of the Modern World\" by the American Society of Civil Engineers. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "THE CHANNEL TUNNEL",
+     "body": [
+      "The Channel Tunnel is 31.4 miles long, {{0}} it the 11th longest tunnel in {{1}}. It has the longest undersea portion of any tunnel in the world (23.5 miles). There are actually three tunnels down there - two for trains and a smaller service tunnel {{2}} can be used in emergencies.",
+      "Construction {{3}} six years (1988-1994). Englishman Graham Fagg and Frenchman Phillippe Cozette {{4}} out the ceremonial breakthrough on December 1, 1990. They didn't quite meet in the middle – the English side tunnelled the greater distance. Eleven special machines were used to {{5}} the tunnel. Each of them was as long as two football pitches. One from the British side remains {{6}} under the Channel. Another was sold on eBay for £39,999 in 2004.",
+      "In 2014 a record 21 million passengers were transported between Britain and France {{7}} the tunnel – up from 7.3 million in 1995, its first full year in operation. A pet travel scheme introduced in 2000 has {{8}} more than one million dogs and cats travelling through the tunnel.",
+      "(www.telegraph.co.uk/travel/destinations)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BURIED"
+      },
+      {
+       "key": "B",
+       "text": "BURY"
+      },
+      {
+       "key": "C",
+       "text": "MAKING"
+      },
+      {
+       "key": "D",
+       "text": "CARRIED"
+      },
+      {
+       "key": "E",
+       "text": "DIG"
+      },
+      {
+       "key": "F",
+       "text": "DIGGING"
+      },
+      {
+       "key": "G",
+       "text": "SEEN"
+      },
+      {
+       "key": "H",
+       "text": "THAT"
+      },
+      {
+       "key": "I",
+       "text": "TOOK"
+      },
+      {
+       "key": "K",
+       "text": "USE"
+      },
+      {
+       "key": "L",
+       "text": "USING"
+      },
+      {
+       "key": "M",
+       "text": "WHAT"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "K"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "I"
+      },
+      {
+       "n": 4,
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "L"
+      },
+      {
+       "n": 8,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an ancient Irish festival called Bealtaine, the Celtic Fire Festival. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (9-17) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "BEALTAINE",
+     "body": [
+      "It is believed that {{0}} ancient Irish had four major festivals, as {{9}}as a number of smaller festivals. When Christianity came to Ireland around 1500 years {{10}}, the priests and monks Christianised some of the Pagan festivals and because of that, some of the ancient Irish festivals {{11}} still celebrated in Ireland today.",
+      "Bealtaine signals the start of summer. Anyone who speaks Irish will {{12}} familiar with this word, {{13}} Bealtaine is also the Irish word for the month of May, along with the festival on the first day of that month. The word beal may have meant ‘bright light’ and the second part means ‘fire’. This festival is strongly connected {{14}} fire in Irish tradition. Until a hundred years ago, people in some country areas of Ireland still followed the custom {{15}} building two great fires in a field on this day and driving their cattle between the fires to protect them from disease. According to a text from the 10th century, the Druids used {{16}} do the same during the Pagan era hundreds of years before that. When an Irish speaker is confused or unsure {{17}} to do, they often use the phrase “I am between two Bealtaine fires about it”.",
+      "(www.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "well"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "ago"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "are"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "as",
+        "because",
+        "since",
+        "for"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "with",
+        "to"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "of",
+        "by"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "what"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the origins of the name of Wall Street. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (18-25).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "WHY IS IT CALLED 'WALL STREET'?",
+     "body": [
+      "Wall Street, an actual street by that name, is located in Lower Manhattan in New York City. The street is the epicenter of the city's {{0}} district.",
+      "The name of the street originates from an actual wall that was built in the 17th century by the Dutch, who were living in what was then called New Amsterdam. The 4-meter wall was built to protect the Dutch against {{18}} from pirates and various Native American tribes, and to keep other potential dangers out of the town.",
+      "The area near the wall became {{19}} as Wall Street. Because of its {{20}}, the road developed into one of the busiest trading areas in the entire city. Later, in 1699, the wall was demolished by the British colonial {{21}}, but the name of the street stuck.",
+      "The financial industry got its {{22}} start on Wall Street on May 17, 1792. On that day, New York's first stock exchange was established by the {{23}} of the Buttonwood Agreement. The agreement, so-called because it was signed under a buttonwood tree which early {{24}} and speculators had previously gathered around to trade {{25}}, gave birth to what is now the modern-day New York Stock Exchange.",
+      "(www.livescience.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "finance",
+       "example": true,
+       "accept": [
+        "financial"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "attack",
+       "accept": [
+        "attacks"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "know",
+       "accept": [
+        "known"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "locate",
+       "accept": [
+        "location"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "govern",
+       "accept": [
+        "government",
+        "governor"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "office",
+       "accept": [
+        "official"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "sign",
+       "accept": [
+        "signing"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "trade",
+       "accept": [
+        "traders",
+        "tradesmen"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "informal",
+       "accept": [
+        "informally"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 14,
+    "11": 15,
+    "12": 17,
+    "13": 18,
+    "14": 19,
+    "15": 21,
+    "16": 22,
+    "17": 23,
+    "18": 25,
+    "19": 26,
+    "20": 28,
+    "21": 29,
+    "22": 30,
+    "23": 32,
+    "24": 33
+   },
+   "tasks": [
+    {
+     "id": "2017-maj-kozep-H1",
+     "number": 1,
+     "kind": "fix",
+     "layout": "stems",
+     "examType": "hibás szó javítása hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear someone talk about the life of a certain Dick, a guy that everybody loves.",
+      "Your task is to find one incorrect word in each of the following sentences. First, cross it out, and then write the correct one on the line after the sentence.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_17maj_fl.mp3",
+      "start": 0,
+      "end": 644.5,
+      "clip": "hang/k_angol_17maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "text": "It is generally agreed that Dick has a wonderful nose.",
+       "example": true,
+       "fixes": [
+        {
+         "wrong": "nose",
+         "accept": [
+          "personality"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 1,
+       "text": "Dick comes from a family of farm workers, and his mother used to work on a pig farm.",
+       "fixes": [
+        {
+         "wrong": "pig",
+         "accept": [
+          "chicken"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 2,
+       "text": "Dick’s grandfather used to bring the animals he was asked to pick out into the cowshed.",
+       "fixes": [
+        {
+         "wrong": "cowshed",
+         "accept": [
+          "farmyard"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 3,
+       "text": "Dick spends his time playing with the children, lying peacefully in front of the fire.",
+       "fixes": [
+        {
+         "wrong": "peacefully",
+         "accept": [
+          "comfortably"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 4,
+       "text": "When Dick goes out for a walk with the children, he tries to keep them all together.",
+       "fixes": [
+        {
+         "wrong": "children",
+         "accept": [
+          "family"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 5,
+       "text": "His favourite food is meat, and he eats half a kilo of it every day.",
+       "fixes": [
+        {
+         "wrong": "half",
+         "accept": [
+          "nearly"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 6,
+       "text": "He also eats rice, cereal, eggs and biscuits, which makes him quite cheap to feed.",
+       "fixes": [
+        {
+         "wrong": "cheap",
+         "accept": [
+          "expensive"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 7,
+       "text": "Dick’s friends admire his long legs and his wonderful, shiny white hair.",
+       "fixes": [
+        {
+         "wrong": "shiny",
+         "accept": [
+          "thick"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 8,
+       "text": "The people he lives with wash his hair every day to make sure that he always looks his best.",
+       "fixes": [
+        {
+         "wrong": "wash",
+         "accept": [
+          "brush"
+         ]
+        }
+       ]
+      },
+      {
+       "n": 9,
+       "text": "The nine large gold cups Dick has won so far stand on the piano.",
+       "fixes": [
+        {
+         "wrong": "gold",
+         "accept": [
+          "silver"
+         ]
+        }
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A megoldásért akkor is jár az 1 pont, ha a helyes szó szerepel, de a helytelen szót a vizsgázó nem húzta át.)"
+     }
+    },
+    {
+     "id": "2017-maj-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear a radio interview with a young musician called Julian Camarena.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_17maj_fl.mp3",
+      "start": 644.5,
+      "end": 1323.49,
+      "clip": "hang/k_angol_17maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Julian …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is an ambitious young musician."
+        },
+        {
+         "key": "B",
+         "text": "already has a lot of fans."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Julian says that he is motivated by his …",
+       "options": [
+        {
+         "key": "A",
+         "text": "imagination."
+        },
+        {
+         "key": "B",
+         "text": "fans."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Julian …",
+       "options": [
+        {
+         "key": "A",
+         "text": "used to paint and sell his own pictures."
+        },
+        {
+         "key": "B",
+         "text": "worked in a movie theater for a short time."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Julian …",
+       "options": [
+        {
+         "key": "A",
+         "text": "wasn’t a very talented basketball player."
+        },
+        {
+         "key": "B",
+         "text": "was interested in martial arts."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Julian says …",
+       "options": [
+        {
+         "key": "A",
+         "text": "healthy eating is as important to him as doing exercise."
+        },
+        {
+         "key": "B",
+         "text": "he never starts his day without doing some exercise first."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Julian says …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he has already played a part in a martial arts film."
+        },
+        {
+         "key": "B",
+         "text": "performing music and acting are closely connected."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Julian says …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he thought he needed a university degree in case his music career failed."
+        },
+        {
+         "key": "B",
+         "text": "his university studies helped him become a good musician."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Julian says he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is the composer and singer as well as the producer of his songs."
+        },
+        {
+         "key": "B",
+         "text": "prefers writing sad songs to fun songs."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a true story that happened in Columbus, Ohio.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_17maj_fl.mp3",
+      "start": 1323.49,
+      "end": 1795.53,
+      "clip": "hang/k_angol_17maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mel Kiser was driving his car on a four-lane highway.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "He saw the car in front of him crash into the back of armoured truck.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Mr. Kiser hit the first of the bags that had fallen out of the truck.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "At first a lot of drivers didn’t realise that there was money on the highway.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Mr. Kiser picked up as many banknotes as he could, and put them in a plastic bag.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Mr. Kiser spent some of the money he’d taken on a new gate and a vacation in Florida.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Mr. Kiser received a 10% reward for the money he had returned.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "It was the highest reward ever offered by the armoured truck company.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "A newspaper contacted the man who took two bags of money and asked for an interview.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

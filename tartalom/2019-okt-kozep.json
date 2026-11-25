@@ -1,0 +1,1283 @@
+{
+ "formatVersion": 1,
+ "id": "2019-okt-kozep",
+ "year": 2019,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2019-10-17",
+ "code": "1719",
+ "sourceFiles": {
+  "paper": "2019 - Középszintű október/k_angol_19okt_fl.pdf",
+  "key": "2019 - Középszintű október/k_angol_19okt_ut.pdf",
+  "audio": "2019 - Középszintű október/k_angol_19okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 8,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 13,
+    "11": 14,
+    "12": 15,
+    "13": 17,
+    "14": 18,
+    "15": 19,
+    "16": 20,
+    "17": 22,
+    "18": 23,
+    "19": 24,
+    "20": 25,
+    "21": 27,
+    "22": 28,
+    "23": 29,
+    "24": 30,
+    "25": 32,
+    "26": 33
+   },
+   "tasks": [
+    {
+     "id": "2019-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In this article about parents going to school some parts of sentences have been left out.",
+      "Your task is to reconstruct the story by filling in the gaps from the list.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "SINGAPORE: PARENTS TAKE PRIMARY SCHOOL MATHS CLASSES",
+     "body": [
+      "Parents in Singapore dust off their calculators: they are going back to school {{0}} their children's homework.",
+      "They are taking primary school maths classes {{1}} what their children go through. Adults are signing up for courses {{2}} when their children have questions, the My Paper website reports. Parents at a \"mastery workshop\" pay $700 (£463) {{3}} learning how to solve maths problems, the website says. It's part of a growing trend in Singapore.",
+      "Parents {{4}} are divided into groups depending on their existing knowledge and ability. \"Some parents come to the workshop with zero maths knowledge, {{5}},\" says Nur Hidayah Ismail, the principal of the Genius Young Minds centre.",
+      "Some parents say it has helped them to understand their children's struggles. But for others {{6}} many years ago, things are more tricky. Mohd Yusof Maruwi, {{7}}, found most of the questions surprisingly difficult. \"Luckily, she could understand what was going on,\" he says.",
+      "(bbc.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "so we have to go very slowly"
+      },
+      {
+       "key": "B",
+       "text": "in order to understand"
+      },
+      {
+       "key": "C",
+       "text": "so they can understand"
+      },
+      {
+       "key": "D",
+       "text": "to spend eight hours"
+      },
+      {
+       "key": "E",
+       "text": "just in time to take the exam"
+      },
+      {
+       "key": "F",
+       "text": "who attended a class with his wife"
+      },
+      {
+       "key": "G",
+       "text": "so that they can be helpful"
+      },
+      {
+       "key": "H",
+       "text": "who decide to take part in the course"
+      },
+      {
+       "key": "I",
+       "text": "who left the subject behind"
+      },
+      {
+       "key": "K",
+       "text": "why they are challenged"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "answer": "H"
+      },
+      {
+       "n": 5,
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      },
+      {
+       "n": 7,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read this article about a young man and his girlfriend and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there is one extra letter that you will not need."
+     ],
+     "title": "MARRIAGE PROPOSAL MAPPED OUT BY PORTSMOUTH JOGGER'S APP",
+     "body": [
+      "A Portsmouth runner has proposed to his girlfriend by spelling out \"Will You Marry Me\" using a GPS tracking application. The couple met through a mutual friend on Facebook when they commented on a post and then started chatting.",
+      "Ben Chudley, 28, used a running app to track his progress around the city's streets before posting the route on Facebook. When he posted it on Tuesday evening, his girlfriend Olivia Abdul saw it and accepted his proposal. Mr Chudley, who had also drawn dinosaurs and cartoon characters in the same way, said the idea was \"very me\".",
+      "He explained he had carefully designed his route using online mapping and had run the 5.71mile (9km) route. Mr Chudley told his girlfriend he was going out for a run before posting the map on Facebook and returning, with flowers and a ring, to hear her response. He admitted that posting it publicly \"could have been very embarrassing if she had said no.\"",
+      "Mr Chudley had started a Facebook group of similar 'drawings'. In the past he had attempted a seahorse and a dinosaur but said Portsmouth's regular street layout made it easier to form letters. He added that making a wrong turn half way through a run can be \"heart breaking\" as it means having to start the tracking again.",
+      "Surprised Olivia, who was given a gold and diamond engagement ring, said: \"I was so happy.”",
+      "The bride-to-be said the couple had been flooded with well-wishes from friends and family.",
+      "(bbc.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "had carefully planned the event."
+      },
+      {
+       "key": "B",
+       "text": "was given to her friends."
+      },
+      {
+       "key": "C",
+       "text": "was used to create a message."
+      },
+      {
+       "key": "D",
+       "text": "have been informed about the event."
+      },
+      {
+       "key": "E",
+       "text": "had already been used by the young man."
+      },
+      {
+       "key": "F",
+       "text": "might make the whole thing much longer."
+      },
+      {
+       "key": "G",
+       "text": "was posted on a community website."
+      },
+      {
+       "key": "H",
+       "text": "were written on a map."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Modern technology",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The app",
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "stem": "The proposal",
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "stem": "The letters",
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "stem": "A mistake",
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "stem": "Friends",
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "stem": "Mr Chudley",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following interview with Chris Guillebeau, the person who has travelled most widely in the world, the questions have been removed.",
+      "Your task is to match the questions (A-H) and the answers (14-19).",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "Chris Guillebeau achieved something most people only dream of: visiting every country in the world. Impressive? Here is an interview:",
+      "{{0}}\nCG: I travel at least 100 days a year, but when I’m not on the road I live in Portland, Oregon.",
+      "{{14}}\nCG: There are many, but for me I think the act of travel itself has a thrilling effect. I just love being on the road.",
+      "{{15}}\nCG: Travel forces you to think differently. I live a fairly routine life, and I like the element of adventure that travel brings. When I’m on the road I feel like a different person.",
+      "{{16}}\nCG: A dead cow in the back of a taxi in Sierra Leone would probably be high on the list.",
+      "{{17}}\nCG: I’m pretty basic. Everything goes in my cabin suitcase and my laptop bag. In addition to taking my computer everywhere I go, I also use a paper notebook to make notes along the way.",
+      "{{18}}\nCG: Just go out and do it! Travel gives me confidence. The more I travel, the more I relax and stop stressing out.",
+      "{{19}}\nCG: I’m planning more trips, of course! There’s always more to be done and more places to visit—which is exactly the way I like it.",
+      "(nationalgeographic.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Why is travel important? How has it changed you?"
+      },
+      {
+       "key": "B",
+       "text": "What’s the best travel advice you can share with us?"
+      },
+      {
+       "key": "C",
+       "text": "Where do you call home?"
+      },
+      {
+       "key": "D",
+       "text": "Have you ever left your passport at home?"
+      },
+      {
+       "key": "E",
+       "text": "Is there a place that draws you back again and again? Why?"
+      },
+      {
+       "key": "F",
+       "text": "What do you never leave at home?"
+      },
+      {
+       "key": "G",
+       "text": "What are you working on right now?"
+      },
+      {
+       "key": "H",
+       "text": "What’s the strangest thing you’ve seen in your travels?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "E"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      },
+      {
+       "n": 17,
+       "answer": "F"
+      },
+      {
+       "n": 18,
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a person who is afraid of nothing and then read the statements (20-26) following it.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "THE WOMAN WHO IS UNABLE TO FEEL FEAR",
+     "body": [
+      "Mary, a woman from the United States, cannot feel the emotion of fear, because of a very rare genetic condition. She has never been interviewed before, because her doctors say that people could easily take advantage of her if her identity was made public.",
+      "She says that she remembers being scared just once in her life. She was still a young girl and her father was fishing and caught a catfish. She was frightened because she didn’t want it to bite her. In fact, that was the only time she can remember experiencing fear.",
+      "Once, when her sons were small and she was out for a walk, a man called her over. He grabbed her by the shirt, and he held a knife to her throat and told her he was going to cut her. She said, “Go ahead and do it”. The man let her go, and she went home, but she didn’t call the police, as she didn’t see the danger.",
+      "She is also unable to recognise a fearful expression on the face of another person. Still, she has normal intelligence and recognises other emotions such as joy, or anger in the same way as others.",
+      "If she sees a poisonous snake that would make most people really scared, Mary will touch it without any problem. She isn’t afraid in such situations and has no bad memories afterwards.",
+      "‘If you have no fear, many more terrible things will happen to you,’ one of her doctors explained to journalists. ‘However, if you have a lot of fear, fewer bad things will probably happen.’",
+      "So is it better to be fearful or fearless?",
+      "(dailymail.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mary has been different from other people ever since she was born.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Her story has already appeared in newspapers in the past.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "She hasn’t felt fear since she was a child.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Her father stopped fishing after the catfish incident.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "The police had to save her when a man attacked her in a park.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Mary can understand that you are happy if you smile at her.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "It is difficult for her to remember faces.",
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "stem": "According to her doctor people like Mary experience more bad things than most people.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2019-okt-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about what people promise to do in the New Year. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE HISTORY OF NEW YEAR’S RESOLUTIONS",
+     "body": [
+      "New Year’s resolutions have a long history. The Babylonians promised to return {{0}} objects and repay their debts at the {{1}} of each year, while the Romans started January by making a vow to the god Janus (from whom the month takes its name). That means we’ve had centuries of {{2}} promises.",
+      "“I think the main reason why new year’s resolutions fail is that people are rather {{3}},” says Benjamin Gardner, an expert in behaviour change at King’s College London. “If you’re not doing any exercise and set {{4}} the goal of going to the gym five times a week for half an hour, you’re probably not going to achieve it. The other reason is that people are not {{5}} ready to change.”",
+      "Psychologists at the College recently proposed that, for something positive to happen, people must have the capability, opportunity and {{6}} to make it happen. “Often people aren’t making resolutions for the right reasons,” says Gardner: “They think that because it’s New Year, they’re {{7}} to say they’ll change their behaviour. But once they {{8}} the difficulty of what they’re doing, they give up because they aren’t motivated enough in the first place.”",
+      "(http://www.theguardian.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "borrow",
+       "example": true,
+       "accept": [
+        "borrowed"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "begin",
+       "accept": [
+        "beginning"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "break",
+       "accept": [
+        "broken",
+        "breaking"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "realistic",
+       "accept": [
+        "unrealistic"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "you",
+       "accept": [
+        "yourself"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "necessary",
+       "accept": [
+        "necessarily"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "motivate",
+       "accept": [
+        "motivation",
+        "motive"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "expect",
+       "accept": [
+        "expected"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "real",
+       "accept": [
+        "realise",
+        "realize"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the world’s largest model railroad. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (9-16) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE WORLD’S LARGEST MODEL RAILROAD",
+     "body": [
+      "The largest model railroad in the world, Northlandz, took 16 years to build. {{0}} has 100 trains, 400 bridges, and 3,000 miniature buildings. It began {{9}} a hobby, but the world’s biggest model railroad is now much more than that. It features more {{10}} eight miles of track and 100 trains, as well as almost 400 bridges. Northlandz, in Flemington, New Jersey, is miniature but {{11}} is anything but small-scale. The spectacle contains 3,000 buildings in cities and villages, 50,000 trees and 40-foot bridges spanning huge canyons. The owner and creator is Bruce Williams Zaccagnino, who not {{12}} built the 52,000 sq ft building in which it is housed but also designed and handcrafted almost all of {{13}} remarkably lifelike scenery.",
+      "‘There’s nothing like it,’ he said. ‘Visitors come out saying it’s one {{14}} the Wonders of the World.’ Bruce loved model trains as a kid but it wasn't until he was married that he started to build models in his basement. His hobby got so {{15}} of control that he then added five extra basements to his home {{16}} order to house his collection until he finally raised the money to create Northlandz.",
+      "(http://www.dailymail.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "It"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "as",
+        "like"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "only"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "the",
+        "its"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "out"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "in"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about British table manners: what you should and should not do when you eat in Great Britain. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (17-25) in the text."
+     ],
+     "title": "EATING ETIQUETTE",
+     "body": [
+      "If you cannot eat a certain type of food or have some special needs, tell your host several days {{0}} the dinner party. If you are a guest, it is impolite to start eating before everyone has been served unless your host {{17}} you don't need to wait.",
+      "It is impolite to have your elbows on the table {{18}} you are eating. Don't reach over someone's plate for something, ask for the item {{19}} passed. Never take food from your neighbour's plate.",
+      "You may eat chicken and pizza with your fingers if you are at a barbecue, or in a very informal setting. Soup {{20}} be taken from the side of the spoon and not from the 'end' as in {{21}} European countries. Always swallow all the food in your mouth before taking more or taking a drink. Never chew with your mouth {{22}}.",
+      "Place your knife and fork together on your plate, with the prongs of the fork facing upwards, {{23}} others know that you have finished eating. If you've taken {{24}} food and you cannot eat {{25}} all, say: \"I'm sorry, but it seems that 'my eyes are bigger than my stomach'.\"",
+      "(www.woodlands-junior.kent.sch.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "after"
+        },
+        {
+         "key": "B",
+         "text": "later"
+        },
+        {
+         "key": "C",
+         "text": "before"
+        },
+        {
+         "key": "D",
+         "text": "earlier"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn't tell"
+        },
+        {
+         "key": "B",
+         "text": "tells"
+        },
+        {
+         "key": "C",
+         "text": "says"
+        },
+        {
+         "key": "D",
+         "text": "doesn't say"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "while"
+        },
+        {
+         "key": "B",
+         "text": "during"
+        },
+        {
+         "key": "C",
+         "text": "because"
+        },
+        {
+         "key": "D",
+         "text": "since"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "be"
+        },
+        {
+         "key": "B",
+         "text": "to be"
+        },
+        {
+         "key": "C",
+         "text": "been"
+        },
+        {
+         "key": "D",
+         "text": "to"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "could"
+        },
+        {
+         "key": "B",
+         "text": "need"
+        },
+        {
+         "key": "C",
+         "text": "ought"
+        },
+        {
+         "key": "D",
+         "text": "should"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "the most of"
+        },
+        {
+         "key": "B",
+         "text": "most"
+        },
+        {
+         "key": "C",
+         "text": "most of"
+        },
+        {
+         "key": "D",
+         "text": "the most"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "open"
+        },
+        {
+         "key": "B",
+         "text": "opening"
+        },
+        {
+         "key": "C",
+         "text": "opened"
+        },
+        {
+         "key": "D",
+         "text": "to open"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "to let"
+        },
+        {
+         "key": "B",
+         "text": "let's"
+        },
+        {
+         "key": "C",
+         "text": "letting"
+        },
+        {
+         "key": "D",
+         "text": "you let"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "plenty"
+        },
+        {
+         "key": "B",
+         "text": "too much"
+        },
+        {
+         "key": "C",
+         "text": "lot of"
+        },
+        {
+         "key": "D",
+         "text": "too many"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "them"
+        },
+        {
+         "key": "B",
+         "text": "the"
+        },
+        {
+         "key": "C",
+         "text": "it"
+        },
+        {
+         "key": "D",
+         "text": "of"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 22,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 2,
+    "2": 3,
+    "3": 5,
+    "4": 6,
+    "5": 8,
+    "6": 9,
+    "7": 11,
+    "8": 12,
+    "9": 14,
+    "10": 15,
+    "11": 17,
+    "12": 18,
+    "13": 20,
+    "14": 21,
+    "15": 23,
+    "16": 24,
+    "17": 26,
+    "18": 27,
+    "19": 29,
+    "20": 30,
+    "21": 32,
+    "22": 33
+   },
+   "tasks": [
+    {
+     "id": "2019-okt-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to the short biography of Malcolm X, the famous African-American human rights activist.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_19okt_fl.mp3",
+      "start": 0,
+      "end": 634.55,
+      "clip": "hang/k_angol_19okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Malcolm X was born as Malcolm Little.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Most people think that Malcolm’s father was killed in a traffic accident.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "A teacher told Malcolm that he wasn’t clever enough to become a lawyer.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "In New York and Boston, Malcolm took part in criminal activities.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Malcolm was convicted of burglary and carrying an illegal firearm.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "It was his brother who encouraged him to become a member of the Nation of Islam.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Malcolm changed his name because people found his surname, ‘Little’ funny.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Malcolm left the Nation of Islam because his work was not appreciated.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "We still don’t know for certain who murdered Malcolm X.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 6,
+     "instructions": [
+      "In this section, you are going to listen to the beneficial effects of nitrous oxide -- also called ‘laughing gas’ -- on medicine.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_19okt_fl.mp3",
+      "start": 634.55,
+      "end": 1330.04,
+      "clip": "hang/k_angol_19okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Surgeons and dentists didn’t ……… their patients.",
+       "options": [
+        {
+         "key": "A",
+         "text": "do anything to reduce the pain of"
+        },
+        {
+         "key": "B",
+         "text": "think pain was bad for"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Joseph Priestley discovered …",
+       "options": [
+        {
+         "key": "A",
+         "text": "‘laughing gas’ in the second half of the 18th century."
+        },
+        {
+         "key": "B",
+         "text": "the pain killing effect of nitrous oxide."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Humphry Davy …",
+       "options": [
+        {
+         "key": "A",
+         "text": "experimented on himself."
+        },
+        {
+         "key": "B",
+         "text": "gave public speeches on the pain killing effect of ‘laughing gas’."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "At ‘laughing gas’ parties, people paid so that they could …",
+       "options": [
+        {
+         "key": "A",
+         "text": "act silly."
+        },
+        {
+         "key": "B",
+         "text": "breathe in nitrous oxide."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "At a ‘laughing party’, Dr. Horace Wells ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "injured his leg."
+        },
+        {
+         "key": "B",
+         "text": "made an important observation."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Dr. Wells …",
+       "options": [
+        {
+         "key": "A",
+         "text": "asked another dentist to inhale some ‘laughing gas’."
+        },
+        {
+         "key": "B",
+         "text": "wanted to test the pain killing effect of the gas on himself."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "In Boston …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the patient fainted because of too much ‘laughing gas’."
+        },
+        {
+         "key": "B",
+         "text": "Dr. Wells’ demonstration was a complete failure."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-okt-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear a weird story about a cat called Browser.",
+      "Your task will be to write one word in each of the gaps below using the exact words you hear.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_19okt_fl.mp3",
+      "start": 1330.04,
+      "end": 1794.72,
+      "clip": "hang/k_angol_19okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The radio channel that presents the report is called {{gap}} {{gap}}",
+       "gaps": [
+        [
+         "Radio"
+        ],
+        [
+         "Bridge"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "Browser was adopted from a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "animal"
+        ],
+        [
+         "shelter"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "By night, Browser conscientiously {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "catches"
+        ],
+        [
+         "mice"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Browser loves lying on {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "people’s"
+        ],
+        [
+         "keyboards"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The {{gap}} {{gap}} voted that Browser had to go.",
+       "gaps": [
+        [
+         "city",
+         "City"
+        ],
+        [
+         "council",
+         "Council"
+        ]
+       ],
+       "combos": [
+        [
+         "city",
+         "council"
+        ],
+        [
+         "City",
+         "Council"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The daughter of a family suffered from a(n) {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "allergy",
+         "allergic"
+        ],
+        [
+         "attack"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Browser is a(n) {{gap}} {{gap}} for kids.",
+       "gaps": [
+        [
+         "big"
+        ],
+        [
+         "attraction"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "The story appeared in the {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "local"
+        ],
+        [
+         "newspaper",
+         "paper"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The {{gap}} of the {{gap}} spoke in favour of Browser.",
+       "gaps": [
+        [
+         "mayor"
+        ],
+        [
+         "city"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

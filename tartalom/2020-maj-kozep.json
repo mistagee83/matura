@@ -1,0 +1,1360 @@
+{
+ "formatVersion": 1,
+ "id": "2020-maj-kozep",
+ "year": 2020,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2020-05-07",
+ "code": "1911",
+ "sourceFiles": {
+  "paper": "2020 - Középszint május/k_angol_20maj_fl.pdf",
+  "key": "2020 - Középszint május/k_angol_20maj_ut.pdf",
+  "audio": "2020 - Középszint május/k_angol_20maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2020-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with an electrician, the questions have been removed.",
+      "Your task is to match the questions (A-L) and the answers (1-8).",
+      "There are two extra questions that you do not need."
+     ],
+     "body": [
+      "{{0}}\n? I’m an electrician.",
+      "{{1}}\n? My dad worked with electricity and he taught me some basics. It was exciting. From my childhood I knew I wanted to be an electrician.",
+      "{{2}}\n? I went to a vocational school, then I took a 4-year course with on-the-job experience.",
+      "{{3}}\n? I searched job websites and sent letters of application. Then I did some interviews and I was offered this position by the company.",
+      "{{4}}\n? First, I collect the materials I need. Then I go and do the job. At the end of the day we usually have a quick meeting.",
+      "{{5}}\n? I like the opportunities that come with the job. Last year I got to travel to Africa with my company.",
+      "{{6}}\n? Sometimes travelling long distances and cold weather can be difficult.",
+      "{{7}}\n? You’ve got to have a logical, open mind. You also have to be able to solve problems quickly.",
+      "{{8}}\n? I meet my friends at the weekends and we often play football.",
+      "(www.careersportal.ie)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What do you dislike about your job?"
+      },
+      {
+       "key": "B",
+       "text": "What do you do in your free time?"
+      },
+      {
+       "key": "C",
+       "text": "What is your present job?"
+      },
+      {
+       "key": "D",
+       "text": "What kind of education and training did you have?"
+      },
+      {
+       "key": "E",
+       "text": "What kind of people do you find it difficult to work with?"
+      },
+      {
+       "key": "F",
+       "text": "What made you want to become an electrician?"
+      },
+      {
+       "key": "G",
+       "text": "How did you get your present job?"
+      },
+      {
+       "key": "H",
+       "text": "What qualities or skills are important for an electrician?"
+      },
+      {
+       "key": "I",
+       "text": "What do you enjoy about your job?"
+      },
+      {
+       "key": "K",
+       "text": "How do you feel about working long hours?"
+      },
+      {
+       "key": "L",
+       "text": "Could you describe a typical working day?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read this story about an archaeological discovery.",
+      "Some paragraphs are missing.",
+      "Your task is to put the jumbled paragraphs (A-H) back in order.",
+      "Remember that there are two extra paragraphs that you will not need."
+     ],
+     "title": "GIRL DISCOVERS VIKING SWORD",
+     "body": [
+      "Every summer, we go to stay in a cabin by lake Vidöstern in southern Sweden. I like to play on the beach.",
+      "{{0}}",
+      "{{9}}",
+      "{{10}}\nI ran to my mum shouting, “I found a sword!” She said it looked like a Viking sword. Daddy got so excited that he didn’t even watch the football match.",
+      "{{11}}",
+      "{{12}}\nUnfortunately, I had to give the sword to the local museum – Daddy explained it’s part of history.",
+      "{{13}}\nI am not a lady, but it’s true I found a sword in the lake. I wouldn’t mind being queen for a day, but when I grow up, I want to be a vet.",
+      "(www.theguardian.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "The next day dad showed the sword to an archaeologist. She called it “sensational”. She asked us to keep it a secret."
+      },
+      {
+       "key": "B",
+       "text": "People are saying I am the queen of Sweden, because in the legend of King Arthur, he was given a sword by a lady in a lake, and he became king."
+      },
+      {
+       "key": "C",
+       "text": "One sunny day last summer, Daddy told me to get a buoy from the cabin to warn any boats because the water level was dangerously low."
+      },
+      {
+       "key": "D",
+       "text": "The archaeologist went to the beach too, and she also found a small medal. Then she announced the news, so it wasn’t secret any more."
+      },
+      {
+       "key": "E",
+       "text": "The waves were so big because of the storm that I had to be very careful."
+      },
+      {
+       "key": "F",
+       "text": "I went into the water with the buoy. Daddy asked me to hurry so he could watch the World Cup final, but I didn’t rush."
+      },
+      {
+       "key": "G",
+       "text": "The fishermen on the boat asked if they could stay in the cabin until the water level was high again."
+      },
+      {
+       "key": "H",
+       "text": "I was in the water, when I felt something long and hard in the sand. I pulled it out and shouted, “Look what I’ve found! I think it’s a sword!”"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a language which is really two languages, and then read the sentences (14- 20) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "UBANG: THE NIGERIAN VILLAGE WHERE MEN AND WOMEN SPEAK DIFFERENT LANGUAGES",
+     "body": [
+      "In Ubang, a farming community in southern Nigeria, men and women say they speak different languages. Wishing to demonstrate the two different languages, village chief Oliver Ibang calls over his two young children.",
+      "He holds up a cup and asks his daughter what it is called. \"It's ogbala,\" she says, without thinking for a moment. But in Ubang's \"male language\" the word for cup is nko. There are some other examples, such as the word for clothing, which is nki for men and ariga for women.",
+      "It is not clear exactly how many words are different in the two languages. Also, there is no pattern, such as whether the words are commonly used or linked to traditional roles for men or women. There are a lot of words that men and women have in common, then there are others which are totally different depending on your sex. They don't sound alike, they don't have the same letters, they are completely different words. However, both men and women are able to understand each other as well as anywhere else in the world. This might be partly because boys grow up speaking the female language, as they spend most of their childhoods with their mothers and other women. However, by the age of 10, boys are expected to speak the \"male language\".",
+      "Ubang people are extremely proud of their language difference but there are different theories about how it happened. \"God created Adam and Eve and they were Ubang people,\" says the chief. \"God's plan was to give each ethnic group two languages, but after creating the two languages for the Ubang, he realised that he simply didn’t have enough languages to hand out. So he stopped,\" he explains.",
+      "\"That's why Ubang has the benefit of two languages – we are different from other people in the world.\"",
+      "(bbc.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "There is a village where the language people speak depends on their sex.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "The chief's daughter cannot immediately give the word for cup.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "Most of the words are the same in the male and the female language.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "There are more male than female words in Ubang.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "The male words are more difficult to pronounce than the female words.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "In Ubang, a man and a woman have no more problems understanding each other than, for example, a man and a woman in the UK.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Boys learn the male language from their fathers.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "According to the chief, God gave two languages to every ethnic group in the world.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In this article about flight incidents, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (21-27) from the list (A-K) below.",
+      "Remember that there are two extra parts of sentences that you will not need."
+     ],
+     "title": "IN-FLIGHT INCIDENTS IN INDIA – MORE SERIOUS THAN FUNNY",
+     "body": [
+      "A passenger has recently been taken off a domestic flight in India {{0}} to charge his phone. The man, who was drunk, tried to enter the cockpit {{21}} for Kolkata from the western city of Mumbai. He was eventually removed from the aircraft and handed over to police because of a security violation. Police later questioned the man {{22}}.",
+      "The falling price of air tickets {{23}} have led to a boom in domestic flights. Carriers say that there are a lot of first-time flyers, which also presents new challenges. One airline, Air Asia India, said it was producing a how-to video for new customers {{24}}, from the need to show up on time to instructions on how to use an onboard toilet.",
+      "In another incident earlier this year, a Qatar Airways flight made an emergency landing in the southern city of Chennai, {{25}} to unlock his phone, where she discovered evidence he was cheating on her. She reportedly began attacking her husband {{26}}, the flight was forced to make an emergency stop.",
+      "The behaviour of the crew is not always perfect either. Jet Airways has suspended two pilots for five years after a male pilot slapped his female co-pilot during a flight to Mumbai. She reportedly stormed out of the cockpit {{27}}, leaving the plane on auto-pilot.",
+      "(guardian.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "and rising incomes in India"
+      },
+      {
+       "key": "B",
+       "text": "after a woman used her sleeping husband’s thumb"
+      },
+      {
+       "key": "C",
+       "text": "after trying to enter the cockpit"
+      },
+      {
+       "key": "D",
+       "text": "but released him soon after"
+      },
+      {
+       "key": "E",
+       "text": "informing them about the dangers of flying"
+      },
+      {
+       "key": "F",
+       "text": "and the male pilot eventually left to find her"
+      },
+      {
+       "key": "G",
+       "text": "explaining important aspects of air travel"
+      },
+      {
+       "key": "H",
+       "text": "and the plane was flown to the nearest airport"
+      },
+      {
+       "key": "I",
+       "text": "while the plane prepared to take off"
+      },
+      {
+       "key": "K",
+       "text": "and as cabin crew were unable to handle the situation"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "I"
+      },
+      {
+       "n": 22,
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "answer": "G"
+      },
+      {
+       "n": 25,
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "answer": "K"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2020-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about some easy ways to exercise more without extra time. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (1-8) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "DON’T OVERTHINK YOUR EXERCISE",
+     "body": [
+      "With the explosion of boutique gyms, spin classes and ultramarathons, we may believe that exercise should {{0}} both expensive and extreme. But researchers are finding that it really doesn’t seem to matter what {{1}} of physical activity you do to receive great health rewards.",
+      "Americans often complain that they don’t have enough time to work out. A recent survey asked a group of them {{2}} they would spend an extra four hours each week if they suddenly had the time. The number one answer? Exercise. But we often overthink exercise — and we may {{3}} actually need to set aside extra time to work out. Exercise doesn't require a gym membership. Exercise is something you can do throughout the day, every day. It also doesn’t need to be exhausting or to cost {{4}} to see health benefits. Simply walking more counts {{5}} lot.",
+      "Here are some tips how you can fill your day with more activity: • if you use public transport, get {{6}} a stop early on your way to work; • if you {{7}}, park far away from your destination; • climb the stairs to your office or flat instead of {{8}} the elevator; • walk to the grocery store instead of driving.",
+      "(www.vox.com/science-and-health)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "kind",
+        "sort",
+        "type",
+        "form"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "how"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "not",
+        "never"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "anything",
+        "much",
+        "lots",
+        "money",
+        "loads"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "a"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "off",
+        "out"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "drive",
+        "can"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "taking",
+        "using"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about some problems in a town in Minnesota. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-16).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "CHAOS IN MINNESOTA",
+     "body": [
+      "A group of young residents in Gilbert, Minnesota, who are {{0}} to handle their alcohol have been drifting around the town, looking disoriented and narrowly avoiding getting {{9}} by cars. However, these aren't drunk teenagers. Instead, it's the local bird population.",
+      "\"The Police Department has received several {{10}} of birds that seem to be 'under the influence of alcohol' flying into windows and cars and looking {{11}},\" said Police Chief Ty Techar. \"An early frost meant that berries had fermented {{12}} than usual, and birds were eating them and getting drunk.\"",
+      "Such incidents around town are more common than in past years, because many birds have not yet migrated south. As they prepare to fly south for winter, they may eat too many berries to store up fat for the journey. They go from bush to bush {{13}} to find more berries, and their balance is gradually getting worse. They are {{14}} seen flying lower than usual through traffic. They're just {{15}} and they're not watching out for cars and other objects around them. Their silly {{16}} is a sign that they're drunk. Usually they just need a bit of time to recover.",
+      "(www.independent.co.uk/news)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "able",
+       "example": true,
+       "accept": [
+        "unable"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "hit",
+       "accept": [
+        "hit"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "report",
+       "accept": [
+        "reports"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "confuse",
+       "accept": [
+        "confused"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "early",
+       "accept": [
+        "earlier"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "try",
+       "accept": [
+        "trying"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "typical",
+       "accept": [
+        "typically"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "care",
+       "accept": [
+        "careless"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "behave",
+       "accept": [
+        "behaviour",
+        "behavior"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-kozep-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about whether men or women are better at multitasking. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (17-25) in the text."
+     ],
+     "title": "WHO IS BETTER AT MULTITASKING?",
+     "body": [
+      "Men were slower and {{0}} organised than women when switching quickly between tasks in tests {{17}} by UK psychologists.",
+      "First, they compared 120 women and 120 men in a computer test {{18}} involved switching between tasks like counting and recognising shapes. Men and women were equal when they did one task {{19}} time. But when the tasks were mixed up and the switching became faster, {{20}} women and men slowed down and made more mistakes. However, men were significantly slower.",
+      "To make the experiment more relevant to everyday life, the researchers {{21}} a second test. The participants were given eight minutes to complete a series of tasks – locating restaurants on a map, answering a phone call, and deciding how {{22}} search for a lost key in a field.",
+      "Completing all these tasks in eight minutes was impossible, {{23}} men and women had to prioritise, organise their time, and keep calm. Women spent more time {{24}} thinking at the beginning, whereas men jumped in too quickly. It suggests that – in a stressful and complex situation – women are more {{25}} to stop and think about what's going on in front of them.",
+      "(www.bbc.com/news)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "the less"
+        },
+        {
+         "key": "B",
+         "text": "the least"
+        },
+        {
+         "key": "C",
+         "text": "less"
+        },
+        {
+         "key": "D",
+         "text": "least"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "taken away"
+        },
+        {
+         "key": "B",
+         "text": "given up"
+        },
+        {
+         "key": "C",
+         "text": "carried out"
+        },
+        {
+         "key": "D",
+         "text": "put down"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "which was"
+        },
+        {
+         "key": "B",
+         "text": "which"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "what was"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "in"
+        },
+        {
+         "key": "B",
+         "text": "at a"
+        },
+        {
+         "key": "C",
+         "text": "on"
+        },
+        {
+         "key": "D",
+         "text": "by the"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "each"
+        },
+        {
+         "key": "B",
+         "text": "all of"
+        },
+        {
+         "key": "C",
+         "text": "every"
+        },
+        {
+         "key": "D",
+         "text": "both"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "tried"
+        },
+        {
+         "key": "B",
+         "text": "could try"
+        },
+        {
+         "key": "C",
+         "text": "will try"
+        },
+        {
+         "key": "D",
+         "text": "were trying"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "have they"
+        },
+        {
+         "key": "B",
+         "text": "would they"
+        },
+        {
+         "key": "C",
+         "text": "they would"
+        },
+        {
+         "key": "D",
+         "text": "they have"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "if"
+        },
+        {
+         "key": "B",
+         "text": "although"
+        },
+        {
+         "key": "C",
+         "text": "when"
+        },
+        {
+         "key": "D",
+         "text": "so"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "by"
+        },
+        {
+         "key": "C",
+         "text": "with"
+        },
+        {
+         "key": "D",
+         "text": "–"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "quick"
+        },
+        {
+         "key": "B",
+         "text": "able"
+        },
+        {
+         "key": "C",
+         "text": "suitable"
+        },
+        {
+         "key": "D",
+         "text": "often"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2020-maj-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a funny story about a driving “offence”.",
+      "Your task will be to write the letter of the correct answer in the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_20maj_fl.mp3",
+      "start": 0,
+      "end": 645.17,
+      "clip": "hang/k_angol_20maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "A police officer was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "driving his car on the highway."
+        },
+        {
+         "key": "B",
+         "text": "sitting on the side of the highway."
+        },
+        {
+         "key": "C",
+         "text": "talking to his boss on the phone."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "The officer wanted to catch ... drivers.",
+       "options": [
+        {
+         "key": "A",
+         "text": "drunk"
+        },
+        {
+         "key": "B",
+         "text": "speeding"
+        },
+        {
+         "key": "C",
+         "text": "drunk or speeding"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The officer thought that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "speeding drivers were more dangerous than slow drivers."
+        },
+        {
+         "key": "B",
+         "text": "slow drivers were more dangerous than speeding drivers."
+        },
+        {
+         "key": "C",
+         "text": "slow drivers were just as dangerous as speeding drivers."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "There were … elderly ladies in the car.",
+       "options": [
+        {
+         "key": "A",
+         "text": "two"
+        },
+        {
+         "key": "B",
+         "text": "three"
+        },
+        {
+         "key": "C",
+         "text": "five"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The elderly ladies looked …",
+       "options": [
+        {
+         "key": "A",
+         "text": "scared."
+        },
+        {
+         "key": "B",
+         "text": "friendly."
+        },
+        {
+         "key": "C",
+         "text": "relaxed."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "The driver thought the officer had stopped her because she was driving …",
+       "options": [
+        {
+         "key": "A",
+         "text": "without her seat-belt on."
+        },
+        {
+         "key": "B",
+         "text": "too fast."
+        },
+        {
+         "key": "C",
+         "text": "too slow."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "The officer …",
+       "options": [
+        {
+         "key": "A",
+         "text": "became very angry with the driver."
+        },
+        {
+         "key": "B",
+         "text": "laughed out loud."
+        },
+        {
+         "key": "C",
+         "text": "didn’t want to humiliate the driver."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The driver … when the officer pointed out her mistake.",
+       "options": [
+        {
+         "key": "A",
+         "text": "got angry"
+        },
+        {
+         "key": "B",
+         "text": "felt embarrassed"
+        },
+        {
+         "key": "C",
+         "text": "was thankful"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The officer wanted …",
+       "options": [
+        {
+         "key": "A",
+         "text": "to know how the people in the car were feeling."
+        },
+        {
+         "key": "B",
+         "text": "the driver to show him her driver’s licence."
+        },
+        {
+         "key": "C",
+         "text": "the driver to pay a small fine."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2020-maj-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear an interview with Haile Gebrselassie, the famous Ethiopian runner.",
+      "Your task will be to write one word or number in each of the gaps below using the exact words you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_20maj_fl.mp3",
+      "start": 645.17,
+      "end": 1203.35,
+      "clip": "hang/k_angol_20maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The radio station is called {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "Radio"
+        ],
+        [
+         "Bridge"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Gebrselassie is called the ‘Emperor of {{gap}} {{gap}}’.",
+       "gaps": [
+        [
+         "Long",
+         "long"
+        ],
+        [
+         "Distance",
+         "distance"
+        ]
+       ],
+       "combos": [
+        [
+         "Long",
+         "Distance"
+        ],
+        [
+         "long",
+         "distance"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Miruts Yifter won two {{gap}} {{gap}} in 1980.",
+       "gaps": [
+        [
+         "gold"
+        ],
+        [
+         "medals"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Running to school was very difficult in the {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "rainy"
+        ],
+        [
+         "season"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Gebrselassie ran up and down the bank quickly in order to find a place to {{gap}} the {{gap}}.",
+       "gaps": [
+        [
+         "cross"
+        ],
+        [
+         "river"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The reporter says Gebrselassie developed a very strange {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "running"
+        ],
+        [
+         "style"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Gebrselassie used to carry his books in his {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "left"
+        ],
+        [
+         "hand"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "At the age of 14, Gebrselassie wanted to compete in the {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "local"
+        ],
+        [
+         "marathon"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "After winning the competition, Gebrselassie became a {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "school"
+        ],
+        [
+         "hero"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Az elfogadható válaszban az alábbi szavaknak feltétlenül szerepelniük kell!)"
+     }
+    },
+    {
+     "id": "2020-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will listen to the history of the Brooklyn Bridge in New York City.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right.",
+      "Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_20maj_fl.mp3",
+      "start": 1203.35,
+      "end": 1795.53,
+      "clip": "hang/k_angol_20maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Brooklyn is joined to Manhattan by the Brooklyn Bridge.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Suspension bridges are safer than any other types of bridges.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The Brooklyn Bridge is the only suspension bridge in the United States.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The building of the bridge took more than twenty years.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "At the opening ceremony, the US President and the Mayor of New York were greeted by the Mayor of Brooklyn in the middle of the bridge.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "On the first day after the opening, more people crossed the bridge than vehicles.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "As a result of a panic six days after the opening, eight people died on the bridge.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "In order to convince people that the bridge was safe, heavy animals were taken across it.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The Brooklyn Bridge was the longest bridge in the world until the middle of the 20th century.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Unfortunately, more than twenty people died while building the Brooklyn Bridge.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1238 @@
+{
+ "formatVersion": 1,
+ "id": "2014-maj-kozep",
+ "year": 2014,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2014-05-08",
+ "code": "1212",
+ "sourceFiles": {
+  "paper": "2014 - Középszintű májusi/k_angol_14maj_fl.pdf",
+  "key": "2014 - Középszintű májusi/k_angol_14maj_ut.pdf",
+  "audio": "2014 - Középszintű májusi/k_angol_14maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2014-maj-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about different types of tea and then read the sentences (1-8) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "body": [
+      "Black Tea Black tea is the most popular type of tea. It contains the most caffeine if you are looking for an energy boost. It also has the strongest flavour, which is often compared to chocolate. Black tea has the longest shelf life of any tea; it keeps its flavour for several years. Don't worry if some people call black tea red, because this is its name in several Asian countries.",
+      "White Tea White tea is the rarest of all teas and it is made with very young leaves, which have a light colour. It is widely believed that the caffeine level of white tea is higher than in green tea, although some scientists say the opposite. Studies have also shown that it is better against viruses and bacteria than green tea.",
+      "Green Tea Green tea is closely related to white tea. It has a similar taste, but it uses rolled leaves. Green tea has been studied far more than any other tea and many scientists say it is good for people on a slimming diet. If you don’t like those visits to the dentist, there is good news for you: green tea keeps your teeth healthy, too.",
+      "Oolong Tea The final type of true tea is oolong tea. As for its strength, it falls between green and black. It has neither the rosy aroma of black tea nor the grassy taste of green tea. Instead, oolong tea is described as bitter with a sweet melon-like aftertaste. You can find oolong tea in any Chinese restaurant you may go to.",
+      "(www.teavana.com)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Among all types most people prefer black tea.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Many people think black tea tastes like chocolate.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Red tea is just another name for black tea.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "You can buy white tea in most countries of the world.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "Everybody agrees that white tea has as much caffeine as green tea.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "It is good to drink green tea if you want to lose weight.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Green tea is also very effective against headaches.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "Oolong tea is stronger than black tea.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "As you start drinking it, oolong tea is sweet.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2014-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with explorer David de Rothschild the questions have been removed.",
+      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (9-16).",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nDavid: I was very lively and curious. I was always asking questions.",
+      "{{9}}\nDavid: My uncle, Peter Robeson – he’s an Olympic swimmer.",
+      "{{10}}\nDavid: No, I grew up on a farm and we all wanted to be vets. But I still think it's important to close your eyes now and then and let your mind take you where you want to go. And then act on it.",
+      "{{11}}\nDavid: I studied natural medicine and it led me to questions about why we use the things we do and to thoughts like you are what you breathe. These kinds of ideas led me to where I am today working as an explorer.",
+      "{{12}}\nDavid: I usually get up early in the morning and I’m up till very late at night. I spend a lot of time talking to people, writing, responding to lots of e-mails, and meeting with scientists. And I take time to stay fit and healthy too!",
+      "{{13}}\nDavid: I’m always smiling and acting a little crazy – whether I’m playing jokes on a friend or preparing for an expedition.",
+      "{{14}}\nDavid: I don’t know… the world is so big. Probably Madagascar and I’d love to go back down to Antarctica again. But everywhere I go is an adventure. So ask me that again when I’m 70 years old!",
+      "{{15}}\nDavid: There are two really. One is to be honest. And the second one is: don't be afraid to make a mistake. You aren't going to know if you don't try.",
+      "{{16}}\nDavid: Here is one. Two people are out sailing when suddenly a hand appears in the sea. \"What's that?\" asks one of them. \"It looks as if someone is drowning!\" \"No,\" explains the other one, \"it's just a little wave.\"",
+      "(www.nationalgeographic.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "How did you get into your field of work?"
+      },
+      {
+       "key": "B",
+       "text": "Do you have a hero?"
+      },
+      {
+       "key": "C",
+       "text": "What were you like as a kid?"
+      },
+      {
+       "key": "D",
+       "text": "Have you always followed your dreams?"
+      },
+      {
+       "key": "E",
+       "text": "What's the best place you've ever travelled to?"
+      },
+      {
+       "key": "F",
+       "text": "What's the best piece of advice anyone ever gave you that you can share with others?"
+      },
+      {
+       "key": "G",
+       "text": "What’s a normal day like for you?"
+      },
+      {
+       "key": "H",
+       "text": "Do you have any good sailor jokes?"
+      },
+      {
+       "key": "I",
+       "text": "Where did you go on your first trip as an explorer?"
+      },
+      {
+       "key": "K",
+       "text": "That’s a lot of work. And where’s the fun in your life?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "G"
+      },
+      {
+       "n": 13,
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "answer": "E"
+      },
+      {
+       "n": 15,
+       "answer": "F"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2014-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In this article about an intelligent car some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (17-23) from the list (A-I) below.",
+      "Remember that there is one extra phrase that you will not need."
+     ],
+     "title": "ROBOTIC CAR DEVELOPED BY OXFORD UNIVERSITY",
+     "body": [
+      "Scientists at Oxford University have developed a new car that can \"see\" the world around it The adapted car can use data from technology {{0}}. Professor Newman, the project leader, is convinced that on-board computer capacity will have a great effect on motoring in the future. He said: \"You can imagine one company advertising a model of car {{17}} and then another manufacturer will come out with one that does fifteen minutes.\"",
+      "Already there are cars {{18}} and last year Google announced its self- driving car, saying that it had driven more than 140,000 miles on American roads. The Oxford car differs from Google's, because {{19}} and uses a three dimensional map of streets.",
+      "Prof Newman added: \"Think of the impact {{20}}: they have totally changed them, and the same thing is going to happen on the roads. In the future autonomous robotic vehicles will take us safely and efficiently from A to B {{21}}.",
+      "The advantage of computer assisted vehicles is that they will never get tired and they can connect to the internet to communicate with other cars. As Prof Newman explained: \"We need cars that do the thinking and concentrating for you, cars that {{22}}. If the going is slow why can't I watch the show I missed last night, Skype with the kids, read a book {{23}} and get the car to handle the job of the trip for me?\"",
+      "The legal problem of how people can insure an autonomously driven car is one of the questions that will need to be resolved, but for now Professor Newman says he wants to concentrate on making the technology work.",
+      "(www.bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "it had a built-in computer"
+      },
+      {
+       "key": "B",
+       "text": "that can park themselves"
+      },
+      {
+       "key": "C",
+       "text": "such as cameras, radar and lasers to drive itself"
+      },
+      {
+       "key": "D",
+       "text": "while allowing human drivers to take a rest"
+      },
+      {
+       "key": "E",
+       "text": "it has fewer sensors"
+      },
+      {
+       "key": "F",
+       "text": "that computers have had on offices"
+      },
+      {
+       "key": "G",
+       "text": "do not want you to do the driving all the time"
+      },
+      {
+       "key": "H",
+       "text": "which drives itself for ten minutes a day"
+      },
+      {
+       "key": "I",
+       "text": "or send that last email"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "answer": "H"
+      },
+      {
+       "n": 18,
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "answer": "E"
+      },
+      {
+       "n": 20,
+       "answer": "F"
+      },
+      {
+       "n": 21,
+       "answer": "D"
+      },
+      {
+       "n": 22,
+       "answer": "G"
+      },
+      {
+       "n": 23,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2014-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this funny story about three accidents and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the story.",
+      "Remember that there is one extra letter that you will not need."
+     ],
+     "title": "THREE ACCIDENTS",
+     "body": [
+      "A man was working on his motorcycle in the garden while his wife was making dinner. He started racing the engine of the motorcycle and somehow it started moving, so the man was dragged through a glass door and the motorcycle ended up on the floor inside the house. The wife ran into the dining room and found her husband lying on the floor, cut and bleeding, the motorcycle lying next to him and the glass door shattered. She immediately called an ambulance.",
+      "After the husband was taken to hospital, the wife pushed the motorcycle outside. Seeing that petrol had spilled on the floor, she wiped it up with some paper towels and threw them into the toilet.",
+      "Two hours later, after arriving home from the hospital, the husband looked at the shattered door and the damage done to his motorcycle. He became depressed, went into the bathroom, sat on the toilet and smoked a cigarette. After finishing the cigarette, he flipped it into the toilet bowl while still seated. The wife, who was in the kitchen, heard a very loud explosion.",
+      "She ran into the bathroom and found her husband on the floor. He was suffering burns on his bottom and the back of his legs. The wife called for an ambulance again and the same crew was sent. They loaded the husband onto a stretcher and began carrying him down to the street.",
+      "While going down the steps, the paramedics asked the wife how the husband had burned himself. She told them, and they started laughing so hard that one of them tipped the stretcher and dropped the husband. He fell down the remaining steps and broke his ankle.",
+      "(www.urbanlegends.about.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "because the situation was so funny."
+      },
+      {
+       "key": "B",
+       "text": "because the wife hadn’t flushed the toilet."
+      },
+      {
+       "key": "C",
+       "text": "when it accidentally crashed into the house."
+      },
+      {
+       "key": "D",
+       "text": "so his wife helped him get into the ambulance."
+      },
+      {
+       "key": "E",
+       "text": "after cleaning up the mess."
+      },
+      {
+       "key": "F",
+       "text": "because her husband was injured."
+      },
+      {
+       "key": "G",
+       "text": "because his legs were injured."
+      },
+      {
+       "key": "H",
+       "text": "after getting home and seeing the results of the accident."
+      },
+      {
+       "key": "I",
+       "text": "so the toilet exploded."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The man was repairing his motorbike",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "The wife called an ambulance",
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "stem": "The wife threw the dirty towels into the toilet",
+       "answer": "E"
+      },
+      {
+       "n": 26,
+       "stem": "The man was really sad",
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "stem": "The accident in the bathroom happened",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "The cigarette was still burning",
+       "answer": "I"
+      },
+      {
+       "n": 29,
+       "stem": "The man had to be carried to the ambulance",
+       "answer": "G"
+      },
+      {
+       "n": 30,
+       "stem": "The third and last accident happened",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 8,
+    "13": 8,
+    "14": 9,
+    "15": 10,
+    "16": 10,
+    "17": 11,
+    "18": 12,
+    "19": 12,
+    "20": 13,
+    "21": 14,
+    "22": 14,
+    "23": 15,
+    "24": 15,
+    "25": 16,
+    "26": 17,
+    "27": 17,
+    "28": 18
+   },
+   "tasks": [
+    {
+     "id": "2014-maj-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read about the Model T, a famous car built by Henry Ford at the beginning of the 20th century. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "A CHEAP CAR",
+     "body": [
+      "Cars were the toys of the {{0}} in the early days. But it was Detroit farmboy Henry Ford's dream to {{1}} \"a motor car for the majority of people – a car so low in price that any man making a good salary {{2}} be able to buy one.\"",
+      "{{3}} he finally realized his dream, with the launch of the Model T Ford in 1908, the effect was revolutionary. In 1908, {{4}} than 200,000 people in the U.S. owned cars; five years {{5}} 250,000 owned Model Ts alone. By 1930, over 15 million Ts had been sold.",
+      "The key to Ford's success was mass production. {{6}} Ford, small teams of men built complete cars. In the Ford factory, each worker {{7}} just one small component, as partly constructed cars were {{8}} quickly past on the production line. By using huge teams of men working systematically to build huge numbers of cars, he {{9}} sell them all very cheaply. Also, Ford claimed that his car was available in \"any color you {{10}}, as long as it's black.\" This meant painting was cheap and simple too.",
+      "(Richard Sutton: Eyewitness Car)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ADDED"
+      },
+      {
+       "key": "B",
+       "text": "BEFORE"
+      },
+      {
+       "key": "C",
+       "text": "RICH"
+      },
+      {
+       "key": "D",
+       "text": "BUILD"
+      },
+      {
+       "key": "E",
+       "text": "COULD"
+      },
+      {
+       "key": "F",
+       "text": "FEWER"
+      },
+      {
+       "key": "G",
+       "text": "LATER"
+      },
+      {
+       "key": "H",
+       "text": "LIKE"
+      },
+      {
+       "key": "I",
+       "text": "PULLED"
+      },
+      {
+       "key": "K",
+       "text": "SELL"
+      },
+      {
+       "key": "L",
+       "text": "WHEN"
+      },
+      {
+       "key": "M",
+       "text": "WILL"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D",
+       "alt": [
+        "K"
+       ]
+      },
+      {
+       "n": 2,
+       "answer": "M"
+      },
+      {
+       "n": 3,
+       "answer": "L"
+      },
+      {
+       "n": 4,
+       "answer": "F"
+      },
+      {
+       "n": 5,
+       "answer": "G"
+      },
+      {
+       "n": 6,
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 10,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2014-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read about the guards at the Tower of London. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE HISTORY OF THE YEOMAN WARDERS",
+     "body": [
+      "The guards at the Tower of London {{0}} called Yeoman Warders. In principle they are responsible {{11}} looking after any prisoners at the Tower and safeguarding the British crown jewels, but in practice they act as tour guides and are {{12}} tourist attraction in their own right. Nobody knows more about the history of the Tower {{13}} them and no visit is complete without joining one of their tours. Having guarded this royal palace and fortress for centuries they will fascinate you with amazing stories, passed on {{14}} generation to generation.",
+      "The Yeoman Warders {{15}} originally Henry VIII’s bodyguard. In 1509, he decided to leave twelve of his old and sick Yeoman behind in the Tower {{16}} protect it. He took the rest of the bodyguard away with him. The twelve he left are the “ancestors” of the twelve Yeoman Warders {{17}} guard the Tower still today.",
+      "Their nickname is Beefeater, which people often think comes {{18}} the French word – 'buffetier'. Buffetiers were guards in the palace of French kings. They protected the king’s food. {{19}}, it is more probable that the name Beefeater dates from the time {{20}} the Yeoman Warders were given chunks of beef as part of their salary.",
+      "(www.woodlands-junior.kent.sch.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "are"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "a"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "who",
+        "that"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "actually",
+        "anyway",
+        "however",
+        "nevertheless",
+        "nonetheless",
+        "yet"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "when"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2014-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the history of the Statue of Liberty. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (21-28).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE LIGHT OF LIBERTY",
+     "body": [
+      "On July 4, 1884 France presented the United States with an {{0}} birthday gift: the Statue of Liberty! The statue standing in New York Harbor has welcomed {{21}}, immigrants, and returning Americans traveling by ship for more than a century. It’s a {{22}} symbol of freedom and democracy.",
+      "It started one night near Paris in 1865. A group of Frenchmen were discussing their dictator- like emperor and the democratic {{23}} of the U.S. They decided to build a monument to American freedom – and strengthen French demands for democracy in their own country. Frédéric-Auguste Bartholdi, the {{24}} sculptor, was there. He imagined a statue of a woman holding a torch burning with the light of freedom.",
+      "Turning Bartholdi’s idea into {{25}} took 21 years. Americans paid for the pedestal and French {{26}} raised money to build the statue. It was built in France, presented to the U.S., taken apart, shipped across the Atlantic Ocean and rebuilt in the U.S. It was {{27}} dedicated on October 28, 1886.",
+      "At that time the statue was the tallest structure in the U.S. {{28}} climb 354 steps to look out from 25 windows in the crown. The seven rays in the crown represent the Earth’s seven seas.",
+      "(www.nationalgeographic/kids.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "credible",
+       "example": true,
+       "accept": [
+        "incredible"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "visit",
+       "accept": [
+        "visitors"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "universe",
+       "accept": [
+        "universal"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "govern",
+       "accept": [
+        "government"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "fame",
+       "accept": [
+        "famous"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "real",
+       "accept": [
+        "reality"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "support",
+       "accept": [
+        "supporters",
+        "support"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "final",
+       "accept": [
+        "finally"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "tour",
+       "accept": [
+        "tourists"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2014-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear some information about an informal holiday which is celebrated in many parts of the world.",
+      "Your task will be to complete the sentences with two words in each sentence. Please use the exact words that you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_14maj_fl.mp3",
+      "start": 0,
+      "end": 609.2,
+      "clip": "hang/k_angol_14maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "People celebrate {{gap}} {{gap}} Day all over the world.",
+       "gaps": [
+        [
+         "April"
+        ],
+        [
+         "Fools’"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Besides running bogus news stories, the media in the United States also promotes {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "false"
+        ],
+        [
+         "products"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The victim of the prank will attract {{gap}} {{gap}} if he or she gets upset about it.",
+       "gaps": [
+        [
+         "bad"
+        ],
+        [
+         "luck"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "In France, the {{gap}} prank is to tape a fish to someone’s {{gap}}.",
+       "gaps": [
+        [
+         "traditional"
+        ],
+        [
+         "back"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "In the old days, the fish was a real {{gap}} fish, but now it is most often a {{gap}} fish.",
+       "gaps": [
+        [
+         "dead"
+        ],
+        [
+         "paper"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "April Fools’ Day celebrations last for {{gap}} days in {{gap}}.",
+       "gaps": [
+        [
+         "two",
+         "2"
+        ],
+        [
+         "Scotland"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "They give someone a(n) {{gap}} {{gap}} that they are supposed to deliver.",
+       "gaps": [
+        [
+         "urgent"
+        ],
+        [
+         "note"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "In Poland, celebrations often involve {{gap}} up in {{gap}}.",
+       "gaps": [
+        [
+         "dressing"
+        ],
+        [
+         "costumes"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Polish April Fools’ Day is basically a holiday for {{gap}} but {{gap}} also take part in the fun.",
+       "gaps": [
+        [
+         "children"
+        ],
+        [
+         "adults"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak akkor adható pont, ha mindkét szó elfogadható. Fél pont nincs!)"
+     }
+    },
+    {
+     "id": "2014-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear some information about two lions, Brutus and Marina.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_14maj_fl.mp3",
+      "start": 609.2,
+      "end": 1265.77,
+      "clip": "hang/k_angol_14maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Brutus was about five years old when he was rescued.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "In spite of his small cage, Brutus was in good condition.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "Brutus was taken away from his owner by animal welfare campaigners.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Brutus’ territory in Shamwari was as big as a football field.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Marina and Sarnia were found at night.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "The two cubs enjoyed watching TV with Monica.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Monica thinks that the cubs might have been stolen from a rich pet owner.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The two young lionesses were immediately attracted to Brutus.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Sarnia died of food poisoning.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Unlike Brutus, Marina is very active.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Unfortunately, they aren’t going to have any cubs.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2014-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear an interview with superstar dog Pudsey’s seventeen-year-old trainer, Ashleigh Butler, whose dog trick act won first prize in the television talent show Britain’s Got Talent. Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_14maj_fl.mp3",
+      "start": 1265.77,
+      "end": 1795.19,
+      "clip": "hang/k_angol_14maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Ashleigh and Pudsey won Britain’s Got Talent in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "2010."
+        },
+        {
+         "key": "B",
+         "text": "2011."
+        },
+        {
+         "key": "C",
+         "text": "2012."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "Pudsey …",
+       "options": [
+        {
+         "key": "A",
+         "text": "doesn’t like Simon very much."
+        },
+        {
+         "key": "B",
+         "text": "might walk away with Simon."
+        },
+        {
+         "key": "C",
+         "text": "is a big fan of grandma."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Ashleigh was very nervous of ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "the Jay Leno Show."
+        },
+        {
+         "key": "B",
+         "text": "flying in a private jet."
+        },
+        {
+         "key": "C",
+         "text": "travelling with Simon."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Some months ago, Ashleigh knew ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "what she wanted to do."
+        },
+        {
+         "key": "B",
+         "text": "that she would succeed."
+        },
+        {
+         "key": "C",
+         "text": "she was living a perfect life."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "When Ashley has to go off to do other things, her ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "mum looks after her brother and sister."
+        },
+        {
+         "key": "B",
+         "text": "father can help her any time."
+        },
+        {
+         "key": "C",
+         "text": "grandma sometimes takes care of the little ones."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Ashleigh is quite ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "sure her new show will be much better than her Britain’s Got Talent show."
+        },
+        {
+         "key": "B",
+         "text": "worried because of the growing expectations."
+        },
+        {
+         "key": "C",
+         "text": "glad that they didn’t use all their moves and routines in the talent show."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Ashleigh ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "has less than a month to prepare for the Royal Variety Performance."
+        },
+        {
+         "key": "B",
+         "text": "still doesn’t know what kind of music she will choose."
+        },
+        {
+         "key": "C",
+         "text": "thinks that harmonizing the music and the moves is easy."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Pudsey ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "finds the camera funny."
+        },
+        {
+         "key": "B",
+         "text": "feels when the camera is on."
+        },
+        {
+         "key": "C",
+         "text": "sniffs around the camera."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

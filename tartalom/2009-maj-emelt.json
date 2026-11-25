@@ -1,0 +1,1644 @@
+{
+ "formatVersion": 1,
+ "id": "2009-maj-emelt",
+ "year": 2009,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2009-05-07",
+ "code": "0912",
+ "sourceFiles": {
+  "paper": "2009. Emeltszintű május-június érettségi/e_angol_09maj_fl.pdf",
+  "key": "2009. Emeltszintű május-június érettségi/e_angol_09maj_ut.pdf",
+  "audio": "2009. Emeltszintű május-június érettségi/e_angol_09maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2009-maj-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz olvasott szöveg alapján",
+     "points": 8,
+     "instructions": [
+      "Read this article about some beautiful tourist spots and then read the questions (1-8) that follow.",
+      "Your task is to give short answers consisting of maximum two words based on the information in the article."
+     ],
+     "title": "ISLAND HOPPING",
+     "body": [
+      "Some of the best places to visit in the world are much closer than you might think",
+      "If you live in Britain, you don’t have to go far to find places listed in the book Unforgettable Islands To Escape To Before You Die. It only takes a couple of hours to scoot away and explore everything from snowy Arctic wastes to balmy Mediterranean paradises. Here are some must-sees...",
+      "The Southern Dalmatian islands of Croatia are some of the most untouched parts of the Mediterranean. Until recently, many of them were closed by the military. But this doesn’t mean they lack charm. You can walk the cobbled streets of the fortified town of Korcula, (alleged birthplace of Marco Polo), eat fresh fish in the hidden harbour of Lastovo or visit the Blue Cave − so called because of the effect of sunlight shining through an underwater entrance.",
+      "The best way to see the islands is by boat. Sail Croatia offers good prices on skippered yachts. At night you can moor in a quiet spot and eat on board or drop anchor closer to shore and hang out in a restaurant. During the day, explore the islands or sail to a deserted cove to swim in bright turquoise water.",
+      "The Svalbard Archipelago, comprising over a thousand islands, almost all of them uninhabited, is officially part of Norway but is well within the Arctic Circle. In the winter, the sun never shines but in the short summer there is permanent daylight. The archipelago is home to the fierce polar bear. They wander freely across the pack ice, hunting for seals. If you walk outside the tiny settlement of Longyearbyen on the island of Spitsbergen, you are advised to have an armed guard to keep you safe.",
+      "The remote east of Svalbard is stunningly beautiful, with mountains, glaciers and kilometres of floating pack ice. The Explorer, owned by Gap Adventures, cruises these waters looking out for polar bears, walruses and reindeer.",
+      "Closer to home, don’t miss the Isles of Scilly. Just off the coast of Cornwall, each of these islands has its own character. Bryher is sometimes hit by gale force winds that sweep in from the Atlantic, but the islands generally enjoy a balmy sub-tropical climate. On Tresco you can walk through forests of giant tree ferns from New Zealand and appreciate cacti from all over the world. There are kilometres of unspoilt beaches, as well as the highest concentration of archaeological sites in the country. There are burial chambers, menhirs (standing stones) and the remains of Stone Age villages."
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "maxWords": 2
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Where does the information contained in the article come from? {{gap}}",
+       "accept": [
+        "A book"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Who used to be the only people allowed on some islands in southern Croatia? {{gap}}",
+       "key": "Soldiers / The army / The military / Military people / Armed forces.",
+       "keywords": [
+        [
+         "soldiers"
+        ],
+        [
+         "army"
+        ],
+        [
+         "military"
+        ],
+        [
+         "military",
+         "people"
+        ],
+        [
+         "armed",
+         "forces"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Where does the article suggest you can eat if you don’t feel like going to a restaurant? {{gap}}",
+       "key": "On board. (Esetleg: The/Your boat/yacht.)",
+       "keywords": [
+        [
+         "board"
+        ],
+        [
+         "boat"
+        ],
+        [
+         "yacht"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Apart from Korcula, how many more sights in Dalmatia are recommended by the writer? {{gap}}",
+       "key": "Two / 2.",
+       "keywords": [
+        [
+         "two"
+        ],
+        [
+         "2"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Which Norwegian island can be dangerous unless you have adequate protection? {{gap}}",
+       "key": "Spitsbergen.",
+       "keywords": [
+        [
+         "spitsbergen"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "What is the name of the ship that will take you to the eastern part of Svalbard? {{gap}}",
+       "key": "(The) Explorer.",
+       "keywords": [
+        [
+         "explorer"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "What makes the climate of Bryher different from the other islands’? {{gap}}",
+       "key": "(The) wind(s) / gale(s). Vagy: Strong/high winds.",
+       "keywords": [
+        [
+         "wind"
+        ],
+        [
+         "winds"
+        ],
+        [
+         "gale"
+        ],
+        [
+         "gales"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "What makes it possible for tree ferns and cacti to grow on Tresco? {{gap}}",
+       "key": "The/Its climate. (Esetleg: sub-tropical climate)",
+       "keywords": [
+        [
+         "climate"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "In addition to their natural beauty, what else are the Scilly Isles exceptionally rich in? {{gap}}",
+       "key": "Archeological sites.",
+       "keywords": [
+        [
+         "archeological",
+         "sites"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article on British immigrants in Bulgaria and then read the sentences (9-13) following the text.",
+      "Your task is to decide which of the options A, B, C or D best completes each sentence according to the information in the text."
+     ],
+     "title": "INFLUX OF ’SPONGERS’ ... FROM UK",
+     "body": [
+      "Immigrants are being accused of drug dealing, tax-dodging, sponging off the state and taking advantage of free healthcare. The immigrants are Britons − and their accusers are Bulgarians.",
+      "After all the complaints at home about migrants from eastern Europe, Britons are on the receiving end as they take advantage of Bulgaria’s low cost of living, cheap property and mild climate.",
+      "Martin Rogers, 66, who moved to Bulgaria after retiring, said locals were just jealous because British people were buying up the best properties and had more money. But Peter Kandilarov, regional director for Varna in eastern Bulgaria, said he was fed up with dealing with British troublemakers who cause problems with drugs, run unlicensed bars and dodge taxes. He said: “We are getting flooded with requests from British people who want free dental care ─ but do any of them pay health insurance? No.”",
+      "Cheap flights and Bulgaria’s entry into the European Union have made the country an attractive destination for Britons. At first they were welcomed but now many complain about their behaviour and alleged disregard for local laws.",
+      "Property firm Asta Bridge estimates 29 per cent of all real estate in Bulgaria is owned by foreigners − 67 per cent of them British and Irish."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The article says that",
+       "options": [
+        {
+         "key": "A",
+         "text": "more and more Eastern Europeans are moving to Britain."
+        },
+        {
+         "key": "B",
+         "text": "most Eastern Europeans in the UK are involved in crime."
+        },
+        {
+         "key": "C",
+         "text": "Bulgarians are happy about the growing number of Britons in Bulgaria."
+        },
+        {
+         "key": "D",
+         "text": "Bulgarians are worried about the growing number of Britons in Bulgaria."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "stem": "One of the reasons for the tension between immigrants and locals is that",
+       "options": [
+        {
+         "key": "A",
+         "text": "locals think Britons shouldn’t be allowed to buy land in Bulgaria."
+        },
+        {
+         "key": "B",
+         "text": "locals think Britons make unfair use of the opportunities in Bulgaria."
+        },
+        {
+         "key": "C",
+         "text": "retired people complain that prices are going up too fast."
+        },
+        {
+         "key": "D",
+         "text": "rich Britons tend to look down on local people."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "An official in Varna finds it unacceptable that many Britons",
+       "options": [
+        {
+         "key": "A",
+         "text": "come to Varna after they retire."
+        },
+        {
+         "key": "B",
+         "text": "spend time in unlicensed bars."
+        },
+        {
+         "key": "C",
+         "text": "refuse to pay taxes for their cars."
+        },
+        {
+         "key": "D",
+         "text": "show no respect for the law."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "stem": "Britons find Bulgaria a pleasant country to live in because of",
+       "options": [
+        {
+         "key": "A",
+         "text": "the welcome they get from local people."
+        },
+        {
+         "key": "B",
+         "text": "the good investment opportunities that it offers."
+        },
+        {
+         "key": "C",
+         "text": "a combination of various factors."
+        },
+        {
+         "key": "D",
+         "text": "the chance to avoid paying taxes."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Bulgarian attitudes to British immigrants",
+       "options": [
+        {
+         "key": "A",
+         "text": "have changed over the years."
+        },
+        {
+         "key": "B",
+         "text": "are often extremely unfriendly."
+        },
+        {
+         "key": "C",
+         "text": "give cause for complaint."
+        },
+        {
+         "key": "D",
+         "text": "worry the British authorities."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Statistics show that",
+       "options": [
+        {
+         "key": "A",
+         "text": "almost one third of property in Bulgaria now belongs to foreigners."
+        },
+        {
+         "key": "B",
+         "text": "Britons have bought up almost two thirds of all real estate."
+        },
+        {
+         "key": "C",
+         "text": "joint British-Irish investments are on the increase."
+        },
+        {
+         "key": "D",
+         "text": "Asta Bridge is the most successful real estate firm in the region."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "Read this article on the Queen of England’s finances. Some words have been left out from the text.",
+      "Your task is to fill the gaps (14-23) with expressions from the list (A-N).",
+      "Remember that there are two extra phrases that you will not need."
+     ],
+     "title": "QUEEN ASKS FOR EXTRA £1M TO REPAIR DECREPIT PALACES",
+     "body": [
+      "Pieces falling off historic buildings",
+      "The Queen is seeking an extra £1 million of {{0}} to save her crumbling palaces. Matters came to a head this year when a lump of stone {{14}} fell from a Buckingham Palace façade and narrowly missed the Princess Royal’s parked car. Another piece fell off as guests arrived for a Palace reception for the scientific community.",
+      "At Windsor Castle an area of lead roof the size of the Wimbledon Centre Court and Court No.1 {{15}} is in pressing need of renewal; at Buckingham Palace two thirds of the roof is at least 120 years old, and cannot go on indefinitely with make-do patching.",
+      "Sir Alan Reid, the accountant {{16}} of the Queen’s money, said the annual government grant for the maintenance of the royal palaces had been frozen at £15 million in 1991 and had since declined {{17}} by more than two thirds in real terms.",
+      "“We are seriously behind schedule {{18}}, and if our historic buildings are to remain safe it is essential that the grant is increased by £1 million a year,” Sir Alan said.",
+      "Royal officials fear that unless they can keep up a rolling programme of repairs and replacement, {{19}} will eventually become hideously expensive. They also fear that the enormous amount of construction work involved in building London’s Olympic facilities will lead to hugely {{20}} for other customers seeking skilled tradesmen.",
+      "A Palace property manager, standing in the Quadrangle and gesturing at the crumbling east façade and the three other sides in dire need of cleaning, said: “There are bound to be a lot of receptions here during the Olympics; it would be nice if visitors from around the world found such a famous building {{21}}.”",
+      "Overall, this year the monarchy cost the taxpayer £37.3 million, marginally less than last year. Sir Alan described it as less than the cost of two {{22}} for every man, woman and child in the country.",
+      "The figure infuriates anti-monarchists, who point out that it ignores the huge {{23}}, estimated to be at least £100 million a year but never disclosed in official figures."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "in maintenance projects"
+      },
+      {
+       "key": "B",
+       "text": "the size of a shoebox"
+      },
+      {
+       "key": "C",
+       "text": "taxpayers’ money"
+      },
+      {
+       "key": "D",
+       "text": "lack of attention"
+      },
+      {
+       "key": "E",
+       "text": "1st-class stamps"
+      },
+      {
+       "key": "F",
+       "text": "essential work"
+      },
+      {
+       "key": "G",
+       "text": "in good repair"
+      },
+      {
+       "key": "H",
+       "text": "security bill"
+      },
+      {
+       "key": "I",
+       "text": "combined"
+      },
+      {
+       "key": "K",
+       "text": "in pursuit"
+      },
+      {
+       "key": "L",
+       "text": "increased costs"
+      },
+      {
+       "key": "M",
+       "text": "in charge"
+      },
+      {
+       "key": "N",
+       "text": "in value"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "answer": "I"
+      },
+      {
+       "n": 16,
+       "answer": "M"
+      },
+      {
+       "n": 17,
+       "answer": "N"
+      },
+      {
+       "n": 18,
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "answer": "F"
+      },
+      {
+       "n": 20,
+       "answer": "L"
+      },
+      {
+       "n": 21,
+       "answer": "G"
+      },
+      {
+       "n": 22,
+       "answer": "E"
+      },
+      {
+       "n": 23,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about an art exhibition in London and then read the gapped sentences (24-30) that follow the text.",
+      "Your task is to fill the gaps with maximum three words based on the information in the text."
+     ],
+     "title": "BARBARIANS AT THE GATE",
+     "body": [
+      "It’s easy to create a work of art these days, isn’t it? The doors of the gallery have been flung wide open. No need for years of training, life classes, copying old masters. It’s all been democratised, and anyone can do it. Right?",
+      "Well, that’s what some of us at the Daily Telegraph arts desk were hoping when we came up with the idea of trying to get into the Royal Academy Summer Exhibition.",
+      "It’s the granddady of all open access shows, the country’s greatest opportunity − no, the world’s greatest opportunity − for painters to get their works on the walls of a prestigious gallery.",
+      "We knew the odds were stacked against us − there were, after all, almost 9,000 entries this year, and only 1,000 of them were successful. But working on the arts desk would give us a head start, surely. We look at art all the time, write about it, commission articles on it, go to art galleries.",
+      "So, with the crazy carelessness of amateur climbers trying to scale Everest in their afternoon off, we set out to make art. There were the bureaucratic hoops to jump through − registration forms, entry forms, barcodes, sticky labels. But that wasn’t the big problem. The big problem was that we are journalists.",
+      "It took Michelangelo four years to paint the Sistine Chapel, but give a journalist a deadline and he won’t think about starting until the night before. Suddenly the date for delivery was almost upon us and there were nervous questions about how long paint took to dry. One of us managed to create a sculpture without leaving the office, and on delivery day another could be seen waiting nervously on Buckingham Palace Road for a courier with an emergency framing job.",
+      "The results, though, amazed us. Even allowing for compulsory politeness to friends and colleagues, what we had produced didn’t seem too bad at all. Some had revealed unsuspected skill, others great imagination and others, well, a certain low cunning.",
+      "Did any of us get in? No. But we’d taken part in a remarkable British institution, we’d felt a sense of fellowship with the extraordinary community of have-a-go artists, and we had reawakened faculties which in some of us had lain dormant since childhood.",
+      "And we consoled ourselves with the thought cherished by rejected artists through the ages − the world isn’t ready for us yet.",
+      "These days the art world appears to be {{0}} than it used to be.",
+      "Every summer the Royal Academy in London has {{24}} exhibition. This means anyone can enter their paintings.",
+      "The writer of this article and his colleagues work for {{25}}.",
+      "They knew it was going to be difficult to get into the show as there were about {{26}} art works than places.",
+      "Because of their background they thought that their chances were {{27}} ordinary people’s.",
+      "As journalists usually do, they didn’t start work until {{28}}.",
+      "However, the quality of the finished products made them feel {{29}}.",
+      "The fact that they hadn’t {{30}} didn’t disappoint them at all; they felt that taking part had been a worthwhile experience."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "much more democratic"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "an open access"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "the Daily Telegraph",
+        "a daily paper",
+        "a newspaper"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "nine times more",
+        "9 times more",
+        "eight thousand more",
+        "8,000 more",
+        "8000 more"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "much better than",
+        "greater than",
+        "better than"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "the last minute",
+        "the last night",
+        "the last moment",
+        "the last day",
+        "near the deadline",
+        "around the deadline"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "happy",
+        "proud",
+        "surprised",
+        "amazed",
+        "satisfied",
+        "content"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "got in",
+        "gotten in",
+        "succeeded",
+        "been successful",
+        "been accepted",
+        "gained entry",
+        "achieved their aim"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 42,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 11,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 16,
+    "24": 17,
+    "25": 18,
+    "26": 19,
+    "27": 19,
+    "28": 20,
+    "29": 21,
+    "30": 21,
+    "31": 22,
+    "32": 23,
+    "33": 24,
+    "34": 24,
+    "35": 25,
+    "36": 26,
+    "37": 26,
+    "38": 27,
+    "39": 28,
+    "40": 29,
+    "41": 29,
+    "42": 30
+   },
+   "tasks": [
+    {
+     "id": "2009-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about an English tradition. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (1-10) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE FLITCH TRIALS",
+     "body": [
+      "Every four years couples gather in the Essex village of Great Dunmow to convince a group {{0}} complete strangers that their marriage is not on the rocks.",
+      "The lucky pairs who manage {{1}} persuade the “jury” that their marriage is the real deal are paraded through the streets and a “flitch” of bacon awaits as a prize.",
+      "The Flitch Trial is thought to date {{2}} to the 12th Century and is one of several unusual events {{3}} place around England this weekend. Graeme Wade, from the organising committee, said the event was {{4}} popular that a selection panel was needed to choose the five lucky couples who are taking {{5}} on Saturday. “I think in our electronic age, a traditional event that was born so many centuries {{6}} captures the imagination,” he said.",
+      "The flitch of bacon is half a pig {{7}} has been smoked and salted. It {{8}} considered to be a fantastic prize in the days when meat was known to be very expensive. The jury is {{9}} up of “six maids and six bachelors” and the couples on trial must have {{10}} married for at least a year and a day. It is the kind of cheerful event that captures the spirit of the English summer, and is particularly popular with visitors from abroad."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "back"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "taking"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "so"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "part"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "ago"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "made"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "been"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about an interesting job opportunity. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (11-20).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE BEST JOB IN THE WORLD",
+     "body": [
+      "Desperate to grab what's being called the “Best Job in the World”, thousands of {{0}} from across the globe have submitted video {{11}} to the Queensland tourism department in Australia for its latest advertised {{12}} - a $150,000 contract to relax on Hamilton Island in the Great Barrier Reef for six months while writing a blog to promote the island.",
+      "{{13}} to the advertisement has been mind-boggling. More than a million {{14}} have logged onto the website that advertises the job since it was {{15}} on Monday.",
+      "On Thursday an {{16}} team of 10 people were sifting through the 2,000 videos the department had already received, with tens of thousands more expected before the February 22 deadline.",
+      "In exchange for the tempting salary, free {{17}} in an oceanfront villa and airfare from the winner's home country, the {{18}} will be required to perform such {{19}} tasks as strolling the island's white sand beaches, snorkelling its crystal clear waters and exploring other islands along the reef.",
+      "The job is part of a $1.1 million campaign to advertise the {{20}} of north- eastern Queensland and the winner will be required to post videos and photos on a weekly blog to help promote the area."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "hope",
+       "example": true,
+       "accept": [
+        "hopefuls"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "apply",
+       "accept": [
+        "applications"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "vacant",
+       "accept": [
+        "vacancy"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "respond",
+       "accept": [
+        "response"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "visit",
+       "accept": [
+        "visitors"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "public",
+       "accept": [
+        "publicized",
+        "publicised"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "exhaust",
+       "accept": [
+        "exhausted"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "accommodate",
+       "accept": [
+        "accommodation"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "employ",
+       "accept": [
+        "employee"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "tire",
+       "accept": [
+        "tiring",
+        "tiresome"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "charm",
+       "accept": [
+        "charm",
+        "charms"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read Steve Rosenberg’s account of his experiences in the hotel of the future. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (21-29) in the text."
+     ],
+     "title": "HOTEL HEAVEN",
+     "body": [
+      "I love travelling. I enjoy {{0}} new places. But there is something about hotel rooms which often makes me {{21}} to turn around, rush home and lock away my suitcases forever.",
+      "Over the years I have stayed in some real “shoeboxes” around the world - rooms which have {{22}} not only size, but also character and comfort.",
+      "But thanks to German scientists, the hotel experience is about to be transformed. They have developed a “hotel room of the future”. The idea is to show hotels how new technology can help {{23}}.",
+      "To be honest, it looks more like a flying saucer than a hotel room - it is round, white and filled with glass and gadgets. {{24}} my guide, scientist Mr Dreharov, research {{25}} that straight lines and corners in hotel rooms are guaranteed to leave guests feeling depressed.",
+      "Mr Dreharov presses a button. Suddenly, everything in the room turns red ... then green ... and then blue. The bed looks like a normal double bed, but {{26}}. As I lie down it starts moving and rocks me gently from side to side like a baby in a cradle.",
+      "There are {{27}} other innovations in this futuristic hotel room. In the hotel bathroom of the future, you can relax in the jacuzzi and, with the help of a remote control, check your e- mails in the bathroom mirror, {{28}} doubles as a screen. At the touch of a button the window becomes a giant video screen. I climb back onto the moving bed, settle down under the {{29}} soft lights, and watch a film on the window. Now that's what I call hi-tech hotel heaven."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "to discover"
+        },
+        {
+         "key": "B",
+         "text": "discover"
+        },
+        {
+         "key": "C",
+         "text": "discovering"
+        },
+        {
+         "key": "D",
+         "text": "being discovered"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "wanting"
+        },
+        {
+         "key": "B",
+         "text": "want"
+        },
+        {
+         "key": "C",
+         "text": "have wanted"
+        },
+        {
+         "key": "D",
+         "text": "to want"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "needed"
+        },
+        {
+         "key": "B",
+         "text": "undergone"
+        },
+        {
+         "key": "C",
+         "text": "missed"
+        },
+        {
+         "key": "D",
+         "text": "lacked"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "guests relax"
+        },
+        {
+         "key": "B",
+         "text": "to guests relax"
+        },
+        {
+         "key": "C",
+         "text": "guests relaxing"
+        },
+        {
+         "key": "D",
+         "text": "guests relaxed"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "According to"
+        },
+        {
+         "key": "B",
+         "text": "Due to"
+        },
+        {
+         "key": "C",
+         "text": "As for"
+        },
+        {
+         "key": "D",
+         "text": "But for"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "show"
+        },
+        {
+         "key": "B",
+         "text": "had shown"
+        },
+        {
+         "key": "C",
+         "text": "has shown"
+        },
+        {
+         "key": "D",
+         "text": "was showing"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "options": [
+        {
+         "key": "A",
+         "text": "it doesn’t"
+        },
+        {
+         "key": "B",
+         "text": "it isn’t"
+        },
+        {
+         "key": "C",
+         "text": "unlike it"
+        },
+        {
+         "key": "D",
+         "text": "it is"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "options": [
+        {
+         "key": "A",
+         "text": "plenty"
+        },
+        {
+         "key": "B",
+         "text": "lot of"
+        },
+        {
+         "key": "C",
+         "text": "plenty of"
+        },
+        {
+         "key": "D",
+         "text": "a lot"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "options": [
+        {
+         "key": "A",
+         "text": "what"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "it"
+        },
+        {
+         "key": "D",
+         "text": "which"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 29,
+       "options": [
+        {
+         "key": "A",
+         "text": "harsh"
+        },
+        {
+         "key": "B",
+         "text": "blinding"
+        },
+        {
+         "key": "C",
+         "text": "sharp"
+        },
+        {
+         "key": "D",
+         "text": "changing"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read an article about a new mountain in Wales. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "HIKERS MAKE MOUNTAIN OUT OF AN OLD WELSH HILL",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Three hikers have made it a mountain out of an old Welsh hill.",
+       "answer": "it"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "Great Britain's national mapping agency said on Friday it would",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "reclassify one of Wales' peaks after three walkers conducted their",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "own survey of what had been considered just like a very high hill.",
+       "answer": "like"
+      },
+      {
+       "n": 32,
+       "text": "The agency had been listed Mynydd Graig Goch in Snowdonia as",
+       "answer": "been"
+      },
+      {
+       "n": 33,
+       "text": "1,998 feet (608.99 meters) high, just short of the required 2,000",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "feet (609.6 meters) very needed for mountain status. But the three",
+       "answer": "very"
+      },
+      {
+       "n": 35,
+       "text": "walkers thought Mynydd Graig Goch was not more than just a hill.",
+       "answer": "not"
+      },
+      {
+       "n": 36,
+       "text": "They borrowed a surveying equipment from a Swiss company that",
+       "answer": "a"
+      },
+      {
+       "n": 37,
+       "text": "makes satellite positioning technology, and rather spent a day",
+       "answer": "rather"
+      },
+      {
+       "n": 38,
+       "text": "taking the 7,000 readings which necessary to complete a survey.",
+       "answer": "which"
+      },
+      {
+       "n": 39,
+       "text": "Mynydd Graig Goch turned it out to be 2,000.5 feet (609.75",
+       "answer": "it"
+      },
+      {
+       "n": 40,
+       "text": "meters) high, as making it a mountain with a good 6 inches to",
+       "answer": "as"
+      },
+      {
+       "n": 41,
+       "text": "spare. The mapping agency was persuaded. New versions of the",
+       "answer": null
+      },
+      {
+       "n": 42,
+       "text": "agency’s maps, which will appear in the next few months later, will",
+       "answer": "later"
+      }
+     ],
+     "outro": "reflect Mynydd Graig Goch's newly elevated status."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 20,
+    "18": 21,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 27,
+    "24": 28,
+    "25": 29,
+    "26": 30
+   },
+   "tasks": [
+    {
+     "id": "2009-maj-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a radio interview with John Pasche, a British artist.",
+      "Your task will be to circle the letter or letters of the correct answer or answers in the boxes on the right. Please note that in this task both answers may be correct. This means you will have to circle either A or B, or both A and B.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_09maj_fl.mp3",
+      "start": 0,
+      "end": 699.2,
+      "clip": "hang/e_angol_09maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "John Pasche designed a logo ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "for the Rolling Stones."
+        },
+        {
+         "key": "B",
+         "text": "in 1970."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Mick Jagger was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "looking for visual images for his band."
+        },
+        {
+         "key": "B",
+         "text": "an art student in London."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "John Pasche …",
+       "options": [
+        {
+         "key": "A",
+         "text": "met Mick Jagger at his degree show."
+        },
+        {
+         "key": "B",
+         "text": "designed a poster for the band."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Mick Jagger …",
+       "options": [
+        {
+         "key": "A",
+         "text": "invited John to go on the band's European tour."
+        },
+        {
+         "key": "B",
+         "text": "wanted to talk to John about a logo."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "The logo was inspired by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the band's feelings about British society."
+        },
+        {
+         "key": "B",
+         "text": "Mick Jagger's lips and mouth."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "John …",
+       "options": [
+        {
+         "key": "A",
+         "text": "designed the logo in a fortnight."
+        },
+        {
+         "key": "B",
+         "text": "was paid £200 for the logo in 1970."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "John has sold the logo …",
+       "options": [
+        {
+         "key": "A",
+         "text": "to a museum in London."
+        },
+        {
+         "key": "B",
+         "text": "for more than £50,000."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "John needs the money to cover the expenses of his …",
+       "options": [
+        {
+         "key": "A",
+         "text": "son's education."
+        },
+        {
+         "key": "B",
+         "text": "holidays abroad."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2009-maj-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear hear some interesting information about the dangers of using your mobile phone in stormy weather.",
+      "Your task is to give short answers to the questions below.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_09maj_fl.mp3",
+      "start": 699.2,
+      "end": 1256.58,
+      "clip": "hang/e_angol_09maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "How many thunderstorms are there at any one time around the world? There are {{gap}}.",
+       "accept": [
+        "1,800"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "What is the chance of being hit by lightning? It's about {{gap}}.",
+       "key": "one/1 in three/3 million",
+       "keywords": [
+        [
+         "1",
+         "3000000"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "According to UK doctors, what exactly directs the current into the body? The {{gap}}.",
+       "key": "metal (in the phone/mobile/cell phone)",
+       "keywords": [
+        [
+         "metal"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Which magazine reported the case of the 15-year-old girl? The {{gap}}.",
+       "key": "British Medical Journal",
+       "keywords": [
+        [
+         "british",
+         "medical",
+         "journal"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Besides her heart, what part of the girl's body got injured? Her {{gap}}.",
+       "key": "(right) ear(drum)",
+       "keywords": [
+        [
+         "ear"
+        ],
+        [
+         "eardrum"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Who found three other cases of people being hit by lightning? The doctors who {{gap}}.",
+       "key": "treated the girl/her",
+       "keywords": [
+        [
+         "treated",
+         "girl"
+        ],
+        [
+         "treated",
+         "her"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "According to Linda Esprit, why does lightning cause much worse injuries if you are holding a mobile? Because the current will {{gap}}.",
+       "key": "flow through your/the body",
+       "keywords": [
+        [
+         "flow",
+         "body"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "What does Linda Esprit think mobile phone manufacturers should do? They should {{gap}}.",
+       "key": "warn consumers/buyers/people (of the dangers)",
+       "keywords": [
+        [
+         "warn",
+         "consumers"
+        ],
+        [
+         "warn",
+         "buyers"
+        ],
+        [
+         "warn",
+         "people"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "According to Ramsey Farragher, what is not a good idea? Holding onto a {{gap}}.",
+       "key": "metal pole",
+       "keywords": [
+        [
+         "metal",
+         "pole"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "According to Chris Abraham, who can people call? They can call {{gap}}.",
+       "key": "emergency services",
+       "keywords": [
+        [
+         "emergency",
+         "services"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2009-maj-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear a report about how Canaletto, the famous 18th century painter, might help save Venice.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_09maj_fl.mp3",
+      "start": 1256.58,
+      "end": 1795.58,
+      "clip": "hang/e_angol_09maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Venice is in danger because of floods and pollution.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "A flood barrier is being built near the city.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "The researchers involved in the project are in Venice at the moment.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "According to Mr. Camuffo, today's pollution has nothing to do with the problem.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Due to the spring floods, there are green lines of algae on the walls.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Most artists in the 18th century painted exactly what they saw.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "The most important part of the camera obscura was the frosted glass suface.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Canaletto's paintings are as accurate as photographs.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "Venice has changed a lot over the centuries.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The green lines of algae in Canaletto's paintings are a lot of help to scientists.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "The systematic measuring of the water levels started in the 18th century.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1235 @@
+{
+ "formatVersion": 1,
+ "id": "2016-okt-kozep",
+ "year": 2016,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2016-10-20",
+ "code": "1621",
+ "sourceFiles": {
+  "paper": "2016 - Középszintű októberi/k_angol_16okt_fl.pdf",
+  "key": "2016 - Középszintű októberi/k_angol_16okt_ut.pdf",
+  "audio": "2016 - Középszintű októberi/k_angol_16okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 31,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30,
+    "29": 31,
+    "30": 32,
+    "31": 33
+   },
+   "tasks": [
+    {
+     "id": "2016-okt-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read these emails about an accident involving some ketchup and then read the statements (1-9) following it.",
+      "Mark a sentence A if it is true according to the text.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or false."
+     ],
+     "title": "KETCHUP ON MY TROUSERS!",
+     "body": [
+      "An email exchange between a senior lawyer and a secretary at a London law firm over a £4 dry cleaning bill has made the news in the international media. Here is the original email from Richard Phillips, the lawyer and the bitterly ironic answer from Jenny Amner, one of the secretaries at the firm.",
+      "(www.cnn.com)",
+      "From: Phillips, Richard Sent: 25 May 2005 15:27 To: Amner, Jenny Subject: Ketchup trousers Hi Jenny I went to a dry cleaner’s shop at lunch and they said it would cost £4 to remove the ketchup stains. If you could let me have the cash today, that would be much appreciated. Thanks Richard Richard Phillips Senior Associate Commercial Department Baker & McKenzie 100 New Bridge Street London EC4V 6JA From: Amner, Jenny Sent: 03 June 2005 10:25 To: Phillips, Richard Cc: *LONDON - ALL USERS 3RD FLOOR Subject: RE: Ketchup trousers With reference to your email, I must apologise for not getting back to you straight away but due to my mother's sudden illness, death and funeral I have had more important problems than your £4. I apologise again for accidentally getting a few splashes of ketchup on your trousers. Clearly your financial need as a senior associate is greater than mine as a simple secretary. After I spoke to various partners, lawyers and trainees, and showed them your email, they kindly offered to start a collection to raise the £4. I, however, didn’t accept their kind offer – but if you feel an urgent need for the £4, it will be on my desk this afternoon.",
+      "Jenny"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The incident has been reported in several countries.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "The dry cleaners would clean Richard’s trousers for £4.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "The dry cleaner’s shop was right next to Richard’s office.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "Richard wanted Jenny to pay the £4 on the day he wrote the email.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Jenny replied to Richard’s request as soon as it was sent.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "In her current situation Richard’s trousers didn’t seem very significant to Jenny.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Jenny’s mother died in an accident.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Jenny said she was sorry about spilling ketchup on Richard’s trousers.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Jenny’s colleagues felt that she shouldn’t pay the £4 herself.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Jenny decided to leave the money in Richard’s office.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with Sylvia Earle, one of the world's best known marine scientists, some questions have been removed.",
+      "Your task is to match the questions (A-I) and the answers (10-16).",
+      "There is an extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nMy personal beginning was in south Jersey on a little farm. My parents moved to Florida when I was 12 and my backyard was the Gulf of Mexico.",
+      "{{10}}\nThe best scientists and explorers have the attributes of kids! They have a sense of wonder. They have curiosity. Who, what, where, why, when, and how?! I never stop asking questions just like a five year old.",
+      "{{11}}\nGoing under water... Saving the ocean... Being a fish… I would love to slip into the skin of a fish and know what it’s like to be one. They have senses that I can only dream about.",
+      "{{12}}\nOf course! And my family has always stood by me.",
+      "{{13}}\nIt’s always the next place. And I love to go back to the places I have known over the years.",
+      "{{14}}\nThe ocean is the cornerstone of our life support system and the cornerstone of the ocean’s life support system is life in the ocean.",
+      "{{15}}\nDon’t take “no” for an answer and find out what you want to do and then find a way to make it happen. You can spend many lifetimes fulfilling the dreams of others. But if you have a dream of your own, don’t wait. Just find a way to make that dream come true.",
+      "{{16}}\nI rarely go anywhere without a camera. I am not a photographer, but taking photographs helps me to remember and to document. Oh, and a bathing suit.",
+      "(nationalgeographic.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What is the best piece of advice anyone has ever given you?"
+      },
+      {
+       "key": "B",
+       "text": "What is the best place you have ever traveled to?"
+      },
+      {
+       "key": "C",
+       "text": "Where did you grow up?"
+      },
+      {
+       "key": "D",
+       "text": "How much free time do you have?"
+      },
+      {
+       "key": "E",
+       "text": "Have you got into a lot of trouble?"
+      },
+      {
+       "key": "F",
+       "text": "Why is the ocean so important to life on Earth?"
+      },
+      {
+       "key": "G",
+       "text": "What do you daydream about?"
+      },
+      {
+       "key": "H",
+       "text": "What can’t you travel without?"
+      },
+      {
+       "key": "I",
+       "text": "What are some important qualities to have in your profession?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "I"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "answer": "F"
+      },
+      {
+       "n": 15,
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "Read this text about an incident at a zoo.",
+      "Some parts of the sentences have been left out from the text.",
+      "Your task is to reconstruct the story by filling in the gaps (17-26) from the list (A-M) below."
+     ],
+     "title": "WOLVES ESCAPE FROM ESSEX ZOO",
+     "body": [
+      "Three wolves have been shot dead after the captive animals broke a fence and escaped from Colchester Zoo in Essex. The wolves {{0}} by zookeepers during an eight-hour hunt involving armed police officers and a helicopter.",
+      "The search for the animals {{17}} on Tuesday when zookeepers found that five of the six wolves at the zoo had escaped through a damaged zoo fence. One of the wolves {{18}} and another was captured after it had been shot with an anaesthetic dart. The other three wolves {{19}} the area of the zoo. Essex police sent a helicopter and armed officers to the scene. Police {{20}} to stay away from the area even though zoo officials said that the wolves {{21}} anybody unless cornered.",
+      "The hunt ended shortly after 4pm when the final missing wolf {{22}} hiding in bushes. The animal was shot dead. A Colchester Zoo spokeswoman said the zookeepers {{23}} by the death of the wolves and that a full report on the matter {{24}}. The spokeswoman explained that the decision to shoot the animals was taken because an anaesthetic dart took 15 minutes before it had any effect and that \"it {{25}} at all in a stressed animal\". The zoo added in a statement: \"They are wild animals, and in an unexpected situation they {{26}} to people. We have obviously had a very difficult day and would be grateful for your consideration. We have nothing further to add at this time.\"",
+      "(www.theguardian.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "would be published soon"
+      },
+      {
+       "key": "B",
+       "text": "had left"
+      },
+      {
+       "key": "C",
+       "text": "were shot"
+      },
+      {
+       "key": "D",
+       "text": "began at dawn"
+      },
+      {
+       "key": "E",
+       "text": "could have been a danger"
+      },
+      {
+       "key": "F",
+       "text": "warned the public"
+      },
+      {
+       "key": "G",
+       "text": "were terribly upset"
+      },
+      {
+       "key": "H",
+       "text": "might not work"
+      },
+      {
+       "key": "I",
+       "text": "returned to the zoo"
+      },
+      {
+       "key": "K",
+       "text": "damaged the fence"
+      },
+      {
+       "key": "L",
+       "text": "was discovered"
+      },
+      {
+       "key": "M",
+       "text": "would not attack"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "answer": "D"
+      },
+      {
+       "n": 18,
+       "answer": "I"
+      },
+      {
+       "n": 19,
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "answer": "F"
+      },
+      {
+       "n": 21,
+       "answer": "M"
+      },
+      {
+       "n": 22,
+       "answer": "L"
+      },
+      {
+       "n": 23,
+       "answer": "G"
+      },
+      {
+       "n": 24,
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "answer": "H"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read this history of Kellogg’s Cornflakes, the popular breakfast cereal.",
+      "Some sentences are missing.",
+      "Your task is to put the jumbled sentences (A-G) back in order.",
+      "Remember that there is one extra sentence that you will not need."
+     ],
+     "body": [
+      "William Keith Kellogg was the founder of the W.K. Kellogg Foundation, founded in 1906.",
+      "{{0}}",
+      "{{27}}",
+      "{{28}}\nWhen he rolled the softened wheat and let it dry, each grain of wheat became a large thin flake.",
+      "{{29}}",
+      "{{30}}\nAnd so, Kellogg invented corn flakes.",
+      "{{31}}\nWilliam Keith Kellogg eventually opened his own cereal business, and its most famous product is still sold today.",
+      "(inventors.about.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "To his delight, the baked flakes turned out to be really tasty."
+      },
+      {
+       "key": "B",
+       "text": "One day he accidentally left a pot of boiled wheat to stand and the wheat became soft."
+      },
+      {
+       "key": "C",
+       "text": "In 1894, William Keith Kellogg's brother Dr John Harvey Kellogg tried to improve the diet of hospital patients."
+      },
+      {
+       "key": "D",
+       "text": "Later, he tried several techniques to refine the product."
+      },
+      {
+       "key": "E",
+       "text": "Surprisingly, the product did not come out in long sheets."
+      },
+      {
+       "key": "F",
+       "text": "He was trying to make an easily digestible bread substitute by boiling wheat."
+      },
+      {
+       "key": "G",
+       "text": "He baked the flakes and tasted them."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      },
+      {
+       "n": 28,
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "answer": "G"
+      },
+      {
+       "n": 30,
+       "answer": "A"
+      },
+      {
+       "n": 31,
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 3,
+    "6": 4,
+    "7": 4,
+    "8": 5,
+    "9": 6,
+    "10": 6,
+    "11": 7,
+    "12": 7,
+    "13": 8,
+    "14": 9,
+    "15": 9,
+    "16": 10,
+    "17": 11,
+    "18": 11,
+    "19": 12,
+    "20": 12,
+    "21": 13,
+    "22": 14,
+    "23": 14,
+    "24": 15,
+    "25": 16,
+    "26": 16,
+    "27": 17,
+    "28": 17,
+    "29": 18
+   },
+   "tasks": [
+    {
+     "id": "2016-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a text about a fair held every October where servants and farm workers used to go to find work for the next year. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "HIRING FAIRS",
+     "body": [
+      "October used to be the {{0}} for 'Mop' or Hiring Fairs. Servants and farm labourers {{1}} to work from October to October and then go to the centre of the town to hire themselves out again for the next year. They dressed in their best clothes, and to let people know {{2}} work they wanted, they used to wear or carry {{3}} sign of their work. Maids carried a small mop (that's where we get the name Mop Fairs {{4}} ), a shepherd had wool, a gardener had flowers etc. The new masters and mistresses walked around the fair and talked to the people. {{5}} they had come to an agreement, they {{6}} the servant a small coin. The servant {{7}} off the sign of his job and replaced it with a bunch of brightly coloured ribbons to let everyone know that he had been hired.",
+      "The custom remains today in some towns and villages {{8}} the country. In Stratford, which is home {{9}} one of the country's biggest fairs, the Mop {{10}} a funfair after World War I. It is usually held around 12 October. (www.woodlands-junior.kent.sch.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AROUND"
+      },
+      {
+       "key": "B",
+       "text": "BECAME"
+      },
+      {
+       "key": "C",
+       "text": "TIME"
+      },
+      {
+       "key": "D",
+       "text": "FROM"
+      },
+      {
+       "key": "E",
+       "text": "GAVE"
+      },
+      {
+       "key": "F",
+       "text": "MANY"
+      },
+      {
+       "key": "G",
+       "text": "SOME"
+      },
+      {
+       "key": "H",
+       "text": "TO"
+      },
+      {
+       "key": "I",
+       "text": "TOOK"
+      },
+      {
+       "key": "K",
+       "text": "USED"
+      },
+      {
+       "key": "L",
+       "text": "WHAT"
+      },
+      {
+       "key": "M",
+       "text": "WHEN"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "K"
+      },
+      {
+       "n": 2,
+       "answer": "L"
+      },
+      {
+       "n": 3,
+       "answer": "G"
+      },
+      {
+       "n": 4,
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "answer": "M"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "answer": "I"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about Admiral Horatio Lord Nelson, who was a British naval commander and national hero. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (11-18).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "ADMIRAL NELSON",
+     "body": [
+      "Born on 29 September 1758, Nelson was the {{0}} of the 11 children of a priest. He joined the navy {{11}} 12, on a ship commanded by an uncle. He became a captain at 20, and served in the West Indies, the Baltic and Canada.",
+      "When Britain entered the {{12}} Revolutionary Wars in 1793, Nelson became a commander. He helped capture Corsica and fought at Calvi, where he lost the sight in his right eye. He later lost his right arm too.",
+      "As a commander he was known for his courage and he {{13}} ignored his seniors' orders. This brought him victories against the {{14}} in 1797, and at the Battle of Copenhagen four years later, where he ignored orders to stop {{15}} by putting his telescope to his blind eye and claiming he couldn't see the signal to withdraw.",
+      "Between 1794 and 1805, under Nelson's {{16}} leadership, the Royal Navy won several battles against Napoleon. His most {{17}} engagement, at Cape Trafalgar, saved Britain from the threat of {{18}} by Napoleon, but it was his last. He was killed by a sniper on 21 October 1805.",
+      "(www.bbc.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "six",
+       "example": true,
+       "accept": [
+        "sixth"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "age",
+       "accept": [
+        "aged"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "France",
+       "accept": [
+        "French"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "occasional",
+       "accept": [
+        "occasionally"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "Spain",
+       "accept": [
+        "Spanish",
+        "Spaniards"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "fight",
+       "accept": [
+        "fighting"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "success",
+       "accept": [
+        "successful"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "fame",
+       "accept": [
+        "famous"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "invade",
+       "accept": [
+        "invasion"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a duchess who is planning to give away her fortune because she wants to marry a public servant. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-29) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "IN THE NAME OF LOVE",
+     "body": [
+      "The Duchess of Alba, who is {{0}} of the richest women in Spain, owns a dozen castles whose walls are hung with works {{19}} Goya, Velazquez and Titian, and is a distant relative of Winston Churchill and Diana, Princess of Wales. Now, however, {{20}} 18th Duchess of Alba is giving away her enormous personal fortune in {{21}} to be free to marry a public servant.",
+      "According to Guinness World Records, Maria del Rosario has more titles {{22}} any noble on Earth: she is a duchess seven times, a countess 22 and a marquesa 24 times. As head of the 539-year-old House of Alba, her privileges include {{23}} having to kneel before the Pope {{24}} the right to ride on horseback into Seville cathedral.",
+      "But the children of the duchess, 85, {{25}} until now blocked her plans to marry Alfonso Diez, 24 years her junior. Her six children, who – as she likes to point out – are all divorced, {{26}} all born from her first marriage. She plans to overcome her children's opposition by giving {{27}} their inheritance in advance.",
+      "The duchess's personal wealth {{28}} estimated at around $2 billion, and she has {{29}} able to give her children a palace each, as well as a chunk of the thousands of hectares of Spain that she owns.",
+      "(Guardian News & Media)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "one"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "order"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "not",
+        "never"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "and",
+        "plus"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "them"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "is"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "been"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2016-okt-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear a moving story about Navy Commander Cindy Murray and Navy Chief Robert Williamson.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_16okt_fl.mp3",
+      "start": 0,
+      "end": 618.62,
+      "clip": "hang/k_angol_16okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This story is about …",
+       "options": [
+        {
+         "key": "A",
+         "text": "two friends."
+        },
+        {
+         "key": "B",
+         "text": "a married couple."
+        },
+        {
+         "key": "C",
+         "text": "a brother and sister."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "They haven’t seen each other for more than … years.",
+       "options": [
+        {
+         "key": "A",
+         "text": "twenty-five"
+        },
+        {
+         "key": "B",
+         "text": "thirty"
+        },
+        {
+         "key": "C",
+         "text": "thirty-five"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 2,
+       "stem": "When Cindy and Robert met, they first gave each other a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "salute."
+        },
+        {
+         "key": "B",
+         "text": "hug."
+        },
+        {
+         "key": "C",
+         "text": "kiss."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Cindy and Robert had the same ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "father and mother."
+        },
+        {
+         "key": "B",
+         "text": "mother."
+        },
+        {
+         "key": "C",
+         "text": "father."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "There are … years between Cindy and Robert.",
+       "options": [
+        {
+         "key": "A",
+         "text": "six"
+        },
+        {
+         "key": "B",
+         "text": "seven"
+        },
+        {
+         "key": "C",
+         "text": "eight"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Cindy found out that her brother was also in the Navy from …",
+       "options": [
+        {
+         "key": "A",
+         "text": "her father."
+        },
+        {
+         "key": "B",
+         "text": "her officer."
+        },
+        {
+         "key": "C",
+         "text": "a database."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Cindy’s officer … Robert.",
+       "options": [
+        {
+         "key": "A",
+         "text": "emailed"
+        },
+        {
+         "key": "B",
+         "text": "phoned"
+        },
+        {
+         "key": "C",
+         "text": "texted"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The search for his sister was very difficult for Robert because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he wasn’t allowed to use the Internet in the army."
+        },
+        {
+         "key": "B",
+         "text": "Cindy had changed her family name."
+        },
+        {
+         "key": "C",
+         "text": "it made him extremely upset."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "Robert and his wife plan to spend the weekend with his …",
+       "options": [
+        {
+         "key": "A",
+         "text": "father."
+        },
+        {
+         "key": "B",
+         "text": "sister."
+        },
+        {
+         "key": "C",
+         "text": "father and his sister."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a true story about a Costa Rican fisherman who survived a 5-month drift in a boat on the ocean.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_16okt_fl.mp3",
+      "start": 618.62,
+      "end": 1220.09,
+      "clip": "hang/k_angol_16okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Joel Gonzales kissed his wife goodbye on December 24, 1988.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "He was going on a weekend fishing trip with his friends.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "There were four men on the fishing boat.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "The storm lasted for more than two weeks.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "They used their fishing nets to catch big turtles.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "They burnt up parts of the their boat to make fire to cook the meat.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "They collected rainwater on a roof they built themselves.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "It was extremely hot at the beginning of June.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "The men never really believed they would die.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "When the Japanese boat found them, they were all unconscious.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2016-okt-kozep-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear a strange but true story about an aggressive cat called Cuppy.",
+      "Your task will be to give short answers to the questions below using the exact words you hear.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_16okt_fl.mp3",
+      "start": 1220.09,
+      "end": 1795.4,
+      "clip": "hang/k_angol_16okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Where was the incident first shown? It was shown {{gap}}",
+       "accept": [
+        "on TV Stateside"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "What number did the two women call? They called {{gap}}",
+       "key": "911",
+       "keywords": [
+        [
+         "911"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "What piece of clothing did Cuppy attack? The younger woman’s {{gap}}",
+       "key": "nightdress",
+       "keywords": [
+        [
+         "nightdress"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Where did the two women hide? In the {{gap}}",
+       "key": "bedroom",
+       "keywords": [
+        [
+         "bedroom"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "What department did the police suggest they should call? The {{gap}}",
+       "key": "animal control (department)",
+       "keywords": [
+        [
+         "animal",
+         "control"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "What did Cuppy refuse to do? To {{gap}}",
+       "key": "back down",
+       "keywords": [
+        [
+         "back",
+         "down"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Why did Cuppy finally leave the house? Because he {{gap}}",
+       "key": "lost interest",
+       "keywords": [
+        [
+         "lost",
+         "interest"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "How long had Cuppy been with the family? For {{gap}}",
+       "key": "14 / fourteen years",
+       "keywords": [
+        [
+         "14",
+         "years"
+        ],
+        [
+         "fourteen",
+         "years"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Who would be outraged if the owners carried out their plan? Animal {{gap}}",
+       "key": "rights activists",
+       "keywords": [
+        [
+         "rights",
+         "activists"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

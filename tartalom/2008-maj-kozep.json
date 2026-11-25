@@ -1,0 +1,1299 @@
+{
+ "formatVersion": 1,
+ "id": "2008-maj-kozep",
+ "year": 2008,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2008-05-08",
+ "code": "0803",
+ "sourceFiles": {
+  "paper": "2008. Középszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_08maj_fl.pdf",
+  "key": "2008. Középszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_08maj_ut.pdf",
+  "audio": "2008. Középszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_08maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2008-maj-kozep-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this interview with Jenifer Greer Beggren, then look at the summary.",
+      "Your task is to fill the gaps in the summary with one or two words.",
+      "Two examples marked (0) have been given for you."
+     ],
+     "title": "The wedding photographer",
+     "body": [
+      "What sparked your interest in photography? \"My brother built a darkroom in his closet when we were kids. I thought it was cool.\"",
+      "What is the biggest lesson you took away from your experience in photography school? \"Don’t be afraid to experiment; don’t be afraid to fail; and always be open to new things. \"",
+      "Tell me about your company. \"I started it with my husband about a year and a half ago, not long after our own wedding.\"",
+      "How do you market yourself? \"Advertising has been a big part of my marketing this past year. I have built a good web site. I have printed ads in a few of the big wedding magazines, as well as web presence on their sites.\"",
+      "Your company specializes in wedding photography. What is it like to capture such special moments for others? \"Weddings are such an emotionally filled day, and photography to me is a very emotional process. Thank God for auto-focus because I still get a little teary during ceremonies. I tell my brides we are there to capture and not interfere with what is really happening. This style has allowed us to fulfill our creative impulses and please our clients.\"",
+      "Describe your typical day at work. \"I’m typically glued to my computer, mostly editing and working on the jobs we shot the past weekend. Only about 20% of my work is actually shooting, the rest is running the business.\"",
+      "What do you love the most about your job? \"I really like being my own boss.\"",
+      "Summary Jenifer Greer Beggren became interested in {{0}} as a child. Later she attended a (0) photography school. She started her own {{1}} after she got {{2}}. She advertises in {{3}} and on the internet. She enjoys taking wedding photos, but when she gets emotional, her {{4}} make it difficult for her to use her camera properly. She lets her {{5}} know about how she works, and they are satisfied with it. Although weddings usually take place at {{6}} she is busy every day. She enjoys her job, because she is her own {{7}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "photography"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "photography company",
+        "photography business",
+        "business",
+        "company"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "married"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "wedding magazines",
+        "magazines"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "tears",
+        "feelings",
+        "emotions"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "brides",
+        "clients",
+        "customers"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "the weekend",
+        "weekends"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "boss"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "rövid szövegek párosítása állításokhoz",
+     "points": 7,
+     "instructions": [
+      "Look at the following letters and the sentences following them.",
+      "Your task is to match the letters (8-14) to sentences A-I.",
+      "There is a sentence you do not need."
+     ],
+     "bankLead": "This letter",
+     "bank": [
+      {
+       "key": "A",
+       "text": "mentions money problems."
+      },
+      {
+       "key": "B",
+       "text": "says the entrance fee was not much."
+      },
+      {
+       "key": "C",
+       "text": "would like to see changes in a publication."
+      },
+      {
+       "key": "D",
+       "text": "asks for advice on automobiles."
+      },
+      {
+       "key": "E",
+       "text": "offers free tickets to a concert."
+      },
+      {
+       "key": "F",
+       "text": "is about a teenager’s problems."
+      },
+      {
+       "key": "G",
+       "text": "is about a concert."
+      },
+      {
+       "key": "H",
+       "text": "comments on an illustration."
+      },
+      {
+       "key": "I",
+       "text": "is about fans and a sports event."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Hi, I just want to say how much I enjoyed the show in London. Good to hear the new stuff, eg. More Stupid and the Nothing Song. Rod",
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "stem": "Hi, Our 17-month-old son just loves the O'Reilly Learning Python book. I think he especially likes the cute \"mouse\" on the cover. (I haven't had the guts to tell him that it's actually a rat). Just thought you might like to know. Jack",
+       "answer": "H"
+      },
+      {
+       "n": 9,
+       "stem": "Hi, My daughter Ashley is 9 years old. She is a very good singer of classic country. She would like to make a CD but we cannot afford it at this time. Could you let me know how we can start a fan club? Thank you. Angela",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Hi, Recently, my daughter managed to get tickets to The Number 14. Since the tickets were only $10.00, I wasn't expecting too much. However, I absolutely loved it! Pamela",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "I would just like to say what a totally enjoyable game it was today. The football was excellent. The organisation was great. A bit less bad language would be good (within earshot of children) and if anyone could give those male fans a few singing lessons it would be great. Beryl",
+       "answer": "I"
+      },
+      {
+       "n": 12,
+       "stem": "Sir, I have always looked for a new copy of your magazine at the stands, eagerly anticipating the poster inside. As a tennis fan, my choice is clear, but these days your emphasis on cricket has led to more and more posters of cricketers. Please can we have more posters of tennis stars? Vivek",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Hi Caroline, I need your help about my mum. My father left before I was born. I am 14. My mum had a little girl about 2 years ago so there’s a big age difference between us. These days my mum won't stop shouting at me about the littlest things. Please help. Thanx Hannah xx",
+       "answer": "F"
+      },
+      {
+       "n": 14,
+       "stem": "Dear Tom, My son lives and works in Japan. He might buy a car there and import it to the UK for resale. Is this a worthwhile idea? If so, could you suggest some models that would be popular on the UK market? B.K.",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In this text about the history of bottled water the beginnings of some sentences have been removed.",
+      "Match the beginnings below the text with the endings.",
+      "There is one extra letter that you do not need."
+     ],
+     "title": "The history of bottled water",
+     "body": [
+      "The origins of bottled water can be traced back to the earliest civilizations.",
+      "{{0}} after crossing the Pyrenees, Hannibal, the famous general of the Carthaginian army, rested his soldiers and elephants in France, at the Perrier spring.",
+      "{{15}} had its origins in baths dating from Roman times. Science and medicine proved the beneficial effects of using natural mineral water for bathing, showering and drinking.",
+      "{{16}} for the first time in France in the 1850s. The legal permit to bottle Vittel Grande Source natural mineral water was granted as early as 1855.",
+      "{{17}} had also become common in North America at that time.",
+      "In South America bottled water appeared in Brazil in 1890.",
+      "{{18}} natural mineral water was bottled in glass or stoneware. By the mid-twentieth century, however, bottling methods changed.",
+      "{{19}} by using the first plastic bottle. This new, lighter, stronger material improved packaging practicality.",
+      "{{20}} by its underground origin, its unique composition of minerals and trace elements, its original purity, and its health benefits.",
+      "{{21}} including spring water and specially formulated drinking water.",
+      "They have to meet certain well-defined standards.",
+      "The preference for the taste and convenience of bottled waters is growing year by year."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Today, other categories of bottled water exist,"
+      },
+      {
+       "key": "B",
+       "text": "In the early days"
+      },
+      {
+       "key": "C",
+       "text": "The spa movement that started in Europe in the eighteenth century"
+      },
+      {
+       "key": "D",
+       "text": "Vittel revolutionized the market in 1968"
+      },
+      {
+       "key": "E",
+       "text": "Water spas and the bottling of natural mineral waters"
+      },
+      {
+       "key": "F",
+       "text": "Natural mineral water distinguishes itself from other bottled waters"
+      },
+      {
+       "key": "G",
+       "text": "According to legend,"
+      },
+      {
+       "key": "H",
+       "text": "There have been a number of social and economic factors,"
+      },
+      {
+       "key": "I",
+       "text": "Cold spa waters were bottled"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "answer": "I"
+      },
+      {
+       "n": 17,
+       "answer": "E"
+      },
+      {
+       "n": 18,
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "answer": "F"
+      },
+      {
+       "n": 21,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read what an author says about her new novel and then read the statements (22-29) following the text.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false. Write the letters in the white boxes as in the example (0)."
+     ],
+     "body": [
+      "Children of the Stone Age Michelle Paver talks about Wolf Brother I’m often asked why I stopped writing for adults and wrote Wolf Brother. I didn’t. In fact, I never planned to write it at all, and when the story took hold, I was busy writing the third part of a historical trilogy. I had no time to spare for anything, let alone a six-book series about Stone Age hunter-gatherers.",
+      "Then one afternoon when I was leafing through some old notes, I came across a manuscript I had written at university, 20-odd years before. It was about a boy and a wolf struggling to survive in a forest. Something about it quickened my pulse. I wanted to rewrite it.",
+      "So I started running scenes in my mind’s eye, like a film. The demon-haunted bear rampaging through the forest … Torak, the 12-year old hero watching his father die … A stampede of reindeer seen through the eyes of a wolf … Soon I was scribbling in my notebook. I lived the adventure alongside Torak and Wolf. The research took me to places I had never thought I’d see, and I ended up sleeping on reindeer skins in Lapland.",
+      "Somebody once said that one’s real life is often the life that one does not lead. That’s true for me. When I was a child, I wanted a wolf, and a bow and an arrow, and to live like the Stone Age people. I wanted to build my own shelter and go hunting in the forest. I tried it, too. I got rid of my bed and slept on the floor for three years. I made tea from different herbs, and gave it to my little sister.",
+      "When I became an adult I didn’t grow out of all that, but it went underground. The childhood obsessions became a love of archaeology and the natural world; a fascination with the myths of Inuits and Native Americans; a lasting interest in wolf behaviour. Wolf Brother came to life when I realised that this was the world I had lost. This was the life I hadn’t led."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Wolf Brother is not Michelle Paver’s first book.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Her historical trilogy was also very successful.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "When at university, she found an old manuscript about a boy and a wolf.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "In Wolf Brother, Torak’s father is attacked by a bear.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Michelle Paver went to Lapland to research her topic.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "As a child, Paver tried to imitate the way Stone Age people lived.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Her parents once stopped her from going hunting in the woods.",
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "stem": "Paver’s herbal remedies often made her little sister ill.",
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "When she grew up, Paver’s interests had completely changed.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 26,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 12,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18
+   },
+   "tasks": [
+    {
+     "id": "2008-maj-kozep-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a boy’s adventure with his parents’ computer. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-10) in the text."
+     ],
+     "title": "JACK, 3, ONLINE",
+     "body": [
+      "Last week a three-year-old boy went on his mum’s computer – and bought {{0}} £9,000 car on eBay.",
+      "Cheeky Jack Neal made a successful bid for the Barbie pink Nissan Figaro. The boy’s mother Rachel, 36, and father John, 37, noticed that something {{1}} when they got a message from the internet auction site to congratulate {{2}}.",
+      "Rachel said: “We couldn’t understand {{3}} was happening. Neither of us had bought {{4}}. So we checked and saw it was a Barbie pink car {{5}} we’d bought for £8,999.99. We flew into a panic.”",
+      "By then Jack, who {{6}} just turned three, was asleep in bed. When he {{7}} next morning he was very excited and told {{8}} parents: “I’ve bought a car.”",
+      "Rachel believes she left her eBay password in her computer after leaving it. She said: “Jack is a wiz on the PC and just {{9}} all the right buttons.” John phoned the company and explained the mistake. {{10}}, they saw the funny side and said they would not insist on selling the car to the Neals."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "the"
+        },
+        {
+         "key": "C",
+         "text": "a"
+        },
+        {
+         "key": "D",
+         "text": "just"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "was wrong"
+        },
+        {
+         "key": "B",
+         "text": "is gone"
+        },
+        {
+         "key": "C",
+         "text": "was cheap"
+        },
+        {
+         "key": "D",
+         "text": "is missing"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "to them"
+        },
+        {
+         "key": "B",
+         "text": "their"
+        },
+        {
+         "key": "C",
+         "text": "them"
+        },
+        {
+         "key": "D",
+         "text": "on them"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "why"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "that"
+        },
+        {
+         "key": "D",
+         "text": "whether"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "anything"
+        },
+        {
+         "key": "B",
+         "text": "thing"
+        },
+        {
+         "key": "C",
+         "text": "nothing"
+        },
+        {
+         "key": "D",
+         "text": "everything"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "then"
+        },
+        {
+         "key": "B",
+         "text": "after"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "which"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "not"
+        },
+        {
+         "key": "B",
+         "text": "did"
+        },
+        {
+         "key": "C",
+         "text": "has"
+        },
+        {
+         "key": "D",
+         "text": "were"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "has woken"
+        },
+        {
+         "key": "B",
+         "text": "woke"
+        },
+        {
+         "key": "C",
+         "text": "wake"
+        },
+        {
+         "key": "D",
+         "text": "woken"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "his"
+        },
+        {
+         "key": "B",
+         "text": "to his"
+        },
+        {
+         "key": "C",
+         "text": "off his"
+        },
+        {
+         "key": "D",
+         "text": "about his"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "passed"
+        },
+        {
+         "key": "B",
+         "text": "pulled"
+        },
+        {
+         "key": "C",
+         "text": "put"
+        },
+        {
+         "key": "D",
+         "text": "pressed"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "Because"
+        },
+        {
+         "key": "B",
+         "text": "Although"
+        },
+        {
+         "key": "C",
+         "text": "Luckily"
+        },
+        {
+         "key": "D",
+         "text": "Unfortunately"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the effect of human activity on geography. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-19) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "RUINING THE PLANET",
+     "body": [
+      "Man’s behaviour is changing the face of the Earth so rapidly {{0}} famous landmarks could soon disappear from the map – this {{11}} what some recent disturbing pictures of the Aral Sea {{12}} Central Asia show.",
+      "The damage caused by draining lakes and rivers has resulted in thousands of changes in {{13}} newly-published 10th edition of ‘The Times Concise Atlas {{14}} the World’.",
+      "The Dead Sea could disappear in 20 years and Lake Chad in Africa is 95 per cent smaller {{15}} it was in 1963. The Colorado River in America and the Aral Sea could {{16}} lost entirely. Global warming has caused massive changes to mountains that were once covered with snow. Even Mount Kilimanjaro in Africa will lose its famous snows {{17}} the planet continues to heat up at this rate.",
+      "Atlas spokesman Simon Judges said: “Our latest edition shows the fact {{18}} humans are creating and destroying both our geography {{19}} our weather system. The consequences could be catastrophic.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "that"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "is"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "in",
+        "of",
+        "from",
+        "and"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "be"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "if"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "that"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "and"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about some ancient writing found in Mexico. Some words are missing from the text.",
+      "Use the words in brackets to form one word for each of the gaps (20-26).",
+      "Then write these words on the dotted lines after the text in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "OLDEST WRITING IN THE NEW WORLD",
+     "body": [
+      "Items men, women, and children left behind when they died – everything from clothing to jewellery and tools – tell {{0}} a lot. And sometimes even their words survive.",
+      "Experts believe that a {{20}} in Mexico is the oldest example of writing ever found in the Americas. The people who created it {{21}} lived 3,000 years ago, long before Christopher Columbus arrived in the New World.",
+      "Digging in a stone mine, {{22}} noticed a stone block with marks carved onto its surface. They found the large piece of stone in Cascajal, Mexico, near the capital city of an ancient people called the Olmec. \"There are signs on the block that seem to show {{23}} objects they used. For example, there is a sign that looks like a throne,\" an expert says. \"It is {{24}} because it makes it clear that the Olmec could read and write.\" But experts don’t know {{25}} what the writing says. If you have ever tried to figure out a message {{26}} in code, you have a pretty good idea of the hard work ahead. Finding other examples of Olmec writing could help crack the code."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "anthropology",
+       "example": true,
+       "accept": [
+        "anthropologists"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "discover",
+       "accept": [
+        "discovery"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "probable",
+       "accept": [
+        "probably"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "work",
+       "accept": [
+        "workers",
+        "workmen"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "religion",
+       "accept": [
+        "religious"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "excite",
+       "accept": [
+        "exciting"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "exact",
+       "accept": [
+        "exactly"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "write",
+       "accept": [
+        "written"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 23,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 9,
+    "7": 10,
+    "8": 11,
+    "9": 13,
+    "10": 14,
+    "11": 16,
+    "12": 17,
+    "13": 19,
+    "14": 20,
+    "15": 22,
+    "16": 23,
+    "17": 24,
+    "18": 26,
+    "19": 27,
+    "20": 29,
+    "21": 30,
+    "22": 32,
+    "23": 33
+   },
+   "tasks": [
+    {
+     "id": "2008-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a short, ironic text about Europe and some of its nations.",
+      "Your task will be to fill in the gaps in the chart with one word.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_08maj_fl.mp3",
+      "start": 0,
+      "end": 565.92,
+      "clip": "hang/k_angol_08maj_fl_H1.mp3"
+     },
+     "body": [
+      "KEY AREAS | EXPERTS | EU HEAVEN | EU {{0}}",
+      "food | cooks | French | {{6}}",
+      "political-societal environment | {{2}} | English | German",
+      "services & products | mechanics | {{4}} | French",
+      "money matters | {{3}} | Swiss | Italian",
+      "{{1}} | lovers | {{5}} | {{7}}"
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "hell"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "English"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "policemen"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "German"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "bankers"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "love"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "Italian"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "Swiss"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear Brian Perry, a guide, who is offering some tourists a sea adventure.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_08maj_fl.mp3",
+      "start": 565.92,
+      "end": 1168.88,
+      "clip": "hang/k_angol_08maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Cancun is a ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "village."
+        },
+        {
+         "key": "B",
+         "text": "country."
+        },
+        {
+         "key": "C",
+         "text": "resort."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "Cancun is a(n) ... word.",
+       "options": [
+        {
+         "key": "A",
+         "text": "Maya"
+        },
+        {
+         "key": "B",
+         "text": "Aztec"
+        },
+        {
+         "key": "C",
+         "text": "Inca"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Cancun Island ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is 12 kilometres long."
+        },
+        {
+         "key": "B",
+         "text": "looks like the letter 'U'."
+        },
+        {
+         "key": "C",
+         "text": "is connected to the mainland."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "The first Coral Reef Tour starts at ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "7am."
+        },
+        {
+         "key": "B",
+         "text": "8am."
+        },
+        {
+         "key": "C",
+         "text": "9am."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "The guide recommends the first tour because later the water gets ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "too hot."
+        },
+        {
+         "key": "B",
+         "text": "less clean."
+        },
+        {
+         "key": "C",
+         "text": "full of tourists."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "It takes ... minutes to get to the coral reef by speedboat.",
+       "options": [
+        {
+         "key": "A",
+         "text": "30"
+        },
+        {
+         "key": "B",
+         "text": "45"
+        },
+        {
+         "key": "C",
+         "text": "60"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "You mustn't …",
+       "options": [
+        {
+         "key": "A",
+         "text": "drive the boat at high speeds."
+        },
+        {
+         "key": "B",
+         "text": "take off the life jacket."
+        },
+        {
+         "key": "C",
+         "text": "snorkel for 60 minutes."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "If you are 16, the ticket costs …",
+       "options": [
+        {
+         "key": "A",
+         "text": "$19."
+        },
+        {
+         "key": "B",
+         "text": "$29."
+        },
+        {
+         "key": "C",
+         "text": "$39."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The guide suggests that the tourists bring ... with them.",
+       "options": [
+        {
+         "key": "A",
+         "text": "drinking water"
+        },
+        {
+         "key": "B",
+         "text": "sun cream"
+        },
+        {
+         "key": "C",
+         "text": "a towel"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an interview with Laura, a sixteen- year-old Canadian girl, who is in Hungary on a scholarship, about the differences between Hungarian and Canadian prices.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "k_angol_08maj_fl.mp3",
+      "start": 1168.88,
+      "end": 1796.7,
+      "clip": "hang/k_angol_08maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Hungarian prices are generally a lot lower than Canadian ones.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Quality makeup is surprisingly cheap in Hungary.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The interviewer suggests that cultural things are fairly cheap in Hungary.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Cinemas are a lot more expensive in Canada.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Cinemas are rather dangerous places in Canada.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "Laura has never been to a Broadway musical.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The interviewer suggests that theatre tickets are not cheap for Hungarians.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Public transport is a lot better in Hungary than in Canada.",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "Food is more expensive in Canada than in Hungary.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

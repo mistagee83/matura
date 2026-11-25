@@ -1,0 +1,1268 @@
+{
+ "formatVersion": 1,
+ "id": "2016-maj-kozep",
+ "year": 2016,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2016-05-05",
+ "code": "1611",
+ "sourceFiles": {
+  "paper": "2016 - Középszintű májusi/k_angol_16maj_fl.pdf",
+  "key": "2016 - Középszintű májusi/k_angol_16maj_ut.pdf",
+  "audio": "2016 - Középszintű májusi/k_angol_16maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2016-maj-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this letter and then read the sentences (1-7) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "body": [
+      "Dear Editor, I am writing to express my appreciation to some kind individual who was shopping at Lidl in Dewsbury last Wednesday.",
+      "I am a 69-year-old retired gentleman. I was taking my elderly uncle shopping at Lidl, as I do every week. After taking my uncle home and getting home myself, I realised that I had misplaced the bag that I normally carry around my waist containing my money and my personal belongings. I thought that this would be the last time it was seen!",
+      "However, I called the supermarket and to my surprise some kind person had found it by the door in the supermarket and handed it in to the cashier, complete with £30 and everything untouched.",
+      "Our town has had such a bad press recently. This goes to show that there are still kind, caring, genuine people about and I would like to say how proud of my community I am.",
+      "I am one very happy gentleman.",
+      "Yours faithfully, R. McG.",
+      "(www.batleynews.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The man regularly goes shopping with his uncle.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Out in the street the man noticed that he didn’t have his bag with him.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "He was sure he would find the bag.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "The bag was a present for his birthday.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The man contacted the supermarket by phone.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "The person who found the bag was an elderly gentleman.",
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "No money had disappeared from his bag.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "The man is happy about having nice people in his town.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with American meteorologist Greg Fishel the questions have been removed.",
+      "Your task is to write the letters of the questions (A-I) next to the appropriate numbers (8-14).",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nThere are several, but the March 1984 tornado outbreak was the worst tornado outbreak in North Carolina in 100 years!",
+      "{{8}}\nIn many ways, yes, although I have gotten better about this over the years. I have slowly learned that when things don't go as planned, it is an opportunity to learn.",
+      "{{9}}\nAs a teenager, I saw a television show. Elliot Abrams, one of the hosts of this program, is the biggest reason I decided to choose the field of meteorology.",
+      "{{10}}\nViewers wanted to get this type of information.",
+      "{{11}}\nThe central part of the state can experience the wildest weather. One night many years ago, I was doing the 11 p.m. broadcast and I showed a current temperature map. It was 15 °C in the city of Burlington and 1 °C in another town only 60 km away from it!",
+      "{{12}}\nThere is a plan. We’ve set up a routine to get as many of them on the forecast maps each week as possible.",
+      "{{13}}\nThe old saying goes: Learn more about what you're afraid of, so you won't be as scared any more! Find a group who actually know something about them, and who are scientifically oriented.",
+      "{{14}}\nDon’t get into this just because you want to be on TV.",
+      "(www.wral.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What are the most interesting weather areas in North Carolina and why?"
+      },
+      {
+       "key": "B",
+       "text": "How can I learn more about tornadoes?"
+      },
+      {
+       "key": "C",
+       "text": "What is the weather event that you will never forget?"
+      },
+      {
+       "key": "D",
+       "text": "What made you decide to use a 7-day forecast?"
+      },
+      {
+       "key": "E",
+       "text": "When a forecast doesn't happen as predicted, such as the snow that didn't come last winter, do you get disappointed?"
+      },
+      {
+       "key": "F",
+       "text": "What’s your typical work week like?"
+      },
+      {
+       "key": "G",
+       "text": "When did you become interested in this job?"
+      },
+      {
+       "key": "H",
+       "text": "What advice would you offer someone considering this career?"
+      },
+      {
+       "key": "I",
+       "text": "How do you choose which city you show the temperatures for each night?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "I"
+      },
+      {
+       "n": 13,
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following story about two naughty boys and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "THE GREAT NURSERY ESCAPE",
+     "body": [
+      "Two boys aged five dug under the fence of their Russian kindergarten playground in order to walk to a Jaguar car showroom to buy a 'grown-up car'. After using their sand spades over several days to dig their 'tunnel', the boys escaped from under their teacher's nose during an afternoon walk.",
+      "They then walked several miles to the Jaguar showroom in the Urals industrial city of Magnitogorsk. As police hunted for the friends, a woman noticed them looking at the expensive sports cars and asked them what they were doing. They happily told her they were there because their daddies’ cars were so similar to the ones they could see in the shop window, The Siberian Times reported. Eventually, the woman handed the boys over to the police.",
+      "Their worried parents decided not to complain at the shop when they realised that the children were safe. But the kindergarten teacher in charge of the boys was fired. As Olga Denisenko, Head of Pre-School Education in the city, explained: 'This is a very serious violation of rules. The head of the group that allowed this to happen had to leave.'",
+      "Sadly for the boys, they didn’t get their dream car, but they did have a couple of hours of freedom.",
+      "(dailymail.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to notice the boys’ disappearance."
+      },
+      {
+       "key": "B",
+       "text": "to have their children back."
+      },
+      {
+       "key": "C",
+       "text": "were five years old."
+      },
+      {
+       "key": "D",
+       "text": "to call the police."
+      },
+      {
+       "key": "E",
+       "text": "to have a car like their fathers’."
+      },
+      {
+       "key": "F",
+       "text": "to leave her job after the incident."
+      },
+      {
+       "key": "G",
+       "text": "to phone one of the teachers."
+      },
+      {
+       "key": "H",
+       "text": "to create their escape route."
+      },
+      {
+       "key": "I",
+       "text": "to go to a shop for expensive cars."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Both of the boys...",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "They escaped from the kindergarten…",
+       "answer": "I"
+      },
+      {
+       "n": 16,
+       "stem": "The boys used some toys…",
+       "answer": "H"
+      },
+      {
+       "n": 17,
+       "stem": "Their teacher failed…",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Eventually, the boys didn’t manage…",
+       "answer": "E"
+      },
+      {
+       "n": 19,
+       "stem": "The parents didn’t complain because they were happy…",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "One of the teachers was forced",
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "In this article about a man who flew to Australia for free, some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (21-30) from the list (A-M) below.",
+      "Remember that there is one extra phrase that you will not need."
+     ],
+     "title": "THE MAN WHO POSTED HIMSELF TO AUSTRALIA",
+     "body": [
+      "In the mid-1960s, Australian athlete Reg Spiers found himself stranded in London {{0}}. He really wanted to get back to Australia in time for his daughter's birthday, so {{21}}.",
+      "Built by one of Spiers' friends, the box allowed him to sit up straight-legged, or {{22}}. The two ends of the box were held in place by wooden pegs that he used to {{23}}. To stop anybody finding out that a person was inside, {{24}} and it was addressed to a fictitious Australian shoe company.",
+      "He packed some tinned food, a flashlight, a blanket and a pillow into the box plus two plastic bottles - one for water and one for urine, and then the box was ready {{25}} that was flying to Perth, Western Australia.",
+      "There was a stopover on the long journey in Bombay, where they parked Spiers - upside down - in the hot sun for four hours. \"It was really hot as hell in Bombay, so {{26}},\" he says. \"If they open the box then… Oh, it’s so funny even {{27}}!\"",
+      "When the flight finally landed in Perth, {{28}} and Spiers immediately recognised the accent of the Australian airport workers. He knew that finally {{29}}. Spiers had survived three days travelling in the wooden box. He managed to get back in time for his daughter's birthday and {{30}} that this whole story was true.",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to be put on an Air India plane"
+      },
+      {
+       "key": "B",
+       "text": "let himself out"
+      },
+      {
+       "key": "C",
+       "text": "with no money to buy a plane ticket home"
+      },
+      {
+       "key": "D",
+       "text": "they opened the doors"
+      },
+      {
+       "key": "E",
+       "text": "I took off all my clothes"
+      },
+      {
+       "key": "F",
+       "text": "lie on his back with his knees pulled up"
+      },
+      {
+       "key": "G",
+       "text": "his daughter got back home"
+      },
+      {
+       "key": "H",
+       "text": "to think about it"
+      },
+      {
+       "key": "I",
+       "text": "a sticker on the box said “RED PAINT”"
+      },
+      {
+       "key": "K",
+       "text": "he was at home"
+      },
+      {
+       "key": "L",
+       "text": "he decided to post himself in a wooden box"
+      },
+      {
+       "key": "M",
+       "text": "he could even convince his wife"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "L"
+      },
+      {
+       "n": 22,
+       "answer": "F"
+      },
+      {
+       "n": 23,
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "answer": "I"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "H"
+      },
+      {
+       "n": 28,
+       "answer": "D"
+      },
+      {
+       "n": 29,
+       "answer": "K"
+      },
+      {
+       "n": 30,
+       "answer": "M"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 3,
+    "6": 4,
+    "7": 4,
+    "8": 5,
+    "9": 5,
+    "10": 6,
+    "11": 7,
+    "12": 7,
+    "13": 8,
+    "14": 8,
+    "15": 9,
+    "16": 10,
+    "17": 10,
+    "18": 11,
+    "19": 11,
+    "20": 12,
+    "21": 13,
+    "22": 13,
+    "23": 14,
+    "24": 14,
+    "25": 15,
+    "26": 16,
+    "27": 16,
+    "28": 17,
+    "29": 17,
+    "30": 18
+   },
+   "tasks": [
+    {
+     "id": "2016-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about St George, the patron saint of England. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (1-10) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE PATRON SAINT OF ENGLAND",
+     "body": [
+      "St George is the patron saint of England. His emblem, a red cross {{0}} a white background, is the flag of England, and part of the British flag. St George's emblem was adopted {{1}} Richard The Lion Heart and brought to England in the 12th century. The king's soldiers wore it on their clothes {{2}} avoid confusion in battle.",
+      "One of {{3}} best-known stories about Saint George is his fight with a dragon. But it is very unlikely that he ever fought a dragon, and even {{4}} unlikely that he ever visited England. Despite this, people throughout the world know St George {{5}} the dragon-slaying patron saint of England.",
+      "Very little {{6}} known nowadays about the real St George. He was probably born into a noble Christian family in the late third century in Cappadocia, an area {{7}} is now in Turkey. He followed {{8}} father's example, became a soldier and served under the Roman Emperor Diocletian. When the emperor ordered the persecution of Christians, George refused to {{9}} part. In 303, he was tortured and executed in Palestine, becoming an early Christian martyr.",
+      "St George's Day is celebrated in England {{10}} 23 April, reputed to be the day of George's martyrdom in 303.",
+      "(www.woodlands-junior.kent.sch.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "by",
+        "under"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "the",
+        "our"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "more"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "as",
+        "is"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "is"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "which",
+        "that"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "his"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "take"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "on"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about Florence Nightingale (1820–1910), who is famous for her nursing work during the Crimean War (1854–56). Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (11-20).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "FLORENCE NIGHTINGALE",
+     "body": [
+      "Florence Nightingale changed nursing from a {{0}} untrained job to a highly skilled medical profession with very important {{11}}.",
+      "Florence Nightingale was born in 1820. Her father was a {{12}} landowner. At that time, rich English girls were expected to do - almost nothing. However, Florence's father believed that all women should receive an {{13}}. He taught Florence science, mathematics, history and philosophy.",
+      "As Florence grew up she developed an interest in {{14}} others. At first her parents refused to allow her to become a nurse because it wasn't a {{15}} profession for a well educated woman. But Florence didn't give up. Finally, in 1851 her father gave his {{16}} and Florence went to Germany to train to become a nurse.",
+      "In 1854 Florence went to Turkey to manage the nursing of {{17}} soldiers wounded in the Crimean War. She found the hospital conditions very poor. Many of the wounded were unwashed and were sleeping in {{18}}, dirty rooms without blankets or decent food. Diseases such as typhus spread {{19}}. As a result, the {{20}} rate among wounded soldiers was very high. Florence and her nurses set up a kitchen, fed the wounded from their own supplies and asked the wives of the wounded for help. They were then able to properly care for the ill and wounded.",
+      "(www.woodlands-junior.kent.sch.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "most",
+       "example": true,
+       "accept": [
+        "mostly"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "responsible",
+       "accept": [
+        "responsibilities"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "wealth",
+       "accept": [
+        "wealthy"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "educate",
+       "accept": [
+        "education"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "help",
+       "accept": [
+        "helping"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "suit",
+       "accept": [
+        "suitable"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "permit",
+       "accept": [
+        "permission"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "Britain",
+       "accept": [
+        "British",
+        "Britain’s"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "crowd",
+       "accept": [
+        "crowded"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "fast",
+       "accept": [
+        "fast"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "die",
+       "accept": [
+        "death"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-kozep-L3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an anecdote about a philosophy exam. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (21-30) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "THERE IS NO CHAIR",
+     "body": [
+      "An eccentric philosophy professor {{0}} his students a one-question final exam after a semester {{21}} with a wide range of topics. The class was already seated and ready to start the exam when the professor picked {{22}} his chair, put it on top of his desk and wrote on the board: \"Prove that this chair does not exist {{23}} everything we have learned this semester.\"",
+      "Fingers flew, erasers erased, notebooks {{24}} filled in furious fashion. Some students wrote over 30 pages in one hour {{25}} to disprove the existence of the chair. One member of the class, {{26}}, was up and finished in less than a minute. Everybody {{27}} astonished when he stood up, handed in his exam paper and left the room.",
+      "A week later, {{28}} the grades were posted on the notice board, the rest of the group wondered {{29}} he could have gotten an \"A\" when he had hardly written anything at all. His answer consisted {{30}} two words: \"What chair?\"",
+      "(www.stephen-knapp.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "DEALING"
+      },
+      {
+       "key": "B",
+       "text": "HOW"
+      },
+      {
+       "key": "C",
+       "text": "GAVE"
+      },
+      {
+       "key": "D",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "E",
+       "text": "OF"
+      },
+      {
+       "key": "F",
+       "text": "OFF"
+      },
+      {
+       "key": "G",
+       "text": "TRYING"
+      },
+      {
+       "key": "H",
+       "text": "UP"
+      },
+      {
+       "key": "I",
+       "text": "USING"
+      },
+      {
+       "key": "K",
+       "text": "WAS"
+      },
+      {
+       "key": "L",
+       "text": "WERE"
+      },
+      {
+       "key": "M",
+       "text": "WHEN"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "answer": "H"
+      },
+      {
+       "n": 23,
+       "answer": "I"
+      },
+      {
+       "n": 24,
+       "answer": "L"
+      },
+      {
+       "n": 25,
+       "answer": "G"
+      },
+      {
+       "n": 26,
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "answer": "K"
+      },
+      {
+       "n": 28,
+       "answer": "M"
+      },
+      {
+       "n": 29,
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "answer": "E"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2016-maj-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a true story about a rescue dog called Duke.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_16maj_fl.mp3",
+      "start": 0,
+      "end": 474.09,
+      "clip": "hang/k_angol_16maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Jenna and Tom are a married couple.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Jenna and Tom found the dog on the street.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "It was Jenna’s idea to call the dog Duke.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "When they adopted Duke, Jenna and Tom felt that this would be the best decision of their life.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "The couple woke up because Duke was barking loudly.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "They knew something was wrong because Duke had never behaved like that before.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Their daughter had fallen out of her bed.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The paramedics arrived within ten minutes.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The baby was revived in the hospital.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2016-maj-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear a true story about Muhammad Ali, the famous boxer.",
+      "Your task is to give short answers to the questions below using the exact words you hear.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_16maj_fl.mp3",
+      "start": 474.09,
+      "end": 1023.66,
+      "clip": "hang/k_angol_16maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "When did Ali change his name? In {{gap}}",
+       "accept": [
+        "1964"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What was the religious movement that Ali joined called? It was called the {{gap}}",
+       "key": "Nation of Islam",
+       "keywords": [
+        [
+         "nation",
+         "islam"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "What two animals did Ali mention in his statement? He mentioned a(n) {{gap}} and a(n) {{gap}}",
+       "key": "butterfly, bee // bee, butterfly (both, one is not enough, but the order is not important!)",
+       "gaps": [
+        [
+         "butterfly"
+        ],
+        [
+         "bee"
+        ]
+       ],
+       "unordered": true
+      },
+      {
+       "n": 11,
+       "stem": "What did Ali and his friend decide to visit? They decided to visit a(n) {{gap}}",
+       "key": "(charity) sale",
+       "keywords": [
+        [
+         "sale"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Where did they leave their bikes? They left their bikes {{gap}}",
+       "key": "in front of the building / (Columbia) Auditorium",
+       "keywords": [
+        [
+         "front",
+         "building"
+        ],
+        [
+         "front",
+         "auditorium"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "What did they eat? They ate hot dogs and {{gap}}",
+       "key": "popcorn",
+       "keywords": [
+        [
+         "popcorn"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Where in the basement did Ali find Joe Martin? He found him in the {{gap}}",
+       "key": "(local) gym",
+       "keywords": [
+        [
+         "gym"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "After they filled out a police report, what did Joe Martin hand Ali? He handed him a(n) {{gap}}",
+       "key": "application form (to join the boxing club)",
+       "keywords": [
+        [
+         "application",
+         "form"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "What did Joe Martin teach Ali? He taught him the {{gap}}",
+       "key": "basics (of the game/boxing)",
+       "keywords": [
+        [
+         "basics"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "What did Ali win in 1960? He won {{gap}}",
+       "key": "(an Olympic) gold medal / (the Rome) Olympics",
+       "keywords": [
+        [
+         "gold",
+         "medal"
+        ],
+        [
+         "olympics"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2016-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an Australian tourist guide from Melbourne promoting an interesting programme to some tourists.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_16maj_fl.mp3",
+      "start": 1023.66,
+      "end": 1795.71,
+      "clip": "hang/k_angol_16maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The tourist guide says they … have visitors from Hungary.",
+       "options": [
+        {
+         "key": "A",
+         "text": "often"
+        },
+        {
+         "key": "B",
+         "text": "don’t often"
+        },
+        {
+         "key": "C",
+         "text": "never"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "The tourists are going to spend … in Melbourne.",
+       "options": [
+        {
+         "key": "A",
+         "text": "one day"
+        },
+        {
+         "key": "B",
+         "text": "three days"
+        },
+        {
+         "key": "C",
+         "text": "seven days"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "On Philip Island, the majority of the land is devoted to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "agriculture."
+        },
+        {
+         "key": "B",
+         "text": "wildlife."
+        },
+        {
+         "key": "C",
+         "text": "tourist attractions."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "In Maru Wildlife Park, tourists …",
+       "options": [
+        {
+         "key": "A",
+         "text": "watch the animals from a special bus."
+        },
+        {
+         "key": "B",
+         "text": "can actually touch some of the animals."
+        },
+        {
+         "key": "C",
+         "text": "are not allowed to give the animals food."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "The tourists will get to Philip Island from the mainland …",
+       "options": [
+        {
+         "key": "A",
+         "text": "by boat."
+        },
+        {
+         "key": "B",
+         "text": "through a tunnel."
+        },
+        {
+         "key": "C",
+         "text": "over a bridge."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "At Woolamai Beach, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the waves are enormous."
+        },
+        {
+         "key": "B",
+         "text": "swimming is dangerous."
+        },
+        {
+         "key": "C",
+         "text": "there is a colony of fur seals."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "The best time to watch the penguins is when the sun is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "shining brightly."
+        },
+        {
+         "key": "B",
+         "text": "going down."
+        },
+        {
+         "key": "C",
+         "text": "behind clouds."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "The guide recommends that tourists should take …",
+       "options": [
+        {
+         "key": "A",
+         "text": "their young children with them."
+        },
+        {
+         "key": "B",
+         "text": "some sunscreen with them."
+        },
+        {
+         "key": "C",
+         "text": "photos of the marching penguins."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The guide says that the $90.00 price includes …",
+       "options": [
+        {
+         "key": "A",
+         "text": "two entry fees."
+        },
+        {
+         "key": "B",
+         "text": "lunch and dinner."
+        },
+        {
+         "key": "C",
+         "text": "travel insurance."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

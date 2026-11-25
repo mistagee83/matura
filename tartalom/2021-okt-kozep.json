@@ -1,0 +1,1233 @@
+{
+ "formatVersion": 1,
+ "id": "2021-okt-kozep",
+ "year": 2021,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2021-10-21",
+ "code": "2119",
+ "sourceFiles": {
+  "paper": "2021 - Középszintű október/k_angol_21okt_fl.pdf",
+  "key": "2021 - Középszintű október/k_angol_21okt_ut.pdf",
+  "audio": "2021 - Középszintű október/k_angol_21okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 22,
+    "18": 23,
+    "19": 24,
+    "20": 26,
+    "21": 27,
+    "22": 28,
+    "23": 29,
+    "24": 30,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2021-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following text about online gaming, the headings have been removed.",
+      "Your task is to match the headings to the paragraphs.",
+      "There are two extra headings that you do not need."
+     ],
+     "title": "TOP TIPS FOR GAMING",
+     "body": [
+      "Whether it is done via mobile devices or using games consoles, gaming is one of the top activities enjoyed by young people online. Here are our tips to play safely:",
+      "{{0}}\nIt is important to find out information on age ratings. Look out for the icon on the game that shows what age classification it has been given.",
+      "{{1}}\nDon’t share identifying details like your full name, mobile phone number or address. Sharing this type of information could put you at great risk.",
+      "{{2}}\nTo avoid being hacked, pick a strong password. Make sure you include a combination of letters, numbers and symbols. Treat your password like your toothbrush: you shouldn't share it with anyone else.",
+      "{{3}}\nOnline friends are still strangers even if you have been talking to them for a long time and meeting someone you have only been in touch with online can be dangerous.",
+      "{{4}}\nMake sure you know what tools are available if someone is being aggressive in a game. Learn how to block, mute, delete and report on the games and consoles you use.",
+      "{{5}}\nGames have been designed to be fun and exciting and to keep us coming back for more. But remember, for healthy gameplay, it’s important to stop for at least five minutes every hour.",
+      "{{6}}\nYou may be asked to pay for items in the game or to upgrade to the next level. The amount may seem small, but you can run up a large bill before you even realise it. We suggest blocking in-app purchases.",
+      "{{7}}\nDon’t break the law by downloading non-copyrighted games or cheat programmes to skip to a higher level."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Say no to meeting in person."
+      },
+      {
+       "key": "B",
+       "text": "Stay legal."
+      },
+      {
+       "key": "C",
+       "text": "Check if you are old enough to play."
+      },
+      {
+       "key": "D",
+       "text": "Protect your account."
+      },
+      {
+       "key": "E",
+       "text": "Avoid unwanted charges."
+      },
+      {
+       "key": "F",
+       "text": "Take regular breaks."
+      },
+      {
+       "key": "G",
+       "text": "Avoid online interactions."
+      },
+      {
+       "key": "H",
+       "text": "Keep personal information safe."
+      },
+      {
+       "key": "I",
+       "text": "Know what to do if other players are ruining the game."
+      },
+      {
+       "key": "K",
+       "text": "Notice and control your emotions during the game."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "F"
+      },
+      {
+       "n": 6,
+       "answer": "E"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.childnet.com/teachers-and-professionals/hot-topics/gaming"
+    },
+    {
+     "id": "2021-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this article about an unusual job advertisement.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (8-14) from the list (A-K) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "DISNEY PRINCESS FOR A NANNY?",
+     "body": [
+      "If you’re tired of your office job and want a creative challenge, you might want to consider this new position. A married couple are looking for someone to take care of their six-year-old twin girls {{0}}, but there’s a catch – you have to do it dressed as a Disney princess. The parents posted an advert on Childcare, {{8}} exactly what they are looking for.",
+      "You’ll need to dress and play {{9}}, whether that’s Anna from Frozen, Snow White, Rapunzel or Cinderella. The chosen nanny will be asked to arrange Disney-related activities, such as arts and crafts, baking and singing, as well as {{10}}, including picking the girls up from school, cooking dinner and putting them to bed {{11}}. According to the couple, the twin girls {{12}} and their parents believe this is the best way to communicate some important values to them. The pair admit that it’s an unusual request, but want to use Disney princesses to teach the twins about “things like kindness, empathy, bravery and ambition.” According to the couple, the right person will “have a passion for all things Disney” and will be able to {{13}} with their girls.",
+      "The right candidate will take home £40,000 a year, {{14}}. The Disney costumes will also be paid for by the parents, and 25 days’ holiday is on the table.",
+      "So now is the time to ask yourself the question: Do you have what it takes to be a part-time Disney princess?"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "always wear a wig, as well"
+      },
+      {
+       "key": "B",
+       "text": "if the parents have to work late"
+      },
+      {
+       "key": "C",
+       "text": "in a part-time nanny role"
+      },
+      {
+       "key": "D",
+       "text": "share that love of those characters"
+      },
+      {
+       "key": "E",
+       "text": "where they describe in detail"
+      },
+      {
+       "key": "F",
+       "text": "are crazy about Disney princesses"
+      },
+      {
+       "key": "G",
+       "text": "working just four days a week"
+      },
+      {
+       "key": "H",
+       "text": "a new character every month"
+      },
+      {
+       "key": "I",
+       "text": "looking after them when they are sick"
+      },
+      {
+       "key": "K",
+       "text": "perform regular nanny duties"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      }
+     ],
+     "source": "https://metro.co.uk/2019/03/20/parents-twin-girls-looking-nanny-dress-disney-princesses-40000-8956439/"
+    },
+    {
+     "id": "2021-okt-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following article about an incident on a plane and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "CANADIAN MAN KICKED OFF WESTJET FLIGHT FOR BEING ASLEEP BEFORE TAKE-OFF",
+     "body": [
+      "Mr Bennett, his wife and their son were taking a WestJet flight from Toronto to Cuba on 13 October. Mr Bennet hadn’t slept well the night before, so before the flight he took a sleeping pill which he had been given by his doctor. He fell asleep immediately after boarding the plane. The trouble began when a flight attendant couldn’t wake him up as the plane was preparing to take off. He became worried that there was something medically wrong with the passenger. WestJet requires all passengers to be awake during take-off for safety reasons.",
+      "Mr Bennet’s wife, whose first language is not English, couldn’t tell the crew why he needed a rest. She was eventually able to wake her husband up, who explained he had taken medication. However, the cabin crew wanted him to get off the plane.",
+      "Paramedics were called, removed him from the plane, checked him and said he was medically fit to fly. Bennett also got an email from his doctor saying he was healthy enough to fly. However, they were not allowed back on the flight.",
+      "The family, who had booked an all-inclusive vacation in Cuba, were told by WestJet they could take the next flight the following week.",
+      "The Bennets didn’t want to miss a week of the family vacation, so instead of waiting for another WestJet flight, they paid more than $2,000 to buy a plane ticket from another airline. They had to cut their vacation short by two days.",
+      "The family would like to receive compensation from the airline."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "gave Mr Bennet sleeping pills."
+      },
+      {
+       "key": "B",
+       "text": "apologised for the incident."
+      },
+      {
+       "key": "C",
+       "text": "missed part of the vacation."
+      },
+      {
+       "key": "D",
+       "text": "was unable to wake up Mr Bennet before take-off."
+      },
+      {
+       "key": "E",
+       "text": "didn’t speak English well enough to explain the situation."
+      },
+      {
+       "key": "F",
+       "text": "paid some money as compensation."
+      },
+      {
+       "key": "G",
+       "text": "decided that Mr Bennet should get off the plane."
+      },
+      {
+       "key": "H",
+       "text": "offered another flight a week later."
+      },
+      {
+       "key": "I",
+       "text": "examined Mr Bennet and said that he was able to fly."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Bennets",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Mrs Bennet",
+       "answer": "E"
+      },
+      {
+       "n": 16,
+       "stem": "Paramedics",
+       "answer": "I"
+      },
+      {
+       "n": 17,
+       "stem": "A flight attendant",
+       "answer": "D"
+      },
+      {
+       "n": 18,
+       "stem": "Mr Bennet’s doctor",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "The crew on the plane",
+       "answer": "G"
+      },
+      {
+       "n": 20,
+       "stem": "The airline",
+       "answer": "H"
+      }
+     ],
+     "source": "https://www.bbc.com/news/world-us-canada-46077759"
+    },
+    {
+     "id": "2021-okt-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a strange work of land art in Australia and then read the statements (21-27) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "MARREE MAN",
+     "body": [
+      "Since a pilot first noticed Marree Man in South Australia in 1998, the mysterious work of land art has attracted international attention. Marree Man is so large it is best viewed from high above. The artwork represents a hunter with what looks like a stick or boomerang in his hand. Its length is 3.5 kilometers (2.2 miles) from top to bottom.",
+      "For many years, Marree Man, named after a nearby town, was a well-known feature in satellite images of the area, but the wind and the rain destroyed many of the lines. By 2013, they were hardly visible in natural-color images.",
+      "In August 2016, local business owners, who were worried about the loss of what had become a tourist attraction, decided to restore the fading lines. They used machines to redraw Marree Man, which took them five days.",
+      "The restoration team thinks the updated work of art will last longer than the original because they designed it to trap water and planted trees along the lines. Over time, they hope plants will turn the lines green.",
+      "Who created the huge work of art, and why, remains unknown, although a cash reward has been announced for information about it. Some people believe that it was probably an artist living in Alice Springs who created Marree Man; others think that maybe the creator was an American."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It was a pilot who discovered the large geoglyph.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The pilot was checking geographical data when he saw the huge image.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Marree Man was discovered in the early 21st century.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "The artwork was named Marree Man immediately after its discovery.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "The lines of the image had completely disappeared by 2013.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The restoration work lasted more than a week.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "The restoration team wants plants to grow along the lines.",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "The creator of Marree Man has not been named yet.",
+       "answer": "A"
+      }
+     ],
+     "source": "https://earthobservatory.nasa.gov/images/146061/marree-man"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2021-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about how a school in Derbyshire, England, is trying to get parents to talk to their children more. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "SMILES VS MOBILES",
+     "body": [
+      "A school has asked parents to put {{0}} their phones and communicate with their children at the end of the day. The signs {{1}} at the entrances to Redwood Primary School in Derby advise adults to \"greet your child with a smile, not a mobile.\" The school said it wanted parents and children to talk and {{2}} more to each other at home. They have mostly received a positive response from parents.",
+      "Teachers Rachel Kirk and Sarah Chaffe produced signs for {{3}} of the school's three gates. \"{{4}} we've been trying to do is help parents be more effective {{5}} they're chatting with their children at home,\" said Ms Kirk. \"The signs are just to {{6}} parents how important it is to greet their children and encourage them to get into a conversation about all the fun things they have {{7}} that day.\"",
+      "However, Kerri Hilton, who has two children at the school, said: \"Parents {{8}} be told to pay attention to their children. I always ask my kids about their day at school.\""
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "DONE"
+      },
+      {
+       "key": "B",
+       "text": "EACH"
+      },
+      {
+       "key": "C",
+       "text": "DOWN"
+      },
+      {
+       "key": "D",
+       "text": "EITHER"
+      },
+      {
+       "key": "E",
+       "text": "LISTEN"
+      },
+      {
+       "key": "F",
+       "text": "PLACED"
+      },
+      {
+       "key": "G",
+       "text": "REMIND"
+      },
+      {
+       "key": "H",
+       "text": "SHOULDN’T"
+      },
+      {
+       "key": "I",
+       "text": "THAT"
+      },
+      {
+       "key": "K",
+       "text": "WHAT"
+      },
+      {
+       "key": "L",
+       "text": "WHEN"
+      },
+      {
+       "key": "M",
+       "text": "WON’T"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "E"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "K"
+      },
+      {
+       "n": 5,
+       "answer": "L"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2021-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the origins of the @ sign. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-17).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "A WELL-KNOWN SIGN",
+     "body": [
+      "In Dutch the @ sign is called a “monkey tail”, in {{0}} a “maggot”, in Danish an “elephant’s trunk”, and in {{9}} a “snail”. Appearing everywhere now in emails, the @ sign has history.",
+      "The first {{10}} use was in The Mannasses Chronicle in 1345, where an @ sign is the first letter in the word ‘Amen’. By the 16th century, in southern {{11}} documents of trade, the sign represented amphora, a storage jar {{12}} since Roman times. By the 18th century it was called ‘commercial A’ and meant ‘at the rate of’ (eg.: 10 hats @ 1 shilling = 10 shillings).",
+      "It didn’t make it onto the earliest typewriters but was included by 1889, when it became a standard character. By 1963 @ was included in the new {{13}} recognised character set.",
+      "In 1971 computer {{14}} Ray Tomlinson was at work on Arpanet, the prototype of the internet. He added some of his own code to an {{15}} programme and sent a message from one computer to {{16}} – the first email. Ray needed a character to separate the message’s recipient from the computer it would arrive at, and {{17}} down at his teletype keyboard, he chose the @ symbol and changed the world forever."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "Hungary",
+       "example": true,
+       "accept": [
+        "Hungarian"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "Wales",
+       "accept": [
+        "Welsh"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "record",
+       "accept": [
+        "recorded"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "Europe",
+       "accept": [
+        "European"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "use",
+       "accept": [
+        "used"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "international",
+       "accept": [
+        "internationally"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "programme",
+       "accept": [
+        "programmer",
+        "programer"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "exist",
+       "accept": [
+        "existing",
+        "existent"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "other",
+       "accept": [
+        "another"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "look",
+       "accept": [
+        "looking"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2021-okt-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the history of ice cream. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18- 25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "ICE-CREAM",
+     "body": [
+      "A kind of ice-cream was invented in China about 200 BC {{0}} a milk and rice mixture was frozen by packing it into snow. It is believed that Roman emperors sent slaves to mountain tops to bring back fresh snow, {{18}} was then flavoured and served as an early form of ice-cream.",
+      "The explorer, Marco Polo (1254-1324), is believed to have seen ice-cream being made during his trip to China and introduced {{19}} to Italy. The King of England, Charles I, offered his chef £500 a year to {{20}} his ice-cream recipe a secret from the rest of England.",
+      "Ice Cream Sundaes were invented when it became illegal {{21}} sell ice-cream sodas on a Sunday in the American town of Evanston during the late 19th century. To get around the problem, some ice-cream sellers replaced the soda {{22}} syrup and called the dessert an \"Ice Cream Sunday\". They changed the final \"y\" for an \"e\" to avoid upsetting religious leaders.",
+      "Probably a Syrian man {{23}} Ernest E Hamwi invented the ice-cream cone in 1904. During the St Louis World's Fair in the United States, his waffle booth stood {{24}} to an ice-cream seller who ran short {{25}} dishes. As a favour, Hamwi rolled a waffle to hold his ice-cream and the cone was born."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "when"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "keep"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "called",
+        "named"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "next",
+        "close",
+        "near"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "of",
+        "on"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2021-okt-kozep-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a philosophical story about the importance of attitudes.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "k_angol_21okt_fl.mp3",
+      "start": 0,
+      "end": 632.77,
+      "clip": "hang/k_angol_21okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The two villages were quite a long way from each other.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "The traveller asked the monk what it was like in the village in the mountains.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The monk asked the traveller to repeat his question.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "The monk told the traveller that he should expect something similar in the next village, too.",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "The traveller arrived in the village shortly after talking to the monk.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "The second traveller asked the monk what life was like in the village he was going to.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "The monk used to live in the village the second traveller was coming from.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The second traveller said that the people in the mountain village were extremely nice and good-hearted.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The monk told the second traveller that the people in the next village were rather unwelcoming.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2021-okt-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear a story about a woman who tried to cheat the lottery.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_21okt_fl.mp3",
+      "start": 632.77,
+      "end": 1138.4,
+      "clip": "hang/k_angol_21okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What did the woman admit? She admitted that she {{gap}}",
+       "accept": [
+        "had lied"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "What did she say had happened to her winning lottery ticket? She said that she {{gap}}",
+       "key": "had lost it/the/her ticket",
+       "keywords": [
+        [
+         "lost",
+         "it"
+        ],
+        [
+         "lost",
+         "ticket"
+        ]
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "How long a prison sentence could she get for what she did? She could be put in prison for up to {{gap}}",
+       "key": "seven/7 years",
+       "keywords": [
+        [
+         "7",
+         "years"
+        ]
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Where did Mr Hayes buy the winning lottery ticket? He bought the ticket in a(n) {{gap}}",
+       "key": "store/shop",
+       "keywords": [
+        [
+         "store"
+        ],
+        [
+         "shop"
+        ]
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "How much will Mr Abrams get from the $18 million? He will get {{gap}}",
+       "key": "one/1 percent/% (of the prize/of it) // $180,000/180,000 dollars",
+       "keywords": [
+        [
+         "1",
+         "percent"
+        ],
+        [
+         "1",
+         "%"
+        ],
+        [
+         "1%"
+        ],
+        [
+         "180000",
+         "dollars"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "What cost Mr Abrams $25,000 last year? It was a(n) {{gap}}",
+       "key": "(new) roof",
+       "keywords": [
+        [
+         "roof"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Where were Mr and Mrs Hayes when the winning ticket was drawn? They were camping {{gap}}",
+       "key": "in the mountains",
+       "keywords": [
+        [
+         "mountains"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "What is Mr Hayes planning to do to the woman after she comes out of prison? He is going to {{gap}}",
+       "key": "help her (out financially) // support her // give her (some) money",
+       "keywords": [
+        [
+         "help",
+         "her"
+        ],
+        [
+         "support",
+         "her"
+        ],
+        [
+         "give",
+         "her",
+         "money"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "What is Mr Hayes going to donate a lot of money to? To {{gap}}",
+       "key": "(different) charities // charity",
+       "keywords": [
+        [
+         "charities"
+        ],
+        [
+         "charity"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "What are the odds of winning the lottery according to the lottery spokesman? Only one in {{gap}}",
+       "key": "forty/40 million/40,000,000/40m",
+       "keywords": [
+        [
+         "40",
+         "million"
+        ],
+        [
+         "40000000"
+        ],
+        [
+         "40m"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(Az elfogadható válaszban az alábbi, vastagon szedett szavaknak feltétlenül szerepelniük kell!)"
+     }
+    },
+    {
+     "id": "2021-okt-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a joke about the health and fitness craze that is so fashionable today.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_21okt_fl.mp3",
+      "start": 1138.4,
+      "end": 1795.17,
+      "clip": "hang/k_angol_21okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The elderly couple …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had been married for sixty years."
+        },
+        {
+         "key": "B",
+         "text": "were on holiday."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The couple were ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "not very rich."
+        },
+        {
+         "key": "B",
+         "text": "sick and rather unfit."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "When the couple entered heaven, St Peter …",
+       "options": [
+        {
+         "key": "A",
+         "text": "told them how sorry he was to see them there."
+        },
+        {
+         "key": "B",
+         "text": "led them into a waiting car."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The large house they were taken to had a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "lot of food and drink in its sitting room."
+        },
+        {
+         "key": "B",
+         "text": "waterfall in its garden."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "The old man asked St Peter how much ... was going to cost.",
+       "options": [
+        {
+         "key": "A",
+         "text": "their new home"
+        },
+        {
+         "key": "B",
+         "text": "the use of the golf course"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The old man asked St Peter …",
+       "options": [
+        {
+         "key": "A",
+         "text": "how much they had to pay for the lunch."
+        },
+        {
+         "key": "B",
+         "text": "whether there was any low fat food for them."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "St Peter told them that they would never get … in heaven.",
+       "options": [
+        {
+         "key": "A",
+         "text": "fat"
+        },
+        {
+         "key": "B",
+         "text": "ill"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "St Peter told them that they could ... if they wanted to.",
+       "options": [
+        {
+         "key": "A",
+         "text": "go to the gym"
+        },
+        {
+         "key": "B",
+         "text": "test their sugar or blood pressure every day"
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "The old man was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "angry with his wife about all the dieting and workout."
+        },
+        {
+         "key": "B",
+         "text": "sorry that they hadn’t entered heaven earlier."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1449 @@
+{
+ "formatVersion": 1,
+ "id": "2017-okt-emelt",
+ "year": 2017,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2017-10-19",
+ "code": "1713",
+ "sourceFiles": {
+  "paper": "2017 - Emeltszintű októberi/e_angol_17okt_fl.pdf",
+  "key": "2017 - Emeltszintű októberi/e_angol_17okt_ut.pdf",
+  "audio": "2017 - Emeltszintű októberi/e_angol_17okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2017-okt-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read through this article about a children's book and then read the statements (1-7) following it.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "VATICAN'S LATIN TRANSLATOR SPREADS THE WORD OF A WIMPY KID",
+     "body": [
+      "It is not typical of the texts that the Vatican's Latin expert is called upon to translate, but Diary of a Wimpy Kid, a book about the strain of school life that has sold millions of copies, could help to showcase the ancient language to a whole new audience.",
+      "The children's book has been rendered in the language of Cicero and Seneca by Monsignor Daniel Gallagher, who handles Pope Francis's Latin Twitter account. Known in Latin as Commentarii de Inepto Puero, the book will be published in Britain today and represents the first time the Vatican has involved itself in translating a popular work of fiction as part of an effort to keep the language alive.",
+      "Diary of a Wimpy Kid, the first in a series by the American Jeff Kinney, follows the misadventures of Greg Heffley, who is bullied by his older brother, annoyed by his teachers and frustrated by the challenges of his school routine. It has sold around 150 million copies.",
+      "Translating schoolboy slang and contemporary vocabulary was not an easy task, Mgr Gallagher said. He translated \"computer\" into \"computratum\", \"video game\" into the relatively straightforward \"video lusus\" and \"heavy metal music\" into the literal \"musica metallica gravis\".",
+      "\"It was hard work but it was a lot of fun,\" Mgr Gallagher, 45, told The Daily Telegraph. He came to Rome from his native Michigan as a seminarian 20 years ago and developed a passion for Latin despite not having learnt it at school.",
+      "\"The challenges were not so much finding the right vocabulary, but rendering the modern English into a Latin that captured the spirit of the ancient Romans,\" he said. \"It may not read like Cicero, but I hope it demonstrates that everything can be said Latinly.\"",
+      "(The Daily Telegraph)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Vatican's Latin expert has been given a rather unusual task.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Mgr Gallagher is responsible for the Latin version of Pope Francis's tweets.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "The Latin translation of Diary of a Wimpy Kid is a bestseller in Britain, the article says.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "By publishing a best-selling book in Latin the Vatican aims to popularise the Pope's messages.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "Greg's brother is treated badly by his teachers.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "To translate technical terms and school slang, Mgr Gallagher consulted a variety of dictionaries.",
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Mgr Gallagher used to dislike Latin at school.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Mgr Gallagher compares his own Latin favourably to Cicero’s.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about presents that diplomats give each other and then read the gapped sentences (8-14) following the article.",
+      "Your task is to complete the sentences with one or two words only based on the information in the text.",
+      "The exact word(s) you need may or may not be in the article."
+     ],
+     "title": "THE PERILS OF 'TABOO' GIFTS",
+     "body": [
+      "When British transport minister Baroness Kramer gave Taipei mayor Ko Wen-je a small watch as a present, she was simply following standard diplomatic protocol. The exchange of gifts is commonplace on such trips abroad, but cultural norms differ from country to country, and Baroness Kramer was breaking a local norm.",
+      "Giving a clock to someone in Chinese culture is a bad omen, suggesting they are running out of time. The mayor laughed off the incident with a joke, while Baroness Kramer apologised, saying \"we learn something new every day.\" It appears her office may not have read Debrett's, the etiquette guide, which advises readers to \"do some research to avoid making a basic error ̶ the bottle of whisky to the teetotaller, or the chocolate to the dieter.\"",
+      "William Hanson, an etiquette expert, says that most diplomatic gifts are agreed between both parties in advance – and regardless, \"research should be done.\"",
+      "Baroness Kramer's mistake is not rare – navigating the cultural minefield can be difficult for diplomats and business executives. One culture's prized gift can be another's cause for grave offence. A ceremonial sword in some parts of Africa is a symbol of power; in Switzerland it would be a sign of aggression.",
+      "Some things are common, though. Almost all cultural taboos revolve around death, regardless of location. The number four is considered bad luck in China, because it tonally sounds like death, while the number eight is good, because it sounds similar to the word for wealth.",
+      "In the UK, knives are generally not given as presents because superstition says they could cut through a friendship. A bunch of chrysanthemums are a no-go area for the Spanish, because they are associated with death, much in the same way as you wouldn't present a bunch of white lilies to a Briton.",
+      "Indeed, flowers are a particularly troublesome area. Red roses – a traditional lovers' gift – would be out of place at a business meeting, while yellow roses commonly suggest infidelity in France, and death in Mexico. And superstition suggests you should always give an odd number of flowers – but not 13.",
+      "As for a foolproof gift to present to a colleague that's guaranteed not to offend, regardless of where in the world you give it, Hanson has one suggestion: \"Books are much safer. When I advise companies, I say a nice coffee table book on London or England does the job well.\"",
+      "(www.bbc.com)",
+      "Diplomatic protocol suggests you should give a(n) {{0}} to your foreign partner.",
+      "The British transport minister was unaware of the associations of a(n) {{8}} in Chinese culture.",
+      "Presented with an unsuitable gift, the mayor reacted with a(n) {{9}}.",
+      "Had the minister's staff done some research into diplomatic {{10}}, the mistake could have been avoided.",
+      "It is rare in diplomatic circles not to {{11}} gifts beforehand.",
+      "Two different {{12}} are associated with death by the Spanish and the British.",
+      "{{13}} are taboo both in France and Mexico, though not for the same reason.",
+      "If you are a businessman, the least risky present to give a colleague is a(n) {{14}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "present"
+       ]
+      },
+      {
+       "n": 8,
+       "accept": [
+        "watch",
+        "clock"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "laugh",
+        "joke"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "etiquette",
+        "protocol",
+        "gifts",
+        "presents",
+        "customs",
+        "traditions"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "agree on",
+        "agree about",
+        "agree upon"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "flowers"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "Yellow roses"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "book"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about the British National Health Service some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps (15-23) from the list (A-N) below.",
+      "Remember that there are three extra phrases that you do not need."
+     ],
+     "title": "WHY YOUR GP MAY BE RECOMMENDING A DOSE OF THE GREAT OUTDOORS IN FUTURE",
+     "body": [
+      "Next time you visit your GP* expecting to leave with a prescription for a med, you might be in for a surprise. Instead of the usual printout, you might find yourself {{0}}, prescribing an activity outside – a weekly group walk, perhaps. The idea, say advocates, is to {{15}}, getting more people better and potentially saving the NHS from financial ruin.",
+      "So-called \"green prescriptions\" have long been the norm in New Zealand, as well as in some parts of Australia and the United States, and they are {{16}}. \"Studies of life expectancy show that lack of exercise is now second only to smoking in causing premature deaths,\" says Dr Tim Ballard, vice chair of the Royal College of GPs. He {{17}} points to the health benefits of being out and about in green spaces – less tension, stress and depression; lower blood pressure; improved immune system responses; lower levels of obesity, and milder ADHD** symptoms in children, just to name a few. In fact, {{18}} – instead of staring at a TV screen or computer monitor, for example – is as important as an overall increase in physical activity. \"So I think GPs will be more likely to give their patients green prescriptions in future,\" Dr Ballard predicts.",
+      "The cost saving {{19}}. For every ₤1 spent on establishing healthy walking schemes, the NHS could save ₤7.18 in the cost of treating conditions such as heart disease, strokes and diabetes.",
+      "But surely GPs have long been telling people to \"take a hike\", as it were, to {{20}}? What's different now? \"The big change is making exercise fun and sociable, as well as using it as a {{21}},\" Dr Ballard explains. \"Encouraging someone to go for a walk in a green space, which ends with a pint in a pub or a cup of tea, {{22}} far more appealing. You're talking to your mates, you're out in the countryside and you're having a good time. It's all about trying to get exercise to be {{23}}, not an add-on.\"",
+      "The outdoors element is critical, Dr Ballard says. \"For some reason, it is much easier to keep up a movement or exercise regime when it's outdoors.\"",
+      "(www.independent.co.uk)",
+      "*GP general practitioner / family doctor **ADHD attention deficit hyper-activity disorder"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "improve both their physical and mental health"
+      },
+      {
+       "key": "B",
+       "text": "takes the pressure off already overstretched GPs"
+      },
+      {
+       "key": "C",
+       "text": "clutching a (sometimes literally) green alternative"
+      },
+      {
+       "key": "D",
+       "text": "shift the focus of prescriptions from illness to wellness"
+      },
+      {
+       "key": "E",
+       "text": "walks upstairs instead of taking the lift"
+      },
+      {
+       "key": "F",
+       "text": "investing in preventive medicine"
+      },
+      {
+       "key": "G",
+       "text": "increasingly popular over here"
+      },
+      {
+       "key": "H",
+       "text": "adds that mounting evidence"
+      },
+      {
+       "key": "I",
+       "text": "spending more time outside"
+      },
+      {
+       "key": "K",
+       "text": "could be considerable"
+      },
+      {
+       "key": "L",
+       "text": "part of your life"
+      },
+      {
+       "key": "M",
+       "text": "means to an end"
+      },
+      {
+       "key": "N",
+       "text": "makes the activity"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "answer": "D"
+      },
+      {
+       "n": 16,
+       "answer": "G"
+      },
+      {
+       "n": 17,
+       "answer": "H"
+      },
+      {
+       "n": 18,
+       "answer": "I"
+      },
+      {
+       "n": 19,
+       "answer": "K"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "M"
+      },
+      {
+       "n": 22,
+       "answer": "N"
+      },
+      {
+       "n": 23,
+       "answer": "L"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article about some new rules in a California town and then read the incomplete sentences (24-30) following it.",
+      "Your task is to find the right endings (A-L) for the sentences based on relevant information in the text.",
+      "There are three extra letters that you do not need."
+     ],
+     "title": "SACRAMENTO TO BAN LOUD OR SLEEPING PEOPLE FROM BUSES AND TRAINS",
+     "body": [
+      "Loud or sleeping people will soon be asked to leave buses and light rail trains in Sacramento under new rules approved by transportation officials Monday night.",
+      "The proposals come as Sacramento enjoys a downtown building boom that will eventually add a high-end basketball arena and a soccer stadium, amenities that officials hope will draw fans to the area by light rail, bus or train. \"If we can make it more attractive or make it more enjoyable to use the light rail or bus, then people are more apt to use it,\" said Alane Masui, spokeswoman for the Sacramento Regional Transit District.",
+      "Like many American cities, Sacramento fans out toward its suburbs in an extensive road network, which was built more for automobiles than public transit in most areas, and has struggled to win middle-class riders to its bus and light rail system. Criticism abounds. Last year, nearly 7,000 customers contacted the public transit system's customer complaints department and transit officials also reported 318 crimes, according to transit system data.",
+      "The system, which serves the City and County of Sacramento, has about 98,000 boardings on weekdays. Under the regulation, passengers will no longer be allowed to get on a bus or train unless they are covered \"above and below the waist\" and wearing shoes. They will also be banned from playing sound equipment that is audible to other passengers and will be banned from sleeping on a train that has reached the end of the line. Those who refuse to comply could be kicked off by authorities, the regulation says. A separate measure that would have barred people who let off noxious odors was removed from the rules, Masui said. Supporters of disadvantaged Sacramentans said that this particular rule would have been a blow for homeless people, who have a right to ride buses and trains.",
+      "The rules will be implemented once officials finalize remaining details and customers are notified of the changes.",
+      "(ibtimes.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to get around by car than by public transit."
+      },
+      {
+       "key": "B",
+       "text": "to find their way around."
+      },
+      {
+       "key": "C",
+       "text": "to get off according to new regulations."
+      },
+      {
+       "key": "D",
+       "text": "to stay asleep on a vehicle after it gets to the terminal."
+      },
+      {
+       "key": "E",
+       "text": "to attract many people to the city center."
+      },
+      {
+       "key": "F",
+       "text": "to drink alcohol before getting on a bus."
+      },
+      {
+       "key": "G",
+       "text": "to switch to using public transit."
+      },
+      {
+       "key": "H",
+       "text": "to convince more people to use them."
+      },
+      {
+       "key": "I",
+       "text": "to prevent homeless people from using trains and buses."
+      },
+      {
+       "key": "K",
+       "text": "to be allowed on a bus."
+      },
+      {
+       "key": "L",
+       "text": "to pay extra for the cleaning."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "If you sleep on a bus in Sacramento, you will be asked",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Significant real-estate development is expected",
+       "answer": "E"
+      },
+      {
+       "n": 25,
+       "stem": "Improving public transit services is expected",
+       "answer": "H"
+      },
+      {
+       "n": 26,
+       "stem": "The layout of the city makes it easier for people",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Due to, for example, the high crime rate, middle class people are reluctant",
+       "answer": "G"
+      },
+      {
+       "n": 28,
+       "stem": "According to the new regulations, you will need to be fully clothed",
+       "answer": "K"
+      },
+      {
+       "n": 29,
+       "stem": "In future you will be in trouble if you happen",
+       "answer": "D"
+      },
+      {
+       "n": 30,
+       "stem": "A possibly unintended result of another rule would have been",
+       "answer": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2017-okt-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about new rules relating to EU nurses working or applying for a job in the UK. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "EU NURSES FACE ENGLISH LANGUAGE TESTS",
+     "body": [
+      "Nurses and midwives {{0}} to Britain from the EU will now need to prove they are fluent in English, under new rules. Until now, checks have only been applied to nurses from outside the EU. From now on any nurse applying to join the register from outside the UK will need to have an English language {{1}}. Tests will check listening, reading, writing and speaking {{2}}.",
+      "The Nursing and Midwifery Council Chief Executive said: \"The {{3}} to communicate effectively with patients is fundamental to patient {{4}} and is a principle that is central to our code.\" The NMC has more than 690,000 nurses and midwives on its register. Around 66,000 of these come from non-EU countries and 33,000 from the EU.",
+      "Katherine Murphy of The Patients Association said: \"Nurses from other countries make an extremely important {{5}} to healthcare in the UK. However, we hear from patients on our National Helpline that there can be real issues with some overseas health {{6}}; including problems with communication and a lack of {{7}} of processes and procedures. The Patients Association calls on all hospitals to {{8}} that their staff meet these new requirements, and that all overseas nurses have the necessary support and training to be able to offer patients safe and effective care.\"",
+      "(www.news.bbc.com.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "come",
+       "example": true,
+       "accept": [
+        "coming"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "assess",
+       "accept": [
+        "assessment"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "fluent",
+       "accept": [
+        "fluency",
+        "fluently"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "able",
+       "accept": [
+        "ability"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "safe",
+       "accept": [
+        "safety"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "contribute",
+       "accept": [
+        "contribution"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "profession",
+       "accept": [
+        "professionals"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "understand",
+       "accept": [
+        "understanding"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "sure",
+       "accept": [
+        "ensure",
+        "insure"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the plans for a new $10 bill. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (9-16) in the text."
+     ],
+     "title": "A WOMAN ON THE $10 BILL",
+     "body": [
+      "In June, 2015, the U.S. Treasury Department announced that the next $10 bill will feature a woman who {{0}} a major role in American history. The new bill is expected {{9}} released in 2020. That year marks the 100th anniversary of the 19th Amendment to the United States Constitution, {{10}} gave women the right to vote.",
+      "{{11}} the new note will feature a woman, Alexander Hamilton – who is on the present $10 bill – won't be completely replaced. That could mean the new design will feature a picture of Hamilton and a woman (or women). Hamilton was one of the country’s Founding Fathers. He was among the signers of the U.S. Constitution. The Treasury Department has not decided which woman will be on the $10. First, it is asking the public to share {{12}} opinion at thenew10.treasury.gov.",
+      "There are rules about who can be featured on money. By law, no living person may appear on a bill, and George Washington {{13}} always remain on the $1. His wife, Martha Washington, was the last woman to appear on U.S. currency; her portrait was on the $1 silver certificate from 1891 to 1896. After public comments {{14}}, the Treasury Department will make the final decision on what the bill will {{15}} and who will be featured. The bill will have new security features to {{16}} harder to counterfeit. It will also be easier for the blind and visually impaired to handle.",
+      "(www.timeforkids.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "made"
+        },
+        {
+         "key": "B",
+         "text": "did"
+        },
+        {
+         "key": "C",
+         "text": "played"
+        },
+        {
+         "key": "D",
+         "text": "gave"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "being"
+        },
+        {
+         "key": "B",
+         "text": "to have"
+        },
+        {
+         "key": "C",
+         "text": "having"
+        },
+        {
+         "key": "D",
+         "text": "to be"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "which"
+        },
+        {
+         "key": "B",
+         "text": "this"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "While"
+        },
+        {
+         "key": "B",
+         "text": "Despite"
+        },
+        {
+         "key": "C",
+         "text": "However,"
+        },
+        {
+         "key": "D",
+         "text": "Since"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "it’s"
+        },
+        {
+         "key": "B",
+         "text": "his"
+        },
+        {
+         "key": "C",
+         "text": "its"
+        },
+        {
+         "key": "D",
+         "text": "theirs"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "need"
+        },
+        {
+         "key": "B",
+         "text": "must"
+        },
+        {
+         "key": "C",
+         "text": "would"
+        },
+        {
+         "key": "D",
+         "text": "has to"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "had been considered"
+        },
+        {
+         "key": "B",
+         "text": "will be considered"
+        },
+        {
+         "key": "C",
+         "text": "would be considered"
+        },
+        {
+         "key": "D",
+         "text": "have been considered"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "look"
+        },
+        {
+         "key": "B",
+         "text": "look like"
+        },
+        {
+         "key": "C",
+         "text": "like"
+        },
+        {
+         "key": "D",
+         "text": "be alike"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "make it"
+        },
+        {
+         "key": "B",
+         "text": "make"
+        },
+        {
+         "key": "C",
+         "text": "make them"
+        },
+        {
+         "key": "D",
+         "text": "make one"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an earlier version of Martin Luther King's famous I Have a Dream speech. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-24) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "EARLY 'DREAM' SPEECH FOUND",
+     "body": [
+      "Martin Luther King electrified the audience with his speech back in 1963 - but it wasn't the first time he {{0}} delivered it. A recording of an earlier version of King's historic I Have a Dream speech, delivered to high school students in Rocky Mount in 1962, {{17}} been discovered.",
+      "King gave the 55-minute address months {{18}} he spoke in front of thousands at Washington DC's Lincoln Memorial. In it, the civil rights leader repeated the soon-to-be iconic phrase \"I have a dream\" eight times. King's speech to some 2,000 students was reported by the press {{19}} the time, but an audio recording of the event was {{20}} generally known to exist.",
+      "The tape, discovered by Jason Miller, an English professor at North Carolina State University, is believed to be the first ever recording of the speech. He stumbled across it while conducting research on King at a local library, after reading about a transcript of the speech and {{21}} some calls to try to locate a recording. A copy on tape \"mysteriously appeared\" inside a box {{22}} had the words \"Please Do Not Erase\" written on it.",
+      "Mr Miller brought in an expert to verify the tape, then {{23}} it restored and transformed to digital format so that it {{24}} be heard. The entire speech is due to be made available online later this year.",
+      "(www.news.bbc.com.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "had"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "before"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "at",
+        "of"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "never",
+        "not"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "making",
+        "placing"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "that",
+        "which",
+        "and"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "got",
+        "had"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "could",
+        "can",
+        "would",
+        "might",
+        "may"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read a story about two friends. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "SAND AND STONE",
+     "intro": "A story tells that two friends were walking through the desert. During the journey, they had an argument, and one friend slapped",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "the other in the face. Without saying him anything, the one who got",
+       "answer": "him"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "slapped wrote in the sand: Today my best friend slapped my face.",
+       "answer": null
+      },
+      {
+       "n": 25,
+       "text": "They kept on walking, until they have found an oasis, where they",
+       "answer": "have"
+      },
+      {
+       "n": 26,
+       "text": "decided to take a bath. When the one who had been slapped got",
+       "answer": "when"
+      },
+      {
+       "n": 27,
+       "text": "stuck in the mire and started to drowning, but his friend saved him.",
+       "answer": "to"
+      },
+      {
+       "n": 28,
+       "text": "After that he recovered from the near drowning, he carved on a",
+       "answer": "that"
+      },
+      {
+       "n": 29,
+       "text": "stone: Today my best friend saved my life.",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "The man who had better slapped and saved his best friend asked",
+       "answer": "better"
+      },
+      {
+       "n": 31,
+       "text": "from him: \"After I hurt you, you wrote in the sand, and now, you",
+       "answer": "from"
+      },
+      {
+       "n": 32,
+       "text": "write on a stone, why?\"The other man had replied: \"When someone",
+       "answer": "had"
+      },
+      {
+       "n": 33,
+       "text": "hurts us, we should not write it down in sand, where the winds of",
+       "answer": "not"
+      },
+      {
+       "n": 34,
+       "text": "the forgiveness can erase it, but when someone does something",
+       "answer": "the"
+      },
+      {
+       "n": 35,
+       "text": "good for us all, we must engrave it in stone where no wind can ever",
+       "answer": "all"
+      }
+     ],
+     "outro": "erase it.\" (www.stephen-knapp.com)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2017-okt-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear about a very successful new trend in book publishing.",
+      "Your task is to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "e_angol_17okt_fl.mp3",
+      "start": 0,
+      "end": 666.83,
+      "clip": "hang/e_angol_17okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "After a hard day, a lot of people like relaxing by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "watching a movie."
+        },
+        {
+         "key": "B",
+         "text": "browsing the Internet."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Adult colouring books are very popular …",
+       "options": [
+        {
+         "key": "A",
+         "text": "on the Internet."
+        },
+        {
+         "key": "B",
+         "text": "in a book format."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "On the list of the first 20 best-selling books on Amazon, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the first three are colouring books."
+        },
+        {
+         "key": "B",
+         "text": "two books were by the same author."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The publishers first asked Johanna Basford to draw a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "colouring book."
+        },
+        {
+         "key": "B",
+         "text": "book for adults."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Johanna’s success …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was the result of cooperation between several publishers and artists."
+        },
+        {
+         "key": "B",
+         "text": "helped to set a new fashion in book publishing."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "One publisher says that colouring books are so popular that they have …",
+       "options": [
+        {
+         "key": "A",
+         "text": "come out with several editions of some of their books."
+        },
+        {
+         "key": "B",
+         "text": "sold 60,000 copies of their best-selling book."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Ms Blatherwick says that at first they didn’t realize that the books would become so …",
+       "options": [
+        {
+         "key": "A",
+         "text": "attractive."
+        },
+        {
+         "key": "B",
+         "text": "popular."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "According to the speaker, colouring books for adults provide an opportunity to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "spend their free time truly creatively."
+        },
+        {
+         "key": "B",
+         "text": "think and calm the mind."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a news report about a very ambitious young American lady who has rather distant dreams.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_17okt_fl.mp3",
+      "start": 666.83,
+      "end": 1251.26,
+      "clip": "hang/e_angol_17okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "NASA thinks that Alyssa Carson’s dream is absolutely impossible.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "She gets the chance to make parachute jumps from airplanes at the NASA Center.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "She is the first person who has participated in three NASA World Space camps.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "She thinks that her résumé will secure a place for her among the best candidates.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "She is doing outstandingly good at languages, mathematics and science.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "She is also interested in soccer and music.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Alyssa’s family has worked out a detailed plan for the next 20 years for her.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Most NASA experts think that Alyssa is by far their best candidate to go to Mars.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Alyssa is ready to go to Mars even if she won’t be able to come back to Earth.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2017-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you are going to hear a news item about a campaign run by Coca Cola in the Middle East.",
+      "Your task is to write one word into each of the gaps below using the words you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "e_angol_17okt_fl.mp3",
+      "start": 1251.26,
+      "end": 1795.58,
+      "clip": "hang/e_angol_17okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The campaign is restricted to the Middle East during the Islamic {{gap}} {{gap}} of Ramadan.",
+       "gaps": [
+        [
+         "holy"
+        ],
+        [
+         "month"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Coke has removed its logos from its packaging, so one side of the cans is blank except for the brand’s {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "iconic"
+        ],
+        [
+         "colouring",
+         "coloring"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "One of the aims of the campaign is to {{gap}} {{gap}} of worldwide prejudices and stereotypes.",
+       "gaps": [
+        [
+         "raise"
+        ],
+        [
+         "awareness"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "The YouTube video demonstrates how quickly people develop prejudices, but how simple it is to {{gap}} such {{gap}}.",
+       "gaps": [
+        [
+         "break"
+        ],
+        [
+         "perceptions",
+         "prejudices"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The video was recorded in a completely dark room using infrared light and {{gap}} {{gap}} cameras.",
+       "gaps": [
+        [
+         "night"
+        ],
+        [
+         "vision"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "After chatting about {{gap}} {{gap}} and what they have in common, the strangers in the video were asked to guess each other’s appearances.",
+       "gaps": [
+        [
+         "various"
+        ],
+        [
+         "subjects"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "When the lights are switched on, it reveals a {{gap}} {{gap}}, and the participants discover how incorrect their guesses were.",
+       "gaps": [
+        [
+         "diverse"
+        ],
+        [
+         "group"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Among others, there was a guy with {{gap}} {{gap}}, two men in Arab dress, a man in a wheelchair and another man in smart business dress.",
+       "gaps": [
+        [
+         "facial"
+        ],
+        [
+         "tattoos"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The video hopes to encourage people to take the time to get to know each other before {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "making"
+        ],
+        [
+         "judgements",
+         "judgments"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The Middle East is a region with more than 200 nationalities and even more {{gap}} and {{gap}} dividing people.",
+       "gaps": [
+        [
+         "generalizations"
+        ],
+        [
+         "labels"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "This campaign is part of Coke’s {{gap}} {{gap}} to encourage people to take the time to get to know one another better.",
+       "gaps": [
+        [
+         "global"
+        ],
+        [
+         "effort"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1332 @@
+{
+ "formatVersion": 1,
+ "id": "2026-maj-emelt",
+ "year": 2026,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2026-05-07",
+ "code": "E2611",
+ "sourceFiles": {
+  "paper": "2026 - Emeltszintű május/e_angol_26maj_fl.pdf",
+  "key": "2026 - Emeltszintű május/e_angol_26maj_ut.pdf",
+  "audio": "2026 - Emeltszintű május/e_angol_26maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "tasks": [
+    {
+     "id": "2026-maj-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following reviews about a kids’ summer camp and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "CAMP HORIZONS",
+     "body": [
+      "Here are some reviews that parents have written after their kids have been to Camp Horizons.",
+      "Christopher Five years in a row attending summer camp at Camp Horizons has consistently led to the first question after picking up my teenage kid: “Can I go again next year?” Communication is great, food is OK, and pricing is good. Even better if you enrol early.",
+      "Luke The camp is a great concept, but sadly, if you are not sending your teen camper with friends, they could potentially end up experiencing what mine did: being lonely and laughed at. She also stated that they were forced to clean their cabin daily, and were only allowed 5-minute showers.",
+      "Colin The camp portal made filling out the paperwork super easy. It was all very organized, except for the very long check-in line when we dropped our daughter off. The pick-up was super quick and easy though. Huge benefit is the device-free zone.",
+      "Eric My son loved his time at camp and even wants to participate in the counsellor program. During his stay I was able to look at pictures that were being taken and shared with the parents. At one point he looked upset in one of the pictures and the counsellors checked up on him for me.",
+      "Adam What really makes this camp special is the absolutely amazing staff, who care about kids a lot. The camp also constantly improves each year with new activities, and everything is maintained in top condition. Another pro is that kids are not allowed to have electronics.",
+      "Wesley The campsite itself is beautiful with incredible views of the mountains. However, my son was pretty disappointed with the food, even though he did not expect much from “camp-food”. Additionally, the bathrooms and showers were kind of gross. He felt he was leaving a shower feeling dirtier than when he went in.",
+      "Zack So disappointing that I trusted my son's summer experience to people that don't deliver what they advertise. They listed 30+ activities to choose from on their website, but in fact, there were only eight options. No wonder the kids missed their devices!"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "missed receiving daily information about his kid."
+      },
+      {
+       "key": "B",
+       "text": "mentions that the camp has more to offer every year."
+      },
+      {
+       "key": "C",
+       "text": "has had his kid stay at Camp Horizons several times."
+      },
+      {
+       "key": "D",
+       "text": "was pleased that his kid remained in contact with other campers after the camp ended."
+      },
+      {
+       "key": "E",
+       "text": "thinks the camp could use some work on cleanliness and food options."
+      },
+      {
+       "key": "F",
+       "text": "complains about the lengthy arrival procedure."
+      },
+      {
+       "key": "G",
+       "text": "says that there were fewer programmes available than the camp had claimed to offer."
+      },
+      {
+       "key": "H",
+       "text": "thinks the camp sessions are too long for kids to be away from screens."
+      },
+      {
+       "key": "I",
+       "text": "is pleased that his concern about his kid at camp was taken seriously by the staff."
+      },
+      {
+       "key": "K",
+       "text": "thinks the camp could do better in preventing bullying and creating more inclusivity."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Christopher …",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Luke …",
+       "answer": "K"
+      },
+      {
+       "n": 2,
+       "stem": "Colin …",
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "stem": "Eric …",
+       "answer": "I"
+      },
+      {
+       "n": 4,
+       "stem": "Adam …",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Wesley …",
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "stem": "Zack …",
+       "answer": "G"
+      }
+     ],
+     "source": "https://share.google/cUTKxYYDIVZmEI0KE"
+    },
+    {
+     "id": "2026-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about some new tourist fines.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (7-14) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "NEW TOURIST FINES SWEEP EUROPE",
+     "body": [
+      "This year, several European countries have introduced hefty fines for badly behaved tourists. But why now – and will it {{0}}?",
+      "This summer, Europe is cracking down on unruly holidaymakers. From wearing flip flops while driving to smoking on beaches, a new wave of tourist fines is sweeping the continent. In Portugal's popular seaside town of Albufeira, wearing swimwear off the beach could {{7}}. In Spain's Balearic Islands, public drinking fines can reach €3,000. Hiking Italy's Cinque Terre in inappropriate footwear could see travellers shelling out up to €2,500. France now fines smokers €90 on the spot for {{8}}, and collecting a seashell in Greece could cost €1,000.",
+      "At first glance, these measures might seem like {{9}}, since many of these destinations earn a significant amount of money from tourism. But authorities say the rules are aimed at protecting residents and responsible holidaymakers. And while they might sound rigid and punitive, they are all about encouraging responsible and empathetic travelling.",
+      "Bad tourism behaviour has gone too far and authorities are trying to protect towns and residents from mass tourism's worst excesses. “Tourism cannot {{10}}. We must act with two main ideas in mind: the protection and preservation of the environment; and {{11}},” said Juan Antonio Amengual, mayor of Calvià, Mallorca.",
+      "“Locals are fed up,” said responsible tourism advocate Birgitta Spee-König. “These fines are signals that communities want to {{12}}. It's not that tourists are worse – it's more that the tolerance has gone.” Anti-tourism protests have been growing in Europe for years. Local authorities are recognising that they need to stand up for residents, even if they risk upsetting tourists. It’s also a signal to holidaymakers that being away from home isn’t a free pass for {{13}}.",
+      "It's too soon to say if the new fines are working. Behaviour change campaigns {{14}}, and one season won't transform visitor habits. But the message is clear: sun, sand and sea are still on offer, but only to those who agree to enjoy them sensibly, sensitively and a little soberly."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "biting the hand that feeds"
+      },
+      {
+       "key": "B",
+       "text": "take time to work"
+      },
+      {
+       "key": "C",
+       "text": "change how people holiday"
+      },
+      {
+       "key": "D",
+       "text": "cost you up to €1,500"
+      },
+      {
+       "key": "E",
+       "text": "doing anything you want"
+      },
+      {
+       "key": "F",
+       "text": "be a burden on citizens"
+      },
+      {
+       "key": "G",
+       "text": "ensuring that tourism is in harmony with our society"
+      },
+      {
+       "key": "H",
+       "text": "lighting up in public beaches and playgrounds"
+      },
+      {
+       "key": "I",
+       "text": "attract even more tourists"
+      },
+      {
+       "key": "K",
+       "text": "reclaim space"
+      },
+      {
+       "key": "L",
+       "text": "refusing to pay the fine"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      },
+      {
+       "n": 9,
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "K"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20250808-the-new-tourist-fines-sweeping-europe"
+    },
+    {
+     "id": "2026-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about a famous poster and then read the statements (15-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "KEEP CALM AND CARRY ON",
+     "body": [
+      "In the spring of 2000, a forgotten World War Two-era British propaganda poster was rediscovered in a dusty box at Barter Books, a second-hand bookshop. The red poster and its bold message beneath a Tudor crown, Keep Calm and Carry On, sparked a viral design trend and became one of the 21st century's most recognisable cultural slogans.",
+      "The poster was commissioned in 1939 by the British Ministry of Information, which often used posters, cinema, radio, books and pamphlets to boost public morale during the threat of war. Bombing raids were expected to lead to the rapid breakdown of society, so the poster was designed to help restore order amid the chaos.",
+      "British towns and cities did experience heavy bombing raids, but civilians responded with resilience and spirited togetherness. So, the poster would have seemed rather patronising to British civilians. The iconic poster, of which about 2.5 million copies were printed, was held back and remained unseen by the public. Only a few copies survived, including the one in the box at Barter Books.",
+      "Stuart and Mary Manley, owners of Barter Books, were taken by the poster. “We decided to have it framed and put it up in the bookshop. We had no idea what it would become.” The explosion began when a Guardian journalist included it in a 2005 article on her 10 favourite design items.",
+      "The poster reappeared in a radically different landscape than the one it was intended for, one shaped by a rapidly growing internet culture, and soon became a platform for endless parody. By 2007, sales of the poster had reached 50,000 and its popularity hasn't waned since.",
+      "Fuelled by the reach of the internet, the phrase captured the attention of the international media. Today, the message appears on countless T-shirts, mugs, key rings, etc., and since its rediscovery, the poster and its caption have become a meme template and been endlessly reimagined. Keep Calm and Drink Tea. Keep Calm and Code On. Keep Calm and Have a Cupcake. The list goes on.",
+      "The poster's plainness is crucial to its adaptability, with the crown at the top, and five large words in white, on a red background: a powerful colour that catches the eye. That's why it is adaptable to contemporary visual culture, where a vast array of media messages compete for our attention."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The poster was found accidentally when the owners of Barter Books were cleaning their store.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The purpose of the poster was to encourage the public to put up with the difficulties of WW2.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The reaction of the public to the bombing raids was unexpected.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The posters appeared in air-raid shelters, shops, and in the streets in order to get the message across to the people.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "The 2005 article mentioning the poster didn’t generate much interest.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The sales of the poster doubled in 2006.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "Celebrities have been spotted wearing T-shirts with the caption of the original poster.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Today, anyone can create a caption based on the original poster.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "The complexity of the design makes it a challenge to reuse it in contemporary visual culture.",
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.bbc.com/culture/article/20250805-how-keep-calm-and-carry-on-became-a-21st-century-phenomenon"
+    },
+    {
+     "id": "2026-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about sleeping with pets.",
+      "Some sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (23-30) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "HOW SHARING A BED WITH YOUR PET AFFECTS YOUR HEALTH",
+     "body": [
+      "Sleeping with pets isn’t a new phenomenon. {{0}} Now that we have heating and locking doors, we no longer need a dog to keep us warm and safe. {{23}}",
+      "Pets can bring relief from nightmares for people with post-traumatic stress disorder. Sleeping with them can also provide comfort and reduce anxiety and loneliness. {{24}} Having a pet in your bed can also ease symptoms of mental health conditions and help regulate emotions.",
+      "The presence of pets significantly influences the makeup of bacteria found in a home. {{25}} Researchers agree that exposure to a diversity of microorganisms benefits human health and strengthens the immune system.",
+      "{{26}} Any of the health benefits of pet contact are likely to disappear if the quality of your sleep is not good enough. For example, your sleep is likely to be disrupted if you have a hyperactive dog in the bed. {{27}}",
+      "Cats are more likely to disrupt sleep than dogs, because they’re more active at night. {{28}} On the other hand, dogs also have quirks. They cycle through REM (rapid eye movement) sleep and wakefulness way more often than humans. {{29}}",
+      "Pets can also bring saliva, plant components and mold spores into the bed with you. {{30}} Pets might also carry mites, ticks and fleas, which can bite humans and transmit various diseases."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Other potential health benefits include reduced blood pressure."
+      },
+      {
+       "key": "B",
+       "text": "Exhausted owners have plenty of tales of cats howling for hours, or pawing at their faces lying next to them."
+      },
+      {
+       "key": "C",
+       "text": "People have been doing it for thousands of years for warmth and protection from predators."
+      },
+      {
+       "key": "D",
+       "text": "Still, about half of pet owners share a bed with their pet."
+      },
+      {
+       "key": "E",
+       "text": "These, especially the spores, can trigger an allergic reaction."
+      },
+      {
+       "key": "F",
+       "text": "This can impact the immunity of humans living there."
+      },
+      {
+       "key": "G",
+       "text": "Instead, vets recommend sleeping in the same bed with your guinea pigs, hedgehogs, or other small pets."
+      },
+      {
+       "key": "H",
+       "text": "However, having a pet in the bed with you can potentially disrupt your sleep."
+      },
+      {
+       "key": "I",
+       "text": "For example, letting pets sleep in a newborn’s bed is potentially dangerous."
+      },
+      {
+       "key": "K",
+       "text": "This means they might paddle and twitch violently while dreaming, so your sleep might be disrupted as often as 20 times a night."
+      },
+      {
+       "key": "L",
+       "text": "Other reasons for bad sleep might be a sick pet that needs to be let out often or a pet that lies too close to you."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "H"
+      },
+      {
+       "n": 27,
+       "answer": "L"
+      },
+      {
+       "n": 28,
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "answer": "K"
+      },
+      {
+       "n": 30,
+       "answer": "E"
+      }
+     ],
+     "source": "https://www.washingtonpost.com/home/2025/09/15/co-sleeping-with-pets-risks-benefits/"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2026-maj-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the origin of the phrase “get the sack”. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are four extra words that you do not need to use."
+     ],
+     "title": "WHY DO WE SAY “GET THE SACK”?",
+     "body": [
+      "Few people welcome the news that they have been sacked and {{0}} come to terms with losing their job. Yet, whether we like it or not, this phrase has been part of the English language for centuries. But where does it come from?",
+      "Before the Industrial Revolution – when men, women and even children flocked to factories in search {{1}} work – it was far more common for labourers to move from one job to another. {{2}} than being permanently employed as part of a team, tradesmen, craftsmen, and labourers would travel independently, {{3}} their own tools and materials, and {{4}} employment wherever opportunities arose. The most practical way to transport their equipment was in a sack, which they would {{5}} leave with their employer for safekeeping.",
+      "In an age with no job security, formal {{6}}, or trade unions, workers could be dismissed at a moment’s notice. When their {{7}} were no longer required, they were {{8}} their sack – a clear sign that they were to collect their belongings and leave."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BETTER"
+      },
+      {
+       "key": "B",
+       "text": "CARRYING"
+      },
+      {
+       "key": "C",
+       "text": "MUST"
+      },
+      {
+       "key": "D",
+       "text": "CONTRACTS"
+      },
+      {
+       "key": "E",
+       "text": "FOR"
+      },
+      {
+       "key": "F",
+       "text": "GOT"
+      },
+      {
+       "key": "G",
+       "text": "HANDED"
+      },
+      {
+       "key": "H",
+       "text": "OF"
+      },
+      {
+       "key": "I",
+       "text": "OFTEN"
+      },
+      {
+       "key": "K",
+       "text": "RATHER"
+      },
+      {
+       "key": "L",
+       "text": "SEARCHING"
+      },
+      {
+       "key": "M",
+       "text": "SEEKING"
+      },
+      {
+       "key": "N",
+       "text": "SERVICES"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "K"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "N"
+      },
+      {
+       "n": 8,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2026-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an artwork that was used to spy on diplomatic conversations. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-16).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE SOVIET ARTWORK THAT SPIED ON THE US",
+     "body": [
+      "Eighty years ago, during the final weeks of World War II, a troop of {{0}} Pioneers presented the U.S. Ambassador in Moscow with a hand-carved Great Seal of the US at his {{9}} residence called Spaso House. The gift symbolized cooperation between Russia and the U.S. during the war, and the U.S. Ambassador Harriman proudly displayed it in his house.",
+      "However, the ambassador and his security team were {{10}} of the seal’s true purpose; it was far more than an ornament. Hidden inside was a listening device, later dubbed “The Thing” by U.S. technical security experts. For seven years, it quietly spied on diplomatic conversations, its {{11}} never suspected. By using a seemingly {{12}} artwork to infiltrate the enemy, the Soviets accomplished the most ingenious stunt since Odysseus's Trojan Horse.",
+      "Within Spaso House, The Thing was only activated when a remote transceiver, based in a nearby building, was switched on. This sent out a high-frequency signal, which reflected the vibrations coming from the bug's antenna. Its {{13}} came to light in 1951, when a British military radio {{14}} working in Moscow accidentally tuned into the precise wavelength used by The Thing and overheard conversations from a {{15}} room. The following year, U.S. technicians swept the ambassadorial residence and, after no fewer than three days of searching, realized that the hand-carved Great Seal was an {{16}} ear, eavesdropping on behind-the-scenes ambassadorial discussions."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "Russia",
+       "example": true,
+       "accept": [
+        "Russian"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "office",
+       "accept": [
+        "official",
+        "unofficial"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "aware",
+       "accept": [
+        "unaware"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "present",
+       "accept": [
+        "presence"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "harm",
+       "accept": [
+        "harmless"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "exist",
+       "accept": [
+        "existence"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "operate",
+       "accept": [
+        "operator"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "distance",
+       "accept": [
+        "distant"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "visible",
+       "accept": [
+        "invisible"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2026-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about Common Courtesy Day. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-24) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "WHAT GOES AROUND COMES AROUND",
+     "body": [
+      "Common Courtesy Day, celebrated on 21 March, serves {{0}} a reminder of the simple behaviors that help keep society from descending into chaos. It also raises awareness of {{17}} valuable courtesy is in everyday life and encourages people to practice it more consciously. Although the exact origin of the day is still unknown, it is believed to {{18}} started around 2003.",
+      "Common courtesy can be expressed through simple actions, {{19}} as saying “please” and “thank you” when asking for or receiving help or a service. Small gestures – like letting someone go ahead in traffic, holding the door for another person, or offering to help with groceries – can have a lasting impact. You might also give up your seat on public transport to someone who needs it more.",
+      "If courtesy is {{20}} yet part of your everyday life, Common Courtesy Day is the perfect opportunity to make a change. Try to use polite words more often and acknowledge the kindness of others. Not {{21}} will others appreciate it, but you will feel good about it as well.",
+      "You might wonder {{22}} there is such a thing as “uncommon courtesy”. In a sense, the answer is yes. Since common courtesy has become less common, acts of politeness can now stand out more than ever. In the past, for example, people often stood up when someone entered a room, {{23}} was considered standard manners. While this custom has fallen out of fashion, those who still practice it demonstrate {{24}} could be called uncommon courtesy – going beyond everyday politeness."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "how",
+        "what"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "such"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "not"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "only"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "whether",
+        "if"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "what"
+       ]
+      }
+     ],
+     "source": "https://www.nationaldaycalendar.com/national-day/national-common-courtesy-day-march-21"
+    },
+    {
+     "id": "2026-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about one of the world’s most beloved cookies, which was born by accident. In most lines, there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "CHOCOLATE CHIP COOKIES",
+     "intro": "Ruth Graves Wakefield and her husband, Kenneth, ran the Toll House Inn in Massachusetts, where Ruth prepared every meal for their guests and",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "earned a reputation for her exceptional cooking.",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "In 1930, while making up a tray of Chocolate Butter Drop Do",
+       "answer": "up"
+      },
+      {
+       "n": 25,
+       "text": "cookies, she also discovered that she was out of baker’s chocolate.",
+       "answer": "also"
+      },
+      {
+       "n": 26,
+       "text": "Thinking over quickly, she chopped up a bar of Nestlé’s semi-sweet",
+       "answer": "over"
+      },
+      {
+       "n": 27,
+       "text": "chocolate and stirred the pieces into the dough. She was expected",
+       "answer": "was"
+      },
+      {
+       "n": 28,
+       "text": "them to melt completely, as baker’s chocolate would, but instead of",
+       "answer": "of"
+      },
+      {
+       "n": 29,
+       "text": "they held their shape, turning soft and melt-in-the mouth.",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "The accidental creation proved to be as a sensation: her recipe for",
+       "answer": "as"
+      },
+      {
+       "n": 31,
+       "text": "“Chocolate Crunch Cookies” was soon featured in every papers.",
+       "answer": "every"
+      },
+      {
+       "n": 32,
+       "text": "Not long after all, Wakefield reached an agreement with Andrew",
+       "answer": "all"
+      },
+      {
+       "n": 33,
+       "text": "Nestlé himself: in an exchange for allowing the recipe to be printed",
+       "answer": "an"
+      },
+      {
+       "n": 34,
+       "text": "on every package of Nestlé semi-sweet chocolate, she received",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "a lifetime supply of the ingredient that has made her cookies",
+       "answer": "has"
+      }
+     ],
+     "outro": "famous in the middle of the 1930s.",
+     "source": "https://science.howstuffworks.com/innovation/inventions/15-of-the-coolest-accidental-inventions.htm"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2026-maj-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section you will learn about the phrase gung-ho.",
+      "Your task is to complete the sentences with two words indicated by the gaps, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_26maj_fl.mp3",
+      "start": 0,
+      "end": 506.38,
+      "clip": "hang/e_angol_26maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Tim Bowen is a British teacher-trainer, {{gap}} and {{gap}}.",
+       "gaps": [
+        [
+         "writer"
+        ],
+        [
+         "translator"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Tim Bowen explained the {{gap}} and the {{gap}} of gung- ho..",
+       "unordered": true,
+       "gaps": [
+        [
+         "meaning"
+        ],
+        [
+         "origin"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Typhoon, wok and kung fu are some of the {{gap}} {{gap}} of Chinese words that made their way to the English language.",
+       "gaps": [
+        [
+         "rare",
+         "few"
+        ],
+        [
+         "examples"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "According to an English dictionary, gung-ho means {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "extremely"
+        ],
+        [
+         "enthusiastic"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "‘Gung-ho’ is thought to have {{gap}} {{gap}} the English language in World War II.",
+       "gaps": [
+        [
+         "first"
+        ],
+        [
+         "entered"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "In Chinese, gung means {{gap}} and ho means {{gap}}.",
+       "gaps": [
+        [
+         "work"
+        ],
+        [
+         "harmony"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "The officer’s soldiers called themselves the gung ho unit ’to {{gap}} their {{gap}} to carry out a task together.",
+       "gaps": [
+        [
+         "express",
+         "describe"
+        ],
+        [
+         "ability"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "The officer’s soldiers gained a reputation for their passionate {{gap}} to {{gap}}.",
+       "gaps": [
+        [
+         "approach"
+        ],
+        [
+         "warfare"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Outside of warfare, gung-ho is used in a(n) {{gap}} {{gap}} of contexts.",
+       "gaps": [
+        [
+         "wide"
+        ],
+        [
+         "variety"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el, és csak akkor adható pont, ha mindkét szó elfogadható. A szavak sorrendje csak az 1. item esetében cserélhető fel.)"
+     }
+    },
+    {
+     "id": "2026-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will listen to the story of a famous photograph.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_26maj_fl.mp3",
+      "start": 506.38,
+      "end": 1200.3,
+      "clip": "hang/e_angol_26maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Raising the flag on Iwo Jima is the most iconic photograph of the 20th century.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Rosenthal’s iconic photo shows the second flag that the Americans raised on Iwo Jima that day.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The Americans reached Mount Suribachi on the first day of their landing.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "The first flag was also surrounded by six soldiers.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "The first flag was damaged by the Japanese.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Joe Rosenthal put his camera on the ground so the Japanese wouldn’t hit it.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Joe Rosenthal almost missed the raising of the flag because he was piling up rocks.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Joe Rosenthal knew immediately that he had taken a great picture.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "Three of the Marines died the day after the photo was taken.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "In a 1995 interview Joe Rosenthal admitted that the photo had been staged.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2026-maj-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to some information about Thomas Edison, the famous American inventor.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_26maj_fl.mp3",
+      "start": 1200.3,
+      "end": 1795.3,
+      "clip": "hang/e_angol_26maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Thomas Edison was born in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "1847."
+        },
+        {
+         "key": "B",
+         "text": "Ohio."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Edison invented the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "light bulb and the phonograph."
+        },
+        {
+         "key": "B",
+         "text": "telegraph and the telephone."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Edison wanted to…",
+       "options": [
+        {
+         "key": "A",
+         "text": "know why geese sat on their eggs."
+        },
+        {
+         "key": "B",
+         "text": "see whether he could hatch eggs."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Until the age of 8, Edison didn’t go to school because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his mum was ill at the time."
+        },
+        {
+         "key": "B",
+         "text": "the family had money problems."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "At school, Edison …",
+       "options": [
+        {
+         "key": "A",
+         "text": "enjoyed learning things word for word."
+        },
+        {
+         "key": "B",
+         "text": "would have liked more flexibility."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Edison’s mother …",
+       "options": [
+        {
+         "key": "A",
+         "text": "took him out of school because of his health problems."
+        },
+        {
+         "key": "B",
+         "text": "taught him reading, writing and arithmetic."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Edison …",
+       "options": [
+        {
+         "key": "A",
+         "text": "pressed his teeth to the wooden part of the piano to “hear” it."
+        },
+        {
+         "key": "B",
+         "text": "thought his hearing problem was holding him back at work."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Grand Trunk Herald was a newspaper … by Edison.",
+       "options": [
+        {
+         "key": "A",
+         "text": "written"
+        },
+        {
+         "key": "B",
+         "text": "printed"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Edison spent money on ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "getting important information about the Civil War."
+        },
+        {
+         "key": "B",
+         "text": "buying equipment for his experiments."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

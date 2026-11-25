@@ -1,0 +1,432 @@
+{
+  "formatVersion": 1,
+  "id": "2024-maj-kozep",
+  "year": 2024,
+  "session": "május",
+  "level": "közép",
+  "examDate": "2024-05-09",
+  "code": "K2412",
+  "sourceFiles": {
+    "paper": "2024 - Középszintű május/k_angol_24maj_fl.pdf",
+    "key": "2024 - Középszintű május/k_angol_24maj_ut.pdf",
+    "audio": "2024 - Középszintű május/k_angol_24maj_fl.mp3"
+  },
+  "sections": [
+    {
+      "id": "reading",
+      "title": "I. Olvasott szöveg értése",
+      "minutes": 60,
+      "maxTaskPoints": 27,
+      "maxExamPoints": 33,
+      "conversion": {"27":33,"26":32,"25":31,"24":29,"23":28,"22":27,"21":26,"20":24,"19":23,"18":22,"17":21,"16":20,"15":18,"14":17,"13":16,"12":15,"11":13,"10":12,"9":11,"8":10,"7":9,"6":7,"5":6,"4":5,"3":4,"2":2,"1":1,"0":0},
+      "tasks": [
+        {
+          "id": "2024-maj-kozep-R1",
+          "number": 1,
+          "kind": "bank",
+          "layout": "inline",
+          "examType": "kérdés/cím párosítása bekezdéshez",
+          "points": 8,
+          "instructions": [
+            "Read the following questions and answers from the website of a tourist attraction in Edinburgh. The questions have been removed.",
+            "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1-8).",
+            "There are three extra questions that you do not need."
+          ],
+          "title": "FAQS ABOUT YOUR VISIT TO CAMERA OBSCURA AND WORLD OF ILLUSIONS",
+          "source": "https://www.camera-obscura.co.uk/faqs",
+          "body": [
+            "Welcome to Edinburgh's oldest visitor attraction, delighting visitors since 1853. Here’s everything you need to know before you visit.",
+            "{{0}}\nMost people get around all our attractions in about one hour and 45 minutes, but you may spend as long as you like enjoying the illusions.",
+            "{{1}}\nYes, if we have spaces available, you can purchase tickets on the day at our front desk. However, we would recommend booking in advance to avoid disappointment.",
+            "{{2}}\nThere’s something for everyone, from babies to grandparents. Even hard-to-impress teenagers love Camera Obscura.",
+            "{{3}}\nWe have a storage area for big items like suitcases and backpacks. Please note that items can only be stored for the duration of your visit at Camera Obscura.",
+            "{{4}}\nOur 17th-century building is listed by Historic Environment Scotland, so for the time being, we are a stairs-only attraction.",
+            "{{5}}\nWe don’t have an on-site café, but your ticket gets you money off at several nearby cafés and restaurants.",
+            "{{6}}\nYes. We pride ourselves on being a pet-friendly attraction and offer all our furry friends a treat of a biscuit on arrival.",
+            "{{7}}\nYes. You will be able to connect with the access code that you get at the admissions desk on your arrival.",
+            "{{8}}\nYes. Photography is allowed everywhere except in the Camera Obscura chamber. Please share your photos with us by tagging us on social media."
+          ],
+          "bank": [
+            {"key": "A", "text": "Is there a place to eat in the building?"},
+            {"key": "B", "text": "Are dogs welcome?"},
+            {"key": "C", "text": "How long does a visit take?"},
+            {"key": "D", "text": "What’s the best time to visit?"},
+            {"key": "E", "text": "May I take pictures in the building?"},
+            {"key": "F", "text": "Can I buy a ticket on arrival?"},
+            {"key": "G", "text": "Can I bring my own food or drinks?"},
+            {"key": "H", "text": "Is there a lift?"},
+            {"key": "I", "text": "Where can I leave my luggage during my visit?"},
+            {"key": "K", "text": "Can I book tickets online?"},
+            {"key": "L", "text": "Do you have free WiFi?"},
+            {"key": "M", "text": "What ages are the attractions suitable for?"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C"},
+            {"n": 1, "answer": "F"},
+            {"n": 2, "answer": "M"},
+            {"n": 3, "answer": "I"},
+            {"n": 4, "answer": "H"},
+            {"n": 5, "answer": "A"},
+            {"n": 6, "answer": "B"},
+            {"n": 7, "answer": "L"},
+            {"n": 8, "answer": "E"}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-R2",
+          "number": 2,
+          "kind": "bank",
+          "layout": "inline",
+          "examType": "mondatrész visszahelyezése szövegbe",
+          "points": 8,
+          "instructions": [
+            "Read this article about traditions related to Christmas.",
+            "Some parts of sentences have been left out from the text.",
+            "Your task is to reconstruct the text by filling in the gaps (9-16) from the list (A-L) below.",
+            "Remember that there are two extra letters that you do not need."
+          ],
+          "title": "WHEN SHOULD YOU TAKE DOWN YOUR CHRISTMAS DECORATIONS?",
+          "source": "https://www.bbc.co.uk/newsround/67652442",
+          "body": [
+            "Some of the trickiest questions about Christmas are about the decorations. When do you {{0}} and when do you remove them?",
+            "Lots of people {{9}} if it's too early to put their decorations up and come January, even more start wondering when they have to {{10}}. It's important to point out, though, that there aren't any definite rules about Christmas decorations.",
+            "Some people love to put them up right after Halloween, and if shops {{11}}, you start thinking it's time to have them up at home. However, others argue that having your decorations up too early can mean you {{12}} Christmas comes along. But in any case, it's up to you and your family to {{13}}.",
+            "A little bit more strict is the tradition about taking decorations down — but even this can be a bit confusing. One of the most famous traditions is that of Twelfth Night and the idea that it is bad luck to {{14}} past Twelfth Night. Twelfth Night is a Christian festival that takes place on the last night of the Twelve Days of Christmas, marking the coming of the feast of Epiphany when Christians celebrate the visit of the Three Wise Men.",
+            "There is no definite date for Twelfth Night and different religious traditions {{15}}. Some believe it comes twelve days after Christmas Day, so on 5 January, while others {{16}} on 26 December, which puts Twelfth Night on 6 January."
+          ],
+          "bank": [
+            {"key": "A", "text": "get tired of them by the time"},
+            {"key": "B", "text": "start wondering in November"},
+            {"key": "C", "text": "put them up"},
+            {"key": "D", "text": "follow different times for it"},
+            {"key": "E", "text": "say the counting should begin"},
+            {"key": "F", "text": "bring good luck"},
+            {"key": "G", "text": "are selling Christmas goods"},
+            {"key": "H", "text": "leave your Christmas decorations up"},
+            {"key": "I", "text": "take them down"},
+            {"key": "K", "text": "do what you enjoy best"},
+            {"key": "L", "text": "are becoming the classic symbols of Christmas"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C"},
+            {"n": 9, "answer": "B"},
+            {"n": 10, "answer": "I"},
+            {"n": 11, "answer": "G"},
+            {"n": 12, "answer": "A"},
+            {"n": 13, "answer": "K"},
+            {"n": 14, "answer": "H"},
+            {"n": 15, "answer": "D"},
+            {"n": 16, "answer": "E"}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-R3",
+          "number": 3,
+          "kind": "bank",
+          "layout": "stems",
+          "examType": "félmondatok párosítása",
+          "points": 5,
+          "instructions": [
+            "Read the following description of zoos and safari parks in Britain and then read the half sentences that follow the text.",
+            "Your task is to match the half sentences based on the information in the text.",
+            "Write the letters (A-I) next to the numbers (17-21).",
+            "Remember that there are three extra letters that you will not need."
+          ],
+          "title": "THE UK'S BEST ZOOS",
+          "source": "https://thefamilyconscience.com/17-best-zoos-in-the-uk/ ; https://www.greatbritishbucketlist.com/best-zoos-in-the-uk/",
+          "body": [
+            "A day out at the zoo is always fun and there’s definitely something to keep all the family happy. This guide may help you decide where to go next.",
+            "Whipsnade Zoo is the largest zoo in the UK. You can drive to different sections of the zoo and park there, which is a good option if you’re with little kids. Whipsnade’s main draws include its elephants, bears and rhinos. It also has an aquarium and an indoor play area for rainier days.",
+            "Port Lympne is one of the best safari parks in the UK. It’s not just a wildlife reserve but you can also stay overnight in one of their themed hotels and yurts. But the biggest draw here must be the cabins overlooking the different animals. It’s not cheap but it’s very popular.",
+            "Colchester Zoo is the UK’s largest private zoo, where entrance fees and purchases go towards the upkeep of the zoo and its charity. There’s always lots happening and there are opportunities for kids to hand feed the goats, sheep and rainbow lorikeets.",
+            "Paignton Zoo is one of the top zoos in the UK if you’re looking for flora and fauna as it is the UK’s first combined botanical and zoological garden. Besides a number of great animal experiences, you can see a collection of trees and flowers from all over the world.",
+            "Shaldon Wildlife Trust does lots of conservation work on behalf of endangered species. You’ll find lemurs, cotton-top tamarins and meerkats, as well as armadillos. However, it is a tiny zoo, which measures just one acre, so you’ll be able to get around it in half a day.",
+            "Chester Zoo was the first zoo in the UK to successfully breed Asian elephants in captivity. It has a huge team of scientists, vets and zookeepers working on its breeding programmes and caring for the animals who live there. Chester Zoo has 21,000 animals across 500 different species, which makes it the biggest zoo in the UK in terms of animal count."
+          ],
+          "bank": [
+            {"key": "A", "text": "features animals which are used to cold climates."},
+            {"key": "B", "text": "is not paid for by the government."},
+            {"key": "C", "text": "is a park that you can explore by car."},
+            {"key": "D", "text": "has more animals than any other zoo in the UK."},
+            {"key": "E", "text": "has the biggest insect house in the UK."},
+            {"key": "F", "text": "is a place to visit if you have limited time."},
+            {"key": "G", "text": "has an app for visitors to find their way around."},
+            {"key": "H", "text": "offers accommodation to its visitors."},
+            {"key": "I", "text": "is a place where you can study plants as well as animals."}
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "Whipsnade Zoo …", "answer": "C"},
+            {"n": 17, "stem": "Port Lympne …", "answer": "H"},
+            {"n": 18, "stem": "Colchester Zoo …", "answer": "B"},
+            {"n": 19, "stem": "Paignton Zoo …", "answer": "I"},
+            {"n": 20, "stem": "Shaldon Wildlife Trust …", "answer": "F"},
+            {"n": 21, "stem": "Chester Zoo …", "answer": "D"}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-R4",
+          "number": 4,
+          "kind": "bank",
+          "layout": "inline",
+          "examType": "mondat visszahelyezése szövegbe",
+          "points": 6,
+          "instructions": [
+            "Read this article about what young people can do if they are upset by the news.",
+            "Some sentences have been left out from the text.",
+            "Your task is to reconstruct the text by filling in the gaps (22-27) from the list (A-I) below.",
+            "Remember that there are two extra letters that you do not need."
+          ],
+          "title": "ADVICE IF YOU'RE UPSET BY THE NEWS",
+          "source": "https://www.bbc.co.uk/newsround/13865002",
+          "body": [
+            "Sometimes things that happen in the world can make us sad, anxious or confused. It's important to know that it is perfectly normal to have those feelings. {{0}} Adults get sad and confused too, so there is nothing wrong with feeling like this.",
+            "{{22}} For example, watch your favourite film, take your dog for a walk or chat with a friend. Also, try to balance the news you read. Have you read a sad story? {{23}}",
+            "Is being worried making it more difficult to fall asleep? {{24}} Before you go to bed, try to think about things that make you happy, so your head is full of positive thoughts. Reading a good book in bed will help to settle your thoughts. If you have a bad dream, try drawing it. {{25}}",
+            "People are spending a lot of time talking about sad events in the news. {{26}} It is very unlikely that such events will affect you or your family. It is important that if you are feeling upset about them, you shouldn't keep what's troubling you to yourself. {{27}} That can help you to understand what is upsetting you, and help those feelings of sadness, anger or confusion to go away."
+          ],
+          "bank": [
+            {"key": "A", "text": "Instead, talk to an adult about the issue in the news that is worrying you."},
+            {"key": "B", "text": "Surround yourself with nice things by your bed, so they are the last things you see before you sleep."},
+            {"key": "C", "text": "You won't be the only one who feels that way."},
+            {"key": "D", "text": "This will help you to confront and fight your fear."},
+            {"key": "E", "text": "Doing things that make you happy can help you to feel better."},
+            {"key": "F", "text": "These are major signs that the news report may not be real."},
+            {"key": "G", "text": "It can be a simple act like writing cards for natural-disaster victims."},
+            {"key": "H", "text": "However, upsetting things are on the news because they are rare and do not happen very often."},
+            {"key": "I", "text": "Then try and read a happy one after it."}
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C"},
+            {"n": 22, "answer": "E"},
+            {"n": 23, "answer": "I"},
+            {"n": 24, "answer": "B"},
+            {"n": 25, "answer": "D"},
+            {"n": 26, "answer": "H"},
+            {"n": 27, "answer": "A"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "II. Nyelvhelyesség",
+      "minutes": 30,
+      "maxTaskPoints": 25,
+      "maxExamPoints": 18,
+      "conversion": {"25":18,"24":17,"23":17,"22":16,"21":15,"20":14,"19":14,"18":13,"17":12,"16":12,"15":11,"14":10,"13":9,"12":9,"11":8,"10":7,"9":6,"8":6,"7":5,"6":4,"5":4,"4":3,"3":2,"2":1,"1":1,"0":0},
+      "tasks": [
+        {
+          "id": "2024-maj-kozep-L1",
+          "number": 1,
+          "kind": "bank",
+          "layout": "inline",
+          "examType": "szóbank (szavak visszahelyezése)",
+          "points": 8,
+          "instructions": [
+            "You are going to read an article about a festival organised in Hope, Arkansas every August. Some words are missing from the text.",
+            "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-8) in the text.",
+            "You can use each word only once.",
+            "There are three extra words that you do not need to use."
+          ],
+          "title": "HOPE WATERMELON FESTIVAL",
+          "source": "www.hopechamberofcommerce.com",
+          "body": [
+            "Best {{0}} as the birthplace of U.S. President Bill Clinton, Hope, Arkansas, is also \"Home of the World's Largest Watermelons\" and hosts the only watermelon festival featuring giant watermelons.",
+            "Hope watermelon growers have been {{1}} to grow the biggest since the 1920s. In 1925, Hugh Laseter created a sensation with a(n) {{2}} 136-pounder (≈62 kg) that was exhibited for a few days. The 1928 champion was almost 145 pounds. Ivan Bright and his son Lloyd {{3}} the first 200-pound (≈91 kg) melon in 1979; seeds from it were sold for $8 {{4}}. In 1985, Lloyd Bright's 10-year-old son Jason grew a 260-pound (≈118 kg) watermelon {{5}} was recorded in the 1992 Guinness Book of World Records. These melons are huge {{6}} to the quality of the soil and an early greenhouse start.",
+            "The Hope Watermelon Festival {{7}} in 1926, ended with hard times, was restarted in 1977, and has been {{8}} annually ever since with about 50,000 visitors. There has been nationwide press coverage because of the enormous melons."
+          ],
+          "bank": [
+            {"key": "A", "text": "ACCORDING"},
+            {"key": "B", "text": "COMPETING"},
+            {"key": "C", "text": "KNOWN"},
+            {"key": "D", "text": "DUE"},
+            {"key": "E", "text": "EACH"},
+            {"key": "F", "text": "EVERY"},
+            {"key": "G", "text": "HELD"},
+            {"key": "H", "text": "PRODUCED"},
+            {"key": "I", "text": "RECORD"},
+            {"key": "K", "text": "STARTED"},
+            {"key": "L", "text": "THAT"},
+            {"key": "M", "text": "WHAT"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "answer": "C"},
+            {"n": 1, "answer": "B"},
+            {"n": 2, "answer": "I"},
+            {"n": 3, "answer": "H"},
+            {"n": 4, "answer": "E"},
+            {"n": 5, "answer": "L"},
+            {"n": 6, "answer": "D"},
+            {"n": 7, "answer": "K"},
+            {"n": 8, "answer": "G"}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-L2",
+          "number": 2,
+          "kind": "text",
+          "layout": "inline",
+          "examType": "nyílt cloze (egy szó)",
+          "points": 8,
+          "grading": {"spelling": "strict", "maxWords": 1},
+          "instructions": [
+            "You are going to read an article about Oulu, Finland, where people more often use their bicycles during winter than anywhere else in the world. Some words are missing from the text.",
+            "Your task is to write the missing words in the gaps (9-16).",
+            "Use only one word in each gap."
+          ],
+          "title": "THE WINTER CYCLING CAPITAL OF THE WORLD",
+          "source": "https://www.bbc.com/future/article/20231220-why-oulu-finland-is-the-winter-cycling-capital-of-the-world",
+          "body": [
+            "Oulu is covered in snow for five months of the year and temperatures {{0}} drop as low as -30ºC, with just four hours of daylight.",
+            "Despite these harsh conditions, 12% of winter journeys are made by bicycle in Oulu. At first sight, the beautiful wintry surroundings look like they have something to {{9}} with it. But without proper cycling infrastructure, the attraction wouldn’t be enough.",
+            "The city encourages cycling {{10}} clearing the paths every day during winter. One of {{11}} most effective changes is also one of the simplest: clear the cycle paths first and then the roads. Three to four centimetres of fresh snow is no issue for cars, but it might be a problem for cyclists and prevent elderly people from going outside {{12}} all. The cleared cycle paths also provide access around the city for people {{13}} use mobility scooters.",
+            "One key challenge for winter cycling is safety. The paths {{14}} well-lit during the dark winter months, and there are 320 underpasses so that children, {{15}} particular, don’t have to cross roads.",
+            "The mental and physical health benefits are another reason for the city’s cycling encouragement. It wants to {{16}} sure that all citizens are able to go outside during the winter months."
+          ],
+          "items": [
+            {"n": 0, "example": true, "accept": ["can"]},
+            {"n": 9, "accept": ["do"]},
+            {"n": 10, "accept": ["by"]},
+            {"n": 11, "accept": ["the", "their", "its"]},
+            {"n": 12, "accept": ["at", "after", "above"]},
+            {"n": 13, "accept": ["who", "that", "to"]},
+            {"n": 14, "accept": ["are", "get"]},
+            {"n": 15, "accept": ["in"]},
+            {"n": 16, "accept": ["make", "be"]}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-L3",
+          "number": 3,
+          "kind": "text",
+          "layout": "inline",
+          "examType": "szóképzés (zárójeles szó)",
+          "points": 9,
+          "grading": {"spelling": "strict", "maxWords": 1},
+          "instructions": [
+            "You are going to read an article about a 17th century shopping list which was found in the attic of a country home in England. Some words are missing from the text.",
+            "Use the words in brackets to form the words that fit in the gaps (17-25).",
+            "There might be cases when you do not have to change the word in brackets.",
+            "Use only one word for each gap."
+          ],
+          "title": "SEVENTEENTH-CENTURY SHOPPING LIST",
+          "source": "https://www.smithsonianmag.com/smart-news/seventeenth-century-shopping-list-discovered-under-floorboards-historic-english-home-180961986/",
+          "body": [
+            "Spoons, a {{0}} pan and codfish – these items were on a shopping list written 400 years ago, which was {{17}} discovered in the attic at Knole, a historic country home in Kent, England.",
+            "The archaeology team at Knole discovered the 1633 note during a multi-million-dollar project to restore the house. The team also found two other 17th century letters {{18}}.",
+            "Robert Draper wrote the shopping list to Mr. Bilby. The note was {{19}} written, suggesting that Draper was a high-ranking servant. Draper asked Mr. Bilby to send the items to Copt Hall, an estate in Essex.",
+            "How did this domestic letter get {{20}} in an attic at Knole, which is 36 miles away from Copt Hall? Copt Hall and Knole were united when Frances Cranfield married Richard Sackville in 1637. Frances’s father was the {{21}} of Copt Hall; Sackville had inherited Knole, his family’s home. Household records show that domestic items – {{22}} various papers – were moved from Copt Hall to Knole at the time of the wedding.",
+            "Cranfield inherited a number of expensive {{23}} and furniture from her father. Draper’s letter certainly was not among the {{24}} items that Cranfield brought to the {{25}}, but for modern-day historians, it is exceptionally important."
+          ],
+          "items": [
+            {"n": 0, "example": true, "prompt": "fry", "accept": ["frying"]},
+            {"n": 17, "prompt": "recent", "accept": ["recently"]},
+            {"n": 18, "prompt": "near", "accept": ["nearby"]},
+            {"n": 19, "prompt": "beauty", "accept": ["beautifully"]},
+            {"n": 20, "prompt": "hide", "accept": ["hidden"]},
+            {"n": 21, "prompt": "own", "accept": ["owner"]},
+            {"n": 22, "prompt": "include", "accept": ["including"]},
+            {"n": 23, "prompt": "paint", "accept": ["paintings"]},
+            {"n": 24, "prompt": "value", "accept": ["valuable", "valued", "invaluable"]},
+            {"n": 25, "prompt": "marry", "accept": ["marriage"]}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "listening",
+      "title": "III. Hallott szöveg értése",
+      "minutes": 30,
+      "maxTaskPoints": 25,
+      "maxExamPoints": 33,
+      "conversion": {"25":33,"24":32,"23":30,"22":29,"21":28,"20":26,"19":25,"18":24,"17":22,"16":21,"15":20,"14":18,"13":17,"12":16,"11":15,"10":13,"9":12,"8":11,"7":9,"6":8,"5":7,"4":5,"3":4,"2":3,"1":1,"0":0},
+      "tasks": [
+        {
+          "id": "2024-maj-kozep-H1",
+          "number": 1,
+          "kind": "multi",
+          "layout": "stems",
+          "examType": "kettős választás (A, B vagy mindkettő)",
+          "points": 7,
+          "audio": {"file": "k_angol_24maj_fl.mp3", "start": 0, "end": 721.1, "clip": "hang/k_angol_24maj_fl_H1.mp3"},
+          "instructions": [
+            "In this section, you will hear the heart-warming true story of a woman who visits an underground station every day.",
+            "Your task will be to choose the correct answer(s). Please note that in this task both answers may be correct. However, there is always at least one correct answer.",
+            "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+            "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to mark your answers."
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "Margaret McCollum is a …", "options": [{"key": "A", "text": "retired doctor."}, {"key": "B", "text": "widow."}], "answer": ["A", "B"]},
+            {"n": 1, "stem": "Oswald Laurence was Margaret McCollum’s …", "options": [{"key": "A", "text": "husband."}, {"key": "B", "text": "favourite actor."}], "answer": ["A"]},
+            {"n": 2, "stem": "Oswald Laurence …", "options": [{"key": "A", "text": "recorded announcements for London Underground."}, {"key": "B", "text": "died in 2007."}], "answer": ["A", "B"]},
+            {"n": 3, "stem": "Margaret McCollum …", "options": [{"key": "A", "text": "lives somewhere near the Embankment station."}, {"key": "B", "text": "takes the tube at the Embankment station every day."}], "answer": ["A"]},
+            {"n": 4, "stem": "The ‘Mind the Gap’ announcement …", "options": [{"key": "A", "text": "warns passengers that a train is leaving the station."}, {"key": "B", "text": "was introduced in 1969."}], "answer": ["B"]},
+            {"n": 5, "stem": "In 2013, London Underground …", "options": [{"key": "A", "text": "introduced a new digital announcement system."}, {"key": "B", "text": "stopped warning passengers of the gap."}], "answer": ["A"]},
+            {"n": 6, "stem": "Margaret asked London Underground to …", "options": [{"key": "A", "text": "continue playing Oswald Laurence’s ‘Mind the Gap’ announcement."}, {"key": "B", "text": "give her a copy of Oswald Laurence’s recording."}], "answer": ["B"]},
+            {"n": 7, "stem": "The original ‘Mind the Gap’ announcement by Oswald Laurence …", "options": [{"key": "A", "text": "can only be heard at the Embankment stop of the Northern Line."}, {"key": "B", "text": "is played three times every time a train enters the Embankment station."}], "answer": ["A", "B"]}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-H2",
+          "number": 2,
+          "kind": "text",
+          "layout": "stems",
+          "examType": "mondatkiegészítés hallás után (egy szó)",
+          "points": 9,
+          "grading": {"spelling": "lenient", "maxWords": 1, "caseSensitive": false},
+          "audio": {"file": "k_angol_24maj_fl.mp3", "start": 721.1, "end": 1182.3, "clip": "hang/k_angol_24maj_fl_H2.mp3"},
+          "instructions": [
+            "In this section, you will hear an interesting story about an anthropologist.",
+            "Your task is to complete the sentences with one word in each gap, using the exact words you hear.",
+            "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+            "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "Margaret Mead was popular because she made her work {{gap}} for most people.", "accept": ["understandable"]},
+            {"n": 8, "stem": "She had a strong influence on anthropology with her non-traditional {{gap}} methods.", "accept": ["research"]},
+            {"n": 9, "stem": "Margaret Mead frequently appeared in the mass media as a(n) {{gap}} and speaker during the 1960s and the 1970s.", "accept": ["author"]},
+            {"n": 10, "stem": "She was a professor of {{gap}} and Anthropology at Columbia University.", "accept": ["sociology"]},
+            {"n": 11, "stem": "A university student asked her what she considered to be the first sign of civilization in a(n) {{gap}}.", "accept": ["culture"]},
+            {"n": 12, "stem": "The student thought that Mead would talk about some kind of object or {{gap}}.", "accept": ["tool"]},
+            {"n": 13, "stem": "What Margaret Mead considered to be the first sign of civilization, was actually a(n) {{gap}} bone that had been broken and then healed.", "accept": ["human"]},
+            {"n": 14, "stem": "She said that if an animal broke a leg, it meant that it didn’t have any {{gap}} to survive.", "accept": ["chance"]},
+            {"n": 15, "stem": "In her opinion, a broken leg that has healed proves that there was someone who took care of the injured person until they {{gap}}.", "accept": ["recovered", "healed"]},
+            {"n": 16, "stem": "According to Mead, we are at our best when we {{gap}} others.", "accept": ["serve", "help"]}
+          ]
+        },
+        {
+          "id": "2024-maj-kozep-H3",
+          "number": 3,
+          "kind": "choice",
+          "layout": "stems",
+          "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+          "points": 9,
+          "audio": {"file": "k_angol_24maj_fl.mp3", "start": 1182.3, "end": 1795.6, "clip": "hang/k_angol_24maj_fl_H3.mp3"},
+          "instructions": [
+            "In this section, you will hear an interview with a Guinness World Record holder.",
+            "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say.",
+            "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+            "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to mark your answers."
+          ],
+          "options": [
+            {"key": "A", "text": "TRUE"},
+            {"key": "B", "text": "FALSE"},
+            {"key": "C", "text": "THE TEXT DOES NOT SAY"}
+          ],
+          "items": [
+            {"n": 0, "example": true, "stem": "Donald Gorske has been a Guinness World Record holder for years.", "answer": "B"},
+            {"n": 17, "stem": "Donald has always wanted to be a Guinness World Record holder.", "answer": "C"},
+            {"n": 18, "stem": "There was a time when he ate up to thirty Big Macs a day.", "answer": "B"},
+            {"n": 19, "stem": "Donald ate his first Big Mac on the day he got his first car.", "answer": "A"},
+            {"n": 20, "stem": "He still has the receipts for all the Big Macs he has ever eaten.", "answer": "A"},
+            {"n": 21, "stem": "When Donald was still active, he used to work near a fast-food restaurant.", "answer": "C"},
+            {"n": 22, "stem": "Now that he is retired, he only eats two Big Macs a week.", "answer": "B"},
+            {"n": 23, "stem": "He drives to the restaurant just once a week to buy his weekly supply of Big Macs.", "answer": "A"},
+            {"n": 24, "stem": "Donald’s cholesterol level is high.", "answer": "B"},
+            {"n": 25, "stem": "He says that he will continue having Big Macs until the end of his life.", "answer": "A"}
+          ]
+        }
+      ]
+    }
+  ]
+}

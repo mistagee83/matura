@@ -1,0 +1,1617 @@
+{
+ "formatVersion": 1,
+ "id": "2008-maj-emelt",
+ "year": 2008,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2008-05-08",
+ "code": "0801",
+ "sourceFiles": {
+  "paper": "2008. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_08maj_fl.pdf",
+  "key": "2008. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_08maj_ut.pdf",
+  "audio": "2008. Emeltszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_08maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2008-maj-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about a new kind of addiction: to technology.",
+      "In the sentences that follow the text there are some gaps.",
+      "Your task is to fill the gaps with one or two words so that the sentences correspond to what the text says.",
+      "Contractions (e.g. don’t) count as one word.",
+      "Write the words on the lines."
+     ],
+     "title": "Texting teenager referred to addiction centre",
+     "body": [
+      "A 19-year-old from Paisley is receiving counselling to cure an addiction to sending text messages and emails.",
+      "In one of the first cases of its kind, the teenager was referred to an addiction centre after he ran up a bill of £4,500 in one year texting about 100 times a day. He also lost his job after sending up to 500 emails a day from his office computer, many to his former girlfriend. The couple separated because she could no longer cope with the barrage of digital communication.",
+      "\"He was suffering from severe anxiety when he wasn't getting any reply, which was causing him to text and email even more,\" said Phillip Irvine, project leader of Renfrew Council on Alcohol trust, where the unnamed man is being treated. \"This patient has all the hallmarks of any classic addict where mental health problems such as depression, low self- esteem and relationship difficulties occur as a result of the addiction.\"",
+      "The teenager described the buzz he got from his texting saying: \"When you look at your mobile and you've got a message you wonder who it could be. It's kind of comforting when you get one.\" Mr Irvine said the teenager was trying to cut his mobile phone spending down to £10 a week from £60.",
+      "\"This addiction problem is probably suffered by many more people but it is not being diagnosed,\" he said. \"Young people and those with an extroverted personality are particularly susceptible.\"",
+      "David Nott, the manager of the addictions treatment programme, said it was the first time he had heard of an addiction to communication technology not allied to alcoholism or drug use, where it is sometimes a secondary problem. \"If people aren't replying to your texts, there is anger and sadness ... A ping on your phone can give you a buzz,\" he said. Inappropriate use of a phone was an addiction that was likely to increase, he said, and he urged people to raise the matter with friends they thought were texting or emailing too often. The average number of texts sent has more than doubled since 2001 and 28 billion texts were sent in 2004 alone.",
+      "The 19-year-old young man’s problem is that he cannot {{0}} himself sending messages.",
+      "The young man lost his {{1}}, and later his job too.",
+      "He tried to control his nerves by writing {{2}}.",
+      "One of the symptoms of this addiction is that the young man has a poor opinion of {{3}}.",
+      "Outgoing people have a {{4}} chance of ending up with a similar health problem.",
+      "So far Mr Nott has only seen an addiction to sending messages among drug addicts and {{5}}.",
+      "If you see that a {{6}} is becoming an addict, you should try talking to him."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "stop"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "girlfriend",
+        "partner"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "more messages",
+        "more emails",
+        "more mails",
+        "more SMSs",
+        "more texts",
+        "even more",
+        "text messages",
+        "messages",
+        "emails",
+        "mails",
+        "SMSs",
+        "texts",
+        "more"
+       ],
+       "maxWords": 2
+      },
+      {
+       "n": 3,
+       "accept": [
+        "himself",
+        "his personality",
+        "character",
+        "his character"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "greater",
+        "bigger",
+        "better"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "alcoholics",
+        "heavy drinkers",
+        "hard drinkers"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "friend"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this passage on virtual pets and the sentences that follow it.",
+      "Your task is to choose the option that is nearest in meaning to what the article says."
+     ],
+     "title": "iPods and PlayStations are replacing pets",
+     "body": [
+      "PLAYSTATIONS and television are replacing pets in the modern home as families discover the hectic pace of their lives leaves no room for animals, according to new research.",
+      "The percentage of British homes with a pet has fallen from almost 55 per cent in 1999 to 48 per cent today.",
+      "In some cases, children are even turning to virtual pets instead of the real thing.",
+      "However, while fewer people own pets, those who do are spending more money than ever on their care, with the market for food, pet accessories and pet insurance now worth an estimated £3.6 billion.",
+      "Animal charities even believe the fall in pet ownership could be a good sign, showing that people are becoming more responsible and not taking on a pet they know they could not care for properly.",
+      "A study published yesterday identified longer working hours, the increase of overseas holidays and the trend towards living in flats and smaller homes as playing a part in the decrease of pet ownership.",
+      "\"The falling number of children has contributed to this decline. What is more, even in those families with children, the demand for pets may not be as strong as it once was, since many children now prefer to immerse themselves in the world of computer games and TV programmes,\" the study concluded.",
+      "As an indication of this, computer-generated virtual pets have seen their popularity soar in recent years. Neopets.com, a website themed around the ownership of pets, created and cared for by the site's members, now boasts more than 25 million members worldwide and has just struck a film deal with Warner Bros."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "More and more modern families",
+       "options": [
+        {
+         "key": "A",
+         "text": "are too busy to keep animals at home."
+        },
+        {
+         "key": "B",
+         "text": "are giving up pets, because there is not enough space for the animals."
+        },
+        {
+         "key": "C",
+         "text": "are giving up pets, because they need more space for their new TVs."
+        },
+        {
+         "key": "D",
+         "text": "need pets to help them relax after a busy day at work."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "Today more money is spent on pet care",
+       "options": [
+        {
+         "key": "A",
+         "text": "since the number of pet owners is on the decline."
+        },
+        {
+         "key": "B",
+         "text": "since the number of pet owners is on the increase."
+        },
+        {
+         "key": "C",
+         "text": "by people who still own pets."
+        },
+        {
+         "key": "D",
+         "text": "by people who want to invest in this profitable business area."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "According to animal charities it is better to have fewer pet owners",
+       "options": [
+        {
+         "key": "A",
+         "text": "because they are the only responsible people."
+        },
+        {
+         "key": "B",
+         "text": "who really want to look after their animals."
+        },
+        {
+         "key": "C",
+         "text": "as the rest of the people do not like animals in their homes."
+        },
+        {
+         "key": "D",
+         "text": "because pets have become very expensive to keep."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "According to the study people without pets",
+       "options": [
+        {
+         "key": "A",
+         "text": "deny spending more time at work."
+        },
+        {
+         "key": "B",
+         "text": "prefer to go on boat trips for their holidays."
+        },
+        {
+         "key": "C",
+         "text": "have more free time."
+        },
+        {
+         "key": "D",
+         "text": "are not likely to have very spacious homes."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "stem": "The same study claims that",
+       "options": [
+        {
+         "key": "A",
+         "text": "there are fewer children who prefer TV and computers."
+        },
+        {
+         "key": "B",
+         "text": "there are fewer children who enjoy having pets."
+        },
+        {
+         "key": "C",
+         "text": "in the past children wanted pets just as much as now."
+        },
+        {
+         "key": "D",
+         "text": "in the past children did not demand to have pets as much as now."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "In the last few years the number of virtual pets",
+       "options": [
+        {
+         "key": "A",
+         "text": "has fallen."
+        },
+        {
+         "key": "B",
+         "text": "has been stable."
+        },
+        {
+         "key": "C",
+         "text": "has risen sharply."
+        },
+        {
+         "key": "D",
+         "text": "has risen slightly."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "Read this article on graffiti, and then read the statements following it.",
+      "Your task is to decide if the statements correspond to the information in the article.",
+      "If a statement means exactly what the article says, mark it A.",
+      "If it means something different, mark it B.",
+      "If it cannot be decided on the basis of the article, mark it C. Look at the examples first."
+     ],
+     "title": "GRAFFITI",
+     "body": [
+      "Graffiti can be viewed several different ways. Some view it as art and a way to express personal feelings. Others see it as a crime that only causes problems in society. The latter is also the conclusion that I have come to after much research on the subject.",
+      "I cannot agree with the argument that graffiti is a legitimate form of expression. I agree that it may be art because almost anything can be considered art. However, it is not respectful of others and it defaces property. The difference between graffiti and acceptable art is permission obtained by the artist. When people draw graffiti on the property of others it becomes a violation of property rights. It lowers property value and is very expensive to clean up. Do you want your tax dollars being spent to clean up other people's personal expressions on city buildings and walls? Would you want someone expressing their feelings on your very own private property? I believe that our right to freedom of speech should be protected; however, it should not be done at the expense of other citizens’ rights.",
+      "The fact that gangs use graffiti to \"express themselves\" is another reason why I do not agree that graffiti should be an accepted art form. Graffiti written by gangs is often used to intimidate others, recruit new members, advertise the sale of drugs, and mark gang boundaries. When we try to justify graffiti we are only encouraging further criminal gang related activity.",
+      "I am a true art lover. This is why I have to disagree when defenders of graffiti argue that graffiti should be considered beautiful art that should be accepted. The buildings and other structures that graffiti artists write on are also art and were not meant by the designer to have personal expressions painted all over them. If graffiti artists would like to display their works then they should display them in museums or on legal graffiti walls. These have been set up by the government to try to deter rampant and illegal graffiti throughout our cities. If the public would like to see their art then they will go see it in places where it will not be destructive to others. Much of the graffiti today is vulgar and offensive, and not appropriate for children to view. However, it is difficult not to be exposed to it when it is available all over cities.",
+      "When personal expression begins to violate other people's rights it should no longer be tolerated."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "stem": "There is disagreement about what graffiti is.",
+       "answer": "A"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "stem": "Among other things graffiti is a way to carry out artistic experiments.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "The author shares a negative attitude to graffiti.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "One of the problems with graffiti is that it does not take the rights of the owners of buildings into account.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "There is a law which obliges graffiti artists to ask for permission before they start working.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "If graffiti is created on public buildings, it is cleaned up at everybody’s expense.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Freedom of speech is a basic human right, which should be protected under all circumstances.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Although graffiti has its negative aspects, it never aims to frighten people.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Defending graffiti is a way of supporting crime.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "Designers have protested about graffiti artists painting over houses.",
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "There is too much illegal graffiti around, and the government has taken action against it.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Children do not like graffiti, because it is not a genuine art form.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read the following article about the lucky escape of a couple of divers.",
+      "Parts of some sentences are missing.",
+      "Your task is to fill them in from the list below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "Divers survive six hours on shark-infested reef",
+     "body": [
+      "Australian police are to launch an investigation {{0}} in shark-infested waters off the Great Barrier Reef when they were dragged more than five nautical miles from their boat by treacherous currents.",
+      "Coastguards described how the novice divers, Louise Woodger, 29, and Gordon Pratley, 31, had been \"freakishly lucky\" {{22}} in an area known \"for having some very large sharks\".",
+      "They had been shocked to discover upon surfacing {{23}}. They inflated their buoyancy vests and clung together, battling with rough seas. As they tried to conserve their energy, the pair spotted a shark as it circled below them and \"decided not to look down any more\". They held on to two orange \"safety sausages\" {{24}}.",
+      "Coastguard captain Jon Colless said: \"They were freakishly lucky that the search was called early in the day, that the weather was going down {{25}}. Wheeler Reef is known for having some very large sharks working its seaboard side and the risks increase at night because {{26}}.\"",
+      "Another coastguard official, Richard Boulton, said: \"They reacted very intelligently and responsibly {{27}} The weather was on their side. As the day progressed the winds and waves improved and it was easier to see them.\"",
+      "Ms Woodger's mother, Jane, said she was surprised {{28}}. \"I don't know if the current was something the crew should have known about ... There wasn't anyone with them. They had only done around 10 to 12 dives before,\" she said. \"They saw a shark down below them and {{29}}. They learned later that there are lots of large sharks there that come and have little nips at you and then when you begin to struggle, that can be it.\" Ms Woodger, a nurse, and Mr Pratley, an information technology manager, have been working and travelling in Australia for 15 months {{30}}."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "and the captain of the dive boat was right on the ball"
+      },
+      {
+       "key": "B",
+       "text": "which helped the boat captain to spot them from a distance"
+      },
+      {
+       "key": "C",
+       "text": "that’s when a lot of predators are out"
+      },
+      {
+       "key": "D",
+       "text": "that their dive boat was nowhere to be seen"
+      },
+      {
+       "key": "E",
+       "text": "and they conserved their energy"
+      },
+      {
+       "key": "F",
+       "text": "to have survived their ordeal"
+      },
+      {
+       "key": "G",
+       "text": "after two British divers endured six hours floating"
+      },
+      {
+       "key": "H",
+       "text": "that the pair were allowed to dive in such strong currents"
+      },
+      {
+       "key": "I",
+       "text": "which almost cost them their life"
+      },
+      {
+       "key": "K",
+       "text": "after being given cups of hot tea"
+      },
+      {
+       "key": "L",
+       "text": "after that they decided not to look down any more"
+      },
+      {
+       "key": "M",
+       "text": "and had planned to return to the UK next year to get married"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 22,
+       "answer": "F"
+      },
+      {
+       "n": 23,
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "answer": "E"
+      },
+      {
+       "n": 28,
+       "answer": "H"
+      },
+      {
+       "n": 29,
+       "answer": "L"
+      },
+      {
+       "n": 30,
+       "answer": "M"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2008-maj-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about celebrities. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-10) in the text."
+     ],
+     "title": "THE NAME OF THE GAME",
+     "body": [
+      "Someone must stop them. Personal freedom has its limits, especially when it {{0}} children’s rights. I refer, of course, to celebrities giving their offspring names {{1}} Apple (Gwyneth Paltrow’s kid) and Coco (Courteney Cox and David Arquette’s). The latest offender is actor Nicolas Cage, who {{2}} that he was calling his newborn son Kal-el Cage. {{3}} a big fan of Superman comics; Kal-el was Superman’s name when he lived on the planet Krypton. How clever. Still, I’d like to ask Kal-el {{4}} a second opinion about 15 years from now.",
+      "{{5}} every child has to be named Emily or William. But kids {{6}} go through 16 years of school with these names. They’ll have to spell them out to desk clerks and telephone receptionists for a lifetime. (“Kal what?”) If there is ever a case for government measures, this is it. Some countries {{7}} have a model in place. Every child born must have his or her name {{8}} by a state office of vital statistics. By law, the name must clearly indicate the child’s sex - no boys named Sue - and it {{9}} endanger “the well-being of the child.” Any violation of civil rights is {{10}} my convictions; in this case, however, I would make an exception. Remember: Gwyneth or Courteney or Mrs. Cage could get pregnant again at any time, especially the way those celebrities carry on."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "goes after"
+        },
+        {
+         "key": "B",
+         "text": "comes up"
+        },
+        {
+         "key": "C",
+         "text": "comes to"
+        },
+        {
+         "key": "D",
+         "text": "goes by"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "so as"
+        },
+        {
+         "key": "B",
+         "text": "such as"
+        },
+        {
+         "key": "C",
+         "text": "namely"
+        },
+        {
+         "key": "D",
+         "text": "like that"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "appointed"
+        },
+        {
+         "key": "B",
+         "text": "reported"
+        },
+        {
+         "key": "C",
+         "text": "referred"
+        },
+        {
+         "key": "D",
+         "text": "announced"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "It seems he is"
+        },
+        {
+         "key": "B",
+         "text": "It looks as if he"
+        },
+        {
+         "key": "C",
+         "text": "It seems he has"
+        },
+        {
+         "key": "D",
+         "text": "It shows how he was"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "of"
+        },
+        {
+         "key": "B",
+         "text": "for"
+        },
+        {
+         "key": "C",
+         "text": "about"
+        },
+        {
+         "key": "D",
+         "text": "to"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "Not"
+        },
+        {
+         "key": "B",
+         "text": "Originally"
+        },
+        {
+         "key": "C",
+         "text": "Neither"
+        },
+        {
+         "key": "D",
+         "text": "Naturally"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "would"
+        },
+        {
+         "key": "B",
+         "text": "need"
+        },
+        {
+         "key": "C",
+         "text": "should"
+        },
+        {
+         "key": "D",
+         "text": "have to"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "altogether"
+        },
+        {
+         "key": "B",
+         "text": "never"
+        },
+        {
+         "key": "C",
+         "text": "already"
+        },
+        {
+         "key": "D",
+         "text": "yet"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "attempted"
+        },
+        {
+         "key": "B",
+         "text": "attached"
+        },
+        {
+         "key": "C",
+         "text": "allowed"
+        },
+        {
+         "key": "D",
+         "text": "approved"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "will"
+        },
+        {
+         "key": "B",
+         "text": "must not"
+        },
+        {
+         "key": "C",
+         "text": "must"
+        },
+        {
+         "key": "D",
+         "text": "need not"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "about"
+        },
+        {
+         "key": "B",
+         "text": "again"
+        },
+        {
+         "key": "C",
+         "text": "according to"
+        },
+        {
+         "key": "D",
+         "text": "against"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about car security. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THINGS IN YOUR CAR",
+     "body": [
+      "Any valuable possessions you leave in your car are {{0}} risk from being stolen. Apart from car stereos, the {{11}} common items stolen from a car are clothes.",
+      "{{12}} addition, CDs and tapes, tools, laptop computers, mobile phones, bags, briefcases and credit cards are all frequently stolen.",
+      "If you don't hide things away in your car, you're tempting a thief to break in, {{13}} never leave anything in plain view. {{14}} stereos remain the most frequently stolen items, even shopping bags, cigarettes and loose change can encourage a break-in. As you can't hide your stereo out of sight, here is a tip {{15}} prevent it getting stolen. Many modern in-car entertainment systems have security built in, for example a removable face on the stereo itself. {{16}} yours has this feature, use it. Remove the face and take it with you, even if you’re leaving your car {{17}} just a short time.",
+      "One more modern feature is a built-in security code. If the stereo is removed and fitted to {{18}} car, the code is needed {{19}} it won't work. Keep a note of your code number somewhere safe in your house and {{20}} anywhere inside your car. Also keep a note of the serial number of the stereo in a safe place at home."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "most",
+        "other"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "in"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "so",
+        "therefore"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "Although",
+        "Whereas",
+        "While",
+        "Though"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "if"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "another"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "or",
+        "otherwise"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "never",
+        "not"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about animal sounds. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (21-29).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE NATURE OF SONG",
+     "body": [
+      "Why do we call the sounds of birds, whales and insects ‘songs’? Though for many years science has cautioned against hearing too much of what we humans would like to hear when trying to interpret animal sounds, the {{0}} of musicality in some sounds is now starting to have an impact on the science of animal communication itself.",
+      "Many {{21}} animal sounds express aggression, {{22}} or the presence of food, but such practical {{23}} are difficult to apply to the long, complex songs of such birds as nightingales or mockingbirds. The {{24}} of some whale songs can exceed 20 hours. The usual {{25}} for birdsong is that birds are singing to attract mates or to announce their territory. But often there is no {{26}} of audience for these long, virtuoso outbursts, which show many {{27}} to human music: rhythm, melody, themes, variations, {{28}}, organisation – all adding up to something humans have found {{29}} for thousands of years.",
+      "“Birds instructed men,” wrote Roman poet and philosopher Lucretius, “and taught them songs before their art began.”"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "recognise",
+       "example": true,
+       "accept": [
+        "recognition"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "ordinary",
+       "accept": [
+        "ordinary"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "warn",
+       "accept": [
+        "warning",
+        "warnings"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "explain",
+       "accept": [
+        "explanations"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "long",
+       "accept": [
+        "length",
+        "lengths"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "interpret",
+       "accept": [
+        "interpretation"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "evident",
+       "accept": [
+        "evidence"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "similar",
+       "accept": [
+        "similarities"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "repeat",
+       "accept": [
+        "repetition",
+        "repetitions"
+       ]
+      },
+      {
+       "n": 29,
+       "prompt": "attract",
+       "accept": [
+        "attractive"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about living on an island. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "ESCAPING THE WORLD ON AN ISLAND",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "No man is an island, John Donne said, and he knew nothing of the",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "cell phone and the Internet. Even today, as though, you can create a",
+       "answer": "as"
+      },
+      {
+       "n": 30,
+       "text": "convincing illusion that you’ve escaped the world if you are put",
+       "answer": "are"
+      },
+      {
+       "n": 31,
+       "text": "a large body of water between you and it.",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "I spent so much of the past two weeks on Martha’s Vineyard, a",
+       "answer": "so"
+      },
+      {
+       "n": 33,
+       "text": "summer retreat I favor for that many reasons. This year, my",
+       "answer": "that"
+      },
+      {
+       "n": 34,
+       "text": "daughters struck up a friendship with a 10-year-old girl who had",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "spent her all entire life on the island. I had always wondered how",
+       "answer": "all"
+      },
+      {
+       "n": 36,
+       "text": "much the world would look to someone who had grown up so apart",
+       "answer": "much"
+      },
+      {
+       "n": 37,
+       "text": "from it. One afternoon, the three girls and I were taking a walk",
+       "answer": null
+      },
+      {
+       "n": 38,
+       "text": "together. I have asked Ashleigh if she’d been to the mainland",
+       "answer": "have"
+      },
+      {
+       "n": 39,
+       "text": "much. She said she didn’t much like what she’d been seen of it.",
+       "answer": "been"
+      },
+      {
+       "n": 40,
+       "text": "“It’s so crowded,” she said. “And noisy.” She stirred up some of",
+       "answer": "of"
+      }
+     ],
+     "outro": "mud with her foot. “And everybody seems angry all the time.”"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2008-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 11,
+     "instructions": [
+      "In this section you are going to hear about Raoul Derosiers, a man with X-ray vision.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter into the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_08maj_fl.mp3",
+      "start": 0,
+      "end": 635.64,
+      "clip": "hang/e_angol_08maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Derosiers is a Canadian businessman.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Water witching is the same as dowsing.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Derosiers couldn't locate where the pains in his body were.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "The doctor that he turned to was an old friend of his.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The sleeping pills didn't ease his pains at all.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Derosiers' cousin was afraid that his business would fail.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "He managed to help his cousin immediately.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The two men were in a barn when Derosiers felt terrible pains.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "He told his cousin how deep the water was to be found.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The water was found exactly where he had predicted.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "His cousin invited him to become his partner.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "Unfortunately, Derosiers' X-ray vision didn't always work properly.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear a lecture about language and communication.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_08maj_fl.mp3",
+      "start": 635.64,
+      "end": 1253.85,
+      "clip": "hang/e_angol_08maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The original Latin meaning of the word 'communicate' is to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "give or share."
+        },
+        {
+         "key": "B",
+         "text": "give information."
+        },
+        {
+         "key": "C",
+         "text": "share ideas."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "We don't know whether the children who lived with animals were able to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "speak a human language."
+        },
+        {
+         "key": "B",
+         "text": "communicate with the animals."
+        },
+        {
+         "key": "C",
+         "text": "communicate with the people who found them."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "The two Indian girls found in the wilds were probably looked after by …",
+       "options": [
+        {
+         "key": "A",
+         "text": "some animals."
+        },
+        {
+         "key": "B",
+         "text": "some unknown people."
+        },
+        {
+         "key": "C",
+         "text": "nobody in particular."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Those who 'brought up' Genie …",
+       "options": [
+        {
+         "key": "A",
+         "text": "spoke a language he couldn't understand."
+        },
+        {
+         "key": "B",
+         "text": "never let him speak."
+        },
+        {
+         "key": "C",
+         "text": "never talked to him."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The boy found in the Central African forest …",
+       "options": [
+        {
+         "key": "A",
+         "text": "lived all alone."
+        },
+        {
+         "key": "B",
+         "text": "could communicate with monkeys."
+        },
+        {
+         "key": "C",
+         "text": "moved like a monkey."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Even if we can speak a language very well, we can never be sure …",
+       "options": [
+        {
+         "key": "A",
+         "text": "how well our partner speaks the language."
+        },
+        {
+         "key": "B",
+         "text": "that other people can understand our local accent."
+        },
+        {
+         "key": "C",
+         "text": "that other people can understand our message."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "The role of common experiences is very clear in the case of representatives of different …",
+       "options": [
+        {
+         "key": "A",
+         "text": "professions."
+        },
+        {
+         "key": "B",
+         "text": "cultures."
+        },
+        {
+         "key": "C",
+         "text": "languages."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Communication problems may occur in the case of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "people who share the same interests."
+        },
+        {
+         "key": "B",
+         "text": "languages with a very limited vocabulary."
+        },
+        {
+         "key": "C",
+         "text": "peoples who live under different geographical conditions."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "If we want to communicate successfully, we must …",
+       "options": [
+        {
+         "key": "A",
+         "text": "have a vocabulary of more than 60 thousand words."
+        },
+        {
+         "key": "B",
+         "text": "use the same words."
+        },
+        {
+         "key": "C",
+         "text": "share similar experiences."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2008-maj-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 6,
+     "instructions": [
+      "In this section you are going to hear a news report.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_08maj_fl.mp3",
+      "start": 1253.85,
+      "end": 1795.74,
+      "clip": "hang/e_angol_08maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is a review of the newspapers."
+        },
+        {
+         "key": "B",
+         "text": "morning's stories are from Britain."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "The Fun Agency wants to get rid of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "unsuitable Santas."
+        },
+        {
+         "key": "B",
+         "text": "the traditional red suit."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "The Agency's guidelines prescribe …",
+       "options": [
+        {
+         "key": "A",
+         "text": "what Santas should wear."
+        },
+        {
+         "key": "B",
+         "text": "how Santas should behave."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "The Agency ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "employs hundreds of Santas."
+        },
+        {
+         "key": "B",
+         "text": "wants their Santas to wear red trainers."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Santas' beards should be ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "bushy."
+        },
+        {
+         "key": "B",
+         "text": "longer than six inches."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "The Agency wants its Santas to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "refrain from drinking on the job."
+        },
+        {
+         "key": "B",
+         "text": "take good care of personal hygiene."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "The announcer ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "disagrees with the guidelines of the Agency."
+        },
+        {
+         "key": "B",
+         "text": "is surprised at the number of 'Santas'."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

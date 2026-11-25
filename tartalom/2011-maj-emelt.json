@@ -1,0 +1,1402 @@
+{
+ "formatVersion": 1,
+ "id": "2011-maj-emelt",
+ "year": 2011,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2011-05-05",
+ "code": "1012",
+ "sourceFiles": {
+  "paper": "2011 - Emeltszintű májusi/e_angol_11maj_fl.pdf",
+  "key": "2011 - Emeltszintű májusi/e_angol_11maj_ut.pdf",
+  "audio": "2011 - Emeltszintű májusi/e_angol_11maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2011-maj-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about a new piece of technology and then read the gapped summary that follows.",
+      "Your task is to fill the gaps (1-7) with one word only according to what the article says."
+     ],
+     "title": "DON’T THROW YOUR BOOKS AWAY JUST YET",
+     "body": [
+      "Electronic reading devices have the potential to reinvent a fine old technology, but they have some way to go",
+      "The book is already a highly evolved piece of technology, many claim. It is portable, shareable, easily navigable and relatively cheap. How could it be improved by making it electronic?",
+      "I love books, but I have no difficulty imagining how they could be improved. Indeed, I have been waiting for e-readers to arrive ever since I first read about them over a decade ago. Think of something like a larger, slimmer iPod Touch that could store thousands of books and dictionaries; you could download any book ever published (they would never be out of print), flick through them effortlessly and search them for that passage you can’t quite remember.",
+      "Unfortunately, in the real world you are stuck with the iRex Iliad. For a start, it’s a monster. It weighs in at 425g − that’s roughly the same as a 700-page paperback. Writing as someone who does most of his reading on London’s Tube, I must admit that fact alone would make it a non-starter. Earlier this year, I bought the Bookeen Cybook almost entirely because of its weight − a slimline 170g. The legibility of the Iliad is excellent, it must be said. Like all the current generation of e- readers it uses a brilliant technology called eInk. This is black on white and is not backlit, which means that − like a book but unlike a laptop − you can read it in sunlight, though not in the dark. And it doesn’t strain your eyes.",
+      "Unfortunately, the user’s manual is a classic written-by-geeks document. For example, there is a facility on the Iliad for reading newspapers; great − how do you get them? The manual is silent. You can clearly do a lot more on the Iliad than simply read books, but you’d have to be a technical whiz to work out what.",
+      "At the moment the Iliad feels like a prototype that needs a lot more development.",
+      "Whether it gets it depends on how popular e-readers become in the future − and currently the signs are not hopeful.",
+      "(The Daily Telegraph, June 7, 2008.)",
+      "Electronic reading devices need to develop further to realize their full {{0}}",
+      "The author of the article has known about e-readers for more than {{1}} years. He says a great advantage is that, theoretically, they can make any {{2}} text available. He finds that one big problem with the present version of the iRex Iliad is the {{3}}. For this reason alone he would not even consider {{4}} one for himself. A good feature, though, is the use of {{5}}, which makes the Iliad easy to read. Some of the Iliad’s additional facilities are great, but the average user would need more {{6}} to be able to make full use of them. All in all, current trends make the author sceptical about the {{7}} of e- readers."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "potential"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "ten"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "printed",
+        "published",
+        "existing"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "weight",
+        "mass",
+        "heaviness",
+        "bulk"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "buying",
+        "getting",
+        "purchasing",
+        "acquiring",
+        "obtaining",
+        "ordering"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "eInk"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "assistance",
+        "experience",
+        "expertise",
+        "explanations",
+        "guidance",
+        "help",
+        "information",
+        "instructions",
+        "know-how",
+        "knowledge",
+        "skills",
+        "skill",
+        "explanation",
+        "support",
+        "training",
+        "advice",
+        "documentation"
+       ]
+      },
+      {
+       "n": 7,
+       "accept": [
+        "future",
+        "success",
+        "development",
+        "prospects",
+        "progress",
+        "potential",
+        "chances"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about illegal trade on the internet some phrases have been left out.",
+      "Your task is to match the sentences (A-M) with the gaps (8-16). Remember that there are two extra phrases that you will not need."
+     ],
+     "title": "TIGERS AND GORILLAS − FOR SALE ON THE INTERNET",
+     "body": [
+      "Investigators say internet trade in endangered animals is {{0}} and could wipe out entire species Thousands of endangered animals supposedly {{8}} are being traded openly on the internet and sold as “exotic pets”, say wildlife crime investigators working with an international animal charity.",
+      "An investigation of nearly 100 websites {{9}} found a “shocking” selection of rare and endangered animals for sale. They included a hand-reared Siberian tiger (£40,000), an adolescent gorilla (£4,500) {{10}}, and other rare primates, falcons, seahorses, and whole shells of turtles. The gorilla for sale in London may not have actually existed, said an IFAW∗ spokeswoman yesterday. “Possibly it was advertised by {{11}} which would capture an animal to order.”",
+      "Guaranteed to be real, however, were the turtle-shells, shawls made from the Tibetan antelope and a stuffed tiger, {{12}} but looking suspiciously fresh.",
+      "The internet has revolutionised shopping for books, DVDs and airline tickets, but it has also opened up great opportunities to deal in illegal wildlife, which, according to the UN, is worth billions of pounds a year and now rivals {{13}} in scale.",
+      "“This trade has devastating implications for both wildlife conservation and animal welfare. Entire populations of certain species risk {{14}} by overexploitation. Millions of animals suffer immensely during hunting or in transit and captivity. Many die and this results in more {{15}} from the wild”, the IFAW spokeswoman said.",
+      "Trade on the internet is easy, cheap and anonymous. It is clear that unscrupulous traders and criminal gangs are taking advantage of {{16}}. The result is a cyber black market where the future of the world’s rarest animals is being traded away.",
+      "(The Guardian, August 16, 2005)",
+      "∗IFAW: International Fund for Animal Welfare"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "advertised as being in London"
+      },
+      {
+       "key": "B",
+       "text": "the opportunities offered"
+      },
+      {
+       "key": "C",
+       "text": "worth billions"
+      },
+      {
+       "key": "D",
+       "text": "being taken"
+      },
+      {
+       "key": "E",
+       "text": "used in cosmetics"
+      },
+      {
+       "key": "F",
+       "text": "claimed to be over a hundred years old"
+      },
+      {
+       "key": "G",
+       "text": "the arms and drug trades"
+      },
+      {
+       "key": "H",
+       "text": "a Congo-based operation"
+      },
+      {
+       "key": "I",
+       "text": "being wiped out"
+      },
+      {
+       "key": "K",
+       "text": "protected by law"
+      },
+      {
+       "key": "L",
+       "text": "business deals"
+      },
+      {
+       "key": "M",
+       "text": "based around the world"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "K"
+      },
+      {
+       "n": 9,
+       "answer": "M"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "G"
+      },
+      {
+       "n": 14,
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "answer": "D"
+      },
+      {
+       "n": 16,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés első mondatának párosítása",
+     "points": 7,
+     "instructions": [
+      "In this text about a recent geological discovery the first sentence of each paragraph has been removed.",
+      "Your task is to put the sentences back into the text.",
+      "Mark your answers by writing the appropriate letter (A-K) into the white boxes against the numbers (17-23) as in the example (0).",
+      "Remember that there are two extra sentences that you will not need."
+     ],
+     "title": "RARE GLIMPSE OF THE CRYSTAL CAVE",
+     "body": [
+      "{{0}} The underground chamber contains some of the largest natural crystals ever found − some of the selenite structures have grown to more than 10m long. Professor Iain Stewart got a rare glimpse of the subterranean spectacle while filming for the new BBC series How the Earth Made Us. Here he talks about the experience.",
+      "{{17}} It’s about 50°C in there, but it’s the virtually 100% humidity added on top that makes it a potential killer. That combination means that when you breathe air into your body, the surface of your lungs is actually the coolest surface the air encounters. That means the fluid starts to condense inside your lungs − and that’s really not good news.",
+      "{{18}} Miners working in the Naica silver mine broke through the walls of the cavern and were astounded to discover these enormous crystals − the biggest anywhere on earth. But when the first people went in to explore, they were almost overcome by the conditions − and there’s some pretty hairy video footage of them coming out of the cave on the verge of losing consciousness. So we knew the dangers were real.",
+      "{{19}} Then there’s a breathing system which feeds cool, dry air into your mask. It’s OK to take the mask off for a short while, but do without it for more than about 10 minutes, and it’s likely that you’re going to start keeling over.",
+      "{{20}} I was lucky of course. All I had to do was stand there and talk, but the cameraman and all the others were having to work in these conditions, wearing these cumbersome suits, and they really struggled. For them the biggest danger was falling over; rescuing someone inside would have been very tricky.",
+      "{{21}} It’s such a glorious place, it’s like being in a modern art exhibit. I kept reminding myself: \"You’re in the Naica Cave\", because there’re only a handful of geologists that have ever been in there.",
+      "{{22}} They don’t make any money out of it and sooner or later, when the economics of the mine change, it will close. The pumps will be taken out, the mine and the cave will flood, and the crystals will once more be out of our reach.",
+      "{{23}} The Earth’s crust must be riddled with wonders like this. As we learn more about the crust, we can be sure that there will be discoveries even more spectacular than Naica.",
+      "(http://news. bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "We had a doctor outside the cave to monitor our vital signs, and we were coming out of the cavern with our heart rates up at 180."
+      },
+      {
+       "key": "B",
+       "text": "Perhaps we should console ourselves with the thought that there are certainly lots more crystal caves waiting to be discovered."
+      },
+      {
+       "key": "C",
+       "text": "Mexico’s Cave of Crystals stunned geologists when it was first discovered in 2000."
+      },
+      {
+       "key": "D",
+       "text": "We kept being told how difficult it was going to be to film in the Naica Cave, but nothing really prepares you for the extremes of that cavern."
+      },
+      {
+       "key": "E",
+       "text": "For starters, the geology of the area suggests that there could be more crystal caves in the area."
+      },
+      {
+       "key": "F",
+       "text": "Yet for the people who own the Naica mine, the crystal- cave is a side-show."
+      },
+      {
+       "key": "G",
+       "text": "Despite all the dangers, however, my overwhelming memory is the sheer beauty of the place."
+      },
+      {
+       "key": "H",
+       "text": "It is an epic story of how geology, geography and climate have influenced mankind."
+      },
+      {
+       "key": "I",
+       "text": "The cave was first discovered by accident."
+      },
+      {
+       "key": "K",
+       "text": "You wear protective clothing, including a special cooling suit filled with ice cubes."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "answer": "D"
+      },
+      {
+       "n": 18,
+       "answer": "I"
+      },
+      {
+       "n": 19,
+       "answer": "K"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "G"
+      },
+      {
+       "n": 22,
+       "answer": "F"
+      },
+      {
+       "n": 23,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about popular web addresses and then read the sentences (24-30) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark a sentence B if it is false according to the article.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "MONTENEGRO'S DOMAIN NAME GAIN",
+     "body": [
+      "When it comes to top level domain names, some countries are luckier than others. Take the Pacific Ocean island of Tuvalu, for instance, which offers the attractive .tv for the broadcast media. Or Tonga, whose .to domain has given birth to sites such as go.to and how.to. Perhaps most fortunate of all in the name game is Montenegro.",
+      "After separating from Serbia in 2006, the country gained .me – the perfect domain for the social media generation. \"From the beginning it was clear that .me would have its share in the market,\" said Predrag Lesic, executive director of the .me registry in Montenegro.",
+      "That share is now huge. Since .me went live in 2008, more than 320,000 names have been registered, making it the fastest selling debut top level domain ever. It is short, personal and popular - with names like youand.me and whatabout.me. It is being used more than anything else as a call-to-action domain, for example notify.me. The domain's popularity is partly down to its versatility across different languages.",
+      "Even before the domain's launch, Montenegro's registrars were flooded with requests for names. \"There have been three development phases,\" said Mr Lesic. \"In the first period we were receiving applications for the trademark names only. International companies like Microsoft and Samsung rushed to register their .me name. The second phase allowed local people to register an interest in a domain, while the third, go-live phase – which started on 17 July 2008 - opened up the registry to customers worldwide. On the first day of the go-live period, we had 50,000 registrations.\"",
+      "One buyer of the .me domain was Matt Mansell, who purchased willshemarry.me. As it turns out she did marry him – and the site was used as a way of informing guests how to get to the wedding. But, aside from his new wife, the domain name may prove to be Mr Mansell's greatest gain from his wedding. \"I've had an awful lot of people who want to buy the idea; I've had people who want to buy the domain. A lot of the .me names are actually selling at online auctions for figures like $10,000-$15,000.\"",
+      "Although it is a very lucrative market, technology commentator Bill Thompson is not convinced with the value attached to a memorable domain name. \"I'm a domain name cynic. More and more people just go to their favourite search engine, type in what they're looking for and don't actually look for where it's going. So I just don't think domain names are as important as they were. And I don't think they should be.\"",
+      "(http://news.bbc.co.uk)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The domain name of Tuvalu appeals to television stations.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "After 2006 Montenegro managed to hold on to its original domain name.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Montenegro domain names can function as a simple request.",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "The .me domain is less popular in other languages than English.",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "Before 17 July 2008 only local domain registrations were accepted.",
+       "answer": "B"
+      },
+      {
+       "n": 28,
+       "stem": "Many of the people registering in Montenegro intended to go and live there.",
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "Mr Mansell says that .me domains can be bought for $10,000 to $15,000 at the Montenegro registry office.",
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "Mr Thompson is not enthusiastic about the domain business even though it is highly profitable.",
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 44,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 5,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 12,
+    "19": 13,
+    "20": 14,
+    "21": 14,
+    "22": 15,
+    "23": 16,
+    "24": 16,
+    "25": 17,
+    "26": 18,
+    "27": 18,
+    "28": 19,
+    "29": 20,
+    "30": 20,
+    "31": 21,
+    "32": 22,
+    "33": 23,
+    "34": 23,
+    "35": 24,
+    "36": 25,
+    "37": 25,
+    "38": 26,
+    "39": 27,
+    "40": 27,
+    "41": 28,
+    "42": 29,
+    "43": 29,
+    "44": 30
+   },
+   "tasks": [
+    {
+     "id": "2011-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a part of a travel brochure advertising Ireland. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-10).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "VISIT IRELAND!",
+     "body": [
+      "Irish culture is rich in its {{0}}. A holiday in Ireland allows one to experience a culture deeply steeped in history. This history is reflected in the warm {{1}}, underrated delicious traditional dishes, brilliant music, and beautiful landscape.",
+      "Whether enjoying breakfast at a B&B, downing a pint or two in a pub, experiencing the local artists, or hiking along a seaside cliff, it is hard not to feel a part of the {{2}} culture and rich history that is Ireland. Understanding the history of Ireland ensures a deeper {{3}} of the ancient monuments found there today.",
+      "The reputation of the \"Friendly Irish\" is not a myth. You will nearly always find a hand outstretched with the {{4}} \"how are you?\"",
+      "Without any doubt pubs are the main places for {{5}} in Ireland. You can drink, eat, dance there, join in a sing-song or listen to a group of {{6}}. Food in pubs, known as \"pub grub\" is generally good and the prices are {{7}}.",
+      "Although Gaelic and English are both the {{8}} languages of Ireland less than 5% of the population use Gaelic on a {{9}} basis. In Irish schools Gaelic is {{10}} and currently there is a renewed interest in the language.",
+      "(www.travelchannel.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "diverse",
+       "example": true,
+       "accept": [
+        "diversity"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "hospitable",
+       "accept": [
+        "hospitality"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "drama",
+       "accept": [
+        "dramatic"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "appreciate",
+       "accept": [
+        "appreciation"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "greet",
+       "accept": [
+        "greeting"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "social",
+       "accept": [
+        "socialising",
+        "socializing",
+        "society"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "music",
+       "accept": [
+        "musicians",
+        "music-makers"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "reason",
+       "accept": [
+        "reasonable"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "office",
+       "accept": [
+        "official"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "day",
+       "accept": [
+        "daily",
+        "day-to-day"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "obligation",
+       "accept": [
+        "obligatory"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a passage from a book about the history of cars. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE EARLY DAYS OF CARS",
+     "body": [
+      "The first motor cars owed a lot {{0}} the horse carriage. Indeed, many pioneering cars were simply horse carts with an engine – that is {{11}} they were known as horseless carriages. They were notoriously unreliable. Sometimes a couple of horses were taken along as well in {{12}} of a breakdown.",
+      "Early cars were hard to start and drive, and even harder to stop. Yet the roads were full of hazards: potholes, sharp bends, steep hills, and stray animals. Even the shortest outing in a car rarely passed {{13}} an incident. Road signs were put up to warn drivers of coming dangers, but unwary animals and pedestrians were too often hit by speeding motor cars. {{14}} protect people, horns and other warning devices were made compulsory.",
+      "Cars {{15}} been restricted by speed limits right from the start. In Britain, there was the \"Red Flag\" Act, {{16}} required that all cars have two drivers, while a third person walked in front waving a red flag. The world's first speeding ticket was issued in Great Britain in 1896. The driver was fined a shilling {{17}} doing 8 mph in a 2-mph zone.",
+      "Night driving caused problems too. Lighting was {{18}} poor that few motorists ventured out on the road after dark. The lights on the first cars were candle lamps inherited from horse-drawn carriages. They were very dim so they {{19}} little more than warn other road users of the car's presence. Although special car lights were soon developed, they were considered luxury accessories for many years. It was {{20}} until the 1930s that bright electric lights were fitted as standard on most cars.",
+      "(Eyewitness Books: Car)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "why"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "case"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "without"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "To"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "have",
+        "had"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "for",
+        "after"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "so"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "did"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "not"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-L3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a law case. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (21-30) in the text. Write the letter of the appropriate word in the white box.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "MACDONALD'S LOSES HAMBURGER CASE",
+     "body": [
+      "A McDonald's outlet in the Netherlands was {{0}} to fire an employee for giving a colleague a piece of cheese on a hamburger, a court has ruled.",
+      "The waitress was {{21}} 10 months ago after she sold a hamburger to a co-worker who {{22}} asked for cheese, which she added. The fast-food chain argued this {{23}} the hamburger into a cheeseburger, and so she should have {{24}} more. But the district court ruled a written warning {{25}} have been more appropriate.",
+      "McDonald's was ordered to pay the former employee more than €4,200 for the last five months of her {{26}}. The fast-food chain had argued that the waitress – who was employed at a branch in the northern town of Lemmer – had broken staff rules {{27}} free gifts to family, friends or colleagues. But the court {{28}} in its written judgement: \"The dismissal was {{29}} severe a measure. It is just a slice of cheese,\" reports AFP news agency.",
+      "The {{30}} comes days after McDonald's reported an increase in net profits by almost a quarter during the last three months.",
+      "(www.bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AFTER"
+      },
+      {
+       "key": "B",
+       "text": "CHARGED"
+      },
+      {
+       "key": "C",
+       "text": "WRONG"
+      },
+      {
+       "key": "D",
+       "text": "CONTRACT"
+      },
+      {
+       "key": "E",
+       "text": "MUST"
+      },
+      {
+       "key": "F",
+       "text": "PROHIBITING"
+      },
+      {
+       "key": "G",
+       "text": "RULING"
+      },
+      {
+       "key": "H",
+       "text": "SACKED"
+      },
+      {
+       "key": "I",
+       "text": "SAID"
+      },
+      {
+       "key": "K",
+       "text": "THEN"
+      },
+      {
+       "key": "L",
+       "text": "TOO"
+      },
+      {
+       "key": "M",
+       "text": "TURNED"
+      },
+      {
+       "key": "N",
+       "text": "WOULD"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "H"
+      },
+      {
+       "n": 22,
+       "answer": "K"
+      },
+      {
+       "n": 23,
+       "answer": "M"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "N"
+      },
+      {
+       "n": 26,
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      },
+      {
+       "n": 28,
+       "answer": "I"
+      },
+      {
+       "n": 29,
+       "answer": "L"
+      },
+      {
+       "n": 30,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 14,
+     "instructions": [
+      "You are going to read an anecdote about a U.S. inventor. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE TURNSTILE",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Thomas Edison (1847-1931) is responsible for about 1300",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "inventions, and the most famous of which is the electric light bulb.",
+       "answer": "and"
+      },
+      {
+       "n": 31,
+       "text": "He has also invented the gramophone and motion pictures, and his",
+       "answer": "has"
+      },
+      {
+       "n": 32,
+       "text": "carbon transmitter enabled Bell's telephone to be brought up into",
+       "answer": "up"
+      },
+      {
+       "n": 33,
+       "text": "practical use. Edison had a great faith in progress and industry, and",
+       "answer": "a"
+      },
+      {
+       "n": 34,
+       "text": "never valued very hard work. He used to say, \"Genius is 1%",
+       "answer": "never"
+      },
+      {
+       "n": 35,
+       "text": "inspiration and 99% perspiration.\" Here is an anecdote about him:",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "Edison had a summer residence of which he was very much",
+       "answer": "much"
+      },
+      {
+       "n": 37,
+       "text": "proud. He enjoyed showing off visitors around his property,",
+       "answer": "off"
+      },
+      {
+       "n": 38,
+       "text": "pointing out the various labour-saving devices. At one point it was",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "necessary to pass through a turnstile in correct order to take the",
+       "answer": "correct"
+      },
+      {
+       "n": 40,
+       "text": "main path back to the house. Considerable effort was needed not to",
+       "answer": "not"
+      },
+      {
+       "n": 41,
+       "text": "move the turnstile. A guest asked from Edison why it was that, with",
+       "answer": "from"
+      },
+      {
+       "n": 42,
+       "text": "all the other clever gadgets around, he had been such a heavy",
+       "answer": "been"
+      },
+      {
+       "n": 43,
+       "text": "turnstile. Edison replied him, \"Well, you see, everyone who pushes",
+       "answer": "him"
+      },
+      {
+       "n": 44,
+       "text": "the turnstile around these pumps eight gallons of water into the tank",
+       "answer": "these"
+      }
+     ],
+     "outro": "on my roof.\" (Paw Prints Anecdotes)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2011-maj-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear a strange story from a New York City policeman.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_11maj_fl.mp3",
+      "start": 0,
+      "end": 672.27,
+      "clip": "hang/e_angol_11maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Robert has believed in paranormal things all his life.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "He went on a camping trip with his family.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The local guide asked for a lot of money for his services.",
+       "answer": "C"
+      },
+      {
+       "n": 3,
+       "stem": "They saw the old man’s clothes but didn’t see his face.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "The old man walked past them without saying a word.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "The local guide said they had just seen the ghost of the mine road.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Old Joe became a ghost because he had been murdered.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "Back in New York they never mentioned the ghost again.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "His partner knew that Robert would check the area alone.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "The guy who attacked him wanted his gun and money.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The homeless guy stopped the attacker by shouting at him.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Robert easily recognized Old Joe.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Old Joe usually helps policemen.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2011-maj-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 11,
+     "instructions": [
+      "In this section, you will hear the true story of a successful song and video clip.",
+      "Your task will be to complete the sentences with no more than three words or numbers in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_11maj_fl.mp3",
+      "start": 672.27,
+      "end": 1224.22,
+      "clip": "hang/e_angol_11maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Lost & Found Departments of airlines often have their {{gap}} in countries as far away as India.",
+       "accept": [
+        "call centers"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Dave Carroll was at O’Hare Airport because he {{gap}} in Chicago.",
+       "accept": [
+        "changed planes",
+        "had a connection",
+        "was changing planes"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "He and his band were about to leave for a(n) {{gap}} in the US.",
+       "accept": [
+        "week-long tour",
+        "week’s tour",
+        "one-week tour",
+        "tour"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The guitar smashing incident was witnessed by {{gap}}.",
+       "key": "another / a passenger",
+       "keywords": [
+        [
+         "passenger"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Employees at O’Hare didn’t deny the experience, but {{gap}}.",
+       "accept": [
+        "wouldn’t help",
+        "refused to help",
+        "didn’t help",
+        "didn’t do anything",
+        "did nothing",
+        "offered no help",
+        "offered no assistance",
+        "gave no help",
+        "gave no assistance"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Carroll’s Taylor acoustic guitar originally cost him $ {{gap}}.",
+       "accept": [
+        "3,500"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "His unsuccessful complaints procedure went on for {{gap}}.",
+       "accept": [
+        "9 months"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "The title of Carroll’s song is {{gap}}.",
+       "accept": [
+        "United Breaks Guitars"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "He promised to come out with {{gap}} and videos about his battle with United Airlines.",
+       "accept": [
+        "two more songs",
+        "more songs"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "During the first two weeks of going online, more than {{gap}} people watched Carroll’s clip on YouTube.",
+       "accept": [
+        "4 million"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "United Airlines asked him if they could use the video to {{gap}}.",
+       "accept": [
+        "train its people",
+        "train their people",
+        "train its employees",
+        "train its staff",
+        "train its workers",
+        "train their employees",
+        "train their staff",
+        "train their workers",
+        "train employees",
+        "train staff",
+        "train workers"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "The money United Airlines shareholders lost was {{gap}} times more than the original value of Carroll’s guitar.",
+       "accept": [
+        "more than 51,000",
+        "51,000"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(A helyes válaszhoz szükségesek a vastagon szedett tartalmak!)"
+     }
+    },
+    {
+     "id": "2011-maj-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a lot of information about Jules Verne, the famous French writer.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_11maj_fl.mp3",
+      "start": 1224.22,
+      "end": 1795.64,
+      "clip": "hang/e_angol_11maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Jules Verne had …",
+       "options": [
+        {
+         "key": "A",
+         "text": "four brothers and sisters."
+        },
+        {
+         "key": "B",
+         "text": "financial difficulties as a child."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "At the boarding school, …",
+       "options": [
+        {
+         "key": "A",
+         "text": "he wasn’t good at Latin."
+        },
+        {
+         "key": "B",
+         "text": "his maths teacher was an inventor."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Verne’s father …",
+       "options": [
+        {
+         "key": "A",
+         "text": "wanted him to study law."
+        },
+        {
+         "key": "B",
+         "text": "didn't support his writing career."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "Honorine Morel ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "supported Verne’s ambition to become a writer."
+        },
+        {
+         "key": "B",
+         "text": "had three children."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "‘Journey to the centre of the Earth’ ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was published in 1864."
+        },
+        {
+         "key": "B",
+         "text": "wasn’t successful at first."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "‘Around the World in Eighty Days’ is Verne’s ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "most popular book."
+        },
+        {
+         "key": "B",
+         "text": "last very successful book."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 29,
+       "stem": "Gaston ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was Verne’s relative."
+        },
+        {
+         "key": "B",
+         "text": "spent his last years in prison."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 30,
+       "stem": "Verne...",
+       "options": [
+        {
+         "key": "A",
+         "text": "became a politician."
+        },
+        {
+         "key": "B",
+         "text": "was a town councillor until his death."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

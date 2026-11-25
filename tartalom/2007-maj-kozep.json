@@ -1,0 +1,1250 @@
+{
+ "formatVersion": 1,
+ "id": "2007-maj-kozep",
+ "year": 2007,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2007-05-10",
+ "code": "0621",
+ "sourceFiles": {
+  "paper": "2007. Középszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_07maj_fl.pdf",
+  "key": "2007. Középszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_07maj_ut.pdf",
+  "audio": "2007. Középszintű május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/k_angol_07maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2007-maj-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "állítások párosítása szövegrészekhez",
+     "points": 9,
+     "instructions": [
+      "Read the descriptions of four museums and the statements following them.",
+      "Your task is to match the statements 1-9 with the descriptions A-D."
+     ],
+     "body": [
+      "A)The Natural History Museum The skeletons of reptiles are very good, and the new display of T-Rex is excellent.",
+      "The Insect Room is definitely not for people easily scared by bugs and spiders. The Ecology Gallery, the Mammals Gallery, the Mineral Gallery and the Earth Gallery with a 17-carat diamond and an emerald the size of a lemon just call out to you!",
+      "At the end you will be presented with \"Earth Today and Tomorrow\", where you can see what we are doing to this planet. Pollution and the destruction of Mother Earth are shown here. Open: Mon-Sat 10am-5:50pm, Sun 11am-5:50pm. Tel: 0207 942 5000.",
+      "B) Theatre Museum - Old photographs, programmes, costumes, letters and cartoons give you a story about the past. It doesn’t take long to see everything here so if you have a few spare minutes, go inside; otherwise stay out and enjoy the weather! Open: Tues-Sun 11am- 7pm. Tel: 0207 836 7891.",
+      "C)Transport Museum A museum for enthusiasts, though it is also popular with children. The history of London’s transport is, we suppose, a history of the World’s urban transport as well. Admission fee fairly high considering the size, but the exhibits are crammed into the building. Great shop selling Underground branded goods which make perfect presents. In Covent Garden Piazza. Open 10.00-18.00 daily (11.00-18.00 Fridays). Free admission for children.",
+      "D) The Victoria & Albert Museum A huge museum of culture. What’s fascinating about the British Galleries is the closeness of the objects – lots are there to be touched, – anyone who’s ever bought a sofa, wallpapered a room or chosen curtains will like the displays. There are several rooms with computers, AV displays and book collections. Tours are free, and you can even borrow a lightweight folding chair to take round with you. Kids seem to love the hands-on stuff (e.g.: dressing up in old costumes, building pieces of furniture, designing their own monograms and seeing them put onto cutlery, weaving oriental carpets). Spontaneous concerts in the entrance hall on Sundays. Open 10.00-18.00 daily; on Wednesdays and the last Friday in the month open to 22.00."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": ""
+      },
+      {
+       "key": "B",
+       "text": ""
+      },
+      {
+       "key": "C",
+       "text": ""
+      },
+      {
+       "key": "D",
+       "text": ""
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Tickets to the museum are quite expensive.",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "You can see dinosaurs there.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "If you only have a short time this is a good place to visit.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Visiting the museum is only free for children.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "On some days the museum is open till very late.",
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "stem": "You can buy great souvenirs in the museum.",
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "The museum cannot be visited on Mondays.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "At weekends you can listen to music in the museum.",
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "stem": "The museum offers lots of different activities for children.",
+       "answer": "D"
+      },
+      {
+       "n": 9,
+       "stem": "If you want to learn about environmental problems, you should visit the place.",
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read the following text about Money-Saving Travel Tips.",
+      "Some parts of the sentences have been removed.",
+      "Your task is to match the numbers with the correct letters.",
+      "There is an extra letter you do not need."
+     ],
+     "title": "Money-Saving Travel Tips",
+     "body": [
+      "Airfare Each day, airlines charge different rates for the same seat. So how do you find the best prices? Here are some tips:",
+      "• Avoid travelling around the holidays. Most airlines have busy days around popular holidays, {{0}}",
+      "• Sign up for fare special e-mails. Check Web sites of airlines so as to keep informed about fares. When airlines get into a fare war, the cost of a plane ticket can fall quickly {{10}}",
+      "• Buy your tickets at least 21 days in advance. There are usually four different timetables for advance purchase: 21-day, 14-day, 7- day, and 3-day. The further in advance you book your flight, {{11}} • Stay over a Saturday night. If you plan to leave for your trip on a Wednesday and return on Saturday, your fare could be considerably higher {{12}}",
+      "• Fly on Tuesdays, Wednesdays, and Saturdays. Some airlines offer cheaper fares on specific days of the week. Generally, {{13}}Remember, though, that a Saturday stay is necessary to get the lowest price.",
+      "• Pick a flight with plenty of open seats. Seats in a flight are divided into \"classes,\" and each class has its own price. Since the cheapest classes sell first, the fewer seats that are left on a plane, {{14}} Hotel • Book in advance. The cheapest hotel rates can go quickly, {{15}} • Consider staying in a business district. Since business travellers aren't around during the weekend, hotels in business districts have plenty of available rooms on Friday, Saturday, and Sunday nights and usually offer discounted rates."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "the lower the fare you're likely to find."
+      },
+      {
+       "key": "B",
+       "text": "it may cost less ultimately to book it for a full week."
+      },
+      {
+       "key": "C",
+       "text": "when fares are more expensive."
+      },
+      {
+       "key": "D",
+       "text": "the more expensive they are."
+      },
+      {
+       "key": "E",
+       "text": "it's cheapest to fly on Tuesday, Wednesday and Saturday."
+      },
+      {
+       "key": "F",
+       "text": "than if you extended your trip to Sunday morning."
+      },
+      {
+       "key": "G",
+       "text": "and the discounted fare may be sold out by the next day."
+      },
+      {
+       "key": "H",
+       "text": "so book your room at the same time as you make your travel plans."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "G"
+      },
+      {
+       "n": 11,
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "answer": "F"
+      },
+      {
+       "n": 13,
+       "answer": "E"
+      },
+      {
+       "n": 14,
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "In the following interview with Chef Don Zajac the questions have been removed.",
+      "Your task is to read the text and match the questions with the answers.",
+      "There is one extra question that you do not need."
+     ],
+     "body": [
+      "{{0}}\nYes, coming from a Polish family with a history of being in the business, it was natural to prepare meals.",
+      "{{16}}\nPassion and desire. When I was growing up, my folks always wanted me to be happy at what I did for a living. \"You'll work for the remainder of your life, so be happy with what you choose.\"",
+      "{{17}}\nI had a passion for what I wanted so the learning came very easy. I went to Joliet Junior College, which had a Culinary Arts Program. The school was pretty tough.",
+      "{{18}}\nKnow your limitations and build your skills slowly. Quality, passion and love must go into everything you do.",
+      "{{19}}\nA K-5 Kitchen Aid, which is a 5-quart mixer. This piece of equipment is very convenient and valuable.",
+      "{{20}}\nNever skimp on quality ingredients. Cook with what you drink. Never be afraid to ask questions.",
+      "{{21}}\nWell it really wasn't funny then, but one time a cook was lighting a pilot light and threw the lit piece of paper he was using to light the stove in the garbage can. The can caught fire in the middle of dinner.",
+      "{{22}}\nI love to use Pacific Sable when preparing a fish course. It has wonderful characteristics and is always pleasing.",
+      "{{23}}\nTwo books: one is Paul Bocuse's French Cooking, the other is Patés and Terrines.",
+      "Thanks for the interview, Chef Don."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What's the funniest kitchen incident you can remember?"
+      },
+      {
+       "key": "B",
+       "text": "What's your favorite gadget?"
+      },
+      {
+       "key": "C",
+       "text": "What's your favorite food to cook with?"
+      },
+      {
+       "key": "D",
+       "text": "Do you often cook Polish food?"
+      },
+      {
+       "key": "E",
+       "text": "What made you decide you would become a professional cook?"
+      },
+      {
+       "key": "F",
+       "text": "What's your best cooking tip for a beginner?"
+      },
+      {
+       "key": "G",
+       "text": "What's your favorite cookbook?"
+      },
+      {
+       "key": "H",
+       "text": "What's the best piece of advice you would give a home enthusiast?"
+      },
+      {
+       "key": "I",
+       "text": "Where were you trained and how difficult was your training?"
+      },
+      {
+       "key": "J",
+       "text": "Chef, did you cook when you were growing up?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "J"
+      },
+      {
+       "n": 16,
+       "answer": "E"
+      },
+      {
+       "n": 17,
+       "answer": "I"
+      },
+      {
+       "n": 18,
+       "answer": "F"
+      },
+      {
+       "n": 19,
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "answer": "H"
+      },
+      {
+       "n": 21,
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read the following text and the statements following it.",
+      "Your task is to mark each statement",
+      "A if it says the same as the text,",
+      "B if it says something different from the text,",
+      "C if the text does not give enough information for you to choose A or B. Write the letters in the white boxes."
+     ],
+     "title": "Question time",
+     "body": [
+      "There is a growing need to find answers to lots of different types of questions, and thousands of people are ready to pay for instant-reply services.",
+      "A company called Any Question Answered (AQA) offers an open-all-hours service, charging £1 for each question and responding to about 80% within five minutes. At present, the service is answering an average of 8,000 questions per day - with replies written by a team of 500 part-time researchers.",
+      "So what makes people want to use this pay-as-you-know service? The peak time for questions is the evening, around the time people might have had some alcohol. And AQA's chief executive, Colin Myers, says these are usually \"male type\" inquiries.",
+      "\"Some people want to tease their friends about what they don't know. Who won a football match? Who scored the most goals?\" \"There are other questions which are clearly about settling an argument. Such as 'If a polar bear and a lion had a fight who would win?' Definitely the polar bear. It can include more specific questions, such as \"Who should get the next round of drinks?\" And the fact that the questioners get a response from a human being, maybe with some humour added, means that people are using it as a form of instant entertainment, he says.",
+      "About a third of questions sent in by customers have already been asked, says Mr. Myers. And although some topics are excluded, such as medical or financial advice, the researchers try to answer whatever is thrown at them. \"What goes well with orange trousers?\" Answer: a purple satin shirt. If a customer thinks the answer is wrong or they think it's unsatisfactory, they can dispute it and ask for their money back.",
+      "AQA is a serious business which aims to give instant information to people on the move. Mr. Myers used to run a computer company and a mobile-phone technology firm. He believes the huge mobile phone market is providing rich opportunities for new services."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "You get the answer in written form.",
+       "answer": "A"
+      },
+      {
+       "n": 24,
+       "stem": "The service is available 24 hours a day.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "You must pay £1 for each answer.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "Everybody gets their answer within five minutes.",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "Most of the questions are asked in the evening.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "The oldest person who called was eighty years old.",
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "Any kind of question is answered.",
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "Mr. Myers can speak five languages.",
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2007-maj-kozep-L1",
+     "number": 1,
+     "kind": "order",
+     "layout": "stems",
+     "examType": "összekevert szavak mondattá rendezése",
+     "points": 6,
+     "instructions": [
+      "The words in the sentences below are jumbled up.",
+      "Your task is to form the correct sentences and write them on the dotted lines. The first word is there for you.",
+      "You have to use each word.",
+      "Do not change the form of the words."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "first": "Next",
+       "words": [
+        "summer",
+        "we",
+        "London",
+        "going",
+        "are",
+        "visit",
+        "to"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "summer",
+         "we",
+         "are",
+         "going",
+         "to",
+         "visit",
+         "London"
+        ]
+       ],
+       "example": true
+      },
+      {
+       "n": 1,
+       "first": "John",
+       "words": [
+        "to",
+        "was",
+        "home",
+        "it",
+        "started",
+        "walking",
+        "when",
+        "rain"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "was",
+         "walking",
+         "home",
+         "when",
+         "it",
+         "started",
+         "to",
+         "rain"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "first": "Tomorrow",
+       "words": [
+        "are",
+        "to",
+        "explore",
+        "the",
+        "going",
+        "we",
+        "island"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "we",
+         "are",
+         "going",
+         "to",
+         "explore",
+         "the",
+         "island"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "first": "Could",
+       "words": [
+        "you",
+        "me",
+        "some",
+        "send",
+        "more",
+        "pictures"
+       ],
+       "end": "?",
+       "accept": [
+        [
+         "you",
+         "send",
+         "me",
+         "some",
+         "more",
+         "pictures"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "first": "Carla",
+       "words": [
+        "clothes",
+        "likes",
+        "casual",
+        "wearing"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "likes",
+         "wearing",
+         "casual",
+         "clothes"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "first": "I",
+       "words": [
+        "because",
+        "ending",
+        "like",
+        "the",
+        "didn’t",
+        "film",
+        "it",
+        "a",
+        "had",
+        "sad"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "didn’t",
+         "like",
+         "the",
+         "film",
+         "because",
+         "it",
+         "had",
+         "a",
+         "sad",
+         "ending"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "first": "The",
+       "words": [
+        "new",
+        "was",
+        "a",
+        "year",
+        "library",
+        "built",
+        "ago"
+       ],
+       "end": ".",
+       "accept": [
+        [
+         "new",
+         "library",
+         "was",
+         "built",
+         "a",
+         "year",
+         "ago"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a man who wanted to disappear. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-L) for each gap (7-15) in the text. Write the letter of the appropriate word in the white box.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "MAN RUNS AFTER LOSING BET",
+     "body": [
+      "A man staged his own disappearance in the Bighorn Mountains after {{0}} $40,000 on a Super Bowl bet, police said Monday.",
+      "Marvin Hackworth, 46, was reported {{7}} on Feb 6, the day after the Super Bowl, according to the Big Horn County Sheriff's Office. Search and rescue teams spent two days {{8}} for him in the Bighorn Mountains in north-central Wyoming. He had told his wife he wanted to \"clear his head\" {{9}} losing the money, the sheriff's office said in a statement. The search was suspended Wednesday evening as there was no evidence of {{10}} he might have been. On Friday, police received a call from a person {{11}} herself as Hackworth's daughter, saying she had {{12}} a voice mail message from her father saying he was OK. Police traced the call to a town in Nebraska, and a few hours later they {{13}} Hackworth. It turned out that Hackworth had {{14}} a new pick up truck in the mountains before the Super Bowl in order to \"disappear for a while\" in case he lost the bet.",
+      "Hackworth said he knew he had to do something, {{15}} he had serious gambling losses. Hackworth also told the sheriff he was seeking counseling help for a \"gambling problem\"."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "AFTER"
+      },
+      {
+       "key": "B",
+       "text": "BECAUSE"
+      },
+      {
+       "key": "C",
+       "text": "BUT"
+      },
+      {
+       "key": "D",
+       "text": "FOUND"
+      },
+      {
+       "key": "E",
+       "text": "HIDDEN"
+      },
+      {
+       "key": "F",
+       "text": "IDENTIFYING"
+      },
+      {
+       "key": "G",
+       "text": "LOSING"
+      },
+      {
+       "key": "H",
+       "text": "LOOKING"
+      },
+      {
+       "key": "I",
+       "text": "MISSING"
+      },
+      {
+       "key": "K",
+       "text": "RECEIVED"
+      },
+      {
+       "key": "L",
+       "text": "WHERE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "I"
+      },
+      {
+       "n": 8,
+       "answer": "H"
+      },
+      {
+       "n": 9,
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "answer": "L"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "K"
+      },
+      {
+       "n": 13,
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "answer": "E"
+      },
+      {
+       "n": 15,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a text about an old couple. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (16-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "STILL IN LOVE AFTER 77 VALENTINE'S DAYS",
+     "body": [
+      "Fred Landis has a Valentine's Day ritual. Sometime, somewhere, he'll lean over to {{0}} wife, Gwen, and say, \"I love you.\" They say he's been doing that on Valentine's Days {{16}} 1928, when they got married.",
+      "In October, Fred, 102, and Gwen, 101, celebrated {{17}} 77th wedding anniversary. It is almost a record as the longest current marriage, according {{18}} the 2006 edition of Guinness World Records, is 78 years, 296 days.",
+      "On Valentine's Day 2006, Fred will say \"I love you\" a bit louder {{19}} he used to because Gwen is hard of hearing. Fred also has health problems, and that has kept {{20}} from writing poetry for her. Gwen says Fred wrote poems to her during their courtship, a gesture {{21}} may have won her heart.",
+      "They met in 1924 as college students in Seattle. Fred attended a church where Gwen's father was the pastor. Gwen remembers receiving $800 {{22}} their relatives, then losing it all in the stock-market crash {{23}} following year. The Landises spent the next four decades working and raising four children. Fred was the pastor at several small churches in the Northwest. Gwen played {{24}} piano and organ and taught Sunday school. He retired in 1970, and they {{25}} lived in Salem since then. They moved to a retirement center in 1994. They have eight grandchildren and 19 great-grandchildren."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "his"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "since"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "their"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "him"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "both",
+        "the"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "have"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 14,
+    "11": 15,
+    "12": 17,
+    "13": 18,
+    "14": 19,
+    "15": 21,
+    "16": 22,
+    "17": 23,
+    "18": 25,
+    "19": 26,
+    "20": 28,
+    "21": 29,
+    "22": 30,
+    "23": 32,
+    "24": 33
+   },
+   "tasks": [
+    {
+     "id": "2007-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you are going to hear a joke about equal opportunities.",
+      "Your task is to fill in the gaps in the sentences with one word.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_07maj_fl.mp3",
+      "start": 0,
+      "end": 808.91,
+      "clip": "hang/k_angol_07maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Equal opportunities mean that everyone should get the same chances of {{gap}}.",
+       "accept": [
+        "employment"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The business needed office help, so they put a(n) {{gap}} in the window.",
+       "accept": [
+        "sign"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The {{gap}} was surprised to see a dog walk into the office.",
+       "accept": [
+        "receptionist"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "When she finally understood the situation, she called the office {{gap}}.",
+       "accept": [
+        "manager"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Mr. Jones led the dog into his office because he looked very {{gap}}.",
+       "accept": [
+        "serious"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "First, Mr. Jones said he couldn't give him the job because he needed someone who could {{gap}}.",
+       "accept": [
+        "type"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "The dog proved that he could do it by producing a perfect {{gap}}.",
+       "accept": [
+        "letter"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Then Mr. Jones said that he needed someone who was good with a(n) {{gap}}.",
+       "accept": [
+        "computer"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "The dog proved that he was an expert by producing a nicely formatted {{gap}}.",
+       "accept": [
+        "document"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Now Mr. Jones said he needed someone who could speak at least one {{gap}} language.",
+       "accept": [
+        "foreign"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2007-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you are going to hear an interview with Laura, a sixteen- year-old Canadian girl who is in Hungary on a Rotary Club scholarship.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "k_angol_07maj_fl.mp3",
+      "start": 808.91,
+      "end": 1304.31,
+      "clip": "hang/k_angol_07maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Laura is staying with a Hungarian family during her visit.",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "Rotary says that students should phone their parents as often as possible.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Laura has spent 8 hours on the phone with Canada in the past six weeks.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "She says that frequent phone-calls make her feel terribly homesick.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Laura's father is a university professor.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Her grandparents live in Ontario.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Laura hasn't talked to her mother for more than a week.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "She is not particularly fond of emails.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "She does not use phone cards because they are too expensive.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2007-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a news report about a strange accident.",
+      "Your task is to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "k_angol_07maj_fl.mp3",
+      "start": 1304.31,
+      "end": 1814.62,
+      "clip": "hang/k_angol_07maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "This news report comes from ….",
+       "options": [
+        {
+         "key": "A",
+         "text": "Australia"
+        },
+        {
+         "key": "B",
+         "text": "Austria"
+        },
+        {
+         "key": "C",
+         "text": "Algeria"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "The report is about a man who works …",
+       "options": [
+        {
+         "key": "A",
+         "text": "with kangaroos."
+        },
+        {
+         "key": "B",
+         "text": "for a company which makes road signs."
+        },
+        {
+         "key": "C",
+         "text": "as a traffic warden."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The man was riding a … when the accident happened.",
+       "options": [
+        {
+         "key": "A",
+         "text": "kangaroo"
+        },
+        {
+         "key": "B",
+         "text": "bicycle"
+        },
+        {
+         "key": "C",
+         "text": "motorbike"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 20,
+       "stem": "He ran into a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "warning sign."
+        },
+        {
+         "key": "B",
+         "text": "kangaroo."
+        },
+        {
+         "key": "C",
+         "text": "motorbike."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "His colleagues sent him a …",
+       "options": [
+        {
+         "key": "A",
+         "text": "card."
+        },
+        {
+         "key": "B",
+         "text": "real road sign."
+        },
+        {
+         "key": "C",
+         "text": "toy kangaroo."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Skippy is the name of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a famous Australian actor."
+        },
+        {
+         "key": "B",
+         "text": "a kangaroo."
+        },
+        {
+         "key": "C",
+         "text": "a popular Australian film."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "There are about 57 million … in Australia.",
+       "options": [
+        {
+         "key": "A",
+         "text": "warning signs for kangaroos"
+        },
+        {
+         "key": "B",
+         "text": "people"
+        },
+        {
+         "key": "C",
+         "text": "kangaroos"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "More than 70% of … accidents were caused by kangaroos in Australia in 2004.",
+       "options": [
+        {
+         "key": "A",
+         "text": "animal-related"
+        },
+        {
+         "key": "B",
+         "text": "car"
+        },
+        {
+         "key": "C",
+         "text": "road"
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1505 @@
+{
+ "formatVersion": 1,
+ "id": "2019-maj-emelt",
+ "year": 2019,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2019-05-09",
+ "code": "1911",
+ "sourceFiles": {
+  "paper": "2019 - Emeltszintű május/e_angol_19maj_fl.pdf",
+  "key": "2019 - Emeltszintű május/e_angol_19maj_ut.pdf",
+  "audio": "2019 - Emeltszintű május/e_angol_19maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2019-maj-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article about some British parliamentary traditions and then read the statements (1-9) following it.",
+      "Your task is to decide if the statements are true or not.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "AFTER NEARLY SEVEN HUNDRED YEARS, A WOMAN IS BLACK ROD",
+     "body": [
+      "The Queen has appointed Sarah Clarke, a former director of the Wimbledon tennis championships, as Black Rod. She will be the first woman ever to hold the largely ceremonial parliamentary post in its almost seven-hundred-year history.",
+      "Clarke, who will formally be known as Lady Usher of the Black Rod, will take over early next year from David Leakey, who has been Gentleman Usher of the Black Rod since 2011.",
+      "Originating from a role created by Edward III to guard the door outside meetings of his advisory council, the Order of the Garter, Black Rod is now a senior official in the House of Lords. The post is most visible at the annual state opening of parliament, when Black Rod is sent to the Commons to call MPs to the House of Lords for the Queen’s speech. The ceremony involves the door to the Commons being slammed in Black Rod’s face. This is to symbolize the Commons’ independence of the Sovereign. The ceremonial staff, a long black stick made of ebony with a golden lion at the top, is used to knock three times on the door to gain admittance.",
+      "Black Rod also organises other ceremonial events and is responsible for controlling access to and maintaining order in the Lords Chamber. Apart from the doorkeepers to the Chamber, the House of Lord’s department also includes Black Rod’s deputy, the Yeoman Usher.",
+      "Before organising the Wimbledon championships, Clarke worked for the 2012 Olympic Games, the London marathon and UK sport. She said she was “deeply honoured and delighted” to be offered the post. “I am truly looking forward to starting work.”",
+      "The Speaker of the House of Lords, Lord Fowler, said: “The Lords has a great record of women taking on senior political roles. Five of the last seven leaders of the Lords and the current leader of the opposition have been women, as well as both my predecessors.”",
+      "(The Guardian Weekly)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Sarah Clarke comes to Parliament from the world of sport.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "No other person has held the title Lady Usher of the Black Rod before.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Sarah Clarke will work in association with the Gentleman Usher of the Black Rod.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Originally, the Black Rod was a member of the king’s advisory council.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "The king’s advisers were known as the Order of the Garter.",
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "stem": "It is the Black Rod’s task to tell MPs to come to the state opening of parliament.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "The Black Rod is allowed into the House of Commons only after the third knock.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "The Black Rod is sometimes referred to as the Yeoman Usher.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "The Queen’s attention was called to Clarke by her contribution to the 2012 London Olympics.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "Lord Fowler thought Sarah Clarke was an excellent choice for the post of Black Rod.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 8,
+     "instructions": [
+      "Read this part of an interview with an Australian writer and then read the gapped summary.",
+      "Your task is to fill the gaps (10-17) with one word only based on what the article says."
+     ],
+     "title": "MEET THE AUTHOR",
+     "body": [
+      "In this interview with Kidsreads.com’s Sarah Wood, John Flanagan ‒ author of the bestselling Ranger’s Apprentice series ‒ describes how he created these stories as a way of encouraging his young son to read. He also discusses his interest in history, and shares what readers can look forward to in future instalments, following the recently-released new volume of the series, The Icebound Land.",
+      "Sarah Wood: Slavery is an important plot element to The Icebound Land. Why did you make it a main plot point?",
+      "John Flanagan: The concept of having slaves was pretty commonplace during the Middle Ages. But I’m not sure I’d agree that slavery is a main plot element. I think the drug addict storyline is much stronger.",
+      "SW: Evanlyn learns so much during the course of the book. Can you talk a little about her?",
+      "JF: I love Evanlyn and I love her role in this book. It’s far too easy to have a female character who exists solely for the purpose of being rescued by the hero. In spite of her privileged upbringing, Evanlyn has a core of steel and a courageous and practical spirit. As times get tough, that inner strength becomes more apparent and she tries to accomplish things for which she has little or no training, and her persistence helps her to succeed.",
+      "SW: One of the things I really enjoyed about the previous volume, The Burning Bridge, was your vivid descriptions of combat and fighting techniques. Readers could practically reconstruct the fights from your descriptions.",
+      "JF: I appreciate your saying that the battle scenes are vivid. It’s what I try to achieve when describing a battle or a single combat. And some years ago I was a keen participant in archery, along with my son Mike, so I know a bit about the subject.",
+      "SW: The world of the Ranger’s Apprentice seems to be very clearly based on the geography and history of our world. Is there any reason you decided to base your fantasy world on a European model?",
+      "JF: Well, I could hardly base it on an American or Australian medieval model because nobody really knows what was going on in either of these two countries at that time. I’m more familiar with European history, so I’m more comfortable with that setting.",
+      "(https://www.kidsreads.com)",
+      "In this {{0}} for Kidsreads.com, conducted by Sarah Wood, John Flanagan says that he started Ranger’s Apprentice in the hope of making his son more interested in {{10}}. Wood met Flanagan shortly after the {{11}} of The Icebound Land. Flanagan says that although {{12}} plays a large part in his new book, the central theme is {{13}}. Talking about the characters he says he didn’t want {{14}} to have only a passive role. In the reporter’s opinion in The Burning Bridge, the previous volume in the {{15}}, fights and battles are presented in a particularly lifelike manner. The writer explains that his familiarity with {{16}} comes from having practised it with his son. He also says his model for life in the Middle Ages had to be {{17}} as there were no records of those times on other continents."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "interview"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "reading",
+        "books",
+        "literature"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "publication",
+        "release",
+        "appearance"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "slavery"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "drugs",
+        "addiction"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "Evanlyn"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "series"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "archery"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "Europe",
+        "European"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about the effects of social media some parts of sentences have been left out.",
+      "Your task is to fill the gaps from the list below.",
+      "There are two more letters than you need."
+     ],
+     "title": "SOCIAL MEDIA COPIES GAMBLING METHODS TO CREATE PSYCHOLOGICAL CRAVINGS",
+     "body": [
+      "Social media platforms are using the same techniques as gambling firms to create psychological dependencies {{0}}, experts warn. These methods are so effective {{18}}, create psychological cravings and even simulate “phantom calls and notifications” where users feel the buzz of a smartphone, even when it isn’t really there.",
+      "“Facebook, Twitter and other companies use methods similar to the gambling industry to keep users on their sites,” said Natasha Schüll, the author of Addiction by Design. In her book, she reported {{19}} to lock users into a cycle of addiction. “In the online economy, profit depends on continuous consumer attention – {{20}}.” Whether it’s Snapchat streaks, Facebook photo-scrolling, or playing CandyCrush, Schüll explained, you get drawn into repeated cycles of uncertainty, anticipation and feedback – and the rewards are just enough to keep you going.",
+      "Like gambling, {{21}} and makes people more likely to suffer from depression and anxiety, social media use has been linked to depression. Its potential to have a negative psychological effect on users cannot be overlooked or underestimated. For instance, phone dependency, driven by high social media usage, can lead us to think our phone is vibrating, or {{22}}, even when this is not the case.",
+      "“Phantom calls and notifications are linked to our psychological craving for such signals,” said Professor Daniel Kruger, an expert in human behaviour. “Social media messages can activate the same brain mechanisms as cocaine does – and this is just one of the reasons to do more research into those mechanisms in the future.”",
+      "Once a habit is formed, {{23}} like a notification, email, or any sort of ring or ding, this is no longer needed. It is replaced by an internal trigger, meaning that we form a mental connection between wanting to use this product {{24}}. These sites are built to be engaging, {{25}} is addictive for others.",
+      "(bbc.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "which is measured in clicks and time spent on the page"
+      },
+      {
+       "key": "B",
+       "text": "that we have received a message"
+      },
+      {
+       "key": "C",
+       "text": "and establish their products in the lives of their users"
+      },
+      {
+       "key": "D",
+       "text": "who don’t allow their children to use it"
+      },
+      {
+       "key": "E",
+       "text": "and what’s engaging for some"
+      },
+      {
+       "key": "F",
+       "text": "which was previously provoked by an external trigger"
+      },
+      {
+       "key": "G",
+       "text": "that they can activate similar mechanisms as cocaine in the brain"
+      },
+      {
+       "key": "H",
+       "text": "which physically changes the brain’s structure"
+      },
+      {
+       "key": "I",
+       "text": "how people become attracted to social media"
+      },
+      {
+       "key": "K",
+       "text": "how slot machines and other systems are designed"
+      },
+      {
+       "key": "L",
+       "text": "and trying to satisfy an emotional need"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "answer": "G"
+      },
+      {
+       "n": 19,
+       "answer": "K"
+      },
+      {
+       "n": 20,
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "answer": "H"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "answer": "F"
+      },
+      {
+       "n": 24,
+       "answer": "L"
+      },
+      {
+       "n": 25,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read this article about the future of car driving and then read the sentences (26-30) following it.",
+      "Your task is to choose the answers (A-D) that best correspond to what the article says."
+     ],
+     "title": "OWNING A CAR WILL SOON BE A THING OF THE PAST",
+     "body": [
+      "If ours is an age in which no end of institutions and conventions are being disrupted, it shouldn’t come as a surprise that one of the most basic features of everyday life seems under serious threat. That four-wheeled metal box, which may well be equipped with every technological innovation imaginable, now shows distinct signs of being on the decline.",
+      "After a century in which the car has sat at the heart of industrial civilisation, the age of the automobile ‒ of mass vehicle ownership, and the idea (in the western world at least) that life is not complete without your own set of wheels ‒ looks to be drawing to a close.",
+      "The sale of diesel and petrol cars is to be outlawed in the UK from 2040. Oxford has announced that it is set to be the first British city to ban all petrol and diesel cars and vans ‒ from a handful of central streets first, extending to the entire urban centre by 2030.",
+      "General Motors has announced that it will soon begin testing autonomous cars in the challenging conditions of New York City, apparently the latest step in the company’s move towards building a fleet of self-driving taxis.",
+      "I am aware that the idea that we will soon surrender our vehicles can look far-fetched. But deep social trends do point in this direction. In 1994 75% of 21-to-29-year-olds had driving licences. By 2016 this figure had dropped to 66%. If you buy most of your stuff online, the need to drive to a shopping centre dwindles to nothing; if you keep in touch with distant friends and family online, might a time-consuming visit to see them feel a bit less urgent? The need and therefore the demand for car ownership is bound to decline. Also, the rising global emergency focused on fatal levels of air pollution confirms the motor industry’s catastrophic environmental impacts.",
+      "The prospects are amazing. Mobility will no longer depend on a huge cash outlay, the mundane term “public transport” will take on a new vitality and the environmental benefits will be self-evident.",
+      "(The Guardian Weekly)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Ours is an age of",
+       "options": [
+        {
+         "key": "A",
+         "text": "transition."
+        },
+        {
+         "key": "B",
+         "text": "high-priced cars."
+        },
+        {
+         "key": "C",
+         "text": "daily threats to life."
+        },
+        {
+         "key": "D",
+         "text": "technological innovation."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Cars",
+       "options": [
+        {
+         "key": "A",
+         "text": "were first produced a hundred years ago."
+        },
+        {
+         "key": "B",
+         "text": "have made industrial civilisation possible."
+        },
+        {
+         "key": "C",
+         "text": "are essential for people to live a full life."
+        },
+        {
+         "key": "D",
+         "text": "are likely to lose their central role."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "stem": "Diesel and petrol cars",
+       "options": [
+        {
+         "key": "A",
+         "text": "can only be bought illegally in the UK."
+        },
+        {
+         "key": "B",
+         "text": "have been banned from Oxford."
+        },
+        {
+         "key": "C",
+         "text": "will be banned from central Oxford after 2030."
+        },
+        {
+         "key": "D",
+         "text": "will disappear from the UK in 2040."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "stem": "General Motors",
+       "options": [
+        {
+         "key": "A",
+         "text": "is ready to use driverless cars."
+        },
+        {
+         "key": "B",
+         "text": "plans to introduce driverless taxis."
+        },
+        {
+         "key": "C",
+         "text": "wants New York to be the first city with driverless taxis."
+        },
+        {
+         "key": "D",
+         "text": "considers New York a particularly dangerous place."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "Younger people seem to",
+       "options": [
+        {
+         "key": "A",
+         "text": "dislike shopping centres."
+        },
+        {
+         "key": "B",
+         "text": "be less interested in driving cars."
+        },
+        {
+         "key": "C",
+         "text": "maintain daily contact with family and friends."
+        },
+        {
+         "key": "D",
+         "text": "be particularly worried about the environmental impact of cars."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "Public transport",
+       "options": [
+        {
+         "key": "A",
+         "text": "will become much cheaper."
+        },
+        {
+         "key": "B",
+         "text": "will be better organised than now."
+        },
+        {
+         "key": "C",
+         "text": "will replace privately owned cars."
+        },
+        {
+         "key": "D",
+         "text": "puts less strain on the environment."
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2019-maj-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a peculiar reason for living in someone else’s house.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "HOUSE-SIT AND SEE THE WORLD FOR FREE",
+     "body": [
+      "Is there such a thing as a free holiday? House-sitting comes pretty close. Even if you are {{0}} up with the Home Alone movies, you’ll remember that the moment a house is left vacant a pair of {{1}} will try and break into it. And not everyone has a Macaulay Culkin equivalent they can leave behind as a {{2}} guard. That’s where the house-sitter comes in. In {{3}} for free accommodation, homeowners hand over their keys to people {{4}} to take care of their house while they’re away.",
+      "It’s a great way to have an {{5}} holiday, or to try living somewhere different, and can be a chance to stay in some wonderful {{6}} properties you’d never normally be able to rent. It can work {{7}} well for families looking for a large house to stay in while on holiday, but also suits backpacking students. The homeowner will usually have a {{8}} and their choice will also depend on the size of the property.",
+      "In most cases house-sitting is a very informal arrangement, with no money changing hands. However, sometimes the sitter will get a small fee, especially if they are looking after a property in an isolated {{9}} or have a large number of chores to take care of.",
+      "(https://www.theguardian.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "feed",
+       "example": true,
+       "accept": [
+        "fed"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "crime",
+       "accept": [
+        "criminals"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "secure",
+       "accept": [
+        "security"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "change",
+       "accept": [
+        "exchange"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "will",
+       "accept": [
+        "willing"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "afford",
+       "accept": [
+        "affordable"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "resident",
+       "accept": [
+        "residential"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "particular",
+       "accept": [
+        "particularly"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "prefer",
+       "accept": [
+        "preference"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "local",
+       "accept": [
+        "location",
+        "locality"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the history of Bluetooth. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-17) in the text."
+     ],
+     "title": "FEELING BLUE",
+     "body": [
+      "Harald “Blåtand” Gormsson was a King of Denmark and Norway who lived in the 10th century AD. {{0}} legend, King Harald was always known {{10}} to bring together leaders to non-violently negotiate, share information and, crucially, communicate across boundaries.",
+      "A thousand years later, in the depths of the 1990’s – Nokia, Ericsson and several other tech giants {{11}} short-range wireless communication models to transfer information from phones to PCs and back without cords and cables.",
+      "At a meeting in Sweden some designers and engineers got together to talk about this concept. {{12}} of the developers wanted a better name for the project than MC-Link or Biz-RF. So in his presentation he gave the new model a codename {{13}} this ancient communication king. A fun, silly codename and literal translation of Blåtand: Bluetooth.",
+      "The name Bluetooth was meant to be temporary {{14}} something official came together. {{15}}, when the product was ready for market, the name Bluetooth caught on like wildfire. It’s the name we {{16}} use for the wireless technology which connects keyboards, mice, cell phones, and other devices the world over.",
+      "Best {{17}} all, though, the Bluetooth icon on your desktop is his, too. The symbol we associate with easy, painless information sharing across hundreds of languages and file types is the result of combining the Old Norse runic symbols for ‘H’ and ‘B’.",
+      "(https://helix.northwestern.edu)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "Because of"
+        },
+        {
+         "key": "B",
+         "text": "In most"
+        },
+        {
+         "key": "C",
+         "text": "According to"
+        },
+        {
+         "key": "D",
+         "text": "Originating in"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "he can"
+        },
+        {
+         "key": "B",
+         "text": "for his ability"
+        },
+        {
+         "key": "C",
+         "text": "as able"
+        },
+        {
+         "key": "D",
+         "text": "to be capable"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "might develop"
+        },
+        {
+         "key": "B",
+         "text": "could develop"
+        },
+        {
+         "key": "C",
+         "text": "have developed"
+        },
+        {
+         "key": "D",
+         "text": "were developing"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "Some"
+        },
+        {
+         "key": "B",
+         "text": "One"
+        },
+        {
+         "key": "C",
+         "text": "None"
+        },
+        {
+         "key": "D",
+         "text": "Both"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "inspired by"
+        },
+        {
+         "key": "B",
+         "text": "reminding of"
+        },
+        {
+         "key": "C",
+         "text": "chosen by"
+        },
+        {
+         "key": "D",
+         "text": "belonged to"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "before"
+        },
+        {
+         "key": "B",
+         "text": "so"
+        },
+        {
+         "key": "C",
+         "text": "until"
+        },
+        {
+         "key": "D",
+         "text": "when"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "Therefore"
+        },
+        {
+         "key": "B",
+         "text": "Although"
+        },
+        {
+         "key": "C",
+         "text": "However"
+        },
+        {
+         "key": "D",
+         "text": "For this reason"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "still"
+        },
+        {
+         "key": "B",
+         "text": "yet"
+        },
+        {
+         "key": "C",
+         "text": "already"
+        },
+        {
+         "key": "D",
+         "text": "so"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "as"
+        },
+        {
+         "key": "C",
+         "text": "at"
+        },
+        {
+         "key": "D",
+         "text": "of"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a “lottery expert”. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "MAN WINS LOTTERY 14 TIMES",
+     "body": [
+      "We’ve all imagined what we would do {{0}} all of that money if we won the lottery. Unfortunately, winning that life-changing sum depends on dumb luck for the vast {{18}} of us. Not for Stefan Mandel – a Romanian economist who, struggling to make {{19}} meet, came up with a brilliant solution {{20}} his problems: winning the lottery.",
+      "He spent ages studying mathematical theories, and after years of research, he wrote a “number- picking algorithm”. With friends, he purchased large blocks of lottery tickets, printed them out with all {{21}} possible combinations his formula recommended – and won the jackpot: 78,783 Romanian lei – nearly £15,000. After {{22}} off taxes and other expenses, Stefan walked away with £3,000. It was enough {{23}} start a new life abroad and try his formula again.",
+      "Stefan persuaded investors to put their cash together to build a lotto syndicate and invented a system where computers filled {{24}} tickets automatically. They won 12 lotteries across Australia and the UK. Later, they won the jackpot in Virginia, US as {{25}}. Unsurprisingly, lottery authorities figured out the scheme, and changed rules to ban computer- printed forms and bulk buying tickets.",
+      "Stefan pushed his luck too far after the last win. Unfortunately for him, he didn’t quite {{26}} in setting up a lottery system in Gibraltar and went bankrupt in 1995.",
+      "(https://www.mirror.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "majority"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "ends"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "to",
+        "for"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "paying"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "out",
+        "in"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "well"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "succeed"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a strange job. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "PROFESSIONAL WAKE-UP CALLS",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Before the alarm clock was invented, people still had it to get up",
+       "answer": "it"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "in the morning. Some people practised the art of “over-drinking”,",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "or drinking so much of water before bed that they’d wake up early",
+       "answer": "of"
+      },
+      {
+       "n": 28,
+       "text": "because they have had to pee. There were also other, more precise",
+       "answer": "have"
+      },
+      {
+       "n": 29,
+       "text": "methods of making sure you got up in the morning, just in the case",
+       "answer": "the"
+      },
+      {
+       "n": 30,
+       "text": "your bladder wasn’t terribly reliable. In the U.K. and Ireland there",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "were actually people so called “knocker-uppers”. Until the 1970s",
+       "answer": "so"
+      },
+      {
+       "n": 32,
+       "text": "too many workers were woken by the sound of a tap at their",
+       "answer": "too"
+      },
+      {
+       "n": 33,
+       "text": "bedroom window. The knocker-upper went around the",
+       "answer": null
+      },
+      {
+       "n": 34,
+       "text": "neighbourhood with a long stick was tapping on people’s windows.",
+       "answer": "was"
+      },
+      {
+       "n": 35,
+       "text": "The knocker-upper was a common eye sight in Britain, particularly",
+       "answer": "eye"
+      }
+     ],
+     "outro": "in the industrial towns, where people worked shifts. Oddly, the practice didn’t completely die until the 1970s. (https://www.grunge.com)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 8,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 13,
+    "11": 14,
+    "12": 15,
+    "13": 16,
+    "14": 18,
+    "15": 19,
+    "16": 20,
+    "17": 21,
+    "18": 23,
+    "19": 24,
+    "20": 25,
+    "21": 26,
+    "22": 28,
+    "23": 29,
+    "24": 30
+   },
+   "tasks": [
+    {
+     "id": "2019-maj-emelt-H1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "párosítás hallás után",
+     "points": 6,
+     "instructions": [
+      "In this section you will hear some jokes.",
+      "Your task will be to match the titles of the jokes on the left with the names of the people who tell the jokes on the right. Put the letters in the grid.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_19maj_fl.mp3",
+      "start": 0,
+      "end": 649.84,
+      "clip": "hang/e_angol_19maj_fl_H1.mp3"
+     },
+     "bank": [
+      {
+       "key": "A",
+       "text": "AGING PROCESS"
+      },
+      {
+       "key": "B",
+       "text": "THE RICH AND THE POOR"
+      },
+      {
+       "key": "C",
+       "text": "A BAD HABIT"
+      },
+      {
+       "key": "D",
+       "text": "ELEMENTARY ARITHMETIC"
+      },
+      {
+       "key": "E",
+       "text": "KNOWLEDGE IS POWER"
+      },
+      {
+       "key": "F",
+       "text": "CLOSE RELATIVES"
+      },
+      {
+       "key": "G",
+       "text": "EFFECTIVE ADVERTISING"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "John’s joke",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Peter’s joke",
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "stem": "Judith’s joke",
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "stem": "Charles’s first joke",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "Ann’s first joke",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Ann’s second joke",
+       "answer": "E"
+      },
+      {
+       "n": 6,
+       "stem": "Charles’s second joke",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a recorded advertisement that appeared on the Internet.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_19maj_fl.mp3",
+      "start": 649.84,
+      "end": 1190.64,
+      "clip": "hang/e_angol_19maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "There are two girls and two boys in the advertiser’s family.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "The nanny they are looking for must be childless.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The family uses a private plane to travel between their four different homes.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "One of the nanny’s duties will be to take the children to and from school.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The nanny can choose not to eat with the children at mealtimes.",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "Holding a minibus driving licence might be a considerable advantage.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "The nanny will occasionally be asked to leave the house for a while.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "It’s absolutely necessary that the applicant should have previous experience in self-defence.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "The successful candidate will get a month’s salary for the two-week trial period.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The nanny who takes the job will have to sign an agreement of secrecy.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2019-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear an anecdote about a famous high-wire walker who was the first person to walk across Niagara Falls on a tightrope.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_19maj_fl.mp3",
+      "start": 1190.64,
+      "end": 1794.98,
+      "clip": "hang/e_angol_19maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What was Jean François Gravelet? He was a(n) {{gap}}",
+       "accept": [
+        "tightrope walker and acrobat"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "How high above Niagara Falls was the tightrope suspended? It was suspended at {{gap}}",
+       "key": "a hundred and sixty/160 feet.",
+       "keywords": [
+        [
+         "160",
+         "feet"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Why is 1855 an important year in the history of Blondin’s Niagara crossings? It was the year when he {{gap}}",
+       "key": "became/got obsessed (with the idea/it). // developed an obsession (with the idea/it).",
+       "keywords": [
+        [
+         "became",
+         "obsessed"
+        ],
+        [
+         "got",
+         "obsessed"
+        ],
+        [
+         "developed",
+         "obsession"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "How much were viewers who wanted to watch the 1859 event from a seat charged? They were charged {{gap}}",
+       "key": "twenty-five/25 cents and an extra twenty-five/25 cents // fifty/50 cents // half a dollar.",
+       "keywords": [
+        [
+         "25",
+         "cents",
+         "extra"
+        ],
+        [
+         "50",
+         "cents"
+        ],
+        [
+         "half",
+         "dollar"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "What did Blondin do after lying down on the rope on his back during the 1859 crossing? He {{gap}}",
+       "key": "raised himself on one/1 leg. // got up/stood up on one/1 leg.",
+       "keywords": [
+        [
+         "raised",
+         "himself",
+         "1",
+         "leg"
+        ],
+        [
+         "got",
+         "up",
+         "1",
+         "leg"
+        ],
+        [
+         "stood",
+         "up",
+         "1",
+         "leg"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "What was special about Blondin’s following crossings? That each one was more {{gap}}",
+       "key": "daring/dangerous/challenging/demanding/extreme than the one before/the previous one.",
+       "keywords": [
+        [
+         "daring"
+        ],
+        [
+         "dangerous"
+        ],
+        [
+         "challenging"
+        ],
+        [
+         "demanding"
+        ],
+        [
+         "extreme"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Once Blondin stopped half-way and did something very unusual. What exactly did he do? He {{gap}}",
+       "key": "cooked/made and ate an omelette.",
+       "keywords": [
+        [
+         "cooked",
+         "ate",
+         "omelette"
+        ],
+        [
+         "made",
+         "ate",
+         "omelette"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "What did he put into his wheelbarrow when he wheeled it across for the second time in 1860? A(n) {{gap}}",
+       "key": "sack of potatoes.",
+       "keywords": [
+        [
+         "sack",
+         "potatoes"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "What was the Duke of Newcastle’s reaction to Blondin’s challenge? He {{gap}}",
+       "key": "would/did not / wasn’t willing to accept it/the challenge/Blondin’s challenge.// would/did not / wasn’t willing to take it up.// would/did not / wasn’t willing to take up the challenge/Blondin’s challenge.// declined it/the challenge/Blondin’s challenge.// rejected it/the challenge/Blondin’s challenge.// refused it/the challenge/Blondin’s challenge.// said no (to it).// refused to hop/get in the wheelbarrow.",
+       "keywords": [
+        [
+         "would",
+         "not",
+         "accept"
+        ],
+        [
+         "did",
+         "not",
+         "accept"
+        ],
+        [
+         "wouldn't",
+         "accept"
+        ],
+        [
+         "didn't",
+         "accept"
+        ],
+        [
+         "wasn't",
+         "willing",
+         "accept"
+        ],
+        [
+         "would",
+         "not",
+         "take",
+         "up"
+        ],
+        [
+         "did",
+         "not",
+         "take",
+         "up"
+        ],
+        [
+         "wouldn't",
+         "take",
+         "up"
+        ],
+        [
+         "didn't",
+         "take",
+         "up"
+        ],
+        [
+         "wasn't",
+         "willing",
+         "take",
+         "up"
+        ],
+        [
+         "declined"
+        ],
+        [
+         "rejected"
+        ],
+        [
+         "refused"
+        ],
+        [
+         "said",
+         "no"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Who was the only person ready to take up Blondin’s challenge? It was {{gap}}",
+       "key": "Blondin’s/his mother // an old woman.",
+       "keywords": [
+        [
+         "mother"
+        ],
+        [
+         "old",
+         "woman"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1409 @@
+{
+ "formatVersion": 1,
+ "id": "2026-okt-emelt",
+ "year": 2026,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2026-10-15",
+ "code": "E2612",
+ "sourceFiles": {
+  "paper": "2026 - Emeltszintű október/e_angol_26okt_fl.pdf",
+  "key": "2026 - Emeltszintű október/e_angol_26okt_ut.pdf",
+  "audio": "2026 - Emeltszintű október/e_angol_26okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2026-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 6,
+     "instructions": [
+      "In the following article about a new Australian law, the headings of the paragraphs have been removed.",
+      "Your task is to write the letters of the titles (A-K) next to the appropriate numbers (1-6).",
+      "There are three extra headings that you do not need."
+     ],
+     "title": "AUSTRALIA’S SOCIAL MEDIA BAN",
+     "body": [
+      "{{0}} There are an estimated 440,000 young Australian teens on Snapchat. On Instagram, 350,000 of that age group are active users, and on TikTok, 200,000. On December 10th, 2025, those numbers drastically changed under a landmark law that requires users in Australia to be at least 16 to have accounts on social media services.",
+      "{{1}} The platforms currently affected by the law are Facebook, Instagram, Kick, Reddit, Snapchat, Threads, TikTok, Twitch, X and YouTube. Other services widely used by young teens were excluded, because Australia’s eSafety commissioner deemed them to be primarily for messaging or gaming.",
+      "{{2}} The burden is on the tech companies to deactivate younger users by utilizing age estimation and verification technologies in addition to the user’s self-reported age. Regulators have said the companies may rely on factors like how long the account has been active, whether it interacts with other underage users, or facial or voice analysis.",
+      "{{3}} Tech companies have criticized the law as being rushed and poorly designed, saying teens will no longer benefit from features they have been introducing to make their platforms a safer place, like parental controls. Most have said they still intend to comply with the law.",
+      "{{4}} There are no punishments for children or parents who continue to access social media after the law takes effect. The companies, however, can face fines of up to 50 million Australian dollars for not taking reasonable steps to prevent users younger than 16 from having accounts on their platforms.",
+      "{{5}} In promoting the law, Australian officials have highlighted concerns about social media being a vehicle for online bullying, an amplifier of anxiety, a conduit of peer pressure and a tool for potential predators.",
+      "{{6}} In a large-scale survey of 9- to 16-year-olds by the Australian Broadcasting Corporation, the nation’s public broadcaster, the vast majority of teens said that they did not think the ban would work. Three-quarters of all of the children polled said they planned on continuing to use social media."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Companies’ reactions"
+      },
+      {
+       "key": "B",
+       "text": "Teens’ reactions"
+      },
+      {
+       "key": "C",
+       "text": "Australia’s new law"
+      },
+      {
+       "key": "D",
+       "text": "Who will face penalties?"
+      },
+      {
+       "key": "E",
+       "text": "Social media services subject to the regulation"
+      },
+      {
+       "key": "F",
+       "text": "Platforms uniting against the law"
+      },
+      {
+       "key": "G",
+       "text": "Verifying users’ age"
+      },
+      {
+       "key": "H",
+       "text": "Parents to face consequences"
+      },
+      {
+       "key": "I",
+       "text": "Reasons behind the law"
+      },
+      {
+       "key": "K",
+       "text": "No more cyberbullying"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "D"
+      },
+      {
+       "n": 5,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2026-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "Read this article about how labels influence our food choices.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (7-15) from the list (A-N) below.",
+      "Remember that there are three extra letters that you do not need."
+     ],
+     "title": "DO LABELS IMPACT HOW WE EAT?",
+     "body": [
+      "You've likely heard the argument to eat less meat for the health of the planet. That's because red meat production {{0}}, and it's responsible for a significant amount of greenhouse gas emissions. Studies claim that if people swapped out 30 percent of the beef, lamb and goat meat they eat in favour of plant-based options, it could {{7}} necessary by 2050.",
+      "But if you're an omnivore starving while staring at a menu, it can be hard for the future of planet Earth to {{8}}. The language for meat, and beef in particular, sounds delicious, and labels like \"meat free,\" \"vegan\" and \"vegetarian\" {{9}}. These terms don't create positive associations with how the food is going to taste.",
+      "A recent report by the World Resources Institute suggests that food companies should {{10}} — which tend to make consumers feel like they're missing out — and more on their flavour, mouthfeel and origin, using words that {{11}}.",
+      "Fast-casual chain Panera Bread had a \"vegetarian black bean soup\" on the menu. Customers who tried it seemed to like it, but the name didn't {{12}}. So, Panera tried out a couple of options to see if they could make that soup sound more appealing. When they rebranded it as \"Cuban black bean soup\" in a test at 18 stores, sales went up 13 percent. “Vegetarian” doesn’t sound highly craveable, but “Cuban” makes people {{13}}, which makes them hungry. When the British supermarket chain Sainsbury's rebranded its \"meat-free sausage and mash\" as \"Cumberland-spiced veggie sausage and mash\" — a name that {{14}} — sales went up by a whopping 76 percent.",
+      "Several food companies are now doing similar name testing for vegetarian menu items. Words like \"Tuscan,\" and \"grilled\" may convince more customers {{15}}."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "seem to encourage a lot of new customers to try the dish"
+      },
+      {
+       "key": "B",
+       "text": "comes up with even more dramatic results"
+      },
+      {
+       "key": "C",
+       "text": "requires a huge amount of water, land and other resources"
+      },
+      {
+       "key": "D",
+       "text": "sound more appealing to the inner food critic within all of us"
+      },
+      {
+       "key": "E",
+       "text": "compete with the appeal of a big, juicy burger"
+      },
+      {
+       "key": "F",
+       "text": "to switch to sustainable food options"
+      },
+      {
+       "key": "G",
+       "text": "think of a flavour profile: a little bit of heat, a little bit of spice"
+      },
+      {
+       "key": "H",
+       "text": "limits the brain's ability to positively imagine how it might taste"
+      },
+      {
+       "key": "I",
+       "text": "focus less on the meat-free aspects of plant-based foods"
+      },
+      {
+       "key": "K",
+       "text": "makes them less likely to buy a product"
+      },
+      {
+       "key": "L",
+       "text": "evokes a traditional British sausage preparation"
+      },
+      {
+       "key": "M",
+       "text": "tend to be turnoffs for consumers"
+      },
+      {
+       "key": "N",
+       "text": "achieve half the reductions in greenhouse gas emissions from agriculture"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "N"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "M"
+      },
+      {
+       "n": 10,
+       "answer": "I"
+      },
+      {
+       "n": 11,
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "answer": "G"
+      },
+      {
+       "n": 14,
+       "answer": "L"
+      },
+      {
+       "n": 15,
+       "answer": "F"
+      }
+     ],
+     "source": "https://youngzine.org/article-briefs/do-labels-impact-how-we-eat"
+    },
+    {
+     "id": "2026-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about planning a trip with AI and then read the statements (16-23) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "THE DANGERS OF LETTING AI PLAN YOUR NEXT TRIP",
+     "body": [
+      "In just a few years, artificial intelligence (AI) tools like ChatGPT, Microsoft Copilot and Google Gemini have gone from a mere novelty to an integral part of trip planning for millions of people. 30% of travellers are now using AI tools and dedicated travel AI sites to help organise their trips.",
+      "While these programs can offer valuable travel tips, they can also lead people into some frustrating or even dangerous situations by providing incorrect information or steering them to a place that was created by the hard-wired imagination of a robot. A 2024 BBC article reported that AI trip planner Layla told users that there was an Eiffel Tower in Beijing and suggested a marathon route across Northern Italy that was entirely unfeasible. According to a 2024 survey, 37% of those who used AI to help plan their travels reported that it could not provide enough information, while around 33% complained their AI-generated recommendations included false information.",
+      "These issues stem from how AI generates its answers. According to Rayid Ghani, a professor in machine learning, large language models like ChatGPT work by analysing massive collections of text and putting together words and phrases that, statistically, feel like appropriate responses. Sometimes this provides perfectly accurate information, other times, you get what AI experts call a “hallucination”. However, it's often difficult for users to distinguish between the two. Recently, a young couple made the trek to a scenic cable car in Malaysia that they had seen on TikTok, only to find that no such structure existed. The video they'd watched had been entirely AI generated.",
+      "Currently, authorities are attempting to regulate how AI presents information to users, e.g. by including watermarks or other distinguishing features so viewers know when something has been altered or generated by AI. If these kinds of regulations do pass, they could make it easier for travellers to detect AI-generated images or videos.",
+      "One thing Ghani suggests is to be as specific as possible in your queries and verify absolutely everything. If an AI tool gives you a travel suggestion that sounds a little too perfect, double check it. Ironically, the time spent verifying AI information can easily make the process just as laborious as planning your trip the old-fashioned way."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "AI tools have been used for trip planning for a few years now.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The majority of tourists tend to turn to AI to plan their trips.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Using AI for planning one’s trip is mostly popular with younger tourists.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "AI tools may direct travellers to non-existent attractions.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "It is possible that an AI tool misleads tourists by misplacing a famous sight.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "It is usually evident for users whether AI informs them accurately about their searches.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Regular users of AI are familiar with the term “hallucination”.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "No measures are planned to introduce rules on AI tools.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "In order not to be misled by AI tools, users need to use other sources when they search for information.",
+       "answer": "A"
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20250926-the-perils-of-letting-ai-plan-your-next-trip"
+    },
+    {
+     "id": "2026-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this article about sharing meals.",
+      "Some sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (24-29) from the list (A-I) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "WHY HUMANS ENJOY A GOOD FEAST TOGETHER",
+     "body": [
+      "For thousands of years, humans have come together in small groups to feast on food. {{0}} We like to sit down together for a good tuck-in. Meals out with friends, dinner parties, holiday get-togethers where we regularly overindulge are all events we can relate to. {{24}} Sharing food as a behaviour is likely to go back to before the origin of our species. But giving food to those closest to you is not the same as having a meal together. Chimpanzees and bonobos, two of our closest primate relatives, also share food with their social groups. Humans seem to have added a number of complex social layers to this act.",
+      "{{25}} But no one is certain exactly when they first learned to cook. {{26}} But when someone has gone to the trouble of hunting or gathering food, putting together a fire, and then cooking over it, it implies that they may have a social group to help them with the many stages of this process. {{27}} As Robin Dunbar, an anthropologist at the University of Oxford found, those extra hours may have been golden opportunities for social bonding over food.",
+      "Whatever the details of its origins, eating meals together is linked to higher wellbeing, Dunbar found in a 2017 study that asked people living in the UK how often they ate meals with others. {{28}} “Eating triggers the brain's endorphin system, which is responsible for bonding between primates and humans,” Dunbar says. Eating together as a group enhances the endorphin effect in the same way that jogging together does. {{29}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Moreover, eating alone regularly results in loneliness and depression."
+      },
+      {
+       "key": "B",
+       "text": "Sharing meals is one of the most universal human activities."
+      },
+      {
+       "key": "C",
+       "text": "Why is it important and why do we still continue the tradition?"
+      },
+      {
+       "key": "D",
+       "text": "Estimates vary wildly, with the oldest suggested date being 1.8 million years ago."
+      },
+      {
+       "key": "E",
+       "text": "Its results suggest that eating with others more frequently correlates with greater satisfaction in life and having more friends to rely on for support."
+      },
+      {
+       "key": "F",
+       "text": "However, sharing a meal with someone you don’t like does not guarantee you will get on better afterwards."
+      },
+      {
+       "key": "G",
+       "text": "And once you are all seated around that fire, a warm, bright beacon in the darkness, you may find yourself staying awake later."
+      },
+      {
+       "key": "H",
+       "text": "This is because synchronised activity significantly increases endorphin output."
+      },
+      {
+       "key": "I",
+       "text": "The first meal shared by humans may have taken place around a campfire."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "I"
+      },
+      {
+       "n": 26,
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "answer": "G"
+      },
+      {
+       "n": 28,
+       "answer": "E"
+      },
+      {
+       "n": 29,
+       "answer": "H"
+      }
+     ],
+     "source": "https://www.bbc.com/future/article/20241126-why-humans-feel-the-need-to-feast-together"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2026-okt-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a unique holiday destination. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE INDIAN OCEAN'S 'PARADISE ON EARTH'",
+     "body": [
+      "On a recent visit to Perth, I mentioned to a local that I was {{0}} to Rottnest Island the next day. She sighed wistfully. \"I love it there,\" she said. \"You're going to love it too. It has a special kind of magic – everything slows down and you can {{1}} a little more deeply.\" And she was right. Rottnest Island, a {{2}} 19-sq-km isle off the coast of Western Australia, is, in fact, {{3}}.",
+      "Rottnest Island has been {{4}} car-free since 1931, and when I stepped off the ferry I found myself in another world. People immediately jumped onto bikes they'd brought with them or wandered off to hire one from Pedal and Flipper, which is the largest bike hire place in the southern hemisphere.",
+      "There was no {{5}} noise, no traffic and nothing to worry about. It was idyllic and {{6}} and everything I imagined a nostalgic care-free (and car-free) island holiday to be.",
+      "Once a well-kept secret from the rest of the world, in recent years Rottnest has become one of Australia's most Instagrammed destinations, {{7}} to a certain fuzzy- faced {{8}}: the quokka.",
+      "In 2013, Huffington Post dubbed the quokka \"the happiest animal in the world\", and the internet {{9}}. Quokkas – tiny marsupials found only in this small pocket of south-western Australia – seem to smile for selfies in a way that feels almost staged. \"Rotto\", as locals call it, became the hottest ticket in town, transforming from local secret to global sensation."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "head",
+       "example": true,
+       "accept": [
+        "heading"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "breath",
+       "accept": [
+        "breathe"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "peace",
+       "accept": [
+        "peaceful"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "believe",
+       "accept": [
+        "unbelievable"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "famous",
+       "accept": [
+        "famously"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "urban",
+       "accept": [
+        "urban"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "glory",
+       "accept": [
+        "glorious"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "thank",
+       "accept": [
+        "thanks",
+        "thankful"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "reside",
+       "accept": [
+        "resident"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "explosion",
+       "accept": [
+        "exploded"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20250424-the-indian-oceans-laid-back-paradise-on-earth"
+    },
+    {
+     "id": "2026-okt-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a popular dish in Britain. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-17) in the text."
+     ],
+     "title": "CHICKEN TIKKA MASALA: BRITAIN’S FAVOURITE CURRY",
+     "body": [
+      "Few dishes better capture the story of Britain’s relationship with “foreign” food {{0}} chicken tikka masala. Its roots {{10}} northern India, where pieces of chicken were marinated in yoghurt, spices and acid, {{11}} cooked in a fiery oven. Served as dry tikka, it had a strong, smoky and spicy taste. But when Indian and South Asian chefs began opening restaurants in postwar Britain, they found people preferred mild dishes with sauce {{12}} very spicy or strong flavours. {{13}} began the slow alchemy that turned tikka into tikka masala – the chicken in sauce – a bridge between two gastronomic worlds.",
+      "Legend {{14}} its birth to a Glasgow curry house in the 1970s, where a dissatisfied customer found his chicken tikka too dry. The chef responded {{15}} mixing a tin of tomato soup, cream and spices, and ladling it over the meat. The trick worked: the dish quickly became a bestseller. In that moment, a recipe – or perhaps a myth – was born. By the 1980s, chicken tikka masala {{16}} the national menu, appearing not just in curry houses {{17}} in supermarket freezers, cookbooks and even political speeches. Robin Cook once called it “a true British national dish,” a claim that felt provocative yet fitting."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "then"
+        },
+        {
+         "key": "B",
+         "text": "as"
+        },
+        {
+         "key": "C",
+         "text": "than"
+        },
+        {
+         "key": "D",
+         "text": "for"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "originate"
+        },
+        {
+         "key": "B",
+         "text": "appear from"
+        },
+        {
+         "key": "C",
+         "text": "comes from"
+        },
+        {
+         "key": "D",
+         "text": "lie in"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "so that"
+        },
+        {
+         "key": "B",
+         "text": "which"
+        },
+        {
+         "key": "C",
+         "text": "then"
+        },
+        {
+         "key": "D",
+         "text": "being"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "rather"
+        },
+        {
+         "key": "B",
+         "text": "not"
+        },
+        {
+         "key": "C",
+         "text": "in spite of"
+        },
+        {
+         "key": "D",
+         "text": "instead of"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "Thus"
+        },
+        {
+         "key": "B",
+         "text": "Whereas"
+        },
+        {
+         "key": "C",
+         "text": "After all"
+        },
+        {
+         "key": "D",
+         "text": "Not only"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "discovers"
+        },
+        {
+         "key": "B",
+         "text": "adapts"
+        },
+        {
+         "key": "C",
+         "text": "originates"
+        },
+        {
+         "key": "D",
+         "text": "ties"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "with"
+        },
+        {
+         "key": "B",
+         "text": "to"
+        },
+        {
+         "key": "C",
+         "text": "by"
+        },
+        {
+         "key": "D",
+         "text": "through"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "has joined"
+        },
+        {
+         "key": "B",
+         "text": "had entered"
+        },
+        {
+         "key": "C",
+         "text": "included"
+        },
+        {
+         "key": "D",
+         "text": "would introduce"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "also"
+        },
+        {
+         "key": "B",
+         "text": "sold"
+        },
+        {
+         "key": "C",
+         "text": "but"
+        },
+        {
+         "key": "D",
+         "text": "though"
+        }
+       ],
+       "answer": "C"
+      }
+     ],
+     "source": "https://www.independent.co.uk/life-style/food-and-drink/recipes/chicken-tikka-masala-history-britain-national-curry-week-"
+    },
+    {
+     "id": "2026-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the birth of a railway restaurant chain. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "HARVEY HOUSES: SERVING THE WEST",
+     "body": [
+      "Fred Harvey arrived in the United States in 1850 {{0}} a teenage immigrant from Britain. He quickly worked his way up in the restaurant industry, {{18}} waiter to manager. He had a successful business in St. Louis only {{19}} see it destroyed financially by the Civil War. By the time he opened his first railroad restaurant in 1876, he already had half a dozen careers behind him. But he knew the hospitality business {{20}} than most railway owners.",
+      "In 1875 Harvey partnered with J. P. Rice {{21}} establish eating houses at two stops along the Kansas Pacific Railroad. He then approached the Atchison, Topeka and Santa Fe Railway with a proposal to run dining establishments {{22}} passengers on the route of their western services. Harvey offered a high-quality menu when he opened his first restaurant for the Santa Fe in January 1876. A typical breakfast {{23}} of steak with eggs, hash brown potatoes, a stack of six pan-sized wheat cakes with maple syrup, and apple pie with coffee for dessert.",
+      "Harvey soon increased the number of restaurants, {{24}} later became known as Harvey Houses. Passengers were amazed when they arrived at some dusty depot and found food that matched that of quality restaurants back east. On {{25}} of this, Harvey also introduced dining cars, providing passengers with clean facilities, efficient service, and remarkable meals even when in motion."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "from"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "better"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "for",
+        "targeting",
+        "serving"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "consisted"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "top"
+       ]
+      }
+     ],
+     "source": "https://daily.jstor.org/harvey-houses-serving-the-west/"
+    },
+    {
+     "id": "2026-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a misbehaving raccoon. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "DRUNK RACCOON FOUND PASSED OUT IN VIRGINIA LIQUOR STORE",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "A liquor store employee in Virginia was startled on Saturday to discover",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "all smashed whisky bottles on the floor of the shop and, when entering the",
+       "answer": "all"
+      },
+      {
+       "n": 26,
+       "text": "bathroom, was an apparently drunk, sleeping raccoon. “He fell through",
+       "answer": "was"
+      },
+      {
+       "n": 27,
+       "text": "one of the ceiling tiles and had completely lost control, drinking",
+       "answer": "had"
+      },
+      {
+       "n": 28,
+       "text": "everything,” Samantha Martin, a local animal control officer, told to the",
+       "answer": "to"
+      },
+      {
+       "n": 29,
+       "text": "Daily Mail. The Hanover County animal protection and shelter confirmed",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "the raccoon was drunk and said it had since become sober. “After that a",
+       "answer": "that"
+      },
+      {
+       "n": 31,
+       "text": "few hours of some sleep and zero signs of injury (other than maybe a",
+       "answer": "some"
+      },
+      {
+       "n": 32,
+       "text": "hangover and poor life choices), he was safely released back to the wild,",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "hopefully having learned that either breaking and entering is not the",
+       "answer": "either"
+      },
+      {
+       "n": 34,
+       "text": "answer,” the agency said it. Raccoons have adapted to living in urban",
+       "answer": "it"
+      },
+      {
+       "n": 35,
+       "text": "areas to such an extent rate that they are now showing physical changes",
+       "answer": "rate"
+      }
+     ],
+     "outro": "that resemble early signs of domestication, a recent study found.",
+     "source": "https://www.theguardian.com/us-news/2025/dec/03/drunk-raccoon-virginia-liquor-store"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2026-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a teacher's account of an activity she did with her class.",
+      "Your task is to complete the sentences with two words indicated by the gaps, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_26okt_fl.mp3",
+      "start": 0,
+      "end": 606.5,
+      "clip": "hang/e_angol_26okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The teacher has been teaching at junior {{gap}} {{gap}} for 22 years.",
+       "gaps": [
+        [
+         "high"
+        ],
+        [
+         "school"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The new activity the teacher tried with her class is called \"The {{gap}} {{gap}}\" .",
+       "gaps": [
+        [
+         "baggage"
+        ],
+        [
+         "project"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Most students compared the feeling to carrying around {{gap}} things on your {{gap}}.",
+       "gaps": [
+        [
+         "hurtful"
+        ],
+        [
+         "shoulders"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "When they had written down their problems, they made a(n) {{gap}} of the {{gap}}, and threw it across the room.",
+       "gaps": [
+        [
+         "ball"
+        ],
+        [
+         "paper"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "The students then picked up a piece, and the teacher asked them to {{gap}} {{gap}} reading aloud what was written on it.",
+       "gaps": [
+        [
+         "take"
+        ],
+        [
+         "turns"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "The most terrible things some students mentioned were {{gap}} or {{gap}} in the family.",
+       "unordered": true,
+       "gaps": [
+        [
+         "death"
+        ],
+        [
+         "illness"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "The less serious problems they mentioned were not being satisfied with their {{gap}} and losing a(n) {{gap}}.",
+       "gaps": [
+        [
+         "looks"
+        ],
+        [
+         "pet",
+         "rabbit"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Sometimes the whole class would {{gap}}, because what they heard was really {{gap}}.",
+       "gaps": [
+        [
+         "cry"
+        ],
+        [
+         "difficult"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "After the activity the teacher told the students that they are not {{gap}}, they are loved and that they will always {{gap}} each other.",
+       "gaps": [
+        [
+         "alone"
+        ],
+        [
+         "support"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el, és csak akkor adható pont, ha mindkét szó elfogadható. A szavak sorrendje csak az 5. item esetében cserélhető fel.)"
+     }
+    },
+    {
+     "id": "2026-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will listen to the story of Brenda Lee, a famous pop star of the 60s.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_26okt_fl.mp3",
+      "start": 606.5,
+      "end": 1192.01,
+      "clip": "hang/e_angol_26okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Brenda Lee …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is an American singer."
+        },
+        {
+         "key": "B",
+         "text": "sings rockabilly, pop, country and Christmas songs."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Brenda Lee …",
+       "options": [
+        {
+         "key": "A",
+         "text": "started her career at the age of 5."
+        },
+        {
+         "key": "B",
+         "text": "had her first big hit at the age of 20."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "She …",
+       "options": [
+        {
+         "key": "A",
+         "text": "has sold more than 100 million records in the U.S."
+        },
+        {
+         "key": "B",
+         "text": "was named as one of the greatest singers of all time."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Brenda Lee …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was born after her father's tragic death."
+        },
+        {
+         "key": "B",
+         "text": "began performing to help to support her family. ."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "She …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had a powerful voice."
+        },
+        {
+         "key": "B",
+         "text": "sang very emotionally."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Brenda …",
+       "options": [
+        {
+         "key": "A",
+         "text": "earned more money than her mother as early as at the age of 10."
+        },
+        {
+         "key": "B",
+         "text": "had two brothers and two sisters."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "What helped Brenda's career was her …",
+       "options": [
+        {
+         "key": "A",
+         "text": "difficult early life."
+        },
+        {
+         "key": "B",
+         "text": "strong will."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "She was called \"Little Miss Dynamite\" because of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "her clear singing voice."
+        },
+        {
+         "key": "B",
+         "text": "the way she performed in live concerts."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2026-okt-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 10,
+     "instructions": [
+      "In this section you will hear an interview with Steven Spielberg, the director of Jurassic Park and other big movie blockbusters.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_26okt_fl.mp3",
+      "start": 1192.01,
+      "end": 1809.12,
+      "clip": "hang/e_angol_26okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Steven Spielberg is a very private man and rarely does interviews.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "Steven Spielberg was sometimes physically bullied at school.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Spielberg discovered that in movies imagination is extremely important.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Spielberg shot his first film when he was 17 years old.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "During the shooting of Jurassic Park, people thought that the theme was too childish.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "The producer of the film was worried because of the new technology Spielberg used.",
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "According to Steven, the great thing about the film is that it made the impossible feel real.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Spielberg's mother died just before the shooting of the film started.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "The loud noises in the movie were generated by a computer.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Spielberg has long since forgotten that he stuttered when he was young.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "The main message of his life is that we should never let our weaknesses limit us.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

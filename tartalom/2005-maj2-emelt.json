@@ -1,0 +1,1541 @@
+{
+ "formatVersion": 1,
+ "id": "2005-maj2-emelt",
+ "year": 2005,
+ "session": "május (második feladatsor)",
+ "level": "emelt",
+ "examDate": "2005-05-30",
+ "code": "0512",
+ "sourceFiles": {
+  "paper": "2005. Emeltszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angolV30_fl.pdf",
+  "key": "2005. Emeltszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angolV30_ut.pdf",
+  "audio": "2005. Emeltszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angolV30_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2005-maj2-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about an old Scottish castle.",
+      "Parts of some sentences have been removed.",
+      "Your task is to fill in the gaps from the list below.",
+      "Remember that there is an extra letter you do not need."
+     ],
+     "title": "Dracula’s ruined castle to be revamped as flats",
+     "body": [
+      "Standing above jagged rocks on the edge of a cliff and shrouded in mist, the ruin that was the inspiration for Dracula’s castle is about to rise from the dead. Slains Castle in north-east Scotland was once {{0}} with tall towers and cold, narrow passages that played host to glittering actors, musicians, authors and singers during the 19th century, including {{1}} Bram Stoker, the author of Dracula. Once home to the Earls of Errol, the 16th century castle fell into disrepair more than 70 years ago and is now {{2}}. Bram Stoker began visiting the area in the 1890s and was so impressed by the castle that in 1895 he began writing Dracula while staying at nearby Cruden Bay, basing {{3}} on the structure.",
+      "Stoker, who for several years either stayed at Cruden Bay or rented a cottage {{4}}, is known to have written at least four other supernatural stories {{5}} of the area. Now the castle, one of Scotland’s most dramatic ruins, is to be {{6}}. A group of local businessmen have spent hundreds of thousands of pounds {{7}} and they are planning to restore the castle, about 45 minutes from Aberdeen, and build 35 one-bedroom and two-bedroom luxury holiday apartments inside.",
+      "“It is a lovely area and we think that the castle should be restored before it becomes just rubble {{8}},” said Douglas Forrester, the architect behind the £5 million scheme."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "horror writer"
+      },
+      {
+       "key": "B",
+       "text": "a roofless ruin"
+      },
+      {
+       "key": "C",
+       "text": "an imposing Gothic building"
+      },
+      {
+       "key": "D",
+       "text": "original documents"
+      },
+      {
+       "key": "E",
+       "text": "at the nearby village of Whinnyfold"
+      },
+      {
+       "key": "F",
+       "text": "the Transylvanian castle of the evil vampire"
+      },
+      {
+       "key": "G",
+       "text": "inspired by the ghostly legends"
+      },
+      {
+       "key": "H",
+       "text": "rescued from neglect"
+      },
+      {
+       "key": "I",
+       "text": "on the cliffs"
+      },
+      {
+       "key": "K",
+       "text": "buying the ruin"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "answer": "F"
+      },
+      {
+       "n": 4,
+       "answer": "E"
+      },
+      {
+       "n": 5,
+       "answer": "G"
+      },
+      {
+       "n": 6,
+       "answer": "H"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article about Lord Nelson, the famous admiral.",
+      "Your task is to match the half sentences that follow the text.",
+      "There is an extra letter you do not need."
+     ],
+     "title": "THE WORLD’S BIGGEST LIES",
+     "body": [
+      "SIGNAL FAILURE: Admiral Lord Nelson, whose guts, gusto and thirst for glory would make even his closest historical rivals resemble shivering toe- dippers, was also blessed with a memorable way with words. “England expects that every man will do his duty,” read the rousing signal fluttering from his flagship, Victory, as the navy sailed into the momentous battle of Trafalgar in 1805, which saw the English fleet return victorious over Napoleon, though our cherished hero died. Nelson’s Column in Trafalgar square honours his great deeds, but there was one incident, more than four years earlier, that showed a talent for pretending ignorance. Having lost an arm trying to capture Santa Cruz in the Canary Islands, and been blinded in one eye during a bloody battle off Corsica (though, contrary to popular belief, he didn’t wear an eye patch), Nelson was at sea again in 1801, this time fighting the Danes at the Battle of Copenhagen. He was second in command to the formidable Sir Hyde Parker, who for many years had led operations in the West Indies and North American waters. So it was with some pluck that Nelson, at the height of battle, chose to ignore Parker’s signal to cease fighting and withdraw the ships. When his lieutenant pointed out the signal, Nelson took up his telescope, placed it to his blind eye and proclaimed that he could see no such signal, reputedly adding the aside: “I have a right to be blind sometimes.” Nelson continued the attack, defeated the Danes, won the day for England and then replaced Parker as commander in chief of the Baltic fleet. While his audacious ruse made its mark on history, it also made its imprint on our language: the incident is seen as the inspiration for the phrase “to turn a blind eye”."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "was already blind in one eye."
+      },
+      {
+       "key": "B",
+       "text": "did not stop him."
+      },
+      {
+       "key": "C",
+       "text": "who fought well, and spoke well."
+      },
+      {
+       "key": "D",
+       "text": "refused to obey."
+      },
+      {
+       "key": "E",
+       "text": "he worked with Parker in the West Indies."
+      },
+      {
+       "key": "F",
+       "text": "became commander in chief."
+      },
+      {
+       "key": "G",
+       "text": "to refuse to notice something."
+      },
+      {
+       "key": "H",
+       "text": "was his message to the fleet before the battle of Trafalgar."
+      },
+      {
+       "key": "I",
+       "text": "he continued fighting."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Lord Nelson was a brave and witty man",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "“England expects that every man will do his duty,”",
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "stem": "In the battle of Copenhagen Nelson",
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "stem": "The fact that he had suffered two terrible injuries in earlier battles",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "When his commander gave orders to retreat, Nelson",
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "stem": "Instead of withdrawing his forces",
+       "answer": "I"
+      },
+      {
+       "n": 14,
+       "stem": "After his victory against the Danes Nelson",
+       "answer": "F"
+      },
+      {
+       "n": 15,
+       "stem": "The phrase “to turn a blind eye” means",
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 10,
+     "instructions": [
+      "Read this article on why it is important for children to learn basic life skills.",
+      "Some half- sentences have been removed from the text.",
+      "Your task is to match the half-sentences below with the gaps in the text.",
+      "Remember that there is one more letter than you need."
+     ],
+     "title": "Can your child tie his laces?",
+     "body": [
+      "In the changing–room after a children’s swimming party last week, I was confronted {{0}} who couldn’t tie their own shoelaces. “Mum always does it,” they mumbled. It is much quicker, of course, to keep {{16}} – running their baths, cutting their sandwiches, tying their shoelaces – than suffer the laborious and boring process of teaching them to look after themselves. But it also traps them {{17}}.",
+      "A psychologist once told me that failing {{18}} should be classed as criminal negligence. Anyone who has witnessed the pride and self-confidence of a child who has ridden his first few bicycle yards, or doggy-paddled across the shallow end of a swimming pool, {{19}}. Each new skill is a stride towards independence – practically and psychologically.",
+      "But apart from their ability to operate {{20}}, today’s 10- year-olds are surely the most unskilled bunch of children who ever lived. How many – overprotected, driven door to door, passing their free time in organised play schemes and waited on hand and foot by busy parents – {{21}}?",
+      "It’s far more than just being able to complete a few simple tasks. Children, unlike stroppy teenagers, love learning {{22}}: it’s fun.",
+      "“The rewards are immediate,” says Kathleen Cox, a clinical psychologist in Sheffield. “They say ‘look, I’ve done it’ and bask in praise. I remember that I learnt to change a plug {{23}}.”",
+      "In addition, says Cox, each skill mastered can boost a child’s self-esteem, {{24}} who is capable and takes life in their stride.",
+      "“But instead, we are seeing a generation of 17-year-olds arriving at university with no idea how to look after themselves,” she says. Not only are they unable to feed themselves or do their own washing, but also their lives have been so protected and over-supervised that {{25}}. “Faced with something they can’t do, they don’t have the habit of thinking ‘let’s look for a way to do it’ but instead they panic and quickly get overwhelmed by life.”",
+      "Cox agrees that it is our modern obsession with safety and our lack of time which are keeping our children so dependent."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "can produce a basic meal, read a bus timetable or sew on a button"
+      },
+      {
+       "key": "B",
+       "text": "panic and quickly get overwhelmed by life"
+      },
+      {
+       "key": "C",
+       "text": "to teach your child to swim or ride a bike"
+      },
+      {
+       "key": "D",
+       "text": "housework may be done late at night"
+      },
+      {
+       "key": "E",
+       "text": "they don’t know how to tackle problems"
+      },
+      {
+       "key": "F",
+       "text": "in a state of perpetual babydom"
+      },
+      {
+       "key": "G",
+       "text": "by two nearly 10-year-olds"
+      },
+      {
+       "key": "H",
+       "text": "doing everything for your children"
+      },
+      {
+       "key": "I",
+       "text": "building a confident, can-do adult"
+      },
+      {
+       "key": "K",
+       "text": "the PlayStation or DVD player"
+      },
+      {
+       "key": "L",
+       "text": "just to impress my father"
+      },
+      {
+       "key": "M",
+       "text": "how to do things"
+      },
+      {
+       "key": "N",
+       "text": "can only agree"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "G"
+      },
+      {
+       "n": 16,
+       "answer": "H"
+      },
+      {
+       "n": 17,
+       "answer": "F"
+      },
+      {
+       "n": 18,
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "answer": "N"
+      },
+      {
+       "n": 20,
+       "answer": "K"
+      },
+      {
+       "n": 21,
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "answer": "M"
+      },
+      {
+       "n": 23,
+       "answer": "L"
+      },
+      {
+       "n": 24,
+       "answer": "I"
+      },
+      {
+       "n": 25,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés első mondatának párosítása",
+     "points": 5,
+     "instructions": [
+      "Read this article about the history of fire.",
+      "The first sentence of each paragraph has been removed.",
+      "Your task is to complete the text using sentences from the list below."
+     ],
+     "title": "The burning issue",
+     "body": [
+      "{{0}}\nNot only was it a technological achievement that provided humans with a wider choice of food and an extended geographical range, it was also a sign of intelligence. Keeping a fire going showed that we could plan ahead, and its presence on dark nights must have provided a unique focus of social interaction – the caveman’s equivalent of a modern party.",
+      "{{26}}\nIt provided heat and light and scared away dangerous predators at night. Fire also allowed humans to smoke and dry fish and meat, offering an early and invaluable form of food preservation. It also enabled them to experiment with a range of foods that could not be easily eaten raw or uncooked: the discovery of fire led to the invention of cooking.",
+      "{{27}}\nSome studies suggest that fire might have been used as long as 1.4 million years ago. This suggestion comes from the discovery of lumps of baked clay found together with animal bones and stone tools at a stone-age site in Kenya. However, some scientists now believe that a burning tree stump, or even volcanic heating, might be capable of creating the same effect.",
+      "{{28}}\nScientists have made these finds at several sites in Europe, such as Vertesszollos in Hungary and Menez-Dregan in northwest France.",
+      "{{29}}\nArchaeologists have found fragments of burnt flint and charred remnants from fruit trees at a site in Israel, where they believe humans had learnt to control fire as early as 790,000 years ago, much earlier than previously accepted.",
+      "{{30}}\nIt required the realisation that fire consumed fuel, which led to the logical conclusion that new fuel needed to be added to keep the fire from going out. Tending a fire also meant that these primitive human ancestors had to have a concept of the future. They must have realised that they had to collect firewood long before the fire went out. It was a true test of intelligent forward planning."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "As Peter Gardenfors of Lund University points out in his book, How Homo Became Sapiens, keeping a fire alive was an insightful art."
+      },
+      {
+       "key": "B",
+       "text": "The earliest and strongest evidence of the controlled use of fire using hearths dates to about 250,000 years ago, with the discovery of charred fragments of bone that must have been the result of being burnt at relatively high temperatures."
+      },
+      {
+       "key": "C",
+       "text": "Yet for all the importance attached to this critical point in human prehistory, there are wide disparities on the estimates of when exactly the first fire was kindled."
+      },
+      {
+       "key": "D",
+       "text": "More recent research, however, has pushed back the date at which fire was definitely controlled by more than half a million years."
+      },
+      {
+       "key": "E",
+       "text": "Fire’s importance cannot be overestimated."
+      },
+      {
+       "key": "F",
+       "text": "The discovery and control of fire by our early human ancestors is considered a milestone in man’s evolution."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "C"
+      },
+      {
+       "n": 28,
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "answer": "D"
+      },
+      {
+       "n": 30,
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2005-maj2-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a yoga teacher. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-9) in the text."
+     ],
+     "title": "THE YOGA TEACHER",
+     "body": [
+      "A lot of people are queuing to join Perumal Koshy’s yoga class. Perumal has been a yoga teacher {{0}} he was a teenager. He teaches {{1}} private clients and group classes in London.",
+      "‘Some people {{2}} by celebrities and want to tone up their bums, others want to connect on a deeper level. When I teach my students, it is not just my 15 years’ experience they {{3}} from: it’s the 30 years’ experience of my teacher and the 50 years’ experience of his teacher, going back {{4}} of years.’",
+      "‘I had one student who came to my class thinking we {{5}} just breathe and stretch. But then her “third eye” (an imaginary eye thought to be the centre of psychic vision) opened – a great spiritual experience. Other students {{6}} greater flexibility and strength, increased vitality, and find inner {{7}}. It is a great joy to see a student do this.’",
+      "‘I don’t discuss my personal life; I think a teacher {{8}} self-sufficient and giving. My students tell me their problems and I listen, which {{9}} me to get to know them. True teachers enable their students to become strong and independent.’"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "before"
+        },
+        {
+         "key": "B",
+         "text": "yet"
+        },
+        {
+         "key": "C",
+         "text": "since"
+        },
+        {
+         "key": "D",
+         "text": "for"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "any"
+        },
+        {
+         "key": "B",
+         "text": "both"
+        },
+        {
+         "key": "C",
+         "text": "plenty"
+        },
+        {
+         "key": "D",
+         "text": "either"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "need to be inspired"
+        },
+        {
+         "key": "B",
+         "text": "are inspired"
+        },
+        {
+         "key": "C",
+         "text": "inspired"
+        },
+        {
+         "key": "D",
+         "text": "have inspired"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "betray"
+        },
+        {
+         "key": "B",
+         "text": "prosper"
+        },
+        {
+         "key": "C",
+         "text": "provide"
+        },
+        {
+         "key": "D",
+         "text": "benefit"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "a thousand"
+        },
+        {
+         "key": "B",
+         "text": "thousand’s"
+        },
+        {
+         "key": "C",
+         "text": "thousands"
+        },
+        {
+         "key": "D",
+         "text": "thousands’"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "will"
+        },
+        {
+         "key": "B",
+         "text": "need"
+        },
+        {
+         "key": "C",
+         "text": "would"
+        },
+        {
+         "key": "D",
+         "text": "ought"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "conquer"
+        },
+        {
+         "key": "B",
+         "text": "accomplish"
+        },
+        {
+         "key": "C",
+         "text": "gather"
+        },
+        {
+         "key": "D",
+         "text": "achieve"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "pace"
+        },
+        {
+         "key": "B",
+         "text": "piece"
+        },
+        {
+         "key": "C",
+         "text": "peace"
+        },
+        {
+         "key": "D",
+         "text": "peach"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "must be"
+        },
+        {
+         "key": "B",
+         "text": "needs being"
+        },
+        {
+         "key": "C",
+         "text": "have to be"
+        },
+        {
+         "key": "D",
+         "text": "would be"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "lets"
+        },
+        {
+         "key": "B",
+         "text": "allows"
+        },
+        {
+         "key": "C",
+         "text": "enhances"
+        },
+        {
+         "key": "D",
+         "text": "prevents"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a short article. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (10-19) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "HERO OF THE MONTH",
+     "body": [
+      "Lydia Nash, the student who gave her £16,000 Who Wants to be a Millionaire? prize to charity ‘I didn’t want the Millionaire team to think I {{0}} some sort of do-gooder,’ says Lydia Nash. ‘But {{10}} was never any question that I wouldn’t give my winnings to the orphans I’d met during my gap year in Thailand.’",
+      "Oxford University student Lydia won £16,000 on the show in October 2003. But rather",
+      "{{11}} thoughts of paying off her student debts, {{12}} was the children of Pakkred, a tiny village outside Bangkok, who flashed into her mind when she heard Chris Tarrant’s familiar voice telling her {{13}} much she’d won.",
+      "She’d heard about the children’s suffering two years before, when she’d worked with Wasan Saenwian, a former Buddhist monk, {{14}} set up a foundation for children with disabilities in Thailand. His mission was to save the disabled orphans who {{15}} forced to live in horrendous, run-down orphanages. Thanks {{16}} the publicity Lydia generated and with the help of her donation, he can now finish building special centres",
+      "{{17}} the disabled children can get the medical support they need. Lydia went back to Thailand six months after her win. ‘The children were all playing football or watering the flowers. They were so grateful, {{18}} was fantastic. I’m not a saint. I think if anyone",
+      "{{19}} seen that poverty, they would have done the same,’ says Lydia."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "there"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "how"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "who",
+        "to"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "were"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "where",
+        "so"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "it",
+        "which"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "had"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about sea turtles. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (20-27).",
+      "Then write these words on the lines below in the appropriate form."
+     ],
+     "title": "SEA TURTLE TROUBLE",
+     "body": [
+      "Coastal communities around the world are losing millions of tourist dollars a year through the {{0}} of rare sea turtles, a report claims. The World Wide Fund for Nature (WWF) says living turtles are three times more {{20}} than dead ones because of the tourism they attract.",
+      "Of the seven marine turtle species, three are critically {{21}} and a further three are in considerable danger. Sea turtles are killed for their meat and shells, with money also earned through the {{22}} of leather and eggs. The leatherback turtle, which can grow up to 2.75m long, has declined by 90 % over the last 20 years.",
+      "Campaigners hope the WWF {{23}} will encourage better conservation methods. The WWF report draws an {{24}} comparison between killing turtles or collecting eggs and generating money through tourism. After studying 18 sites in Africa, Asia, Latin America and the Caribbean, it says that marine turtle tourism is an investment in livelihoods and far more {{25}} both financially and for the future of ocean wildlife. Half the sites, where turtles were killed for money, produced an average annual income from sea turtle {{26}} of $582,000. The other half, where turtles have been a tourist {{27}}, had an income of $1.65m.",
+      "The study confirms what has been suspected all along; sea turtles are worth more to local communities alive than dead."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "destroy",
+       "example": true,
+       "accept": [
+        "destruction"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "value",
+       "accept": [
+        "valuable"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "danger",
+       "accept": [
+        "endangered"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "sell",
+       "accept": [
+        "sale",
+        "selling",
+        "sales"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "find",
+       "accept": [
+        "findings"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "economy",
+       "accept": [
+        "economic"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "profit",
+       "accept": [
+        "profitable"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "produce",
+       "accept": [
+        "products"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "attract",
+       "accept": [
+        "attraction"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read an article about the history of tattoos. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE HISTORY OF TATTOOS",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "The word tattoo comes from the Tahitian ‘tatu’, which one",
+       "answer": "one"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "means ‘to mark something’.",
+       "answer": null
+      },
+      {
+       "n": 28,
+       "text": "It is believed that the first known tattoo has dates back 4,000",
+       "answer": "has"
+      },
+      {
+       "n": 29,
+       "text": "years B.C. to the body of a man that found preserved in a glacier.",
+       "answer": "that"
+      },
+      {
+       "n": 30,
+       "text": "Carbon dating and artefacts found near him suggest it the man",
+       "answer": "it"
+      },
+      {
+       "n": 31,
+       "text": "is over 5,300 years old.",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "Tattoos were found on Egyptian and Nubian mummies indicate that",
+       "answer": "were"
+      },
+      {
+       "n": 33,
+       "text": "the art of the tattooing was practised around 2000 B.C. and as the",
+       "answer": "the"
+      },
+      {
+       "n": 34,
+       "text": "Egyptian empire expanded, so well did the use of tattoos. The ancient",
+       "answer": "well"
+      },
+      {
+       "n": 35,
+       "text": "Greeks used to tattooing for communication among spies,",
+       "answer": "to"
+      },
+      {
+       "n": 36,
+       "text": "while before the Romans used tattoos to mark criminals and slaves.",
+       "answer": "before"
+      },
+      {
+       "n": 37,
+       "text": "In Europe, Pope Hadrian has banned tattooing as a barbaric custom",
+       "answer": "has"
+      },
+      {
+       "n": 38,
+       "text": "in the 8th century. For roughly four centuries after that there was",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "no any mention of it. Captain Cook brought news of the practice and",
+       "answer": "any"
+      },
+      {
+       "n": 40,
+       "text": "the word to Europe after seeing tattoos having performed in Tahiti.",
+       "answer": "having"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2005-maj2-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you are going to hear an interview with David, a keen birdwatcher.",
+      "Your task is to complete the sentences with no more than three words.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angolV30_fl.mp3",
+      "start": 0,
+      "end": 620.68,
+      "clip": "hang/e_angolV30_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "David's parents bought him a {{gap}} {{gap}} when he was twelve years old.",
+       "gaps": [
+        [
+         "bird"
+        ],
+        [
+         "book"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "If you go birdwatching, you need to know how to use your {{gap}} and {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "eyes"
+        ],
+        [
+         "ears"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "You shouldn't wear clothes which {{gap}} the birds.",
+       "accept": [
+        "frighten off",
+        "frighten away",
+        "frighten",
+        "scare off",
+        "scare away",
+        "scare",
+        "alarm"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "David's binoculars cost about {{gap}}.",
+       "accept": [
+        "£800",
+        "800 pounds",
+        "eight hundred pounds"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "David's binoculars weigh {{gap}}.",
+       "accept": [
+        "26 grams",
+        "26 grammes",
+        "twenty-six grams",
+        "twenty-six grammes"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "David's binoculars are {{gap}} magnification.",
+       "accept": [
+        "ten times",
+        "ten X",
+        "10 times",
+        "10 X",
+        "10X"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "In your notebook, you should draw pictures of what you see so that you can {{gap}} things later.",
+       "accept": [
+        "identify"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "A bird guide gives you {{gap}} and {{gap}} of all of the birds.",
+       "unordered": true,
+       "gaps": [
+        [
+         "descriptions"
+        ],
+        [
+         "pictures"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "The title of the book David is talking about is: ‘Where to Watch Birds in {{gap}}’ .",
+       "accept": [
+        "Eastern Europe"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "Ennél a feladatnál – mivel modatkiegészítésről van szó – csak olyan megoldásokat fogadhatunk el, amelyek jól illeszkednek a megadott mondatokba; legfeljebb a többesszámú alakok elhagyása tekintetében tehetünk engedményt (1., 3., 4., 5. és 7. itemek). Ragaszkodnunk kell viszont a 3. itemnél a pénznem megadásához (£ / pounds) és a 4. itemnél a mértékegység beírásához (grams / grammes)."
+     }
+    },
+    {
+     "id": "2005-maj2-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 12,
+     "instructions": [
+      "In this section, you are going to hear a success story from Belize.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angolV30_fl.mp3",
+      "start": 620.68,
+      "end": 1171.44,
+      "clip": "hang/e_angolV30_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Wales is bigger than Belize.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "It was in 1981 that Marie Sharp became interested in the hot-sauce business.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "Marie Sharp's husband worked for a citrus plant.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "The buyer didn't want the habanero peppers.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "Marie Sharp decided to use only natural ingredients.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Marie Sharp's friends didn't like the hot sauce that contained carrots.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Marie put her bottled hot sauces on the shopkeepers' shelves all by herself.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The sauce was first named after Marie Sharp's farm.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Marie didn't employ anybody to help her until 1986.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "1991 was an exceptionally successful year for Marie Sharp.",
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Marie Sharp's American distributor changed the name of the product from Melinda to Marie Sharp's Hot Sauce.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Marie has been producing her bottled sauce in the same factory since 1998.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Marie makes a point of employing women only.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj2-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 10,
+     "instructions": [
+      "In this section, you are going to hear a museum guide describing a picture painted by Monet.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angolV30_fl.mp3",
+      "start": 1171.44,
+      "end": 1799.06,
+      "clip": "hang/e_angolV30_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Monet's picture can be seen …",
+       "options": [
+        {
+         "key": "A",
+         "text": "to the left."
+        },
+        {
+         "key": "B",
+         "text": "to the right."
+        },
+        {
+         "key": "C",
+         "text": "in the middle."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Monet moved to Argenteuil …",
+       "options": [
+        {
+         "key": "A",
+         "text": "in summer."
+        },
+        {
+         "key": "B",
+         "text": "in winter."
+        },
+        {
+         "key": "C",
+         "text": "in spring."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Every year, the house cost him …",
+       "options": [
+        {
+         "key": "A",
+         "text": "one thousand francs."
+        },
+        {
+         "key": "B",
+         "text": "two thousand francs."
+        },
+        {
+         "key": "C",
+         "text": "seven thousand francs."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "He lived in the house …",
+       "options": [
+        {
+         "key": "A",
+         "text": "for a year."
+        },
+        {
+         "key": "B",
+         "text": "for three years."
+        },
+        {
+         "key": "C",
+         "text": "for seven years."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "The first impressionist group exhibition was in …",
+       "options": [
+        {
+         "key": "A",
+         "text": "1872."
+        },
+        {
+         "key": "B",
+         "text": "1873."
+        },
+        {
+         "key": "C",
+         "text": "1874."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "In the picture, the time of the day is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "morning."
+        },
+        {
+         "key": "B",
+         "text": "noon."
+        },
+        {
+         "key": "C",
+         "text": "afternoon."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 26,
+       "stem": "The light in the background of the picture is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "soft and pleasant."
+        },
+        {
+         "key": "B",
+         "text": "strong and blinding."
+        },
+        {
+         "key": "C",
+         "text": "unnaturally bright."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "The foreground of the picture is shady because of …",
+       "options": [
+        {
+         "key": "A",
+         "text": "a tree."
+        },
+        {
+         "key": "B",
+         "text": "a cloud."
+        },
+        {
+         "key": "C",
+         "text": "a parasol."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "According to the painter, the gentleman in the picture …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is Monet himself."
+        },
+        {
+         "key": "B",
+         "text": "was Monet's friend."
+        },
+        {
+         "key": "C",
+         "text": "lived nearby."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "According to the museum guide, Monet's first wife is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "relaxed."
+        },
+        {
+         "key": "B",
+         "text": "worried."
+        },
+        {
+         "key": "C",
+         "text": "angry."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 30,
+       "stem": "According to the guide, the flowers on the bench might have been cut …",
+       "options": [
+        {
+         "key": "A",
+         "text": "by the woman on the bench."
+        },
+        {
+         "key": "B",
+         "text": "by the painter."
+        },
+        {
+         "key": "C",
+         "text": "by the woman in the background."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

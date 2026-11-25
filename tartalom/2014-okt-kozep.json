@@ -1,0 +1,1311 @@
+{
+ "formatVersion": 1,
+ "id": "2014-okt-kozep",
+ "year": 2014,
+ "session": "október",
+ "level": "közép",
+ "examDate": "2014-10-16",
+ "code": "1419",
+ "sourceFiles": {
+  "paper": "2014 - Középszintű októberi/k_angol_14okt_fl.pdf",
+  "key": "2014 - Középszintű októberi/k_angol_14okt_ut.pdf",
+  "audio": "2014 - Középszintű októberi/k_angol_14okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 13,
+    "12": 14,
+    "13": 15,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 22,
+    "20": 23,
+    "21": 24,
+    "22": 25,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 30,
+    "27": 31,
+    "28": 32,
+    "29": 33
+   },
+   "tasks": [
+    {
+     "id": "2014-okt-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "In the following interview with the Korean singer Psy, whose “Gangnam Style” has become the most-liked video on YouTube, the questions have been removed.",
+      "Your task is to match the questions (A- I) and the answers (1-7).",
+      "There is one extra question that you do not need."
+     ],
+     "title": "HIS STYLE IS GANGNAM, AND VIRAL TOO",
+     "body": [
+      "{{0}}\nI released the song on July 15 and I didn’t see anything for 10 days. After 10 days a lot of celebrities celebrated my video on Twitter. At that time I realized this was happening.",
+      "{{1}}\nI studied hard to find something new. We spent like a month to find the ones we were satisfied with. In Korea there are huge expectations about my dancing. So it was a lot of pressure.",
+      "{{2}}\nI don’t think this dance is suitable for such an event. This is not a formal dance, this is a cheesy dance! But still, I appreciate that.",
+      "{{3}}\nOf course. We learn from your pop — we get inspired.",
+      "{{4}}\nNo, in the end I dropped out — classes were too early for me.",
+      "{{5}}\nMy lifetime favourite and hero is Freddie Mercury of Queen and I also like Bon Jovi, Aerosmith and Guns N’ Roses — I had a huge rock-band mania.",
+      "{{6}}\nI tried to compose a song — I was in the United States and it was all about hip-hop at the time, ’99-2000. But my music is a mixture right now, I’m doing rockable dance, or danceable rock.",
+      "{{7}}\nI’m a family man, I try to spend time with my two sons.",
+      "(http://www.nytimes.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Do you listen to much American music?"
+      },
+      {
+       "key": "B",
+       "text": "How did you move from that to your sound?"
+      },
+      {
+       "key": "C",
+       "text": "When did you get a sense that “Gangnam Style” would hit differently?"
+      },
+      {
+       "key": "D",
+       "text": "How did you come up with the dance moves?"
+      },
+      {
+       "key": "E",
+       "text": "Do you write the lyrics of your songs?"
+      },
+      {
+       "key": "F",
+       "text": "It’s also become quite a popular wedding dance, hasn’t it?"
+      },
+      {
+       "key": "G",
+       "text": "What kind of music did you listen to growing up?"
+      },
+      {
+       "key": "H",
+       "text": "What do you do when you’re not performing?"
+      },
+      {
+       "key": "I",
+       "text": "You studied at Boston University and Berkley College of Music. Did you graduate?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "G"
+      },
+      {
+       "n": 6,
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "sorba rendezés",
+     "points": 5,
+     "instructions": [
+      "Read the following text about the story of the dishwasher.",
+      "Your task is to put the sentences (A-G) in the correct order and write the letters in the boxes as shown in the example (0).",
+      "There is one extra letter that you do not need."
+     ],
+     "body": [
+      "The first dishwasher appeared in 1850 when a man named Joel Houghton made a machine out of wood that splashed water over the dishes inside when you turned a handle.",
+      "{{0}}",
+      "{{8}}",
+      "{{9}}\nShe also liked to entertain friends and frequently held social events at her home, which resulted in a lot of dishes needing to be washed each time.",
+      "{{10}}",
+      "{{11}}",
+      "{{12}}\nThere were small baskets made of wire for the plates and cups, and hot soapy water poured out on them like rain, which made the washing very effective.",
+      "She showed her invention in the 1893 World's Fair in Chicago, and won its highest award.",
+      "(http://ezinearticles.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "She built a machine which had a wooden wheel in a metal boiler which could either be turned by hand or driven by a power source."
+      },
+      {
+       "key": "B",
+       "text": "The cups and saucers she used for entertaining were expensive and were often broken by the servants while they were washing up."
+      },
+      {
+       "key": "C",
+       "text": "The second one was created by a man named L.A. Alexander in 1865, and this new dishwasher spun the dishes around in water when you turned a handle."
+      },
+      {
+       "key": "D",
+       "text": "The real breakthrough was made by Josephine Cochrane, a wealthy woman, whose grandfather was a famous inventor, and who was interested in engineering."
+      },
+      {
+       "key": "E",
+       "text": "Manufacturers have taken different ways to keep their dishwashers as quiet as possible."
+      },
+      {
+       "key": "F",
+       "text": "She got so fed up with this that she decided to build a dishwasher that could wash dishes quickly without breaking them."
+      },
+      {
+       "key": "G",
+       "text": "Both of these were very simple and made only of wood, and did not actually clean dishes very well."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "G"
+      },
+      {
+       "n": 9,
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-kozep-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about online dating then read the statements (13-20) following it.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if, on the basis of the article, it cannot be decided if it is true or false."
+     ],
+     "title": "IS INTERNET DATING KILLING ROMANCE?",
+     "body": [
+      "I’m not surprised to hear, this week, that Britain has the highest internet dating turnover of any European nation. More than nine million Britons have logged on to a dating site. Ten years ago, people would rather hang over a crocodile pit than admit they met online. But today the climate is much less disapproving. Dating has changed extremely fast. It had to. Not only does the UK have a high concentration of single people, but many of us work in virtually single-sex environments. Couples I know are too busy to have dinner parties. We lack the village hall dances our parents went to. Like people in the US, we welcome different ways to meet. A third of all new relationships start online. It’s our best matchmaker. Among my friends, I don’t know anyone who hasn’t met online.",
+      "Survey results reveal the British to be enlightened and open-minded about how we meet a significant other. As someone who fell in love online, I do think internet dating is a good thing. Of course it’s lovely to meet in “real life”. The fact that someone has walked across a room and chosen you is a great help. But that room is getting smaller. Sign up to a dating website and you have more than 1,000 matches. Of course you won’t always fancy each other. But you can at least be kind and friendly for an hour. To be honest, the first meeting isn’t a date. You’re meeting for a chat to see if you would like to spend more time together.",
+      "Yes, it can feel a bit like an audition. But it’s good to be put into a situation where you have to put your cards on the table. And I guess in my job I develop email relationships with so many people, it no longer seems odd to “meet” online.",
+      "(The Observer)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Internet dating is more popular in Britain than in other countries in Europe.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "Most Brits use the same dating agency to meet new people.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "British people used to be less open about online dating some ten years ago.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "There are too few places for people to meet.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The writer has persuaded a number of friends to sign up with an agency.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "The writer’s personal experiences of online dating are positive.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "‘Real life’ meetings carry more risks than those over the internet.",
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "stem": "It’s best to be honest in a first meeting and to be friendly only if you like the person.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The writer recommends playing games during the first meeting.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about saving the environment some parts of sentences have been left out.",
+      "Your task is to reconstruct the story by filling in the gaps from the list.",
+      "There is one extra letter that you will not need."
+     ],
+     "title": "THE GREEN THING",
+     "body": [
+      "Checking out at Tesco, the young cashier suggested to the older woman that she should bring her own grocery bags because plastic bags weren't good for the environment. The old woman {{0}}, \"We didn't have this green thing back in my earlier days.\" The assistant responded, \"That's our problem today. Your generation {{21}} about saving our environment for future generations.\"",
+      "The old woman was right − our generation didn't have the green thing in its day. Back then, we returned milk bottles, soft drink bottles and beer bottles to the shop. The shop sent them back to the plant {{22}}, so it could use the same bottles over and over. We walked up stairs because we didn't have a lift or escalator in every store and office building. We walked to the grocers and didn't climb into a 200-horsepower machine every time we {{23}}. Back then, we washed the baby's nappies because we {{24}}. We dried clothes on a line, not in an energy-gobbling machine burning up 2000 watts − wind and solar power really {{25}} back then. Kids got hand-me-down clothes from their brothers or sisters, not always brand-new clothing.",
+      "Back then, we had one TV or radio in the house − not a TV in every room. We didn't fire up an engine and burn petrol just {{26}}. When we were thirsty we drank from a tap instead of drinking from a plastic bottle of water {{27}}.",
+      "Back then, people took the bus − and kids rode their bikes to school or walked instead of {{28}}. We had one electrical socket in a room, not an entire bank of sockets to power a dozen appliances. And we didn't need to switch on a computerised gadget to receive a signal beamed from satellites 2,000 miles out in space {{29}} the nearest fish and chip shop.",
+      "But she was right. We didn't have the green thing in our day.",
+      "(gaasedal.worldpress.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "to be washed, sterilised and refilled"
+      },
+      {
+       "key": "B",
+       "text": "didn't have the throw-away kind"
+      },
+      {
+       "key": "C",
+       "text": "apologised and explained"
+      },
+      {
+       "key": "D",
+       "text": "throwing it away"
+      },
+      {
+       "key": "E",
+       "text": "did dry our clothes"
+      },
+      {
+       "key": "F",
+       "text": "in order to find"
+      },
+      {
+       "key": "G",
+       "text": "to cut the lawn"
+      },
+      {
+       "key": "H",
+       "text": "did not care enough"
+      },
+      {
+       "key": "I",
+       "text": "had to go two blocks"
+      },
+      {
+       "key": "K",
+       "text": "shipped from the other side of the world"
+      },
+      {
+       "key": "L",
+       "text": "turning their mums into a 24-hour taxi service"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "answer": "H"
+      },
+      {
+       "n": 22,
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "answer": "I"
+      },
+      {
+       "n": 24,
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "answer": "E"
+      },
+      {
+       "n": 26,
+       "answer": "G"
+      },
+      {
+       "n": 27,
+       "answer": "K"
+      },
+      {
+       "n": 28,
+       "answer": "L"
+      },
+      {
+       "n": 29,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 2,
+    "5": 3,
+    "6": 4,
+    "7": 4,
+    "8": 5,
+    "9": 5,
+    "10": 6,
+    "11": 7,
+    "12": 7,
+    "13": 8,
+    "14": 8,
+    "15": 9,
+    "16": 10,
+    "17": 10,
+    "18": 11,
+    "19": 11,
+    "20": 12,
+    "21": 13,
+    "22": 13,
+    "23": 14,
+    "24": 14,
+    "25": 15,
+    "26": 16,
+    "27": 16,
+    "28": 17,
+    "29": 17,
+    "30": 18
+   },
+   "tasks": [
+    {
+     "id": "2014-okt-kozep-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read about London Bridge, the oldest bridge in London. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There is one extra word that you do not need to use."
+     ],
+     "title": "LONDON BRIDGE",
+     "body": [
+      "Twenty-four bridges span the Thames in London, some of which are railway bridges, and {{0}} is a footbridge; however, most are {{1}} bridges. The oldest one is London Bridge.",
+      "The first London Bridge was probably built by the Romans sometime in the first century, with several rebuilds {{2}} the centuries. Eventually wooden bridges were replaced with a stone bridge, the first one being started in 1176 and finished {{3}} later.",
+      "Throughout its history, London Bridge has {{4}} a busy thoroughfare, and was once lined {{5}} shops. The road over the bridge was only about 4m wide between the shops. It was {{6}} narrow it was often jammed with people, horses and carts. In 1733 a 'keep {{7}} ' rule was enforced to keep the traffic moving. This {{8}} the rule of the road in Britain.",
+      "In 1757 the shops were demolished. A new granite bridge was built in 1831 to replace the old one. This was {{9}} down in 1967 and rebuilt in Lake Havasu City as a tourist attraction. The {{10}} concrete bridge opened in 1973.",
+      "(www.woodlands-junior.kent.sch.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BECAME"
+      },
+      {
+       "key": "B",
+       "text": "BEEN"
+      },
+      {
+       "key": "C",
+       "text": "THERE"
+      },
+      {
+       "key": "D",
+       "text": "BUILT"
+      },
+      {
+       "key": "E",
+       "text": "LEFT"
+      },
+      {
+       "key": "F",
+       "text": "OVER"
+      },
+      {
+       "key": "G",
+       "text": "PRESENT"
+      },
+      {
+       "key": "H",
+       "text": "PULLED"
+      },
+      {
+       "key": "I",
+       "text": "ROAD"
+      },
+      {
+       "key": "K",
+       "text": "SO"
+      },
+      {
+       "key": "L",
+       "text": "WITH"
+      },
+      {
+       "key": "M",
+       "text": "YEARS"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "I"
+      },
+      {
+       "n": 2,
+       "answer": "F"
+      },
+      {
+       "n": 3,
+       "answer": "M"
+      },
+      {
+       "n": 4,
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "answer": "L"
+      },
+      {
+       "n": 6,
+       "answer": "K"
+      },
+      {
+       "n": 7,
+       "answer": "E"
+      },
+      {
+       "n": 8,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-kozep-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read about Diwali, the Indian Festival of Light. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "INDIA'S FESTIVAL OF LIGHT",
+     "body": [
+      "Diwali is India's biggest and {{0}} important holiday of the year. The festival gets its name from the row (avali) of clay lamps (deepa) that Indians light outside their homes {{11}} symbolize the inner light that protects us {{12}} spiritual darkness. This festival is as important to Hindus {{13}} Christmas to Christians.",
+      "Diwali, celebrated in October or November each year, originated as a harvest festival {{14}} marked the last harvest of the year before winter. India was {{15}} poor agricultural society where people asked for the blessing of Lakshmi, the goddess of wealth, as they prayed for success {{16}} the beginning of a new financial year. Today, this practice extends to businesses all over the Indian subcontinent, which mark {{17}} day after Diwali as the first day of the new financial year.",
+      "Over the centuries, Diwali {{18}} become a national festival that {{19}} enjoyed by most Indians regardless of faith: Hindus, Jains, Buddhists and Sikhs.",
+      "Indians celebrate with family gatherings, fireworks, strings of electric lights, bonfires, sharing of sweets, and worship to Lakshmi. Some believe that Lakshmi wanders the Earth looking for homes {{20}} she will be welcomed. People open their doors and windows and light lamps to invite Lakshmi in.",
+      "(www.nationalgeographic.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "most"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "to",
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "from",
+        "against",
+        "in"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "as"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "that",
+        "which",
+        "and"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "a",
+        "the"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "at",
+        "before",
+        "for"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "is"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "where"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-kozep-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a crocodile adventure. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (21-30) in the text."
+     ],
+     "title": "AUSTRALIAN CROCODILE ELVIS STEALS LAWNMOWER",
+     "body": [
+      "An Australian crocodile named Elvis took matters into his own hands – or rather, jaws – when he became {{0}} by the sound of a lawnmower.",
+      "Elvis, who lives at the Australian Reptile Park {{21}} Sydney, attacked the mower, grabbing it from keeper Billy Collett. Pulling it under water, the five-metre saltwater crocodile “drowned” the machine. He then sat and watched his catch {{22}} an hour in his enclosure.",
+      "“{{23}} he was sure he had got it, he just sat there and guarded it,” said operations manager Tim Faulkner. “It was his prize, his trophy.” That, he {{24}} the BBC, was fairly typical crocodile behaviour.",
+      "But Elvis, who is {{25}} of the largest crocodiles in New South Wales, also likes his meat. While the keeper lured Elvis to the other end of the pool with kangaroo meat, Mr Faulkner {{26}} jump in, retrieve the badly chewed up mower and two teeth that Elvis {{27}} in the process.",
+      "Elvis is thought to be around 50 years old and has {{28}} a crazy croc. He was attacking fishing boats in Darwin harbour when he {{29}}, his keeper said.",
+      "Visitors {{30}} watch him being fed on weekends and holidays - but may not get to see him munching on a mower again any time soon.",
+      "(http://dailymail.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "attractive"
+        },
+        {
+         "key": "B",
+         "text": "amusing"
+        },
+        {
+         "key": "C",
+         "text": "annoyed"
+        },
+        {
+         "key": "D",
+         "text": "aware"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "nearby"
+        },
+        {
+         "key": "B",
+         "text": "near"
+        },
+        {
+         "key": "C",
+         "text": "close"
+        },
+        {
+         "key": "D",
+         "text": "next"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "as much as"
+        },
+        {
+         "key": "B",
+         "text": "since about"
+        },
+        {
+         "key": "C",
+         "text": "at last"
+        },
+        {
+         "key": "D",
+         "text": "for more than"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "Before"
+        },
+        {
+         "key": "B",
+         "text": "As well as"
+        },
+        {
+         "key": "C",
+         "text": "When"
+        },
+        {
+         "key": "D",
+         "text": "While"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "told"
+        },
+        {
+         "key": "B",
+         "text": "reported"
+        },
+        {
+         "key": "C",
+         "text": "said"
+        },
+        {
+         "key": "D",
+         "text": "explained"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "some"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "either"
+        },
+        {
+         "key": "D",
+         "text": "one"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "options": [
+        {
+         "key": "A",
+         "text": "can"
+        },
+        {
+         "key": "B",
+         "text": "was able to"
+        },
+        {
+         "key": "C",
+         "text": "should"
+        },
+        {
+         "key": "D",
+         "text": "had managed to"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "options": [
+        {
+         "key": "A",
+         "text": "had lost"
+        },
+        {
+         "key": "B",
+         "text": "has lost"
+        },
+        {
+         "key": "C",
+         "text": "would lose"
+        },
+        {
+         "key": "D",
+         "text": "was losing"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "options": [
+        {
+         "key": "A",
+         "text": "always been"
+        },
+        {
+         "key": "B",
+         "text": "ever been"
+        },
+        {
+         "key": "C",
+         "text": "been yet"
+        },
+        {
+         "key": "D",
+         "text": "been around"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "options": [
+        {
+         "key": "A",
+         "text": "has caught"
+        },
+        {
+         "key": "B",
+         "text": "was catching"
+        },
+        {
+         "key": "C",
+         "text": "has been caught"
+        },
+        {
+         "key": "D",
+         "text": "was caught"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 30,
+       "options": [
+        {
+         "key": "A",
+         "text": "ought to"
+        },
+        {
+         "key": "B",
+         "text": "might"
+        },
+        {
+         "key": "C",
+         "text": "can"
+        },
+        {
+         "key": "D",
+         "text": "need to"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": null,
+   "note": "Az útmutatóból nem olvasható ki átszámítási tábla ehhez a részhez.",
+   "tasks": [
+    {
+     "id": "2014-okt-kozep-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear some information about the New Wembley Stadium.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_14okt_fl.mp3",
+      "start": 0,
+      "end": 800.28,
+      "clip": "hang/k_angol_14okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The stadium can be found in … of London.",
+       "options": [
+        {
+         "key": "A",
+         "text": "the north"
+        },
+        {
+         "key": "B",
+         "text": "a former suburb"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The construction of the new stadium …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was completed in 2003."
+        },
+        {
+         "key": "B",
+         "text": "cost a record amount of money."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The capacity of the stadium is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "smaller for athletics events than for ball games."
+        },
+        {
+         "key": "B",
+         "text": "the second largest in the world."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "The roof of the stadium …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is only partly movable."
+        },
+        {
+         "key": "B",
+         "text": "rises 317 metres above the pitch."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "The stadium has …",
+       "options": [
+        {
+         "key": "A",
+         "text": "hundreds of eating and drinking facilities."
+        },
+        {
+         "key": "B",
+         "text": "more than a thousand toilets."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "The statue ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is of the captain of the 1966 England national football team."
+        },
+        {
+         "key": "B",
+         "text": "stands in the stadium."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Both Wembley Stadium and Wembley Arena host …",
+       "options": [
+        {
+         "key": "A",
+         "text": "concerts."
+        },
+        {
+         "key": "B",
+         "text": "sporting events."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "After dark, the stadium …",
+       "options": [
+        {
+         "key": "A",
+         "text": "can be seen from a distance of 30 miles when it’s lit up."
+        },
+        {
+         "key": "B",
+         "text": "has a warning light on its arch."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-kozep-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 6,
+     "instructions": [
+      "In this section, you will hear a story about a lucky lottery winner in New Zealand.",
+      "Your task will be to complete the sentences with the exact words you hear in the text. Write one word in each gap.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_14okt_fl.mp3",
+      "start": 800.28,
+      "end": 1206.45,
+      "clip": "hang/k_angol_14okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The winner’s Lotto ticket survived a trip through the guy’s washing {{gap}}.",
+       "accept": [
+        "machine"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "He had bought the ticket at a {{gap}} in the city.",
+       "accept": [
+        "supermarket"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "He shared the {{gap}} with three other winners.",
+       "accept": [
+        "jackpot"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "He found the ticket last {{gap}} after he washed his clothes.",
+       "accept": [
+        "weekend"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The ticket was in one of the pockets of his old {{gap}}.",
+       "accept": [
+        "jeans"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "He went to the city center to buy his {{gap}}.",
+       "accept": [
+        "groceries"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Christchurch was devastated in a huge {{gap}} in February.",
+       "accept": [
+        "earthquake"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2014-okt-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear an interview with a president of an American company called ‘Twice is Nice’ or TWIN for short.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_14okt_fl.mp3",
+      "start": 1206.45,
+      "end": 1795.37,
+      "clip": "hang/k_angol_14okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Phoenix-based company deals with cloning cats.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Cats can be cloned even before the death of the donor cat.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "The biopsy – removing some cells from the donor cat − is done at the company.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "The fresh new cells are stored on ice.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "On the average, only one in four implantation attempts is successful.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The new cat is born about 60 days after a successful implantation.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "A kitten cannot eat solid food for about 8 months.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The price of a clone of your cat is $50,000.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "You have to pay the full price only when you get the new cat.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "The interviewer thinks that this price is rather high.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "The company does about a hundred clonings a year at the moment.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "The company has been experimenting with cloning dogs for 5 years.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "TWIN expects to be able to clone dogs in about a year.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

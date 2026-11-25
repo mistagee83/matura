@@ -1,0 +1,1203 @@
+{
+ "formatVersion": 1,
+ "id": "2022-maj-kozep",
+ "year": 2022,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2022-05-05",
+ "code": "2111",
+ "sourceFiles": {
+  "paper": "2022 - Középszintű május/k_angol_22maj_fl.pdf",
+  "key": "2022 - Középszintű május/k_angol_22maj_ut.pdf",
+  "audio": "2022 - Középszintű május/k_angol_22maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 9,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 15,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 20,
+    "17": 21,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 26,
+    "22": 27,
+    "23": 28,
+    "24": 29,
+    "25": 31,
+    "26": 32,
+    "27": 33
+   },
+   "tasks": [
+    {
+     "id": "2022-maj-kozep-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a road incident and the sentences (1-7) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "FIVE-YEAR-OLD CAUGHT DRIVING PARENTS' CAR IN UTAH",
+     "body": [
+      "Five-year-old Adrian took the family car, and was only caught when police in Utah State stopped him on the freeway. A patrolman saw the car, which was crossing lanes at 50km/h, and made the car stop. He was shocked to discover the child behind the wheel, who said he was on his way to buy a Lamborghini.",
+      "The boy told police that he had left home after his mother refused to buy him the luxury car – lower-priced models cost over $180,000 –, which caused an argument. \"He decided he'd take the car and go to a car salesman in California to buy one himself,\" Utah Highway Patrol said on Twitter, \"but he only had 3 dollars in his wallet.\"",
+      "Camera footage posted by the local TV shows the car in traffic before stopping at the police signal. Highway patrol first thought it might be a driver with health problems behind the wheel. In the recording, the officer can then be heard saying \"How old are you? You're five years old?\" when he sees the boy. The boy was sitting at the very edge of the seat to be able to reach the pedals. He was stopped about five minutes' drive from home.",
+      "No-one was hurt in the incident. The boy’s parents were at work and he was in the care of a relative when he took the car. Police asked parents to make sure car keys are not easily accessible to children."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The boy was stopped by the police.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "The boy told the policeman he was going to a toy shop.",
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "stem": "The boy wanted his mother to buy an expensive car but she said 'no'.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "The boy wanted to get the car as a present for his birthday.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The boy’s wallet was empty.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "A video recording of the incident was made.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "The boy was injured in the car.",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "The boy’s parents were interviewed by TV reporters.",
+       "answer": "C"
+      }
+     ],
+     "source": "https://www.bbc.com/news/world-us-canada-52548236"
+    },
+    {
+     "id": "2022-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 7,
+     "instructions": [
+      "Read the following questions and answers about buying products online. Some of the questions have been removed.",
+      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (8-14).",
+      "There are two extra questions that you do not need."
+     ],
+     "title": "ONLINE SHOPPING – FREQUENTLY ASKED QUESTIONS",
+     "body": [
+      "Here you'll find answers to some of the questions we are asked most frequently. Please contact our customer service with any further questions you have.",
+      "{{0}}\nWe currently accept Visa, MasterCard and American Express. We also accept payment via PayPal.",
+      "{{8}}\nFor standard shipping, you should receive it within 4-5 business days.",
+      "{{9}}\nWe will notify you via email when your order is on the way. You can also track your delivery by clicking here.",
+      "{{10}}\nYes, but only within 30 minutes of placing it. You can, however, return any unwanted items to us for a refund once you receive them.",
+      "{{11}}\nUnfortunately, once you’ve placed your order, we are unable to accept any changes. This means we cannot alter your payment details or the quantity, size or colour of the item you’ve ordered.",
+      "{{12}}\nUnwanted items can be sent back to us in the original packaging within 35 days of purchase.",
+      "{{13}}\nWe are sorry to hear that your order did not arrive in perfect condition. Please contact our customer service team, who will be happy to help with your replacement order or refund.",
+      "{{14}}\nWhile we do our best to ship all orders in one package, there are times when orders will ship from different locations. Please allow a little extra time for the next parcel to arrive."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "How can I check the status of my order?"
+      },
+      {
+       "key": "B",
+       "text": "How much time do I have if I decide to return an item?"
+      },
+      {
+       "key": "C",
+       "text": "How can I pay for my order?"
+      },
+      {
+       "key": "D",
+       "text": "When will I get my refund?"
+      },
+      {
+       "key": "E",
+       "text": "Why did I only receive part of my order?"
+      },
+      {
+       "key": "F",
+       "text": "How can I change my order?"
+      },
+      {
+       "key": "G",
+       "text": "My order is damaged – what can I do?"
+      },
+      {
+       "key": "H",
+       "text": "Are the products available for international delivery?"
+      },
+      {
+       "key": "I",
+       "text": "How long will it take for me to get my order?"
+      },
+      {
+       "key": "K",
+       "text": "Can I cancel my order?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      },
+      {
+       "n": 9,
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "G"
+      },
+      {
+       "n": 14,
+       "answer": "E"
+      }
+     ],
+     "source": "https://www.clothingshoponline.com/faq"
+    },
+    {
+     "id": "2022-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read this article about public restrooms in Japan.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (15-21) from the list (A-K) after the text.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "JAPAN TRIES OUT SEE-THROUGH PUBLIC TOILETS",
+     "body": [
+      "In recent years, Japan has had many advanced and unusual toilets, {{0}}. Now one area of Tokyo is trying something completely new – public toilets with see-through walls. To be fair, the walls of the new public toilets aren’t always transparent. They are made of a special “smart glass”. When someone enters the toilet {{15}}, the glass becomes opaque – it clouds over so that no one can see in. When the door is unlocked, {{16}}. The idea of a transparent public toilet may sound unusual, but {{17}}. Without ever entering the restroom, people can now check to see how clean it is, and whether anyone else is using it. The new toilets have been built in two parks in Tokyo, which opened to the public this month. As the restrooms are lit up at night, they help provide light for the part of the parks {{18}}. So far, the public has had mixed reactions to the see-through restrooms. Some people are excited to use them, while {{19}} and could allow them to be seen when they’re using the toilet. Transparent toilets are just one of several new public toilet designs {{20}} in the coming months as part of the Tokyo Toilet Project. 16 designers and {{21}} to come up with new designs to improve the image of public restrooms in Tokyo. The important part of improving public restrooms isn’t just about changing styles. It means making sure they are clean and well-lighted as well."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "the see-through walls solve two problems"
+      },
+      {
+       "key": "B",
+       "text": "upgrade public restrooms across the country"
+      },
+      {
+       "key": "C",
+       "text": "including some with automatic lids and self-warming seats"
+      },
+      {
+       "key": "D",
+       "text": "where they are located"
+      },
+      {
+       "key": "E",
+       "text": "the glass clears up again"
+      },
+      {
+       "key": "F",
+       "text": "others worry that the walls might not work properly"
+      },
+      {
+       "key": "G",
+       "text": "architects have been asked"
+      },
+      {
+       "key": "H",
+       "text": "and locks the door"
+      },
+      {
+       "key": "I",
+       "text": "privacy is needed from time to time"
+      },
+      {
+       "key": "K",
+       "text": "that will be installed across Tokyo"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "answer": "H"
+      },
+      {
+       "n": 16,
+       "answer": "E"
+      },
+      {
+       "n": 17,
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "answer": "D"
+      },
+      {
+       "n": 19,
+       "answer": "F"
+      },
+      {
+       "n": 20,
+       "answer": "K"
+      },
+      {
+       "n": 21,
+       "answer": "G"
+      }
+     ],
+     "source": "https://newsforkids.net/articles/2020/08/27/japan-tries-out-see-through-public-toilets/"
+    },
+    {
+     "id": "2022-maj-kozep-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following article about award-winning wildlife photos and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "THE BEST WILDLIFE PHOTOS OF THE YEAR",
+     "body": [
+      "The Natural History Museum in London holds a yearly contest for the Wildlife Photographer of the Year, with over 10 categories. This year’s contest had 49,000 entries from around the world.",
+      "This year’s grand prize winner was Sergey Gorshkov’s picture of a Siberian tiger. Siberian tigers are endangered; only about 500 of them live in Russia’s far east. It took Mr. Gorshkov ten months to get a shot of one of them. It looks like the tiger is hugging the tree, but it’s actually trying to leave its smell as a way of communicating with other tigers.",
+      "Another endangered animal, a glass frog, was a category prize winner. Jaime Culebras said he had walked for four hours in the Andes mountains in the middle of a rainstorm, before he captured the picture of the frog snacking on a spider.",
+      "Mogens Trolle won the Animal Portraits prize with his picture of a young proboscis monkey, which is sitting calmly, enjoying the sunlight with its eyes closed. Proboscis monkeys look strange because the male’s nose can eventually grow so big that it hangs over its mouth and may have to be pushed aside to eat. They’re endangered and only found on Borneo and the islands nearby.",
+      "There is a separate contest for people under 18, known as the Young Wildlife Photographer of the Year. In this contest, pictures are judged in three separate age groups.",
+      "In the 10 and under category, Andrés Luis Dominguez Blanco of Spain won with his picture of a bird called a “stonechat” sitting on a bending plant. He asked his father to drive him to the field, in order to use the car as a hiding place for taking photographs. Andrés managed to take the picture without scaring the bird.",
+      "Another young winner, Liina Heikkinen had spent a day watching two adult foxes bring food to their cubs. After one parent brought home a goose, the cubs fought over it. Liina took a picture of a young fox eating the goose, while hiding away from his siblings."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "won a prize for a portrait of an animal with an unusual ‘face’."
+      },
+      {
+       "key": "B",
+       "text": "took a picture of a moment in the life of an animal family."
+      },
+      {
+       "key": "C",
+       "text": "received over 40 thousand entries this year."
+      },
+      {
+       "key": "D",
+       "text": "took a picture of a small endangered animal eating another animal."
+      },
+      {
+       "key": "E",
+       "text": "show wildlife underwater."
+      },
+      {
+       "key": "F",
+       "text": "was helped by another person to be able to take the picture."
+      },
+      {
+       "key": "G",
+       "text": "is held every two years."
+      },
+      {
+       "key": "H",
+       "text": "has three age categories."
+      },
+      {
+       "key": "I",
+       "text": "had been waiting for months to take the award-winning picture."
+      },
+      {
+       "key": "K",
+       "text": "was awarded in three categories."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Wildlife Photographer of the Year contest …",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Sergey Gorshkov …",
+       "answer": "I"
+      },
+      {
+       "n": 23,
+       "stem": "Jaime Culebras …",
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "stem": "Mogens Trolle …",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "The Young Wildlife Photographer of the Year contest …",
+       "answer": "H"
+      },
+      {
+       "n": 26,
+       "stem": "Andrés Luis Dominguez Blanco …",
+       "answer": "F"
+      },
+      {
+       "n": 27,
+       "stem": "Liina Heikkinen …",
+       "answer": "B"
+      }
+     ],
+     "source": "https://newsforkids.net/articles/2019/10/17/wildlife-photographer-of-the-year-awards/"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2022-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a Guinness World Record holder who builds houses of cards. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-8).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE HOUSE OF CARDS CHAMPION",
+     "body": [
+      "Bryan Berg is a cardstacking legend from Iowa. He began building card structures with his grandfather when he was about 8 years old. He built his first {{0}}, simple boxlike “houses,” with great {{1}}. But Berg didn’t give it up and worked hard to make the cards stand much {{2}} and longer. Today he holds the Guinness World Record for the largest playing card structure and the tallest house of cards — reaching the first of these {{3}} while in high school. Since then, he’s broken each of his {{4}} several times.",
+      "As a {{5}} cardstacker, Berg creates card structures around the world. They’re so strong, they can hold a cement brick, yet he never uses glue — nothing but thousands of regular playing cards. His most {{6}} creations include some really {{7}} structures, such as Cinderella’s castle from Walt Disney World, New York’s Empire State Building and the Guggenheim Museum, as well as these {{8}} Washington landmarks: the U.S. Capitol, the Lincoln Memorial and the Washington Monument."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "create",
+       "example": true,
+       "accept": [
+        "creations"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "difficult",
+       "accept": [
+        "difficulty"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "good",
+       "accept": [
+        "better"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "achieve",
+       "accept": [
+        "achievements"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "record",
+       "accept": [
+        "records"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "profession",
+       "accept": [
+        "professional"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "ordinary",
+       "accept": [
+        "extraordinary",
+        "out-of-the-ordinary",
+        "inordinary",
+        "unordinary"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "possible",
+       "accept": [
+        "impossible"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "fame",
+       "accept": [
+        "famous",
+        "famed"
+       ]
+      }
+     ],
+     "source": "https://www.washingtonpost.com/lifestyle/kidspost/cardstacking-pro-explains-how-he-turns-simple-playing-cards-into-"
+    },
+    {
+     "id": "2022-maj-kozep-L2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read a joke about choosing the right present.Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (9-16) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "A COSTLY PRESENT",
+     "body": [
+      "A rich man walks into a pet store for people with fat wallets. He explains that he’s looking {{0}} a birthday present for his friend. And his friend {{9}} to like birds, so he needs a very talented parrot. The store owner says that he’s just got some perfect birds and {{10}} the man over to a huge stand with three exotic parrots. “These birds are very special; the first one here on the right speaks three languages, knows a bunch of jokes, loves whisky and Cuban cigars. We’re selling him for five million dollars. The second one on the left speaks ten languages fluently, is a(n) {{11}} entertainer and loves kids and women. {{12}} it or not, his ancestry goes back all the way to a parrot {{13}} by Queen Elizabeth I, and trust me, these birds know {{14}} to pass an anecdote from generation to generation! This one goes for fifty million dollars. And finally, the third one, here in the middle, is the most special and expensive; we are selling him for a hundred million.”",
+      "Amazed, the guy shouts: “He {{15}} speak at least twenty languages!”",
+      "“You know, this one doesn’t talk {{16}} all, but those two call him Boss,” the owner explains."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACCEPTING"
+      },
+      {
+       "key": "B",
+       "text": "AS"
+      },
+      {
+       "key": "C",
+       "text": "FOR"
+      },
+      {
+       "key": "D",
+       "text": "AT"
+      },
+      {
+       "key": "E",
+       "text": "BELIEVE"
+      },
+      {
+       "key": "F",
+       "text": "COULD"
+      },
+      {
+       "key": "G",
+       "text": "CHARMING"
+      },
+      {
+       "key": "H",
+       "text": "HAPPENS"
+      },
+      {
+       "key": "I",
+       "text": "HOW"
+      },
+      {
+       "key": "K",
+       "text": "MUST"
+      },
+      {
+       "key": "L",
+       "text": "OWNED"
+      },
+      {
+       "key": "M",
+       "text": "TAKES"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "M"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 12,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "L"
+      },
+      {
+       "n": 14,
+       "answer": "I"
+      },
+      {
+       "n": 15,
+       "answer": "K"
+      },
+      {
+       "n": 16,
+       "answer": "D"
+      }
+     ],
+     "source": "https://upjoke.com/fluently-jokes"
+    },
+    {
+     "id": "2022-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read about the history of M&M’s. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "THE UNTOLD TRUTH OF M&M'S",
+     "body": [
+      "With so many colors and flavors to choose from, surely, there’s {{0}} pack of M&M’s for everyone. And it’s pretty safe {{17}} say almost everyone has tried these little candy-coated chocolates at some point in {{18}} lives.",
+      "M&M’s were first introduced in the U.S. {{19}} Forrest E. Mars in Newark, New Jersey in 1941. But the story started earlier. Frank C. Mars had founded a candy business in 1911, and his son, Forrest, took on the job years later. Forrest wasn’t too fond {{20}} how his father had been running the company, and he had a new candy idea of {{21}} own. So, he found a business partner to make the candy-coated chocolates.",
+      "Forrest Mars eventually paired up with Bruce Murrie, and they began making M&M’s at their new company Mars & Murrie, which has since put Twix, Snickers and lots of other brands on the market.",
+      "Original M&M’s and Peanut M&M’s were the only two flavors {{22}} quite some time, until Peanut Butter M&M’s debuted in 1989. Since then, more and more flavors {{23}} followed.",
+      "There are only a few brands {{24}} can say they made it to space. M&M’s is {{25}} of them. According to M&M’s history, M&Ms were actually the first candy to be chosen to go to space in 1981."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "a"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "their"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "his"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "that",
+        "which"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "one"
+       ]
+      }
+     ],
+     "source": "https://www.mashed.com/204242/the-untold-truth-of-mms/"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 24,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 6,
+    "5": 7,
+    "6": 8,
+    "7": 10,
+    "8": 11,
+    "9": 12,
+    "10": 14,
+    "11": 15,
+    "12": 17,
+    "13": 18,
+    "14": 19,
+    "15": 21,
+    "16": 22,
+    "17": 23,
+    "18": 25,
+    "19": 26,
+    "20": 28,
+    "21": 29,
+    "22": 30,
+    "23": 32,
+    "24": 33
+   },
+   "tasks": [
+    {
+     "id": "2022-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will listen to some information about the great white shark.",
+      "Your task will be to write one word in each of the gaps below using the exact words that you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_22maj_fl.mp3",
+      "start": 0,
+      "end": 614.53,
+      "clip": "hang/k_angol_22maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Great white sharks can be found mostly in {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "cool"
+        ],
+        [
+         "waters"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "They got their name from their {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "white"
+        ],
+        [
+         "stomach"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Some great white sharks can grow up to 6 metres, which is half the {{gap}} of a(n) {{gap}}.",
+       "gaps": [
+        [
+         "length"
+        ],
+        [
+         "bus"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "They have a streamlined shape and {{gap}} {{gap}} , which make them swim very fast.",
+       "gaps": [
+        [
+         "powerful"
+        ],
+        [
+         "tails"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "They have 300 {{gap}} {{gap}} arranged in up to seven rows.",
+       "gaps": [
+        [
+         "sharp"
+        ],
+        [
+         "teeth"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Besides seals, older and bigger great whites eat {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "small"
+        ],
+        [
+         "whales"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "A great white could smell one {{gap}} of {{gap}} in 100 litres of water.",
+       "gaps": [
+        [
+         "drop"
+        ],
+        [
+         "blood"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "A great white usually {{gap}} {{gap}} to two to ten pups.",
+       "gaps": [
+        [
+         "gives"
+        ],
+        [
+         "birth"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Great whites are safe from other sea creatures because they are on the top of the {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "food"
+        ],
+        [
+         "chain"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    },
+    {
+     "id": "2022-maj-kozep-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to some information about Freia Challis, a young BMX champion.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_22maj_fl.mp3",
+      "start": 614.53,
+      "end": 1165.36,
+      "clip": "hang/k_angol_22maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Freia is from the United States of America.",
+       "answer": "B"
+      },
+      {
+       "n": 9,
+       "stem": "Freia is very special because she is going to start secondary school at the age of 11.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "It was at Zolder in Belgium that Freia first got into the final.",
+       "answer": "B",
+       "alt": [
+        "C"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "Freia never rides her bike on Sundays.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Freia is sure that biking and doing homework won’t be a problem.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Freia used to go biking with her older brother.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Freia only has one brother and no sisters.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "Freia was born when BMX became part of the Olympics.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Freia’s BMX coach is sure that Freia will take part in the 2024 Olympics.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2022-maj-kozep-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear an interview with actress Ariana Richards, who played in the 1993 film classic, Jurassic Park.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decision about the answers."
+     ],
+     "audio": {
+      "file": "k_angol_22maj_fl.mp3",
+      "start": 1165.36,
+      "end": 1795.04,
+      "clip": "hang/k_angol_22maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In Jurassic Park, Ariana played …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Lex Murphy."
+        },
+        {
+         "key": "B",
+         "text": "Tim’s sister."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Ariana …",
+       "options": [
+        {
+         "key": "A",
+         "text": "still likes to talk about Jurassic Park."
+        },
+        {
+         "key": "B",
+         "text": "says that Jurassic Park was the first film she had been in."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Ariana was…",
+       "options": [
+        {
+         "key": "A",
+         "text": "very good at showing fear in the movie."
+        },
+        {
+         "key": "B",
+         "text": "criticised by the director in the T-rex scene."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "Ariana …",
+       "options": [
+        {
+         "key": "A",
+         "text": "told Spielberg that a clown had frightened her once."
+        },
+        {
+         "key": "B",
+         "text": "didn’t need to answer Spielberg’s question."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "Steven Spielberg …",
+       "options": [
+        {
+         "key": "A",
+         "text": "usually lets his assistants choose actors."
+        },
+        {
+         "key": "B",
+         "text": "didn’t give many instructions to Ariana."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "In Jurassic Park, … not computer generated.",
+       "options": [
+        {
+         "key": "A",
+         "text": "80% of the dinosaur scenes were"
+        },
+        {
+         "key": "B",
+         "text": "the scene of the T-rex with the jeep was"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Ariana says…",
+       "options": [
+        {
+         "key": "A",
+         "text": "she had already become interested in dinosaurs before making the film."
+        },
+        {
+         "key": "B",
+         "text": "there was a famous palaeontologist on the set much of the time."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Jack Horner…",
+       "options": [
+        {
+         "key": "A",
+         "text": "was an advisor for Jurassic Park."
+        },
+        {
+         "key": "B",
+         "text": "invited Ariana to Montana."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Ariana …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was the first to discover a velociraptor arm on the ground."
+        },
+        {
+         "key": "B",
+         "text": "has a velociraptor arm in her collection."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

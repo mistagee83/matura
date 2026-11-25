@@ -1,0 +1,1489 @@
+{
+ "formatVersion": 1,
+ "id": "2020-okt-emelt",
+ "year": 2020,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2020-10-22",
+ "code": "1912",
+ "sourceFiles": {
+  "paper": "2020 - Emeltszintű október/e_angol_20okt_fl.pdf",
+  "key": "2020 - Emeltszintű október/e_angol_20okt_ut.pdf",
+  "audio": "2020 - Emeltszintű október/e_angol_20okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2020-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 5,
+     "instructions": [
+      "In the following text about job interviews, the questions have been removed.",
+      "Your task is to match the questions to the answers.",
+      "There are two extra questions that you do not need."
+     ],
+     "body": [
+      "{{0}}\nThis question seems simple, but it's crucial. Make a little speech – one that’s concise and convincing and that shows exactly why you’re the right fit for the job. Start off with the 2-3 specific accomplishments or experiences of yours that you most want the interviewer to know about.",
+      "{{1}}\nAnother seemingly harmless interview question, this is actually a perfect opportunity to stand out and show your passion for and connection to the company. If it was through a professional contact, drop that person’s name, then share why you were so excited about it.",
+      "{{2}}\nYou must definitely go beyond the firm’s “About” page. Start with one line that shows you understand its goals, but then go on to make it personal. Say, “I’m personally drawn to this mission because…” or “I really believe in this approach because…” and share a personal example or two.",
+      "{{3}}\nYou must have a great answer to this one – and if you don't, you probably should apply elsewhere. First, identify a couple of key factors that make the role a great fit for you and then say what about this specific field motivates you the most.",
+      "{{4}}\nThis is a tough one, but one you can be sure you'll be asked. Definitely keep things positive, frame things in a way that shows that you're eager to move on and take on new opportunities and that the role you’re interviewing for is a better fit for you.",
+      "{{5}}\nSeemingly random questions like this come up in interviews generally because hiring managers want to see how you can think on your feet. There's no wrong answer here, but you'll immediately gain bonus points if your answer helps you share your strengths or personality – even if in a metaphorical way.",
+      "(www.themuse.com/)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Why are you leaving your current job?"
+      },
+      {
+       "key": "B",
+       "text": "Why do you want this job?"
+      },
+      {
+       "key": "C",
+       "text": "Can you tell me a little about yourself?"
+      },
+      {
+       "key": "D",
+       "text": "Where do you see yourself in five years?"
+      },
+      {
+       "key": "E",
+       "text": "How did you hear about the position?"
+      },
+      {
+       "key": "F",
+       "text": "What do you think we could do better?"
+      },
+      {
+       "key": "G",
+       "text": "What do you know about the company?"
+      },
+      {
+       "key": "H",
+       "text": "If you were an animal, which one would you want to be?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "E"
+      },
+      {
+       "n": 2,
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article about Sweden and then read the half sentences following it.",
+      "Your task is to match the half sentences based on what the article says.",
+      "There are three extra letters you will not need."
+     ],
+     "title": "THE OWL THIEVES OF SWEDEN",
+     "body": [
+      "Here is a dead-end job: Swedish bank robber. Two years ago there were only two bank robberies in all of Sweden, compared with 110 eight years earlier. Why the steep plunge? It is because the country is going cashless.",
+      "In 1661 Sweden became the first European country to print banknotes; several centuries later, it might become the first country to get rid of them. Card readers and mobile-payment apps are now used even in situations that were once reserved for dog-eared paper money and pocket change, like donating in church. Buses in Sweden don’t accept cash. Neither do street traders.",
+      "Though the government is still printing Sweden’s national currency, the kroner, two-thirds of Swedes say they feel that they could live without banknotes and coins. The kroner accounted for barely 2 percent of the value of all payments made last year and fewer than half of Swedish banks keep any cash on hand.",
+      "Which might be why Swedish thieves are undertaking more and more bizarre crimes, including a recent series of breaking into moving delivery trucks from a car travelling 50 miles an hour, its lights off to avoid detection. After several such attacks, the Swedish postal service, PostNord, managed to catch the highway robbers by wiring a truck with cameras, filling it with Apple products and waiting. On a road somewhere in southwest Sweden the robbers took the bait and cops moved in. “Thieves are more interested in high-value items now than cash,” says PostNord’s head of security.",
+      "Criminals have also shown new enthusiasm for the trade in endangered species. Crimes involving protected species recently reached their highest level in a decade. A single great gray owl ̶ known as the “phantom of the North” ̶ now goes for 1 million kroner (about $120,000) on the dark web.",
+      "Though it is no small irony that going cashless might inspire more crime rather than less, it is, from one perspective, predictable. Research indicates that as we gain “psychological distance” from money, our willingness to steal increases. Which helps explain why so many people cheat on taxes, inflate insurance claims and steal Post-it Notes from the office.",
+      "Or steal electronic goods from moving delivery trucks.",
+      "(The Atlantic)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "buses."
+      },
+      {
+       "key": "B",
+       "text": "crimes."
+      },
+      {
+       "key": "C",
+       "text": "bank robberies."
+      },
+      {
+       "key": "D",
+       "text": "burglaries."
+      },
+      {
+       "key": "E",
+       "text": "shops."
+      },
+      {
+       "key": "F",
+       "text": "the high street."
+      },
+      {
+       "key": "G",
+       "text": "cash."
+      },
+      {
+       "key": "H",
+       "text": "rare animals."
+      },
+      {
+       "key": "I",
+       "text": "the kroner."
+      },
+      {
+       "key": "K",
+       "text": "goods for the black market."
+      },
+      {
+       "key": "L",
+       "text": "banks."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Sweden has seen a sharp decrease in",
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "stem": "Fewer and fewer people in Sweden pay in",
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "stem": "These days you need a card also on",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Two out of three people in Sweden say they do not feel sentimental about",
+       "answer": "I",
+       "alt": [
+        "G"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "There may not be any banknotes to be found even in",
+       "answer": "L"
+      },
+      {
+       "n": 10,
+       "stem": "According to PostNord’s head of security, a recent trend is for thieves to steal",
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "stem": "The second increasingly popular target for criminals that the article mentions is",
+       "answer": "H"
+      },
+      {
+       "n": 12,
+       "stem": "People in general seem less prepared to steal money than to get involved in other",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about the British Museum some sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are three extra sentences you will not need."
+     ],
+     "title": "MY DATE WITH MICHELANGELO",
+     "body": [
+      "On the fourth floor of the British Museum, in a quiet corner far from the mummies and the Rosetta Stone, is an unremarkable door. {{0}} I first opened the door a few years ago, holding a piece of paper with some scribbled directions. {{13}}",
+      "Instead, after a brief ID check, I was shown into a room with a glass ceiling, elegantly carved gallery and cabinets stocked with cardboard boxes. {{14}} Two million prints and 50,000 drawings are stored here, from a Virgin and Child by Rembrandt to a drawing of a philosopher by Michelangelo. {{15}}",
+      "But unlike most others of its kind, this one is not locked away. The British Museum’s Study Room happens to be London’s most democratic and accessible collection of masterpieces. {{16}} Visitors don’t need a membership card, a reader’s pass or a letter supporting their research project. They don’t have to keep a safe distance from the art to prevent the alarm going off.",
+      "Yet no one I mentioned it to has heard of it. {{17}} According to the museum’s website, visitors may ask to see any print or drawing. But relatively few people seem to find their way here. Conservators are probably grateful for that. {{18}} But there is no substitute for looking at an original. No screen image can quite replace the time-travel feel of being in the presence of the work itself. {{19}} The sketch shows a bearded, cloaked man holding a roundish object: perhaps a rock, a crystal or a skull. {{20}} I looked at it until the archivist told me they were about to close for the day.",
+      "(www.bbc.com )"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Any member of the public can walk in and ask to see the works."
+      },
+      {
+       "key": "B",
+       "text": "That the drawing was unfinished made it more interesting."
+      },
+      {
+       "key": "C",
+       "text": "Most visitors simply walk past it."
+      },
+      {
+       "key": "D",
+       "text": "Of London’s many secrets its hidden reading rooms are the most magical."
+      },
+      {
+       "key": "E",
+       "text": "In fact, people tend to express surprise that a place like that even exists."
+      },
+      {
+       "key": "F",
+       "text": "At the time of my first visit I was working on a novel."
+      },
+      {
+       "key": "G",
+       "text": "The archivist returned with a set of white gloves and the prints."
+      },
+      {
+       "key": "H",
+       "text": "Those boxes hold Britain’s national collection of prints and drawings."
+      },
+      {
+       "key": "I",
+       "text": "I was certain the guards would rush over to explain that this area was closed to the public."
+      },
+      {
+       "key": "K",
+       "text": "On this first visit I asked to see Michelangelo’s ink drawing of the philosopher."
+      },
+      {
+       "key": "L",
+       "text": "The museum describes it as one of the world’s top three collections of its kind."
+      },
+      {
+       "key": "M",
+       "text": "Every time the prints are taken from their protective folders and exposed to light, they fade a little."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "answer": "I"
+      },
+      {
+       "n": 14,
+       "answer": "H"
+      },
+      {
+       "n": 15,
+       "answer": "L"
+      },
+      {
+       "n": 16,
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "answer": "E"
+      },
+      {
+       "n": 18,
+       "answer": "M"
+      },
+      {
+       "n": 19,
+       "answer": "K"
+      },
+      {
+       "n": 20,
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article about climate change and then read the statements (21-29) following it.",
+      "Your task is to decide whether the statements are true or not.",
+      "Mark a statement A if it is true according to the article.",
+      "Mark it B if it is false according to the article.",
+      "Mark it C if there is not enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "NOT SAY CLIMATE REPORT: SCIENTISTS URGE DEEP RAPID CHANGE TO LIMIT WARMING",
+     "body": [
+      "It’s the final call, say scientists, the most extensive warning yet on the risks of rising global temperatures. Their dramatic report on keeping that rise under 1.5°C states that the world is now completely off track, heading instead towards 3°C.",
+      "Staying below 1.5°C will require “rapid, far-reaching and unprecedented changes in all aspects of society”. It will be hugely expensive, the report says, but the window of opportunity is not yet closed.",
+      "After three years of research and a week of discussions with government officials from across the globe at a meeting in South Korea, the Intergovernmental Panel on Climate Change has issued a special report on the impact of global warming of 1.5°C. The critical 33-page Summary for Policymakers is the result of difficult negotiations between climate researchers determined to stick to what their studies have shown and political representatives more concerned with economies and living standards. Despite the inevitable compromises, there are some key messages that come through loud and clear.",
+      "The first is that limiting warming to 1.5°C brings a lot of benefits compared with limiting it to 2°C. It really reduces the impacts of climate change in very important ways.",
+      "The second is the unprecedented nature of the changes that are required if we are to limit warming to 1.5°C – changes to energy systems, changes to the way we manage land, changes to transportation.",
+      "“Scientists might want to write in capital letter, ‘ACT NOW IDIOTS’, but they need to say that with facts and numbers,” said an observer at the negotiations. “And they have.”",
+      "The researchers have used these facts and numbers to paint a picture of the world with a dangerous fever, caused by humans. We used to think if we could keep warming below 2°C this century, then the changes we would experience would be manageable. Not any more. This study says that going past 1.5°C is risking the planet’s liveability. And the 1.5°C temperature limit could be passed in little more than a decade.",
+      "We can stay below it but it will require urgent, large-scale changes from governments and individuals, plus we will have to invest a massive pile of cash every year, around 2.5% of global GDP, for two decades. Even then, we will still need machines, trees and plants to capture carbon from the air that we can then store deep underground. Forever!",
+      "(https://bbc.com )"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The new climate report is more dramatic than anything before it.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "The report warns that global warming might reach 3°C.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "It is still just possible to limit global warming to 1.5°C.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Politicians believe that a more realistic 2°C target should be set.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Minor changes in energy use, transport and agriculture will not solve the problem.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "The report was published after three years of negotiations between scientists and politicians.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "Scientists use very strong language in the report, calling politicians idiots.",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "If the 1.5°C limit is exceeded, the earth could become uninhabitable.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "The scale of the problem is such that individuals can do nothing about it.",
+       "answer": "B"
+      },
+      {
+       "n": 29,
+       "stem": "Unless immediate steps are taken, it will cost about 2.5% of the world's GDP to stay within the 1.5°C limit.",
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2020-okt-emelt-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the famous painting The Scream by Norwegian painter Edvard Munch (1863-1944). Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE SCREAM",
+     "body": [
+      "Edvard Munch, one of the first {{0}}, painted several versions of The Scream in 1893. The painting was part of his \"Frieze of Life\" series, in which {{1}}, death, fear, love and melancholy are central themes.",
+      "According to Munch, the {{2}} for his painting was drawn from a past event. The Scream was a result of the {{3}} and fear he felt on a day while walking with two friends. The {{4}} atmosphere, which he had hoped to enjoy, was suddenly interrupted by {{5}} in the sky, caused by the setting sun.",
+      "\"Suddenly the sky turned blood red. I paused, feeling {{6}}, and leaned on the fence. There was blood and tongues of fire above the city. My friends walked on and I stood there {{7}} with fear. And I heard an infinite scream passing through nature,\" said Munch.",
+      "Astronomers believe the red sky was caused by a {{8}} eruption half a world away. Donald Olson, a physics and astronomy professor at Texas State University, and his colleagues determined that debris {{9}} into the atmosphere by the great eruption at the island of Krakatoa, in modern Indonesia, created bright red twilights in Europe from November 1883 to February 1884.",
+      "The painting has even inspired Hollywood: the mask of Ghostface – a character in the horror series Scream – is based on it.",
+      "(http://www.woodlands.kent.sch.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "expression",
+       "example": true,
+       "accept": [
+        "expressionists"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "sick",
+       "accept": [
+        "sickness"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "inspire",
+       "accept": [
+        "inspiration"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "anxious",
+       "accept": [
+        "anxiety",
+        "anxiousness"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "peace",
+       "accept": [
+        "peaceful"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "change",
+       "accept": [
+        "changes"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "exhaust",
+       "accept": [
+        "exhausted",
+        "exhaustion"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "tremble",
+       "accept": [
+        "trembling",
+        "atremble",
+        "a-tremble"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "volcano",
+       "accept": [
+        "volcanic",
+        "volcano’s"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "throw",
+       "accept": [
+        "thrown"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about an Italian bank manager who stole from the rich to give to the poor. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-17) in the text."
+     ],
+     "title": "ITALIAN 'ROBIN HOOD'",
+     "body": [
+      "Gilberto Baschiera was the bank manager in the small town of Forni di Sopra, where he stole altogether about €1m {{0}} seven years. He took small amounts from wealthy clients and transferred {{10}} those who couldn't qualify for credit. But he never pocketed a penny for himself.",
+      "The story started in 2009, during the global financial crisis. {{11}} a citizen of the town came to him looking for a loan – but did not qualify –, Baschiera would \"add\" money to their account so that they would qualify for credit. Grateful customers {{12}} to repay the money quickly. He trusted that the people he was helping were {{13}} to be able to pay back – but some of them didn't. His employer eventually discovered the hole in the accounts. \"He explained to authorities why {{14}} it,\" Baschiera's lawyer said. \"He was convinced he could help people, but now he's lost his job and his home. He thinks he wouldn't do it again\".",
+      "Baschiera was sentenced to two years for his crimes. {{15}} it was his first offence and the sentence is relatively short, he will not be imprisoned under Italian law. The fact that he did not personally benefit from the crime at all also helped him avoid {{16}} to prison.",
+      "\"I have always thought that in addition to protecting savers, our task was to help those {{17}} need,\" Baschiera said, according to the Italian newspaper Corriere Della Serra.",
+      "(www.bbc.com/news)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "since"
+        },
+        {
+         "key": "B",
+         "text": "during"
+        },
+        {
+         "key": "C",
+         "text": "over"
+        },
+        {
+         "key": "D",
+         "text": "for"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "to"
+        },
+        {
+         "key": "C",
+         "text": "them for"
+        },
+        {
+         "key": "D",
+         "text": "them to"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "Even if"
+        },
+        {
+         "key": "B",
+         "text": "Because"
+        },
+        {
+         "key": "C",
+         "text": "Although"
+        },
+        {
+         "key": "D",
+         "text": "When"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "allowed"
+        },
+        {
+         "key": "B",
+         "text": "agreed"
+        },
+        {
+         "key": "C",
+         "text": "accepted"
+        },
+        {
+         "key": "D",
+         "text": "admitted"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "considering"
+        },
+        {
+         "key": "B",
+         "text": "having"
+        },
+        {
+         "key": "C",
+         "text": "willing"
+        },
+        {
+         "key": "D",
+         "text": "going"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "he had done"
+        },
+        {
+         "key": "B",
+         "text": "has he done"
+        },
+        {
+         "key": "C",
+         "text": "he would have done"
+        },
+        {
+         "key": "D",
+         "text": "did he do"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "But"
+        },
+        {
+         "key": "B",
+         "text": "Despite"
+        },
+        {
+         "key": "C",
+         "text": "Since"
+        },
+        {
+         "key": "D",
+         "text": "If"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "being sent"
+        },
+        {
+         "key": "B",
+         "text": "to be sent"
+        },
+        {
+         "key": "C",
+         "text": "sending"
+        },
+        {
+         "key": "D",
+         "text": "to send"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "at"
+        },
+        {
+         "key": "B",
+         "text": "in"
+        },
+        {
+         "key": "C",
+         "text": "off"
+        },
+        {
+         "key": "D",
+         "text": "with"
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the world’s oldest undamaged shipwreck. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (18-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "WORLD'S OLDEST UNDAMAGED SHIPWRECK DISCOVERED",
+     "body": [
+      "Archaeologists have found the world’s oldest undamaged shipwreck {{0}} the bottom of the Black Sea, where {{18}} appears to have lain undisturbed for more than 2,400 years. The five-metre vessel, thought to be ancient Greek, {{19}} discovered with its mast and rowing benches all present and correct just over a mile below the surface. A lack {{20}} oxygen at that depth preserved it, the researchers said.",
+      "“A ship surviving undamaged from the classical world, lying in over 2km of water, is something I would never {{21}} believed possible,” said Professor Jon Adams, the principal investigator with the team that made the find. “This will change our understanding of shipbuilding and seafaring in the ancient world.” The team reportedly said they intended to leave the vessel {{22}} it was found. They added that a small piece had been carbon dated and the results “confirmed it as the oldest intact shipwreck known to mankind”.",
+      "Researchers believe that the ship is similar to a type of trading ship that has previously {{23}} seen only on the side of items of ancient Greek pottery such as the ‘Siren Vase’. The vase dates from about the same period and shows a ship like that with Odysseus tied to the mast {{24}} resist the sirens’ songs.",
+      "The ship was among more than 60 shipwrecks found by the international team of archaeologists and scientists, {{25}} has been on a three-year mission to explore the Black Sea to gain a greater understanding of the impact of prehistoric sea-level changes.",
+      "(https://www.theguardian.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "was",
+        "got"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "where",
+        "as"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "been"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "which"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an anecdote about Alexandre Dumas (1802-1870). In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "THE SHOT",
+     "intro": "Alexandre Dumas was a French novelist and playwright. He was one of the most prolific writers ever: he wrote hundreds of plays,",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "novels (among which The Count of Monte Cristo, The Black Tulip,",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "and The Three Musketeers were such outstandingly successful), travel",
+       "answer": "such"
+      },
+      {
+       "n": 26,
+       "text": "diaries and several of children's stories. Here is an anecdote about him.",
+       "answer": "of"
+      },
+      {
+       "n": 27,
+       "text": "Dumas's quarrel with a young politician became so much bitter",
+       "answer": "much"
+      },
+      {
+       "n": 28,
+       "text": "that they could not avoid fighting a duel. As if both were superb shots,",
+       "answer": "if"
+      },
+      {
+       "n": 29,
+       "text": "they decided to flip a coin, the loser agreeing to shoot himself.",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "Dumas got lost. Pistol in hand, he withdrew silently to another",
+       "answer": "got"
+      },
+      {
+       "n": 31,
+       "text": "room, and closing the door behind him. The rest of the company",
+       "answer": "and"
+      },
+      {
+       "n": 32,
+       "text": "waited nervously for the sound of the shot that would end up Dumas's",
+       "answer": "up"
+      },
+      {
+       "n": 33,
+       "text": "career. It rang out at last moment. They ran to the door, opened it, and",
+       "answer": "moment"
+      },
+      {
+       "n": 34,
+       "text": "there was Dumas, holding his smoking revolver in his hand.",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "\"Gentlemen, a most regrettable thing has happened lately. I missed.\"",
+       "answer": "lately"
+      }
+     ],
+     "outro": "(http://pawprints.kashalinka.com/anecdotes)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2020-okt-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear the story of the ancient Olympic Games.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_20okt_fl.mp3",
+      "start": 0,
+      "end": 733.04,
+      "clip": "hang/e_angol_20okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It is not known …",
+       "options": [
+        {
+         "key": "A",
+         "text": "where the Olympic Games have their origin."
+        },
+        {
+         "key": "B",
+         "text": "when the first Olympic Games took place."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The first Greek festivals were held ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "only for amateur competitors."
+        },
+        {
+         "key": "B",
+         "text": "regularly every other year."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "The earliest Olympic competition on record …",
+       "options": [
+        {
+         "key": "A",
+         "text": "took place in 776 B.C."
+        },
+        {
+         "key": "B",
+         "text": "was won by a cook."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "There was only one event in the Olympics for the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "first Games."
+        },
+        {
+         "key": "B",
+         "text": "thirteenth Games."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "At first, women were not allowed to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "visit the Olympic Games."
+        },
+        {
+         "key": "B",
+         "text": "compete in the Olympic Games."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "All athletes were required to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "take part in at least two events."
+        },
+        {
+         "key": "B",
+         "text": "pay the cost of taking part in the Games."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Winners of the early Games were given …",
+       "options": [
+        {
+         "key": "A",
+         "text": "gold and/or silver medals."
+        },
+        {
+         "key": "B",
+         "text": "a crown."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "After the Roman conquest, ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Olympic athletes got paid."
+        },
+        {
+         "key": "B",
+         "text": "cheating was severely punished."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Theodosius I, the Roman emperor …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was a Christian."
+        },
+        {
+         "key": "B",
+         "text": "excluded pagans from the Games."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The site of the ancient Olympics, Olympia …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was destroyed by later emperors and natural disasters."
+        },
+        {
+         "key": "B",
+         "text": "is now completely buried, and is nothing but barren ground."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear an advertisement for an interesting job.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_20okt_fl.mp3",
+      "start": 733.04,
+      "end": 1266.8,
+      "clip": "hang/e_angol_20okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The ad says that the position is on offer only for people who speak fluent Greek.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The applicant’s job will be to work together with the owner in the running of the sanctuary.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "It’s a basic requirement that the applicant should be a trained veterinary nurse.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "The advertisement offers extra pay for taking care of the garden.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "The applicant must feed the cats at least four times a day.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Although the sanctuary is in a nature preserved area, it is rather busy in summer.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "The ideal applicant should not be older than 45.",
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "stem": "It is important that the applicant should be somewhat familiar with cat psychology.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "The applicant will not get paid for the first few weeks of the job.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "Applicants can negotiate the exact amount of the salary during the Skype interview.",
+       "answer": "C"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2020-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section, you will hear an anecdote about two famous men and their fathers.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_20okt_fl.mp3",
+      "start": 1266.8,
+      "end": 1795.71,
+      "clip": "hang/e_angol_20okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What does the narrator say about the authenticity of the story? He says that it is not a true story, just an {{gap}}",
+       "accept": [
+        "urban legend"
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "What exactly did the farmer hear when he was working in the field one day? He heard a(n) {{gap}}",
+       "key": "cry for help.",
+       "keywords": [
+        [
+         "cry",
+         "for",
+         "help"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "What is a bog? A bog is an area of {{gap}}",
+       "key": "muddy/soft ground.",
+       "keywords": [
+        [
+         "muddy",
+         "ground"
+        ],
+        [
+         "soft",
+         "ground"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Mr Fleming tied one end of the rope to a tree. Where did he tie the other end? He tied it {{gap}}",
+       "key": "around/to his (own) waist.",
+       "keywords": [
+        [
+         "waist"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "What else did the Flemings do besides feeding the boy before sending him home? They also {{gap}}",
+       "key": "dried his/the boy’s clothes.",
+       "keywords": [
+        [
+         "dried",
+         "clothes"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "What was Mr Fleming’s reason for not accepting any payment for saving the boy’s life? He said that {{gap}}",
+       "key": "anyone/anybody would have/would’ve done the same/so. (Itt bármilyen más megfogalmazás elfogadható, amennyiben hiánytalanul megválaszolja a feltett kérdést.)",
+       "keywords": [
+        [
+         "anyone",
+         "done"
+        ],
+        [
+         "anybody",
+         "done"
+        ],
+        [
+         "everyone",
+         "done"
+        ],
+        [
+         "everybody",
+         "done"
+        ],
+        [
+         "anyone",
+         "same"
+        ],
+        [
+         "anybody",
+         "same"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "What did the boy’s father offer to Mr Fleming instead of giving him cash? He offered him that he would {{gap}}",
+       "key": "pay for his // his/Fleming’s / the farmer’s son’s // his boy’s/the boy’s education.",
+       "keywords": [
+        [
+         "pay",
+         "education"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "What has Sir Winston Churchill to do with this story? He was {{gap}}",
+       "key": "the boy whose life/whom Mr Fleming saved. // the boy whose father had paid for Alexander Fleming’s education. // saved by penicillin (,which was discovered by A. Fleming). (Itt bármilyen más megfogalmazás elfogadható, amennyiben hiánytalanul megválaszolja a feltett kérdést.)",
+       "keywords": [
+        [
+         "boy",
+         "whose",
+         "life"
+        ],
+        [
+         "whom",
+         "mr",
+         "fleming",
+         "saved"
+        ],
+        [
+         "boy",
+         "whose",
+         "father",
+         "had",
+         "paid",
+         "for",
+         "alexander",
+         "fleming’s",
+         "education"
+        ],
+        [
+         "saved",
+         "by",
+         "penicillin"
+        ],
+        [
+         "boy",
+         "saved"
+        ],
+        [
+         "boy",
+         "rescued"
+        ],
+        [
+         "boy",
+         "bog"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

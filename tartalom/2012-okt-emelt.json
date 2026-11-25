@@ -1,0 +1,1568 @@
+{
+ "formatVersion": 1,
+ "id": "2012-okt-emelt",
+ "year": 2012,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2012-10-18",
+ "code": "1212",
+ "sourceFiles": {
+  "paper": "2012 - Emeltszintű októberi/e_angol_12okt_fl.pdf",
+  "key": "2012 - Emeltszintű októberi/e_angol_12okt_ut.pdf",
+  "audio": "2012 - Emeltszintű októberi/e_angol_12okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2012-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "In this story about a road accident some parts of sentences have been left out.",
+      "Your task is to reconstruct the story by filling in the gaps from the list.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "GOOD SAMARITAN SENT BILL AFTER HELPING AT ROAD CRASH",
+     "body": [
+      "A good Samaritan who stopped to help at a road accident four years ago has been sent a £1,000 bill {{0}}. Along with the bill, Bill Hughes, 35, got a summons to appear at Falkirk Sheriff Court later this month {{1}}.",
+      "Mr Hughes was driving past Falkirk Stadium on July 12, 2007, when he {{2}} and stopped to help. He said: “There was a Porsche on its side and it {{3}}. I knew the driver and, amazingly, he was okay, although there was damage to the car and the road sign. The police {{4}} and I never thought any more about it.”",
+      "But Mr Hughes, who manages his father’s firm, returned from a holiday in Italy to find the bill and the summons, and had to make frantic phone calls to both the council and Central Scotland Police to {{5}}.",
+      "Mr Hughes said: “I couldn’t believe that they’re only now trying to get the money back, but my lawyer said they {{6}} to recover the costs.”",
+      "A spokeswoman for Falkirk council said: “The council has written to Mr Hughes to explain how the situation arose, to confirm that {{7}} and to offer apologies. A spokeswoman for Central Scotland Police said: “This problem was rectified when it came to our attention and we have apologised to Mr Hughes.”",
+      "(Scottish Daily Express)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "no further action will be taken"
+      },
+      {
+       "key": "B",
+       "text": "prove he was not the driver"
+      },
+      {
+       "key": "C",
+       "text": "for damage to a road sign"
+      },
+      {
+       "key": "D",
+       "text": "came across an accident"
+      },
+      {
+       "key": "E",
+       "text": "talked to a policeman"
+      },
+      {
+       "key": "F",
+       "text": "had up to five years"
+      },
+      {
+       "key": "G",
+       "text": "if he doesn’t pay up"
+      },
+      {
+       "key": "H",
+       "text": "if they catch him"
+      },
+      {
+       "key": "I",
+       "text": "took details"
+      },
+      {
+       "key": "K",
+       "text": "looked nasty"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "G"
+      },
+      {
+       "n": 2,
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "I"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      },
+      {
+       "n": 7,
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about a new book and then read the statements (8-15) following it.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "STEVEN PINKER: THE OPTIMISTIC VOICE OF SCIENCE",
+     "body": [
+      "In his landmark new book, the Harvard professor argues we are much less violent than our ancestors.",
+      "Steven Pinker has dedicated much of his academic life to the study of human nature and, perhaps surprisingly, his latest book is full of good news. In The Better Angels of Our Nature: The Decline of Violence in History and Its Causes, the celebrated evolutionary psychologist and bestselling author argues that we − the human race − are becoming progressively less violent. To the consumer of 24-hour news, steeped in images of conflict and war, that may sound plain wrong. But Pinker supports his case with a wealth of data.",
+      "Drawing on the work of a fellow Harvard archaeologist, Pinker recently concluded that the chances of our ancient hunter-gatherer ancestors meeting a bloody end were somewhere between 15% and 60%. In the 20th century, which included two world wars and the mass killers Stalin and Hitler, the likelihood of a European or American dying a violent death was less than 1%.",
+      "Pinker shows that, with notable exceptions, the long-term trend for murder and violence has been going down since humans first developed agriculture 10,000 years ago. And it has dropped steeply since the Middle Ages. Oxford in the 1300s, Pinker tells us, was 110 times more murderous than it is today. He calls this movement away from killing the “civilising process”.",
+      "Nowadays, the notion that life is measurably improving is about as unfashionable as the conviction that western culture is in any sense civilising. Pinker is likely to stand accused of Panglossian∗ naivety. Indeed, he says that when he told colleagues what he was writing, they said he reminded them of the man who jumped off the top of a tall building and halfway down observed: “It looks good so far.”",
+      "In an earlier book Pinker wrote: “The strongest argument against totalitarianism may be a recognition of a universal human nature; that all humans have innate desires for life, liberty and the pursuit of happiness.” It’s this vision of our common humanity, what Abraham Lincoln called “the better angels of our nature”, that animates Pinker’s latest book.",
+      "(www.guardian.co.uk)",
+      "∗ Pangloss: Candide’s tutor in Voltaire’s satire Candide or The Optimist"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The good news in Steven Pinker’s new book is that humans on the whole are not as violent as in earlier times.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "The media present a very different picture of the world from Professor Pinker’s.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "Pinker collaborated with several historians and archaeologists to establish approximate figures for violent deaths in ancient and medieval times.",
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "stem": "With two world wars, and mass murderers Hitler and Stalin, the 20th century was the most violent time in human history.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Pinker questions whether the human race has gone through a “civilising process”.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "There is archaeological evidence that in ancient times females were not as murderous as males.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "Contemporary thinking on the whole tends to be less positive about humanity than Pinker.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Pinker’s colleagues told him a joke suggesting his optimism was unjustified.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Professor Pinker is a great admirer of Abraham Lincoln.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article on eco-friendly energy use and then read the half sentences following it.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "HOW TO BE GREEN AND STAY SANE",
+     "body": [
+      "Energy-efficient libraries We’ve all heard of libraries lending books, music and videos. But Barrie Mould’s library is different. Fitting into a tool kit bag, his library consists of 35 energy-efficient light bulbs − both fluorescent and LED −, which he lends to the citizens of Ashtead, Surrey. The bulbs come in all shapes, sizes and strengths.",
+      "The library, which started up this summer, lends the light bulbs for a week at a time and allows Ashtead residents to experiment for free to find out which light bulbs suit their homes and fittings best, before investing in them wholesale.",
+      "“Energy-efficient light bulbs, particularly the LED ones, are still very expensive compared to tungsten ones and people are reluctant to spend £10 to £15 a bulb if they think it will make their home either too dim or too harshly lit,” says Barrie, a member of the group Transition Ashtead, which aims to help members reduce their energy consumption.",
+      "“This lets people experiment before they buy. Response has been good, with borrowers telling me the light-up speed and colour quality are much better than they feared and, as a result, they will go ahead and replace their tungsten bulbs.”",
+      "Simon Kenton, of Oxfordshire Community Action Groups, which oversees the county’s 25 community groups, says very often groups of local people are quick to catch on to what is useful, in terms of reducing energy and waste, but are unable or unwilling to spend large amounts of money on eco gadgets.",
+      "“Other groups lend out items like can crushers, newspaper log-makers and home energy meters as well as light bulbs. In many cases, such as energy meters, people don’t need these things forever − just using them for a week will let people know where they are wasting energy and they can cost up to £100 to buy in the shops,” he says.",
+      "“We are at the moment investing in a thermal imaging camera to add to the libraries so people can see at a glance where the heat is escaping from their home. Again, a thermal camera can cost upwards of £3,000 and you only use it once or twice. It is so much better to do it this way,” says Simon Kenton.",
+      "(The Sunday Telegraph)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "satisfied with customers’ reactions."
+      },
+      {
+       "key": "B",
+       "text": "extending their range of gadgets."
+      },
+      {
+       "key": "C",
+       "text": "the size of a tool kit bag."
+      },
+      {
+       "key": "D",
+       "text": "fitted to their homes."
+      },
+      {
+       "key": "E",
+       "text": "only needed for a short time."
+      },
+      {
+       "key": "F",
+       "text": "energy efficient."
+      },
+      {
+       "key": "G",
+       "text": "borrowing a bulb."
+      },
+      {
+       "key": "H",
+       "text": "in their own homes."
+      },
+      {
+       "key": "I",
+       "text": "eco-friendly consumption."
+      },
+      {
+       "key": "K",
+       "text": "convinced of their suitability."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Barrie Mould’s library is",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "All Barrie’s light bulbs are",
+       "answer": "F"
+      },
+      {
+       "n": 17,
+       "stem": "Ashtead citizens can try out bulbs",
+       "answer": "H"
+      },
+      {
+       "n": 18,
+       "stem": "There is no charge for",
+       "answer": "G"
+      },
+      {
+       "n": 19,
+       "stem": "People will not buy the bulbs unless they are",
+       "answer": "K"
+      },
+      {
+       "n": 20,
+       "stem": "Barrie sounds",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Some expensive eco gadgets are",
+       "answer": "E"
+      },
+      {
+       "n": 22,
+       "stem": "Oxfordshire Community Action Groups are",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about the National Trust∗ some sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "HOW WONDERFUL WAS THE NATIONAL TRUST OF OLD",
+     "body": [
+      "Since A Noble Thing is about the National Trust, published “in association with” the National Trust, and written by a former employee of the National Trust, one might expect a book full of self-praise, worth having only for its pretty pictures. {{0}}. This is a touching book, about a subject which is difficult to write about well − generosity.",
+      "{{23}}. Whatever they gave – their houses, their land, their gardens, their time, their expertise or, in one case, a fishing boat – they were moved by some great love.",
+      "A most charming photograph from 1946 shows the handover ceremony of the House of the Binns, near Edinburgh, to the trust. Lt Col Gordon Dalyell stands in front of an ancient wall. {{24}}. In the charter of gift, the Dalyells declared their desire that “The Binns with its history and legend shall be preserved for all time coming for the benefit and enjoyment of the nation”. {{25}}. It was something worth doing for their country.",
+      "The generosity was often prompted by sadness. {{26}}. So did war. The bachelor Robert Ketton-Cremer made over his Norfolk house after his brother died of wounds on a Cretan airfield in the Second World War. Waterson says that his conversations with many donors “suggested that their military service shaped their thinking about other forms of service”. He quotes Sickert the painter: “The thing is to give, give, give. {{27}}.”",
+      "What is so striking about all the stories told in this book is the individuality of those involved. {{28}}. “Wouldn’t work here,” one agent wrote on every memo from London. Most of the donors were equally remote from the world of committees, “best practice” and all that.",
+      "The National Trust now faces the paradox that its vast success – 3.5 million members, 37,000 buildings, more than 600,000 acres – is bound to turn it into a bureaucracy that threatens to kill the thing it loves. Marketing starts to matter too much. {{29}}. People go to a house and sometimes it’s just like going to Tesco.",
+      "An organisation which cares for heritage must employ people who do so in their heart of hearts. The mentality of campaigning is incompatible with that of stewardship. It attracts a different type of person. {{30}}. The heroes of Waterson’s book minded about their subject matter to the point of lunacy. They were much too engaged in the love of actual buildings and places to want to spend time organizing campaigns or lobbying.",
+      "(The Telegraph)",
+      "∗ National Trust: an organisation that owns and takes care of places of historic interest or natural beauty in the UK"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "You always get back more than you give."
+      },
+      {
+       "key": "B",
+       "text": "Don’t stop building; build well, which is what Britain once did."
+      },
+      {
+       "key": "C",
+       "text": "Not so."
+      },
+      {
+       "key": "D",
+       "text": "His wife Eleanor proudly passes over a handful of stone and soil to the trust’s chairman in Scotland."
+      },
+      {
+       "key": "E",
+       "text": "Childlessness encouraged people with great possessions to give them away."
+      },
+      {
+       "key": "F",
+       "text": "For them, it was not a loss to give up ownership."
+      },
+      {
+       "key": "G",
+       "text": "The best employees of the trust seem to have been those least willing to listen to head office."
+      },
+      {
+       "key": "H",
+       "text": "So does the cash register."
+      },
+      {
+       "key": "I",
+       "text": "Charities today are filled with executives who know a great deal about management and finances but are not deeply interested in the subject matter of their organisation."
+      },
+      {
+       "key": "K",
+       "text": "The trust knows better than anyone else."
+      },
+      {
+       "key": "L",
+       "text": "The writer, Merlin Waterson, tells the story of the people who gave to the National Trust."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "L"
+      },
+      {
+       "n": 24,
+       "answer": "D"
+      },
+      {
+       "n": 25,
+       "answer": "F"
+      },
+      {
+       "n": 26,
+       "answer": "E"
+      },
+      {
+       "n": 27,
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "answer": "G"
+      },
+      {
+       "n": 29,
+       "answer": "H"
+      },
+      {
+       "n": 30,
+       "answer": "I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 43,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 3,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 8,
+    "13": 9,
+    "14": 10,
+    "15": 10,
+    "16": 11,
+    "17": 12,
+    "18": 13,
+    "19": 13,
+    "20": 14,
+    "21": 15,
+    "22": 15,
+    "23": 16,
+    "24": 17,
+    "25": 17,
+    "26": 18,
+    "27": 19,
+    "28": 20,
+    "29": 20,
+    "30": 21,
+    "31": 22,
+    "32": 22,
+    "33": 23,
+    "34": 24,
+    "35": 24,
+    "36": 25,
+    "37": 26,
+    "38": 27,
+    "39": 27,
+    "40": 28,
+    "41": 29,
+    "42": 29,
+    "43": 30
+   },
+   "tasks": [
+    {
+     "id": "2012-okt-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about an interesting game. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-10) in the text."
+     ],
+     "title": "GEOCACHING",
+     "body": [
+      "Imagine venturing into the woods in search {{0}} hidden treasure.",
+      "Trudging down a dark path, armed with nothing {{1}} a GPS-enabled compass, you have little knowledge of where you’re going. {{2}} you approach your desired longitude and latitude, you hear the sound of water not too far off. You {{3}} walking towards it. You climb over rocks and push aside foliage. There, in front of you, is a breath-taking waterfall and a beautiful, secluded stream of rushing water. Concealed underneath this fall lies the treasure for which you {{4}}.",
+      "Geocaching is a GPS-powered treasure hunt game {{5}} all over the world. For travellers, this outdoor hobby is an exhilarating way to explore a new place. From discovering an {{6}} view on the Galway seaside to spotting a goldfish pond in a New York City garden, {{7}} you find on your way to the hidden treasure that makes geocaching memorable.",
+      "Geocaching is a high-tech game of hide-and-seek. First, one geocacher hides a waterproof container outside, writes down its coordinates, and lists her/his cache online. The container, {{8}} can vary in size, always holds a logbook and often holds gifts {{9}} handmade trinkets, books, CDs, DVDs or small toys. When other players set out to find the cache, they can {{10}} bring gifts to replace the ones they take, or take nothing and simply record their find in the logbook.",
+      "(http://www.washingtonpost.com)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "at"
+        },
+        {
+         "key": "C",
+         "text": "of"
+        },
+        {
+         "key": "D",
+         "text": "to"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "else"
+        },
+        {
+         "key": "B",
+         "text": "more"
+        },
+        {
+         "key": "C",
+         "text": "as"
+        },
+        {
+         "key": "D",
+         "text": "but"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "As"
+        },
+        {
+         "key": "B",
+         "text": "Hardly"
+        },
+        {
+         "key": "C",
+         "text": "Then"
+        },
+        {
+         "key": "D",
+         "text": "No sooner"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "are to start"
+        },
+        {
+         "key": "B",
+         "text": "start"
+        },
+        {
+         "key": "C",
+         "text": "started"
+        },
+        {
+         "key": "D",
+         "text": "can start"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "would look"
+        },
+        {
+         "key": "B",
+         "text": "have been searching"
+        },
+        {
+         "key": "C",
+         "text": "tried to find"
+        },
+        {
+         "key": "D",
+         "text": "have been pursuing"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "been played"
+        },
+        {
+         "key": "B",
+         "text": "having played"
+        },
+        {
+         "key": "C",
+         "text": "played"
+        },
+        {
+         "key": "D",
+         "text": "playing"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "invaluable"
+        },
+        {
+         "key": "B",
+         "text": "inevitable"
+        },
+        {
+         "key": "C",
+         "text": "incredible"
+        },
+        {
+         "key": "D",
+         "text": "increasing"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "it’s that"
+        },
+        {
+         "key": "B",
+         "text": "it’s what"
+        },
+        {
+         "key": "C",
+         "text": "that’s it"
+        },
+        {
+         "key": "D",
+         "text": "that’s how"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "one"
+        },
+        {
+         "key": "B",
+         "text": "that"
+        },
+        {
+         "key": "C",
+         "text": "which"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "as"
+        },
+        {
+         "key": "B",
+         "text": "than"
+        },
+        {
+         "key": "C",
+         "text": "such"
+        },
+        {
+         "key": "D",
+         "text": "like"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "both"
+        },
+        {
+         "key": "B",
+         "text": "neither"
+        },
+        {
+         "key": "C",
+         "text": "either"
+        },
+        {
+         "key": "D",
+         "text": "whether"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a nearly fatal adventure. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-20) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "AUSTRALIAN DRUNK SURVIVES ATTEMPT TO RIDE CROCODILE",
+     "body": [
+      "A drunk man who climbed into a crocodile enclosure in Australia and attempted {{0}} ride a 5m long crocodile survived the encounter. Michael Newman, {{11}} name is all over the papers these days, climbed over a fence and tried to sit on the 800kg saltwater crocodile. The crocodile, called Fatso, bit the 36-year-old man’s leg, tearing chunks of flesh from him as he straddled the reptile. Newman received surgery for serious injuries to his leg. He had earlier {{12}} kicked out of a pub in the town of Broome {{13}} being too drunk.",
+      "“If it had been warmer and Fatso had been more alert, we would {{14}} been dealing with a fatality. Fatso bit Newman on the right leg, but he managed to climb over the fence again and leave the wildlife park,” Sgt Roger Haynes of Broome police {{15}} journalists.",
+      "Malcolm Douglas, the park’s owner, said that the crocodile was capable {{16}} crushing a man to death with a single bite. “The man who climbed the fence was fortunate because Fatso was a bit more sluggish than normal, {{17}} to the cooler nights we have been experiencing in Broome. {{18}} person in their right mind would try to sit on a 5m crocodile; saltwater crocodiles, once they get hold of you, are not famous for {{19}} you go,” said Mr Douglas. An average of two people are killed each year in Australia by aggressive saltwater crocodiles, which sometimes {{20}} more than a tonne and can grow up to 7m long.",
+      "(http://www.bbc.co.uk/news)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "whose"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "been",
+        "got"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "for"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "have"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "told",
+        "informed"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "of"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "due",
+        "thanks",
+        "owing"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "no"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "letting"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "weigh"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about Nonsuch Palace. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (21-30).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "HENRY VIII’S LOST PALACE",
+     "body": [
+      "It only stood for 150 years, but even in that {{0}} short period of time Nonsuch Palace was considered to be one of the finest {{21}} wonders of the world. It got the name because there was no other palace {{22}} it; Nonsuch was the spectacular ‘lost’ palace built by King Henry VIII.",
+      "Just four pictures were ever painted of the site, but now the {{23}} of Nonsuch Palace - between Ewell and Cheam in Surrey - has been brought to life in a(n) {{24}} scale model.",
+      "Work started on Nonsuch Palace in 1538, six months after Jane Seymour gave {{25}} to Henry VIII’s son, later to be Edward VI. From the start it was Henry’s evident {{26}} to celebrate his long awaited male heir by building a house without equal. The palace had cost over £24,000 by the time Henry died in 1547 – and was still {{27}}.",
+      "In 1670, Charles II gave it to his mistress the Duchess Of Cleveland, then allowed her to demolish it and sell off the parts to pay her {{28}} debts in 1682. A model {{29}} has recreated the majesty of the mansion thanks to an Oxford University professor’s {{30}} 50 years of research. Ben Taggart spent 1,250 hours building the exact 3D replica and worked from Professor Martin Biddle’s extensive research and plans.",
+      "(http://www.dailymail.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "relative",
+       "example": true,
+       "accept": [
+        "relatively"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "architecture",
+       "accept": [
+        "architectural"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "like",
+       "accept": [
+        "like"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "magnificent",
+       "accept": [
+        "magnificence"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "credible",
+       "accept": [
+        "incredible"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "born",
+       "accept": [
+        "birth"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "intend",
+       "accept": [
+        "intention"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "complete",
+       "accept": [
+        "incomplete",
+        "uncompleted"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "gamble",
+       "accept": [
+        "gambling"
+       ]
+      },
+      {
+       "n": 29,
+       "prompt": "make",
+       "accept": [
+        "maker"
+       ]
+      },
+      {
+       "n": 30,
+       "prompt": "ordinary",
+       "accept": [
+        "extraordinary"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 13,
+     "instructions": [
+      "You are going to read an article about what makes people happy. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "SIMPLE THINGS THAT MAKE US HAPPY",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "To those of us who will never be blessed with beauty, either own a",
+       "answer": "either"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "mansion, or find fame, it is indeed cheering news. For it is the most",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "modest of daily pleasures that make us happiest, a poll claims.",
+       "answer": null
+      },
+      {
+       "n": 32,
+       "text": "Finding that a £10 note in an old pair of jeans and being told",
+       "answer": "that"
+      },
+      {
+       "n": 33,
+       "text": "you’ve had lost weight emerged as life’s greatest good mood",
+       "answer": "had"
+      },
+      {
+       "n": 34,
+       "text": "triggers in a study of 3,000 adults. The smell of freshly cut grass or",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "seeing an elderly couple hold out hands also help to brighten our",
+       "answer": "out"
+      },
+      {
+       "n": 36,
+       "text": "day. The poll, which will set out to find the top 50 things that",
+       "answer": "will"
+      },
+      {
+       "n": 37,
+       "text": "make people happy, revealed that the happiness is accessible to us",
+       "answer": "the"
+      },
+      {
+       "n": 38,
+       "text": "all – through the most simplest day-to-day occurrences. Sunshine",
+       "answer": "most"
+      },
+      {
+       "n": 39,
+       "text": "was found to be largely responsible for cheering us up, little while",
+       "answer": "little"
+      },
+      {
+       "n": 40,
+       "text": "having a quiet moment by yourself, hearing a baby to laugh or",
+       "answer": "to"
+      },
+      {
+       "n": 41,
+       "text": "getting a nice message also change our mood for the better one.",
+       "answer": "one"
+      },
+      {
+       "n": 42,
+       "text": "A spokesman for the company that conducted the research said:",
+       "answer": null
+      },
+      {
+       "n": 43,
+       "text": "‘Despite of not feeling entirely happy for three out of seven days",
+       "answer": "of"
+      }
+     ],
+     "outro": "we still find happy moments easily.’ (www.dailymail.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2012-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 12,
+     "instructions": [
+      "In this section you will hear a story about Beethoven’s hair.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_12okt_fl.mp3",
+      "start": 0,
+      "end": 697.12,
+      "clip": "hang/e_angol_12okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In 1802, Beethoven was already totally deaf.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "The Heiligenstadt Testament is a letter written by Beethoven himself.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Beethoven was totally deaf in the last 6 years of his life.",
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "stem": "Beethoven spent a fortune on physicians.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "The 9th Symphony was composed before Beethoven completely lost his ability to hear.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "In his letter, Beethoven told his brothers he had discovered what caused his health problems.",
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "stem": "15-year-old Ferdinand Hiller got hold of a lock of Beethoven’s hair.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "The younger Hiller, Paul, was a frequent traveller.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The locket containing Beethoven’s hair may have saved the life of a family.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The locket was sold for $7,300 in 1994.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The DNA analysis of Beethoven’s hair was carried out in San Jose.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "Most probably, Beethoven suffered from lead poisoning.",
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "stem": "There is hardly any doubt that the composer’s deafness was caused by “plumbism”.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2012-okt-emelt-H2",
+     "number": 2,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 11,
+     "instructions": [
+      "In this section, you will hear some information about the colonial period in New York’s history.",
+      "Your task will be to complete the sentences with the exact words you hear in the text. Write one word in each gap, that is, two words in each item.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_12okt_fl.mp3",
+      "start": 697.12,
+      "end": 1241.09,
+      "clip": "hang/e_angol_12okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Before the arrival of Europeans, the area of New York was {{gap}} by {{gap}}.",
+       "gaps": [
+        [
+         "peopled"
+        ],
+        [
+         "Indians"
+        ]
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "These Indian tribes supported themselves by hunting, {{gap}} and {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "fishing"
+        ],
+        [
+         "trapping"
+        ]
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Henry Hudson was an English {{gap}} in the {{gap}} of Holland.",
+       "gaps": [
+        [
+         "explorer"
+        ],
+        [
+         "service"
+        ]
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The Northwest Passage is a legendary {{gap}} {{gap}} through North America to the Pacific Ocean and Asia.",
+       "gaps": [
+        [
+         "water"
+        ],
+        [
+         "channel"
+        ]
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Peter Minuit bought Manhattan from the Indians for the {{gap}} of ${{gap}}.",
+       "gaps": [
+        [
+         "equivalent"
+        ],
+        [
+         "24",
+         "twenty-four"
+        ]
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "Peter Stuyvesant was a Dutch {{gap}} and {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "soldier"
+        ],
+        [
+         "administrator"
+        ]
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "After several {{gap}} {{gap}}, the British won control of the city in 1664.",
+       "gaps": [
+        [
+         "minor"
+        ],
+        [
+         "battles"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "New York was renamed in honour of the {{gap}} {{gap}}, the Duke of York.",
+       "gaps": [
+        [
+         "king’s"
+        ],
+        [
+         "brother"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "In 1775, the British parliament {{gap}} the {{gap}} of the citizens of New York.",
+       "gaps": [
+        [
+         "increased"
+        ],
+        [
+         "taxes"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "As a result, New Yorkers joined with the other colonists and {{gap}} their {{gap}}.",
+       "gaps": [
+        [
+         "declared"
+        ],
+        [
+         "independence"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "A lot of important battles of that {{gap}} were {{gap}} in and around New York.",
+       "gaps": [
+        [
+         "conflict"
+        ],
+        [
+         "fought"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "For a short time, New York served as the new {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "nation’s"
+        ],
+        [
+         "capital"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "Csak akkor adható pont, ha MINDKETTŐ szó elfogadható!"
+     }
+    },
+    {
+     "id": "2012-okt-emelt-H3",
+     "number": 3,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section, you are going to hear an interview with Dr. Adam Tattelbaum, one of the top plastic surgeons in Washington, DC.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_12okt_fl.mp3",
+      "start": 1241.09,
+      "end": 1795.11,
+      "clip": "hang/e_angol_12okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "According to the interviewer, people …",
+       "options": [
+        {
+         "key": "A",
+         "text": "used to consider plastic surgery as a luxury."
+        },
+        {
+         "key": "B",
+         "text": "are now more open about plastic surgery than in the past."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Opponents say that we should spend our money on improving our…",
+       "options": [
+        {
+         "key": "A",
+         "text": "health."
+        },
+        {
+         "key": "B",
+         "text": "minds."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Dr Tattelbaum says that when we make a decision about having plastic surgery …",
+       "options": [
+        {
+         "key": "A",
+         "text": "timing is a crucial issue."
+        },
+        {
+         "key": "B",
+         "text": "a lot depends on why we want to have an operation."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "Plastic surgery might increase the patient’s …",
+       "options": [
+        {
+         "key": "A",
+         "text": "self-worth."
+        },
+        {
+         "key": "B",
+         "text": "self-consciousness."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "More attractive people are often … than their less attractive counterparts.",
+       "options": [
+        {
+         "key": "A",
+         "text": "thought to be less intelligent"
+        },
+        {
+         "key": "B",
+         "text": "better paid"
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "Generally speaking, more attractive people … than less attractive ones.",
+       "options": [
+        {
+         "key": "A",
+         "text": "are more choosy about their partners"
+        },
+        {
+         "key": "B",
+         "text": "make friends more easily"
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 29,
+       "stem": "Plastic surgery is risky because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "all surgery is risky."
+        },
+        {
+         "key": "B",
+         "text": "it involves anesthesia."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 30,
+       "stem": "A lot of plastic surgery patients regret that they …",
+       "options": [
+        {
+         "key": "A",
+         "text": "didn’t go under the knife earlier than they did."
+        },
+        {
+         "key": "B",
+         "text": "have ever had an operation."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1427 @@
+{
+ "formatVersion": 1,
+ "id": "2005-maj-emelt",
+ "year": 2005,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2005-05-12",
+ "code": "0513",
+ "sourceFiles": {
+  "paper": "2005. Emeltszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_fl.pdf",
+  "key": "2005. Emeltszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_ut.pdf",
+  "audio": "2005. Emeltszintű  május-júniusi érettségi írásbeli feladatok és javítási-értékelési útmutatók/e_angol_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2005-maj-emelt-R1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about the beginnings of the modern Olympics.",
+      "In the sentences that follow the text there are some gaps.",
+      "Your task is to fill the gaps with one or two words so that the sentences correspond to what the text says."
+     ],
+     "title": "It’s the Olympic Spirit that Still Moves Them",
+     "body": [
+      "The first recorded Olympic chant of the modern era, fittingly, was “Nike! Nike!,” which is the Greek word for “victory”. The first man to hear it was James Connolly, an American hop- step-and-jumper, who dropped out of Harvard to compete in the 1896 Games. Arriving in Athens the night before the start of the Games (having, according to Olympic historian David Wallechinsky, miscalculated the gap between the American and Greek calendars) Connolly entered the triple jump on the first day and won, easily, with a jump of just under 45 feet. The first-place medal that year was silver, not gold, but it came accompanied by a certificate and an olive branch. Connolly, who went on to become a well-known war correspondent and novelist, apparently never regretted choosing Olympic immortality over a degree from Harvard.",
+      "There were only around 300 athletes altogether at that first modern Olympiad – drawn from a world population of little more than a billion and a half. The competitors represented a total of 13 countries, although most of them were, as it happened, Greek. In photographs, their faces beam with Olympian idealism and spirit, and their handlebar moustaches bristle with pride.",
+      "They trained as hard as they needed to win, but not many of them could afford to spend their whole lives in the gym: after all, they were all amateurs. The very first marathon winner, in 1896, was a Greek shepherd named Spiridou Louis, who promptly retired from sports and went back to his village.",
+      "The Olympics has bequeathed to the world thrilling examples of courage (sprinter Gail Davers battling an almost fatal thyroid condition; wrestler Jeff Blatnick overcoming Hodgkin’s disease), of determination and astonishing physical grace. And should the Games last another 100 years, there will always be heroes to cheer. Nike! Nike!",
+      "The Greek word Nike means {{0}} in English.",
+      "The first modern Olympiad was held in Greece, but the very first event was won by an {{1}}.",
+      "Unlike in present-day Olympics, winners received a {{2}} medal then.",
+      "James Connolly never completed his {{3}}.",
+      "After his Olympic victory he became a journalist, and he also {{4}}.",
+      "Only {{5}} different nationalities took part in the first modern Olympics.",
+      "All the 300 participants were {{6}}."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "victory"
+       ]
+      },
+      {
+       "n": 1,
+       "accept": [
+        "American"
+       ]
+      },
+      {
+       "n": 2,
+       "accept": [
+        "silver"
+       ]
+      },
+      {
+       "n": 3,
+       "accept": [
+        "Harvard studies",
+        "university studies",
+        "studies",
+        "university education",
+        "degree"
+       ]
+      },
+      {
+       "n": 4,
+       "accept": [
+        "wrote novels",
+        "wrote books",
+        "wrote fiction"
+       ]
+      },
+      {
+       "n": 5,
+       "accept": [
+        "13",
+        "a few"
+       ]
+      },
+      {
+       "n": 6,
+       "accept": [
+        "amateurs"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 7,
+     "instructions": [
+      "Read the following advice on how to behave on your first day at work.",
+      "Parts of some sentences are missing.",
+      "Your task is to fill them in from the list below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "THE DO’S AND DON’T’S",
+     "body": [
+      "DO",
+      "→ Turn up at the right time on the right day, and preferably at the right address – first {{0}}.",
+      "→ Consider whether it {{7}} to leave your nose stud and ear-piercings at home.",
+      "→ Be nice to everyone, including the man you like least. He {{8}}.",
+      "→ Ask questions (but not: “Why is it my {{9}}?”)",
+      "DON’T",
+      "→ Say that the senior partner is your dad’s best friend and will {{10}}.",
+      "→ Start surfing dodgy websites on the office computer {{11}} for you to do.",
+      "→ Tell the secretaries you’ll {{12}} within a year of graduating from Oxford.",
+      "→ Write an e-mail to a friend saying you are surrounded by {{13}} accidentally send it to “all company users.”"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "be earning far more than them"
+      },
+      {
+       "key": "B",
+       "text": "is expected to do the dirty work"
+      },
+      {
+       "key": "C",
+       "text": "impressions can last a long time"
+      },
+      {
+       "key": "D",
+       "text": "sack anyone who crosses you"
+      },
+      {
+       "key": "E",
+       "text": "turn to make the tea again"
+      },
+      {
+       "key": "F",
+       "text": "might be the chairman"
+      },
+      {
+       "key": "G",
+       "text": "even if there isn’t much"
+      },
+      {
+       "key": "H",
+       "text": "boring losers, and then"
+      },
+      {
+       "key": "I",
+       "text": "be deeply disappointing"
+      },
+      {
+       "key": "K",
+       "text": "might be best"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "K"
+      },
+      {
+       "n": 11,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "F"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "answer": "E"
+      },
+      {
+       "n": 13,
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "Read this article on the life and work of the writer Garcia Marquez, and then read the statements following it.",
+      "Your task is to decide if the statements correspond to the information in the article.",
+      "If a statement means exactly the same as the article, mark it A.",
+      "If it means something different, mark it B.",
+      "If it says something that is not mentioned in the article (so we don’t know if it is true or not), mark it C.",
+      "Look at the examples first."
+     ],
+     "title": "Garcia Marquez, Lion of Left, Takes Hollywood Dollar",
+     "body": [
+      "The Nobel prize-winning author Gabriel Garcia Marquez, the lion of the Latin American literary left who once celebrated his being banned from the United States with a fireworks party, has signed up with his first Hollywood studio to earn a “family pension”.",
+      "Garcia Marquez, 76, who is fighting lymphatic cancer, overcame anti-American scruples to let a Los Angeles company produce a big-budget version of Love in the Time of Cholera, a surreal romance based on his parents’ troubled courtship. He will receive £1.7m.",
+      "Garcia Marquez, a confidant of the Cuban leader Fidel Castro, says he took “the Yankee dollar” to secure a comfortable old age for his wife Mercedes, with whom he fell in love half a century ago when she was just 13, and their sons Gonzalo and Rodrigo.",
+      "Since the publication of his 1967 novel One Hundred Years of Solitude, Garcia Marquez has earned a fortune from writing and teaching in his native Colombia and in Mexico City. But a heavy investment in Cambio, a radical Mexican political magazine, is said to have drained his assets, and he has told friends he had to “rethink” his finances.",
+      "The master of the dream-like style known as magical realism lives in a luxurious house in Mexico City. Yet he remains haunted by his impoverished past as a left-wing journalist in Bogota, when he bought food with second-hand beer bottles.",
+      "Garcia Marquez channelled his colourful past into bestselling books that influenced younger authors such as Salmon Rushdie. But he has not been prolific – when he won the Nobel prize for literature in 1982 the writer John Updike said he had never known anyone achieve so much with so little published.",
+      "Although he funded a film school in Havana that was visited by the director Steven Spielberg, he spurned attempts to turn his books into Hollywood blockbusters.",
+      "Last week the Hollywood producer Scott Steindorff revealed that the secret of his success in signing up the right to Love in the Time of Cholera was money and persistence. The deal followed 18 months of daily phone calls, he said.",
+      "“I am going to make a lot of male cinema-goers unhappy because this is all about romance. This guy works 50 years to court a woman,” said Steindorff.",
+      "While One Hundred Years of Solitude was based on the lives of his grandparents, Love in the Time of Cholera was inspired by Garcia Marquez’s parents. Their love was frustrated for years by his mother’s father, who regarded her suitor as a waste of time."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "stem": "Garcia Marquez has bought a Hollywood film studio.",
+       "answer": "B"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "stem": "The film based on Love in the Time of Cholera will cost almost £2m to make.",
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "stem": "Garcia Marquez has never been to the US.",
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The writer wants his family to use the money he will be paid for the film rights",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Garcia Marquez’s sons are not married.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Garcia Marquez was born in Colombia.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "After publishing One Hundred Years of Solitude Garcia Marquez made money through investing in a left-wing magazine.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "He lives in luxury now, so he has forgotten the time when he lived in poverty.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "Much of his writing is autobiographical.",
+       "answer": "A"
+      },
+      {
+       "n": 21,
+       "stem": "Garcia Marquez has turned down several offers to film his books. Even now it was not easy to persuade him.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Despite his age, Garcia Marquez remains active even today and has organised several political campaigns recently.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "In this passage a famous Indian film director talks about his holidays.",
+      "Your task is to match the half sentences that follow the text.",
+      "There is an extra letter you do not need.",
+      "Write the letters in the boxes as shown in the example."
+     ],
+     "title": "My Holidays",
+     "body": [
+      "I don’t understand the point of beach holidays and I’m just not interested in sunbathing. On the contrary, there’s got to be a bit of physical activity – something that helps me engage with my environment. Which is why I especially enjoy mountain-trekking, which allows you to become part of the mountains, and sailing, where you become part of the sea.",
+      "I once sailed a 60ft schooner with two other guys from Gibraltar to Ibiza, then on to Nice and back. It was physically demanding – not much time for sunbathing – but I really enjoyed the teamwork.",
+      "The first time I went on a diving holiday, in the Philippines, I came face to face with a shark. We were diving in quite shallow water, about 30ft deep, when the shark arrived. It just circled around me a few times, working out whether it felt like a snack, and then left.",
+      "One of the recurring pleasures of the ocean is seeing dolphins. In Goa, I once swam out too far. I could see a shape coming towards me. Having got off lightly before, I didn’t want to risk another close encounter with a shark. So I panicked and started splashing frantically back to shore. Then I realised this was just the thing you shouldn’t do, so I stopped and waited for fate to take its course. As the shape got closer, I saw that it was a school of dolphins. They just came up and swam around me – calm and curious.",
+      "I’ve known the mountains all my life. When I was a child, we lived in Delhi and every year the whole family used to rent places in the Himalayas. Today, even remote parts of India are part of the tourist trail, but back then it was a magical experience. As adults, we rapidly forget how to live in the moment, always thinking about work or the mortgage – even when we’re on holiday. As a child, it was different. We never thought beyond the present, which, up there in the hills, seemed like it would last forever.",
+      "The other great thing about my childhood travels was that we had the luxury of holidays lasting for three months at a time. That was to escape the worst of the monsoons in Delhi, but I still don’t see much point in taking short breaks. I have such a busy life now that it is even more important for me to spend at least a month in any place in order to have enough time to ease out of the work mentality and really to become part of wherever I am.",
+      "Ironically, when I was young, I always dreamt of having a job where I would be constantly travelling – New York one day, Mumbai the next, London the next. Now that this has become the reality of my working life, I find myself just wanting to stay in one place. So beware of your fantasies – they might just come true."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "seemed really interested in him."
+      },
+      {
+       "key": "B",
+       "text": "attract large numbers of tourists these days."
+      },
+      {
+       "key": "C",
+       "text": "help him feel part of his environment."
+      },
+      {
+       "key": "D",
+       "text": "that allowed him to travel."
+      },
+      {
+       "key": "E",
+       "text": "the natural beauty made it worth every second."
+      },
+      {
+       "key": "F",
+       "text": "more than one with no adventure."
+      },
+      {
+       "key": "G",
+       "text": "means work for him."
+      },
+      {
+       "key": "H",
+       "text": "he behaved more cautiously the next time."
+      },
+      {
+       "key": "I",
+       "text": "he needs a proper holiday."
+      },
+      {
+       "key": "K",
+       "text": "tried not to spend the rainy season in Delhi."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "One reason why he likes sailing and mountain trekking is that these sports",
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "stem": "He enjoys a physically demanding holiday",
+       "answer": "F"
+      },
+      {
+       "n": 24,
+       "stem": "He had a near fatal adventure once, and",
+       "answer": "H"
+      },
+      {
+       "n": 25,
+       "stem": "The dolphins he met one day",
+       "answer": "A"
+      },
+      {
+       "n": 26,
+       "stem": "Even far-away places in India",
+       "answer": "B"
+      },
+      {
+       "n": 27,
+       "stem": "When he was a child, his family",
+       "answer": "K"
+      },
+      {
+       "n": 28,
+       "stem": "He thinks the busier he is the more",
+       "answer": "I"
+      },
+      {
+       "n": 29,
+       "stem": "As a young man he wanted a career",
+       "answer": "D"
+      },
+      {
+       "n": 30,
+       "stem": "Travel now",
+       "answer": "G"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 40,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 8,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 11,
+    "15": 11,
+    "16": 12,
+    "17": 13,
+    "18": 14,
+    "19": 14,
+    "20": 15,
+    "21": 16,
+    "22": 17,
+    "23": 17,
+    "24": 18,
+    "25": 19,
+    "26": 20,
+    "27": 20,
+    "28": 21,
+    "29": 22,
+    "30": 23,
+    "31": 23,
+    "32": 24,
+    "33": 25,
+    "34": 26,
+    "35": 26,
+    "36": 27,
+    "37": 28,
+    "38": 29,
+    "39": 29,
+    "40": 30
+   },
+   "tasks": [
+    {
+     "id": "2005-maj-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about Lego bricks. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-10) in the text."
+     ],
+     "title": "IS LEGO LOSING OUT TO COMPUTERS?",
+     "body": [
+      "Lego has been voted the best plastic product ever made, but in an age when children have computers and mobile phones is its appeal fading?",
+      "LEGO FACTS",
+      "There are 52 Lego bricks for {{0}} person on Earth. Children spend five billion hours a year {{1}} Lego bricks. If all the Lego sets sold in the last 10 years were placed end to end they {{2}} from London to Perth in Australia.",
+      "Coloured pieces of Lego feature strongly in the childhood memories of many adults, who {{3}} parents and grandparents have become the toy-buyers of today. It has won many awards, {{4}} Toy of the Century twice. And this week it is crowned the best plastic product, {{5}} Tupperware among others, in an online poll of the British public and designers.",
+      "But nostalgia and the popular vote does not necessarily translate into sales, and the last few years {{6}} rocky. Although it {{7}} it’s the fourth largest toy manufacturer in the world, Lego suffered its first financial loss in 1999, and this year decided to sell its four Legoland parks to private owners.",
+      "Lego has been a family business {{8}} the Danish carpenter Ole Kirk Christiansen started making wooden toys in 1932. The name came from two Danish words “leg godt”, meaning “play well”. He later {{9}} that “lego” in latin means “I put together”.",
+      "The plastic brick {{10}} in 1949 and soon took off in the UK as a building toy for children. New ranges since then have become more advanced and more recently, the company has embraced Hollywood by launching sets based on Star Wars and Harry Potter."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "all"
+        },
+        {
+         "key": "B",
+         "text": "each"
+        },
+        {
+         "key": "C",
+         "text": "some"
+        },
+        {
+         "key": "D",
+         "text": "any"
+        }
+       ],
+       "example": true,
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "to playing with"
+        },
+        {
+         "key": "B",
+         "text": "play with"
+        },
+        {
+         "key": "C",
+         "text": "to play with"
+        },
+        {
+         "key": "D",
+         "text": "playing with"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "would stretch"
+        },
+        {
+         "key": "B",
+         "text": "should stretch"
+        },
+        {
+         "key": "C",
+         "text": "stretched"
+        },
+        {
+         "key": "D",
+         "text": "can stretch"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "are"
+        },
+        {
+         "key": "B",
+         "text": "be"
+        },
+        {
+         "key": "C",
+         "text": "as"
+        },
+        {
+         "key": "D",
+         "text": "although"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "ignoring"
+        },
+        {
+         "key": "B",
+         "text": "excluding"
+        },
+        {
+         "key": "C",
+         "text": "including"
+        },
+        {
+         "key": "D",
+         "text": "extending"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "beating"
+        },
+        {
+         "key": "B",
+         "text": "winning"
+        },
+        {
+         "key": "C",
+         "text": "beaten"
+        },
+        {
+         "key": "D",
+         "text": "won"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "were"
+        },
+        {
+         "key": "B",
+         "text": "have been"
+        },
+        {
+         "key": "C",
+         "text": "was"
+        },
+        {
+         "key": "D",
+         "text": "has been"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "was said"
+        },
+        {
+         "key": "B",
+         "text": "said"
+        },
+        {
+         "key": "C",
+         "text": "had been said"
+        },
+        {
+         "key": "D",
+         "text": "says"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "ever since"
+        },
+        {
+         "key": "B",
+         "text": "until"
+        },
+        {
+         "key": "C",
+         "text": "before"
+        },
+        {
+         "key": "D",
+         "text": "while"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "invented"
+        },
+        {
+         "key": "B",
+         "text": "discovered"
+        },
+        {
+         "key": "C",
+         "text": "intended"
+        },
+        {
+         "key": "D",
+         "text": "discussed"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "introduced"
+        },
+        {
+         "key": "B",
+         "text": "has introduced"
+        },
+        {
+         "key": "C",
+         "text": "was introduced"
+        },
+        {
+         "key": "D",
+         "text": "has been introduced"
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 7,
+     "instructions": [
+      "You are going to read a newspaper article about stray dogs. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-17) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "STRAY DOG CLASSES",
+     "body": [
+      "Wales is one of the most problematic parts of the UK for stray dogs, according {{0}} an animal charity. The Dogs Trust, which takes in 1,000 stray dogs in Wales alone, is holding classes in Welsh primary schools {{11}} teach children about responsible dog ownership. The charity said {{12}} were a number of reasons for the problem including poor knowledge about looking after pets.",
+      "Classes have {{13}} offered free to schools and are curriculum-based. Mark Goodman, {{14}} of four education officers who work for the charity in the UK, has been running classes in schools in South Wales.",
+      "“It is about trying to get the message across to children about {{15}} it means to look after a dog, and maybe they will take the message home with them,” he said.",
+      "Mr Goodman, {{16}} is based at the charity’s Bridgend shelter, said that Wales has been identified as having some of the worst problems with stray dogs in the UK.",
+      "“Hopefully, these classes will help children to understand responsible behaviour and get them thinking about {{17}} it is important for dogs to be microchipped, for example.” At least that’s the idea."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "to",
+        "which",
+        "that"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "there"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "been"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "one"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "what"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "who"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "why",
+        "whether"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about superstitions. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (18-28).",
+      "Then write these words on the lines below in the appropriate form.",
+      "You might find words that you do not have to change."
+     ],
+     "title": "SUPERSTITIONS: FRIDAY THE 13TH – UNLUCKY FOR YOU?",
+     "body": [
+      "Do you believe in good luck and bad luck? Are you {{0}}? And, if so, how do you go about avoiding bad luck? And what do you do to {{18}} good luck?",
+      "One person in four in Britain is, {{19}}, superstitious, and they’ll do everything from hanging horseshoes over their fireplace to {{20}} their fingers, touching wood and {{21}} never walking under a ladder. And they are {{22}} about cats. Black cats are supposed to be {{23}} of witches or warlocks, so if one is following you, it’s {{24}} bad luck!",
+      "On the other hand if one crosses your path and continues then it’s good luck because it hasn’t noticed you.",
+      "However, in some places the {{25}} are different – so it pays to know where your black cat comes from.",
+      "Superstitions are also a subject for research by Dr. Richard Wiseman at the University of Hertfordshire. He believes that some people actually want to be {{26}}, because it helps them to avoid taking {{27}} for their own failings. It’s easier to say ‘I failed the exam because I had bad luck again’ than to admit that you didn’t work {{28}} enough. ‘It’s a way of copping out’, he said."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "superstition",
+       "example": true,
+       "accept": [
+        "superstitious"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "sure",
+       "accept": [
+        "ensure"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "apparent",
+       "accept": [
+        "apparently"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "cross",
+       "accept": [
+        "crossing"
+       ]
+      },
+      {
+       "n": 21,
+       "prompt": "absolute",
+       "accept": [
+        "absolutely"
+       ]
+      },
+      {
+       "n": 22,
+       "prompt": "care",
+       "accept": [
+        "careful"
+       ]
+      },
+      {
+       "n": 23,
+       "prompt": "relate",
+       "accept": [
+        "relatives",
+        "relations"
+       ]
+      },
+      {
+       "n": 24,
+       "prompt": "definite",
+       "accept": [
+        "definitely",
+        "definite"
+       ]
+      },
+      {
+       "n": 25,
+       "prompt": "believe",
+       "accept": [
+        "beliefs"
+       ]
+      },
+      {
+       "n": 26,
+       "prompt": "lucky",
+       "accept": [
+        "unlucky"
+       ]
+      },
+      {
+       "n": 27,
+       "prompt": "responsible",
+       "accept": [
+        "responsibility"
+       ]
+      },
+      {
+       "n": 28,
+       "prompt": "hard",
+       "accept": [
+        "hard"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about mobile phones. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick (9).",
+      "The task begins with two examples (0)."
+     ],
+     "title": "DON’T GIVE MOBILE PHONES TO YOUNG CHILDREN",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Parents should not give mobile phones to all children aged 8 or under,",
+       "answer": "all"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "the chairman of an official study into the safety of the phones said.",
+       "answer": null
+      },
+      {
+       "n": 29,
+       "text": "Sir William Stewart, chairman of the National Radiological",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "Protection Board, (NRPB), said there was a very growing amount",
+       "answer": "very"
+      },
+      {
+       "n": 31,
+       "text": "of research that showed using mobile phones had been health",
+       "answer": "been"
+      },
+      {
+       "n": 32,
+       "text": "implications and it was therefore wise to adopt a ‘precautionary",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "approach’, particularly together with children.",
+       "answer": "together"
+      },
+      {
+       "n": 34,
+       "text": "“I don’t think we can put our hands on our hearts and rather say",
+       "answer": "rather"
+      },
+      {
+       "n": 35,
+       "text": "mobile phones are safe,” he told a news conference.",
+       "answer": null
+      },
+      {
+       "n": 36,
+       "text": "“When it comes to giving a mobile phone to a 3 to 8-year-old,",
+       "answer": null
+      },
+      {
+       "n": 37,
+       "text": "that one can’t possibly be right.”",
+       "answer": "one",
+       "alt": [
+        "that"
+       ]
+      },
+      {
+       "n": 38,
+       "text": "Stewart concluded that “there is no any hard evidence at present that",
+       "answer": "any"
+      },
+      {
+       "n": 39,
+       "text": "mobile phones are harmful.” However, he had said he was “more",
+       "answer": "had"
+      },
+      {
+       "n": 40,
+       "text": "concerned” about positive health implications than five years ago.",
+       "answer": "positive"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 21,
+   "maxExamPoints": null,
+   "omitted": [
+    {
+     "number": 1,
+     "points": 9,
+     "reason": "rövid válasz tartalmi kulccsal (SPEC 3.3)"
+    }
+   ],
+   "originalMaxTaskPoints": 30,
+   "tasks": [
+    {
+     "id": "2005-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 7,
+     "instructions": [
+      "In this section you are going to hear a report on two interesting public opinion polls about what people are most afraid of.",
+      "Your task is to write the letter of the correct answer in the corresponding box.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_fl.mp3",
+      "start": 743.1,
+      "end": 1312.29,
+      "clip": "hang/e_angol_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The British survey polled 1,000 people, all of them ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "under 16."
+        },
+        {
+         "key": "B",
+         "text": "between 16 and 55."
+        },
+        {
+         "key": "C",
+         "text": "over 55."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "The most fearful thing for the British was found to be ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "heights."
+        },
+        {
+         "key": "B",
+         "text": "spiders."
+        },
+        {
+         "key": "C",
+         "text": "death."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "Most Britons found ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "public speaking more scary than heights."
+        },
+        {
+         "key": "B",
+         "text": "a visit to the dentist more scary than terrorists."
+        },
+        {
+         "key": "C",
+         "text": "snakes more scary than death."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "The U.S. survey showed that the majority of Americans are afraid of both ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "snakes and heights."
+        },
+        {
+         "key": "B",
+         "text": "mice and heights."
+        },
+        {
+         "key": "C",
+         "text": "flying and spiders."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "According to the survey, more Americans are afraid of ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "spiders than of heights."
+        },
+        {
+         "key": "B",
+         "text": "heights than of flying."
+        },
+        {
+         "key": "C",
+         "text": "flying than of heights."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Women are five times more likely to be afraid than men of ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "mice."
+        },
+        {
+         "key": "B",
+         "text": "heights."
+        },
+        {
+         "key": "C",
+         "text": "dogs."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "stem": "The biggest difference between the proportions of what American women and men are most afraid of is in the case of ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "mice."
+        },
+        {
+         "key": "B",
+         "text": "rabbits."
+        },
+        {
+         "key": "C",
+         "text": "flying."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "People are more likely to be afraid of things if they are ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "more educated."
+        },
+        {
+         "key": "B",
+         "text": "hate mice."
+        },
+        {
+         "key": "C",
+         "text": "less educated."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2005-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 14,
+     "instructions": [
+      "In this section you are going to hear part of a radio programme about ideal men and women.",
+      "Your task is to complete the gaps with no more than two words.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "At the end, you will have some more time to check your work."
+     ],
+     "audio": {
+      "file": "e_angol_fl.mp3",
+      "start": 1312.29,
+      "end": 1799.06,
+      "clip": "hang/e_angol_fl_H3.mp3"
+     },
+     "body": [
+      "The two gentlemen the girls are talking about at the beginning of the radio programme are {{0}} by profession. The presenter is more than {{17}} years old.",
+      "Whenever she is looking for a partner, it is always {{18}} who turns up. Physically speaking, the ideal man for most women is a guy who is {{19}}, {{20}}, {{21}}, and has {{22}}.",
+      "As for personality traits, the most important features are his {{23}}, his {{24}}, and his {{25}}. The ideal woman for most men, however, is someone who is {{26}} than themselves, has {{27}} and is {{28}}.",
+      "It is this image of vulnerability that brings out the {{29}} in males.",
+      "Having heard all that, the presenter thinks perhaps there is some {{30}} left for her, too."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "A 19–21., a 23–25. és a 27–28. válasz sorrendje tetszőleges, de különböző válaszok kellenek. Csak a mondatba hibátlanul illeszkedő alak fogadható el (pl. dark hair, de nem dark-haired)."
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "actors"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "30",
+        "thirty"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "Mr Wrong"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "tall",
+        "fit",
+        "symmetrical"
+       ],
+       "group": "a"
+      },
+      {
+       "n": 20,
+       "accept": [
+        "fit",
+        "tall",
+        "symmetrical"
+       ],
+       "group": "a"
+      },
+      {
+       "n": 21,
+       "accept": [
+        "symmetrical",
+        "tall",
+        "fit"
+       ],
+       "group": "a"
+      },
+      {
+       "n": 22,
+       "accept": [
+        "dark hair",
+        "darker hair"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "intelligence",
+        "talent",
+        "earning power"
+       ],
+       "group": "b"
+      },
+      {
+       "n": 24,
+       "accept": [
+        "talent",
+        "intelligence",
+        "earning power"
+       ],
+       "group": "b"
+      },
+      {
+       "n": 25,
+       "accept": [
+        "earning power",
+        "talent",
+        "intelligence"
+       ],
+       "group": "b"
+      },
+      {
+       "n": 26,
+       "accept": [
+        "shorter"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "blond hair",
+        "blue eyes"
+       ],
+       "group": "c",
+       "groupKey": {
+        "blond hair": "blond",
+        "blond-haired": "blond",
+        "blond": "blond",
+        "blue eyes": "blue",
+        "blue-eyed": "blue"
+       }
+      },
+      {
+       "n": 28,
+       "accept": [
+        "blue-eyed",
+        "blond-haired",
+        "blond"
+       ],
+       "group": "c",
+       "groupKey": {
+        "blond hair": "blond",
+        "blond-haired": "blond",
+        "blond": "blond",
+        "blue eyes": "blue",
+        "blue-eyed": "blue"
+       }
+      },
+      {
+       "n": 29,
+       "accept": [
+        "protective instinct",
+        "protective instincts"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "hope"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

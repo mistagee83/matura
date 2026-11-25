@@ -1,0 +1,1453 @@
+{
+ "formatVersion": 1,
+ "id": "2018-okt-emelt",
+ "year": 2018,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2018-10-18",
+ "code": "1818",
+ "sourceFiles": {
+  "paper": "2018 - Emeltszintű októberi/e_angol_18okt_fl.pdf",
+  "key": "2018 - Emeltszintű októberi/e_angol_18okt_ut.pdf",
+  "audio": "2018 - Emeltszintű októberi/e_angol_18okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2018-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 8,
+     "instructions": [
+      "Read this article about a man conducting a humorous campaign and then read the half sentences (1-8) following it.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "There are three extra letters that you will not need."
+     ],
+     "title": "MAN WHO HAS IT ALL",
+     "body": [
+      "Parody gender equality Twitter account has proved a big hit \"A successful career? Children? Perfect hair? I don't know how he does it...\" said no one, ever. The idea that men might have to juggle to maintain that precious work/life balance is rarely talked about. Which is why a parody Twitter account – Man Who Has It All – has hit such a nerve.",
+      "The Man is a \"working dad\" (now there's a phrase you don't hear every day) dishing out 140- character nuggets of advice for \"man juggling a successful career and fatherhood\". By flipping genders, he reveals how ludicrous the tips offered by women's mags and lifestyle blogs are: \"Dad with a career? Beat stress by stacking on veggies, teaming up with other dads & dressing for your face shape\". He also highlights the sexism in statements that are supposedly supportive of women, but which would never be said of a man: \"CONGRATULATIONS to all male EU leaders for getting there on merit alone. Very well done all of you.\" But he's best when he skewers comments many women make about their other halves: \"My wife is very much a 'HANDS-ON-MUM'. I'm so lucky. She even changed their nappies when they were little.\"",
+      "The Man Who Has It All (pictured) reveals that a gender bias in childcare and housework remains. Women are the main breadwinners in four homes out of 10, yet we are a long way off domestic democracy. Seventy per cent of all housework in the UK is done by women and middle-class men are most reluctant to lift a finger (or duster).",
+      "\"Women are still working what Arkie Hochschild called \"The second shift\" back in 1989,\" explains occupational psychologist Almuth McDonall. \"I expected the gender difference to be smaller in couples where both partners worked full-time, but it was even bigger. I think this is because the working mothers felt guilty, so they had to do even more.\"",
+      "So who is this mysterious man? In his bio he claims to be a \"frazzled working dad with a wife and three kids who spends his 'me time' on Twitter.\" When asked for an interview for this newspaper, he said he was \"too busy juggling savoury yoghurts, kids' sportswear, healthy- looking skin, a career & pasta salads\" to answer my questions.",
+      "The Man Who Has It All says: \"If I can help one man stay hydrated, I'll be a happy man\", but maybe it's more than a joke. If the popularity of this account encourages one father to step up his share of childcare, or challenges one woman to realise she might not be \"very lucky\" to have a man who \"helps with the kids on weekends\", then we might all be \"#Blessed\".",
+      "(The Independent)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "women's magazines."
+      },
+      {
+       "key": "B",
+       "text": "least equal."
+      },
+      {
+       "key": "C",
+       "text": "a Man Who Has It All."
+      },
+      {
+       "key": "D",
+       "text": "childcare."
+      },
+      {
+       "key": "E",
+       "text": "old clichés."
+      },
+      {
+       "key": "F",
+       "text": "gender equality issues."
+      },
+      {
+       "key": "G",
+       "text": "supportive statements."
+      },
+      {
+       "key": "H",
+       "text": "in character."
+      },
+      {
+       "key": "I",
+       "text": "on weekends."
+      },
+      {
+       "key": "K",
+       "text": "the situation."
+      },
+      {
+       "key": "L",
+       "text": "in the house."
+      },
+      {
+       "key": "M",
+       "text": "sexist."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The author of the parody Twitter account calls himself",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "The microblogs treat, in a light-hearted way,",
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "stem": "In his blog The Man deliberately uses",
+       "answer": "E"
+      },
+      {
+       "n": 3,
+       "stem": "The account ridicules staple advice found in",
+       "answer": "A"
+      },
+      {
+       "n": 4,
+       "stem": "People may not even realize their remarks are",
+       "answer": "M"
+      },
+      {
+       "n": 5,
+       "stem": "The fact that many women work full time hasn't changed",
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "stem": "Women married to middle- class men have been found",
+       "answer": "B"
+      },
+      {
+       "n": 7,
+       "stem": "Working mothers often compensate by doing more",
+       "answer": "L"
+      },
+      {
+       "n": 8,
+       "stem": "When asked for an interview, The Man answered",
+       "answer": "H"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "In this article about English Renaissance dramatists some parts of sentences have been left out.",
+      "Your task is to reconstruct the text by filling in the gaps from the list.",
+      "There are two extra letters that you will not need."
+     ],
+     "title": "CHRISTOPHER MARLOWE CREDITED AS ONE OF SHAKESPEARE'S CO-WRITERS",
+     "body": [
+      "The long-held suggestion that Christopher Marlowe was William Shakespeare is now widely dismissed, {{0}}. But Marlowe is enjoying the next best thing – {{9}}with a credit as co-writer of the three Henry VI plays. The two dramatists will appear jointly on each of the three title pages of the plays within the New Oxford Shakespeare, {{10}}.",
+      "Using old-fashioned scholarship and 21st-century computerised tools to analyse texts, the edition’s international scholars have contended that {{11}} was far more extensive than has been realised until now. Lead researcher Gary Taylor told the Guardian: “The orthodox view was that Shakespeare didn’t collaborate at all. What has happened in the past two or three decades is that {{12}} that we underestimated the amount of Shakespeare’s work that’s collaborative.”",
+      "Taylor said these editions of the Henry VI plays are the first {{13}}. “We have been able to verify his presence in those three plays strongly and clearly enough,” he added. The findings shed new light on the supposed rivalry between Marlowe and Shakespeare. Taylor added: “We can now be confident that {{14}}. Rivals sometimes collaborate.”",
+      "Decisions about authorship have been supported by {{15}}. The researchers believe that computerised textual analysis is now so sophisticated that they can even distinguish between Shakespeare writing under Marlowe’s influence and Marlowe writing alone. Taylor acknowledges that {{16}}: “You can’t say anything about Shakespeare without somebody disagreeing with you, but our knowledge of the past increases by debate of this kind.”",
+      "(guardian.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "the accumulation of new scholarship, techniques and resources has made it clear"
+      },
+      {
+       "key": "B",
+       "text": "a complex jigsaw of different kinds of evidence"
+      },
+      {
+       "key": "C",
+       "text": "along with other authorship theories"
+      },
+      {
+       "key": "D",
+       "text": "Shakespeare’s collaboration with other playwrights"
+      },
+      {
+       "key": "E",
+       "text": "doubts may still be cast on their conclusions"
+      },
+      {
+       "key": "F",
+       "text": "taking centre stage alongside his great Elizabethan rival"
+      },
+      {
+       "key": "G",
+       "text": "they didn’t just influence each other"
+      },
+      {
+       "key": "H",
+       "text": "they never worked with each other"
+      },
+      {
+       "key": "I",
+       "text": "a landmark project to be published this month"
+      },
+      {
+       "key": "K",
+       "text": "to bring the author’s identity into question"
+      },
+      {
+       "key": "L",
+       "text": "to identify Marlowe’s contribution"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "F"
+      },
+      {
+       "n": 10,
+       "answer": "I"
+      },
+      {
+       "n": 11,
+       "answer": "D"
+      },
+      {
+       "n": 12,
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "answer": "L"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "B"
+      },
+      {
+       "n": 16,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 5,
+     "instructions": [
+      "Read through this article about a new craze and then read the multiple-choice questions (17-21) following it.",
+      "Your task is to choose the alternative (A-D) that best corresponds to what the text says."
+     ],
+     "title": "TODAY'S HIPSTERS ARE FLOCKING TO MEDIEVAL MEAD LIKE BEES TO HONEY",
+     "body": [
+      "There have been many baffling food trends over the past couple of years, but none is quite so odd as the comeback of mead. I say comeback, but that suggests mead had slipped off the radar for a couple of years. In fact, the last time the drink was truly fashionable was in the 9th century.",
+      "Mead, made using fermented honey, is probably the oldest known alcoholic drink, whose origins stretch back 9,000 years. It is referenced in Chaucer and frequently in the old English epic poem Beowulf, where Viking warriors tended to go looting and burning villages after getting drunk in the mead hall.",
+      "But after a good 600 years of falling off drinks menus in taverns in favour of beer and wine, mead is back with a zing. According to the American Mead Makers Association, sales went up 42 per cent last year. In the UK, Cornish Mead said sales had gone up 15 per cent in recent weeks alone.",
+      "Various people have suggested that Game of Thrones, the cultish television programme set in the futuristic and yet medieval kingdoms of Westeros and Eosos, is responsible. The characters certainly drown goblets of intoxicating liquor, but mead is never actually mentioned in the programme or in the original Game of Thrones books.",
+      "The cause of mead's sudden popularity are hipsters, those bearded young urbanites who, having helped launch cereal-only cafés, have found mead as the next novelty drink after craft beer. In the endless quest for the new, mead is a perfect candidate with its unique flavour of fermented honey.",
+      "Mead's cause has also been helped by a general move towards \"authenticity\" in food and drink. People are far more interested in traditional methods of food production, which also explains the rise of sourdough bread and the whole slow food movement. At various real ale festivals there are now dedicated mead bars, displaying a wide range of this low-alcohol drink from the sickly sweet to the semi-dry.",
+      "(The Daily Telegraph)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Mead's new popularity is a puzzling phenomenon."
+        },
+        {
+         "key": "B",
+         "text": "Young people drink too much mead."
+        },
+        {
+         "key": "C",
+         "text": "Mead goes well with trendy new foods."
+        },
+        {
+         "key": "D",
+         "text": "Mead is a social drink to be enjoyed in company."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The Vikings spread the custom of mead-drinking."
+        },
+        {
+         "key": "B",
+         "text": "It is easy to get drunk on mead."
+        },
+        {
+         "key": "C",
+         "text": "Honey is an indispensable ingredient of mead."
+        },
+        {
+         "key": "D",
+         "text": "Mead has been in and out of fashion for over a thousand years."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Mead sales have gone up in the US more than in Britain."
+        },
+        {
+         "key": "B",
+         "text": "Mead's popularity is growing on both sides of the Atlantic."
+        },
+        {
+         "key": "C",
+         "text": "Mead is unknown outside Britain or the US."
+        },
+        {
+         "key": "D",
+         "text": "British sales are now catching up with American sales."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "The cult series Games of Thrones has added to the popularity of mead."
+        },
+        {
+         "key": "B",
+         "text": "In Westeros and Eosos mead is drunk in large quantities."
+        },
+        {
+         "key": "C",
+         "text": "In the two kingdoms the characters often get drunk."
+        },
+        {
+         "key": "D",
+         "text": "The series' influence on mead's new popularity is far from obvious."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Mead is now a more popular drink than craft beer."
+        },
+        {
+         "key": "B",
+         "text": "Cereal-only cafés are mostly run by hipsters."
+        },
+        {
+         "key": "C",
+         "text": "Hipsters came to like craft beer and mead in this order."
+        },
+        {
+         "key": "D",
+         "text": "Mead is mainly to be had in cereal-only cafés."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "",
+       "options": [
+        {
+         "key": "A",
+         "text": "Sourdough bread and mead are popular for the same reason."
+        },
+        {
+         "key": "B",
+         "text": "Real ale festivals have been promoted by the slow food movement."
+        },
+        {
+         "key": "C",
+         "text": "Making sourdough bread is a slow process."
+        },
+        {
+         "key": "D",
+         "text": "Sourdough bread is served at traditional real ale festivals."
+        }
+       ],
+       "answer": "A"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-R4",
+     "number": 4,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 9,
+     "instructions": [
+      "Read this article about a notorious episode of 15th century British history and then read the gapped sentences (22-30) following the article.",
+      "Your task is to complete the sentences with one or two words only based on the information in the text. The exact word(s) you need may or may not be in the article."
+     ],
+     "title": "DID RICHARD III KILL THE PRINCES IN THE TOWER?",
+     "body": [
+      "Locked in the Tower in June 1483 with his younger brother, the 12-year-old Edward V – king of England for 86 days after his father's sudden death – was certain that \"death was facing him.\" Two overthrown kings had died in suspicious circumstances already that century. Yet it was still possible their uncle, Richard III, who had seized the throne, would spare them. The princes were so very young, and if it was accepted that they were illegitimate, as their uncle claimed, they would pose little threat.",
+      "The innocent Richard, Duke of York, only nine years old, remained \"joyous\" and full of \"frolics\", even as the last of their servants were dismissed. But the boys were spotted behind the Tower windows less and less often, and by the summer's end they had vanished without a trace.",
+      "It is the fact of their disappearance that lies at the heart of many conspiracy theories over what happened to the princes. Murder was suspected, but without bodies no one could be certain even that they were dead. Many different scenarios have been put forward in the years since. In the nearest surviving contemporary accounts, Richard III is accused of ordering their deaths, the boys having been either suffocated or drowned. Other theories suggested that one or both of the princes escaped.",
+      "In more modern times, some have come to believe that Richard III was innocent of ordering the children's death, and instead spirited his nephews abroad or to a safe place nearer home, only for them to be killed later by Henry VII, who feared the boys' rival claims to the throne. None of these theories, however, has provided a satisfactory answer to the difficult problem at the heart of this mystery: the fact that the boys simply vanished.",
+      "Henry VIII's chancellor, Thomas More, claimed he had been told the murdered boys were buried at the foot of some stairs in the Tower. In 1676, long after the passing of the Tudor dynasty, two skeletons, judged to be of young children, were recovered in the Tower, in a place that resembled More's description of the princes' first burial place. They were then interred at Westminster Abbey, not far from where Henry VII lies.",
+      "(BBC History Magazine)",
+      "12-year-old Edward V had every reason to fear {{0}} as it was not unusual at the time for deposed monarchs to be {{22}}. His and his brother's fate depended entirely on {{23}}. They would live only if they weren't considered a threat to his claim to the {{24}}. The princes were kept in {{25}} but when they were no longer seen, people became {{26}} of Richard. Yet there was no {{27}} for the deed and it was even thought possible that the princes might have {{28}}. In the 17th century, however, what were thought to be their {{29}} were found near the spot {{30}} had been told about. The two princes were then buried in Westminster Abbey."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "death"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "killed",
+        "murdered",
+        "executed",
+        "assassinated",
+        "eliminated",
+        "liquidated"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "their uncle",
+        "Richard III",
+        "the king",
+        "the ruler",
+        "the usurper",
+        "the monarch",
+        "Richard",
+        "Richard’s intentions",
+        "Richard’s goodwill"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "English throne",
+        "crown",
+        "English crown",
+        "king’s throne",
+        "king’s crown",
+        "royal throne",
+        "royal crown",
+        "throne"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "the Tower",
+        "captivity",
+        "the captivity"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "suspicious"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "proof",
+        "evidence"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "escaped",
+        "survived",
+        "lived",
+        "been saved",
+        "got away",
+        "stayed alive",
+        "been spared"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "skeletons",
+        "bones",
+        "remains"
+       ]
+      },
+      {
+       "n": 30,
+       "accept": [
+        "which Thomas More",
+        "the chancellor",
+        "which More",
+        "that Thomas More",
+        "that More",
+        "Thomas More",
+        "More"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2018-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about the history of garden gnomes. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-O) for each gap (1-9) in the text. Write the letter of the appropriate word in the white box.",
+      "Each word can be used once.",
+      "There are four extra words that you do not need to use."
+     ],
+     "title": "WHEN GARDEN GNOMES WERE REAL PEOPLE",
+     "body": [
+      "The 18th century was a great time to be rich. Okay, sure, it’s always great to be rich, but the 1700s were a time of monumental wealth and {{0}} extravagance. In Georgian England, instead of throwing fancy parties, rich nobles {{1}} their wealth by hiring people to camp out on their lawns.",
+      "Looking for the perfect garden ornament, aristocrats {{2}} hire random people to dress up as monks or druids and live in tiny houses or sometimes caves. Their contracts usually {{3}} for seven years, and during that time the “hermits” {{4}} cut their hair, take a bath, or talk to anyone. Oftentimes, they were paid to walk around barefoot and were only {{5}} the simplest of belongings like a mat, an hourglass, and a Bible.",
+      "Of course, this bizarre {{6}} didn’t survive long, and by the beginning of the 1800s professional hermits found themselves out of a job. {{7}}, their legacy lives on to this very day. Next time you walk past your neighbour’s garden, take a quick look and see if you can {{8}} the little red-capped man hiding in the flowerbed. That’s right. The ornamental hermit didn’t truly {{9}}; he just evolved into the modern-day garden gnome.",
+      "(http://knowledgenuts.com)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ACTION"
+      },
+      {
+       "key": "B",
+       "text": "ALLOWED"
+      },
+      {
+       "key": "C",
+       "text": "INCREDIBLE"
+      },
+      {
+       "key": "D",
+       "text": "ALTHOUGH"
+      },
+      {
+       "key": "E",
+       "text": "COULDN’T"
+      },
+      {
+       "key": "F",
+       "text": "CUSTOM"
+      },
+      {
+       "key": "G",
+       "text": "DISAPPEAR"
+      },
+      {
+       "key": "H",
+       "text": "HOWEVER"
+      },
+      {
+       "key": "I",
+       "text": "KEPT ON"
+      },
+      {
+       "key": "K",
+       "text": "LASTED"
+      },
+      {
+       "key": "L",
+       "text": "LET"
+      },
+      {
+       "key": "M",
+       "text": "SHOWED OFF"
+      },
+      {
+       "key": "N",
+       "text": "SPOT"
+      },
+      {
+       "key": "O",
+       "text": "WOULD"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "M"
+      },
+      {
+       "n": 2,
+       "answer": "O"
+      },
+      {
+       "n": 3,
+       "answer": "K"
+      },
+      {
+       "n": 4,
+       "answer": "E"
+      },
+      {
+       "n": 5,
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "answer": "F"
+      },
+      {
+       "n": 7,
+       "answer": "H"
+      },
+      {
+       "n": 8,
+       "answer": "N"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about Michelangelo, the great Renaissance artist.",
+      "Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (10-18).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THE ART OF FORGERY",
+     "body": [
+      "In his new book The Art of Forgery, art {{0}} Noah Charney explores how the best {{10}} in the world managed to fool many experts. Here, he reveals that Michelangelo was one of them.",
+      "Before anyone had heard of Michelangelo Buonarotti, the most {{11}} sculptures on the Renaissance Italian art market were ancient Roman marble statues. Several {{12}} records demonstrate that even an artist as great as Michelangelo could be involved in {{13}} forgery, setting out to create an “ancient Roman statue” of his own. It did nothing to ruin his {{14}}. Indeed, having successfully passed off his work as a Roman statue helped the beginning of a(n) {{15}} career, by showing that Michelangelo had the technical skill and {{16}} genius to match his ancestors.",
+      "Michelangelo carved the marble statue Sleeping Eros in 1496, when he was only 21 and, according to renowned historian Paolo Giovio, doctored it in order to make it appear to be ancient. The statue was sold to Cardinal Raffaele Riario, a great {{17}} of early Roman antiquities.",
+      "When Riario later found out that he had bought a forgery, he returned the statue to the dealer from whom he had bought it. However, in the meantime, Michelangelo had gone from being an unknown 21-year-old to Rome’s hottest celebrity, thanks largely to the {{18}} of his Pietà, which proudly stood in the Basilica of Saint Peter in Rome. The dealer was thus happy to take it back, and had no trouble selling it on, now under the authorship of the suddenly famous Michelangelo.",
+      "(http://www.bbc.com)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "history",
+       "example": true,
+       "accept": [
+        "historian"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "forge",
+       "accept": [
+        "forgers"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "value",
+       "accept": [
+        "valuable",
+        "valued"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "biography",
+       "accept": [
+        "biographical",
+        "biographic"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "intention",
+       "accept": [
+        "intentional"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "repute",
+       "accept": [
+        "reputation"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "believe",
+       "accept": [
+        "unbelievable"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "create",
+       "accept": [
+        "creative"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "collect",
+       "accept": [
+        "collector"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "fame",
+       "accept": [
+        "fame"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about a controversial advertising campaign. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (19-26) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "FAT & UGLY? JUST BE UGLY",
+     "body": [
+      "People aren’t amused by gym’s ‘light-hearted’ ad A gym chain based in Derbyshire {{0}} divided opinion with its latest ‘light-hearted’ membership ad. The new Fit4Less gym advertising billboard, spotted in Sawley, Derbyshire, reads: ‘Tired of being…Fat & Ugly? Just be ugly at Fit4Less’.",
+      "The gym chain has used similar posters before, {{19}} the Sawley billboard has caused public outrage. And this billboard replaces one they were asked to remove in April, {{20}} depicted a UFO picking someone up, with the words ‘they’ll take the fat ones first.’",
+      "What happened {{21}} the time was that local anti-bullying charity Combat Bullying condemned the poster for encouraging bullying. And they’re {{22}} impressed with the replacement.",
+      "‘I don’t understand why they are using these kinds of advertising. It’s almost like shaming people,’ the charity’s founder Natalie Harvey {{23}} the BBC.",
+      "Others, however, defended the ad, saying people were just ‘too sensitive’. In a statement, the gym said: ‘Fit4less is a brand that doesn’t take itself too {{24}}; the campaign is intended to be seen as light-hearted fun and we certainly don’t mean {{25}} cause offence.’",
+      "The gym also claims that {{26}} adopting a light-hearted approach they can reach a wider audience and gain the attention of people who wouldn’t usually respond to traditional gym advertising.",
+      "(http://metro.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "has"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "but",
+        "and"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "at"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "not",
+        "hardly",
+        "less",
+        "barely",
+        "scarcely"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "told",
+        "informed"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "seriously"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "by",
+        "through",
+        "when"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a small town in Alaska. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "LET'S HOPE THEY LIKE THEIR NEIGHBOURS!",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "The small Alaskan town of Whittier sees up to 250 inches of the",
+       "answer": "the"
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "snow annually. Surrounded only by mountains and the sea, the",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "remote town is so isolated that it’s only accessible by the North",
+       "answer": "the"
+      },
+      {
+       "n": 28,
+       "text": "America’s longest one-way tunnel, which one stretches for two and",
+       "answer": "one"
+      },
+      {
+       "n": 29,
+       "text": "a half miles. In Whittier all 218 residents live in one single multi-",
+       "answer": null
+      },
+      {
+       "n": 30,
+       "text": "story building. The building several houses the town’s entire",
+       "answer": "several"
+      },
+      {
+       "n": 31,
+       "text": "neighbourhood, including in the local police department, a school,",
+       "answer": "in"
+      },
+      {
+       "n": 32,
+       "text": "two convenience stores, a laundromat and the post office. The local",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "church performs baptisms in an inflatable pool in the same",
+       "answer": "same"
+      },
+      {
+       "n": 34,
+       "text": "basement and children can enough easily knock on their teacher's",
+       "answer": "enough"
+      },
+      {
+       "n": 35,
+       "text": "door for homework help in the evenings. Most of residents work for",
+       "answer": "of"
+      }
+     ],
+     "outro": "the port as boat mechanics, but a few drive out to work outside the community. (http://www.dailymail.co.uk)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2018-okt-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear a museum guide talking about a famous van Gogh portrait.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you will have to circle one or two letters.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to make your decisions about your answers."
+     ],
+     "audio": {
+      "file": "e_angol_18okt_fl.mp3",
+      "start": 0,
+      "end": 761.8,
+      "clip": "hang/e_angol_18okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The museum guide says that the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Van Gogh room is the first stop on the tour."
+        },
+        {
+         "key": "B",
+         "text": "collection has several of van Gogh’s portraits."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "In his final years, Van Gogh …",
+       "options": [
+        {
+         "key": "A",
+         "text": "painted more than two dozen self portraits."
+        },
+        {
+         "key": "B",
+         "text": "insisted on using the same technique in his paintings."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Van Gogh painted …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Self Portrait with Bandaged Ear in the second half of the 1880s."
+        },
+        {
+         "key": "B",
+         "text": "at least two versions of the Self Portrait with Bandaged Ear."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Van Gogh …",
+       "options": [
+        {
+         "key": "A",
+         "text": "decided to work with Gauguin years before he painted this self-portrait."
+        },
+        {
+         "key": "B",
+         "text": "wanted to set up a studio for artists with the help of Gauguin."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Van Gogh and Gauguin …",
+       "options": [
+        {
+         "key": "A",
+         "text": "couldn’t work together because they had different opinions on art."
+        },
+        {
+         "key": "B",
+         "text": "became involved in a lot of fierce arguments."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Van Gogh got so angry with Gauguin that he …",
+       "options": [
+        {
+         "key": "A",
+         "text": "attacked him."
+        },
+        {
+         "key": "B",
+         "text": "cut off his friend’s earlobe."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Self Portrait with Bandaged Ear …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was painted the day after the terrible incident."
+        },
+        {
+         "key": "B",
+         "text": "doesn't actually show the ear that was injured."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Van Gogh’s two biographers think that he painted this picture to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "show that he was mentally stable."
+        },
+        {
+         "key": "B",
+         "text": "avoid being taken to a madhouse."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Van Gogh …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was sent to hospital at the request of his neighbours."
+        },
+        {
+         "key": "B",
+         "text": "finally agreed that he should be taken to the local hospital."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear about the spaceflight and landing of two cosmonauts, Alexei Leonov and Pavel Belyayev.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_18okt_fl.mp3",
+      "start": 761.8,
+      "end": 1251.03,
+      "clip": "hang/e_angol_18okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It was in 1965 that Leonov completed the first spacewalk ever.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The original plan was that Leonov would return to the spacecraft feet first.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "When he was letting all the oxygen out of his suit, Leonov felt dangerously cold.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "It was Leonov who first noticed that the automatic guidance system wasn't working.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Both cosmonauts had been properly trained in manual landing.",
+       "answer": "C"
+      },
+      {
+       "n": 13,
+       "stem": "The two cosmonauts managed to cut the communication cable.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Eventually, they happened to land near the area where they had wanted to.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "The landing capsule was their only protection from the deep snow.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "In spring, bears and wolves are especially dangerous in the taiga.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Luckily, the temperature wasn’t very cold during the nights the cosmonauts spent there.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2018-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section, you will hear an interview with a young inventor called Boyan Slat.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you. Use the exact words you hear in the recording.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_18okt_fl.mp3",
+      "start": 1251.03,
+      "end": 1794.88,
+      "clip": "hang/e_angol_18okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What is Boyan’s project called? It’s called {{gap}}",
+       "accept": [
+        "Ocean Cleanup Project"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "How much plastic could the project remove from the world’s oceans? It could remove {{gap}}",
+       "key": "72.5 million tons (of plastic)",
+       "keywords": [
+        [
+         "72",
+         "5",
+         "million",
+         "tons"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "What did Boyan realize when he was diving in Greece? In the ocean there were more {{gap}}",
+       "key": "plastic bags than fish",
+       "keywords": [
+        [
+         "plastic",
+         "bags",
+         "than",
+         "fish"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "What did Boyan try to understand? Why floating ocean plastic is so {{gap}}",
+       "key": "difficult to clean up",
+       "keywords": [
+        [
+         "difficult",
+         "clean",
+         "up"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "Why did Boyan, the professors and industry experts compile a list of 50 questions? In order to confirm that the {{gap}}",
+       "key": "objective is achievable",
+       "keywords": [
+        [
+         "objective",
+         "is",
+         "achievable"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Lately, what have many concepts been based on? They have been based on {{gap}}",
+       "key": "ships with nets (to collect plastic) / the ship-and-net method",
+       "keywords": [
+        [
+         "ships",
+         "with",
+         "nets"
+        ],
+        [
+         "ship-and-net",
+         "method"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Besides wasting time and money and killing a lot of fish, what other problem did Boyan mention in connection with the plastic collection proposed by others? It would create {{gap}}",
+       "key": "harmful emissions",
+       "keywords": [
+        [
+         "harmful",
+         "emissions"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "What question did Boyan ask himself? Why move through the oceans if the {{gap}}",
+       "key": "oceans can move through you",
+       "keywords": [
+        [
+         "oceans",
+         "can",
+         "move",
+         "through",
+         "you"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "What does Boyan say about the other method? That it is not at all {{gap}}",
+       "key": "environmentally friendly",
+       "keywords": [
+        [
+         "environmentally",
+         "friendly"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó megoldások fogadhatók el!)"
+     }
+    }
+   ]
+  }
+ ]
+}

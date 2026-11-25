@@ -1,0 +1,1309 @@
+{
+ "formatVersion": 1,
+ "id": "2024-okt-emelt",
+ "year": 2024,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2024-10-17",
+ "code": "E2411",
+ "sourceFiles": {
+  "paper": "2024 - Emeltszintű október/e_angol_24okt_fl.pdf",
+  "key": "2024 - Emeltszintű október/e_angol_24okt_ut.pdf",
+  "audio": "2024 - Emeltszintű október/e_angol_24okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2024-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 6,
+     "instructions": [
+      "Read the following article about bookstores in New York and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the text.",
+      "Remember that there are three extra letters that you will not need."
+     ],
+     "title": "BOOKSTORES IN NEW YORK",
+     "body": [
+      "New York City is one of the most literary cities in the world. If you’re a book lover roaming the streets of the Big Apple, we’re here to give you some advice.",
+      "Books are Magic is owned by Emma Straub, the author of The Vacationers. She and her husband, who also live in the area, created a literary slice of heaven. Aside from being full of awesome reads, the store has a ton of cool author events.",
+      "Mcnally Jackson Books has a great selection of used books and new titles available. Their selection varies because many books are bought from the community, and one can even find some signed by local authors – a real treat for a bookie!",
+      "Astoria Bookshop holds a variety of literary events that are sure to bring a crowd. They do events like “The Storytelling Show”, where people can put their name in a hat and have the chance to be chosen to tell a five-minute, no-theme story to a room full of total strangers.",
+      "The Corner Bookstore has been impacting local readers since 1978. They carefully select the best of the best current titles to display and sell, and they feature an impressive kids’ section that satisfies the family friendly area and their residents.",
+      "For over 50 years, Rizzoli Bookstore has been considered one of the foremost independent booksellers in America, featuring illustrated books on architecture, interior design, fashion, photography, cookery, and more.",
+      "Housing Works is more than just a bookstore. It’s a non-profit that was established to fight AIDS and homelessness in NYC, causes it helps to fund through selling books. Every book comes from donation, and with a staff made up almost entirely of volunteers, this shop is able to put 100% of their proceeds back into Housing Works.",
+      "Strand Bookstore was started in 1927 in a street that used to be called “Book Row”. The Bass family runs this shop in its current space, just a few blocks from the original location, and carries over 2.5 million used, new, and rare books."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "has some books with inscriptions from their writers."
+      },
+      {
+       "key": "B",
+       "text": "features a wide variety of non- fiction books."
+      },
+      {
+       "key": "C",
+       "text": "has owners that are residents of the neighbourhood their shop is in."
+      },
+      {
+       "key": "D",
+       "text": "offers a nice cup of coffee or tea while you’re browsing."
+      },
+      {
+       "key": "E",
+       "text": "has a wide selection of children’s literature."
+      },
+      {
+       "key": "F",
+       "text": "was once located on a street full of other bookstores."
+      },
+      {
+       "key": "G",
+       "text": "organises events where they count on customers’ active participation."
+      },
+      {
+       "key": "H",
+       "text": "is not intended to make money but aims to make the world a better place."
+      },
+      {
+       "key": "I",
+       "text": "sometimes houses exhibitions by contemporary artists."
+      },
+      {
+       "key": "K",
+       "text": "has recently reopened after months of renovation."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Books are Magic ...",
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "stem": "Mcnally Jackson Books...",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Astoria Bookshop ...",
+       "answer": "G"
+      },
+      {
+       "n": 3,
+       "stem": "The Corner Bookstore ...",
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "stem": "Rizzoli Bookstore ...",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "Housing Works ...",
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "stem": "Strand Bookstore ...",
+       "answer": "F"
+      }
+     ],
+     "source": "https://independentbookreview.com/2023/01/04/12-of-the-best-independent-bookstores-in-nyc/"
+    },
+    {
+     "id": "2024-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about a famous university tradition.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (7-14) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "WHY DO GRADUATES TOSS THEIR HATS IN THE AIR?",
+     "body": [
+      "Imagine, for a second, that you are {{0}} through the eyes of an alien unfamiliar with our culture. You see students struggling day after day with lectures, assignments, and tests {{7}}, signifying the completion of their studies. You see these students, in some instances, spending time and effort creatively decorating and {{8}}. You’d probably expect that they’d cherish these symbolic items forever, but to your surprise, at the end of the graduation ceremony, they all throw their graduation caps in the air!",
+      "We’ve {{9}}, but has it always been like this? As with most cultural norms, there is an origin story. The first cap throwing ceremony took place at the US Naval Academy in 1912, where students spent two years as ‘midshipmen’ before graduating and becoming naval officers. With the new title came a new hat for their uniforms. During the ceremony, the soon- to-be Navy officers were {{10}}. At this point, realising that their midshipmen hats were now unnecessary, the graduating class began tossing their old hats in the air in celebration.",
+      "This started the tradition at the US Naval Academy for every graduating class to symbolize the shedding of their midshipmen titles and preparing themselves for the role of naval officer. Other institutions began to follow the tradition, {{11}} for starting a new chapter in a graduate's life.",
+      "This tradition may be expected {{12}} in the future. Believe it or not, however, in recent years, there have been some schools where banning the century-old tradition has become the norm, due to the fact that the graduation cap isn’t the softest of hats, and has {{13}} over the years. The University of East Anglia, for example, has asked bare-headed graduates {{14}}, and then added the caps back to the photos with photoshop. As you can imagine, this has been met with some resistance, and the tradition is likely to continue for years to come."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "handed their new Navy officer hats"
+      },
+      {
+       "key": "B",
+       "text": "to remain a part of academic culture"
+      },
+      {
+       "key": "C",
+       "text": "observing the human species"
+      },
+      {
+       "key": "D",
+       "text": "given a chance to choose the colour of their hats"
+      },
+      {
+       "key": "E",
+       "text": "personalizing the tops of their graduation caps"
+      },
+      {
+       "key": "F",
+       "text": "to pose as if they were throwing their caps in the air"
+      },
+      {
+       "key": "G",
+       "text": "to finally receive a diploma and cap and gown"
+      },
+      {
+       "key": "H",
+       "text": "seen this repeatedly in movies"
+      },
+      {
+       "key": "I",
+       "text": "caused some injuries to graduates"
+      },
+      {
+       "key": "K",
+       "text": "viewing the act as a symbolic gesture"
+      },
+      {
+       "key": "L",
+       "text": "passing down graduation hats from generation to generation"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "answer": "G"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "H"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "K"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "I"
+      },
+      {
+       "n": 14,
+       "answer": "F"
+      }
+     ],
+     "source": "https://www.tasseldepot.com/why-do-we-throw-graduation-caps?fbclid=IwAR1giOz0xWs4_sIv3A6foaoJ4e-B6CxUPI4zvf4i97P2-"
+    },
+    {
+     "id": "2024-okt-emelt-R3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about the “Steamboat Ladies” and then read the statements (15-22) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "THE STEAMBOAT LADIES",
+     "body": [
+      "It wasn’t very long ago that women were first given the opportunity to study at Trinity College Dublin, which may seem shocking for a school that now has an even ratio of male to female students.",
+      "Provost George Salmon allegedly promised that he would only let women into Trinity College “over his dead body”, but his objections were overcome within a year of his death in 1904, and it was decided that there would be no viable reason to prevent women from gaining their degrees just as their male counterparts did. Coincidentally, the first woman to successfully register in the College, Isabel Marion Weir Johnston, did so on January 22nd, 1904, the same day former Provost Salmon died. Her entrance examinations even had to be put off because of his funeral.",
+      "Trinity College’s policy on the admission of women was a progressive view at a time when women did not yet typically receive degrees. While they could technically sit their degree examinations at both Cambridge and Oxford, they would not be given the opportunity to receive their degrees. The lack of degrees meant that women did not earn the same qualification as men even if they took the same steps in university.",
+      "Trinity’s differing policy on women led to a group called the “Steamboat Ladies”, hundreds of women who decided to travel to Ireland to receive degrees from Trinity between 1904 and 1907. They were given this nickname due to their arrival on steamboats from the UK. Trinity College expected a small number of Oxbridge women to travel to Ireland for their degrees. However, between 1904 and 1907, 720 women from Oxford and Cambridge arrived with the aim to graduate. The ability to gain their degrees was invaluable for their professional status, especially if their aspirations led to teaching.",
+      "Although some of the women stayed a bit longer at Trinity College, many of them came over for just one night to participate in the graduation ceremonies. They took one day off, came on the overnight steamboat, stayed one night in Dublin, got their degrees the next day, and went back the following night."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Trinity College Dublin has a similar number of male and female students today.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "George Salmon was fiercely against women being admitted to Trinity College.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "The first woman to study at Trinity took her entrance exam while Provost Salmon was being buried.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "Male students at Trinity College Dublin were opposed to women getting degrees there.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The fact that women could not graduate from Cambridge and Oxford did not mean that they could not study there.",
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "It was Trinity College’s equal rights policy that resulted in the movement of the “Steamboat Ladies”.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "It was only if a woman wanted a career in teaching that they could receive their degree in Oxford or Cambridge.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "In order to prove they were qualified, women were required to take their degree examinations at Trinity the day before receiving their degree.",
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "It was Trinity’s practice to allow women to graduate that eventually convinced Oxford and Cambridge Universities to do the same.",
+       "answer": "C"
+      }
+     ],
+     "source": "https://trinitynews.ie/2021/12/the-steamboat-ladies/"
+    },
+    {
+     "id": "2024-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 6,
+     "instructions": [
+      "Read this article about a community enterprise in Edinburgh.",
+      "Some sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (23-28) from the list (A-K) below.",
+      "Remember that there are three extra letters that you do not need."
+     ],
+     "title": "THE HISTORY OF THE EDINBURGH TOOL LIBRARY",
+     "body": [
+      "The Edinburgh Tool Library makes more than 2,000 tools available free of charge to Edinburgh residents. {{0}}",
+      "The inspiration for the library came when its founder, Chris Hellawell, came across a similar project in Canada. {{23}} During his stay, he visited the Toronto Tool Library and met Ryan Dyment, one of the driving forces behind the project. “I picked up invaluable advice from Ryan, but what stuck with me most was an encounter with another visitor, a young man called Philippe, who was having a tough time. {{24}} He was probably around the same age as me and I guess I could see something of myself in him,” Chris says.",
+      "“To his credit, Philippe had found a job as a roofer and was due to start the following Monday. {{25}} Nor did he have any money. Ryan ran through the set-up at the Library with Philippe and let him borrow what he needed, registering him as a temporary member. This meant Philippe was able to earn a wage, and in turn he then became a full member of the library. {{26}} In an instant, his whole life had been transformed, and he wasn’t far from tears,” Chris remembers.",
+      "Before Toronto, Chris had understood the environmental case for tool sharing. {{27}} Chris returned from Toronto determined to start Edinburgh’s own Library. He established a board of trustees, and they applied for charitable status, which took longer than they had hoped. {{28}} The board set up a staff team, built up the tool inventory through donations and raised public interest in the idea. Then, in March 2015, the UK’s first tool library opened on Leith Walk, Edinburgh."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Something as simple as access to tools had made a fundamental difference to a man facing the most challenging of times."
+      },
+      {
+       "key": "B",
+       "text": "There he witnessed first-hand the positive environmental and social impacts a tool library can have on a community."
+      },
+      {
+       "key": "C",
+       "text": "Since its opening in 2015, the library has saved its members over £1.3million by sharing instead of buying."
+      },
+      {
+       "key": "D",
+       "text": "Members were encouraged to provide their unused tools as part of their membership donation."
+      },
+      {
+       "key": "E",
+       "text": "To do the job, he needed to find a hammer, Stanley knife, and tool belt, which he didn’t have."
+      },
+      {
+       "key": "F",
+       "text": "After a long battle, they finally succeeded and managed to find funding organizations."
+      },
+      {
+       "key": "G",
+       "text": "Having access to tools is one thing, but it is important that people know how to use them."
+      },
+      {
+       "key": "H",
+       "text": "He was broke and homeless, living on friends’ sofas."
+      },
+      {
+       "key": "I",
+       "text": "On leaving the city, he also understood the social transformations and human impacts made possible through the sharing of resources."
+      },
+      {
+       "key": "K",
+       "text": "He hopes that the charity will soon be able to open more locations across the city and offer the library service to more communities."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "answer": "H"
+      },
+      {
+       "n": 25,
+       "answer": "E"
+      },
+      {
+       "n": 26,
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "answer": "I"
+      },
+      {
+       "n": 28,
+       "answer": "F"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2024-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 7,
+     "instructions": [
+      "You are going to read a story about Neil Armstrong, the first man to walk on the Moon, and his barber. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-L) for each gap (1-7) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "ONE SMALL CUT FOR A MAN, ONE LEGAL ACTION",
+     "body": [
+      "Armstrong used to go to Marx’s Barber Shop in Lebanon, Ohio, about once a month for a cut. That stopped when he learned that owner Marx Sizemore had {{0}} his hair clippings from the floor and sold them for $3,000. The buyer, John Reznikoff of Westport, Connecticut, is a collector {{1}} by the Guinness World Records as having the largest collection of hair from historical celebrities. His collection includes hair from Abraham Lincoln, Marilyn Monroe, Albert Einstein and Napoleon.",
+      "Sizemore, who {{2}} selling the hair, said Armstrong asked him to try to retrieve it. He told Armstrong that the buyer did not want to give up the locks. Then, Sizemore got a letter from the former astronaut’s attorney {{3}} that the sale broke an Ohio law designed to protect the rights of famous people. The letter threatened legal action {{4}} Sizemore did not return the hair or contribute his profit {{5}} charity and asked Sizemore to pay Armstrong’s legal costs. {{6}} Sizemore said he would not pay and had already spent most of the $3,000 on bills. Reznikoff said that he wouldn’t give the hair back, but would donate $3,000 to charity. He decided to make the donation {{7}} reading news accounts that said Armstrong had threatened to sue."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ADMITTED"
+      },
+      {
+       "key": "B",
+       "text": "AFTER"
+      },
+      {
+       "key": "C",
+       "text": "COLLECTED"
+      },
+      {
+       "key": "D",
+       "text": "BUT"
+      },
+      {
+       "key": "E",
+       "text": "CLAIMING"
+      },
+      {
+       "key": "F",
+       "text": "FOR"
+      },
+      {
+       "key": "G",
+       "text": "IF"
+      },
+      {
+       "key": "H",
+       "text": "LISTED"
+      },
+      {
+       "key": "I",
+       "text": "TELLING"
+      },
+      {
+       "key": "K",
+       "text": "TO"
+      },
+      {
+       "key": "L",
+       "text": "UNTIL"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "A"
+      },
+      {
+       "n": 3,
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "answer": "K"
+      },
+      {
+       "n": 6,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.nbcnews.com/id/wbna8062442"
+    },
+    {
+     "id": "2024-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the Statue of Liberty. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (8-15).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "WHY THE STATUE OF LIBERTY ALMOST DIDN’T GET BUILT",
+     "body": [
+      "The {{0}} of the Statue of Liberty was a {{8}} project between France and the United States. France was supposed to build the copper statue of a woman {{9}} a torch, and the United States was supposed to build its pedestal.",
+      "But for a while, it wasn’t clear if the statue would go up in New York City at all. When it arrived (in pieces) in New York Harbor in June 1885, the pedestal was still under construction, and the American Committee of the Statue of Liberty hadn’t raised the {{10}} $250,000 necessary to build it.",
+      "Most of the money the committee had raised so far had come in the form of donations from {{11}} Americans. There wasn’t any federal funding for the pedestal, because the U.S. Congress couldn’t agree on a spending package. There was a lot of {{12}} over who should put up the money. In addition, New York Governor Grover Cleveland said that New York City couldn’t use its city {{13}} funds to pay for the pedestal. Other cities expressed interest in funding the pedestal – but this was understandably on the condition that the statue be {{14}} to their city.",
+      "Joseph Pulitzer, a Hungarian immigrant and rich newspaper {{15}}, was in favour of erecting the statue in New York City. On March 16, 1885, he asked readers of his newspaper the New York World to send in donations for the pedestal. Pulitzer succeeded: by August 1885, more than 120,000 people had helped to raise enough money."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "construct",
+       "example": true,
+       "accept": [
+        "construction"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "join",
+       "accept": [
+        "joint"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "raise",
+       "accept": [
+        "raising"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "rough",
+       "accept": [
+        "roughly"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "wealth",
+       "accept": [
+        "wealthy"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "agree",
+       "accept": [
+        "disagreement"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "govern",
+       "accept": [
+        "government",
+        "government’s",
+        "governor’s",
+        "governmental"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "move",
+       "accept": [
+        "moved"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "publish",
+       "accept": [
+        "publisher",
+        "publicist"
+       ]
+      }
+     ],
+     "source": "https://www.history.com/news/statue-of-liberty-funding-pulitzer"
+    },
+    {
+     "id": "2024-okt-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a new programme for visitors to Palau, a country in the West Pacific consisting of 300-plus islands. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (16-24) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "PALAU'S WORLD-FIRST 'GOOD TRAVELLER' INCENTIVE",
+     "body": [
+      "In a world-first initiative, visitors to Palau will be offered exclusive experiences {{0}} on how they treat the environment and culture, rather {{16}} on how much they spend.",
+      "Despite being home to fewer than 20,000 residents, the Republic of Palau is making a massive impact to preserve the planet. Not only {{17}} the country adopt the world's first anti-nuclear constitution in 1979, but it also implemented the Palau Pledge in December 2017, {{18}} requires international visitors to sign a pledge stamp in their passports that promises the children of Palau that they will \"tread lightly\" and \"preserve and protect\" the islands of Palau.",
+      "The idea for the Palau Pledge came about in 2015, {{19}} which time tourism had reached 150,000 visitors annually, many of {{20}} didn't understand how important sustainability was to residents. While Palauan culture values hospitality and treats visitors {{21}} respect, locals could see how under-educated visitors were harming their environment.",
+      "To combat this, Palau needed a way to educate travellers and {{22}} them earn the privilege of being a friend. Resident Laura Clarke and Palauan Jennifer Koskelin-Gibbons launched a new programme called Ol'au Palau in 2020, which offers points to those who treat the island nation gently and respectfully by making sustainable decisions, {{23}} as using environmentally-friendly sunscreen and eating locally produced food. It also promises new experiences that may once have {{24}} rare for tourists to partake in, e.g. taking an unmarked hike or sharing a meal with locals and elders."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "based"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "than"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "did"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "by",
+        "before",
+        "at"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "whom"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "have",
+        "make",
+        "let",
+        "help"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "such"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "been"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20220517-palaus-world-first-good-traveller-incentive"
+    },
+    {
+     "id": "2024-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about the world’s 8th continent. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "ZEALANDIA",
+     "intro": "In 1820, a Russian ship packed with sailors spotted a towering shore of ice on the horizon. This was the first ever sighting of the Fimbul Ice Shelf,",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "and it marked the official discovery of a new continent: Antarctica.",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "Today, schoolchildren, the explorers and politicians generally",
+       "answer": "the"
+      },
+      {
+       "n": 25,
+       "text": "accept the division of the world's ground into seven continents.",
+       "answer": null
+      },
+      {
+       "n": 26,
+       "text": "But in 2017, the story took on an unexpected turn: the seven-",
+       "answer": "on"
+      },
+      {
+       "n": 27,
+       "text": "continent model has been a mistake for all along. Enter Zealandia,",
+       "answer": "for"
+      },
+      {
+       "n": 28,
+       "text": "a long-lost land to the southeast of Australia, which otherwise known",
+       "answer": "which"
+      },
+      {
+       "n": 29,
+       "text": "as the planet's forgotten eighth continent. While scientists had long",
+       "answer": "while"
+      },
+      {
+       "n": 30,
+       "text": "predicted the existence of this bonus southern landmass, but it could",
+       "answer": "could"
+      },
+      {
+       "n": 31,
+       "text": "remained missing for 375 years – mainly because that it’s almost",
+       "answer": "that"
+      },
+      {
+       "n": 32,
+       "text": "entirely submerged under 1-2 km of the water.",
+       "answer": "the"
+      },
+      {
+       "n": 33,
+       "text": "In September 2023, an international team of researchers has",
+       "answer": "has"
+      },
+      {
+       "n": 34,
+       "text": "released the most detailed maps of Zealandia to date. In the process,",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "they uncovered hints as to how was this mysterious continent formed",
+       "answer": "was"
+      }
+     ],
+     "outro": "and why it has been obscured beneath the waves for the last 25 million years."
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2024-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear some interesting information about two Australian animals.",
+      "Your task is to complete the sentences with two words or numbers indicated by the gaps, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_24okt_fl.mp3",
+      "start": 0,
+      "end": 585.86,
+      "clip": "hang/e_angol_24okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Tasmanian devils are the largest {{gap}} {{gap}} in the world.",
+       "gaps": [
+        [
+         "carnivorous"
+        ],
+        [
+         "marsupials"
+        ]
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Marsupials {{gap}} and {{gap}} their young in their pouch.",
+       "unordered": true,
+       "gaps": [
+        [
+         "carry"
+        ],
+        [
+         "nurse"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Tasmanian devils have one of the most {{gap}} {{gap}} of any mammal in the world.",
+       "gaps": [
+        [
+         "powerful"
+        ],
+        [
+         "bites"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Tasmanian devils eat the remains of dead animals, even the {{gap}} and {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "hair"
+        ],
+        [
+         "bones"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "When threatened, Tasmanian devils howl, bare their teeth and {{gap}} around in {{gap}}.",
+       "gaps": [
+        [
+         "spin"
+        ],
+        [
+         "circles"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "The long {{gap}} {{gap}} of wombats keep growing.",
+       "gaps": [
+        [
+         "front"
+        ],
+        [
+         "teeth"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "The pouch of a wombat faces {{gap}} so that {{gap}} cannot get into it.",
+       "gaps": [
+        [
+         "backwards",
+         "backward"
+        ],
+        [
+         "dirt"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Wombats eat a variety of {{gap}} and {{gap}}.",
+       "unordered": true,
+       "gaps": [
+        [
+         "grasses"
+        ],
+        [
+         "roots"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Wombats have an unusual {{gap}} {{gap}} against dingoes and Tasmanian devils.",
+       "gaps": [
+        [
+         "defence",
+         "defense"
+        ],
+        [
+         "mechanism"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "The wombat {{gap}} the opening of the {{gap}} with its backside.",
+       "gaps": [
+        [
+         "blocks"
+        ],
+        [
+         "tunnel"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi szavak fogadhatók el. Mindkettőnek szerepelnie kell!)"
+     }
+    },
+    {
+     "id": "2024-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will listen to an interview with one of the teachers of Brazilian footballer, Roberto Firmino.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_24okt_fl.mp3",
+      "start": 585.86,
+      "end": 1192.41,
+      "clip": "hang/e_angol_24okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Firmino played for …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Hoffenheim for four years."
+        },
+        {
+         "key": "B",
+         "text": "Liverpool for eight years."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "Firmino’s home …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was in a wealthy neighbourhood."
+        },
+        {
+         "key": "B",
+         "text": "is now a hotdog place."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "The function of the metal spikes was to keep …",
+       "options": [
+        {
+         "key": "A",
+         "text": "away criminals."
+        },
+        {
+         "key": "B",
+         "text": "Firmino inside."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Firmino’s father …",
+       "options": [
+        {
+         "key": "A",
+         "text": "had a small shop."
+        },
+        {
+         "key": "B",
+         "text": "got some help from his son in his business."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Firmino’s mother …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was afraid that her son might become a criminal."
+        },
+        {
+         "key": "B",
+         "text": "encouraged her son to play football as often as possible."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "Firmino told his teacher that …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his family hadn’t had electricity at the weekend."
+        },
+        {
+         "key": "B",
+         "text": "he was heartbroken that the family hadn’t had any food in the fridge."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "At school …",
+       "options": [
+        {
+         "key": "A",
+         "text": "Firmino suddenly became very talkative when he wanted to play with a ball."
+        },
+        {
+         "key": "B",
+         "text": "Pedro sometimes refused to give Firmino a ball."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "As a well-paid star footballer, Firmino …",
+       "options": [
+        {
+         "key": "A",
+         "text": "settled the medical bills of a family."
+        },
+        {
+         "key": "B",
+         "text": "regularly donates some money to a hospital"
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2024-okt-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a museum guide describing a famous painting called Ophelia by the English painter, John Everett Millais.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_24okt_fl.mp3",
+      "start": 1192.41,
+      "end": 1795.43,
+      "clip": "hang/e_angol_24okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The museum guide says that the Millais painting is the first stop on the tour.",
+       "answer": "B"
+      },
+      {
+       "n": 17,
+       "stem": "The antique dress Millais bought was extremely expensive.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "The flowers Millais painted were all mentioned in Shakespeare’s play.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The violets in the picture symbolize innocence.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "With this picture, Millais’ most important aim was the accurate depiction of nature.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "Millais started painting the background of the picture in the middle of the 19th century.",
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "stem": "Millais enjoyed every minute of painting peacefully outside in nature.",
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Elizabeth Siddal became a painter because of Millais’ influence.",
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Millais didn’t realize that the candles had gone out.",
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "stem": "Elizabeth’s father had to settle the doctor’s bills.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

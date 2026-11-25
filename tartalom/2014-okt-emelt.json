@@ -1,0 +1,1666 @@
+{
+ "formatVersion": 1,
+ "id": "2014-okt-emelt",
+ "year": 2014,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2014-10-16",
+ "code": "1319",
+ "sourceFiles": {
+  "paper": "2014 - Emeltszintű októberi/e_angol_14okt_fl.pdf",
+  "key": "2014 - Emeltszintű októberi/e_angol_14okt_ut.pdf",
+  "audio": "2014 - Emeltszintű októberi/e_angol_14okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2014-okt-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about how to think differently and then read the sentences (1-8) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "FLIP-THINKING − THE NEW BUZZ WORD SWEEPING THE US",
+     "body": [
+      "A teacher is getting his pupils to do their homework during the day and watch his lectures on YouTube at night − turning standard practices on their head can also benefit business.",
+      "In today’s classrooms many schoolchildren will see smartboards instead of chalkboards, and they’ll turn in their assignments online rather than on paper. But the rhythm of their actual days will be much the same as when their parents and grandparents sat in those same seats back in the 20th century.",
+      "During class time, the teacher will stand at the front of the room and hold forth on the day’s topic. Then, as the period ends, he or she will give students a clutch of work to do at home.",
+      "But one American teacher is taking a different approach. Karl Fisch, a teacher of algebra at a high school in Denver, Colorado, has flipped the sequence. He’s recorded his lectures on video and uploaded them to YouTube for his students to watch at home. Then, in class, he works with students as they solve problems and experiment with the concepts. Lectures at home, “homework” in the classroom. Call it the Fisch Flip.",
+      "The Fisch Flip offers a lesson in innovation for organisations of every kind. Consider the publishing industry. It is typical for publishers to launch a book by issuing a pricey hardcover, and then, after a year or so, following it up with a less expensive paperback. Flipping the sequence, i.e. putting out a cheap paperback or even an e-book first makes a lot of sense. Readers are more likely to gamble on an unknown author if they can risk just a few pounds. Then, if the book sells well, the publisher could produce a hardcover edition at a much higher price.",
+      "Or imagine flipping the sequence in the movie business. Contrary to the current strategy, studios could first issue a low-price DVD to build an audience. If the film proved popular, the studio could then release it to the movie theatres.",
+      "Even the human resources department is a candidate for the Fisch Flip. For instance, employees often get a going-away party on their final day with an organisation. But one American software firm does the reverse: the company holds a welcome bash for new employees at 9am on their first day of work.",
+      "(The Sunday Telegraph)"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Flip-thinking is becoming a fashionable concept in the US.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "Reversing accepted procedures can be useful outside schools as well.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "Advanced technology in the classroom has changed students’ lives completely.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Schoolchildren have more homework to do than their parents and grandparents did.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "In Karl Fisch’s algebra courses students don’t need to prepare for the lessons.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "In the publishing industry flipping could mean bringing out a cheap edition first.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Publishers struggle as fewer and fewer people can afford to buy books.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "Studios now issue a DVD before they release a new film to the movie theatres.",
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "stem": "The software firm referred to in the article gives a party on Monday mornings.",
+       "answer": "C"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 7,
+     "instructions": [
+      "Read this article about some interesting new regulations and then read the half sentences that follow the text.",
+      "Your task is to match the half sentences based on the information in the article.",
+      "Remember that there are two extra letters that you will not need."
+     ],
+     "title": "MINISKIRTS TO BE OUTLAWED IN ITALIAN RESORT",
+     "body": [
+      "The mayor of Castellammare di Stabia, a southern Italian beach town, has ordered police officers to fine women who wear short miniskirts as part of a battle to raise what he describes as the level of public decorum. At a council meeting last night, Luigi Bobbio, the recently elected mayor, won a vote to ban clothing considered \"very short\" from the town. Police will have the power to hand out €300 fines to offenders.",
+      "Explaining what he meant by \"very short\", Bobbio said officers would target women wearing miniskirts that did not fully cover their underwear. He said he had faith in officers to make snap decisions. \"They won't need to carry out checks up close,\" Bobbio told the Corriere del Mezzogiorno. \"One glance will be enough to decide.\"",
+      "The new rules, which were approved by the town council yesterday, drew outrage from local opposition politicians, who mounted a sit-in outside the town hall. \"The Bobbio administration is male chauvinist,\" the organisers of the protest said in a statement. \"This town does need decorum, but not the decorum that is measured by a tape measure held against women's clothing.\"",
+      "\"By equating women's clothing with urban decorum, this measure implies women are no more than benches or hedges,\" said councillor Angela Cortese. She said she was equally angered by a local priest, Don Paolo Cecere, who praised the move and claimed it could cut down on sexual harassment. \"This turns the clock back years for women and undermines all our victories,\" she said.",
+      "The Italian consumer group Aduc added: \"Is Castellammare di Stabia in the province of Naples? No, it's in the province of Teheran.\"",
+      "The miniskirt ban is one of 41 new decorum measures introduced by Bobbio. Swearing in public, kicking footballs in the street, lying on benches, climbing trees and walking a dog with a lead longer than two metres will also be targeted. Bobbio said people would not be allowed to wander off the beach in their swimming costume. \"This is not Mallorca,\" he said.",
+      "(www.guardian.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "for using foul language in the street."
+      },
+      {
+       "key": "B",
+       "text": "for letting a dog run free in the park."
+      },
+      {
+       "key": "C",
+       "text": "because you will have to pay a fine."
+      },
+      {
+       "key": "D",
+       "text": "unlike in other holiday resorts."
+      },
+      {
+       "key": "E",
+       "text": "because he needs extra revenues for the municipal budget."
+      },
+      {
+       "key": "F",
+       "text": "that the police will be able to make a quick judgment in each case."
+      },
+      {
+       "key": "G",
+       "text": "that the new rule degrades women."
+      },
+      {
+       "key": "H",
+       "text": "because it may reduce the number of attacks on women."
+      },
+      {
+       "key": "I",
+       "text": "because appropriacy is not a question of size or length."
+      },
+      {
+       "key": "K",
+       "text": "because he wants to improve manners in his town."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "It is not advisable to wear a very short skirt in Castellammare di Stabia",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "The mayor has issued the order",
+       "answer": "K"
+      },
+      {
+       "n": 10,
+       "stem": "Mr. Bobbio is confident",
+       "answer": "F"
+      },
+      {
+       "n": 11,
+       "stem": "Some people object to the new regulations",
+       "answer": "I"
+      },
+      {
+       "n": 12,
+       "stem": "An angry council member thinks",
+       "answer": "G"
+      },
+      {
+       "n": 13,
+       "stem": "The rule has received some praise",
+       "answer": "H"
+      },
+      {
+       "n": 14,
+       "stem": "You may also be fined",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "Mr. Bobbio also said that people will have to wear proper clothes when they leave the beach",
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondat visszahelyezése szövegbe",
+     "points": 9,
+     "instructions": [
+      "In this article about a famous London museum some phrases are missing.",
+      "Your task is to fill in the gaps (16-24) from the list (A-M) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "V&A MUSEUM PLEADS FOR CASH TO SAVE CHARLES DICKENS’S MANUSCRIPTS",
+     "body": [
+      "When Charles Dickens picked up his quill in 1859 to write the words, “It was the best of times, it was the worst of times,” {{0}}, he was setting down some of the most enduring opening lines in world literature. The novelist’s striking phrase helped to set the scene {{16}} amid the turmoil of the French Revolution − but the paper on which he wrote A Tale of Two Cities might not endure for much longer {{17}}. This weekend the Victoria and Albert Museum is launching a campaign to raise funds to conserve the original manuscripts of three of Dickens’s novels, including A Tale of Two Cities. Rescued from the novelist’s home {{18}}, the manuscripts came to the V&A in 1876 when Forster, a literary agent, bequeathed his library to the fledgling museum. The V&A now hopes to restore the priceless originals − which are still legible although blotched − {{19}} of the bicentenary of Dickens’s birth in 2012.",
+      "Written on low-grade blue writing paper, the manuscripts were never “wonderful quality”, {{20}}, deputy keeper of word and image at the V&A. But they remain a crucial part of Britain’s cultural heritage. “It is an immense privilege to have them {{21}},” he said. “We have managed to conserve our other Dickens manuscripts, some of which were {{22}}, but the money just ran out.”",
+      "Meriton suspects that if it hadn’t been for Dickens’s friend Forster, who edited newspapers as well as penning a two-volume Life of Charles Dickens in 1872 and 1874, the manuscripts would have been thrown {{23}} or burned on the fire. ‘I don’t think Dickens would have kept them at all. He was not that interested.”",
+      "A Tale of Two Cities was published {{24}} in Dickens’s literary periodical All the Year Round in 1839.",
+      "(www.guardian.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "in the process of planning, writing and correcting"
+      },
+      {
+       "key": "B",
+       "text": "in time for international celebrations"
+      },
+      {
+       "key": "C",
+       "text": "at the top of a clean sheet of paper"
+      },
+      {
+       "key": "D",
+       "text": "for his celebrated story of love"
+      },
+      {
+       "key": "E",
+       "text": "in weekly instalments"
+      },
+      {
+       "key": "F",
+       "text": "without urgent intervention"
+      },
+      {
+       "key": "G",
+       "text": "according to John Meriton"
+      },
+      {
+       "key": "H",
+       "text": "by his close friend John Forster"
+      },
+      {
+       "key": "I",
+       "text": "with a future biography"
+      },
+      {
+       "key": "K",
+       "text": "in a more stable condition"
+      },
+      {
+       "key": "L",
+       "text": "in the wastepaper bin"
+      },
+      {
+       "key": "M",
+       "text": "in our collection"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "answer": "D"
+      },
+      {
+       "n": 17,
+       "answer": "F"
+      },
+      {
+       "n": 18,
+       "answer": "H"
+      },
+      {
+       "n": 19,
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "answer": "G"
+      },
+      {
+       "n": 21,
+       "answer": "M"
+      },
+      {
+       "n": 22,
+       "answer": "K"
+      },
+      {
+       "n": 23,
+       "answer": "L"
+      },
+      {
+       "n": 24,
+       "answer": "E"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás a szöveg alapján (A-D)",
+     "points": 6,
+     "instructions": [
+      "Read this article about a young author’s first book and then read the sentences (25-30) following it.",
+      "Your task is to choose the option (from A-D) that best completes each sentence according to what the text says."
+     ],
+     "title": "TWENTY CHICKENS FOR A SADDLE",
+     "body": [
+      "Robyn Scott’s memoirs of her African childhood Robyn Scott was nearly seven when, in 1987, her parents upped sticks with her younger brother and sister, leaving the gentle green of New Zealand to return to the place they were raised − Selebi, 150km from the borders of South Africa and Zimbabwe on the eastern edge of Botswana. It was a move that would lead to 13 eccentric, broadly idyllic years that Scott describes in her book.",
+      "The Scotts converted a shaky cowshed next to the property of Robyn’s paternal grandfather, improvising a new floor with varnished brown paper and trying to sidestep the snakes in the laundry.",
+      "Robyn’s father, Keith, devoted his working day to remote bush clinics, where he might see 100 patients in a day, returning by car or plane red-eyed, exhausted and full of curious tales. Her mother, Linda, insisted on home schooling and wholewheat bread, and filled their days with an array of adventures and botanical expeditions.",
+      "The three children sucked it up − growing sensible, upright and untroubled by convention, continuously engaged and endlessly thrilled. Robyn’s first youthful commercial exercise was to rescue 20 battery chickens from destruction, producing a free-range egg business whose profits went part-way towards a new saddle for her wild pony. Both she and her sister chose to be vegetarians. They nurtured a vivarium of snakes and cared for just about any animal that presented itself, endlessly rescuing flailing insects from their back-yard pool.",
+      "But Keith dreamed of owning a freehold farm in Botswana and returning it to its original beauty, so the family moved on from Selebi after five years to a 2,000-acre farm in south- eastern Botswana. This was an intensely green, watery wonderland, with crocodiles, hippos and antelope, and teamed with bird life.",
+      "Molope Farm was thrilling − a “ferocious but fragile” paradise. Tighter schedules, tests and homework came as the children moved on to secondary schools across the borders in Zimbabwe and South Africa. And as the children became increasingly independent, their parents were ever more caught up with their own campaigns − Keith with Aids awareness and alternative therapies; Linda with her nutritional studies and books.",
+      "Twenty Chickens for a Saddle is such a bravura performance that it is difficult to believe it is Robyn Scott’s first book. It is a confident portrait of a rollicking family that championed laughter and independence of thought and action at every turn.",
+      "(telegraph.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The book Twenty Chickens for a Saddle describes",
+       "options": [
+        {
+         "key": "A",
+         "text": "Robyn Scott’s first seven years."
+        },
+        {
+         "key": "B",
+         "text": "the parents’ nostalgia for New Zealand."
+        },
+        {
+         "key": "C",
+         "text": "the life of Robyn’s family in Africa."
+        },
+        {
+         "key": "D",
+         "text": "the hardships the family faced in Africa."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "The family’s first home in Africa was",
+       "options": [
+        {
+         "key": "A",
+         "text": "only fit for cows."
+        },
+        {
+         "key": "B",
+         "text": "less than luxurious."
+        },
+        {
+         "key": "C",
+         "text": "too small for the family."
+        },
+        {
+         "key": "D",
+         "text": "too terrifying for the children."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "Keith, who was a doctor,",
+       "options": [
+        {
+         "key": "A",
+         "text": "suffered from a chronic eye infection."
+        },
+        {
+         "key": "B",
+         "text": "went on long expeditions with his children."
+        },
+        {
+         "key": "C",
+         "text": "was often too tired to talk to his family."
+        },
+        {
+         "key": "D",
+         "text": "shared his experiences with his family."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 27,
+       "stem": "In Selebi the children’s life was",
+       "options": [
+        {
+         "key": "A",
+         "text": "exhausting."
+        },
+        {
+         "key": "B",
+         "text": "monotonous."
+        },
+        {
+         "key": "C",
+         "text": "unstructured."
+        },
+        {
+         "key": "D",
+         "text": "unconventional."
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 28,
+       "stem": "Young Robyn",
+       "options": [
+        {
+         "key": "A",
+         "text": "was given a new saddle for her pony."
+        },
+        {
+         "key": "B",
+         "text": "kept various animals in the back-yard."
+        },
+        {
+         "key": "C",
+         "text": "was concerned about animal welfare."
+        },
+        {
+         "key": "D",
+         "text": "was especially fond of reptiles."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 29,
+       "stem": "The family moved to Malope Farm in order to",
+       "options": [
+        {
+         "key": "A",
+         "text": "fulfill Keith’s dreams."
+        },
+        {
+         "key": "B",
+         "text": "live a truly African life."
+        },
+        {
+         "key": "C",
+         "text": "own a larger piece of land."
+        },
+        {
+         "key": "D",
+         "text": "be closer to the children’s schools."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 30,
+       "stem": "As the children became older,",
+       "options": [
+        {
+         "key": "A",
+         "text": "they gradually lost interest in Malope Farm."
+        },
+        {
+         "key": "B",
+         "text": "the parents became more and more attached to the farm."
+        },
+        {
+         "key": "C",
+         "text": "the different members of the family lived their own lives and pursued their own interests."
+        },
+        {
+         "key": "D",
+         "text": "Linda spent most of her time studying plants and writing books on nutrition."
+        }
+       ],
+       "answer": "C"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 42,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 11,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 16,
+    "24": 17,
+    "25": 18,
+    "26": 19,
+    "27": 19,
+    "28": 20,
+    "29": 21,
+    "30": 21,
+    "31": 22,
+    "32": 23,
+    "33": 24,
+    "34": 24,
+    "35": 25,
+    "36": 26,
+    "37": 26,
+    "38": 27,
+    "39": 28,
+    "40": 29,
+    "41": 29,
+    "42": 30
+   },
+   "tasks": [
+    {
+     "id": "2014-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 10,
+     "instructions": [
+      "You are going to read a short history of tea. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-N) for each gap (1-10) in the text. Write the letter of the appropriate word in the white box.",
+      "There are two extra words that you do not need to use."
+     ],
+     "title": "TEA",
+     "body": [
+      "Perhaps the most famous legend surrounding the {{0}} of tea is the Chinese story of Shen Nung, the emperor and renowned herbalist.",
+      "He was {{1}} his drinking water when leaves from a nearby tea shrub blew into the pot. He tasted the {{2}} brew and the beverage of tea was born in 2737 B.C.",
+      "Tea arrived {{3}} Europe at the beginning of the 17th century via Dutch and Portuguese sailors, who had trade {{4}} with China.",
+      "It soon became a fashionable drink for the {{5}} in continental Western Europe. But Britain, always a little suspicious of continental trends, lagged {{6}}. It was the marriage of Charles II to Catherine of Braganza in 1662 {{7}} proved to be a turning point. She was a Portuguese princess, and a tea {{8}}, and her love of the drink established tea {{9}} a fashionable beverage at court and among rich people.",
+      "At the beginning of the 18th century, tea became a common product enjoyed by {{10}} sectors of the population in Europe.",
+      "(www.tea.co.uk)"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "BOILING"
+      },
+      {
+       "key": "B",
+       "text": "IN"
+      },
+      {
+       "key": "C",
+       "text": "ORIGINS"
+      },
+      {
+       "key": "D",
+       "text": "BEHIND"
+      },
+      {
+       "key": "E",
+       "text": "ADDICT"
+      },
+      {
+       "key": "F",
+       "text": "ALL"
+      },
+      {
+       "key": "G",
+       "text": "AS"
+      },
+      {
+       "key": "H",
+       "text": "TO"
+      },
+      {
+       "key": "I",
+       "text": "WEALTHY"
+      },
+      {
+       "key": "K",
+       "text": "WHAT"
+      },
+      {
+       "key": "L",
+       "text": "RELATIONS"
+      },
+      {
+       "key": "M",
+       "text": "RESULTING"
+      },
+      {
+       "key": "N",
+       "text": "THAT"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "answer": "M"
+      },
+      {
+       "n": 3,
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "answer": "L"
+      },
+      {
+       "n": 5,
+       "answer": "I"
+      },
+      {
+       "n": 6,
+       "answer": "D"
+      },
+      {
+       "n": 7,
+       "answer": "N"
+      },
+      {
+       "n": 8,
+       "answer": "E"
+      },
+      {
+       "n": 9,
+       "answer": "G"
+      },
+      {
+       "n": 10,
+       "answer": "F"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about Mr Aydin Onac, the head of an English grammar school, who ate a tarantula. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (11-18) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "HEAD TEACHER SHOCKS PUPILS BY EATING SPIDER",
+     "body": [
+      "A head teacher in Orpington, Kent stunned pupils at his school {{0}} eating a tarantula in front of a packed assembly. {{11}} some of his pupils delighted at seeing his discomfort during the ordeal, others {{12}} said to be upset, and at least one parent complained that it set a bad example to youngsters.",
+      "Mr Onac said he came {{13}} with the idea of eating a poisonous spider as a way of raising sponsorship money for a new sports and drama complex.",
+      "He explained: “It wasn’t {{14}} I opened the container and saw how big it was that I started to feel very nervous. As I was eating it I was wondering {{15}} I would still be alive by break-time. It tasted quite salty, and a little bit like burnt chicken.”",
+      "The spider was sourced from Cambodia, {{16}} they are farmed and eaten by locals as a delicacy. They are usually deep fried and the cooking process negates the effects of any toxins they carry.",
+      "A member of the teaching staff said they were full of admiration for Mr Onac’s actions. But not everybody connected with the school {{17}} in agreement. One parent said: “It's all very well raising money, but why does he {{18}} to behave as if he's taking part in a TV show?”",
+      "(www.bbcnews.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "while",
+        "although",
+        "though"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "were",
+        "are"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "up"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "until",
+        "till"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "whether",
+        "if"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "where"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "is",
+        "was",
+        "spoke"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "have",
+        "need",
+        "want",
+        "choose",
+        "wish",
+        "like"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 10,
+     "instructions": [
+      "You are going to read an article about a bird that steals food by imitating the calls of other animals. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (19-28) in the text."
+     ],
+     "title": "BIRD-MIMICS STEAL MEERKATS' FOOD",
+     "body": [
+      "drongo meerkat Drongos in the Kalahari Desert mimic the alarm calls of other species in {{0}} to steal food, scientists have found.",
+      "The birds \"play tricks\" {{19}} meerkats in particular, following the little mammals around until they {{20}} catch a meal. The drongos then make fake alarm calls and cause the meerkats {{21}} for cover, allowing the drongos to swoop in.",
+      "The scientists {{22}} their work studying meerkats and noticed their reaction to the drongos' alarm calls. When a predator was in the area, the birds made an alarm call and the meerkats immediately dashed for cover. But when the drongos saw a meerkat with a large food item such as a gecko or a scorpion, they made a false alarm call {{23}} sounded the same as the calls they made at predators, {{24}} there were no predators around.",
+      "The researchers then turned their attention to the drongos. To avoid {{25}} ignored, the birds appear to deliberately change the type of call they make - to alter the species they mimic - when meerkats stop {{26}} to their alarm calls.",
+      "Although {{27}} species they impersonated were other birds, drongos even managed a meerkat alarm call. The birds may have learned by trial and error that meerkats are {{28}} to find their own alarm call \"particularly convincing\". This is one of the first studies to show that vocal mimickry can have a function.",
+      "(www.bbcnews.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "particular"
+        },
+        {
+         "key": "B",
+         "text": "addition"
+        },
+        {
+         "key": "C",
+         "text": "order"
+        },
+        {
+         "key": "D",
+         "text": "response"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "at"
+        },
+        {
+         "key": "C",
+         "text": "with"
+        },
+        {
+         "key": "D",
+         "text": "on"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "will not"
+        },
+        {
+         "key": "B",
+         "text": "-"
+        },
+        {
+         "key": "C",
+         "text": "do not"
+        },
+        {
+         "key": "D",
+         "text": "will"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "running"
+        },
+        {
+         "key": "B",
+         "text": "run"
+        },
+        {
+         "key": "C",
+         "text": "to have run"
+        },
+        {
+         "key": "D",
+         "text": "to run"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "began"
+        },
+        {
+         "key": "B",
+         "text": "have begun"
+        },
+        {
+         "key": "C",
+         "text": "beginning"
+        },
+        {
+         "key": "D",
+         "text": "have been beginning"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "this"
+        },
+        {
+         "key": "B",
+         "text": "what"
+        },
+        {
+         "key": "C",
+         "text": "that"
+        },
+        {
+         "key": "D",
+         "text": "-"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "although"
+        },
+        {
+         "key": "B",
+         "text": "unless"
+        },
+        {
+         "key": "C",
+         "text": "since"
+        },
+        {
+         "key": "D",
+         "text": "if"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 25,
+       "options": [
+        {
+         "key": "A",
+         "text": "be"
+        },
+        {
+         "key": "B",
+         "text": "being"
+        },
+        {
+         "key": "C",
+         "text": "to be"
+        },
+        {
+         "key": "D",
+         "text": "have been"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "options": [
+        {
+         "key": "A",
+         "text": "respond"
+        },
+        {
+         "key": "B",
+         "text": "to respond"
+        },
+        {
+         "key": "C",
+         "text": "responding"
+        },
+        {
+         "key": "D",
+         "text": "and respond"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "options": [
+        {
+         "key": "A",
+         "text": "many of"
+        },
+        {
+         "key": "B",
+         "text": "the most"
+        },
+        {
+         "key": "C",
+         "text": "most of"
+        },
+        {
+         "key": "D",
+         "text": "most"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 28,
+       "options": [
+        {
+         "key": "A",
+         "text": "like"
+        },
+        {
+         "key": "B",
+         "text": "alike"
+        },
+        {
+         "key": "C",
+         "text": "unlike"
+        },
+        {
+         "key": "D",
+         "text": "likely"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 14,
+     "instructions": [
+      "You are going to read two anecdotes about Ferenc Molnár, the famous Hungarian playwright and novelist. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "TWO ANECDOTES",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "While Molnár was living in a hotel in Vienna during the 1920s, a",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "large contingent of his family relatives came to see him in the hope",
+       "answer": "family"
+      },
+      {
+       "n": 29,
+       "text": "of sharing with some of the fruits of the playwright's fabulous",
+       "answer": "with"
+      },
+      {
+       "n": 30,
+       "text": "success. They were not prepared for a hostile reception, but to their",
+       "answer": "not"
+      },
+      {
+       "n": 31,
+       "text": "surprise Molnár greeted them kindly, even though insisting that",
+       "answer": "though"
+      },
+      {
+       "n": 32,
+       "text": "they all sit for a group portrait to mark the occasion. When the print",
+       "answer": null
+      },
+      {
+       "n": 33,
+       "text": "was ready, Molnár had handed it over to the hotel doorman, saying:",
+       "answer": "had"
+      },
+      {
+       "n": 34,
+       "text": "\"Whenever you will see any of the persons in the picture trying to",
+       "answer": "will"
+      },
+      {
+       "n": 35,
+       "text": "get into the hotel, don't let them to come in.\"",
+       "answer": "to"
+      },
+      {
+       "n": 36,
+       "text": "Molnár was a late riser, while never emerging until 1:00 p.m. On",
+       "answer": "while"
+      },
+      {
+       "n": 37,
+       "text": "one occasion in Budapest, having called as a witness in a lawsuit,",
+       "answer": "having"
+      },
+      {
+       "n": 38,
+       "text": "he had better to present himself at court by 9:00 a.m. The combined",
+       "answer": "better"
+      },
+      {
+       "n": 39,
+       "text": "efforts of his servants got him out of the bed and dressed, and they",
+       "answer": "the"
+      },
+      {
+       "n": 40,
+       "text": "propelled him out of the house at 8:30 into the rush-hour crowd.",
+       "answer": null
+      },
+      {
+       "n": 41,
+       "text": "Molnár looked in an amazement at the hurrying workers and",
+       "answer": "an"
+      },
+      {
+       "n": 42,
+       "text": "exclaimed, \"Good heavens, who are all these people witnesses in",
+       "answer": "who"
+      }
+     ],
+     "outro": "this fool case?\" (Paw Prints Anecdotes)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 28,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 27,
+    "26": 28,
+    "27": 29,
+    "28": 30
+   },
+   "tasks": [
+    {
+     "id": "2014-okt-emelt-H1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 11,
+     "instructions": [
+      "In this section you will hear an interview with Jen Shaffer, the author of a new book.",
+      "Your task is to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers.",
+      "A= TRUE B= FALSE C= THE TEXT DOES NOT SAY"
+     ],
+     "audio": {
+      "file": "e_angol_14okt_fl.mp3",
+      "start": 0,
+      "end": 714.23,
+      "clip": "hang/e_angol_14okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Jen says that her new book does not contain stories from the London Olympics.",
+       "answer": "B"
+      },
+      {
+       "n": 1,
+       "stem": "Her book is about the achievements and attitudes of some outstanding athletes.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "She says that Olympians are special, because they are more talented than others.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "Betty Robinson was the only one to survive the 1931 plane crash.",
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "stem": "It was only at the hospital that they realized she was still alive.",
+       "answer": "B"
+      },
+      {
+       "n": 5,
+       "stem": "She was unconscious for months after the crash.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "It took her more than a year to learn to walk again.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "She not only participated in the 1936 Olympic Games, but also won a gold medal.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Fujimoto didn’t tell anyone that he had broken his knee during the floor exercise routine.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "He received a better score for the rings than for the pommel horse exercise.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "He was so determined that he didn’t feel any pain either during or after the rings.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "When asked later, he said that if it were necessary, he would do the same thing again.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a radio report about a publicity stunt performed by Prince Andrew, Duke of York.",
+      "Your task will be to circle the letter or letters of the correct answer or answers in the boxes on the right. Please note that in this task both answers may be correct. This means you will have to circle either A or B, or both A and B.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_14okt_fl.mp3",
+      "start": 714.23,
+      "end": 1171.41,
+      "clip": "hang/e_angol_14okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The person who climbed down the exterior wall of a skyscraper was...",
+       "options": [
+        {
+         "key": "A",
+         "text": "Tom Cruise."
+        },
+        {
+         "key": "B",
+         "text": "Prince Andrew."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "Prince Andrew performed the stunt with …",
+       "options": [
+        {
+         "key": "A",
+         "text": "his wife Ffion."
+        },
+        {
+         "key": "B",
+         "text": "40 other people."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "Prince Andrew is the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "youngest of Queen Elizabeth’s sons."
+        },
+        {
+         "key": "B",
+         "text": "chairman of an educational charity."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "The Prince …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is still a possible successor to the British throne."
+        },
+        {
+         "key": "B",
+         "text": "used to be a helicopter pilot."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The Duke …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is well-known for his fondness for extravagant air journeys."
+        },
+        {
+         "key": "B",
+         "text": "got the idea of the stunt after watching a film starring Tom Cruise."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Back on the ground, the Prince said that the …",
+       "options": [
+        {
+         "key": "A",
+         "text": "hardest part was the ten-flight walk to the 87th floor."
+        },
+        {
+         "key": "B",
+         "text": "most frightening bit was the very first step over the edge."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The climbers eventually …",
+       "options": [
+        {
+         "key": "A",
+         "text": "landed on the 20th floor of the skyscraper."
+        },
+        {
+         "key": "B",
+         "text": "walked down to the ground floor of the skyscraper."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 18,
+       "stem": "Prince Andrew’s stunt is not likely to happen again, because …",
+       "options": [
+        {
+         "key": "A",
+         "text": "the authorities are not going to allow it."
+        },
+        {
+         "key": "B",
+         "text": "he said he is not going to repeat it."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2014-okt-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 10,
+     "instructions": [
+      "In this section, you will hear an interview with Joe Young, a freelance musician and founder of Sonic Cult.",
+      "Your task will be to complete the sentences with the exact words you hear in the text. Write one word in each gap, that is, two words in each item.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_14okt_fl.mp3",
+      "start": 1171.41,
+      "end": 1794.93,
+      "clip": "hang/e_angol_14okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "In his dream Joe Young was playing a(n) {{gap}} {{gap}} guitar.",
+       "gaps": [
+        [
+         "crazy"
+        ],
+        [
+         "looking"
+        ]
+       ]
+      },
+      {
+       "n": 19,
+       "stem": "At the age of fifteen, Joe became {{gap}} {{gap}} with playing jazz.",
+       "gaps": [
+        [
+         "totally"
+        ],
+        [
+         "obsessed"
+        ]
+       ]
+      },
+      {
+       "n": 20,
+       "stem": "His lawn renovation job helped him pay for some lessons with a(n) {{gap}} {{gap}} he had found.",
+       "gaps": [
+        [
+         "awesome"
+        ],
+        [
+         "teacher"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "He moved to New York to leave the {{gap}} {{gap}} scene behind.",
+       "gaps": [
+        [
+         "competitive"
+        ],
+        [
+         "music"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "He didn’t have a lot of clothes in the car because it was full of {{gap}} {{gap}}.",
+       "gaps": [
+        [
+         "musical"
+        ],
+        [
+         "equipment"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "In the Bronx, he slept on the {{gap}} {{gap}} in a house.",
+       "gaps": [
+        [
+         "basement"
+        ],
+        [
+         "floor"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "Some days before the year-end concert Joe learned that John Abercrombie and he would feature a dueling {{gap}} {{gap}} trading solos.",
+       "gaps": [
+        [
+         "guitar"
+        ],
+        [
+         "section"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Joe says that normally he doesn’t get bad {{gap}} {{gap}} but the year-end concert was a different situation.",
+       "gaps": [
+        [
+         "stage"
+        ],
+        [
+         "fright"
+        ]
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "He thinks that studying with John Abercrombie was a major {{gap}} {{gap}} in his musical life.",
+       "gaps": [
+        [
+         "turning"
+        ],
+        [
+         "point"
+        ]
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "He describes himself as someone who follows his {{gap}} {{gap}} above anything else.",
+       "gaps": [
+        [
+         "gut",
+         "raw"
+        ],
+        [
+         "instincts",
+         "intuition"
+        ]
+       ],
+       "combos": [
+        [
+         "gut",
+         "instincts"
+        ],
+        [
+         "raw",
+         "intuition"
+        ]
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "He sees himself as a(n) {{gap}} {{gap}} and a goofy, up-beat person at the same time.",
+       "gaps": [
+        [
+         "borderline"
+        ],
+        [
+         "workaholic"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}

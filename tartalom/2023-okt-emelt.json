@@ -1,0 +1,1483 @@
+{
+ "formatVersion": 1,
+ "id": "2023-okt-emelt",
+ "year": 2023,
+ "session": "október",
+ "level": "emelt",
+ "examDate": "2023-10-19",
+ "code": "2211",
+ "sourceFiles": {
+  "paper": "2023  - Emeltszintű október/e_angol_23okt_fl.pdf",
+  "key": "2023  - Emeltszintű október/e_angol_23okt_ut.pdf",
+  "audio": "2023  - Emeltszintű október/e_angol_23okt_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 27,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 16,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 26,
+    "24": 27,
+    "25": 28,
+    "26": 29,
+    "27": 30
+   },
+   "tasks": [
+    {
+     "id": "2023-okt-emelt-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés első mondatának párosítása",
+     "points": 6,
+     "instructions": [
+      "In the following text about using a dishwasher, the first sentence of each paragraph has been removed.",
+      "Your task is to match the sentences to the paragraphs.",
+      "There are two extra sentences that you do not need."
+     ],
+     "title": "HOW TO PROPERLY LOAD A DISHWASHER",
+     "body": [
+      "{{0}}\nIf you still remember your parents’ reaction when stacking your plate in the dishwasher without rinsing it first, we can now offer some facts in your defence. Here’s what experts say to solve your family washing-up conflicts.",
+      "{{1}}\nMost dishwashers have inbuilt sensors that measure how much dirt is in the water from the first cycle. Rinsed plates may fool the system, and your dishwasher’s going to think that your plates are cleaner than they actually are, so it won’t wash as intensely, and they might actually come out dirtier.",
+      "{{2}}\nRemember to stack the dirtiest items on the lower shelf and the cleaner items above. This is also why your bowls, containers and cutlery should face down.",
+      "{{3}}\nDuring the final rinse cycle, a heat load is built up on the dishes, and then it just sits there for a while and the moisture will evaporate. The more the dishes, the more the heat, the better the result.",
+      "{{4}}\nYou really don’t want to get it on your hands. Dishwashers need aggressive chemicals to get the job done without mechanical scrubbing. Many materials, however, won’t survive a high-pH hurricane every night, so anything that is older than the dishwasher, like grandma’s china, shouldn’t go in one.",
+      "{{5}}\nThe same goes for wood, bone, copper, non-stick coated pans and trays. Anything laminated can be twisted out of shape; anything glued can come apart; chefs’ knives will rust and dull.",
+      "{{6}}\nA dishwasher can clean 144 items with roughly 13 litres of water. Hand washing the same load uses, on average, 100 litres of water. Most of the energy that goes into running your dishwasher is actually heating the water, and it’s the same for hand washing, so much less water in dishwashing means much less energy."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "The dishwasher detergent works best in soft water, so salt can help you get better cleaning."
+      },
+      {
+       "key": "B",
+       "text": "The most powerful jets in a dishwasher shoot upwards from the bottom."
+      },
+      {
+       "key": "C",
+       "text": "The misinformation around a machine that’s meant to make our lives easier has caused generations-long fights."
+      },
+      {
+       "key": "D",
+       "text": "Depending on how many washes you do, you might have to fill up the rinse aid every few weeks."
+      },
+      {
+       "key": "E",
+       "text": "A full dishwasher dries better than a half-full dishwasher."
+      },
+      {
+       "key": "F",
+       "text": "Anything fragile, handmade or hand-painted should be left out."
+      },
+      {
+       "key": "G",
+       "text": "The dishwasher detergent is pretty nasty stuff."
+      },
+      {
+       "key": "H",
+       "text": "You do not need to pre-rinse, just scrape the solids into the bin."
+      },
+      {
+       "key": "I",
+       "text": "Despite all the warnings, dishwashers are not only the convenient answer to our modernist needs, they’re actually more economical than hand washing."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "H"
+      },
+      {
+       "n": 2,
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "answer": "E"
+      },
+      {
+       "n": 4,
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "answer": "F"
+      },
+      {
+       "n": 6,
+       "answer": "I"
+      }
+     ],
+     "source": "https://www.theguardian.com/lifeandstyle/2020/dec/25/how-to-properly-load-a-dishwasher-if-you-pre-rinse-it-might-actually-"
+    },
+    {
+     "id": "2023-okt-emelt-R2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this article about climate anxiety, then read the statements (7-14) following it.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there isn’t enough information in the text to decide if the sentence is true or not."
+     ],
+     "title": "YOUNG PEOPLE’S CLIMATE ANXIETY REVEALED IN LANDMARK SURVEY",
+     "body": [
+      "Climate change is causing distress, anger or even anxiety in teenagers and young people worldwide, a survey of thousands of 16- to 25-year-olds has found.",
+      "“This study provides arguments for adults that climate change plays an important role in young people’s mental health,” says Sarah Ray, who studies climate anxiety at Humboldt State University in Arcata, California. The survey — the largest of its kind — asked 10,000 young people in 10 countries how they felt about climate change and government responses to it.",
+      "The results, released in September 2021, found that most respondents were concerned about climate change, with nearly 60% saying they felt ‘very worried’ or ‘extremely worried’. Many associated negative emotions with climate change — the most commonly chosen were ‘sad’, ‘afraid’, ‘anxious’, ‘angry’ and ‘powerless’. Overall, 45% of participants said their feelings about climate change impacted their daily lives.",
+      "The countries with the highest proportion of respondents who felt ‘very worried’ or ‘extremely worried’ by climate change were the Philippines (84%), India (68%) and Brazil (67%), nations that have been hard-hit by climate change. Portugal — where wildfires are becoming increasingly severe — also had a high level of ‘very worried’ or ‘extremely worried’ respondents (65%).",
+      "Among those who said they have talked to others about climate change (81%), nearly half reported being ignored. “There seems to be a dismissal of young people’s opinions in society,” says study co-author Caroline Hickman, a climate-psychology researcher at the University of Bath, UK. Until now, there has been little research on the psychological impacts of climate change on young people, she adds.",
+      "When asked about how governments are responding to climate change, 65% of respondents agreed with the statement that governments are failing young people, 64% agreed that they are lying about the impact of actions taken and 60% agreed they were dismissing people’s distress. Only 36% agreed that governments are acting according to science. However, young people do feel reassured when governments act.",
+      "“I think this research will impact more audiences than other arguments about why we should do more on climate,” Ray says."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Climate change has a negative emotional impact on young people.",
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "stem": "Several surveys are being carried out parallelly right now.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "In each country, 1,000 young people were asked to take part in the survey.",
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "stem": "The majority of participants find climate change concerning.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "More than half of the respondents said that climate change had a direct effect on their everyday lives.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "There is no connection between the extent to which a country is impacted by climate change and the attitude of its residents.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Young people’s views are often neglected.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "How young people feel about climate change is widely researched.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "Although young people appreciate when governments step up, most of them are dissatisfied with their attitude to climate change.",
+       "answer": "A"
+      }
+     ],
+     "source": "https://www.nature.com/articles/d41586-021-02582-8"
+    },
+    {
+     "id": "2023-okt-emelt-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about what happens to your brain when you give up sugar.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (15-22) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "WHAT HAPPENS TO YOUR BRAIN WHEN YOU GIVE UP SUGAR",
+     "body": [
+      "Sugar consumption in developed countries has been steadily {{0}}. This could be happening for a number of reasons, such as a shift in tastes and lifestyles, with the popularity of low-carbohydrate diets increasing in the past decade. A greater {{15}} of eating too much sugar on our health may also be among the reasons.",
+      "Reducing sugar intake has clear health benefits, {{16}}, which can help with weight loss and improved dental health. But people sometimes report negative side effects when they try to eat less sugar, like {{17}}. The reason for these side effects is currently poorly understood. But it's likely these symptoms relate to how the brain reacts when exposed to sugary foods.",
+      "As mass production of food has become the norm, sugar is now {{18}} to make them more tasty. However, sugar has profound biological effects in the brain. It activates sweet taste receptors in the mouth, which leads to the release of a chemical called dopamine in the brain – also known as the “feel-good” hormone.",
+      "It's obvious that sugar can have a powerful effect on us. That's why it's not {{19}} when we eat less sugar or remove it from our diet completely. It's during this early “sugar withdrawal” stage that both mental and physical symptoms have been reported – including depression, anxiety, headaches, and dizziness. That’s why {{20}}, which may make it difficult for some to stick with the diet change.",
+      "If you want to reduce sugar from your diet long term, {{21}} the first few difficult weeks is crucial. It's important to also acknowledge, however, that sugar isn't “bad” in itself – but that it should be eaten in moderation alongside a healthy diet. And that with any dietary change, {{22}}."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "being added to foods"
+      },
+      {
+       "key": "B",
+       "text": "sticking to it is key"
+      },
+      {
+       "key": "C",
+       "text": "decreasing over the past decade"
+      },
+      {
+       "key": "D",
+       "text": "giving up sugar can feel unpleasant"
+      },
+      {
+       "key": "E",
+       "text": "having a sweet tooth"
+      },
+      {
+       "key": "F",
+       "text": "surprising to see negative effects"
+      },
+      {
+       "key": "G",
+       "text": "studying the effects of quitting sugar altogether"
+      },
+      {
+       "key": "H",
+       "text": "understanding of the dangers"
+      },
+      {
+       "key": "I",
+       "text": "being able to get through"
+      },
+      {
+       "key": "K",
+       "text": "including reduced calorie intake"
+      },
+      {
+       "key": "L",
+       "text": "experiencing headaches, fatigue or mood changes"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 15,
+       "answer": "H"
+      },
+      {
+       "n": 16,
+       "answer": "K"
+      },
+      {
+       "n": 17,
+       "answer": "L"
+      },
+      {
+       "n": 18,
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "answer": "F"
+      },
+      {
+       "n": 20,
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "answer": "I"
+      },
+      {
+       "n": 22,
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.bbc.com/future/article/20210818-what-happens-when-you-quit-sugar"
+    },
+    {
+     "id": "2023-okt-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés visszahelyezése szövegbe",
+     "points": 5,
+     "instructions": [
+      "Read this article about a man with an interesting hobby.",
+      "Some paragraphs have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (23-27) from the list (A-H) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "HOW WE RE-DELIVERED A BABY’S POSTCARD – 75 YEARS ON",
+     "body": [
+      "Stu Prince fell seriously ill in 2019, and during his recovery, he knew he needed a distraction that would keep him occupied.",
+      "{{0}} \"I thought these were fantastic. They're all different, and they're all somebody's ancestor,\" he says. Sometimes the postcards would function like modern-day text messages - thanking their hosts for Sunday dinner, or letting a relative know they would be passing round the next day.",
+      "{{23}} He'd always been interested in family histories, and a thought occurred to him. What if he could help trace the owners of the postcards and their relatives and reunite them?",
+      "{{24}} One of them had been sent in 1946, but it still looked bright and colourful. On its front was a cartoon of a rabbit asleep in a crib underneath the heading: \"You're one today.\"",
+      "{{25}} Soon after posting the picture of the postcard, Stu received an email saying, ”That card is me, the baby is me.”",
+      "{{26}} The card brought back memories of distant times and she was thrilled to get it. ”It's amazing, this card has just travelled through time!” she says.",
+      "{{27}}"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "It was written by Frimette Carr, who had been contacted by people in Stu’s Facebook group who recognised her grandparents’ name and the address on the postcard."
+      },
+      {
+       "key": "B",
+       "text": "Soon after this, he decided to delete the Facebook group and never to engage in an activity like this again."
+      },
+      {
+       "key": "C",
+       "text": "Then one day while browsing the web looking at old letters and possessions for sale, he came across a bunch of old postcards on eBay, dating as far back as 1900."
+      },
+      {
+       "key": "D",
+       "text": "On the reverse was a stamp, an address, and a neatly written message, too. \"To our loving granddaughter,\" it read, \"wishing you many returns of the day. And may your future be a happy and peaceful one.\""
+      },
+      {
+       "key": "E",
+       "text": "Other times, they would be more profound notes between loved ones."
+      },
+      {
+       "key": "F",
+       "text": "Stu Prince is really proud of what he has achieved. ”I feel grateful for being able to reunite people with their past and let them have something they can cherish and hold on to that belonged to their ancestors.”"
+      },
+      {
+       "key": "G",
+       "text": "Stuart was encouraged by his wife Daphne to dig deeper."
+      },
+      {
+       "key": "H",
+       "text": "It was then that Stu set up a Facebook group, named Reuniting Postcards With Families. By then he had over 2,000 postcards to find the owners of."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 23,
+       "answer": "E"
+      },
+      {
+       "n": 24,
+       "answer": "H"
+      },
+      {
+       "n": 25,
+       "answer": "D"
+      },
+      {
+       "n": 26,
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "answer": "F"
+      }
+     ],
+     "source": "https://www.bbc.com/news/stories-58585540"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 35,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 3,
+    "5": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 9,
+    "12": 10,
+    "13": 11,
+    "14": 12,
+    "15": 13,
+    "16": 14,
+    "17": 15,
+    "18": 15,
+    "19": 16,
+    "20": 17,
+    "21": 18,
+    "22": 19,
+    "23": 20,
+    "24": 21,
+    "25": 21,
+    "26": 22,
+    "27": 23,
+    "28": 24,
+    "29": 25,
+    "30": 26,
+    "31": 27,
+    "32": 27,
+    "33": 28,
+    "34": 29,
+    "35": 30
+   },
+   "tasks": [
+    {
+     "id": "2023-okt-emelt-L1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "szóbank (szavak visszahelyezése)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about how an art historian found out who the young man is in one of Van Gogh’s most celebrated paintings. Some words are missing from the text.",
+      "Your task is to choose the most appropriate word from the list (A-M) for each gap (1-8) in the text. Write the letter of the appropriate word in the white box.",
+      "You can use each word only once.",
+      "There are three extra words that you do not need to use."
+     ],
+     "title": "VAN GOGH MYSTERY FINALLY SOLVED",
+     "body": [
+      "The troubled {{0}} painted one of his best works in the grounds of the mental hospital Saint-Paul-de-Mausole, where he was sent {{1}} he had cut off his ear.",
+      "The friendly-looking young sitter for 'Portrait of a Gardener' has been {{2}} by British art historian and Van Gogh expert Martin Bailey. It seems he was from a working-class family, and probably made friends with Van Gogh {{3}} he looked after the gardens in the grounds of the hospital. The art historian discovered a(n) {{4}} unpublished note by the grandson of an attendant – François Poulet – who worked at the hospital in 1889-90 and often accompanied Van Gogh {{5}} the walls to paint the Provençal landscape. His grandson, Louis, wrote that his grandfather told him the portrait shows “Jean Barral (1861-1942)”.",
+      "Looking at French records, Mr Bailey found a man {{6}} that description. He worked as a gardener in the area and did gardening and {{7}} work in the grounds of the hospital. The young man was about 28 at the time the portrait was {{8}} and his family had lived for generations just outside the hospital."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "ABOVE"
+      },
+      {
+       "key": "B",
+       "text": "AFTER"
+      },
+      {
+       "key": "C",
+       "text": "ARTIST"
+      },
+      {
+       "key": "D",
+       "text": "IDENTIFIED"
+      },
+      {
+       "key": "E",
+       "text": "LANDSCAPING"
+      },
+      {
+       "key": "F",
+       "text": "LOOKED"
+      },
+      {
+       "key": "G",
+       "text": "MATCHING"
+      },
+      {
+       "key": "H",
+       "text": "OUTSIDE"
+      },
+      {
+       "key": "I",
+       "text": "PAINTED"
+      },
+      {
+       "key": "K",
+       "text": "PREVIOUSLY"
+      },
+      {
+       "key": "L",
+       "text": "RECENTLY"
+      },
+      {
+       "key": "M",
+       "text": "WHILE"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "answer": "M"
+      },
+      {
+       "n": 4,
+       "answer": "K"
+      },
+      {
+       "n": 5,
+       "answer": "H"
+      },
+      {
+       "n": 6,
+       "answer": "G"
+      },
+      {
+       "n": 7,
+       "answer": "E"
+      },
+      {
+       "n": 8,
+       "answer": "I"
+      }
+     ],
+     "source": "https://www.telegraph.co.uk/news/2018/09/21/van-gogh-mystery-finally-solved-man-friendly-smile-identified/"
+    },
+    {
+     "id": "2023-okt-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about the origins of the US dollar, the most widely used currency in the world. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (9-16).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "ORIGINS OF THE US DOLLAR",
+     "body": [
+      "In 1516, vast {{0}} of silver were discovered in the mountains {{9}} modern-day Bohemia and Saxony. Local nobleman Count Hieronymus Schlick christened the area Joachimsthal (“Joachim’s valley”) after Jesus’s grandfather, the local patron saint of miners. At the time, Europe was a continent of city-states with local rulers competing for power. One of the most effective ways rulers could {{10}} their control was to mint their own currency.",
+      "Schlick was granted permission to mint his silver coins in January 1520. He {{11}} an image of Joachim on the front and the Bohemian lion on the back and named his new currency “Joachimsthalers” – which soon became shortened to “thalers”. Schlick did two smart things to {{12}} the thalers’ spread and survival. First, he made the thaler the same weight and diameter as the coin {{13}} throughout central Europe, which made it easier for neighbouring {{14}} to accept it. Secondly, he minted more coins than the world had ever seen. By 1550, 12 million thalers had spread across Europe.",
+      "Joachimsthal’s mines soon ran dry, but by 1566, the thaler was so well known across Europe that many rulers began remodelling their coins after it. They also renamed them in their own languages. It was the Dutch leeuwendaler (“lion daler”) that gave the US currency its name. After {{15}} in New Amsterdam in the 17th century with Dutch colonists, the dalers quickly spread throughout the colonies and English-speaking {{16}} started calling them “dollars”. The dollar became the official currency of the US in 1792."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "quantity",
+       "example": true,
+       "accept": [
+        "quantities"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "separate",
+       "accept": [
+        "separating"
+       ]
+      },
+      {
+       "n": 10,
+       "prompt": "strong",
+       "accept": [
+        "strengthen"
+       ]
+      },
+      {
+       "n": 11,
+       "prompt": "stamp",
+       "accept": [
+        "stamped"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "sure",
+       "accept": [
+        "ensure",
+        "insure",
+        "assure"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "use",
+       "accept": [
+        "used",
+        "usable"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "king",
+       "accept": [
+        "kingdoms",
+        "kings"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "arrive",
+       "accept": [
+        "arriving"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "settle",
+       "accept": [
+        "settlers",
+        "settlements"
+       ]
+      }
+     ],
+     "source": "https://www.bbc.com/travel/article/20200107-welcome-to-jchymov-the-czech-town-that-invented-the-dollar"
+    },
+    {
+     "id": "2023-okt-emelt-L3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 8,
+     "instructions": [
+      "You are going to read an article about New Zealand's official wizard, who has lost his job after two decades of service. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (17-24) in the text."
+     ],
+     "title": "NEW ZEALAND'S OFFICIAL WIZARD IS FIRED",
+     "body": [
+      "The official Wizard of New Zealand has been fired following 23 years of service {{0}} joking about hitting women.",
+      "London-born Ian Brackenbury Channell, 88, was paid NZ$16,000 (£8,200) annually {{17}} 'acts of wizardry and other wizard-like services' to promote Christchurch, New Zealand under a contract signed in 1998. He is believed to have been the world's only state-appointed wizard.",
+      "Christchurch council said it ended Channell's contract because it wanted to be more modern. But the Wizard himself claimed that he was being 'cancelled' {{18}} he no longer fitted 'the vibes' of the city, describing himself as a 'provocateur'. In April, he made several offensive remarks about women on a television show. A council spokesperson said Channell had been sent a letter thanking {{19}} his service and informing him that his contract was terminated.",
+      "Channell {{20}} performing acts of magic as entertainment in public spaces in Christchurch after arriving in New Zealand in 1976. When police tried to arrest him, a public protest led {{21}} a local square being designated a public speaking area. Since then, Channell, dressed in a long cloak and pointy hat, has performed in Christchurch and rain-danced in Australia during droughts.",
+      "{{22}} his termination of employment, Channell said he would continue his regular appearances at Christchurch’s Arts Centre, chatting to tourists and locals. The centre is hosting an exhibition of his life this month, {{23}} is supported by the council. When asked {{24}} curse the council over its decision, he said he preferred giving blessings."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "because"
+        },
+        {
+         "key": "B",
+         "text": "during"
+        },
+        {
+         "key": "C",
+         "text": "after"
+        },
+        {
+         "key": "D",
+         "text": "since"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "options": [
+        {
+         "key": "A",
+         "text": "having performed"
+        },
+        {
+         "key": "B",
+         "text": "to perform"
+        },
+        {
+         "key": "C",
+         "text": "and perform"
+        },
+        {
+         "key": "D",
+         "text": "performing"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "options": [
+        {
+         "key": "A",
+         "text": "although"
+        },
+        {
+         "key": "B",
+         "text": "because"
+        },
+        {
+         "key": "C",
+         "text": "even if"
+        },
+        {
+         "key": "D",
+         "text": "therefore"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "options": [
+        {
+         "key": "A",
+         "text": "to him"
+        },
+        {
+         "key": "B",
+         "text": "for him"
+        },
+        {
+         "key": "C",
+         "text": "him"
+        },
+        {
+         "key": "D",
+         "text": "him for"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 20,
+       "options": [
+        {
+         "key": "A",
+         "text": "has begun"
+        },
+        {
+         "key": "B",
+         "text": "would begin"
+        },
+        {
+         "key": "C",
+         "text": "began"
+        },
+        {
+         "key": "D",
+         "text": "were to begin"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "options": [
+        {
+         "key": "A",
+         "text": "to"
+        },
+        {
+         "key": "B",
+         "text": "–"
+        },
+        {
+         "key": "C",
+         "text": "by"
+        },
+        {
+         "key": "D",
+         "text": "in"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 22,
+       "options": [
+        {
+         "key": "A",
+         "text": "Despite"
+        },
+        {
+         "key": "B",
+         "text": "In case of"
+        },
+        {
+         "key": "C",
+         "text": "Since"
+        },
+        {
+         "key": "D",
+         "text": "As far as"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "which"
+        },
+        {
+         "key": "C",
+         "text": "this"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "options": [
+        {
+         "key": "A",
+         "text": "where would he"
+        },
+        {
+         "key": "B",
+         "text": "that he would"
+        },
+        {
+         "key": "C",
+         "text": "how would he"
+        },
+        {
+         "key": "D",
+         "text": "if he would"
+        }
+       ],
+       "answer": "D"
+      }
+     ],
+     "source": "https://www.dailymail.co.uk/news/article-10096163/New-Zealands-official-WIZARD-fired-joking-hitting-women.html"
+    },
+    {
+     "id": "2023-okt-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about a rare first edition of a Harry Potter book that was sold to a private buyer at an auction in England. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines may be correct. Indicate the correct line(s) with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "REAL HARRY POTTER SELLS PHILOSOPHER'S STONE",
+     "intro": "A rare first edition of a Harry Potter novel has been sold for £27,500 - by Harry Potter. Mr Potter was just eight when the first in the series of JK Rowling's blockbuster novels came out. He was given Harry Potter and The",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Philosopher's Stone by his \"flabbergasted\" father in 1997, when",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "he realised it was about a wizard together with his son's name.",
+       "answer": "together"
+      },
+      {
+       "n": 25,
+       "text": "Mr Potter said although his family decided to sell the book to",
+       "answer": "although"
+      },
+      {
+       "n": 26,
+       "text": "honour his late father, who died in 2017. His sister said: \"I remember",
+       "answer": null
+      },
+      {
+       "n": 27,
+       "text": "Dad bursting through the front door was waving a book, shouting",
+       "answer": "was"
+      },
+      {
+       "n": 28,
+       "text": "'You won't believe what I've got!' At first, we were bit confused.",
+       "answer": "bit"
+      },
+      {
+       "n": 29,
+       "text": "Had someone written a book looking for Harry? The coincidence",
+       "answer": "looking"
+      },
+      {
+       "n": 30,
+       "text": "of the namesake was that what made us open the first book, but the",
+       "answer": "that"
+      },
+      {
+       "n": 31,
+       "text": "magic word of the story kept us turning the pages for years.\"",
+       "answer": "word"
+      },
+      {
+       "n": 32,
+       "text": "Mr Potter has spent the time since the book at first came out having",
+       "answer": "at"
+      },
+      {
+       "n": 33,
+       "text": "to convince more people that Harry Potter really is his name. \"People",
+       "answer": "more"
+      },
+      {
+       "n": 34,
+       "text": "just don't believe me. When I was a young footballer, a referee",
+       "answer": null
+      },
+      {
+       "n": 35,
+       "text": "threatened me with a red card for saying him my name was Harry",
+       "answer": "him"
+      }
+     ],
+     "outro": "Potter,\" he said.",
+     "source": "https://www.bbc.com/news/uk-england-hampshire-58912478"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 4,
+    "4": 5,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 10,
+    "9": 11,
+    "10": 12,
+    "11": 13,
+    "12": 14,
+    "13": 16,
+    "14": 17,
+    "15": 18,
+    "16": 19,
+    "17": 20,
+    "18": 22,
+    "19": 23,
+    "20": 24,
+    "21": 25,
+    "22": 26,
+    "23": 28,
+    "24": 29,
+    "25": 30
+   },
+   "tasks": [
+    {
+     "id": "2023-okt-emelt-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "rövid válasz hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear some information about one of the most famous photographs ever taken.",
+      "Your task will be to give short answers to the questions below by continuing the sentences we have begun for you using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_23okt_fl.mp3",
+      "start": 0,
+      "end": 605.03,
+      "clip": "hang/e_angol_23okt_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "What is the economic crisis lasting from 1929 to 1933 called? It is called the {{gap}}.",
+       "accept": [
+        "Great Depression"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Besides photos of breadlines and poor housing, what other images appeared in newspapers? Images of {{gap}}.",
+       "key": "desperate mothers",
+       "keywords": [
+        [
+         "desperate",
+         "mothers"
+        ]
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "When exactly was Lunch Atop a Skyscraper taken? On {{gap}}.",
+       "key": "September the 20th, 1932 (A pontos dátum más formátumban is elfogadható.)",
+       "keywords": [
+        [
+         "september",
+         "20th",
+         "1932"
+        ],
+        [
+         "september",
+         "20",
+         "1932"
+        ],
+        [
+         "20",
+         "09",
+         "1932"
+        ],
+        [
+         "20",
+         "9",
+         "1932"
+        ],
+        [
+         "sept",
+         "20",
+         "1932"
+        ]
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "What two American characteristics did the photo symbolize? The two characteristics were {{gap}}.",
+       "key": "determination and ambition (A sorrend nem számít!)",
+       "keywords": [
+        [
+         "determination",
+         "ambition"
+        ]
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "What was Rockefeller Center’s main goal with Lunch Atop a Skyscraper? To {{gap}}.",
+       "key": "promote its / the new skyscraper / Rockefeller Plaza (A skyscraper csak egyes számban fogadható el.)",
+       "keywords": [
+        [
+         "promote",
+         "skyscraper"
+        ],
+        [
+         "promote",
+         "rockefeller",
+         "plaza"
+        ]
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Besides throwing a football, what were some workers doing in another photo taken on the same day? They were {{gap}}.",
+       "key": "pretending to sleep on the steel beam",
+       "keywords": [
+        [
+         "pretending",
+         "sleep"
+        ]
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "Where is Peter Rice, a Native American, in the photo? He is {{gap}}.",
+       "key": "in the center / centre of the photo / picture",
+       "keywords": [
+        [
+         "center"
+        ],
+        [
+         "centre"
+        ]
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "What does the documentary film entitled Men at Lunch confirm? It confirms the {{gap}}.",
+       "key": "identities of two / 2 Irishmen / Irish workers",
+       "keywords": [
+        [
+         "identities",
+         "2",
+         "irishmen"
+        ],
+        [
+         "identities",
+         "2",
+         "irish",
+         "workers"
+        ]
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "Where is Joe Curtis in the photo? He is the {{gap}}.",
+       "key": "third / 3rd from the right",
+       "keywords": [
+        [
+         "third",
+         "right"
+        ],
+        [
+         "3rd",
+         "right"
+        ]
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "Who did Gustáv Popovič send a postcard with Lunch Atop a Skyscraper to? To {{gap}}.",
+       "key": "his wife (Mariška) / Mariška",
+       "keywords": [
+        [
+         "his",
+         "wife"
+        ],
+        [
+         "mariška"
+        ],
+        [
+         "mariska"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "keywords",
+      "caseSensitive": false,
+      "note": "(A válasz akkor elfogadható, ha a vastagon szedett kulcsszavak szerepelnek benne.)"
+     }
+    },
+    {
+     "id": "2023-okt-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear an interview with Italian engineer and astronaut, Paolo Nespoli.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_23okt_fl.mp3",
+      "start": 605.03,
+      "end": 1225.48,
+      "clip": "hang/e_angol_23okt_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Paolo spent more than 10 months in space.",
+       "answer": "A"
+      },
+      {
+       "n": 10,
+       "stem": "The Apollo 11 spaceflight motivated Paolo the most to become an astronaut.",
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "stem": "His second application was rejected because he was not fit.",
+       "answer": "C"
+      },
+      {
+       "n": 12,
+       "stem": "Many astronauts have to train for more than 9 years before getting selected for a mission.",
+       "answer": "A"
+      },
+      {
+       "n": 13,
+       "stem": "For Paolo, feeling the acceleration in the shuttle in the first few minutes was very scary.",
+       "answer": "B"
+      },
+      {
+       "n": 14,
+       "stem": "In space, Paolo was 6 cm shorter than on Earth.",
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "stem": "Paolo remembered trembling and feeling exhausted.",
+       "answer": "A"
+      },
+      {
+       "n": 16,
+       "stem": "Paolo became more muscular in space than he had been on Earth.",
+       "answer": "A"
+      },
+      {
+       "n": 17,
+       "stem": "Paolo thought that the food he ate in space was an absolute nightmare.",
+       "answer": "B"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2023-okt-emelt-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "feleletválasztás hallás után",
+     "points": 8,
+     "instructions": [
+      "In this section you will listen to some information about The Cheshire Midland Pub in England.",
+      "Your task will be to write the letter of the correct answer into the boxes on the right.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_23okt_fl.mp3",
+      "start": 1225.48,
+      "end": 1795.69,
+      "clip": "hang/e_angol_23okt_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The Cheshire Midland Pub …",
+       "options": [
+        {
+         "key": "A",
+         "text": "is in the city of Manchester."
+        },
+        {
+         "key": "B",
+         "text": "belongs to Sam Smith’s Brewery Chain."
+        },
+        {
+         "key": "C",
+         "text": "operates two dozen pubs."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 18,
+       "stem": "Mr Humphrey Jones ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "is the owner of the Brewery Chain."
+        },
+        {
+         "key": "B",
+         "text": "loved playing with slot machines."
+        },
+        {
+         "key": "C",
+         "text": "bought televisions for his pubs."
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 19,
+       "stem": "The use of mobile phones was banned from Sam Smith’s Brewery Chain pubs …",
+       "options": [
+        {
+         "key": "A",
+         "text": "in 2017."
+        },
+        {
+         "key": "B",
+         "text": "in a message sent to pub managers."
+        },
+        {
+         "key": "C",
+         "text": "by the request of pub managers."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The aim of Sam Smith’s Brewery’s policy was to ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "keep the pubs as quiet as possible."
+        },
+        {
+         "key": "B",
+         "text": "make people drink more and talk less."
+        },
+        {
+         "key": "C",
+         "text": "encourage face-to-face interaction."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 21,
+       "stem": "Last Thursday ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "locals in the pub discovered the identities of the representatives."
+        },
+        {
+         "key": "B",
+         "text": "customers in the pub were caught using their mobiles."
+        },
+        {
+         "key": "C",
+         "text": "Mr. Humphrey Jones himself heard someone swearing in the pub."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 22,
+       "stem": "Mr Calder’s father ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "was talking to someone on his phone."
+        },
+        {
+         "key": "B",
+         "text": "was threatened by the brewery representatives."
+        },
+        {
+         "key": "C",
+         "text": "decided never to go to a Sam Smith’s pub again."
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 23,
+       "stem": "Ms Mary Holmes said that ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "customers hadn’t known about the phone ban."
+        },
+        {
+         "key": "B",
+         "text": "the bar staff had always warned the customers not to use their mobiles."
+        },
+        {
+         "key": "C",
+         "text": "the bar staff had understood that some customers needed their phones."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 24,
+       "stem": "Mr Jerry Atkinson said that he had never agreed with the ban on ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "slot machines."
+        },
+        {
+         "key": "B",
+         "text": "televisions."
+        },
+        {
+         "key": "C",
+         "text": "mobile phones."
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Ms Clara Austin ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "said that people should mind their language."
+        },
+        {
+         "key": "B",
+         "text": "suggested that people have good reason to swear."
+        },
+        {
+         "key": "C",
+         "text": "said that the Cheshire Midland Pub is a typical family place."
+        }
+       ],
+       "answer": "B"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

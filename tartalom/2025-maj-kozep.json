@@ -1,0 +1,1286 @@
+{
+ "formatVersion": 1,
+ "id": "2025-maj-kozep",
+ "year": 2025,
+ "session": "május",
+ "level": "közép",
+ "examDate": "2025-05-08",
+ "code": "K2512",
+ "sourceFiles": {
+  "paper": "2025 - Középszintű május/k_angol_25maj_fl.pdf",
+  "key": "2025 - Középszintű május/k_angol_25maj_ut.pdf",
+  "audio": "2025 - Középszintű május/k_angol_25maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 60,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 6,
+    "6": 7,
+    "7": 8,
+    "8": 9,
+    "9": 10,
+    "10": 11,
+    "11": 12,
+    "12": 13,
+    "13": 14,
+    "14": 15,
+    "15": 17,
+    "16": 18,
+    "17": 19,
+    "18": 20,
+    "19": 21,
+    "20": 22,
+    "21": 23,
+    "22": 24,
+    "23": 25,
+    "24": 26,
+    "25": 28,
+    "26": 29,
+    "27": 30,
+    "28": 31,
+    "29": 32,
+    "30": 33
+   },
+   "tasks": [
+    {
+     "id": "2025-maj-kozep-R1",
+     "number": 1,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "kérdés/cím párosítása bekezdéshez",
+     "points": 8,
+     "instructions": [
+      "Read the following answers from the website of a driving school. The questions have been removed.",
+      "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1- 8).",
+      "There are three extra questions that you do not need."
+     ],
+     "title": "FREQUENTLY ASKED QUESTIONS",
+     "body": [
+      "Here are answers to common questions we get.",
+      "{{0}}\nYes, you must be at least 17 years old to start learning to drive a car.",
+      "{{1}}\nOn average, one needs between 20 and 40 hours of professional instruction to become test ready, but every learner is different. Some may need more, while others may need fewer lessons.",
+      "{{2}}\nIt is possible but it depends on your instructor. Certain driving instructors only teach in their own cars, which are fitted with dual controls: a set of extra pedals on the passenger’s side, allowing the instructor to assist in emergencies.",
+      "{{3}}\nDriving lessons during the daytime are the best choice because more instructors are available and there’s better visibility than in the evenings.",
+      "{{4}}\nYes, as long as the requested location is within our working area, and provided this is arranged with your instructor well before your lesson.",
+      "{{5}}\nIt’s recommended to take at least one or two lessons per week to maintain progress and remember information.",
+      "{{6}}\nCertainly. You can view our instructors’ profiles on our website including a short bio about them and a picture of the car you’ll learn to drive in.",
+      "{{7}}\nTake note of the examiner’s feedback and discuss it with your instructor. Focus on practising the areas where you need to improve before retaking the test.",
+      "{{8}}\nThey are signs that must be displayed on the front and back of a vehicle when a learner driver is behind the wheel. They indicate that the driver is still learning."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "What if I need to cancel my lesson?"
+      },
+      {
+       "key": "B",
+       "text": "What should I do if I fail my driving test?"
+      },
+      {
+       "key": "C",
+       "text": "Are there any age restrictions for learning to drive?"
+      },
+      {
+       "key": "D",
+       "text": "What's the best time of day to take my lessons?"
+      },
+      {
+       "key": "E",
+       "text": "Can I change my driving test appointment?"
+      },
+      {
+       "key": "F",
+       "text": "How many lessons will it take for me to learn to drive?"
+      },
+      {
+       "key": "G",
+       "text": "Can I be picked up and dropped off anywhere?"
+      },
+      {
+       "key": "H",
+       "text": "Can I learn to drive in my own car?"
+      },
+      {
+       "key": "I",
+       "text": "How can I book a driving test?"
+      },
+      {
+       "key": "K",
+       "text": "What are L-plates?"
+      },
+      {
+       "key": "L",
+       "text": "Can I choose my instructor?"
+      },
+      {
+       "key": "M",
+       "text": "How often should I take driving lessons?"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "answer": "F"
+      },
+      {
+       "n": 2,
+       "answer": "H"
+      },
+      {
+       "n": 3,
+       "answer": "D"
+      },
+      {
+       "n": 4,
+       "answer": "G"
+      },
+      {
+       "n": 5,
+       "answer": "M"
+      },
+      {
+       "n": 6,
+       "answer": "L"
+      },
+      {
+       "n": 7,
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "answer": "K"
+      }
+     ],
+     "source": "https://passdrivingschool.co.uk/faqs/"
+    },
+    {
+     "id": "2025-maj-kozep-R2",
+     "number": 2,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "mondatrész visszahelyezése szövegbe",
+     "points": 8,
+     "instructions": [
+      "Read this article about feeding pets at Christmas.",
+      "Some parts of sentences have been left out from the text.",
+      "Your task is to reconstruct the text by filling in the gaps (9-16) from the list (A-L) below.",
+      "Remember that there are two extra letters that you do not need."
+     ],
+     "title": "WHAT YOU SHOULDN'T BE FEEDING YOUR DOG AT CHRISTMAS",
+     "body": [
+      "Many popular foods that people eat at Christmas are unsafe for dogs and shouldn't {{0}}. Cats and dogs have different digestive systems to us humans. Things we can digest, they might struggle to, so we need to be careful to {{9}}. So, what should be avoided and how can you make the holiday season special for your pets?",
+      "Chocolate contains theobromine, which is toxic to cats and dogs and causes stomach pain, vomiting, or heart problems. Dark chocolate {{10}} and is regarded as more toxic. Chocolate also contains caffeine, which causes pets to become restless and {{11}}. Mince pies might be one of the most common festive treats, but they contain raisins, which are highly toxic to dogs. Your dog may develop severe symptoms soon after eating them. It's not known what effect they have on cats, but vets {{12}}.",
+      "Raw garlic and onions can {{13}} if they eat them in large quantities. Best to keep these on your plate so you don't cause any upset tummies.",
+      "If you're having turkey or chicken for dinner this Christmas, chances are there'll be some bones around. Don't give these to your pets though! Cooked bones aren't suitable for your cat or dog as they can {{14}}, which might cause damage to their insides.",
+      "Experts suggest that rather than always looking for foodie treats, you should {{15}}. They recommend a nice new toy or a lovely long walk. If you want to have some surprises, just {{16}} in leftover boxes and let them sniff them out!"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "contains higher doses"
+      },
+      {
+       "key": "B",
+       "text": "advise keeping these out of their reach"
+      },
+      {
+       "key": "C",
+       "text": "be fed to them"
+      },
+      {
+       "key": "D",
+       "text": "be given any alcohol"
+      },
+      {
+       "key": "E",
+       "text": "hide your dog’s usual biscuits"
+      },
+      {
+       "key": "F",
+       "text": "be taken to the vet immediately"
+      },
+      {
+       "key": "G",
+       "text": "break into sharp pieces"
+      },
+      {
+       "key": "H",
+       "text": "get your dog an active present"
+      },
+      {
+       "key": "I",
+       "text": "have difficulty breathing"
+      },
+      {
+       "key": "K",
+       "text": "cause stomach problems for your pets"
+      },
+      {
+       "key": "L",
+       "text": "avoid giving them certain things"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 9,
+       "answer": "L"
+      },
+      {
+       "n": 10,
+       "answer": "A"
+      },
+      {
+       "n": 11,
+       "answer": "I"
+      },
+      {
+       "n": 12,
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "answer": "K"
+      },
+      {
+       "n": 14,
+       "answer": "G"
+      },
+      {
+       "n": 15,
+       "answer": "H"
+      },
+      {
+       "n": 16,
+       "answer": "E"
+      }
+     ],
+     "source": "https://www.bbc.co.uk/newsround/50641229"
+    },
+    {
+     "id": "2025-maj-kozep-R3",
+     "number": 3,
+     "kind": "bank",
+     "layout": "inline",
+     "examType": "bekezdés első mondatának párosítása",
+     "points": 7,
+     "instructions": [
+      "In the following text about challenges you may have when starting university, the first sentence of each paragraph has been removed.",
+      "Your task is to match the sentences to the paragraphs.",
+      "There are two extra sentences that you do not need."
+     ],
+     "title": "TIPS FOR LOOKING AFTER YOURSELF AT UNIVERSITY",
+     "body": [
+      "{{0}}\nIt’s scary being away from home in a new place with people you don’t know well yet. Or maybe your course is super challenging. These tips can help you look after your mental health.",
+      "{{17}}\nIt’s important not to struggle in silence. Opening up can be difficult but remember you’re not alone. Schedule regular chats with family or friends back home.",
+      "{{18}}\nMost universities have helplines and counselling services. Search on the website to find out what is available at your university.",
+      "{{19}}\nEven if you don't need a doctor right now, it's a good idea to contact one so you can get help when you need it.",
+      "{{20}}\nThis is especially important when everything is changing. Try to sleep enough, eat a balanced diet, and exercise when you can. These small things make a big difference to your mental health.",
+      "{{21}}\nTake breaks away from your desk, when you do something fun. Uni is about enjoying yourself as well as studying.",
+      "{{22}}\nIf writing is your thing, keeping a diary will be helpful to track how you're feeling.",
+      "{{23}}\nIt’s normal to find it hard to socialize at first but keep trying. Try setting up fun activities with your housemates like game nights or watching a show together. You could also join a society to meet people."
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "Create a budget."
+      },
+      {
+       "key": "B",
+       "text": "Register at the nearest surgery."
+      },
+      {
+       "key": "C",
+       "text": "When you're starting uni, looking after yourself can be tough."
+      },
+      {
+       "key": "D",
+       "text": "Stick to a basic routine."
+      },
+      {
+       "key": "E",
+       "text": "Find a balance between study and life."
+      },
+      {
+       "key": "F",
+       "text": "Try to make new friends."
+      },
+      {
+       "key": "G",
+       "text": "Plan activities that don’t involve spending money."
+      },
+      {
+       "key": "H",
+       "text": "Reflect on your emotions."
+      },
+      {
+       "key": "I",
+       "text": "Find out what support your uni offers."
+      },
+      {
+       "key": "K",
+       "text": "Talk to someone you know well and trust."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "answer": "K"
+      },
+      {
+       "n": 18,
+       "answer": "I"
+      },
+      {
+       "n": 19,
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "answer": "D"
+      },
+      {
+       "n": 21,
+       "answer": "E"
+      },
+      {
+       "n": 22,
+       "answer": "H"
+      },
+      {
+       "n": 23,
+       "answer": "F"
+      }
+     ],
+     "source": "https://www.youngminds.org.uk/young-person/coping-with-life/looking-after-yourself-at-uni"
+    },
+    {
+     "id": "2025-maj-kozep-R4",
+     "number": 4,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 7,
+     "instructions": [
+      "Read this article about a Guinness world record and then read the statements (24-30) following it.",
+      "Mark a statement A if it is true according to the article, mark it B if it is false, and mark it C if there isn’t enough information in the text to decide if it is true or not."
+     ],
+     "title": "COUPLE SETS RECORD AS OLDEST PAIR TO GET MARRIED",
+     "body": [
+      "When Marjorie Fiterman and Bernie Littman met in their 90s, they had already lived long, full lives and neither of them thought they’d fall in love or end up married again. But last May, the two became the world’s oldest married couple, with a combined age of over 202 years.",
+      "Ms. Fiterman is 102 years old, and Mr. Littman is 100. He was an engineer, and she was a teacher. Each of them had spent more than 60 years in their first marriages, but after their partners died, they both moved to the same retirement home in Philadelphia. They met at a costume party and quickly became friends because they had several things in common. They both liked acting in plays at the retirement home, enjoyed sharing meals together and they’d both attended the University of Pennsylvania at the same time, though they didn’t meet each other then.",
+      "Mr. Littman will always have an easy way to remember when they had their first date – it was the same day that one of his great-granddaughters was born. His family was happy that he’d found someone he fell in love with. Although the couple dated for nine years, the family never thought that the two might want to get married.",
+      "The wedding ceremony took place at the retirement home where they live. Three generations of Mr. Littman’s family were there with the couple: his children, grandchildren and great- grandchildren. On the day they got married, the couple’s ages added up to 202 years and 271 days. That broke the Guinness world record for the oldest couple to get married.",
+      "They say their secret is that they keep each other young."
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mr. Littman’s first marriage ended with a divorce.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Ms. Fiterman and Mr. Littman had lived in different states before they moved to the retirement home in Philadelphia.",
+       "answer": "C"
+      },
+      {
+       "n": 25,
+       "stem": "Ms. Fiterman and Mr. Littman remembered being in touch during their university years.",
+       "answer": "B"
+      },
+      {
+       "n": 26,
+       "stem": "The couple had their first date outside the retirement home.",
+       "answer": "C"
+      },
+      {
+       "n": 27,
+       "stem": "Mr. Littman’s family were pleased to find out about the old man’s relationship.",
+       "answer": "A"
+      },
+      {
+       "n": 28,
+       "stem": "Mr. Littman’s decision to get married surprised his family.",
+       "answer": "A"
+      },
+      {
+       "n": 29,
+       "stem": "Mr. Littman had more children than Ms. Fiterman.",
+       "answer": "C"
+      },
+      {
+       "n": 30,
+       "stem": "The couple were awarded the Guinness world record because Mr. Littman was the oldest man ever to get married.",
+       "answer": "B"
+      }
+     ],
+     "source": "https://newsforkids.net/articles/2024/12/19/couple-sets-record-as-oldest-pair-to-get-married/"
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 18,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 9,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 14,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 17,
+    "25": 18
+   },
+   "tasks": [
+    {
+     "id": "2025-maj-kozep-L1",
+     "number": 1,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about some traditions of celebrating the New Year in different parts of the world. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (1-9).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "NEW YEAR’S EVE TRADITIONS",
+     "body": [
+      "To end things on a {{0}} absurd (and rather unsafe) note, we have Johannesburg, South Africa, where locals celebrate the new year by {{1}} old household items (furniture, gadgets, glass etc.) out the window. As you’d expect, this tradition results in several serious {{2}} each year, but the local government is working to ensure that New Year’s Eve celebrations are safe – even if the age-old {{3}}, ҅Watch out below!’ still echoes through the streets.",
+      "The following tradition is for {{4}} of travelling. Many Latin Americans head to the streets with their suitcases in hand as soon as the new year begins. According to this tradition, those who take their suitcases for a walk at midnight will be {{5}} with trips, vacations, and adventures in the coming 12 months. Some people believe that the longer the walk, the {{6}} they’ll travel.",
+      "For some people in Siberia, a {{7}} New-Year’s-Eve party isn’t enough; they need the thrill and chill. To celebrate the {{8}} of a new year, some people participate in the annual ҅jump into a {{9}} lake and plant a Christmas tree at the bottom’ tradition. The divers then pass the champagne and dance around the tree before coming back up to the surface."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "slight",
+       "example": true,
+       "accept": [
+        "slightly"
+       ]
+      },
+      {
+       "n": 1,
+       "prompt": "throw",
+       "accept": [
+        "throwing"
+       ]
+      },
+      {
+       "n": 2,
+       "prompt": "injure",
+       "accept": [
+        "injuries"
+       ]
+      },
+      {
+       "n": 3,
+       "prompt": "warn",
+       "accept": [
+        "warning"
+       ]
+      },
+      {
+       "n": 4,
+       "prompt": "love",
+       "accept": [
+        "lovers"
+       ]
+      },
+      {
+       "n": 5,
+       "prompt": "reward",
+       "accept": [
+        "rewarded"
+       ]
+      },
+      {
+       "n": 6,
+       "prompt": "far",
+       "accept": [
+        "farther",
+        "further"
+       ]
+      },
+      {
+       "n": 7,
+       "prompt": "type",
+       "accept": [
+        "typical"
+       ]
+      },
+      {
+       "n": 8,
+       "prompt": "begin",
+       "accept": [
+        "beginning"
+       ]
+      },
+      {
+       "n": 9,
+       "prompt": "freeze",
+       "accept": [
+        "frozen",
+        "freezing"
+       ]
+      }
+     ],
+     "source": ": https://www.mentalfloss.com/article/89846/10-worlds-most-entertaining-new-years-customs"
+    },
+    {
+     "id": "2025-maj-kozep-L2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 7,
+     "instructions": [
+      "You are going to read an article about what some scientists consider to be the best way to take notes. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (10-16) in the text."
+     ],
+     "title": "HOW TO TAKE NOTES",
+     "body": [
+      "These days {{0}} people can type faster than they can write by hand, particularly {{10}} they’ve grown up using laptops. This is an extremely useful skill and allows you to take notes quickly and easily, {{11}} must certainly be a good thing.",
+      "Maybe not. In an experiment, university students were given TED talks to watch and were told to take notes. Half were given laptops and half took notes with a pen and paper. The students using a keyboard were more likely to type the lecturers’ words word by word, while the students writing more slowly by hand had no {{12}} to concentrate on the information to allow them to summarise.",
+      "Afterwards, the students were tested on the content of the lecture. When it came to remembering facts, it didn’t matter which method of note-taking they used, but when {{13}} asked to explain the concepts covered in the lecture, the students who took notes by hand did better.",
+      "When the students {{14}} allowed to revise from their notes before being tested a week later, the pen-and-paper group still did better. The reason {{15}} when using a pen and paper, you process the information more deeply {{16}} you can’t possibly write it all down. So it helps you to both understand it and remember it later on."
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "plenty"
+        },
+        {
+         "key": "B",
+         "text": "lot of"
+        },
+        {
+         "key": "C",
+         "text": "many"
+        },
+        {
+         "key": "D",
+         "text": "few"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "if"
+        },
+        {
+         "key": "C",
+         "text": "then"
+        },
+        {
+         "key": "D",
+         "text": "how"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "which"
+        },
+        {
+         "key": "B",
+         "text": "it"
+        },
+        {
+         "key": "C",
+         "text": "what"
+        },
+        {
+         "key": "D",
+         "text": "that"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 12,
+       "options": [
+        {
+         "key": "A",
+         "text": "more chance"
+        },
+        {
+         "key": "B",
+         "text": "difficulty in"
+        },
+        {
+         "key": "C",
+         "text": "possibility"
+        },
+        {
+         "key": "D",
+         "text": "choice but"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 13,
+       "options": [
+        {
+         "key": "A",
+         "text": "it was"
+        },
+        {
+         "key": "B",
+         "text": "the teacher"
+        },
+        {
+         "key": "C",
+         "text": "-"
+        },
+        {
+         "key": "D",
+         "text": "all of them"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 14,
+       "options": [
+        {
+         "key": "A",
+         "text": "had"
+        },
+        {
+         "key": "B",
+         "text": "were"
+        },
+        {
+         "key": "C",
+         "text": "would be"
+        },
+        {
+         "key": "D",
+         "text": "have been"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 15,
+       "options": [
+        {
+         "key": "A",
+         "text": "why is"
+        },
+        {
+         "key": "B",
+         "text": "for that"
+        },
+        {
+         "key": "C",
+         "text": "is that"
+        },
+        {
+         "key": "D",
+         "text": "for which"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "options": [
+        {
+         "key": "A",
+         "text": "while"
+        },
+        {
+         "key": "B",
+         "text": "because"
+        },
+        {
+         "key": "C",
+         "text": "however,"
+        },
+        {
+         "key": "D",
+         "text": "in case"
+        }
+       ],
+       "answer": "B"
+      }
+     ],
+     "source": "https://www.bbc.com/future/article/20191122-when-the-best-way-to-take-notes-is-by-hand"
+    },
+    {
+     "id": "2025-maj-kozep-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about a refreshing way of commuting to work. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (17-25) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "SUMMER RIVER COMMUTING IN SWITZERLAND",
+     "body": [
+      "During the hot summer months in at {{0}} two Swiss cities – Basel and Bern – workers commute to or from their jobs via river. And no, not in a boat. Depending {{17}} where you live and where you work along the river, you can choose to either go to work with the flow {{18}} go home with the flow.",
+      "The commuters have foldable dry bags – often shaped {{19}} a fish – into which they put their clothes and even work items, and where they keep their towels and swimsuits {{20}} the day. They change into their swimming gear at an easy entrance zone, jump into the river, and swim {{21}} their bag floating behind them to the most convenient exit point for their final destination. There are small cabins set up as dressing rooms and a {{22}} showers and toilets along the route.",
+      "While {{23}} usually looks peaceful, the Rhein is a large, powerful river, so you {{24}} feel comfortable in the water before giving it a go. As {{25}} as you’re a competent swimmer, you should feel safe."
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "least"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "on"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "or"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "like"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "during",
+        "for",
+        "over",
+        "through",
+        "throughout"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "with"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "few",
+        "dozen"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "it"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "must",
+        "should"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "long",
+        "soon"
+       ]
+      }
+     ],
+     "source": "https://observingleslie.com/magazine/swim-to-the-office-summer-river-commuting-in-switzerland"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 25,
+   "maxExamPoints": 33,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "5": 7,
+    "6": 8,
+    "7": 9,
+    "8": 11,
+    "9": 12,
+    "10": 13,
+    "11": 15,
+    "12": 16,
+    "13": 17,
+    "14": 18,
+    "15": 20,
+    "16": 21,
+    "17": 22,
+    "18": 24,
+    "19": 25,
+    "20": 26,
+    "21": 28,
+    "22": 29,
+    "23": 30,
+    "24": 32,
+    "25": 33
+   },
+   "tasks": [
+    {
+     "id": "2025-maj-kozep-H1",
+     "number": 1,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után",
+     "points": 9,
+     "instructions": [
+      "In this section you will hear a funny story about an elderly man who was the employee of a supermarket.",
+      "Your task is to complete the sentences with one word in each gap, using the exact words you hear in the recording.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_25maj_fl.mp3",
+      "start": 0,
+      "end": 566.95,
+      "clip": "hang/k_angol_25maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Before his retirement, Charles served as a {{gap}}.",
+       "accept": [
+        "soldier"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "Charles’s job at the supermarket was to stand at the front door and {{gap}} the shoppers who went into the store.",
+       "accept": [
+        "greet"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "His day shift started at 6:30, so he had to get up {{gap}} early in the morning.",
+       "accept": [
+        "extremely"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Charles was at least 5 minutes {{gap}} for work every day.",
+       "accept": [
+        "late"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "Charles was an outstandingly good worker in many other {{gap}} respects.",
+       "accept": [
+        "important"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "With his kindness, tidiness and intelligence, Charles clearly demonstrated the store’s {{gap}} friendly policies.",
+       "accept": [
+        "customer"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "His boss told Charles that he liked his {{gap}} ethic and professionalism a lot.",
+       "accept": [
+        "work"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Charles told his boss that he understood his worries, and promised to try {{gap}}.",
+       "accept": [
+        "harder"
+       ]
+      },
+      {
+       "n": 8,
+       "stem": "His boss asked Charles what they had said back in the Armed {{gap}} when he didn’t arrive for service on time.",
+       "accept": [
+        "forces"
+       ]
+      },
+      {
+       "n": 9,
+       "stem": "He said that they had just saluted and asked if he wanted a cup of coffee, because he was a(n) {{gap}} in the army.",
+       "accept": [
+        "general"
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false,
+      "note": "(Csak az alábbi, a szövegben elhangzó szavak fogadhatók el.)"
+     }
+    },
+    {
+     "id": "2025-maj-kozep-H2",
+     "number": 2,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a funny story about a young man who bought a Porsche.",
+      "Your task will be to circle the letter(s) of the correct answer(s) in the boxes on the right. Please note that in this task both answers may be correct. However, there is always at least one correct answer. This means you might have to circle one or two letters.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "k_angol_25maj_fl.mp3",
+      "start": 566.95,
+      "end": 1074.06,
+      "clip": "hang/k_angol_25maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The boy in this story …",
+       "options": [
+        {
+         "key": "A",
+         "text": "was 17 years old."
+        },
+        {
+         "key": "B",
+         "text": "worked at a restaurant."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 10,
+       "stem": "The boy …",
+       "options": [
+        {
+         "key": "A",
+         "text": "parked a Porsche in front of his home."
+        },
+        {
+         "key": "B",
+         "text": "had always wanted to buy such a car."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 11,
+       "stem": "His parents …",
+       "options": [
+        {
+         "key": "A",
+         "text": "were very happy to see the Porsche."
+        },
+        {
+         "key": "B",
+         "text": "asked him where he got the car."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 12,
+       "stem": "The boy’s parents knew very well …",
+       "options": [
+        {
+         "key": "A",
+         "text": "how expensive such a car was."
+        },
+        {
+         "key": "B",
+         "text": "he didn’t have enough money to buy a Porsche."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 13,
+       "stem": "The boy explained to his parents that the car was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "more than 20 years old."
+        },
+        {
+         "key": "B",
+         "text": "actually very cheap."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 14,
+       "stem": "He told them that he got the offer to buy the car …",
+       "options": [
+        {
+         "key": "A",
+         "text": "from a woman who lived nearby."
+        },
+        {
+         "key": "B",
+         "text": "when he was delivering a pizza."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 15,
+       "stem": "The boy’s parents wanted an explanation, so they …",
+       "options": [
+        {
+         "key": "A",
+         "text": "phoned the woman."
+        },
+        {
+         "key": "B",
+         "text": "went over to the woman’s house."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 16,
+       "stem": "Their new neighbour told them that her husband was …",
+       "options": [
+        {
+         "key": "A",
+         "text": "from Florida."
+        },
+        {
+         "key": "B",
+         "text": "away in Hawaii."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 17,
+       "stem": "The woman told them that her husband wanted her to …",
+       "options": [
+        {
+         "key": "A",
+         "text": "sell the car."
+        },
+        {
+         "key": "B",
+         "text": "charge $20 for the car."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2025-maj-kozep-H3",
+     "number": 3,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "In this section you will hear a conversation between two men.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right."
+     ],
+     "audio": {
+      "file": "k_angol_25maj_fl.mp3",
+      "start": 1074.06,
+      "end": 1796.76,
+      "clip": "hang/k_angol_25maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Mr Jones is a pensioner.",
+       "answer": "C"
+      },
+      {
+       "n": 18,
+       "stem": "After a few moments Mr Jones recognised his old student.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "Peter decided to become a teacher because he wanted to be like Mr Jones.",
+       "answer": "A"
+      },
+      {
+       "n": 20,
+       "stem": "Peter stole the watch from his friend’s bag.",
+       "answer": "B"
+      },
+      {
+       "n": 21,
+       "stem": "The watch Peter stole from his friend was extremely expensive.",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Mr Jones asked the students to stand up and form a circle.",
+       "answer": "A"
+      },
+      {
+       "n": 23,
+       "stem": "Mr Jones searched the pockets of all the students, but he couldn’t find the watch.",
+       "answer": "B"
+      },
+      {
+       "n": 24,
+       "stem": "Peter decided to return the watch to its rightful owner.",
+       "answer": "B"
+      },
+      {
+       "n": 25,
+       "stem": "Mr Jones had no idea that Peter was the one who had stolen the watch.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

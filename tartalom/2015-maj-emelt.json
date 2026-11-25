@@ -1,0 +1,1542 @@
+{
+ "formatVersion": 1,
+ "id": "2015-maj-emelt",
+ "year": 2015,
+ "session": "május",
+ "level": "emelt",
+ "examDate": "2015-05-07",
+ "code": "1511",
+ "sourceFiles": {
+  "paper": "2015 - Emeltszintű májusi/e_angol_15maj_fl.pdf",
+  "key": "2015 - Emeltszintű májusi/e_angol_15maj_ut.pdf",
+  "audio": "2015 - Emeltszintű májusi/e_angol_15maj_fl.mp3"
+ },
+ "sections": [
+  {
+   "id": "reading",
+   "title": "I. Olvasott szöveg értése",
+   "minutes": 70,
+   "maxTaskPoints": 30,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 15,
+    "16": 16,
+    "17": 17,
+    "18": 18,
+    "19": 19,
+    "20": 20,
+    "21": 21,
+    "22": 22,
+    "23": 23,
+    "24": 24,
+    "25": 25,
+    "26": 26,
+    "27": 27,
+    "28": 28,
+    "29": 29,
+    "30": 30
+   },
+   "note": "Az útmutató ehhez a részhez nem közöl átszámítási táblát: emelt szinten a 30 feladatpont egyben a vizsgapont.",
+   "tasks": [
+    {
+     "id": "2015-maj-emelt-R1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / nincs elég információ (A/B/C)",
+     "points": 8,
+     "instructions": [
+      "Read this text about horses in London and then read the statements (1-8) that follow.",
+      "Your task is to decide whether the statements are true or not according to the text.",
+      "Mark a sentence A if it is true according to the article.",
+      "Mark it B if it is false.",
+      "Mark it C if there is not enough information in the text to decide if it is true or not."
+     ],
+     "title": "THE LOST HORSES OF LONDON",
+     "body": [
+      "The city of the horse and carriage is gone. But some traces remain...",
+      "The days when horses and humans lived cheek by jowl in the capital are unarguably over. Horses pulling heavy loads have disappeared, and most people would argue that the black cab does a far better job than the hansom cab* ever did. But statues of kings atop their horses take pride of place in squares and parks, and the more recent Animals in War memorial on Park Lane is a reminder that our dependence on horses lasted until less than a century ago.",
+      "Not all of the reminders are visual, either. Streets called mews used to have rows of stables in them, and in central London mews houses, i.e. converted stables, sell for several million pounds each today. Not all London mews have changed, though. Bathurst Mews is one of the last to still house horses; it is home to Hyde Park Stables. The prices for riding lessons are fairly steep, but just think: as everyone else walks gloomily along Oxford Street, you could be trotting purposefully around the park. The pace might be a bit leisurely for the experienced rider, but in terms of location, you simply can't beat it.",
+      "If, on the other hand, you're keen to ride through rolling hills, then Richmond Park is just the place. Stag Lodge Stables, for example, are based just off the A3, and as well as offering lessons, in summer they also offer pub rides. A pony and a pint? Sounds like heaven!",
+      "If you're a polo enthusiast, London offers a quick fix for that as well; Ham Polo Club is just a short journey from the centre of town, while Windsor (a 40-minute drive from London) offers some of the best polo in the UK. So you see, London might not be the most obvious place for horse-lovers to hang out, but if you look in the right places, the horses certainly do exist.",
+      "(www.spectator.co.uk)",
+      "* hansom cab: two-wheeled carriage pulled by one horse"
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "NOT ENOUGH INFORMATION"
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Horses and humans used to live in close proximity in London.",
+       "answer": "A"
+      },
+      {
+       "n": 1,
+       "stem": "People would much rather get around in a taxi than a horse-drawn carriage.",
+       "answer": "A"
+      },
+      {
+       "n": 2,
+       "stem": "The Animals in War memorial was put up nearly a century ago.",
+       "answer": "B"
+      },
+      {
+       "n": 3,
+       "stem": "If you want a cheap place to live, streets called mews are a good place to look.",
+       "answer": "B"
+      },
+      {
+       "n": 4,
+       "stem": "Bathhurst Mews near Hyde Park is difficult to find.",
+       "answer": "C"
+      },
+      {
+       "n": 5,
+       "stem": "It's the area that justifies the prices set by Hyde Park Stables.",
+       "answer": "A"
+      },
+      {
+       "n": 6,
+       "stem": "Horse riding is not allowed in Oxford Street.",
+       "answer": "C"
+      },
+      {
+       "n": 7,
+       "stem": "Stag Lodge Stables are the best riding club for complete beginners.",
+       "answer": "C"
+      },
+      {
+       "n": 8,
+       "stem": "The article mentions two very good polo clubs in London.",
+       "answer": "B"
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-R2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 7,
+     "instructions": [
+      "Read this article about how to help a depressed person and then read the gapped sentences.",
+      "Your task is to complete the sentences by filling the gaps (9-15) with one word only giving relevant information from the text.",
+      "Write your answers on the lines."
+     ],
+     "title": "TALK LESS, LISTEN MORE TO BE THE FRIEND OF A PERSON WITH DEPRESSION",
+     "body": [
+      "Clinical depression is a disease and it often requires professional help. But loved ones are the first, and often a last, line of defense.",
+      "What is the best way to help someone who is feeling low, struggling emotionally, or perhaps even clinically depressed? This question occured to me recently, when I was scuba diving with friends and noticed that one of them was in unusually low spirits. In a quiet moment between dives, I asked him how he was. He replied, \"Not well at all.\" He said he'd been feeling depressed and isolated. I'm embarrassed to say I drew a blank about what to say next. I asked a few more questions and listened, but failed to offer any genuine comfort.",
+      "Depression is intensely painful, confusing and frightening, experts say, both to the depressed person and to those around that person. Some people avoid the depressed person because they don't know what to do. Most of us try to help – and yet we often make the person feel misunderstood, even judged. We minimize the problem (\"You have so much to be thankful for\"). We offer platitudes (\"Time heals all wounds\") or advice (\"You'll feel better if you exercise\").",
+      "Emotional support from friends and family can be an essential element in the healing process, but it isn't easy to know what to say. Don't wait for your friend to reach out to you. Start by asking the person how they are doing. Listen to what they have to say. A depressed person wants most of all to be heard, respected and gently loved, and they want to be reassured that the friend isn't going to leave. Offer to talk, but don't pressure. Think of yourself as a 'distraction' – someone to have fun with. Be gently hopeful without claiming that everything is going to be better overnight. Avoid saying things that minimise their pain. That includes: \"Stop feeling sorry for yourself.\" \"There are people worse off,\" or \"You need a hobby.\" These are all proven losers that the depressed person will see as blaming or hostile.",
+      "Simple, clear messages work best. Say, \"I'm sorry that you're in so much pain, and I want you to know that I am here for you for as long as it takes.\" This can go a long way toward helping your friend feel less isolated.",
+      "As for my dive buddy, the day after our conversation I wrote him a note to say I was sorry he'd hit a rough patch and that I was a 'good ear'. I also offered to go diving with him. His response? \"Thanks, Elizabeth. That's really cool.\"",
+      "(wttp://online.wsj.com)",
+      "Those closest to a {{0}} person can often help them best.",
+      "Noticing a friend's low spirits made the {{9}} think about the problem in general.",
+      "She is still {{10}} about how she reacted to his words at the time.",
+      "You try to help with ‘wisdom’ and good {{11}}, but it might do more harm than good.",
+      "Talk to a depressed person with love and respect, and most importantly: {{12}}.",
+      "Don't say things that suggest the person is exaggerating the problem or is even {{13}} for it.",
+      "Depressed people often feel {{14}}, so let them know you stand by them.",
+      "The man's response to her note showed he was {{15}} for it."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "depressed"
+       ]
+      },
+      {
+       "n": 9,
+       "accept": [
+        "author",
+        "writer",
+        "woman",
+        "lady",
+        "girl",
+        "journalist"
+       ]
+      },
+      {
+       "n": 10,
+       "accept": [
+        "embarrassed",
+        "uncomfortable",
+        "ashamed"
+       ]
+      },
+      {
+       "n": 11,
+       "accept": [
+        "advice",
+        "ideas",
+        "counsel",
+        "suggestions",
+        "tips"
+       ]
+      },
+      {
+       "n": 12,
+       "accept": [
+        "listen"
+       ]
+      },
+      {
+       "n": 13,
+       "accept": [
+        "responsible"
+       ]
+      },
+      {
+       "n": 14,
+       "accept": [
+        "isolated",
+        "lonely",
+        "alone"
+       ]
+      },
+      {
+       "n": 15,
+       "accept": [
+        "grateful",
+        "thankful"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-R3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "mondat vagy összefoglaló kiegészítése a szöveg alapján",
+     "points": 6,
+     "instructions": [
+      "Read this article about a prize awarded for funny and strange inventions and discoveries.",
+      "In the sentences that follow the text there are some gaps. Your task is to fill the gaps with one word so that the sentences correspond to what the text says.",
+      "In this task you must use the exact word you read in the text.",
+      "Write the words on the lines. An example (0) has been given for you."
+     ],
+     "title": "TWO OF THE TOP WINNERS OF THIS YEAR’S IG NOBEL PRIZES",
+     "body": [
+      "The spoof awards that have become almost as famous as the real Nobels were handed out at their annual ceremony at Harvard University, US. One of the prizes went to a Japanese team, who measured the friction of banana skin in the lab, and showed why apple and orange peel are not quite so hazardous.",
+      "The Kitasato University group received the physics Ig for their insights. Ridiculous as this may seem, when you delve deeper, you will see a serious intention. The Japanese scientists are interested in how friction and lubrication affect the movement of our limbs. They have found that the molecular gels that give banana skins their slippery properties are also there in our bodies, for example, knees, where our bones meet.",
+      "Another winner this year was the study that examined the brains of people who see the face of Jesus and other figures on slices of toast. Kang Lee, from the University of Toronto, Canada, and colleagues showed their subjects pictures of \"noise\" - the random marks you see on a piece of toast - to see what patterns they would identify. The tendency to see order in randomness - like a face in the charred areas of a piece of bread - is a well-established psychological phenomenon.",
+      "Using MRI, Lee and his team saw how the same parts of the brain light up when we see non-existent faces as when we see real ones.",
+      "\"Interestingly, when you superimpose all the noise images where these people say they see faces, and remove all the noise images in which they told us they couldn't see faces, a face does actually show up,\" Prof Lee said. The Toronto scientist explained that this type of pattern recognition was hard-wired, and even chimps experienced it.",
+      "\"The face you are going to see is determined by your personal expectations or beliefs,\" he added. \"So, for example, Buddhists will not see Jesus on toast, but rather Buddha.\"",
+      "(bbc.co.uk)",
+      "The {{0}} Ig Nobel ceremonies are held at Harvard University.",
+      "When its {{16}} was scientifically tested, banana peel proved to be more hazardous than orange peel.",
+      "Perhaps it’s hard to realize at first, but there was a(n) {{17}} motive for this research.",
+      "The substance that is responsible for the {{18}} quality of banana peel is also present in the human body.",
+      "The {{19}} of the second research were asked what image they saw on a piece of toast.",
+      "It has been shown that looking at imaginary and {{20}} faces stimulates the same areas in the brain.",
+      "{{21}} also see the kind of visual patterns that people do."
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "annual"
+       ]
+      },
+      {
+       "n": 16,
+       "accept": [
+        "friction"
+       ]
+      },
+      {
+       "n": 17,
+       "accept": [
+        "serious",
+        "deeper"
+       ]
+      },
+      {
+       "n": 18,
+       "accept": [
+        "slippery",
+        "hazardous"
+       ]
+      },
+      {
+       "n": 19,
+       "accept": [
+        "subjects"
+       ]
+      },
+      {
+       "n": 20,
+       "accept": [
+        "real"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "Chimps"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-R4",
+     "number": 4,
+     "kind": "bank",
+     "layout": "stems",
+     "examType": "félmondatok párosítása",
+     "points": 9,
+     "instructions": [
+      "Read this article about a Budapest attraction and then read the incomplete sentences (22-30) following it.",
+      "Your task is to find the right endings (A-N) for the sentences based on relevant information in the text.",
+      "There are three extra letters that you do not need."
+     ],
+     "title": "CLAUSTROPHILIA: HOW A LIVE-ACTION GAME BECAME BUDAPEST'S TOP TOURIST ACTIVITY",
+     "body": [
+      "In the Hungarian capital, tourists are lining up to ... escape from a room. We look at a growing trend",
+      "Viktor Oszvald got the idea for Budapest's top tourist activity while juggling dressed as a clown. His daughter had just been born and that evening, while working at a horror-themed show in a suburban factory, he dreamt of breaking free and had a brainwave.",
+      "Now Oszvald is founder of Claustrophilia, TripAdvisor's* top-ranked thing to do in Budapest, and part of a tourist craze sweeping Europe: room escape games. Essentially live- action puzzles, the games combine riddles and physical tasks, with the aim being to, well, escape from a room.",
+      "Teams of up to five usually get an hour to make a successful exit, paying between £13 and £30 depending on the game. Few succeed. Since late 2012 Claustrophilia has been \"beaten\" by about a dozen teams unaided, of the many hundreds Oswald claims have played. He sometimes takes pity on contenders and shouts out hints via a speaker.",
+      "Claustrophilia is one of over 30 escape games to have cropped up in the city since 2011. Some, like the popular TRAP, use imagery from the likes of ancient Egypt and medieval Europe. ParaPark's dank setting could have been lifted straight from Saw ̵̶̵ the horror movie said to have partly spurred excape games' popularity. Other influences include TV shows like Survivor, but most claim the format emerged from point-and-click PC games of the early 1990s.",
+      "Claustrophilia's backstory is the enigmatic will of an old eccentric to explain the cramped assortment of props and furniture ̵ ranging from gas masks to 19th century maps. It's spooky but never scary, and held in an apartment within a disused building (the precise location is shared only upon booking).",
+      "Like the famous ruin pubs, escape games have flourished in Budapest, thanks to the many pretty-but-dilapidated apartment blocks that owe much to a violent, tragic past, wedged between fascism and communism.",
+      "Buoyed by their success, many games companies are now branching out, eyeing several destinations in western Europe. Meanwhile, the games' popularity at home continues to soar. Most people come to Budapest for the architecture or the nightlife. But now, many are coming simply to escape.",
+      "(www.theguardian.com)",
+      "* TripAdvisor: a travel website"
+     ],
+     "bank": [
+      {
+       "key": "A",
+       "text": "history."
+      },
+      {
+       "key": "B",
+       "text": "licences."
+      },
+      {
+       "key": "C",
+       "text": "room escape game."
+      },
+      {
+       "key": "D",
+       "text": "horror show."
+      },
+      {
+       "key": "E",
+       "text": "assistance."
+      },
+      {
+       "key": "F",
+       "text": "popularity."
+      },
+      {
+       "key": "G",
+       "text": "problem."
+      },
+      {
+       "key": "H",
+       "text": "address."
+      },
+      {
+       "key": "I",
+       "text": "clown."
+      },
+      {
+       "key": "K",
+       "text": "locations."
+      },
+      {
+       "key": "L",
+       "text": "setting."
+      },
+      {
+       "key": "M",
+       "text": "escaping."
+      },
+      {
+       "key": "N",
+       "text": "design."
+      }
+     ],
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Claustrophilia is a live-action",
+       "answer": "C"
+      },
+      {
+       "n": 22,
+       "stem": "Viktor Oszwald first thought of the game while working as a(n)",
+       "answer": "I"
+      },
+      {
+       "n": 23,
+       "stem": "The main inspiration was his own wish to get away from a(n)",
+       "answer": "D"
+      },
+      {
+       "n": 24,
+       "stem": "In Budapest and elsewhere room escape games are gaining",
+       "answer": "F"
+      },
+      {
+       "n": 25,
+       "stem": "Lots of players would not be able to escape without",
+       "answer": "E"
+      },
+      {
+       "n": 26,
+       "stem": "With some games, the backstory is inspired by",
+       "answer": "A"
+      },
+      {
+       "n": 27,
+       "stem": "Early PC games might have influenced the",
+       "answer": "N"
+      },
+      {
+       "n": 28,
+       "stem": "Only after you have booked a ticket will you be told the",
+       "answer": "H"
+      },
+      {
+       "n": 29,
+       "stem": "Budapest's beautiful but shabby old buildings provide a perfect",
+       "answer": "L"
+      },
+      {
+       "n": 30,
+       "stem": "Room escape games might spread to many new",
+       "answer": "K"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "language",
+   "title": "II. Nyelvhelyesség",
+   "minutes": 50,
+   "maxTaskPoints": 41,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 1,
+    "3": 2,
+    "4": 3,
+    "5": 4,
+    "6": 4,
+    "7": 5,
+    "8": 6,
+    "9": 7,
+    "10": 7,
+    "11": 8,
+    "12": 9,
+    "13": 10,
+    "14": 10,
+    "15": 11,
+    "16": 12,
+    "17": 12,
+    "18": 13,
+    "19": 14,
+    "20": 15,
+    "21": 15,
+    "22": 16,
+    "23": 17,
+    "24": 18,
+    "25": 18,
+    "26": 19,
+    "27": 20,
+    "28": 20,
+    "29": 21,
+    "30": 22,
+    "31": 23,
+    "32": 23,
+    "33": 24,
+    "34": 25,
+    "35": 26,
+    "36": 26,
+    "37": 27,
+    "38": 28,
+    "39": 29,
+    "40": 29,
+    "41": 30
+   },
+   "tasks": [
+    {
+     "id": "2015-maj-emelt-L1",
+     "number": 1,
+     "kind": "choice",
+     "layout": "inline",
+     "examType": "feleletválasztós szövegkiegészítés (A-D)",
+     "points": 11,
+     "instructions": [
+      "You are going to read an article about the American attitude to holidays. Some words are missing from the text.",
+      "Choose the most appropriate answer from the options (A-D) for each gap (1-11) in the text."
+     ],
+     "title": "THE AMERICAN WAY",
+     "body": [
+      "A recent study has revealed that on average, American workers receive just 10 days {{0}} holiday per year, and last year only used half of their allocated time. And when they {{1}} finally take leave, 61 per cent of them {{2}} to work while they are out of the office. As thousands of US workers fail to {{3}} of their hard-earned time off, a shocking 429 million days of accumulated holiday time went unclaimed last year. And America’s children are clearly {{4}} that their parents are workaholics.",
+      "MasterCard, {{5}} financed the study, has broadcasted a new television ad featuring children who criticise their parents {{6}} a family holiday. When informed that adults {{7}} 429 million days of accumulated holiday to expire, a little boy says bluntly: ‘That’s the stupidest thing I’ve ever heard.’",
+      "It doesn’t appear that the trend {{8}} this year as only half of Americans have taken a holiday or are planning one in the near future. {{9}} the study, the US is the only developed country in the world where it is not mandatory for employers to reward their employees {{10}} holiday pay; meaning over 28 million Americans do not receive any payment during their holidays. And most American workers are not {{11}} that guaranteed holiday time is common practice in other developed countries.",
+      "(www.dailymail.co.uk)"
+     ],
+     "items": [
+      {
+       "n": 0,
+       "options": [
+        {
+         "key": "A",
+         "text": "to"
+        },
+        {
+         "key": "B",
+         "text": "on"
+        },
+        {
+         "key": "C",
+         "text": "of"
+        },
+        {
+         "key": "D",
+         "text": "at"
+        }
+       ],
+       "example": true,
+       "answer": "C"
+      },
+      {
+       "n": 1,
+       "options": [
+        {
+         "key": "A",
+         "text": "could"
+        },
+        {
+         "key": "B",
+         "text": "do"
+        },
+        {
+         "key": "C",
+         "text": "should"
+        },
+        {
+         "key": "D",
+         "text": "manage"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 2,
+       "options": [
+        {
+         "key": "A",
+         "text": "keep up"
+        },
+        {
+         "key": "B",
+         "text": "go on"
+        },
+        {
+         "key": "C",
+         "text": "stop"
+        },
+        {
+         "key": "D",
+         "text": "continue"
+        }
+       ],
+       "answer": "D"
+      },
+      {
+       "n": 3,
+       "options": [
+        {
+         "key": "A",
+         "text": "take a break"
+        },
+        {
+         "key": "B",
+         "text": "have access"
+        },
+        {
+         "key": "C",
+         "text": "take advantage"
+        },
+        {
+         "key": "D",
+         "text": "make an attempt"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 4,
+       "options": [
+        {
+         "key": "A",
+         "text": "not impressed"
+        },
+        {
+         "key": "B",
+         "text": "delightful"
+        },
+        {
+         "key": "C",
+         "text": "not disappointing"
+        },
+        {
+         "key": "D",
+         "text": "realistic"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 5,
+       "options": [
+        {
+         "key": "A",
+         "text": "that"
+        },
+        {
+         "key": "B",
+         "text": "which"
+        },
+        {
+         "key": "C",
+         "text": "when"
+        },
+        {
+         "key": "D",
+         "text": "what"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 6,
+       "options": [
+        {
+         "key": "A",
+         "text": "for not booking"
+        },
+        {
+         "key": "B",
+         "text": "not to book"
+        },
+        {
+         "key": "C",
+         "text": "why having booked"
+        },
+        {
+         "key": "D",
+         "text": "as to book"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 7,
+       "options": [
+        {
+         "key": "A",
+         "text": "let"
+        },
+        {
+         "key": "B",
+         "text": "allowed"
+        },
+        {
+         "key": "C",
+         "text": "refused"
+        },
+        {
+         "key": "D",
+         "text": "kept"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 8,
+       "options": [
+        {
+         "key": "A",
+         "text": "has changed"
+        },
+        {
+         "key": "B",
+         "text": "had changed"
+        },
+        {
+         "key": "C",
+         "text": "did change"
+        },
+        {
+         "key": "D",
+         "text": "was changed"
+        }
+       ],
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "options": [
+        {
+         "key": "A",
+         "text": "Despite"
+        },
+        {
+         "key": "B",
+         "text": "Besides"
+        },
+        {
+         "key": "C",
+         "text": "According to"
+        },
+        {
+         "key": "D",
+         "text": "As for"
+        }
+       ],
+       "answer": "C"
+      },
+      {
+       "n": 10,
+       "options": [
+        {
+         "key": "A",
+         "text": "for"
+        },
+        {
+         "key": "B",
+         "text": "with"
+        },
+        {
+         "key": "C",
+         "text": "of"
+        },
+        {
+         "key": "D",
+         "text": "to"
+        }
+       ],
+       "answer": "B"
+      },
+      {
+       "n": 11,
+       "options": [
+        {
+         "key": "A",
+         "text": "very keen"
+        },
+        {
+         "key": "B",
+         "text": "ever likely"
+        },
+        {
+         "key": "C",
+         "text": "much capable"
+        },
+        {
+         "key": "D",
+         "text": "even aware"
+        }
+       ],
+       "answer": "D"
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-L2",
+     "number": 2,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "szóképzés (zárójeles szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an unusual detective. Some words are missing from the text.",
+      "Use the words in brackets to form the words that fit in the gaps (12-20).",
+      "There might be cases when you do not have to change the word in brackets.",
+      "Use only one word for each gap."
+     ],
+     "title": "THECOLUMBOOFCATS:PETDETECTIVEUSESHIS ALLERGYASA‘CATRADAR’",
+     "body": [
+      "Being a pet detective isn’t a line of work you would {{0}} associate with extreme danger, however for one animal {{12}} every day is a dance with death.",
+      "Pet detective Tom Watkins is extremely {{13}} to cats, and a single stroke of a cat’s coat can send him into fits of sneezing and even set off an asthma {{14}}. However, Tom has turned his weakness into a {{15}}, and the 40-year-old detective uses his allergy as a ‘cat radar’ which helps him detect if missing cats are nearby. The former police officer said: ‘My allergy hasn’t stopped me tracking down a cat yet; in fact, it actually acts as a {{16}} sense when trying to hunt them down.’",
+      "After leaving the police, Tom, from Hereford, set up Animal Search UK, a company which helps {{17}} locate their missing pets. Tom says his severe allergy won’t stop him pursuing his dream of {{18}} his investigative skills and his interest in animals.",
+      "How does he feel about coming up against his nemeses every day at work? ‘Despite my severe allergy, I get lots of {{19}} from my job and actually have great {{20}} for cats; they’re wonderful animals,’ he said.Animal Search UK has 15 staff and 30,000 volunteers, and recovers 3,000 missing animals a month.",
+      "(www. metro.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "prompt": "usual",
+       "example": true,
+       "accept": [
+        "usually"
+       ]
+      },
+      {
+       "n": 12,
+       "prompt": "investigate",
+       "accept": [
+        "investigator"
+       ]
+      },
+      {
+       "n": 13,
+       "prompt": "allergy",
+       "accept": [
+        "allergic"
+       ]
+      },
+      {
+       "n": 14,
+       "prompt": "attack",
+       "accept": [
+        "attack"
+       ]
+      },
+      {
+       "n": 15,
+       "prompt": "strong",
+       "accept": [
+        "strength"
+       ]
+      },
+      {
+       "n": 16,
+       "prompt": "six",
+       "accept": [
+        "sixth"
+       ]
+      },
+      {
+       "n": 17,
+       "prompt": "own",
+       "accept": [
+        "owners"
+       ]
+      },
+      {
+       "n": 18,
+       "prompt": "combine",
+       "accept": [
+        "combining"
+       ]
+      },
+      {
+       "n": 19,
+       "prompt": "satisfy",
+       "accept": [
+        "satisfaction"
+       ]
+      },
+      {
+       "n": 20,
+       "prompt": "appreciate",
+       "accept": [
+        "appreciation"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-L3",
+     "number": 3,
+     "kind": "text",
+     "layout": "inline",
+     "examType": "nyílt cloze (egy szó)",
+     "points": 9,
+     "instructions": [
+      "You are going to read an article about an unusual decision. Some words are missing from the text.",
+      "Your task is to write the missing words on the dotted lines (21-29) after the text.",
+      "Use only one word in each gap."
+     ],
+     "title": "WOMAN GETS FED UP WITH BEING SINGLE - AND MARRIES HERSELF!",
+     "body": [
+      "If you’re keen to get married but just can’t find {{0}} right person, a young woman could have provided the solution.",
+      "Having {{21}} single for almost six years, Grace Gelder decided to marry herself. The young photographer said that after {{22}} single for six years she had built up a brilliant relationship with herself - and creating that bond with someone else seemed like too {{23}} hard work.",
+      "Inspired by the Björk song Isobel, {{24}} includes the line, ‘My name’s Isobel, married to myself’, the Londoner said the lyric struck a chord with her and it {{25}} then that she decided to walk solo down the aisle.",
+      "She even proposed {{26}} herself on a park bench in Parliament Hill, London, last November. Then Grace bought a dress, a ring, rehearsed vows and eventually wed in a farmhouse in rural Devon watched {{27}} her sister and friends - sealing the deal by planting a kiss on a mirror.",
+      "Gelder said: “I really don’t see it {{28}} any kind of feminist statement, but creating a wedding of this kind {{29}} my own terms felt incredibly empowering. And just because I married myself, it doesn’t mean that I’m not open to the idea of sharing a wedding with someone else one day.”",
+      "(http://www.mirror.co.uk)"
+     ],
+     "grading": {
+      "spelling": "strict",
+      "maxWords": 1
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "the"
+       ]
+      },
+      {
+       "n": 21,
+       "accept": [
+        "been",
+        "stayed",
+        "remained"
+       ]
+      },
+      {
+       "n": 22,
+       "accept": [
+        "being",
+        "staying",
+        "remaining"
+       ]
+      },
+      {
+       "n": 23,
+       "accept": [
+        "much"
+       ]
+      },
+      {
+       "n": 24,
+       "accept": [
+        "which"
+       ]
+      },
+      {
+       "n": 25,
+       "accept": [
+        "was"
+       ]
+      },
+      {
+       "n": 26,
+       "accept": [
+        "to"
+       ]
+      },
+      {
+       "n": 27,
+       "accept": [
+        "by"
+       ]
+      },
+      {
+       "n": 28,
+       "accept": [
+        "as",
+        "like"
+       ]
+      },
+      {
+       "n": 29,
+       "accept": [
+        "on"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-L4",
+     "number": 4,
+     "kind": "lines",
+     "layout": "lines",
+     "examType": "soronkénti hibakeresés (felesleges szó vagy helyes sor)",
+     "points": 12,
+     "instructions": [
+      "You are going to read an article about new culinary experiences. In most lines there is one word that should not be there. Either it is grammatically incorrect or it does not fit in with the sense of the text.",
+      "Read the text and then copy the extra word in the space provided after each line.",
+      "Some lines are correct. Indicate these lines with a tick ().",
+      "The task begins with two examples (0)."
+     ],
+     "title": "DINING IN THE DARK",
+     "intro": "",
+     "items": [
+      {
+       "n": "0a",
+       "example": true,
+       "text": "Many restaurants these days offer some theme or attraction to get",
+       "answer": null
+      },
+      {
+       "n": "0b",
+       "example": true,
+       "text": "warm, paying bodies into seats. One current trend that has been",
+       "answer": "been"
+      },
+      {
+       "n": 30,
+       "text": "appeared is having lunch or dinner in total blackness. Many people",
+       "answer": null
+      },
+      {
+       "n": 31,
+       "text": "believe in that our senses — especially those related to eating, taste",
+       "answer": "in"
+      },
+      {
+       "n": 32,
+       "text": "and smell — are heightened when the sight is taken away.",
+       "answer": "the"
+      },
+      {
+       "n": 33,
+       "text": "The whole idea might also be a bit of scary, which some customers",
+       "answer": "of"
+      },
+      {
+       "n": 34,
+       "text": "find attractive. Some locations offer it complete darkness, while others",
+       "answer": "it"
+      },
+      {
+       "n": 35,
+       "text": "utilize blindfolds. However, most do not allow for any belongings",
+       "answer": "for"
+      },
+      {
+       "n": 36,
+       "text": "that create light, such as cell phones or cameras, or not smoking.",
+       "answer": "not"
+      },
+      {
+       "n": 37,
+       "text": "Additionally enough, if you don’t have plans to visit one of the",
+       "answer": "enough"
+      },
+      {
+       "n": 38,
+       "text": "all-dark restaurants, you could look for a local restaurant which",
+       "answer": null
+      },
+      {
+       "n": 39,
+       "text": "offers a ‘dining in the dark’ event. As many restaurants are hosting",
+       "answer": "as"
+      },
+      {
+       "n": 40,
+       "text": "such events every so often to attract few customers. Examples",
+       "answer": "few"
+      },
+      {
+       "n": 41,
+       "text": "include in the ‘dark dining’ experience at Catharsis, which is",
+       "answer": "in"
+      }
+     ],
+     "outro": "in Miami, or Camaje Bistro in New York City’s Greenwich Village. (http://www.restaurants.com)"
+    }
+   ]
+  },
+  {
+   "id": "listening",
+   "title": "III. Hallott szöveg értése",
+   "minutes": 30,
+   "maxTaskPoints": 29,
+   "maxExamPoints": 30,
+   "conversion": {
+    "0": 0,
+    "1": 1,
+    "2": 2,
+    "3": 3,
+    "4": 4,
+    "5": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "10": 10,
+    "11": 11,
+    "12": 12,
+    "13": 13,
+    "14": 14,
+    "15": 16,
+    "16": 17,
+    "17": 18,
+    "18": 19,
+    "19": 20,
+    "20": 21,
+    "21": 22,
+    "22": 23,
+    "23": 24,
+    "24": 25,
+    "25": 26,
+    "26": 27,
+    "27": 28,
+    "28": 29,
+    "29": 30
+   },
+   "tasks": [
+    {
+     "id": "2015-maj-emelt-H1",
+     "number": 1,
+     "kind": "multi",
+     "layout": "stems",
+     "examType": "kettős választás (A, B vagy mindkettő)",
+     "points": 7,
+     "instructions": [
+      "In this section you will hear a radio report about what we might be putting on our plates in 20 years’ time.",
+      "Your task will be to circle the letter or letters of the correct answer or answers in the boxes on the right. Please note that in this task both answers may be correct. This means that you will have to circle either A or B, or both A and B.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, after a short pause, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_15maj_fl.mp3",
+      "start": 0,
+      "end": 510.04,
+      "clip": "hang/e_angol_15maj_fl_H1.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "The issue of how we will feed ourselves in the future seriously worries organisations such as the ...",
+       "options": [
+        {
+         "key": "A",
+         "text": "United Nations."
+        },
+        {
+         "key": "B",
+         "text": "British government."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 1,
+       "stem": "The price of meat might be …",
+       "options": [
+        {
+         "key": "A",
+         "text": "twice as much as it is now in a few years’ time."
+        },
+        {
+         "key": "B",
+         "text": "one of the reasons why we are looking for new food sources."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 2,
+       "stem": "Insects might be a good solution because they …",
+       "options": [
+        {
+         "key": "A",
+         "text": "are just as nourishing as meat."
+        },
+        {
+         "key": "B",
+         "text": "contain more protein than meat."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 3,
+       "stem": "Compared to raising cattle, raising insects is …",
+       "options": [
+        {
+         "key": "A",
+         "text": "not as expensive."
+        },
+        {
+         "key": "B",
+         "text": "more environmentally friendly."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 4,
+       "stem": "There are probably about 1,400 species of insects that are …",
+       "options": [
+        {
+         "key": "A",
+         "text": "suitable for eating."
+        },
+        {
+         "key": "B",
+         "text": "part of a diet somewhere in the world."
+        }
+       ],
+       "answer": [
+        "A"
+       ]
+      },
+      {
+       "n": 5,
+       "stem": "Morgaine Gaye says that insects will probably be …",
+       "options": [
+        {
+         "key": "A",
+         "text": "roasted and served on a plate."
+        },
+        {
+         "key": "B",
+         "text": "used as ingredients in burgers and sausages."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      },
+      {
+       "n": 6,
+       "stem": "According to Morgaine Gaye …",
+       "options": [
+        {
+         "key": "A",
+         "text": "every third person in the world regularly eats insects."
+        },
+        {
+         "key": "B",
+         "text": "wasps are a Japanese speciality."
+        }
+       ],
+       "answer": [
+        "A",
+        "B"
+       ]
+      },
+      {
+       "n": 7,
+       "stem": "Morgaine Gaye says that insects will become a popular part of Western diet if …",
+       "options": [
+        {
+         "key": "A",
+         "text": "people cannot see that they are eating insects."
+        },
+        {
+         "key": "B",
+         "text": "they are given a new name."
+        }
+       ],
+       "answer": [
+        "B"
+       ]
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-H2",
+     "number": 2,
+     "kind": "choice",
+     "layout": "stems",
+     "examType": "igaz / hamis / a szöveg nem mondja (A/B/C)",
+     "points": 13,
+     "instructions": [
+      "In this section you will hear an interview with Sarah Morgan, an American businesswoman who runs a speed dating service in London.",
+      "Your task will be to decide whether the following statements are true, false or we do not know because the text does not say, and write the appropriate letter in the boxes on the right. Write A if the statement is true, write B if the statement is false, and write C if the text does not say.",
+      "First, you will have some time to look at the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_15maj_fl.mp3",
+      "start": 510.04,
+      "end": 1192.42,
+      "clip": "hang/e_angol_15maj_fl_H2.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Sarah is the manager of a dating agency in the capital of the UK.",
+       "answer": "A"
+      },
+      {
+       "n": 8,
+       "stem": "Sarah defines speed dating as a system whose main aim is to help people meet a lot of new people.",
+       "answer": "A"
+      },
+      {
+       "n": 9,
+       "stem": "The length of the chats varies depending on the number of participants in the event.",
+       "answer": "B"
+      },
+      {
+       "n": 10,
+       "stem": "After the signal the men have a minute to move on to the next date.",
+       "answer": "C"
+      },
+      {
+       "n": 11,
+       "stem": "If one person likes another person, their email address will be automatically forwarded to the other party.",
+       "answer": "B"
+      },
+      {
+       "n": 12,
+       "stem": "Sarah is the first businessperson to have introduced speed dating to the British market.",
+       "answer": "B"
+      },
+      {
+       "n": 13,
+       "stem": "Such events are sometimes organised for specific groups of people.",
+       "answer": "A"
+      },
+      {
+       "n": 14,
+       "stem": "Speed dating events are better for meeting new people than ordinary bars or discos, because it is obvious why everybody is there.",
+       "answer": "A"
+      },
+      {
+       "n": 15,
+       "stem": "You have to prove that you are single to be allowed to attend a speed dating event.",
+       "answer": "C"
+      },
+      {
+       "n": 16,
+       "stem": "People don’t know whether they’ve been chosen by a particular person until two days after the event.",
+       "answer": "C"
+      },
+      {
+       "n": 17,
+       "stem": "Most people agree that the time limit is enough to decide if a person is a hopeless case.",
+       "answer": "A"
+      },
+      {
+       "n": 18,
+       "stem": "According to the Edinburgh study, the majority of people arrive at a decision in less than 30 seconds.",
+       "answer": "B"
+      },
+      {
+       "n": 19,
+       "stem": "The most important thing about a woman for most men is her face.",
+       "answer": "B"
+      },
+      {
+       "n": 20,
+       "stem": "The most important thing about a man for most women is his height.",
+       "answer": "A"
+      }
+     ],
+     "options": [
+      {
+       "key": "A",
+       "text": "TRUE"
+      },
+      {
+       "key": "B",
+       "text": "FALSE"
+      },
+      {
+       "key": "C",
+       "text": "THE TEXT DOES NOT SAY"
+      }
+     ]
+    },
+    {
+     "id": "2015-maj-emelt-H3",
+     "number": 3,
+     "kind": "text",
+     "layout": "stems",
+     "examType": "mondatkiegészítés hallás után (két szó)",
+     "points": 9,
+     "instructions": [
+      "In this section, you will hear about the problem of an elderly woman and some other people living in Herne Bay, a seaside town in England.",
+      "Your task will be to complete the sentences with the exact words you hear in the text. Write one word in each gap, that is, two words in each item.",
+      "First, you will have some time to study the task, and then we will play the whole recording in one piece.",
+      "Then, you will hear the recording again, but this time we will play the text in shorter sections to give you enough time to write down your answers."
+     ],
+     "audio": {
+      "file": "e_angol_15maj_fl.mp3",
+      "start": 1192.42,
+      "end": 1793.99,
+      "clip": "hang/e_angol_15maj_fl_H3.mp3"
+     },
+     "items": [
+      {
+       "n": 0,
+       "example": true,
+       "stem": "Dina Wilson has been attacked by a bird {{gap}} in her {{gap}}.",
+       "gaps": [
+        [
+         "nesting"
+        ],
+        [
+         "roof"
+        ]
+       ]
+      },
+      {
+       "n": 21,
+       "stem": "One of the attacks even {{gap}} {{gap}} after the bird pecked Mrs Wilson’s scalp.",
+       "gaps": [
+        [
+         "drew"
+        ],
+        [
+         "blood"
+        ]
+       ]
+      },
+      {
+       "n": 22,
+       "stem": "Mrs Wilson had to wear a colander to get the {{gap}} off the {{gap}}.",
+       "gaps": [
+        [
+         "washing"
+        ],
+        [
+         "line"
+        ]
+       ]
+      },
+      {
+       "n": 23,
+       "stem": "Mrs Wilson would require restaurants to {{gap}} their {{gap}}.",
+       "gaps": [
+        [
+         "cover"
+        ],
+        [
+         "rubbish"
+        ]
+       ]
+      },
+      {
+       "n": 24,
+       "stem": "According to Mrs Wilson, the plastic bags are full of chips and {{gap}} and the gulls rip them open and have a wonderful {{gap}}.",
+       "gaps": [
+        [
+         "leftovers"
+        ],
+        [
+         "feast"
+        ]
+       ]
+      },
+      {
+       "n": 25,
+       "stem": "Councillor Ron Flaherty will ask the council to produce a(n) {{gap}} on the {{gap}} of seagulls.",
+       "gaps": [
+        [
+         "report"
+        ],
+        [
+         "issue"
+        ]
+       ]
+      },
+      {
+       "n": 26,
+       "stem": "Mr Flaherty says that residents are being attacked not just on the {{gap}} but {{gap}} as well.",
+       "gaps": [
+        [
+         "coast"
+        ],
+        [
+         "inland"
+        ]
+       ]
+      },
+      {
+       "n": 27,
+       "stem": "According to Mr Flaherty, they are not helping themselves by allowing both {{gap}} and {{gap}} to feed seagulls.",
+       "gaps": [
+        [
+         "residents"
+        ],
+        [
+         "visitors"
+        ]
+       ]
+      },
+      {
+       "n": 28,
+       "stem": "Mr Flaherty says that other coastal areas have laws made by {{gap}} {{gap}} preventing people from feeding birds.",
+       "gaps": [
+        [
+         "local"
+        ],
+        [
+         "authorities"
+        ]
+       ]
+      },
+      {
+       "n": 29,
+       "stem": "Mr Flaherty finds it horrendous that there is poo all over the {{gap}} and all over {{gap}} and he thinks that these birds are scavangers.",
+       "gaps": [
+        [
+         "pavement"
+        ],
+        [
+         "cars"
+        ]
+       ]
+      }
+     ],
+     "grading": {
+      "spelling": "lenient",
+      "caseSensitive": false
+     }
+    }
+   ]
+  }
+ ]
+}
