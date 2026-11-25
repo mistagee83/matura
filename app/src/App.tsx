@@ -1,17 +1,20 @@
 // A diák útja (SPEC 4.1, 8.6): kód → belépés becenévvel → feladat(ok) → beküldés → eredmény.
 // Címek: /  (kód beírása) és /k/<kód> (a kiosztás).
-import { useEffect, useMemo, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
 import { getAssignment, submit, SubmitError, AUDIO_BASE, type Assignment, type TaskRef } from './api';
 import { deviceId, loadSaved, save, lastNickname, rememberNickname, type Saved } from './store';
 import Task, { filled, toSubmit } from './Task';
 
 const SECTION: Record<string, string> = { reading: 'Olvasott szöveg értése', language: 'Nyelvhelyesség', listening: 'Hallott szöveg értése' };
 const label = (t: TaskRef) => `${t.exam.year}. ${t.exam.session}, ${t.exam.level}szint`;
+// a tanári felület külön csomag: a diák telefonja nem tölti le
+const Teacher = lazy(() => import('./teacher/Teacher'));
 const go = (path: string) => { history.pushState(null, '', path); dispatchEvent(new PopStateEvent('popstate')); };
 
 export default function App() {
   const [path, setPath] = useState(location.pathname);
   useEffect(() => { const f = () => setPath(location.pathname); addEventListener('popstate', f); return () => removeEventListener('popstate', f); }, []);
+  if (path === '/tanar' || path.startsWith('/tanar/')) return <Suspense fallback={null}><Teacher path={path} /></Suspense>;
   const m = /^\/k\/([A-Za-z0-9]+)\/?$/.exec(path);
   return m ? <AssignmentView key={m[1]} code={m[1].toUpperCase()} /> : <CodeEntry />;
 }
@@ -32,6 +35,7 @@ function CodeEntry({ invalid }: { invalid?: string }) {
         <label className="field">Kód<input value={code} onChange={(e) => setCode(e.target.value)} autoCapitalize="characters" autoComplete="off" spellCheck={false} /></label>
         <button className="pill primary" disabled={!code.trim()}>Megnyitom a feladatot</button>
       </form>
+      {!invalid && <p className="hint teacher-link">Tanár vagy? <a href="/tanar" onClick={(e) => { e.preventDefault(); go('/tanar'); }}>Itt lépsz be</a>, és kiosztod a feladatot.</p>}
     </div>
   </div>);
 }

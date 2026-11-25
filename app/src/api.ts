@@ -4,7 +4,7 @@ import { createClient } from '@supabase/supabase-js';
 
 const URL_ = import.meta.env.VITE_SUPABASE_URL as string | undefined;
 const KEY = import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY as string | undefined;
-const sb = URL_ && KEY ? createClient(URL_, KEY, { auth: { persistSession: false } }) : null;
+const sb = URL_ && KEY ? createClient(URL_, KEY, { auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false, storageKey: 'matura-diak' } }) : null;
 export const AUDIO_BASE = (import.meta.env.VITE_AUDIO_BASE as string | undefined) || '';
 
 export type Result = 'ok' | 'typo' | 'bad';

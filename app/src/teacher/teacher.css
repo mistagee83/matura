@@ -1,0 +1,184 @@
+/* A tanári felület (SPEC 8.6): asztali nézetre és kivetítőre, a diákoldal elemkészletéből. */
+:root { --coral: #D9573F; --pale: #F8E3A6; --mist: #D6E3DE; --hot-bg: #FCE3DE; --hot-ink: #8F3A2D; }
+.t-page { min-height: 100vh; background: var(--cream); }
+.t-top { background: var(--board); color: var(--white); padding: 12px 32px; display: flex; flex-wrap: wrap; align-items: center; gap: 10px 24px; }
+.t-brand { font: 600 20px var(--head); color: var(--yellow); text-decoration: none; white-space: nowrap; }
+.t-brand b { font-weight: 600; }
+.t-top nav { flex: 1; display: flex; flex-wrap: wrap; gap: 6px; }
+.t-top nav a { padding: 10px 16px; border-radius: 999px; color: var(--pale); text-decoration: none; font-weight: 600; font-size: 15px; }
+.t-top nav a.on { background: var(--deep); color: var(--white); }
+.t-top nav a:focus-visible, .t-link:focus-visible, .t-chip:focus-visible, .pill:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+.t-cta { flex: none !important; min-height: 44px; }
+.t-user { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--mist); min-width: 0; }
+.t-user span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; max-width: 220px; }
+.t-top .t-link { color: var(--pale); }
+.t-link { background: none; border: 0; padding: 6px 2px; min-height: 32px; color: var(--sel-ink); font-weight: 600; text-decoration: underline; cursor: pointer; }
+.t-main { max-width: 1180px; margin: 0 auto; padding: 32px; display: flex; flex-direction: column; gap: 28px; }
+.t-h1 { margin: 0; font-size: 32px; line-height: 1.12; }
+.t-h1.small { font-size: 28px; }
+.hl.coral { color: var(--coral); font-size: 1.3em; }
+.t-h2 { margin: 0 0 14px; font-size: 20px; }
+.t-err { background: var(--bad-bg); color: var(--bad-ink); border-radius: 14px; padding: 10px 14px; margin: 10px 0; }
+.pill.small { min-height: 44px; padding: 0 16px; font-size: 14px; }
+.pill.danger { background: var(--bad-ink); border-color: var(--bad-ink); color: var(--white); }
+
+/* belépés */
+.t-auth h1 { margin-bottom: 4px; }
+.t-auth form .pill.primary { width: 100%; margin-top: 8px; }
+.t-google { width: 100%; display: flex; align-items: center; justify-content: center; gap: 10px; margin-top: 12px; }
+.t-or { display: flex; align-items: center; gap: 10px; color: var(--muted); font-size: 14px; margin: 16px 0 0; }
+.t-or::before, .t-or::after { content: ''; flex: 1; height: 1px; background: var(--sand); }
+.t-switch { display: flex; flex-direction: column; align-items: center; gap: 4px; margin-top: 14px; font-size: 15px; text-align: center; }
+
+/* csoportok */
+.t-groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; }
+.t-group { padding: 0; overflow: visible; position: relative; display: flex; flex-direction: column; }
+.t-group.archived { opacity: .8; }
+.t-band { display: flex; align-items: center; justify-content: space-between; padding: 4px 6px 4px 16px; font-size: 13px; font-weight: 600; border-radius: 14px 14px 0 0; }
+.t-band.emelt { background: var(--sel-bg); color: var(--sel-ink); }
+.t-band.kozep { background: var(--warn-bg); color: var(--warn-ink); }
+.t-dots { width: 44px; height: 44px; border: 0; background: transparent; color: inherit; border-radius: 999px; cursor: pointer; display: grid; place-items: center; }
+.t-dots:hover { background: rgba(0,0,0,.06); }
+.t-menu { position: absolute; right: 8px; top: 48px; z-index: 3; background: var(--white); border: 1px solid var(--sand); border-radius: 14px; padding: 6px; display: flex; flex-direction: column; min-width: 190px; }
+.t-menu button { text-align: left; background: none; border: 0; border-radius: 10px; padding: 10px 12px; min-height: 44px; cursor: pointer; font-weight: 600; }
+.t-menu button:hover { background: var(--cream); }
+.t-menu button.danger { color: var(--bad-ink); }
+.t-gbody { display: flex; flex-direction: column; gap: 6px; padding: 14px 16px 16px; color: inherit; text-decoration: none; flex: 1; }
+.t-gname { font: 600 22px var(--head); }
+.t-gcta { margin-top: 6px; font-size: 14px; font-weight: 600; color: var(--sel-ink); text-decoration: underline; }
+.t-newgroup { min-height: 150px; border-radius: 14px; border: 2px dashed var(--muted); background: transparent; font-weight: 600; font-size: 15px; display: flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer; }
+.t-newgroup:hover { background: var(--white); }
+.t-groupform .field:first-child { margin-top: 0; }
+.t-seg { border: 0; padding: 0; margin: 12px 0 0; display: flex; gap: 8px; flex-wrap: wrap; }
+.t-seg legend { font-weight: 600; margin-bottom: 6px; padding: 0; }
+.t-seg label { display: flex; align-items: center; gap: 8px; min-height: 44px; padding: 0 16px; border: 1.5px solid var(--sand); border-radius: 999px; cursor: pointer; font-weight: 600; font-size: 14px; }
+.t-seg label.on { border-color: var(--sel-ink); background: var(--sel-bg); color: var(--sel-ink); }
+.t-seg input, .t-radio input, .t-pick input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.t-seg label:focus-within, .t-radio label:focus-within, .t-pick:focus-within .t-box { outline: 2px solid var(--sel-ink); outline-offset: 2px; }
+.t-confirm { border-top: 1px solid var(--sand); padding: 12px 16px; background: var(--bad-bg); color: var(--bad-ink); border-radius: 0 0 14px 14px; }
+.t-confirm p { margin: 0; }
+.t-confirm .actions { margin-top: 10px; }
+.t-archived { margin-top: 14px; }
+.t-archived .t-groups { margin-top: 10px; }
+
+/* kiosztások táblázata */
+.t-tablebox { padding: 0; overflow-x: auto; }
+.t-table { width: 100%; min-width: 680px; border-collapse: collapse; font-size: 15px; }
+.t-table th { text-align: left; color: var(--muted); font-size: 13px; font-weight: 600; padding: 12px 16px; }
+.t-table td { padding: 12px 16px; border-top: 1px solid var(--sand); }
+.t-table td a { color: var(--deep); font-weight: 600; }
+.t-code { font-family: var(--head); letter-spacing: .06em; }
+.t-badge { display: inline-block; border-radius: 999px; padding: 4px 12px; font-size: 13px; font-weight: 600; white-space: nowrap; }
+.t-badge.open { background: var(--ok-bg); color: var(--ok-ink); }
+.t-badge.closed { background: var(--sand); color: var(--deep); }
+.t-empty { display: flex; flex-wrap: wrap; align-items: center; gap: 16px; }
+.t-empty p { margin: 0; flex: 1 1 320px; }
+.t-empty .pill { flex: none; }
+
+/* feladattár */
+.t-lib { max-width: 1240px; margin: 0 auto; padding: 28px 32px; display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+.t-libmain { flex: 999 1 560px; min-width: 0; display: flex; flex-direction: column; gap: 14px; }
+.t-filters { display: flex; flex-direction: column; gap: 10px; }
+.t-chips { display: flex; flex-wrap: wrap; gap: 8px; }
+.t-chip { min-height: 44px; padding: 0 16px; border-radius: 999px; background: var(--white); border: 1px solid var(--sand); font-weight: 600; font-size: 14px; cursor: pointer; }
+.t-chip.on { background: var(--board); border-color: var(--board); color: var(--white); }
+.t-selects { display: flex; flex-wrap: wrap; gap: 10px; }
+.t-selects label { display: flex; flex-direction: column; gap: 4px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.t-selects select, .t-sel { min-height: 44px; border-radius: 999px; border: 1px solid var(--sand); background: var(--white); padding: 0 14px; font: 15px var(--ui); color: var(--deep); max-width: 100%; }
+.t-selects label:first-child { flex: 1 1 260px; min-width: 0; }
+.t-selects label:first-child select { width: 100%; }
+.t-sel { width: 100%; }
+.t-lib > * { min-width: 0; }
+.t-count { margin: 0; font-size: 14px; }
+.t-tasks { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+.t-task { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; padding: 12px 16px; }
+.t-task.on { border: 2px solid var(--board); padding: 11px 15px; }
+.t-pick { flex: 1 1 300px; display: flex; align-items: center; gap: 14px; cursor: pointer; min-height: 44px; position: relative; }
+.t-box { flex: none; width: 28px; height: 28px; border-radius: 8px; border: 1.5px solid var(--muted); display: grid; place-items: center; }
+.t-task.on .t-box { background: var(--board); border-color: var(--board); color: var(--white); }
+.t-tinfo { display: flex; flex-direction: column; gap: 6px; min-width: 0; }
+.t-tname { font: 600 18px var(--head); }
+.t-lvl { font: 13px var(--ui); }
+.t-tags { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 13px; }
+.t-tag { background: var(--sel-bg); color: var(--sel-ink); border-radius: 999px; padding: 3px 10px; font-size: 12px; font-weight: 600; }
+.t-tag.hot { background: var(--hot-bg); color: var(--hot-ink); }
+.t-more { align-self: center; }
+
+.t-side { flex: 1 1 320px; position: sticky; top: 16px; background: var(--board); color: var(--white); border-radius: 14px; padding: 22px; display: flex; flex-direction: column; gap: 10px; max-height: calc(100vh - 32px); overflow-y: auto; }
+.t-side h2 { margin: 0; font-size: 22px; }
+.t-sidehint { margin: 0; font-size: 13px; color: var(--mist); }
+.t-sidelabel { font-size: 13px; font-weight: 600; color: var(--pale); margin-top: 8px; padding: 0; }
+.t-side .t-sel { border: 0; background: var(--cream); }
+.t-picked { margin: 0; padding: 0 0 0 20px; display: flex; flex-direction: column; gap: 2px; font-size: 14px; }
+.t-picked li { display: list-item; }
+.t-picked li span { vertical-align: middle; }
+.t-x { width: 44px; height: 44px; border: 0; background: transparent; color: inherit; border-radius: 999px; cursor: pointer; display: inline-grid; place-items: center; vertical-align: middle; }
+.t-x:hover { background: rgba(127,127,127,.18); }
+.t-radio { border: 0; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 8px; }
+.t-radio label { position: relative; display: flex; align-items: center; gap: 10px; min-height: 48px; padding: 6px 14px; border-radius: 14px; border: 1.5px solid var(--muted); color: var(--mist); font-size: 14px; cursor: pointer; }
+.t-radio label::before { content: ''; flex: none; width: 18px; height: 18px; box-sizing: border-box; border-radius: 999px; border: 1.5px solid var(--mist); }
+.t-radio label.on { background: var(--deep); border-color: var(--yellow); color: var(--white); }
+.t-radio label.on::before { border: 5px solid var(--yellow); background: var(--deep); }
+.t-radio.pills { flex-direction: row; flex-wrap: wrap; }
+.t-radio.pills label { border-radius: 999px; font-weight: 600; }
+.t-radio.pills label::before { display: none; }
+.t-radio.pills label.on { background: var(--pale); color: var(--deep); border-color: var(--pale); }
+.t-assign { margin-top: 10px; min-height: 52px; font-size: 16px; }
+.t-side .t-err { margin: 6px 0 0; }
+
+/* előnézet */
+.t-preview { position: fixed; z-index: 9; top: 24px; bottom: 24px; left: 50%; transform: translateX(-50%); width: min(820px, calc(100vw - 32px)); background: var(--cream); border-radius: 22px; display: flex; flex-direction: column; overflow: hidden; }
+.t-phead { display: flex; align-items: center; gap: 12px; padding: 12px 12px 12px 20px; background: var(--white); border-bottom: 1px solid var(--sand); }
+.t-phead > div { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.t-phead b { font: 600 18px var(--head); }
+.t-phead small { color: var(--muted); font-size: 13px; }
+.t-phead .pill.primary { flex: none; }
+.t-pbody { overflow-y: auto; padding: 8px 20px 32px; }
+
+/* megosztás, kivetítés */
+.t-share { min-height: 100vh; display: flex; flex-wrap: wrap; background: var(--board); color: var(--white); }
+.t-stage { flex: 999 1 560px; min-width: 0; padding: 40px 48px; display: flex; flex-direction: column; gap: 28px; }
+.t-stagetop { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; justify-content: space-between; }
+.t-pill { background: var(--deep); border-radius: 999px; padding: 6px 14px; font-size: 14px; font-weight: 600; color: var(--pale); }
+.t-bigh { margin: 0; font-size: clamp(32px, 4vw, 52px); line-height: 1.1; }
+.t-bigh .hl { font-size: 1.3em; }
+.t-qrrow { display: flex; flex-wrap: wrap; align-items: center; gap: 40px; }
+.t-qr { width: min(360px, 80vw); aspect-ratio: 1; box-sizing: border-box; border-radius: 22px; background: var(--white); border: 6px solid var(--yellow); padding: 14px; }
+.t-qr svg { display: block; width: 100%; height: 100%; }
+.t-codebox { display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+.t-or2 { font-size: 18px; color: var(--mist); }
+.t-url { font: 600 clamp(22px, 2.4vw, 32px) var(--head); line-height: 1.15; word-break: break-all; }
+.t-bigcode { font: 600 clamp(56px, 8vw, 104px) var(--head); line-height: 1; letter-spacing: .08em; color: var(--yellow); }
+.t-stagebar { margin-top: auto; display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.t-stagebar .pill { background: transparent; border-color: var(--pale); color: var(--pale); }
+.t-panel { flex: 1 1 340px; background: var(--cream); color: var(--deep); padding: 32px 28px; display: flex; flex-direction: column; gap: 12px; }
+.t-panelhead { display: flex; align-items: baseline; gap: 10px; }
+.t-panelhead h2 { margin: 0; flex: 1; font-size: 22px; }
+.t-num { font: 600 32px var(--head); color: var(--sel-ink); }
+.t-panel .small { font-size: 13px; margin: 0; }
+.actions.tight { margin-top: 0; align-items: center; }
+.t-check { display: flex; align-items: center; gap: 10px; font-size: 14px; min-height: 44px; cursor: pointer; }
+.t-check input { width: 20px; height: 20px; accent-color: var(--board); }
+.t-subs { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.t-subs li { display: flex; align-items: center; gap: 12px; padding: 4px 4px 4px 14px; border-radius: 14px; background: var(--white); border: 1px solid var(--sand); }
+.t-subs li.practice { opacity: .7; }
+.t-nick { flex: 1; font-weight: 600; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+.t-nick small { font-weight: 400; color: var(--muted); }
+.t-subs b { font: 600 16px var(--head); }
+.t-panel h3 { margin: 12px 0 0; font-size: 18px; }
+.t-details { margin: 0; padding-left: 18px; font-size: 14px; display: flex; flex-direction: column; gap: 4px; }
+.t-panelfoot { margin-top: auto; padding-top: 12px; display: flex; flex-direction: column; gap: 10px; }
+.t-panelfoot .pill { width: 100%; }
+.t-panelfoot .t-confirm { border-radius: 14px; border: 0; }
+.t-panelfoot .t-confirm .pill { width: auto; }
+
+@media (max-width: 720px) {
+  .t-top { padding: 10px 16px; }
+  .t-main, .t-lib { padding: 20px 16px; }
+  .t-stage { padding: 24px 16px; }
+  .t-panel { padding: 24px 16px; }
+  .t-side { position: static; max-height: none; }
+  .t-user span { display: none; }
+}
+/* kivetítéskor (teljes képernyő) a panel keskenyebb, a kód nagyobb */
+:fullscreen .t-stage { padding: 48px 64px; }

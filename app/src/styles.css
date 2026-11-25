@@ -137,3 +137,7 @@ details.inst ul { margin: 6px 0 4px; padding-left: 20px; font-size: 16px; line-h
 .score-card { text-align: center; }
 .score-card .big { font: 600 44px var(--head); color: var(--board); }
 .graded h2 { font-size: 18px; margin: 28px 0 8px; }
+
+/* a kódbeíró oldalon a tanári belépés linkje */
+.teacher-link { text-align: center; margin: 16px 0 0; }
+.teacher-link a { color: var(--sel-ink); font-weight: 600; }

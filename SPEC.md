@@ -411,7 +411,8 @@ Javasolt szerkezet:
 | Cloudflare R2 | kész: `matura-hang` tároló, automatikus helyszín (Kelet-Európa), Standard; nem nyilvános, üres |
 | Cloudflare Pages | kész: `matura` projekt (`matura-7r4.pages.dev`), a `mistagee83/matura` tárolóból; a `main` ág minden commitja automatikusan épül (a megrendelő megadta a GitHub-alkalmazásnak a hozzáférést; kipróbálva) |
 | Aldomain | kész: `matura.mrandrewshub.com` (2026-11-25) |
-| Supabase-tartalom | séma, 949 feladat, `submit` függvény élesítve és kipróbálva; próbakiosztások: MINTA24K, MINTA24E |
+| Supabase-tartalom | séma, 949 feladat, `submit` függvény élesítve és kipróbálva; próbakiosztások: MINTA24K, MINTA24E. 2. szakasz (2026-11-25): tanárok, csoportok, tanári jogosultsági szabályok és a kiosztás létrehozása élesítve; két tanárfiókkal kipróbálva |
+| Supabase Auth | megerősítő levél nélküli regisztráció; Site URL és átirányítási címek beállítva (2026-11-25); saját levélküldő (Resend) és Google-szolgáltató még nincs |
 | GitHub-tároló | kész: `mistagee83/matura`, helyben `D:\dev\matura`; az 1. szakasz kódja feltöltve a `main` ágra (2026-11-25); az adatbázisba és a Pages-re még nincs telepítve |
 | Google OAuth-azonosító | még nincs |
 
@@ -613,6 +614,8 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 13. **2005. május közép, második feladatsor:** kimarad (3.2).
 14. **Név és cím:** Matura, `matura.mrandrewshub.com`.
 15. **Az útmutató által kimondott szöveghiba (2026-11-24):** a vizsgaszöveget szó szerint vesszük át, egyetlen kivétellel: ahol a hivatalos útmutató kifejezetten hibásnak nevezi a feladatlap szövegét, és megadja a helyes alakot, ott a javított szöveg kerül be, és a pont a jó válaszért jár (nem mindenkinek, mint a vizsgán). A javítás a `kezi.js`-ben áll, megjegyzéssel az eredeti alakról. Eddig egy ilyen eset van: 2016. május emelt, nyelvhelyesség 1., 1. kérdés (`was stopped; he managed` helyett `was stopped, he managed`). Saját megítélés alapján továbbra sem javítunk szöveget.
+16. **Regisztráció megerősítő levél nélkül (2026-11-25):** a tanár regisztráció után azonnal belép. A jelszó-visszaállító levelet saját levélküldő (Resend) küldi, mert a Supabase beépített levélküldője csak a projekt tagjainak ír.
+17. **Megosztó kód (2026-11-25):** 6 jel a 0/O és 1/I nélküli 32 jeles ábécéből, kriptográfiai véletlenből (kb. egymilliárd lehetőség); a kiosztást csak a szerveroldali `create_assignment()` hozhatja létre.
 
 ### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő megerősítésére várnak)
 
