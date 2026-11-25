@@ -409,9 +409,10 @@ Javasolt szerkezet:
 |---|---|
 | Supabase-projekt | kész: ref `fjhwqynnlgjpjsfxncbj`, West EU (Ireland, eu-west-1), Free/Nano, a „MrAndrew's Hub” szervezetben; üres (nincs tábla, migráció). A neve a fiók e-mail-címe, átnevezhető `matura`-ra. |
 | Cloudflare R2 | kész: `matura-hang` tároló, automatikus helyszín (Kelet-Európa), Standard; nem nyilvános, üres |
-| Cloudflare Pages | még nincs: a meglévő projektek GitHub-tárolóhoz kötve futnak (`mistagee83/...`), a `matura` is így készül, ha van tároló és kód |
-| Aldomain | a `mrandrewshub.com` a Cloudflare-nél van, a `matura` aldomain a Pages-projekt beállításaiban köthető be |
-| GitHub-tároló | még nincs |
+| Cloudflare Pages | kész: `matura` projekt (`matura-7r4.pages.dev`), a `mistagee83/matura` tárolóból; a `main` ág minden commitja automatikusan épül (a megrendelő megadta a GitHub-alkalmazásnak a hozzáférést; kipróbálva) |
+| Aldomain | kész: `matura.mrandrewshub.com` (2026-11-25) |
+| Supabase-tartalom | séma, 949 feladat, `submit` függvény élesítve és kipróbálva; próbakiosztások: MINTA24K, MINTA24E |
+| GitHub-tároló | kész: `mistagee83/matura`, helyben `D:\dev\matura`; az 1. szakasz kódja feltöltve a `main` ágra (2026-11-25); az adatbázisba és a Pages-re még nincs telepítve |
 | Google OAuth-azonosító | még nincs |
 
 A javítási logika a prototípusban (`prototipus/index.html`, `check` és `match` függvény) működő kiindulópont, de szerveroldalra kell átültetni.
