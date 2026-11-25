@@ -5,6 +5,11 @@ import { gradeTask, solutions } from '../_shared/grade.ts';
 
 const CORS = { 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'authorization, x-client-info, apikey, content-type', 'Access-Control-Allow-Methods': 'POST, OPTIONS' };
 const json = (body: unknown, status = 200) => new Response(JSON.stringify(body), { status, headers: { ...CORS, 'Content-Type': 'application/json' } });
+// a szerveroldali kulcs: az új kulcsrendszerben SUPABASE_SECRET_KEYS (JSON), a régiben SUPABASE_SERVICE_ROLE_KEY
+function serverKey(): string {
+  try { const k = JSON.parse(Deno.env.get('SUPABASE_SECRET_KEYS') || '{}'); const v = k.default || Object.values(k)[0]; if (v) return String(v); } catch { /* régi rendszer */ }
+  return Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!;
+}
 const UUID = /^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i;
 
 Deno.serve(async (req) => {
@@ -19,8 +24,9 @@ Deno.serve(async (req) => {
   if (!UUID.test(device)) return json({ error: 'bad_device' }, 400);
   if (JSON.stringify(answers).length > 200_000) return json({ error: 'too_large' }, 413);
 
-  const db = createClient(Deno.env.get('SUPABASE_URL')!, Deno.env.get('SUPABASE_SERVICE_ROLE_KEY')!, { auth: { persistSession: false } });
-  const { data: a } = await db.from('assignments').select('id, status, solution_visibility').eq('code', code).maybeSingle();
+  const db = createClient(Deno.env.get('SUPABASE_URL')!, serverKey(), { auth: { persistSession: false } });
+  const { data: a, error: e0 } = await db.from('assignments').select('id, status, solution_visibility').eq('code', code).maybeSingle();
+  if (e0) { console.error('assignments', e0); return json({ error: 'db' }, 500); }
   if (!a) return json({ error: 'not_found' }, 404);
   if (a.status !== 'open') return json({ error: 'closed' }, 409);
 
