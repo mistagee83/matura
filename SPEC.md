@@ -412,9 +412,9 @@ Javasolt szerkezet:
 | Cloudflare Pages | kész: `matura` projekt (`matura-7r4.pages.dev`), a `mistagee83/matura` tárolóból; a `main` ág minden commitja automatikusan épül (a megrendelő megadta a GitHub-alkalmazásnak a hozzáférést; kipróbálva) |
 | Aldomain | kész: `matura.mrandrewshub.com` (2026-11-25) |
 | Supabase-tartalom | séma, 949 feladat, `submit` függvény élesítve és kipróbálva; próbakiosztások: MINTA24K, MINTA24E. 2. szakasz (2026-11-25): tanárok, csoportok, tanári jogosultsági szabályok és a kiosztás létrehozása élesítve; két tanárfiókkal kipróbálva |
-| Supabase Auth | megerősítő levél nélküli regisztráció; Site URL és átirányítási címek beállítva (2026-11-25); saját levélküldő (Resend) és Google-szolgáltató még nincs |
+| Supabase Auth | megerősítő levél nélküli regisztráció; Site URL és átirányítási címek beállítva (2026-11-25); Google-szolgáltató kész; saját levélküldő kész (2026-11-25): Resend, `noreply@mrandrewshub.com`, a `mrandrewshub.com` domain hitelesítve, Supabase SMTP `smtp.resend.com:465`; a jelszó-visszaállító levél élesben kipróbálva |
 | GitHub-tároló | kész: `mistagee83/matura`, helyben `D:\dev\matura`; az 1. szakasz kódja feltöltve a `main` ágra (2026-11-25); az adatbázisba és a Pages-re még nincs telepítve |
-| Google OAuth-azonosító | még nincs |
+| Google OAuth-azonosító | kész (2026-11-25): Google Cloud projekt `Matura`, webes kliens, közzétéve (In production); a Supabase Google-szolgáltatója bekapcsolva, élesben kipróbálva. A Google belépőablaka a `…supabase.co` címet mutatja (saját Supabase-cím csak fizetős csomagban) |
 
 A javítási logika a prototípusban (`prototipus/index.html`, `check` és `match` függvény) működő kiindulópont, de szerveroldalra kell átültetni.
 
@@ -587,7 +587,7 @@ A „sorrend nem számít" kulcsok (ellenőrizve 2026-11-25, mind a 91 útmutat�
 | Szakasz | Tartalom | Elfogadva, ha |
 |---|---|---|
 | 1. Diákoldal | adatbázis; feladat betöltése kulcs nélkül; szerveroldali javítás; a hét beviteli mód (`bank`, `choice`, `multi`, `text`, `lines`, `fix`, `order`); becenév, beküldés, eredmény | a két mintasor minden feladata végig megoldható telefonon (360 px), és a pontszám egyezik a kulccsal; a böngésző hálózati forgalmában a beküldés előtt nem szerepel megoldás; az oldal újratöltése után a válaszok megmaradnak |
-| 2. Tanári alap | regisztráció és belépés (Google, e-mail és jelszó); csoportok; feladattár szűrőkkel; kiosztás; link és QR-kód | egy új tanár segítség nélkül regisztrál, csoportot hoz létre, kioszt egy feladatot, és a diák a QR-kóddal eljut a feladathoz; egy tanár nem látja más tanár csoportjait és eredményeit |
+| 2. Tanári alap (élesítve és lezárva, 2026-11-25) | regisztráció és belépés (Google, e-mail és jelszó); csoportok; feladattár szűrőkkel; kiosztás; link és QR-kód | egy új tanár segítség nélkül regisztrál, csoportot hoz létre, kioszt egy feladatot, és a diák a QR-kóddal eljut a feladathoz; egy tanár nem látja más tanár csoportjait és eredményeit |
 | 3. Élő nézet és statisztika | élő frissítés; tanári hanglejátszó; mindkét hangmód; lezárás; kiosztásonkénti statisztika | egy valódi tanóra elejétől a végéig lefut egy osztállyal: a hang a tanár gépéről szól, a beküldések megjelennek, lezárás után a diákok látják a megoldást, a tanár a kérdésenkénti arányokat és a leggyakoribb rossz válaszokat |
 | 4. Csoportszintű trendek | típusonkénti és részenkénti átlag; csoportok összevetése | legalább három kiosztás után a csoport oldalán megjelenik a leggyengébb feladattípus, és az egyezik a kézzel kiszámolt értékkel |
 
@@ -616,6 +616,7 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 15. **Az útmutató által kimondott szöveghiba (2026-11-24):** a vizsgaszöveget szó szerint vesszük át, egyetlen kivétellel: ahol a hivatalos útmutató kifejezetten hibásnak nevezi a feladatlap szövegét, és megadja a helyes alakot, ott a javított szöveg kerül be, és a pont a jó válaszért jár (nem mindenkinek, mint a vizsgán). A javítás a `kezi.js`-ben áll, megjegyzéssel az eredeti alakról. Eddig egy ilyen eset van: 2016. május emelt, nyelvhelyesség 1., 1. kérdés (`was stopped; he managed` helyett `was stopped, he managed`). Saját megítélés alapján továbbra sem javítunk szöveget.
 16. **Regisztráció megerősítő levél nélkül (2026-11-25):** a tanár regisztráció után azonnal belép. A jelszó-visszaállító levelet saját levélküldő (Resend) küldi, mert a Supabase beépített levélküldője csak a projekt tagjainak ír.
 17. **Megosztó kód (2026-11-25):** 6 jel a 0/O és 1/I nélküli 32 jeles ábécéből, kriptográfiai véletlenből (kb. egymilliárd lehetőség); a kiosztást csak a szerveroldali `create_assignment()` hozhatja létre.
+18. **Különálló termék a Hubtól (2026-11-25):** a Matura a Mr. Andrew's EdTech Hubbal csak az arculaton osztozik; saját fiókrendszere van (Supabase Auth: Google és e-mail/jelszó), nem a Hub közös Firebase-fiókja. Indok: más piac és nyelv (a Hub nemzetközi és angol, a Matura magyar), a nyitott jogi kérdés miatt a Matura kockázata ne érintse a Hubot, és a közös fiók rendszerek közötti törlést, adatexportot és egykattintásos átlépést kívánna. Újra elővehető, ha a Matura fizetős termék lesz, és a tanárai a Hubot is használják; a Hub felé legfeljebb egy link mutat.
 
 ### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő megerősítésére várnak)
 
