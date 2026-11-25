@@ -8,13 +8,15 @@ A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D
 
 | Hely | Mi van benne |
 |---|---|
-| `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Diák: `/`, `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik) |
+| `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Diák: `/`, `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny` |
+| `app/src/Player.tsx` | hanglejátszó (diák és tanár); a hang címe `VITE_AUDIO_BASE` + a `audio.clip` fájlneve |
+| `eszkozok/hang-feltoltes.ts` | a kivágott hangok feltöltése az R2 `matura-hang` tárolóba (wrangler) |
 | `supabase/migrations/` | adatbázis-séma és jogosultságok |
 | `supabase/functions/submit/` | beküldés és javítás (Edge Function) |
 | `supabase/functions/_shared/grade.ts` | a javító: a függvény és a próbák is ezt használják |
 | `supabase/seed.sql` | generált: `node eszkozok/seed.ts` |
 | `tartalom/` | a 91 feladatsor JSON-ban |
-| `tests/` | `node --test tests/grade.test.ts` – a javító mind a 949 feladaton; `eles.ts` – élesítési próba; `tanar.ts` – a tanári jogosultságok két tanárfiókkal |
+| `tests/` | `node --test tests/grade.test.ts` – a javító mind a 949 feladaton; `eles.ts` – élesítési próba; `tanar.ts` – a tanári jogosultságok két tanárfiókkal, a 3. szakasztól az élő frissítés, a lezárás és a statisztika is |
 
 ## Parancsok
 
@@ -24,11 +26,12 @@ node eszkozok/seed.ts               # supabase/seed.sql újragenerálása a tart
 cd app && npm run dev               # http://localhost:5175 ; helyi próba-háttérrel, ha nincs .env.local
 cd app && npm run build             # típusellenőrzés és build
 node tests/tanar.ts <url> <publishable kulcs>   # két tanárfiók elkülönítése; a fiókok: MATURA_A_EMAIL, MATURA_B_EMAIL, MATURA_PW
+node eszkozok/hang-feltoltes.ts <hang mappa>   # hangfájlok az R2-be (npx wrangler login után)
 ```
 
 A tanári felület helyben csak Supabase-szel működik: az `app/.env.local` (nincs verziókezelve) az `.env.production` két sorát tartalmazza; ilyenkor a diákoldal is az éles adatbázist használja.
 
-Helyi próbakódok (csak a fejlesztői kiszolgálón): `/k/MINTA24K`, `/k/MINTA24E`, bármely feladatsor `/k/<ÉV><HÓNAP><SZINT>` (pl. `/k/2019OKTEMELT`); `?vis=after_close` a „megoldás csak lezárás után” beállítás.
+Helyi próbakódok (csak a fejlesztői kiszolgálón, `.env.local` nélkül vagy üres `VITE_SUPABASE_URL`-lel): `/k/MINTA24K`, `/k/MINTA24E`, bármely feladatsor `/k/<ÉV><HÓNAP><SZINT>` (pl. `/k/2019OKTEMELT`); `?vis=after_close` a „megoldás csak lezárás után” beállítás, `?st=closed` a lezárt kiosztás, `?hang=teacher` az órai hangmód. Helyben a hang a forrásmappa `hang/` könyvtárából jön (`/dev-hang/`).
 
 ## Szabályok
 
@@ -54,6 +57,10 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón): `/k/MINTA24K`, `/k/MINTA2
 - Google-belépés kész és élesben kipróbálva (2026-11-25).
 - Levélküldés: Resend SMTP (`noreply@mrandrewshub.com`), a jelszó-visszaállítás élesben kipróbálva (2026-11-25). A levélsablonok még a Supabase alapértelmezett angol szövegei.
 - A Matura különálló termék, nem a Hub közös Firebase-fiókja (SPEC 11., 18. döntés).
-- A hang lejátszása (mindkét hangmód), a lezárás és az élő frissítés a 3. szakaszban jön; addig a „lezárás után” láthatóságú kiosztásnál a diák nem látja a megoldást.
+3. szakasz (élő nézet és statisztika) – élesítve (2026-11-25); a valódi tanórás elfogadási próba hátravan (ellenőrzőlista: a forrásmappa `3-szakasz-orai-proba.md` fájlja).
+- Hang: mind a 273 fájl az R2 `matura-hang` tárolóban, nyilvános aldomain `https://matura-hang.mrandrewshub.com/` (wrangler r2 bucket domain, zóna: mrandrewshub.com). A jogi kérdést a megrendelő lezárta (SPEC 11., 19.).
+- Migrációk: `…04_elo.sql` (Realtime a submissions táblára; `get_assignment()` lezárt kiosztásnál a kulcsos feladatot is adja `key` mezőben; `assignment_stats()`), `…05_stat_javitas.sql` (csak a beírós válaszokat kisbetűsíti).
+- Élő nézet: Supabase Realtime, tartalékként 20 mp-es lekérdezés. Lezárás és újranyitás a tanári felületről (`assignments.status`). A diák a lezárás után a kulcsból (`solutions()` a `grade.ts`-ből, a kliensen) látja a megoldást; beküldött, „lezárás után” kiosztásnál 15 mp-enként ellenőrzi a lezárást.
+- Próbák élesben (2026-11-25): `tests/tanar.ts` 53/53 RENDBEN (próbafiókok: proba3@matura.test, proba4@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `tests/eles.ts` RENDBEN, `grade.test.ts` RENDBEN. A régi próbafiókok (proba1, proba2) jelszava nincs meg; törölhetők.
 
-Élesítés menete: séma és tartalom `npx supabase db push --remote --include-seed --yes`, függvény `npx supabase functions deploy submit --remote=fjhwqynnlgjpjsfxncbj --use-api --yes` (a CLI éles módosítás előtt a felhasználó kifejezett jóváhagyását kéri). Az új projekt kulcsrendszere: a függvény a `SUPABASE_SECRET_KEYS`-t használja; az új táblákhoz a `service_role` jogát migráció adja.
+Élesítés menete: séma és tartalom `npx supabase db push --remote --include-seed --yes` (csak séma: `--include-seed` nélkül), függvény `npx supabase functions deploy submit --remote=fjhwqynnlgjpjsfxncbj --use-api --yes` (a CLI éles módosítás előtt a felhasználó kifejezett jóváhagyását kéri). Az új projekt kulcsrendszere: a függvény a `SUPABASE_SECRET_KEYS`-t használja; az új táblákhoz a `service_role` jogát migráció adja.

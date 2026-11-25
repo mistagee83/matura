@@ -5,10 +5,10 @@ import { createClient } from '@supabase/supabase-js';
 const URL_ = import.meta.env.VITE_SUPABASE_URL as string | undefined;
 const KEY = import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY as string | undefined;
 const sb = URL_ && KEY ? createClient(URL_, KEY, { auth: { persistSession: false, autoRefreshToken: false, detectSessionInUrl: false, storageKey: 'matura-diak' } }) : null;
-export const AUDIO_BASE = (import.meta.env.VITE_AUDIO_BASE as string | undefined) || '';
 
 export type Result = 'ok' | 'typo' | 'bad';
-export interface TaskRef { id: string; examId: string; section: 'reading' | 'language' | 'listening'; points: number; exam: { year: number; session: string; level: string }; content: any }
+export interface TaskRef { id: string; examId: string; section: 'reading' | 'language' | 'listening'; points: number; exam: { year: number; session: string; level: string }; content: any;
+  /** a kulcsos feladat: csak lezárt kiosztásnál jön (a megoldás megnyitása) */ key?: any }
 export interface Assignment { found: boolean; code: string; status: 'open' | 'closed'; audioMode: 'teacher' | 'student'; solutionVisibility: 'immediate' | 'after_close'; tasks: TaskRef[]; submitted: boolean }
 export interface TaskResult { id: string; score: number; max: number; results: { n: number; result: Result }[]; solutions: Record<string, any> | null }
 export interface SubmitResult { score: number; max: number; tasks: TaskResult[]; solutionsVisible: boolean }
@@ -19,8 +19,8 @@ export async function getAssignment(code: string, deviceId: string): Promise<Ass
     if (error) throw error;
     return data as Assignment;
   }
-  const vis = new URLSearchParams(location.search).get('vis') || '';
-  const r = await fetch(`/dev-api/assignment?code=${encodeURIComponent(code)}&device=${deviceId}&vis=${vis}`);
+  const q = new URLSearchParams(location.search), p = (k: string) => encodeURIComponent(q.get(k) || '');
+  const r = await fetch(`/dev-api/assignment?code=${encodeURIComponent(code)}&device=${deviceId}&vis=${p('vis')}&st=${p('st')}&hang=${p('hang')}`);
   if (!r.ok) throw new Error('HTTP ' + r.status);
   return r.json();
 }

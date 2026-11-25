@@ -182,3 +182,50 @@
 }
 /* kivetítéskor (teljes képernyő) a panel keskenyebb, a kód nagyobb */
 :fullscreen .t-stage { padding: 48px 64px; }
+
+/* 3. szakasz: élő nézet, tanári hang, lezárás */
+.pill.dark { background: var(--board); border-color: var(--board); color: var(--white); }
+.t-stagetext { margin: 0; font-size: 18px; color: var(--mist); line-height: 1.5; }
+.t-stagetext.small { font-size: 14px; }
+.t-inlinecode { color: var(--yellow); font-family: var(--head); letter-spacing: .04em; }
+.t-audio { display: flex; flex-direction: column; gap: 10px; background: var(--deep); border-radius: 22px; padding: 14px; }
+.t-audio .player { background: transparent; padding: 4px; }
+.t-tracks { display: flex; flex-wrap: wrap; gap: 8px; }
+.t-audio .t-chip { background: transparent; color: var(--pale); border-color: var(--muted); }
+.t-audio .t-chip.on { background: var(--yellow); border-color: var(--yellow); color: var(--deep); }
+.t-live { display: inline-block; width: 10px; height: 10px; border-radius: 999px; background: var(--ok-ink); margin-right: 6px; vertical-align: 1px; }
+.t-panelactions { display: flex; flex-direction: column; gap: 10px; margin-top: 6px; }
+.t-panelactions .pill { width: 100%; min-height: 52px; }
+.t-panelactions .t-confirm { border-radius: 14px; border: 0; }
+.t-panelactions .t-confirm .pill { width: auto; min-height: 44px; }
+
+/* kiosztásonkénti statisztika */
+.t-stats { gap: 18px; max-width: 1240px; }
+.t-statshead { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 12px 24px; }
+.t-statstitle { flex: 1 1 360px; display: flex; flex-direction: column; gap: 6px; align-items: flex-start; }
+.t-statstitle .small, .t-statsnote { font-size: 13px; margin: 0; }
+.t-tiles { display: flex; flex-wrap: wrap; gap: 12px; }
+.t-tile { background: var(--white); border: 1px solid var(--sand); border-radius: 14px; padding: 12px 18px; min-width: 110px; }
+.t-tile div { font-size: 12px; color: var(--muted); font-weight: 600; }
+.t-tile b { font: 600 26px var(--head); }
+.t-tile.hot { background: var(--hot-bg); border-color: #F08A7B; color: var(--hot-ink); }
+.t-tile.hot div { color: var(--hot-ink); }
+.t-statcard { display: flex; flex-direction: column; gap: 12px; padding: 20px; }
+.t-statcardhead { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; }
+.t-statcardhead h2 { margin: 0; flex: 1; font-size: 20px; }
+.t-statcardhead .small { font-size: 13px; }
+.t-qgrid { display: flex; flex-direction: column; gap: 8px; overflow-x: auto; }
+.t-qrow { display: grid; grid-template-columns: 40px minmax(120px, 1fr) 52px minmax(160px, 1.3fr); gap: 12px; align-items: center; font-size: 14px; min-width: 520px; }
+.t-qgrid:has(.t-qk) .t-qrow { grid-template-columns: 40px minmax(120px, 1fr) 52px minmax(160px, 1.3fr) minmax(140px, 1fr); }
+.t-qhead { font-size: 12px; color: var(--muted); font-weight: 600; }
+.t-qn, .t-qp { font-weight: 600; }
+.t-qp { text-align: right; }
+.t-bar { display: block; height: 22px; border-radius: 999px; background: #F1EADA; overflow: hidden; }
+.t-bar span { display: block; height: 100%; border-radius: 999px; background: var(--board); }
+.t-qw { color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.t-qw small { color: var(--muted); font-family: var(--ui); }
+.t-qk { color: var(--ok-ink); font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.t-qrow.hard .t-qn, .t-qrow.hard .t-qp, .t-qrow.hard .t-qw { color: var(--hot-ink); }
+.t-qrow.hard .t-qw { font-weight: 600; }
+.t-qrow.hard .t-bar { background: var(--hot-bg); }
+.t-qrow.hard .t-bar span { background: var(--coral); }

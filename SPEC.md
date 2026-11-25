@@ -36,6 +36,8 @@ A tanár kiválaszt egy vagy több érettségi feladatot, megosztja a csoportjá
 
 Önálló gyakorlás tanár nélkül, fizetős formában, szülőknek és diákoknak. Az adatmodellnek ezt nem szabad kizárnia (a kiosztás csoport nélkül is létezhessen), de az első változat nem tartalmazza.
 
+Íráskészség a hub Writing Review appjában (ötlet, 2026-11-25; később kidolgozandó): az érettségi írásfeladatai nem a Maturába kerülnek, hanem a Writing Review appba (ahová fel kell majd tölteni őket). A Maturában az íráskészség helyén egy helyőrző vagy hivatkozás áll, amely oda vezet („ha az írás is érdekel, itt találod”). Egyben a Writing Review felé vezető ajánló is.
+
 ---
 
 ## 2. Szereplők
@@ -297,7 +299,8 @@ Két dolog nem olvasható ki gépileg, és kézi ellenőrzést igényel: a hall�
 - Ahol a felismerés nem megy, kézi időpontmegadás kell (laponként két időpont: a 2. és a 3. feladat kezdete).
 - Mért méret: a 2024. májusi középszintű sor három feladata 4,1 + 2,6 + 3,5 MB (mono, 24 kHz, 48 kbps); a teljes anyag ezzel kb. 0,9 GB.
 - A JSON-ban az `audio.start` és `audio.end` a forrásfájlon belüli időpont másodpercben, az `audio.clip` a kivágott fájl.
-- Tárolás: Cloudflare R2, tekerhető lejátszással.
+- Tárolás: Cloudflare R2, tekerhető lejátszással. Kész (2026-11-25): mind a 273 kivágott fájl a `matura-hang` tárolóban (feltöltés: `eszkozok/hang-feltoltes.ts`), nyilvános aldomainről érhető el: `https://matura-hang.mrandrewshub.com/<fájlnév>` (a megrendelő döntése, 11. fejezet 19.; a `hang.matura.…` alak azért nem jó, mert arra az ingyenes Cloudflare-tanúsítvány nem terjed ki). A felület a tartalom `audio.clip` mezőjéből (`hang/<fájlnév>`) a `VITE_AUDIO_BASE` címmel állítja elő a hang címét. Mind a 268 hivatkozott hang elérhető, a tekeréshez szükséges részletes letöltést (Range) is kiszolgálja.
+- Lejátszó: lejátszás és megállítás, 10 mp vissza és előre, tekerhető sáv, eltelt és teljes idő. A diák a feladat tetején látja, görgetés közben is; a tanár az élő nézetben, nagyobb méretben, több hallásfeladatnál feladatonként váltva.
 
 Hangmódok, a kiosztás beállításaként:
 
@@ -408,7 +411,7 @@ Javasolt szerkezet:
 | Elem | Állapot |
 |---|---|
 | Supabase-projekt | kész: ref `fjhwqynnlgjpjsfxncbj`, West EU (Ireland, eu-west-1), Free/Nano, a „MrAndrew's Hub” szervezetben; üres (nincs tábla, migráció). A neve a fiók e-mail-címe, átnevezhető `matura`-ra. |
-| Cloudflare R2 | kész: `matura-hang` tároló, automatikus helyszín (Kelet-Európa), Standard; nem nyilvános, üres |
+| Cloudflare R2 | kész: `matura-hang` tároló, automatikus helyszín (Kelet-Európa), Standard; 273 hangfájl feltöltve, nyilvános aldomain: `matura-hang.mrandrewshub.com` (2026-11-25) |
 | Cloudflare Pages | kész: `matura` projekt (`matura-7r4.pages.dev`), a `mistagee83/matura` tárolóból; a `main` ág minden commitja automatikusan épül (a megrendelő megadta a GitHub-alkalmazásnak a hozzáférést; kipróbálva) |
 | Aldomain | kész: `matura.mrandrewshub.com` (2026-11-25) |
 | Supabase-tartalom | séma, 949 feladat, `submit` függvény élesítve és kipróbálva; próbakiosztások: MINTA24K, MINTA24E. 2. szakasz (2026-11-25): tanárok, csoportok, tanári jogosultsági szabályok és a kiosztás létrehozása élesítve; két tanárfiókkal kipróbálva |
@@ -588,10 +591,10 @@ A „sorrend nem számít" kulcsok (ellenőrizve 2026-11-25, mind a 91 útmutat�
 |---|---|---|
 | 1. Diákoldal | adatbázis; feladat betöltése kulcs nélkül; szerveroldali javítás; a hét beviteli mód (`bank`, `choice`, `multi`, `text`, `lines`, `fix`, `order`); becenév, beküldés, eredmény | a két mintasor minden feladata végig megoldható telefonon (360 px), és a pontszám egyezik a kulccsal; a böngésző hálózati forgalmában a beküldés előtt nem szerepel megoldás; az oldal újratöltése után a válaszok megmaradnak |
 | 2. Tanári alap (élesítve és lezárva, 2026-11-25) | regisztráció és belépés (Google, e-mail és jelszó); csoportok; feladattár szűrőkkel; kiosztás; link és QR-kód | egy új tanár segítség nélkül regisztrál, csoportot hoz létre, kioszt egy feladatot, és a diák a QR-kóddal eljut a feladathoz; egy tanár nem látja más tanár csoportjait és eredményeit |
-| 3. Élő nézet és statisztika | élő frissítés; tanári hanglejátszó; mindkét hangmód; lezárás; kiosztásonkénti statisztika | egy valódi tanóra elejétől a végéig lefut egy osztállyal: a hang a tanár gépéről szól, a beküldések megjelennek, lezárás után a diákok látják a megoldást, a tanár a kérdésenkénti arányokat és a leggyakoribb rossz válaszokat |
+| 3. Élő nézet és statisztika (élesítve 2026-11-25; a valódi tanórás elfogadási próba hátravan) | élő frissítés; tanári hanglejátszó; mindkét hangmód; lezárás; kiosztásonkénti statisztika | egy valódi tanóra elejétől a végéig lefut egy osztállyal: a hang a tanár gépéről szól, a beküldések megjelennek, lezárás után a diákok látják a megoldást, a tanár a kérdésenkénti arányokat és a leggyakoribb rossz válaszokat |
 | 4. Csoportszintű trendek | típusonkénti és részenkénti átlag; csoportok összevetése | legalább három kiosztás után a csoport oldalán megjelenik a leggyengébb feladattípus, és az egyezik a kézzel kiszámolt értékkel |
 
-A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzamosan halad. Nyilvános vagy fizetős indulás előtt a jogi kérdést (11. fejezet) le kell zárni.
+A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzamosan halad. A jogi kérdés lezárva (11. fejezet, 19. döntés, 2026-11-25).
 
 ---
 
@@ -618,6 +621,12 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 17. **Megosztó kód (2026-11-25):** 6 jel a 0/O és 1/I nélküli 32 jeles ábécéből, kriptográfiai véletlenből (kb. egymilliárd lehetőség); a kiosztást csak a szerveroldali `create_assignment()` hozhatja létre.
 18. **Különálló termék a Hubtól (2026-11-25):** a Matura a Mr. Andrew's EdTech Hubbal csak az arculaton osztozik; saját fiókrendszere van (Supabase Auth: Google és e-mail/jelszó), nem a Hub közös Firebase-fiókja. Indok: más piac és nyelv (a Hub nemzetközi és angol, a Matura magyar), a nyitott jogi kérdés miatt a Matura kockázata ne érintse a Hubot, és a közös fiók rendszerek közötti törlést, adatexportot és egykattintásos átlépést kívánna. Újra elővehető, ha a Matura fizetős termék lesz, és a tanárai a Hubot is használják; a Hub felé legfeljebb egy link mutat.
 
+19. **A hangfelvételek és szövegek felhasználása (2026-11-25):** a megrendelő jogásszal egyeztetett: a feladatsorok és hangfelvételek nyilvánosak, a Matura nem a letöltésükért, hanem a felületért kérne majd díjat, így a felhasználásuk rendben van. Ezért a hang nyilvános aldomainről szól (3.7), lejáró hivatkozás nélkül.
+20. **Élő frissítés, lezárás, statisztika (3. szakasz, 2026-11-25):**
+    - Az élő nézet a Supabase Realtime-ot használja (a beküldések táblájára iratkozik fel; a sorszintű szabály miatt a tanár csak a saját kiosztásáról kap értesítést). Ha a kapcsolat nem áll fel (pl. iskolai tűzfal), a lista 20 másodpercenként frissül. Indok: azonnali, és nem terheli a szervert 35 diák mellett sem.
+    - Lezárás: a tanár a kiosztás oldalán megerősítés után zárja le; utána a link nem fogad beküldést, és a `get_assignment()` a kulcsot is kiadja, így a diák megnézheti a megoldást. A saját válaszai mellett csak azon az eszközön, ahonnan beküldte (a válaszok az eszközön tárolódnak); másik eszközön csak a feladat és a kulcs látszik. A „lezárás után” kiosztásnál a beküldött diák oldala 15 másodpercenként megnézi, lezárták-e, és magától megmutatja a megoldást. A lezárás visszavonható („Újranyitom a beküldést”); ekkor a kulcs megint nem megy ki.
+    - Statisztika (`assignment_stats()`, a tanár jogával fut): kitöltők száma, átlag, kérdésenként a helyes arány és a leggyakoribb rossz válasz; eszközönként csak az első beküldés. Helyesnek számít az elfogadott elírás is; az üresen hagyott kérdés nem „rossz válasz”, külön szám jelzi. A beírós válaszokat kisbetűsítve vonja össze. 50% alatt a kérdés „nehéz” színt kap. Lezárás után a helyes válasz is látszik mellette.
+
 ### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő megerősítésére várnak)
 
 1. **Hibás szó javítása:** a pont a helyes szóért jár, a hibás szó megjelölése nem feltétele (3.5). Ez eltér a korábbi tervtől („mindkettő jó”), mert az útmutatók így rendelkeznek.
@@ -642,5 +651,5 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 
 ### Tisztázandó
 
-1. **Jogi háttér:** a feladatsorok nyilvánosak az Oktatási Hivatal oldalán, de a bennük lévő újságcikkek és hangfelvételek újraközlésének feltételeit nyilvános vagy fizetős szolgáltatás előtt meg kell vizsgálni.
+1. **Jogi háttér:** lezárva (2026-11-25), lásd a lezárt döntések 19. pontját.
 2. **Hangvágás:** kész (2026-11-25): mind a 91 lap vágása meghallgatva és a tartalomba beírva (3.7).

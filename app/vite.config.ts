@@ -1,6 +1,7 @@
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, existsSync, statSync, createReadStream } from 'node:fs';
+import { join } from 'node:path';
 import { randomUUID } from 'node:crypto';
 import { gradeTask, publicTask, solutions } from '../supabase/functions/_shared/grade';
 
@@ -27,15 +28,31 @@ function devApi(): Plugin {
   return {
     name: 'matura-dev-api',
     configureServer(server) {
+      // a kivágott hangfájlok helyben, a forrásmappából (élesben az R2-ből jönnek); tekeréshez Range-kérést is kiszolgál
+      const hangDir = process.env.MATURA_HANG || 'D:/Dokumentumok/Tanári segédanyagok/e-books/Érettségi 2005-2026/hang';
+      server.middlewares.use('/dev-hang/', (req, res) => {
+        const name = decodeURIComponent((req.url || '').split('?')[0]).replace(/^\//, '');
+        const f = join(hangDir, name);
+        if (!/^[\w.-]+\.mp3$/.test(name) || !existsSync(f)) { res.statusCode = 404; return res.end(); }
+        const size = statSync(f).size, m = /bytes=(\d*)-(\d*)/.exec(req.headers.range || '');
+        res.setHeader('Content-Type', 'audio/mpeg'); res.setHeader('Accept-Ranges', 'bytes');
+        if (!m) { res.setHeader('Content-Length', size); return createReadStream(f).pipe(res); }
+        const start = m[1] ? +m[1] : size - +m[2], end = m[1] && m[2] ? +m[2] : size - 1;
+        res.statusCode = 206; res.setHeader('Content-Range', `bytes ${start}-${end}/${size}`); res.setHeader('Content-Length', end - start + 1);
+        createReadStream(f, { start, end }).pipe(res);
+      });
       server.middlewares.use('/dev-api/', (req, res) => {
         const send = (s: number, b: unknown) => { res.statusCode = s; res.setHeader('Content-Type', 'application/json'); res.end(JSON.stringify(b)); };
         const url = new URL(req.url || '', 'http://x');
         if (url.pathname === '/assignment') {
           const code = (url.searchParams.get('code') || '').toUpperCase(), e = examFor(code);
           if (!e) return send(200, { found: false });
+          // ?st=closed: lezárt kiosztás (a kulcs is kimegy, mint élesben); ?hang=teacher: a tanár játssza le a hangot
+          const closed = url.searchParams.get('st') === 'closed';
           const tasks = e.sections.flatMap((s: any) => s.tasks.map((t: any) => ({ id: t.id, examId: e.id, section: s.id, points: t.points,
-            exam: { year: e.year, session: e.session, level: e.level === 'kozep' ? 'közép' : e.level }, content: publicTask(t) })));
-          return send(200, { found: true, code, status: 'open', audioMode: 'student', solutionVisibility: url.searchParams.get('vis') || 'immediate', tasks,
+            exam: { year: e.year, session: e.session, level: e.level === 'kozep' ? 'közép' : e.level }, content: publicTask(t), ...(closed ? { key: t } : {}) })));
+          return send(200, { found: true, code, status: closed ? 'closed' : 'open', audioMode: url.searchParams.get('hang') === 'teacher' ? 'teacher' : 'student',
+            solutionVisibility: url.searchParams.get('vis') || 'immediate', tasks,
             submitted: submitted.has(code + (url.searchParams.get('device') || '')) });
         }
         if (url.pathname === '/submit' && req.method === 'POST') {

@@ -63,6 +63,29 @@ details.inst ul { margin: 6px 0 4px; padding-left: 20px; font-size: 16px; line-h
 .audio { position: sticky; top: 56px; z-index: 4; background: var(--cream); padding: 8px 0; }
 .audio audio { width: 100%; display: block; }
 
+/* hanglejátszó (diák: a feladat tetején; tanár: az élő nézetben, nagyobb) */
+.player { display: flex; align-items: center; gap: 8px; background: var(--deep); color: var(--white); border-radius: 14px; padding: 10px 12px; }
+.player .pl-main { flex: none; width: 52px; height: 52px; border-radius: 999px; border: 0; background: var(--yellow); color: var(--deep); display: grid; place-items: center; cursor: pointer; }
+.player .pl-skip { flex: none; width: 44px; height: 44px; border-radius: 999px; border: 1.5px solid rgba(255,255,255,.45); background: transparent; color: var(--white);
+  display: flex; flex-direction: column; align-items: center; justify-content: center; line-height: 1; cursor: pointer; padding: 0; }
+.player .pl-skip svg { width: 16px; height: 16px; } .player .pl-skip small { font-size: 11px; font-weight: 600; }
+.player .pl-mid { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.player .pl-label { font-size: 14px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.player .pl-time { display: flex; justify-content: space-between; font-size: 12px; color: #D6E3DE; }
+.player .pl-err { font-size: 13px; color: #F8E3A6; }
+.player input[type=range] { -webkit-appearance: none; appearance: none; width: 100%; height: 24px; background: transparent; margin: 0; cursor: pointer; }
+.player input[type=range]::-webkit-slider-runnable-track { height: 8px; border-radius: 999px; background: linear-gradient(to right, var(--yellow) var(--p), #4E5F59 var(--p)); }
+.player input[type=range]::-moz-range-track { height: 8px; border-radius: 999px; background: linear-gradient(to right, var(--yellow) var(--p), #4E5F59 var(--p)); }
+.player input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; width: 18px; height: 18px; margin-top: -5px; border-radius: 999px; background: var(--white); border: 2px solid var(--yellow); }
+.player input[type=range]::-moz-range-thumb { width: 16px; height: 16px; border-radius: 999px; background: var(--white); border: 2px solid var(--yellow); }
+.player input[type=range]:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+.player.big { padding: 18px 22px; gap: 14px; border-radius: 22px; }
+.player.big .pl-main { width: 64px; height: 64px; }
+.player.big .pl-skip { width: 52px; height: 52px; }
+.player.big .pl-label { font-size: 16px; } .player.big .pl-time { font-size: 14px; }
+.teacher-audio { display: flex; align-items: center; gap: 12px; }
+.teacher-audio svg { flex: none; }
+
 /* választós hézag */
 .gap { display: inline-flex; align-items: baseline; gap: 6px; max-width: 100%; vertical-align: baseline; margin: 2px; padding: 5px 10px; min-height: 40px;
   border: 1.5px dashed var(--sel-ink); border-radius: 10px; background: var(--white); color: var(--deep); cursor: pointer; text-align: left; line-height: 1.35; font-family: var(--exam); font-size: 17px; }

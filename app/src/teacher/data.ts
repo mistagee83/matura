@@ -71,3 +71,34 @@ export function authError(e: any): string {
   if (/fetch|network/i.test(m)) return 'Nincs kapcsolat a kiszolgálóval. Ellenőrizd az internetet.';
   return 'Nem sikerült: ' + m;
 }
+
+// ---------- 3. szakasz: élő nézet, lezárás, statisztika ----------
+/** A kiosztás feladatainak kulcs nélküli tartalma és hangja (a hanglejátszóhoz és a statisztika kérdéseihez). */
+export const loadTaskContents = async (ids: string[]) =>
+  ids.length ? check(await must().from('tasks').select('id, content, audio').in('id', ids)) as { id: string; content: any; audio: any }[] : [];
+
+/** Lezárás és újranyitás. Lezárás után a link nem fogad beküldést, és a diákok látják a megoldást. */
+export const setAssignmentStatus = async (id: string, status: 'open' | 'closed') =>
+  check(await must().from('assignments').update({ status, closed_at: status === 'closed' ? new Date().toISOString() : null }).eq('id', id).select('id, status').single());
+
+export interface ItemStat { task: string; n: number; total: number; correct: number; typo: number; empty: number; wrong: any; wrongN: number }
+export interface Stats { n: number; avg: number | null; max: number | null; items: ItemStat[] }
+/** Kiosztásonkénti statisztika (eszközönként az első beküldés); más tanár kiosztására üres. */
+export const loadStats = async (id: string) => check(await must().rpc('assignment_stats', { p_assignment: id })) as Stats;
+
+/** A lezárt kiosztás kulcsa a diák felületén keresztül (get_assignment): nyitott kiosztásnál nincs benne. */
+export const loadClosedKeys = async (code: string) => {
+  const r = check(await must().rpc('get_assignment', { p_code: code })) as any;
+  return new Map<string, any>((r?.tasks || []).filter((t: any) => t.key).map((t: any) => [t.id, t.key]));
+};
+
+/**
+ * Élő frissítés: a Supabase Realtime szól, ha a kiosztáshoz beküldés érkezik vagy törlődik (a sorszintű szabály szerint csak a
+ * saját kiosztásnál). A hívó ilyenkor újratölti a listát. Visszaadja a leiratkozó függvényt; `onState` a kapcsolat állapota.
+ */
+export function watchSubmissions(assignmentId: string, onChange: () => void, onState: (live: boolean) => void) {
+  const ch = must().channel('bekuldesek-' + assignmentId)
+    .on('postgres_changes', { event: '*', schema: 'public', table: 'submissions', filter: `assignment_id=eq.${assignmentId}` }, () => onChange())
+    .subscribe((status) => onState(status === 'SUBSCRIBED'));
+  return () => { must().removeChannel(ch); };
+}

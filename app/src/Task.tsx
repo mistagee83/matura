@@ -6,7 +6,8 @@ import { Fragment, useState, type ReactNode } from 'react';
 import type { TaskResult } from './api';
 
 type Ans = Record<string, any>;
-interface Props { task: any; ans: Ans; set: (n: number, v: any) => void; graded?: TaskResult | null; audio?: ReactNode }
+interface Props { task: any; ans: Ans; set: (n: number, v: any) => void; graded?: TaskResult | null; audio?: ReactNode;
+  /** csak a megoldás: lezárt kiosztás, a diák eredménye nélkül (pipa és kereszt nincs, minden kérdésnél látszik a helyes válasz) */ keyOnly?: boolean }
 
 const cleanW = (w: string) => w.toLowerCase().replace(/^[^a-z0-9']+|[^a-z0-9']+$/gi, '').replace(/[’‘]/g, "'");
 const gapCountIn = (s: string) => (s.match(/\{\{gap\}\}/g) || []).length;
@@ -31,7 +32,7 @@ export function toSubmit(task: any, ans: Ans): Ans {
   return out;
 }
 
-export default function Task({ task, ans, set, graded, audio }: Props) {
+export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) {
   const [sheet, setSheet] = useState<number | null>(null);
   const item = (n: number) => task.items.find((i: any) => i.n === n);
   const res = (n: number) => graded?.results.find((r) => r.n === n)?.result;
@@ -40,7 +41,8 @@ export default function Task({ task, ans, set, graded, audio }: Props) {
   const pool = (it: any): any[] => (task.kind === 'bank' ? task.bank : it.options || task.options) || [];
   const mark = (n: number) => { const r = res(n); return r ? (r === 'bad' ? ' bad' : ' ok') : ''; };
   const Sign = ({ n }: { n: number }) => { const r = res(n); return r ? <span className={'sign ' + (r === 'bad' ? 'bad' : 'ok')} aria-label={r === 'bad' ? 'hibás' : 'helyes'}>{r === 'bad' ? '✗' : '✓'}</span> : null; };
-  const Fix = ({ n, text }: { n: number; text?: string }) => (res(n) && res(n) !== 'ok' && text ? <span className="solution">✓ {text}</span> : null);
+  const showSol = (n: number) => !!keyOnly || res(n) === 'bad';
+  const Fix = ({ n, text }: { n: number; text?: string }) => ((keyOnly || (res(n) && res(n) !== 'ok')) && text ? <span className="solution">✓ {text}</span> : null);
   const optText = (it: any, k: string) => pool(it).find((o: any) => o.key === k)?.text;
 
   // ---- választós hézag (bank és szövegbe ágyazott feleletválasztás) ----
@@ -51,10 +53,10 @@ export default function Task({ task, ans, set, graded, audio }: Props) {
       <button type="button" className={'gap' + (block ? ' block' : '') + (it.example ? ' ex' : '') + (text ? ' filled' : '') + mark(it.n)}
         disabled={it.example || done} onClick={() => setSheet(it.n)} aria-label={`${it.example ? 'Példa' : it.n + '. hely'}: ${text || 'üres'}`}>
         <span className="n">{it.example ? 'pl.' : it.n}</span>
-        <span className="t">{text || (pool(it)[0]?.text.length > 25 ? 'Koppints a választáshoz' : '· · ·')}</span>
+        <span className="t">{text || (!done && pool(it)[0]?.text.length > 25 ? 'Koppints a választáshoz' : '· · ·')}</span>
         <Sign n={it.n} />
       </button>
-      {res(it.n) === 'bad' && s && <span className="solution">✓ {optText(it, s.keys[0])}</span>}
+      {showSol(it.n) && s && <span className="solution">✓ {optText(it, s.keys[0])}</span>}
     </>);
   };
 
@@ -145,7 +147,7 @@ export default function Task({ task, ans, set, graded, audio }: Props) {
       </p>
       <button type="button" className={'opt okline' + (v === 'OK' ? ' on' : '')} disabled={it.example || done} onClick={() => set(it.n, v === 'OK' ? undefined : 'OK')}>
         <span className="k">✓</span><span>A sor helyes</span></button>
-      {res(it.n) === 'bad' && s && <span className="solution">✓ {s.word === null ? 'A sor helyes' : 'Felesleges szó: ' + s.word}</span>}
+      {showSol(it.n) && s && <span className="solution">✓ {s.word === null ? 'A sor helyes' : 'Felesleges szó: ' + s.word}</span>}
     </div>);
   };
 

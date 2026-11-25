@@ -2,6 +2,12 @@
 // Használat: node tests/tanar.ts <supabase url> <publishable kulcs>
 //   a fiókok: MATURA_A_EMAIL, MATURA_B_EMAIL, MATURA_PW környezeti változóban (mindkettő ugyanazzal a jelszóval)
 // A próba létrehoz egy-egy csoportot és kiosztást, a végén törli őket (a beküldésekkel együtt).
+// 3. szakasz: élő frissítés (Realtime), lezárás, a megoldás megnyitása, statisztika – ugyanígy két fiókkal.
+import { execFileSync } from 'node:child_process';
+import { createRequire } from 'node:module';
+// az élő frissítés próbájához a felület Supabase-kliense (app/node_modules)
+const { createClient } = createRequire(new URL('../app/package.json', import.meta.url))('@supabase/supabase-js');
+
 const [URL_, KEY] = process.argv.slice(2);
 const { MATURA_A_EMAIL: EA, MATURA_B_EMAIL: EB, MATURA_PW: PW } = process.env;
 if (!URL_ || !KEY || !EA || !EB || !PW) { console.error('Használat: lásd a fájl elejét.'); process.exit(2); }
@@ -96,6 +102,70 @@ const moveB = await rest(B.token, 'PATCH', `assignments?id=eq.${cb.data.id}`, { 
 ok(!moveB.ok || moveB.data.length === 0, `B nem teheti a kiosztását A csoportjába → ${moveB.status}`);
 const anonSubs = await rest(undefined, 'GET', 'submissions?select=id&limit=1');
 ok(!anonSubs.ok || anonSubs.data.length === 0, 'a beküldések bejelentkezés nélkül nem olvashatók');
+
+// ---------- 3. szakasz: élő frissítés, lezárás, statisztika ----------
+const R2 = '2024-maj-kozep-R2', H1 = '2024-maj-kozep-H1';
+const fullR2 = JSON.parse(execFileSync(process.execPath, ['tests/kulcsvalasz.ts', '2024-maj-kozep'], { encoding: 'utf8' })).answers[R2];
+const cc = await rest(A.token, 'POST', 'rpc/create_assignment', { p_group: gA.id, p_tasks: [R2, H1], p_audio_mode: 'teacher', p_solution_visibility: 'after_close' });
+ok(cc.ok, `A kioszt egy „lezárás után” feladatot (tanár játssza a hangot) → ${cc.data?.code}`);
+const send = (deviceId: string, answers: any) => fetch(`${URL_}/functions/v1/submit`, { method: 'POST', headers: { apikey: KEY, 'Content-Type': 'application/json' },
+  body: JSON.stringify({ code: cc.data.code, nickname: 'Statproba', deviceId, answers }) }).then(async (r) => ({ status: r.status, body: await r.json() }));
+
+// élő frissítés: A értesítést kap a saját kiosztása beküldéséről, B nem
+const sbA = createClient(URL_, KEY, { auth: { persistSession: false } }), sbB = createClient(URL_, KEY, { auth: { persistSession: false } });
+await sbA.realtime.setAuth(A.token); await sbB.realtime.setAuth(B.token);
+const seen = { A: 0, B: 0 };
+const join = (c: any, who: 'A' | 'B', filter: string) => new Promise<string>((res) => {
+  c.channel('proba-' + who).on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'submissions', filter }, () => { seen[who]++; })
+    .subscribe((s: string) => { if (s !== 'CLOSED') res(s); });
+});
+const [stA, stB] = await Promise.all([join(sbA, 'A', `assignment_id=eq.${cc.data.id}`), join(sbB, 'B', `assignment_id=eq.${cc.data.id}`)]);
+ok(stA === 'SUBSCRIBED' && stB === 'SUBSCRIBED', `élő csatorna: A ${stA}, B ${stB}`);
+await new Promise((r) => setTimeout(r, 1500));
+
+const d1 = crypto.randomUUID(), d2 = crypto.randomUUID();
+const s1 = await send(d1, { [R2]: fullR2 });
+ok(s1.status === 200 && s1.body.solutionsVisible === false && s1.body.tasks.every((t: any) => t.solutions === null), `beküldés nyitott „lezárás után” kiosztásra: megoldás nélkül jön vissza (${s1.body.score} / ${s1.body.max})`);
+const wrongR2 = Object.fromEntries(Object.keys(fullR2).map((n) => [n, fullR2[n] === 'A' ? 'B' : 'A']));
+const s2 = await send(d2, { [R2]: wrongR2 });
+const s3 = await send(d1, { [R2]: wrongR2 });   // ugyanarról az eszközről újra: gyakorlás
+ok(s2.status === 200 && s3.status === 200, 'még két beküldés (egy új eszköz, egy ismétlés)');
+await new Promise((r) => setTimeout(r, 3000));
+ok(seen.A === 3, `A élőben értesült mindhárom beküldésről (${seen.A})`);
+ok(seen.B === 0, `B nem kapott értesítést A kiosztásáról (${seen.B})`);
+await sbA.removeAllChannels(); await sbB.removeAllChannels();
+
+const openA = await rest(undefined, 'POST', 'rpc/get_assignment', { p_code: cc.data.code });
+ok(openA.data.tasks.every((t: any) => t.key === undefined), 'nyitott kiosztásnál a diák nézetében nincs kulcs');
+
+// statisztika
+const stA1 = await rest(A.token, 'POST', 'rpc/assignment_stats', { p_assignment: cc.data.id });
+const r2items = (stA1.data?.items || []).filter((i: any) => i.task === R2), h1items = (stA1.data?.items || []).filter((i: any) => i.task === H1);
+ok(stA1.ok && stA1.data.n === 2, `statisztika: 2 kitöltő (a gyakorlás nem számít) → ${stA1.data?.n}`);
+ok(stA1.data && Number(stA1.data.avg) === s1.body.score / 2 && stA1.data.max === s1.body.max, `átlag: ${stA1.data?.avg} / ${stA1.data?.max} (várt ${s1.body.score / 2})`);
+ok(r2items.length === Object.keys(fullR2).length && r2items.every((i: any) => i.total === 2 && i.correct === 1 && i.wrongN === 1 && i.wrong === wrongR2[i.n]),
+  `kérdésenként: helyes arány 1/2, a leggyakoribb rossz válasz a beküldött rossz betű (${r2items.length} kérdés)`);
+ok(h1items.length > 0 && h1items.every((i: any) => i.correct === 0 && i.empty === 2 && i.wrongN === 0), `üresen hagyott kérdések: üresnek számolva, nem rossz válasznak (${h1items.length} kérdés)`);
+const stB1 = await rest(B.token, 'POST', 'rpc/assignment_stats', { p_assignment: cc.data.id });
+ok(stB1.ok && stB1.data.n === 0 && stB1.data.items.length === 0, `B nem látja A kiosztásának statisztikáját (n = ${stB1.data?.n})`);
+const stAnon = await rest(undefined, 'POST', 'rpc/assignment_stats', { p_assignment: cc.data.id });
+ok(!stAnon.ok, `bejelentkezés nélkül nincs statisztika → ${stAnon.status}`);
+
+// lezárás
+const closeB = await rest(B.token, 'PATCH', `assignments?id=eq.${cc.data.id}`, { status: 'closed' });
+ok(closeB.ok && closeB.data.length === 0, 'B nem zárhatja le A kiosztását');
+const closeA = await rest(A.token, 'PATCH', `assignments?id=eq.${cc.data.id}`, { status: 'closed', closed_at: new Date().toISOString() });
+ok(closeA.ok && closeA.data[0]?.status === 'closed', 'A lezárja a saját kiosztását');
+const late = await send(crypto.randomUUID(), { [R2]: fullR2 });
+ok(late.status === 409 && late.body.error === 'closed', `lezárás után nincs beküldés → ${late.status} ${late.body.error}`);
+const closedView = await rest(undefined, 'POST', 'rpc/get_assignment', { p_code: cc.data.code, p_device: d1 });
+const keyR2 = closedView.data.tasks.find((t: any) => t.id === R2)?.key;
+ok(closedView.data.status === 'closed' && closedView.data.submitted === true && keyR2 && Object.keys(fullR2).every((n) => keyR2.items.find((i: any) => String(i.n) === n)?.answer === fullR2[n]),
+  'lezárás után a diák (ugyanarról az eszközről) megkapja a kulcsot, és a rendszer felismeri a beküldését');
+const reopen = await rest(A.token, 'PATCH', `assignments?id=eq.${cc.data.id}`, { status: 'open', closed_at: null });
+ok(reopen.ok && reopen.data[0]?.status === 'open', 'A újranyithatja');
+const reopenedView = await rest(undefined, 'POST', 'rpc/get_assignment', { p_code: cc.data.code });
+ok(reopenedView.data.tasks.every((t: any) => t.key === undefined), 'újranyitás után a kulcs megint nem megy ki');
 
 // takarítás: a csoport törlése a kiosztásait és az eredményeit is törli
 const delA = await rest(A.token, 'DELETE', `groups?id=eq.${gA.id}`);

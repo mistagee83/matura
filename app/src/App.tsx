@@ -1,7 +1,9 @@
 // A diák útja (SPEC 4.1, 8.6): kód → belépés becenévvel → feladat(ok) → beküldés → eredmény.
 // Címek: /  (kód beírása) és /k/<kód> (a kiosztás).
 import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
-import { getAssignment, submit, SubmitError, AUDIO_BASE, type Assignment, type TaskRef } from './api';
+import { getAssignment, submit, SubmitError, type Assignment, type TaskRef, type TaskResult } from './api';
+import { solutions } from '../../supabase/functions/_shared/grade';
+import Player, { clipUrl } from './Player';
 import { deviceId, loadSaved, save, lastNickname, rememberNickname, type Saved } from './store';
 import Task, { filled, toSubmit } from './Task';
 
@@ -9,6 +11,8 @@ const SECTION: Record<string, string> = { reading: 'Olvasott szöveg értése', 
 const label = (t: TaskRef) => `${t.exam.year}. ${t.exam.session}, ${t.exam.level}szint`;
 // a tanári felület külön csomag: a diák telefonja nem tölti le
 const Teacher = lazy(() => import('./teacher/Teacher'));
+// lezárt kiosztásnál a szerver a kulcsos feladatot is küldi; ebből áll elő a megjelenítendő megoldás
+const solOf = (t: TaskRef) => (t.key ? solutions(t.key) : null);
 const go = (path: string) => { history.pushState(null, '', path); dispatchEvent(new PopStateEvent('popstate')); };
 
 export default function App() {
@@ -49,7 +53,15 @@ function AssignmentView({ code }: { code: string }) {
   const [sendErr, setSendErr] = useState('');
   const [confirmEmpty, setConfirmEmpty] = useState(false);
 
+  const [showKey, setShowKey] = useState(false);
   useEffect(() => { getAssignment(code, device).then(setA).catch(() => setErr('Nem sikerült betölteni a feladatot. Ellenőrizd az internetkapcsolatot, és töltsd újra az oldalt.')); }, [code, device]);
+  // beküldés után, ha a megoldás csak lezáráskor nyílik meg: időnként megnézzük, lezárta-e már a tanár (SPEC 4.1)
+  const waiting = !!s.result && !s.result.solutionsVisible && !!a?.found && a.status === 'open';
+  useEffect(() => {
+    if (!waiting) return;
+    const id = setInterval(() => { if (!document.hidden) getAssignment(code, device).then(setA).catch(() => {}); }, 15000);
+    return () => clearInterval(id);
+  }, [waiting, code, device]);
   const update = (f: (s: Saved) => Saved) => setS((old) => { const n = f(old); save(code, n); return n; });
 
   if (err) return <div className="page"><Header title="Matura" /><main><p className="warn">{err}</p></main></div>;
@@ -60,15 +72,21 @@ function AssignmentView({ code }: { code: string }) {
   // ---- eredmény ----
   if (s.result) {
     const r = s.result;
+    const visible = r.solutionsVisible || a.status === 'closed';
+    const gradedOf = (t: TaskRef): TaskResult | undefined => {
+      const g = r.tasks.find((x) => x.id === t.id);
+      return g && { ...g, solutions: r.solutionsVisible ? g.solutions : solOf(t) };
+    };
     return (<div className="page">
       <Header title="Eredmény" sub={s.nickname} />
       <main>
         <div className="card score-card"><div className="big">{r.score} / {r.max}</div><div>pont</div></div>
         {tasks.length > 1 && <ul className="tasklist">{r.tasks.map((t) => { const ref = tasks.find((x) => x.id === t.id)!; return <li key={t.id}>{SECTION[ref.section]} – {ref.content.number}. feladat<b>{t.score} / {t.max}</b></li>; })}</ul>}
-        {!r.solutionsVisible && <p className="warn">A megoldásokat a tanárod a lezárás után nyitja meg. Ugyanezt a linket ezen az eszközön újra megnyitva akkor megnézheted őket.</p>}
-        {r.solutionsVisible && tasks.map((t) => (<section key={t.id} className="graded">
+        {!visible && <p className="warn">A megoldásokat a tanárod a lezárás után nyitja meg. Ha nyitva hagyod ezt az oldalt, magától megjelennek; később ugyanezt a linket ezen az eszközön újra megnyitva is megnézheted őket.</p>}
+        {visible && !r.solutionsVisible && <p className="note">A tanárod lezárta a feladatot: lent látod a megoldást.</p>}
+        {visible && tasks.map((t) => (<section key={t.id} className="graded">
           <h2>{SECTION[t.section]} – {t.content.number}. feladat <span className="muted">{r.tasks.find((x) => x.id === t.id)?.score} / {t.points}</span></h2>
-          <Task task={t.content} ans={s.answers[t.id] || {}} set={() => {}} graded={r.tasks.find((x) => x.id === t.id)} />
+          <Task task={t.content} ans={s.answers[t.id] || {}} set={() => {}} graded={gradedOf(t)} audio={studentAudio(t, a)} />
         </section>))}
         <div className="actions">
           {a.status === 'open' && <button className="pill ghost" onClick={() => update((o) => ({ ...o, answers: {}, index: 0, result: null }))}>Újra kitöltöm gyakorlásként</button>}
@@ -77,7 +95,16 @@ function AssignmentView({ code }: { code: string }) {
     </div>);
   }
 
-  if (a.status === 'closed') return (<div className="page"><Header title="Matura" /><main><p className="warn">Ez a feladat lezárult, új megoldást már nem fogad.</p></main></div>);
+  // lezárt kiosztás, ezen az eszközön nincs beküldés: csak a feladat és a kulcs látszik (SPEC 4.1, 8.6)
+  if (a.status === 'closed') return (<div className="page"><Header title="Matura" sub={tasks[0] && label(tasks[0])} /><main>
+    <p className="warn">Ez a feladat lezárult, új megoldást már nem fogad.{s.started ? ' A válaszaidat nem küldted be, ezért pontszám nincs; lent összevetheted őket a megoldással.' : ''}</p>
+    {!showKey ? <div className="actions"><button className="pill primary" onClick={() => setShowKey(true)}>Megnézem a megoldást</button></div>
+      : tasks.map((t) => (<section key={t.id} className="graded">
+        <h2>{SECTION[t.section]} – {t.content.number}. feladat</h2>
+        <Task task={t.content} ans={s.answers[t.id] || {}} set={() => {}} keyOnly audio={studentAudio(t, a)}
+          graded={{ id: t.id, score: 0, max: 0, results: [], solutions: solOf(t) }} />
+      </section>))}
+  </main></div>);
 
   // ---- belépés ----
   if (!s.started) {
@@ -123,10 +150,8 @@ function AssignmentView({ code }: { code: string }) {
   };
 
   const audio = t.content.audio ? (a.audioMode === 'teacher'
-    ? <div className="note">A hanganyagot a tanár indítja. Figyeld a hangszórót.</div>
-    : t.content.audio.clip && AUDIO_BASE
-      ? <div className="audio"><audio controls preload="none" src={AUDIO_BASE + t.content.audio.clip.replace(/^hang\//, '')} /></div>
-      : <div className="note">A hanganyag még nincs feltöltve.</div>) : null;
+    ? <div className="note teacher-audio"><SpeakerIcon /><span>A hanganyagot a tanárod indítja. Figyeld a hangszórót.</span></div>
+    : studentAudio(t, a) || <div className="note">A hanganyag még nincs feltöltve.</div>) : null;
 
   return (<div className="page">
     <Header title={`${SECTION[t.section]} – ${t.content.number}. feladat`} sub={t.content.examType} right={`${doneN} / ${real(t).length}`} />
@@ -150,4 +175,13 @@ function AssignmentView({ code }: { code: string }) {
       </div>
     </footer>
   </div>);
+}
+
+const SpeakerIcon = () => (<svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+  <path d="M4 10v4h4l5 4V6L8 10H4z" /><path d="M16.5 9a4 4 0 010 6" /><path d="M19 6.5a8 8 0 010 11" /></svg>);
+
+/** A diák lejátszója: csak a „diák hallgatja” hangmódban, és csak ha van hangcím (SPEC 3.7). */
+function studentAudio(t: TaskRef, a: Assignment) {
+  const src = a.audioMode === 'student' ? clipUrl(t.content.audio?.clip) : '';
+  return src ? <div className="audio"><Player src={src} label="Hanganyag" /></div> : null;
 }
