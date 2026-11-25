@@ -37,4 +37,10 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón): `/k/MINTA24K`, `/k/MINTA2
 
 ## Állapot
 
-1. szakasz (diákoldal) – kód kész, helyben kipróbálva; az éles Supabase-re még nincs feltöltve.
+1. szakasz (diákoldal) – élesítve (2026-11-25):
+- Supabase `fjhwqynnlgjpjsfxncbj`: séma, 949 feladat, `submit` függvény; próba: `node tests/eles.ts <url> <publishable kulcs>` (minden pont RENDBEN).
+- Cloudflare Pages `matura` (`matura-7r4.pages.dev`), a `main` ágból automatikusan épül; gyökér `app`, `npm run build`, `dist`. Aldomain: `matura.mrandrewshub.com`.
+- Próbakiosztások élesben: `/k/MINTA24K`, `/k/MINTA24E`. Az adatbázisban próbabeküldések vannak („Proba”, „Elesproba” becenévvel); a 2. szakasz előtt törölhetők.
+- Hátravan az 1. szakaszból: valódi telefonos végigpróba élesben; a hang (R2) a 3. szakaszban.
+
+Élesítés menete: séma és tartalom `npx supabase db push --remote --include-seed --yes`, függvény `npx supabase functions deploy submit --remote=fjhwqynnlgjpjsfxncbj --use-api --yes` (a CLI éles módosítás előtt a felhasználó kifejezett jóváhagyását kéri). Az új projekt kulcsrendszere: a függvény a `SUPABASE_SECRET_KEYS`-t használja; az új táblákhoz a `service_role` jogát migráció adja.
