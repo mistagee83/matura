@@ -247,3 +247,9 @@
 .t-trow.me .t-tl::before { content: ''; width: 10px; height: 10px; border-radius: 999px; background: var(--sel-ink); }
 .t-cmp h3 { margin: 4px 0 8px; font-size: 16px; }
 .t-cmp + .t-cmp { border-top: 1px solid var(--sand); padding-top: 12px; }
+
+/* íráskészség: hivatkozás a Writing Review-ra */
+.t-writing { display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 22px; margin-top: 12px; }
+.t-writing h2 { margin: 0; font-size: 22px; }
+.t-writing p { margin: 0; line-height: 1.5; max-width: 68ch; }
+.t-writing .pill { text-decoration: none; margin-top: 6px; }

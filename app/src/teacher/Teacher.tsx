@@ -280,6 +280,7 @@ function Library() {
   const [groupId, setGroupId] = useState<string>(params.get('csoport') || '');
   const [level, setLevel] = useState<Level | ''>('');
   const [section, setSection] = useState<Section | ''>('');
+  const [writing, setWriting] = useState(false);
   const [type, setType] = useState('');
   const [yFrom, setYFrom] = useState(0), [yTo, setYTo] = useState(0);
   const [picked, setPicked] = useState<string[]>([]);
@@ -326,15 +327,17 @@ function Library() {
       <h1 className="t-h1 small">Feladattár</h1>
       <div className="t-filters" role="group" aria-label="Szűrők">
         <div className="t-chips">{chip(!level, 'Mindkét szint', () => setLevel(''))}{chip(level === 'közép', 'Közép', () => setLevel('közép'))}{chip(level === 'emelt', 'Emelt', () => setLevel('emelt'))}</div>
-        <div className="t-chips">{chip(!section, 'Minden rész', () => { setSection(''); setType(''); })}
-          {SECTIONS.map((s) => <span key={s}>{chip(section === s, SECTION[s], () => { setSection(s); setType(''); })}</span>)}</div>
-        <div className="t-selects">
+        <div className="t-chips">{chip(!section && !writing, 'Minden rész', () => { setWriting(false); setSection(''); setType(''); })}
+          {SECTIONS.map((s) => <span key={s}>{chip(!writing && section === s, SECTION[s], () => { setWriting(false); setSection(s); setType(''); })}</span>)}
+          {chip(writing, 'Íráskészség', () => setWriting(true))}</div>
+        {!writing && <div className="t-selects">
           <label>Feladattípus<select value={type} onChange={(e) => setType(e.target.value)}>
             <option value="">Minden típus</option>{types.map(([t, n]) => <option key={t} value={t}>{t} ({n})</option>)}</select></label>
           <label>Évtől<select value={yFrom} onChange={(e) => setYFrom(+e.target.value)}><option value={0}>{years[0]}</option>{years.map((y) => <option key={y} value={y}>{y}</option>)}</select></label>
           <label>Évig<select value={yTo} onChange={(e) => setYTo(+e.target.value)}><option value={0}>{years[years.length - 1]}</option>{years.map((y) => <option key={y} value={y}>{y}</option>)}</select></label>
-        </div>
+        </div>}
       </div>
+      {writing ? <WritingCard /> : <>
       <p className="muted t-count" aria-live="polite">{list.length} feladat a szűrők szerint</p>
       <ul className="t-tasks">{list.slice(0, limit).map((t) => {
         const on = picked.includes(t.id);
@@ -350,6 +353,7 @@ function Library() {
       })}</ul>
       {list.length > limit && <button className="pill ghost t-more" onClick={() => setLimit(limit + 40)}>Még {Math.min(40, list.length - limit)} feladat</button>}
       {list.length === 0 && <p className="note">Ezekkel a szűrőkkel nincs feladat. Lazíts valamelyiken.</p>}
+      </>}
     </main>
 
     <aside className="t-side" aria-label="Kiosztás">
@@ -383,6 +387,18 @@ function Library() {
 
     {preview && <Preview t={preview} picked={picked.includes(preview.id)} toggle={() => toggle(preview.id)} close={() => setPreview(null)} />}
   </div>);
+}
+
+// Íráskészség: az érettségi írásfeladatai nem a Maturában, hanem a Hub Writing Review appjában vannak (SPEC 1. „Későbbi
+// irány”). A link paraméter nélkül megy, és a hivatkozót sem adja át (a feladattár címében csoportazonosító lehet).
+const WRITING_REVIEW_URL = 'https://review.mrandrewshub.com/#matura';
+function WritingCard() {
+  return (<section className="card t-writing" aria-labelledby="wr-h">
+    <h2 id="wr-h">Az írásfeladatok a Writing Review-ban vannak</h2>
+    <p>A 2005–2026-os érettségik írásfeladatai (közép- és emelt szint, levél és fogalmazás) nem a Maturában, hanem a Writing Review érettségi feladattárában vannak. Ott kiválasztod a feladatot, a diákok a linkeden becenévvel írnak, az értékelés a hivatalos érettségi szempontok szerint megy, és a visszajelzést te hagyod jóvá.</p>
+    <p className="muted small">A Writing Review a Mr. Andrew's EdTech Hub része, saját fiókkal működik; az érettségi feladattár a Hub pass része. A Maturából semmilyen adat nem megy át.</p>
+    <a className="pill primary" href={WRITING_REVIEW_URL} target="_blank" rel="noopener noreferrer" referrerPolicy="no-referrer">Megnyitom a Writing Review-t</a>
+  </section>);
 }
 
 function Preview({ t, picked, toggle, close }: { t: LibTask; picked: boolean; toggle: () => void; close: () => void }) {

@@ -36,7 +36,7 @@ A tanár kiválaszt egy vagy több érettségi feladatot, megosztja a csoportjá
 
 Önálló gyakorlás tanár nélkül, fizetős formában, szülőknek és diákoknak. Az adatmodellnek ezt nem szabad kizárnia (a kiosztás csoport nélkül is létezhessen), de az első változat nem tartalmazza.
 
-Íráskészség a hub Writing Review appjában (ötlet, 2026-11-25; később kidolgozandó): az érettségi írásfeladatai nem a Maturába kerülnek, hanem a Writing Review appba (ahová fel kell majd tölteni őket). A Maturában az íráskészség helyén egy helyőrző vagy hivatkozás áll, amely oda vezet („ha az írás is érdekel, itt találod”). Egyben a Writing Review felé vezető ajánló is.
+Íráskészség a hub Writing Review appjában (2026-11-25; a Matura oldali link kész 2026-11-26): az érettségi írásfeladatai nem a Maturába kerülnek, hanem a Writing Review érettségi feladattárába (a terv és a megvalósítás a Writing Review tárolójában: `docs/erettsegi-feladattar-terv.md`). A Matura feladattárában a vizsgarész-szűrők között egy „Íráskészség” elem áll; nem szűr, hanem egy kártyát mutat, amely elmondja, hogy az írásfeladatok a Writing Review-ban vannak, és odavisz: `https://review.mrandrewshub.com/#matura`, paraméter nélkül, hivatkozó nélkül (`noreferrer`), új lapon. A Maturából semmilyen azonosító nem megy át (SPEC 11., 18. döntés). Később, nem most: feladatsorhoz kötött mélylink (`feladattar.html?vizsga=<feladatsor>`).
 
 ---
 
