@@ -25,6 +25,42 @@ export async function getAssignment(code: string, deviceId: string): Promise<Ass
   return r.json();
 }
 
+// ---- önálló gyakorlás (SPEC 4.4): tanár, kód és becenév nélkül ----
+export interface CatalogTask { id: string; examId: string; section: TaskRef['section']; number: number; examType: string | null; points: number;
+  position: number; year: number; session: string; level: 'közép' | 'emelt' }
+export interface PracticeResult extends TaskResult { solutions: Record<string, any> }
+
+let catalogCache: Promise<CatalogTask[]> | null = null;
+export function getCatalog(): Promise<CatalogTask[]> {
+  if (!catalogCache) {
+    catalogCache = (async () => {
+      if (sb) { const { data, error } = await sb.rpc('practice_catalog'); if (error) throw error; return data as CatalogTask[]; }
+      const r = await fetch('/dev-api/catalog'); if (!r.ok) throw new Error('HTTP ' + r.status); return r.json();
+    })();
+    catalogCache.catch(() => { catalogCache = null; });
+  }
+  return catalogCache;
+}
+
+export async function getPracticeTask(id: string): Promise<TaskRef | null> {
+  if (sb) { const { data, error } = await sb.rpc('practice_task', { p_id: id }); if (error) throw error; return (data as TaskRef) || null; }
+  const r = await fetch('/dev-api/practice-task?id=' + encodeURIComponent(id));
+  if (r.status === 404) return null;
+  if (!r.ok) throw new Error('HTTP ' + r.status);
+  return r.json();
+}
+
+export async function submitPractice(taskId: string, answers: Record<string, unknown>): Promise<PracticeResult> {
+  let r: Response;
+  try {
+    r = await fetch(sb ? `${URL_}/functions/v1/practice` : '/dev-api/practice', { method: 'POST',
+      headers: { 'Content-Type': 'application/json', ...(sb ? { apikey: KEY! } : {}) }, body: JSON.stringify({ taskId, answers }) });
+  } catch { throw new SubmitError('network'); }
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok) throw new SubmitError(data.error || 'http_' + r.status);
+  return data as PracticeResult;
+}
+
 export class SubmitError extends Error { constructor(public reason: string) { super(reason); } }
 
 export async function submit(code: string, nickname: string, deviceId: string, answers: Record<string, Record<string, unknown>>): Promise<SubmitResult> {

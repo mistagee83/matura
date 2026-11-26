@@ -89,3 +89,5 @@
 .l-student { margin: 18px 0 0; font-size: 15px; color: #D6E3DE; }
 .l-student a { color: var(--yellow); font-weight: 600; }
 .l-code { scroll-margin-top: 16px; }
+.l-solo { margin: 14px 0 0; text-align: center; }
+.l-solo a { color: var(--sel-ink); font-weight: 600; }

@@ -5,6 +5,10 @@ project_id = "matura"
 # a diákok nem jelentkeznek be: a függvény maga ellenőrzi a kódot, a becenevet és az eszközazonosítót
 verify_jwt = false
 
+[functions.practice]
+# önálló gyakorlás: nincs belépés; a függvény a feladatazonosítót ellenőrzi, és csak névtelen darabszámot ment
+verify_jwt = false
+
 [db.seed]
 enabled = true
 sql_paths = ["./seed.sql"]

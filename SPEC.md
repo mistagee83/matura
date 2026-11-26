@@ -34,7 +34,7 @@ A tanár kiválaszt egy vagy több érettségi feladatot, megosztja a csoportjá
 
 ### Későbbi irány
 
-Önálló gyakorlás tanár nélkül, fizetős formában, szülőknek és diákoknak. Az adatmodellnek ezt nem szabad kizárnia (a kiosztás csoport nélkül is létezhessen), de az első változat nem tartalmazza.
+Önálló gyakorlás tanár nélkül, fizetős formában, szülőknek és diákoknak. Az adatmodellnek ezt nem szabad kizárnia (a kiosztás csoport nélkül is létezhessen), de az első változat nem tartalmazza. Első lépésként, a kereslet felmérésére, elkészült az ingyenes, fiók nélküli gyakorló mód (4.4, 11. fejezet 22. döntés). A fizetős változat külön termék lesz, saját folyamattal; a márka, a fiókok, az üzemeltető és a jogi keret még nyitott, és nem a Hubon jelenik meg.
 
 Íráskészség a hub Writing Review appjában (2026-11-25; a Matura oldali link kész 2026-11-26): az érettségi írásfeladatai nem a Maturába kerülnek, hanem a Writing Review érettségi feladattárába (a terv és a megvalósítás a Writing Review tárolójában: `docs/erettsegi-feladattar-terv.md`). A Matura feladattárában a vizsgarész-szűrők között egy „Íráskészség” elem áll; nem szűr, hanem egy kártyát mutat, amely elmondja, hogy az írásfeladatok a Writing Review-ban vannak, és odavisz: `https://review.mrandrewshub.com/#matura`, paraméter nélkül, hivatkozó nélkül (`noreferrer`), új lapon. A Maturából semmilyen azonosító nem megy át (SPEC 11., 18. döntés). Később, nem most: feladatsorhoz kötött mélylink (`feladattar.html?vizsga=<feladatsor>`).
 
@@ -347,6 +347,17 @@ Több feladatból álló kiosztásnál a feladatok egymás után jönnek, a diá
 
 A statisztikába eszközönként csak az első beküldés számít (lásd 6. fejezet).
 
+### 4.4 Önálló gyakorlás (ingyenes, fiók nélkül)
+
+Tanár, kód, becenév és regisztráció nélkül. Célja a kereslet felmérése: hányan használják az appot tanár nélkül, és melyik vizsgarészt gyakorolják.
+
+- **Belépés:** a nyitóoldal diákdobozában, a kódbeíró alatt „Gyakorolj egyedül” link, és a hibás kód oldalán „Gyakorlok egyedül” gomb; cím: `/gyakorlas`.
+- **Feladatválasztás:** szint (közép vagy emelt) és vizsgarész (mind, olvasás, nyelvhelyesség, hallás) szerint szűrt lista, feladatsoronként csoportosítva, a legfrissebb vizsgával kezdve. „Adj egy feladatot”: véletlen, ezen az eszközön még meg nem oldott feladat a szűrésből. A szűrést az eszköz megjegyzi.
+- **Megoldás:** egy feladat egyszerre (`/gyakorlas/<feladatazonosító>`). A hangot mindig a diák indítja a saját eszközén. „Ellenőrzöm”: ha van üres kérdés, előbb jelzi, és megerősítést kér.
+- **Javítás:** a szerveren, ugyanazzal a javítóval, mint a kiosztásnál (`practice` Edge Function). Az eredmény a megoldással együtt azonnal jön. Utána: „Újra megoldom”, „Következő feladat” (a lista sorrendjében, a szűrés szerint), „Vissza a feladatokhoz”.
+- **Haladás:** a válaszok, az utolsó eredmény és a szűrés csak az eszközön, a böngészőben tárolódik. A listában a megoldott feladatok mellett az utolsó pontszám látszik. Más eszközre nem viszi át, és a böngészőadatok törlésével elvész; ez az ára annak, hogy nincs fiók.
+- **Íráskészség:** egyelőre nincs benne. Terv: a feladat, a hivatalos értékelési szempontok és egy önellenőrző lista, beküldés és MI-értékelés nélkül. Az MI-értékelés a fizetős változat része lehet (a Gemini feltételei 18 év alatti felhasználóknak szóló szolgáltatásban nem engedik).
+
 ---
 
 ## 5. Adatmodell
@@ -361,6 +372,7 @@ A statisztikába eszközönként csak az első beküldés számít (lásd 6. fej
 | `assignment_tasks` | kiosztás, feladat, sorrend |
 | `submissions` | kiosztás, becenév, eszközazonosító, pontszám, beszámít-e a statisztikába, időpont |
 | `answers` | beküldés, feladat, item, adott válasz, eredmény (`ok`, `typo`, `bad`) |
+| `practice_runs` | önálló gyakorlás (4.4): feladat, pontszám, időpont; becenév, eszközazonosító és válasz nélkül |
 
 A statisztikák az `answers` táblából számolódnak; külön összesítő táblára az első változatban nincs szükség.
 
@@ -371,6 +383,7 @@ A statisztikák az `answers` táblából számolódnak; külön összesítő tá
 - **A megoldókulcs nem kerülhet a diák eszközére a beküldés előtt.** A diák a feladatot kulcs nélkül kapja, a javítást a szerver végzi. (A prototípusban a kulcs a letöltött fájlban van; ez éles rendszerben nem megengedett.)
 - **Diákadat:** csak a becenév és egy véletlen eszközazonosító. A felület kéri, hogy a diák ne a valódi nevét írja be.
 - **Eszközazonosító:** a böngészőben tárolt véletlen érték, kizárólag arra, hogy kiosztásonként az első beküldést meg lehessen különböztetni az ismétlésektől. Kiosztások között nem kapcsolja össze a diákot.
+- **Önálló gyakorlás (4.4):** a szerver semmit nem tárol, ami a diákra utal. A `practice_runs` napló csak azt rögzíti, melyik feladatot oldották meg, hány pontra és mikor; a válaszok és az eszköz nem kerülnek bele. A böngészőből senki sem olvassa.
 - **Hozzáférés:** a tanár csak a saját csoportjait, kiosztásait és eredményeit látja. A diák csak a saját beküldésének eredményét.
 - **Törlés:** a tanár törölhet beküldést, kiosztást és csoportot, az eredményekkel együtt.
 - **Kódok:** a megosztó kód nem kitalálható sorozat; lezárás után új beküldést nem fogad.
@@ -634,6 +647,7 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
     - Vizsgarészenként és feladattípusonként (a feladattár `exam_type` neve szerint, szinttől függetlenül), a leggyengébbtől. A leggyengébb típus akkor van kiemelve, ha legalább két típusról van adat; az 50% alatti sorok „nehéz” színt kapnak. Három kiosztás alatt a felület jelzi, hogy a kép még kevés adatra épül.
     - Összevetés: azok a feladatok, amelyeket a csoport és a tanár legalább egy másik csoportja is megoldott; csoportonként a helyes arány és a kitöltők száma. Archivált csoport is szerepel.
     - Adat: `group_trends()` (a tanár jogával fut, a sorszintű szabály szerint csak a saját csoportjairól; csoport × feladat soronként kiosztás-, kitöltő-, kérdés- és helyes-szám); a részenkénti és típusonkénti összesítést a felület végzi (`app/src/teacher/trends.ts`). Külön összesítő tábla nincs (5. fejezet).
+22. **Ingyenes önálló gyakorló mód (2026-11-26):** a megrendelő kérésére a fizetős önálló termék előtt egy ingyenes, fiók nélküli mód készül a kereslet felmérésére (4.4). Indok: nem kell hozzá vállalkozás, ÁSZF, fizetés és adatkezelési tájékoztató, mert nincs mit eladni, és a szerver nem tárol a diákra utaló adatot. A meglévő feladatokra és javítóra épül. A tanórás próbától (3. szakasz) független.
 
 ### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő mind az ötöt megerősítette, 2026-11-26)
 

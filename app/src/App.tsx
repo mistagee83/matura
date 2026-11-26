@@ -1,6 +1,8 @@
 // A diák útja (SPEC 4.1, 8.6): kód → belépés becenévvel → feladat(ok) → beküldés → eredmény.
-// Címek: /  (nyitóoldal, rajta a kód beírása: Landing.tsx) és /k/<kód> (a kiosztás).
+// Címek: /  (nyitóoldal, rajta a kód beírása: Landing.tsx), /k/<kód> (a kiosztás); önálló gyakorlás: /gyakorlas (Practice.tsx, SPEC 4.4).
 import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
+import Practice from './Practice';
+import { Header, go } from './ui';
 import { getAssignment, submit, SubmitError, type Assignment, type TaskRef, type TaskResult } from './api';
 import { solutions } from '../../supabase/functions/_shared/grade';
 import Player, { clipUrl } from './Player';
@@ -15,19 +17,14 @@ const label = (t: TaskRef) => `${t.exam.year}. ${t.exam.session}, ${t.exam.level
 const Teacher = lazy(() => import('./teacher/Teacher'));
 // lezárt kiosztásnál a szerver a kulcsos feladatot is küldi; ebből áll elő a megjelenítendő megoldás
 const solOf = (t: TaskRef) => (t.key ? solutions(t.key) : null);
-const go = (path: string) => { history.pushState(null, '', path); dispatchEvent(new PopStateEvent('popstate')); };
 
 export default function App() {
   const [path, setPath] = useState(location.pathname);
   useEffect(() => { const f = () => setPath(location.pathname); addEventListener('popstate', f); return () => removeEventListener('popstate', f); }, []);
   if (path === '/tanar' || path.startsWith('/tanar/')) return <Suspense fallback={null}><Teacher path={path} /></Suspense>;
+  if (path === '/gyakorlas' || path.startsWith('/gyakorlas/')) return <Practice path={path} />;
   const m = /^\/k\/([A-Za-z0-9]+)\/?$/.exec(path);
   return m ? <AssignmentView key={m[1]} code={m[1].toUpperCase()} /> : <Landing />;
-}
-
-function Header({ title, sub, right }: { title: string; sub?: string; right?: string }) {
-  return (<header className="top"><div className="brand">Mr. Andrew's <b>Matura</b></div>
-    <div className="htitle"><span>{title}</span>{sub && <small>{sub}</small>}</div>{right && <span className="prog">{right}</span>}</header>);
 }
 
 function CodeEntry({ invalid }: { invalid?: string }) {
@@ -41,6 +38,10 @@ function CodeEntry({ invalid }: { invalid?: string }) {
         <label className="field">Kód<input value={code} onChange={(e) => setCode(e.target.value)} autoCapitalize="characters" autoComplete="off" spellCheck={false} /></label>
         <button className="pill primary" disabled={!code.trim()}>Megnyitom a feladatot</button>
       </form>
+      <div className="solo">
+        <p><b>Nincs kódod?</b> Gyakorolj egyedül a 2005–2026-os érettségik feladataival. Regisztrálnod nem kell.</p>
+        <button className="pill ghost" onClick={() => go('/gyakorlas')}>Gyakorlok egyedül</button>
+      </div>
       {!invalid && <p className="hint teacher-link">Tanár vagy? <a href="/tanar" onClick={(e) => { e.preventDefault(); go('/tanar'); }}>Itt lépsz be</a>, és kiosztod a feladatot.</p>}
     </div>
   </div>);

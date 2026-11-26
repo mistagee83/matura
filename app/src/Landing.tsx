@@ -25,6 +25,7 @@ function CodeBox() {
     <p>Fiók nem kell, elég egy becenév: a tanárod ezen látja a megoldásodat.</p>
     <label className="field">Kód<input value={code} onChange={(e) => setCode(e.target.value)} autoCapitalize="characters" autoComplete="off" spellCheck={false} placeholder="pl. K7QM4X" /></label>
     <button className="pill dark" disabled={!code.trim()}>Megnyitom a feladatot</button>
+    <p className="l-solo">Nincs kódod? <a href="/gyakorlas" onClick={(e) => { e.preventDefault(); go('/gyakorlas'); }}>Gyakorolj egyedül</a>, regisztráció nélkül.</p>
   </form>);
 }
 

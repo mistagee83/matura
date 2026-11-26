@@ -1,6 +1,6 @@
 import { defineConfig, type Plugin } from 'vite';
 import react from '@vitejs/plugin-react';
-import { readFileSync, existsSync, statSync, createReadStream } from 'node:fs';
+import { readFileSync, readdirSync, existsSync, statSync, createReadStream } from 'node:fs';
 import { join } from 'node:path';
 import { randomUUID } from 'node:crypto';
 import { gradeTask, publicTask, solutions } from '../supabase/functions/_shared/grade';
@@ -66,6 +66,30 @@ function devApi(): Plugin {
             }
             submitted.add(b.code + b.deviceId);
             setTimeout(() => send(200, { score, max, tasks, solutionsVisible: b.vis !== 'after_close', id: randomUUID() }), 300);
+          });
+          return;
+        }
+        // önálló gyakorlás: a feladattár listája, egy feladat kulcs nélkül, és egy feladat javítása (élesben: practice_catalog(),
+        // practice_task(), a `practice` Edge Function)
+        const all = () => readdirSync(dir).filter((f) => f.endsWith('.json')).map((f) => load(f.replace(/\.json$/, '')));
+        const lvl = (e: any) => (e.level === 'kozep' ? 'közép' : e.level);
+        const findTask = (id: string) => { const e = load(id.replace(/-[RLH]\d+$/, '')); if (!e) return null;
+          for (const s of e.sections) for (const t of s.tasks) if (t.id === id) return { e, s, t }; return null; };
+        if (url.pathname === '/catalog') {
+          return send(200, all().flatMap((e: any) => { let pos = 0; return e.sections.flatMap((s: any) => s.tasks.map((t: any) => ({ id: t.id, examId: e.id,
+            section: s.id, number: t.number, examType: t.examType || null, points: t.points, position: pos++, year: e.year, session: e.session, level: lvl(e) }))); }));
+        }
+        if (url.pathname === '/practice-task') {
+          const f = findTask(url.searchParams.get('id') || '');
+          if (!f) return send(404, null);
+          return send(200, { id: f.t.id, examId: f.e.id, section: f.s.id, points: f.t.points, exam: { year: f.e.year, session: f.e.session, level: lvl(f.e) }, content: publicTask(f.t) });
+        }
+        if (url.pathname === '/practice' && req.method === 'POST') {
+          let raw = ''; req.on('data', (c) => (raw += c)); req.on('end', () => {
+            const b = JSON.parse(raw || '{}'), f = findTask(String(b.taskId || ''));
+            if (!f) return send(404, { error: 'not_found' });
+            const g = gradeTask(f.t, b.answers || {});
+            setTimeout(() => send(200, { id: f.t.id, score: g.score, max: g.max, results: g.results, solutions: solutions(f.t) }), 300);
           });
           return;
         }
