@@ -64,8 +64,8 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón, `.env.local` nélkül vagy
 - Élő nézet: Supabase Realtime, tartalékként 20 mp-es lekérdezés. Lezárás és újranyitás a tanári felületről (`assignments.status`). A diák a lezárás után a kulcsból (`solutions()` a `grade.ts`-ből, a kliensen) látja a megoldást; beküldött, „lezárás után” kiosztásnál 15 mp-enként ellenőrzi a lezárást.
 - Próbák élesben (2026-11-25): `tests/tanar.ts` 53/53 RENDBEN (próbafiókok: proba3@matura.test, proba4@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `tests/eles.ts` RENDBEN, `grade.test.ts` RENDBEN. A régi próbafiókok (proba1, proba2) jelszava nincs meg; törölhetők.
 
-4. szakasz (csoportszintű trendek) – elkészült (2026-11-26), élesítésre vár:
+4. szakasz (csoportszintű trendek) – élesítve (2026-11-26); a megrendelő elfogadási próbája hátravan:
 - Migráció: `…06_trendek.sql` (`group_trends()`, security invoker). Felület: a csoport oldala (`GroupView`), a csoportkártyáról és a statisztikából nyílik. Döntések: SPEC 11., 21.
-- Próba: `trendek.test.ts` RENDBEN; `tests/tanar.ts` bővítve (trendek, leggyengébb típus, összevetés, B és anon elkülönítése), élesben még nem futott.
+- Próbák élesben (2026-11-26): `tests/tanar.ts` 63/63 RENDBEN (próbafiókok: proba5@matura.test, proba6@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `trendek.test.ts` és `grade.test.ts` RENDBEN. A proba3 és proba4 fiók is törölhető.
 
 Élesítés menete: séma és tartalom `npx supabase db push --remote --include-seed --yes` (csak séma: `--include-seed` nélkül), függvény `npx supabase functions deploy submit --remote=fjhwqynnlgjpjsfxncbj --use-api --yes` (a CLI éles módosítás előtt a felhasználó kifejezett jóváhagyását kéri). Az új projekt kulcsrendszere: a függvény a `SUPABASE_SECRET_KEYS`-t használja; az új táblákhoz a `service_role` jogát migráció adja.
