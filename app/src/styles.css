@@ -1,8 +1,11 @@
 /* Matura – a Mr. Andrew's EdTech Hub dizájnrendszere alapján (SPEC 8.). Telefonra tervezve, 360 px-től. */
+/* A címsorok betűje: a Fredoka 600 saját példánya az ő, ű, Ő, Ű betűvel, amely a Google Fontsról letölthetőből hiányzik
+   (eszkozok/fredoka-hu.py; SIL Open Font License 1.1, public/fonts/OFL.txt). */
+@font-face { font-family: 'Fredoka Matura'; font-weight: 600; font-style: normal; font-display: swap; src: url('/fonts/fredoka-matura-600.woff2') format('woff2'); }
 :root {
   --board: #23423A; --deep: #17302A; --yellow: #F2C14E; --cream: #FBF6EA; --white: #FFFFFF; --sand: #E8DFC8; --muted: #4E5F59;
   --sel-bg: #D9F0EA; --sel-ink: #1F5C4F; --ok-bg: #DDF1E6; --ok-ink: #1E6B4C; --bad-bg: #F9DCDA; --bad-ink: #8C2A26; --warn-bg: #FBE9C8; --warn-ink: #7A4E08;
-  --ui: 'Shantell Sans', system-ui, sans-serif; --head: 'Fredoka', system-ui, sans-serif; --exam: 'Atkinson Hyperlegible', system-ui, sans-serif;
+  --ui: 'Shantell Sans', system-ui, sans-serif; --head: 'Fredoka Matura', system-ui, sans-serif; --exam: 'Atkinson Hyperlegible', system-ui, sans-serif;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }

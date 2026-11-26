@@ -10,6 +10,7 @@ A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D
 |---|---|
 | `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Nyitóoldal: `/` (`app/src/Landing.tsx`, benne a diák kódbeírója); diák: `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny`; csoport oldala (trendek, összevetés): `/tanar/csoport/<id>` |
 | `app/src/Player.tsx` | hanglejátszó (diák és tanár); a hang címe `VITE_AUDIO_BASE` + a `audio.clip` fájlneve |
+| `eszkozok/fredoka-hu.py` | a címsorok betűje (Fredoka 600) az ő, ű, Ő, Ű betűvel, amely a Google Fontsról letölthetőből hiányzik; kimenet: `app/public/fonts/fredoka-matura-600.woff2` (OFL 1.1, a licenc mellette). A Fredokát ezért nem a Google Fontsról töltjük. |
 | `eszkozok/hang-feltoltes.ts` | a kivágott hangok feltöltése az R2 `matura-hang` tárolóba (wrangler) |
 | `app/src/teacher/trends.ts` | a csoportszintű trendek számolása (részenként, típusonként, leggyengébb típus, összevetés); a felület és a próbák is ezt használják |
 | `supabase/migrations/` | adatbázis-séma és jogosultságok |
