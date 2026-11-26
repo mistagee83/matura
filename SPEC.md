@@ -634,7 +634,7 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
     - Összevetés: azok a feladatok, amelyeket a csoport és a tanár legalább egy másik csoportja is megoldott; csoportonként a helyes arány és a kitöltők száma. Archivált csoport is szerepel.
     - Adat: `group_trends()` (a tanár jogával fut, a sorszintű szabály szerint csak a saját csoportjairól; csoport × feladat soronként kiosztás-, kitöltő-, kérdés- és helyes-szám); a részenkénti és típusonkénti összesítést a felület végzi (`app/src/teacher/trends.ts`). Külön összesítő tábla nincs (5. fejezet).
 
-### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő megerősítésére várnak)
+### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő mind az ötöt megerősítette, 2026-11-26)
 
 1. **Hibás szó javítása:** a pont a helyes szóért jár, a hibás szó megjelölése nem feltétele (3.5). Ez eltér a korábbi tervtől („mindkettő jó”), mert az útmutatók így rendelkeznek.
 2. **Képes feladatok:** a két képpárosítós hallásfeladat kimarad (3.3), a lap többi feladata bent van.
