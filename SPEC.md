@@ -644,7 +644,7 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 
 ### A független ellenőrzésből nyitva maradt kérdések
 
-1. **2005. május emelt, nyelvhelyesség 3., 26. kérdés:** a PDF szövegrétege szerint az alapszó `lucky`, az ellenőrzés szerint az oldal képén `unlucky` áll (a megoldás `unlucky`). A fájlban a szövegréteg szerinti `lucky` maradt; a nyomtatott lapon kell megnézni.
+1. **2005. május emelt, nyelvhelyesség 3., 26. kérdés:** a PDF szövegrétege szerint az alapszó `lucky`, az ellenőrzés szerint az oldal képén `unlucky` áll (a megoldás `unlucky`). A fájlban a szövegréteg szerinti `lucky` maradt. Eldöntve (megrendelő, 2026-11-26): a nyomtatott lapon `lucky` áll, a fájl helyes; az ellenőrzés jelzése téves volt.
 2. **2005. május emelt, hallás 3., 27–28. kérdés:** az útmutató szerint a két válasznak két különböző tulajdonságot kell megneveznie (pl. `blond hair` és `blue-eyed`); ezt a formátum nem tudja kifejezni, a feladat megjegyzése jelzi.
 3. **2008. május közép, olvasás 1.:** a feladatban két példa van; a második a szövegben kitöltve látszik, külön példaitem nélkül.
 4. **2008. október emelt, hallás 1., 3. kérdés:** az útmutató a `September 11` / `September 11th` mellett „egyéb érthető megoldásokat” is elfogad, de nem sorolja fel őket; a fájlban csak a két megnevezett alak van. Bővítve (megrendelő jóváhagyásával, 2026-11-25): Sept + eleventh.
