@@ -48,7 +48,7 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón, `.env.local` nélkül vagy
 1. szakasz (diákoldal) – élesítve (2026-11-25):
 - Supabase `fjhwqynnlgjpjsfxncbj`: séma, 949 feladat, `submit` függvény; próba: `node tests/eles.ts <url> <publishable kulcs>` (minden pont RENDBEN).
 - Cloudflare Pages `matura` (`matura-7r4.pages.dev`), a `main` ágból automatikusan épül; gyökér `app`, `npm run build`, `dist`. Aldomain: `matura.mrandrewshub.com`.
-- Próbakiosztások élesben: `/k/MINTA24K`, `/k/MINTA24E`. Az adatbázisban próbabeküldések vannak („Proba”, „Elesproba” becenévvel); a 2. szakasz előtt törölhetők.
+- Próbakiosztások élesben: `/k/MINTA24K`, `/k/MINTA24E`. A próbabeküldések törölve (2026-11-26).
 - A megrendelő telefonon élesben kipróbálta, működik (2026-11-25): az 1. szakasz lezárva. A hang (R2) a 3. szakaszban jön.
 - A felület nyelve magyar marad (a megrendelő megerősítette, 2026-11-25).
 
@@ -62,10 +62,10 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón, `.env.local` nélkül vagy
 - Hang: mind a 273 fájl az R2 `matura-hang` tárolóban, nyilvános aldomain `https://matura-hang.mrandrewshub.com/` (wrangler r2 bucket domain, zóna: mrandrewshub.com). A jogi kérdést a megrendelő lezárta (SPEC 11., 19.).
 - Migrációk: `…04_elo.sql` (Realtime a submissions táblára; `get_assignment()` lezárt kiosztásnál a kulcsos feladatot is adja `key` mezőben; `assignment_stats()`), `…05_stat_javitas.sql` (csak a beírós válaszokat kisbetűsíti).
 - Élő nézet: Supabase Realtime, tartalékként 20 mp-es lekérdezés. Lezárás és újranyitás a tanári felületről (`assignments.status`). A diák a lezárás után a kulcsból (`solutions()` a `grade.ts`-ből, a kliensen) látja a megoldást; beküldött, „lezárás után” kiosztásnál 15 mp-enként ellenőrzi a lezárást.
-- Próbák élesben (2026-11-25): `tests/tanar.ts` 53/53 RENDBEN (próbafiókok: proba3@matura.test, proba4@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `tests/eles.ts` RENDBEN, `grade.test.ts` RENDBEN. A régi próbafiókok (proba1, proba2) jelszava nincs meg; törölhetők.
+- Próbák élesben (2026-11-25): `tests/tanar.ts` 53/53 RENDBEN (próbafiókok: proba3@matura.test, proba4@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `tests/eles.ts` RENDBEN, `grade.test.ts` RENDBEN. A próbafiókok (proba1–proba6) törölve (2026-11-26); új próbához két új fiók kell.
 
 4. szakasz (csoportszintű trendek) – élesítve (2026-11-26); a megrendelő elfogadási próbája hátravan:
 - Migráció: `…06_trendek.sql` (`group_trends()`, security invoker). Felület: a csoport oldala (`GroupView`), a csoportkártyáról és a statisztikából nyílik. Döntések: SPEC 11., 21.
-- Próbák élesben (2026-11-26): `tests/tanar.ts` 63/63 RENDBEN (próbafiókok: proba5@matura.test, proba6@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `trendek.test.ts` és `grade.test.ts` RENDBEN. A proba3 és proba4 fiók is törölhető.
+- Próbák élesben (2026-11-26): `tests/tanar.ts` 63/63 RENDBEN (próbafiókok: proba5@matura.test, proba6@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `trendek.test.ts` és `grade.test.ts` RENDBEN. A próba után mind a hat próbafiók, a MINTA24K/E 19 próbabeküldése és a „Próba 12.B” csoport törölve (2026-11-26).
 
 Élesítés menete: séma és tartalom `npx supabase db push --remote --include-seed --yes` (csak séma: `--include-seed` nélkül), függvény `npx supabase functions deploy submit --remote=fjhwqynnlgjpjsfxncbj --use-api --yes` (a CLI éles módosítás előtt a felhasználó kifejezett jóváhagyását kéri). Az új projekt kulcsrendszere: a függvény a `SUPABASE_SECRET_KEYS`-t használja; az új táblákhoz a `service_role` jogát migráció adja.
