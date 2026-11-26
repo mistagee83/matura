@@ -229,3 +229,21 @@
 .t-qrow.hard .t-qw { font-weight: 600; }
 .t-qrow.hard .t-bar { background: var(--hot-bg); }
 .t-qrow.hard .t-bar span { background: var(--coral); }
+
+/* 4. szakasz: csoportszintű trendek */
+.t-gbody a.t-gname { color: inherit; text-decoration: none; }
+.t-gbody a.t-gname:hover { text-decoration: underline; }
+.t-glinks { display: flex; flex-wrap: wrap; gap: 4px 16px; }
+.t-link.small { font-size: 13px; min-height: 0; padding: 0; }
+.t-tilesm { display: block; font-size: 17px !important; max-width: 300px; line-height: 1.25; }
+.t-trend { display: flex; flex-direction: column; gap: 8px; overflow-x: auto; }
+.t-trow { display: grid; grid-template-columns: minmax(180px, 1.4fr) minmax(120px, 1fr) 52px minmax(130px, .8fr); gap: 12px; align-items: center; font-size: 14px; min-width: 540px; }
+.t-tl { font-weight: 600; display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; }
+.t-tl .t-tag { font-size: 11px; }
+.t-trow.hard .t-tl, .t-trow.hard .t-qp { color: var(--hot-ink); }
+.t-trow.hard .t-bar { background: var(--hot-bg); }
+.t-trow.hard .t-bar span { background: var(--coral); }
+.t-trow.me .t-tl { color: var(--sel-ink); }
+.t-trow.me .t-tl::before { content: ''; width: 10px; height: 10px; border-radius: 999px; background: var(--sel-ink); }
+.t-cmp h3 { margin: 4px 0 8px; font-size: 16px; }
+.t-cmp + .t-cmp { border-top: 1px solid var(--sand); padding-top: 12px; }

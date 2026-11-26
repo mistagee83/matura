@@ -8,20 +8,21 @@ A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D
 
 | Hely | Mi van benne |
 |---|---|
-| `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Diák: `/`, `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny` |
+| `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Diák: `/`, `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny`; csoport oldala (trendek, összevetés): `/tanar/csoport/<id>` |
 | `app/src/Player.tsx` | hanglejátszó (diák és tanár); a hang címe `VITE_AUDIO_BASE` + a `audio.clip` fájlneve |
 | `eszkozok/hang-feltoltes.ts` | a kivágott hangok feltöltése az R2 `matura-hang` tárolóba (wrangler) |
+| `app/src/teacher/trends.ts` | a csoportszintű trendek számolása (részenként, típusonként, leggyengébb típus, összevetés); a felület és a próbák is ezt használják |
 | `supabase/migrations/` | adatbázis-séma és jogosultságok |
 | `supabase/functions/submit/` | beküldés és javítás (Edge Function) |
 | `supabase/functions/_shared/grade.ts` | a javító: a függvény és a próbák is ezt használják |
 | `supabase/seed.sql` | generált: `node eszkozok/seed.ts` |
 | `tartalom/` | a 91 feladatsor JSON-ban |
-| `tests/` | `node --test tests/grade.test.ts` – a javító mind a 949 feladaton; `eles.ts` – élesítési próba; `tanar.ts` – a tanári jogosultságok két tanárfiókkal, a 3. szakasztól az élő frissítés, a lezárás és a statisztika is |
+| `tests/` | `node --test tests/grade.test.ts` – a javító mind a 949 feladaton; `eles.ts` – élesítési próba; `tanar.ts` – a tanári jogosultságok két tanárfiókkal, a 3. szakasztól az élő frissítés, a lezárás és a statisztika, a 4.-től a csoportszintű trendek is; `trendek.test.ts` – a trendek számolása kézzel kiszámolt értékekkel |
 
 ## Parancsok
 
 ```
-node --test tests/grade.test.ts     # a javító próbája
+node --test tests/grade.test.ts tests/trendek.test.ts   # a javító és a trendek számolásának próbája
 node eszkozok/seed.ts               # supabase/seed.sql újragenerálása a tartalom/ alapján
 cd app && npm run dev               # http://localhost:5175 ; helyi próba-háttérrel, ha nincs .env.local
 cd app && npm run build             # típusellenőrzés és build
@@ -62,5 +63,9 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón, `.env.local` nélkül vagy
 - Migrációk: `…04_elo.sql` (Realtime a submissions táblára; `get_assignment()` lezárt kiosztásnál a kulcsos feladatot is adja `key` mezőben; `assignment_stats()`), `…05_stat_javitas.sql` (csak a beírós válaszokat kisbetűsíti).
 - Élő nézet: Supabase Realtime, tartalékként 20 mp-es lekérdezés. Lezárás és újranyitás a tanári felületről (`assignments.status`). A diák a lezárás után a kulcsból (`solutions()` a `grade.ts`-ből, a kliensen) látja a megoldást; beküldött, „lezárás után” kiosztásnál 15 mp-enként ellenőrzi a lezárást.
 - Próbák élesben (2026-11-25): `tests/tanar.ts` 53/53 RENDBEN (próbafiókok: proba3@matura.test, proba4@matura.test; a jelszó csak a munkamenet ideiglenes mappájában volt), `tests/eles.ts` RENDBEN, `grade.test.ts` RENDBEN. A régi próbafiókok (proba1, proba2) jelszava nincs meg; törölhetők.
+
+4. szakasz (csoportszintű trendek) – elkészült (2026-11-26), élesítésre vár:
+- Migráció: `…06_trendek.sql` (`group_trends()`, security invoker). Felület: a csoport oldala (`GroupView`), a csoportkártyáról és a statisztikából nyílik. Döntések: SPEC 11., 21.
+- Próba: `trendek.test.ts` RENDBEN; `tests/tanar.ts` bővítve (trendek, leggyengébb típus, összevetés, B és anon elkülönítése), élesben még nem futott.
 
 Élesítés menete: séma és tartalom `npx supabase db push --remote --include-seed --yes` (csak séma: `--include-seed` nélkül), függvény `npx supabase functions deploy submit --remote=fjhwqynnlgjpjsfxncbj --use-api --yes` (a CLI éles módosítás előtt a felhasználó kifejezett jóváhagyását kéri). Az új projekt kulcsrendszere: a függvény a `SUPABASE_SECRET_KEYS`-t használja; az új táblákhoz a `service_role` jogát migráció adja.

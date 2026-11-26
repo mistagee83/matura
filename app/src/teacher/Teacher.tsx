@@ -1,7 +1,7 @@
 // A tanári felület (SPEC 4.2, 8.6): belépés és regisztráció, kezdőlap (csoportok, legutóbbi kiosztások), feladattár és
 // kiosztás, a kiosztás megosztó nézete (kód, link, QR-kód; kivetítésre). Asztali nézetre és kivetítőre készül, telefonon is használható.
 // Címek: /tanar, /tanar/feladattar[?csoport=<id>], /tanar/kiosztas/<id> (megosztás, élő nézet, hang, lezárás),
-// /tanar/kiosztas/<id>/eredmeny (statisztika), /tanar/uj-jelszo
+// /tanar/kiosztas/<id>/eredmeny (statisztika), /tanar/csoport/<id> (csoportszintű trendek, összevetés), /tanar/uj-jelszo
 import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import type { Session } from '@supabase/supabase-js';
 import QRCode from 'qrcode';
@@ -11,9 +11,10 @@ import { solutions } from '../../../supabase/functions/_shared/grade';
 import {
   sb, authError, loadGroups, createGroup, updateGroup, deleteGroup, loadAssignments, loadAssignment, deleteAssignment, createAssignment,
   loadLibrary, loadTaskContent, loadSubmissions, deleteSubmission, taskLabel, SECTION, SECTION_LONG,
-  loadTaskContents, setAssignmentStatus, loadStats, loadClosedKeys, watchSubmissions, type Stats,
+  loadTaskContents, setAssignmentStatus, loadStats, loadClosedKeys, watchSubmissions, loadTrends, type Stats,
   type Group, type Level, type LibTask, type AssignmentRow, type SubmissionRow, type Section,
 } from './data';
+import { aggregate, weakest, overall, compare, type TrendRow, type Agg } from './trends';
 import './teacher.css';
 
 const go = (path: string) => { history.pushState(null, '', path); dispatchEvent(new PopStateEvent('popstate')); scrollTo(0, 0); };
@@ -44,6 +45,8 @@ export default function Teacher({ path }: { path: string }) {
   if (st) return <Shell email={session.user.email} active="none"><StatsView key={st[1]} id={st[1]} /></Shell>;
   const m = /^\/tanar\/kiosztas\/([0-9a-f-]{36})\/?$/.exec(path);
   if (m) return <AssignmentView key={m[1]} id={m[1]} />;
+  const cs = /^\/tanar\/csoport\/([0-9a-f-]{36})\/?$/.exec(path);
+  if (cs) return <Shell email={session.user.email} active="home"><GroupView key={cs[1]} id={cs[1]} /></Shell>;
   if (path.startsWith('/tanar/feladattar')) return <Shell email={session.user.email} active="lib"><Library /></Shell>;
   return <Shell email={session.user.email} active="home"><Home /></Shell>;
 }
@@ -213,6 +216,8 @@ function Home() {
   </main>);
 }
 
+const Link = ({ to, className, children }: { to: string; className?: string; children: ReactNode }) =>
+  <a href={to} className={className} onClick={(e) => { e.preventDefault(); go(to); }}>{children}</a>;
 const Plus = () => <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14" /></svg>;
 const LEVEL_LABEL: Record<Level, string> = { 'közép': 'Középszint', emelt: 'Emelt szint' };
 
@@ -249,11 +254,14 @@ function GroupCard({ g, count, onChange, onDelete }: { g: Group; count: number; 
       <button role="menuitem" onClick={() => act(async () => onChange(await updateGroup(g.id, { archived: !g.archived })))}>{g.archived ? 'Visszaállítás' : 'Archiválás'}</button>
       <button role="menuitem" className="danger" onClick={() => { setMenu(false); setConfirm(true); }}>Törlés</button>
     </div>}
-    <a className="t-gbody" href={`/tanar/feladattar?csoport=${g.id}`} onClick={(e) => { e.preventDefault(); go(`/tanar/feladattar?csoport=${g.id}`); }}>
-      <span className="t-gname">{g.name}</span>
+    <div className="t-gbody">
+      <Link to={`/tanar/csoport/${g.id}`} className="t-gname">{g.name}</Link>
       <span className="muted">{count ? `${count} kiosztás` : 'Még nincs kiosztás'}</span>
-      <span className="t-gcta">Feladatot osztok ki nekik</span>
-    </a>
+      <span className="t-glinks">
+        {count > 0 && <Link to={`/tanar/csoport/${g.id}`} className="t-gcta">Eredmények</Link>}
+        <Link to={`/tanar/feladattar?csoport=${g.id}`} className="t-gcta">Feladatot osztok ki nekik</Link>
+      </span>
+    </div>
     {confirm && <div className="t-confirm" role="alertdialog" aria-label="Csoport törlése">
       <p>Törlöd a(z) <b>{g.name}</b> csoportot? A kiosztásai és az eredményei is törlődnek, és ez nem vonható vissza.</p>
       <div className="actions"><button className="pill ghost" onClick={() => setConfirm(false)}>Mégse</button>
@@ -614,7 +622,7 @@ function StatsView({ id }: { id: string }) {
     <div className="t-statshead">
       <div className="t-statstitle">
         <a className="t-link" href={back} onClick={(e) => { e.preventDefault(); go(back); }}>Vissza a kiosztáshoz</a>
-        <div className="muted small">{[group?.name, tasks[0] && `${tasks[0].exams.year}. ${tasks[0].exams.session}, ${tasks[0].exams.level}szint`, a.code].filter(Boolean).join(' · ')}</div>
+        <div className="muted small">{group && <><Link to={`/tanar/csoport/${group.id}`} className="t-link small">{group.name}</Link> · </>}{[tasks[0] && `${tasks[0].exams.year}. ${tasks[0].exams.session}, ${tasks[0].exams.level}szint`, a.code].filter(Boolean).join(' · ')}</div>
         <h1 className="t-h1 small">{tasks.length === 1 ? `${SECTION[tasks[0].section]} ${tasks[0].number}.${tasks[0].exam_type ? ' · ' + tasks[0].exam_type : ''}` : `${tasks.length} feladat`}</h1>
       </div>
       <div className="t-tiles">
@@ -650,5 +658,111 @@ function StatsView({ id }: { id: string }) {
       </section>))}
 
     {hard.length > 0 && <p className="note"><b>Érdemes megbeszélni:</b> a csoport kevesebb mint fele válaszolt jól a(z) {hard.map((x) => qLabel(x.t, x.n)).join(', ')} kérdésre.</p>}
+  </main>);
+}
+
+// ---------- csoportszintű trendek és összevetés (SPEC 4.3, 4. szakasz) ----------
+const pctHu = (x: number) => Math.round(x * 100) + '%';
+
+function TrendRows({ aggs, label, hot }: { aggs: Agg[]; label: (k: string) => string; hot?: Agg | null }) {
+  return (<div className="t-trend" role="table">
+    <div className="t-trow t-qhead" role="row"><span role="columnheader" /><span role="columnheader">Helyes válaszok aránya</span><span role="columnheader" /><span role="columnheader">Adat</span></div>
+    {aggs.map((a) => {
+      const isHot = hot === a || a.ratio < 0.5;
+      return (<div key={a.key} className={'t-trow' + (isHot ? ' hard' : '')} role="row">
+        <span role="cell" className="t-tl">{label(a.key)}{hot === a && <small className="t-tag hot">leggyengébb</small>}</span>
+        <span role="cell" className="t-bar" aria-hidden="true"><span style={{ width: pctHu(a.ratio) }} /></span>
+        <span role="cell" className="t-qp">{pctHu(a.ratio)}</span>
+        <span role="cell" className="muted small">{a.tasks} feladat · {a.correct} / {a.total} pont</span>
+      </div>);
+    })}
+  </div>);
+}
+
+function GroupView({ id }: { id: string }) {
+  const { groups, asg, lib, err } = useData();
+  const [rows, setRows] = useState<TrendRow[] | null>(null);
+  const [tErr, setTErr] = useState('');
+  useEffect(() => { loadTrends().then(setRows).catch(() => setTErr('Nem sikerült betölteni az eredményeket.')); }, [id]);
+
+  const meta = useMemo(() => new Map((lib || []).map((t) => [t.id, t])), [lib]);
+  if (err || tErr) return <main className="t-main"><p className="warn">{err || tErr}</p></main>;
+  if (!groups || !asg || !lib || !rows) return <main className="t-main"><div className="skel" /><div className="skel" /><div className="skel short" /></main>;
+  const g = groups.find((x) => x.id === id);
+  if (!g) return <main className="t-main"><p className="warn">Ez a csoport nem létezik, vagy nem a tiéd.</p><button className="pill" onClick={() => go('/tanar')}>Vissza a kezdőlapra</button></main>;
+
+  const mine = asg.filter((a) => a.group_id === g.id);
+  const withSubs = mine.filter((a) => a.submissions.some((s) => s.counts));
+  const fills = withSubs.reduce((n, a) => n + a.submissions.filter((s) => s.counts).length, 0);
+  const sections = aggregate(rows, meta, g.id, 'section');
+  const types = aggregate(rows, meta, g.id, 'type');
+  const weak = weakest(types);
+  const all = overall(rows, g.id);
+  const cmp = compare(rows, g.id);
+  const gName = (gid: string) => groups.find((x) => x.id === gid)?.name || 'Törölt csoport';
+  const lib2 = `/tanar/feladattar?csoport=${g.id}`;
+  const describe = (a: AssignmentRow) => {
+    const ts = [...a.assignment_tasks].sort((x, y) => x.position - y.position).map((x) => meta.get(x.task_id));
+    if (!ts[0]) return a.assignment_tasks.length + ' feladat';
+    return taskLabel(ts[0]) + (ts.length > 1 ? ` és további ${ts.length - 1}` : '');
+  };
+
+  return (<main className="t-main t-stats">
+    <div className="t-statshead">
+      <div className="t-statstitle">
+        <Link to="/tanar" className="t-link">Vissza a csoportjaimhoz</Link>
+        <div className="muted small">{LEVEL_LABEL[g.level]}{g.archived && ' · archivált'}</div>
+        <h1 className="t-h1 small">{g.name}</h1>
+      </div>
+      <div className="t-tiles">
+        <div className="t-tile"><div>Kiosztás kitöltéssel</div><b>{withSubs.length}</b></div>
+        <div className="t-tile"><div>Kitöltés</div><b>{fills}</b></div>
+        <div className="t-tile"><div>Összesítve</div><b>{all.total ? pctHu(all.ratio) : '–'}</b></div>
+        {weak && <div className="t-tile hot"><div>Leggyengébb típus</div><b className="t-tilesm">{weak.key}</b></div>}
+      </div>
+    </div>
+    <p className="muted small t-statsnote">Az összes eddigi kiosztás alapján: a helyes válaszok aránya (egy kérdés egy pont). Eszközönként csak az első beküldés számít; az elfogadott elírás helyes, az üresen hagyott kérdés rossz.
+      {withSubs.length > 0 && withSubs.length < 3 && ' Három kiosztás után megbízhatóbb a kép.'}</p>
+
+    {!all.total ? <div className="card t-empty"><p>{mine.length ? 'A csoport kiosztásaira még nem érkezett beküldés.' : 'Ennek a csoportnak még nem osztottál ki feladatot.'} Amint a diákok beküldik, itt megjelenik, melyik vizsgarész és feladattípus megy nekik a legkevésbé.</p>
+      <button className="pill" onClick={() => go(lib2)}>Feladatot osztok ki nekik</button></div> : <>
+      <section className="card t-statcard">
+        <div className="t-statcardhead"><h2>Vizsgarészenként</h2></div>
+        <TrendRows aggs={sections} label={(k) => SECTION_LONG[k as Section] || k} />
+      </section>
+      <section className="card t-statcard">
+        <div className="t-statcardhead"><h2>Feladattípusonként</h2><span className="muted small">a leggyengébbtől a legerősebbig</span></div>
+        <TrendRows aggs={types} label={(k) => k} hot={weak} />
+        {weak && <p className="note"><b>Érdemes gyakorolni:</b> {weak.key} ({pctHu(weak.ratio)}). A feladattárban a típus szűrővel kereshetsz hasonlót.</p>}
+      </section>
+      {cmp.length > 0 && <section className="card t-statcard">
+        <div className="t-statcardhead"><h2>Összevetés a többi csoportoddal</h2><span className="muted small">ugyanazon a feladaton, a helyes válaszok aránya</span></div>
+        {cmp.map((c) => { const t = meta.get(c.task); return (<div key={c.task} className="t-cmp">
+          <h3>{t ? taskLabel(t) : c.task}{t?.exam_type && <span className="muted small"> · {t.exam_type}</span>}</h3>
+          <div className="t-trend" role="table">{c.groups.map((x) => <div key={x.group} className={'t-trow' + (x.group === g.id ? ' me' : '')} role="row">
+            <span role="cell" className="t-tl">{gName(x.group)}</span>
+            <span role="cell" className="t-bar" aria-hidden="true"><span style={{ width: pctHu(x.ratio) }} /></span>
+            <span role="cell" className="t-qp">{pctHu(x.ratio)}</span>
+            <span role="cell" className="muted small">{x.subs} kitöltő</span>
+          </div>)}</div>
+        </div>); })}
+      </section>}
+    </>}
+
+    {mine.length > 0 && <section>
+      <h2 className="t-h2">A csoport kiosztásai</h2>
+      <div className="card t-tablebox"><table className="t-table">
+        <thead><tr><th>Feladat</th><th>Kód</th><th>Kitöltők</th><th>Átlag</th><th>Kiosztva</th><th>Állapot</th></tr></thead>
+        <tbody>{mine.map((a) => {
+          const c = a.submissions.filter((s) => s.counts);
+          const sum = c.reduce((n, s) => n + s.score, 0), max = c.reduce((n, s) => n + s.max_score, 0);
+          return (<tr key={a.id}>
+            <td><Link to={`/tanar/kiosztas/${a.id}/eredmeny`}>{describe(a)}</Link></td>
+            <td className="t-code">{a.code}</td><td>{c.length}</td><td>{max ? pctHu(sum / max) : '–'}</td><td>{dateHu(a.created_at)}</td>
+            <td><span className={'t-badge ' + a.status}>{a.status === 'open' ? 'Nyitva' : 'Lezárva'}</span></td>
+          </tr>);
+        })}</tbody>
+      </table></div>
+    </section>}
   </main>);
 }

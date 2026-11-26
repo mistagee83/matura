@@ -102,3 +102,7 @@ export function watchSubmissions(assignmentId: string, onChange: () => void, onS
     .subscribe((status) => onState(status === 'SUBSCRIBED'));
   return () => { must().removeChannel(ch); };
 }
+
+// ---------- 4. szakasz: csoportszintű trendek ----------
+/** Csoportonként és feladatonként a helyes válaszok száma (eszközönként az első beküldés); csak a saját csoportokról. */
+export const loadTrends = async () => check(await must().rpc('group_trends')) as import('./trends').TrendRow[];

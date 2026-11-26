@@ -3,8 +3,10 @@
 //   a fiókok: MATURA_A_EMAIL, MATURA_B_EMAIL, MATURA_PW környezeti változóban (mindkettő ugyanazzal a jelszóval)
 // A próba létrehoz egy-egy csoportot és kiosztást, a végén törli őket (a beküldésekkel együtt).
 // 3. szakasz: élő frissítés (Realtime), lezárás, a megoldás megnyitása, statisztika – ugyanígy két fiókkal.
+// 4. szakasz: csoportszintű trendek (group_trends), a leggyengébb típus és a csoportok összevetése, kézzel kiszámolt értékekkel.
 import { execFileSync } from 'node:child_process';
 import { createRequire } from 'node:module';
+import { aggregate, weakest, compare } from '../app/src/teacher/trends.ts';
 // az élő frissítés próbájához a felület Supabase-kliense (app/node_modules)
 const { createClient } = createRequire(new URL('../app/package.json', import.meta.url))('@supabase/supabase-js');
 
@@ -166,6 +168,46 @@ const reopen = await rest(A.token, 'PATCH', `assignments?id=eq.${cc.data.id}`, {
 ok(reopen.ok && reopen.data[0]?.status === 'open', 'A újranyithatja');
 const reopenedView = await rest(undefined, 'POST', 'rpc/get_assignment', { p_code: cc.data.code });
 ok(reopenedView.data.tasks.every((t: any) => t.key === undefined), 'újranyitás után a kulcs megint nem megy ki');
+
+// ---------- 4. szakasz: csoportszintű trendek ----------
+// Egy új csoport három kiosztással: R2 (két diák: egy hibátlan, egy csupa rossz; plusz egy gyakorló ismétlés), újra R2
+// (egy hibátlan), L2 (egy üres beküldés). Egy második csoport ugyanazt az R2-t kapja (csupa rossz). Kézzel: R2-n
+// 2k / 3k helyes (k = az R2 kérdései), L2-n 0; a leggyengébb típus az L2-é; az R2-n a két csoport 67% és 0%.
+const L2 = '2024-maj-kozep-L2', k = Object.keys(fullR2).length;
+const gt = await rest(A.token, 'POST', 'groups', { name: 'Trend A', level: 'közép' });
+const gu = await rest(A.token, 'POST', 'groups', { name: 'Trend A2', level: 'közép' });
+ok(gt.ok && gu.ok, 'A két új csoportot hoz létre a trendek próbájához');
+const gT = gt.data[0].id, gU = gu.data[0].id;
+const mk = async (g: string, t: string[]) => (await rest(A.token, 'POST', 'rpc/create_assignment', { p_group: g, p_tasks: t, p_audio_mode: 'student', p_solution_visibility: 'immediate' })).data;
+const [t1, t2, t3, t4] = [await mk(gT, [R2]), await mk(gT, [R2]), await mk(gT, [L2]), await mk(gU, [R2])];
+const post = (code: string, deviceId: string, answers: any) => fetch(`${URL_}/functions/v1/submit`, { method: 'POST', headers: { apikey: KEY, 'Content-Type': 'application/json' },
+  body: JSON.stringify({ code, nickname: 'Trendproba', deviceId, answers }) }).then((r) => r.json());
+const dv = crypto.randomUUID();
+await post(t1.code, dv, { [R2]: fullR2 }); await post(t1.code, crypto.randomUUID(), { [R2]: wrongR2 }); await post(t1.code, dv, { [R2]: wrongR2 });
+await post(t2.code, crypto.randomUUID(), { [R2]: fullR2 });
+await post(t3.code, crypto.randomUUID(), {});
+await post(t4.code, crypto.randomUUID(), { [R2]: wrongR2 });
+
+const tr = await rest(A.token, 'POST', 'rpc/group_trends', {});
+const mineT = (tr.data || []).filter((r: any) => r.group === gT);
+const rR2 = mineT.find((r: any) => r.task === R2), rL2 = mineT.find((r: any) => r.task === L2);
+ok(tr.ok && mineT.length === 2, `group_trends: a csoportnak két feladata van (${mineT.length})`);
+ok(rR2 && rR2.asg === 2 && rR2.subs === 3 && rR2.total === 3 * k && rR2.correct === 2 * k, `R2: 2 kiosztás, 3 kitöltő (a gyakorlás nem számít), ${rR2?.correct} / ${rR2?.total} helyes (várt ${2 * k} / ${3 * k})`);
+ok(rL2 && rL2.subs === 1 && rL2.total === 8 && rL2.correct === 0, `L2: az üres beküldés 0 / 8 (${rL2?.correct} / ${rL2?.total})`);
+const meta = new Map((lib.data as any[]).map((t) => [t.id, t]));
+const types = aggregate(tr.data, meta, gT, 'type'), w = weakest(types);
+ok(w?.key === 'nyílt cloze (egy szó)' && w.ratio === 0 && types[1]?.key === 'mondatrész visszahelyezése szövegbe' && types[1].ratio === 2 / 3,
+  `a leggyengébb típus: ${w?.key} (${w?.ratio}); utána ${types[1]?.key} (${types[1]?.ratio})`);
+const secs = aggregate(tr.data, meta, gT, 'section');
+ok(secs.length === 2 && secs[0].key === 'language' && secs[1].key === 'reading', `vizsgarészenként: ${secs.map((x) => x.key + ' ' + x.correct + '/' + x.total).join(', ')}`);
+const cR2 = compare(tr.data, gT).find((c) => c.task === R2);
+ok(cR2 && cR2.groups.find((x) => x.group === gT)?.ratio === 2 / 3 && cR2.groups.find((x) => x.group === gU)?.ratio === 0,
+  `összevetés az R2-n: ${cR2?.groups.map((x) => x.ratio.toFixed(2)).join(' / ')}`);
+const trB = await rest(B.token, 'POST', 'rpc/group_trends', {});
+ok(trB.ok && trB.data.every((r: any) => r.group !== gT && r.group !== gU && r.group !== gA.id), `B nem látja A csoportjainak trendjeit (${trB.data?.length} saját sor)`);
+const trAnon = await rest(undefined, 'POST', 'rpc/group_trends', {});
+ok(!trAnon.ok, `bejelentkezés nélkül nincs trend → ${trAnon.status}`);
+await rest(A.token, 'DELETE', `groups?id=eq.${gT}`); await rest(A.token, 'DELETE', `groups?id=eq.${gU}`);
 
 // takarítás: a csoport törlése a kiosztásait és az eredményeit is törli
 const delA = await rest(A.token, 'DELETE', `groups?id=eq.${gA.id}`);
