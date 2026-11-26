@@ -1,11 +1,13 @@
 // A diák útja (SPEC 4.1, 8.6): kód → belépés becenévvel → feladat(ok) → beküldés → eredmény.
-// Címek: /  (kód beírása) és /k/<kód> (a kiosztás).
+// Címek: /  (nyitóoldal, rajta a kód beírása: Landing.tsx) és /k/<kód> (a kiosztás).
 import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
 import { getAssignment, submit, SubmitError, type Assignment, type TaskRef, type TaskResult } from './api';
 import { solutions } from '../../supabase/functions/_shared/grade';
 import Player, { clipUrl } from './Player';
 import { deviceId, loadSaved, save, lastNickname, rememberNickname, type Saved } from './store';
 import Task, { filled, toSubmit } from './Task';
+import Landing from './Landing';
+import './landing.css';
 
 const SECTION: Record<string, string> = { reading: 'Olvasott szöveg értése', language: 'Nyelvhelyesség', listening: 'Hallott szöveg értése' };
 const label = (t: TaskRef) => `${t.exam.year}. ${t.exam.session}, ${t.exam.level}szint`;
@@ -20,7 +22,7 @@ export default function App() {
   useEffect(() => { const f = () => setPath(location.pathname); addEventListener('popstate', f); return () => removeEventListener('popstate', f); }, []);
   if (path === '/tanar' || path.startsWith('/tanar/')) return <Suspense fallback={null}><Teacher path={path} /></Suspense>;
   const m = /^\/k\/([A-Za-z0-9]+)\/?$/.exec(path);
-  return m ? <AssignmentView key={m[1]} code={m[1].toUpperCase()} /> : <CodeEntry />;
+  return m ? <AssignmentView key={m[1]} code={m[1].toUpperCase()} /> : <Landing />;
 }
 
 function Header({ title, sub, right }: { title: string; sub?: string; right?: string }) {

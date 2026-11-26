@@ -1,0 +1,92 @@
+/* A nyitóoldal (Landing.tsx). A hub dizájnrendszere: táblazöld, krétasárga; árnyék és színátmenet nincs. 360 px-től. */
+.l-page { min-height: 100vh; background: var(--cream); overflow-x: hidden; }
+.l-page a:focus-visible, .l-page .pill:focus-visible { outline: 2px solid var(--yellow); outline-offset: 2px; }
+
+.l-top { background: var(--board); color: var(--cream); display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 16px; min-height: 60px; }
+.l-brand { font: 600 19px var(--head); white-space: nowrap; }
+.l-brand b { color: var(--yellow); font-weight: 600; }
+.l-login { color: var(--cream); font-weight: 600; text-decoration: none; border: 1.5px solid rgba(251,246,234,.5); border-radius: 999px; padding: 0 16px; min-height: 44px; display: inline-flex; align-items: center; white-space: nowrap; font-size: 15px; }
+.l-login:hover { border-color: var(--yellow); color: var(--yellow); }
+
+.l-hero { background: var(--board); color: var(--cream); padding: 28px 16px 44px; display: grid; gap: 32px; }
+.l-herotext { max-width: 620px; }
+.l-kicker { margin: 0 0 8px; color: var(--yellow); font-weight: 600; font-size: 15px; }
+.l-hero h1 { margin: 0; font-size: 34px; line-height: 1.15; color: var(--white); }
+.l-lead { font-size: 17px; line-height: 1.6; color: #D6E3DE; margin: 16px 0 0; }
+.l-ctas { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin-top: 24px; }
+.l-ctas .pill.primary { flex: none; display: inline-flex; align-items: center; text-decoration: none; }
+.l-ghost { color: var(--cream); font-weight: 600; min-height: 44px; display: inline-flex; align-items: center; }
+.l-ghost.dark { color: var(--sel-ink); }
+
+/* telefon a mintakérdéssel */
+.l-phone { justify-self: center; width: min(300px, 100%); background: var(--cream); color: var(--deep); border: 8px solid var(--deep); border-radius: 30px; overflow: hidden; }
+.l-phonetop { display: flex; justify-content: space-between; background: var(--board); color: var(--cream); padding: 10px 14px; font-size: 14px; }
+.l-phonetop b { font: 600 15px var(--head); }
+.l-phonebody { padding: 14px; }
+.l-phonebody p { margin: 0 0 14px; font-size: 16px; line-height: 1.75; }
+.l-gap { display: inline-block; border-radius: 10px; padding: 0 8px; border: 1.5px solid; line-height: 1.6; font-weight: 700; }
+.l-gap.ok { background: var(--ok-bg); color: var(--ok-ink); border-color: var(--ok-ink); }
+.l-gap.ok::after { content: ' \2713'; }
+.l-gap.bad { background: var(--bad-bg); color: var(--bad-ink); border-color: var(--bad-ink); text-decoration: line-through; }
+.l-gap.bad::after { content: ' \2715'; text-decoration: none; display: inline-block; margin-left: 4px; }
+.l-gap.empty { background: var(--white); color: var(--muted); border-color: var(--sand); border-style: dashed; min-width: 64px; font-weight: 400; }
+.l-phonefoot { display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--sand); padding: 10px 14px; background: var(--white); }
+.l-phonefoot b { font: 600 22px var(--head); }
+.l-score { font-size: 13px; color: var(--muted); font-weight: 600; }
+
+/* számok */
+.l-facts { max-width: 1080px; margin: -22px auto 0; padding: 0 16px; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; position: relative; }
+.l-facts div { background: var(--white); border: 1px solid var(--sand); border-radius: 14px; padding: 12px 14px; display: flex; flex-direction: column; }
+.l-facts b { font: 600 28px var(--head); color: var(--board); line-height: 1.1; }
+.l-facts span { font-size: 14px; color: var(--muted); }
+
+.l-main { max-width: 1080px; margin: 0 auto; padding: 8px 16px 40px; }
+.l-main h2 { font-size: 26px; margin: 40px 0 16px; color: var(--board); }
+.l-main h3 { font-size: 19px; margin: 0 0 6px; }
+.l-main p { margin: 0; line-height: 1.6; }
+
+.l-steps ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
+.l-steps li { display: flex; gap: 14px; align-items: flex-start; }
+.l-n { flex: none; width: 44px; height: 44px; border-radius: 999px; background: var(--yellow); color: var(--deep); display: grid; place-items: center; font: 600 20px var(--head); }
+.l-steps p { color: var(--muted); }
+
+.l-grid { display: grid; grid-template-columns: 1fr; gap: 14px; }
+.l-grid .card { padding: 18px; }
+.l-grid svg, .l-writing svg { color: var(--sel-ink); margin-bottom: 8px; }
+.l-grid p { color: var(--muted); font-size: 15px; }
+
+.l-split { display: grid; gap: 14px; margin-top: 40px; }
+.l-code, .l-writing { padding: 20px; border-radius: 22px; }
+.l-code h2, .l-writing h2 { margin: 0 0 6px; font-size: 22px; }
+.l-code p, .l-writing p { color: var(--muted); }
+.l-code .pill { width: 100%; margin-top: 6px; }
+.l-writing { display: flex; flex-direction: column; align-items: flex-start; gap: 8px; }
+.pill.dark { background: var(--board); border-color: var(--board); color: var(--white); }
+
+.l-final { margin-top: 40px; background: var(--board); color: var(--cream); border-radius: 22px; padding: 26px 20px; }
+.l-final h2 { margin: 0 0 8px; color: var(--white); }
+.l-final p { color: #D6E3DE; max-width: 60ch; }
+.l-final .pill { margin-top: 18px; display: inline-flex; align-items: center; text-decoration: none; color: var(--deep); }
+.l-onwhite { background: var(--white); border-color: var(--white); }
+
+.l-foot { border-top: 1px solid var(--sand); padding: 20px 16px 32px; max-width: 1080px; margin: 0 auto; font-size: 13px; color: var(--muted); }
+.l-foot p { margin: 0 0 6px; }
+.l-foot a { color: var(--sel-ink); }
+
+@media (min-width: 640px) {
+  .l-facts { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .l-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .l-split { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (min-width: 900px) {
+  .l-top { padding: 12px 32px; }
+  .l-hero { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); align-items: center; padding: 56px max(32px, calc((100vw - 1080px) / 2)) 72px; }
+  .l-hero h1 { font-size: 48px; }
+  .l-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .l-steps ol { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .l-steps li { flex-direction: column; }
+  .l-final { padding: 36px 40px; }
+}
+.l-student { margin: 18px 0 0; font-size: 15px; color: #D6E3DE; }
+.l-student a { color: var(--yellow); font-weight: 600; }
+.l-code { scroll-margin-top: 16px; }

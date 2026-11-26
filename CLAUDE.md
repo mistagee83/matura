@@ -8,7 +8,7 @@ A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D
 
 | Hely | Mi van benne |
 |---|---|
-| `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Diák: `/`, `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny`; csoport oldala (trendek, összevetés): `/tanar/csoport/<id>` |
+| `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Nyitóoldal: `/` (`app/src/Landing.tsx`, benne a diák kódbeírója); diák: `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny`; csoport oldala (trendek, összevetés): `/tanar/csoport/<id>` |
 | `app/src/Player.tsx` | hanglejátszó (diák és tanár); a hang címe `VITE_AUDIO_BASE` + a `audio.clip` fájlneve |
 | `eszkozok/hang-feltoltes.ts` | a kivágott hangok feltöltése az R2 `matura-hang` tárolóba (wrangler) |
 | `app/src/teacher/trends.ts` | a csoportszintű trendek számolása (részenként, típusonként, leggyengébb típus, összevetés); a felület és a próbák is ezt használják |

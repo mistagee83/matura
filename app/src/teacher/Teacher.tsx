@@ -72,7 +72,8 @@ function Shell({ email, active, children }: { email?: string; active: 'home' | '
 
 // ---------- belépés, regisztráció, elfelejtett jelszó ----------
 function Login() {
-  const [mode, setMode] = useState<'in' | 'up' | 'forgot'>('in');
+  // a nyitóoldal regisztrációs gombja: /tanar?regisztracio
+  const [mode, setMode] = useState<'in' | 'up' | 'forgot'>(() => (new URLSearchParams(location.search).has('regisztracio') ? 'up' : 'in'));
   const [email, setEmail] = useState(''), [pw, setPw] = useState('');
   const [busy, setBusy] = useState(false), [err, setErr] = useState(''), [info, setInfo] = useState('');
   const switchTo = (m: typeof mode) => { setMode(m); setErr(''); setInfo(''); };

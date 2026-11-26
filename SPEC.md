@@ -497,6 +497,7 @@ A fenti kilenc képernyő meg van rajzolva, a megrendelő jóváhagyta (2026-11-
 
 | Képernyő | Leírás |
 |---|---|
+| Nyitóoldal (2026-11-26) | a `/` cím: táblazöld hős (kinek szól, mit tud, a „Létrehozom a tanári fiókom” sárga gomb a regisztrációra, `/tanar?regisztracio`), mellette egy kitalált mintakérdés telefonkeretben; számok (91 feladatsor, 949 feladat, 7856 kérdés, két szint); „Hogyan megy egy óra” három lépésben; „Mit tud” hat kártyán; a diák kódbeírója (a hősből egy link visz oda), mellette az írásfeladatok a Writing Review-ban; záró sáv; lábléc a forrással (Oktatási Hivatal, „a Matura nem az Oktatási Hivatal szolgáltatása”) és egy link a Hubra. Aki QR-kóddal vagy linkkel jön, egyenesen a `/k/<kód>` oldalra érkezik. A kód beírása előtt nem volt nyitóoldal: a `/` csak a kódmezőt mutatta. |
 | Beírós feladat | a mező a szövegben vagy a mondatban áll, a hézag sorszámával; szóképzésnél mellette a zárójeles alapszó; a mező kerete a kitöltött hézag színeit kapja; a billentyűzet ne javítson és ne írjon nagybetűt automatikusan |
 | Soronkénti hibakeresés | soronként egy kártya: a sor szavai egyenként koppinthatók, a kijelölt szó áthúzva és hibaszínnel jelenik meg; alatta „A sor helyes" gomb; egy sorban egyszerre egy jelölés lehet |
 | Hibás szó javítása | mint a soronkénti hibakeresés, de a szó kijelölése után a kártyán megjelenik egy beviteli mező a helyes szónak |
