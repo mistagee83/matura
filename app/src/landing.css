@@ -35,7 +35,7 @@
 .l-score { font-size: 13px; color: var(--muted); font-weight: 600; }
 
 /* számok */
-.l-facts { max-width: 1080px; margin: -22px auto 0; padding: 0 16px; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; position: relative; }
+.l-facts { max-width: 1080px; margin: -22px auto 0; padding: 0 16px; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 10px; position: relative; }
 .l-facts div { background: var(--white); border: 1px solid var(--sand); border-radius: 14px; padding: 12px 14px; display: flex; flex-direction: column; }
 .l-facts b { font: 600 28px var(--head); color: var(--board); line-height: 1.1; }
 .l-facts span { font-size: 14px; color: var(--muted); }
@@ -74,7 +74,6 @@
 .l-foot a { color: var(--sel-ink); }
 
 @media (min-width: 640px) {
-  .l-facts { grid-template-columns: repeat(4, minmax(0, 1fr)); }
   .l-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .l-split { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }

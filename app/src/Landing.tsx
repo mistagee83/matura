@@ -22,7 +22,7 @@ function CodeBox() {
   const [code, setCode] = useState('');
   return (<form id="kod" className="l-code card" onSubmit={(e) => { e.preventDefault(); const c = code.trim().toUpperCase(); if (c) go('/k/' + c); }}>
     <h2>Diák vagy?</h2>
-    <p>Írd be a kódot, amit a tanárodtól kaptál. Fiók nem kell, csak egy becenév.</p>
+    <p>Fiók nem kell, elég egy becenév: a tanárod ezen látja a megoldásodat.</p>
     <label className="field">Kód<input value={code} onChange={(e) => setCode(e.target.value)} autoCapitalize="characters" autoComplete="off" spellCheck={false} placeholder="pl. K7QM4X" /></label>
     <button className="pill dark" disabled={!code.trim()}>Megnyitom a feladatot</button>
   </form>);
@@ -53,8 +53,8 @@ export default function Landing() {
     <section className="l-hero">
       <div className="l-herotext">
         <p className="l-kicker">Angol érettségi gyakorló</p>
-        <h1>Írásbeli érettségi feladatok, órán, <span className="hl">telefonon</span></h1>
-        <p className="l-lead">A 2005 és 2026 közötti angol érettségik olvasás-, nyelvhelyesség- és hallásfeladatai, közép- és emelt szinten. Te kiosztod, a diákok QR-kóddal megnyitják, a gép kijavítja a hivatalos útmutató szerint, és azonnal látod, mi ment és mi nem.</p>
+        <h1>Az összes eddigi angol érettségi feladat a diák <span className="hl">telefonján</span></h1>
+        <p className="l-lead">A 2005 és 2026 közötti angol érettségik olvasás-, nyelvhelyesség- és hallásfeladatai, közép- és emelt szinten. Kiosztod, a diákok beolvassák a QR-kódot, és mire körbenézel, már ki is van javítva. Látod, melyik kérdés ment és melyik nem.</p>
         <div className="l-ctas">
           <a className="pill primary" href="/tanar?regisztracio" onClick={signup}>Létrehozom a tanári fiókom</a>
           <a className="l-ghost" href="#hogyan">Hogyan megy egy óra</a>
@@ -67,16 +67,15 @@ export default function Landing() {
     <section className="l-facts" aria-label="Számokban">
       <div><b>91</b><span>feladatsor, 2005–2026</span></div>
       <div><b>949</b><span>feladat</span></div>
-      <div><b>7856</b><span>javított kérdés</span></div>
-      <div><b>2</b><span>szint: közép és emelt</span></div>
+      <div><b>22</b><span>év anyaga</span></div>
     </section>
 
     <main className="l-main">
       <section id="hogyan" className="l-steps">
         <h2>Hogyan megy egy óra</h2>
         <ol>
-          <li><span className="l-n">1</span><div><h3>Kiválasztod a feladatot</h3><p>A feladattárban szint, vizsgarész, feladattípus és év szerint szűrsz, előnézetben megnézed, és egy vagy több feladatot kiosztasz a csoportodnak.</p></div></li>
-          <li><span className="l-n">2</span><div><h3>A diákok megnyitják a telefonjukon</h3><p>Kivetíted a QR-kódot vagy a hat jeles kódot. A diákoknak nem kell fiók: becenévvel lépnek be, és a válaszaik az oldal újratöltése után is megmaradnak.</p></div></li>
+          <li><span className="l-n">1</span><div><h3>Kiválasztod a feladatot</h3><p>A feladattárban szint, vizsgarész, típus vagy év szerint keresel, belenézel, és kiosztod a csoportnak. Egyszerre többet is.</p></div></li>
+          <li><span className="l-n">2</span><div><h3>A diákok megnyitják a telefonjukon</h3><p>Kivetíted a QR-kódot vagy a rövid kódot. A diákoknak nem kell fiók: becenévvel lépnek be, és ha véletlenül bezárják az oldalt, a válaszaik nem vesznek el.</p></div></li>
           <li><span className="l-n">3</span><div><h3>A gép javít, te megbeszéled</h3><p>A beküldések élőben érkeznek. Lezárás után a diákok látják a megoldást, te pedig kérdésenként a helyes arányt és a leggyakoribb rossz választ.</p></div></li>
         </ol>
       </section>
@@ -85,11 +84,11 @@ export default function Landing() {
         <h2>Mit tud</h2>
         <div className="l-grid">
           <article className="card"><Icon d={ICON.library} /><h3>Teljes feladattár</h3><p>Mind a 91 írásbeli feladatsor olvasás-, nyelvhelyesség- és hallásrésze, a hivatalos javítókulccsal. A már megoldott feladatokat a csoportnál jelzi.</p></article>
-          <article className="card"><Icon d={ICON.check} /><h3>Javítás az útmutató szerint</h3><p>A beírós válaszoknál az elfogadott változatok és a hallásnál megengedett elírások is számítanak. A kulcs a beküldés előtt nem kerül a diák telefonjára.</p></article>
+          <article className="card"><Icon d={ICON.check} /><h3>Javítás az útmutató szerint</h3><p>A beírós válaszoknál az elfogadott változatok és a hallásnál megengedett elírások is számítanak. A megoldást beküldés előtt a telefonról sem lehet kilesni.</p></article>
           <article className="card"><Icon d={ICON.sound} /><h3>Hang két módban</h3><p>A hallásfeladat hangja szólhat a tanári gépről, a kivetítő mellől, vagy a diákok fülhallgatóval a saját telefonjukon hallgatják.</p></article>
-          <article className="card"><Icon d={ICON.chart} /><h3>Eredmény kérdésenként</h3><p>Kitöltők, átlag, kérdésenként a helyes arány és a leggyakoribb rossz válasz. A nehéz kérdések ki vannak emelve, így tudod, mit érdemes megbeszélni.</p></article>
-          <article className="card"><Icon d={ICON.trend} /><h3>Csoportszintű trendek</h3><p>Több kiosztás után a csoport oldalán látod a vizsgarészenkénti és típusonkénti átlagot, a leggyengébb feladattípust, és a csoportjaidat ugyanazon a feladaton.</p></article>
-          <article className="card"><Icon d={ICON.lock} /><h3>Diákadat nélkül</h3><p>A diákról csak a becenév és egy véletlen eszközazonosító kerül a rendszerbe. A tanár csak a saját csoportjait és eredményeit látja.</p></article>
+          <article className="card"><Icon d={ICON.chart} /><h3>Eredmény kérdésenként</h3><p>Látod, hányan töltötték ki, mi lett az átlag, és melyik kérdésnél csúsztak el a legtöbben. Ezeket kiemeli, úgyhogy rögtön tudod, mivel kezdd a megbeszélést.</p></article>
+          <article className="card"><Icon d={ICON.trend} /><h3>Hol tart a csoport</h3><p>Több kiosztás után a csoport oldalán látod, melyik vizsgarész és feladattípus megy jobban, melyik gyengébben. Ha két csoportod ugyanazt a feladatot írta, össze is tudod hasonlítani őket.</p></article>
+          <article className="card"><Icon d={ICON.lock} /><h3>Név nélkül</h3><p>A diákról csak a becenév és egy véletlen eszközazonosító kerül a rendszerbe. A tanár csak a saját csoportjait és eredményeit látja.</p></article>
         </div>
       </section>
 
@@ -104,8 +103,8 @@ export default function Landing() {
       </section>
 
       <section className="l-final">
-        <h2>Próbáld ki a következő órádon</h2>
-        <p>Regisztrálj Google-fiókkal vagy e-mail-címmel, hozz létre egy csoportot, és osszd ki az első feladatot. Pár perc az egész.</p>
+        <h2>Holnap már órán is használhatod</h2>
+        <p>Regisztrálsz Google-fiókkal vagy e-mail-címmel, létrehozol egy csoportot, és kiosztod az első feladatot.</p>
         <a className="pill l-onwhite" href="/tanar" onClick={teacher}>Belépek vagy regisztrálok</a>
       </section>
     </main>
