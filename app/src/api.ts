@@ -9,10 +9,13 @@ const sb = URL_ && KEY ? createClient(URL_, KEY, { auth: { persistSession: false
 export type Result = 'ok' | 'typo' | 'bad';
 export interface TaskRef { id: string; examId: string; section: 'reading' | 'language' | 'listening'; points: number; exam: { year: number; session: string; level: string }; content: any;
   /** a kulcsos feladat: csak lezárt kiosztásnál jön (a megoldás megnyitása) */ key?: any;
-  /** a szójegyzék beküldés előtt látható címszavai (csak az önálló gyakorlásban, olvasásfeladatnál; SPEC 4.5) */ glossary?: GlossEntry[] }
+  /** a szójegyzék beküldés előtt látható címszavai (olvasásfeladatnál: önálló gyakorlás, vagy bekapcsolt szótárú kiosztás; SPEC 4.5) */ glossary?: GlossEntry[];
+  /** a megoldást elárulható címszavak: lezárt, bekapcsolt szótárú kiosztásnál (a kulccsal együtt) */ glossaryAfter?: GlossEntry[] }
 export interface GlossEntry { forms: string[]; lemma: string; pos: string; en: string; hu: string; tip?: string }
-export interface Assignment { found: boolean; code: string; status: 'open' | 'closed'; audioMode: 'teacher' | 'student'; solutionVisibility: 'immediate' | 'after_close'; tasks: TaskRef[]; submitted: boolean }
-export interface TaskResult { id: string; score: number; max: number; results: { n: number; result: Result }[]; solutions: Record<string, any> | null }
+export interface Assignment { found: boolean; code: string; status: 'open' | 'closed'; audioMode: 'teacher' | 'student'; solutionVisibility: 'immediate' | 'after_close';
+  /** a tanár kiosztáskor bekapcsolta a szótárt */ glossary?: boolean; tasks: TaskRef[]; submitted: boolean }
+export interface TaskResult { id: string; score: number; max: number; results: { n: number; result: Result }[]; solutions: Record<string, any> | null;
+  /** a megoldást elárulható címszavak: csak a megoldással együtt */ glossaryAfter?: GlossEntry[] }
 export interface SubmitResult { score: number; max: number; tasks: TaskResult[]; solutionsVisible: boolean }
 
 export async function getAssignment(code: string, deviceId: string): Promise<Assignment> {
@@ -22,7 +25,7 @@ export async function getAssignment(code: string, deviceId: string): Promise<Ass
     return data as Assignment;
   }
   const q = new URLSearchParams(location.search), p = (k: string) => encodeURIComponent(q.get(k) || '');
-  const r = await fetch(`/dev-api/assignment?code=${encodeURIComponent(code)}&device=${deviceId}&vis=${p('vis')}&st=${p('st')}&hang=${p('hang')}`);
+  const r = await fetch(`/dev-api/assignment?code=${encodeURIComponent(code)}&device=${deviceId}&vis=${p('vis')}&st=${p('st')}&hang=${p('hang')}&szotar=${p('szotar')}`);
   if (!r.ok) throw new Error('HTTP ' + r.status);
   return r.json();
 }
@@ -67,7 +70,9 @@ export async function submitPractice(taskId: string, answers: Record<string, unk
 export class SubmitError extends Error { constructor(public reason: string) { super(reason); } }
 
 export async function submit(code: string, nickname: string, deviceId: string, answers: Record<string, Record<string, unknown>>): Promise<SubmitResult> {
-  const body = { code, nickname, deviceId, answers, vis: new URLSearchParams(location.search).get('vis') || undefined };
+  // a vis és a szotar paraméter csak a helyi próba-háttérnek szól; élesben a kiosztás beállítása dönt
+  const q = new URLSearchParams(location.search);
+  const body = { code, nickname, deviceId, answers, vis: q.get('vis') || undefined, szotar: q.get('szotar') || undefined };
   let r: Response;
   try {
     r = sb

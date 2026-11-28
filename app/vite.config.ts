@@ -56,11 +56,13 @@ function devApi(): Plugin {
           const code = (url.searchParams.get('code') || '').toUpperCase(), e = examFor(code);
           if (!e) return send(200, { found: false });
           // ?st=closed: lezárt kiosztás (a kulcs is kimegy, mint élesben); ?hang=teacher: a tanár játssza le a hangot
-          const closed = url.searchParams.get('st') === 'closed';
-          const tasks = e.sections.flatMap((s: any) => s.tasks.map((t: any) => ({ id: t.id, examId: e.id, section: s.id, points: t.points,
-            exam: { year: e.year, session: e.session, level: e.level === 'kozep' ? 'közép' : e.level }, content: publicTask(t), ...(closed ? { key: t } : {}) })));
+          // ?szotar=1: a tanár bekapcsolta a szótárt (SPEC 4.5); a megoldást elárulható címszavak csak lezárt kiosztásnál jönnek itt
+          const closed = url.searchParams.get('st') === 'closed', gl = url.searchParams.get('szotar') === '1';
+          const tasks = e.sections.flatMap((s: any) => s.tasks.map((t: any) => { const g = gl ? glossFor(t.id) : null; return { id: t.id, examId: e.id, section: s.id, points: t.points,
+            exam: { year: e.year, session: e.session, level: e.level === 'kozep' ? 'közép' : e.level }, content: publicTask(t), ...(closed ? { key: t } : {}),
+            ...(g ? { glossary: g.entries, ...(closed ? { glossaryAfter: g.after } : {}) } : {}) }; }));
           return send(200, { found: true, code, status: closed ? 'closed' : 'open', audioMode: url.searchParams.get('hang') === 'teacher' ? 'teacher' : 'student',
-            solutionVisibility: url.searchParams.get('vis') || 'immediate', tasks,
+            solutionVisibility: url.searchParams.get('vis') || 'immediate', glossary: gl, tasks,
             submitted: submitted.has(code + (url.searchParams.get('device') || '')) });
         }
         if (url.pathname === '/submit' && req.method === 'POST') {
@@ -70,7 +72,8 @@ function devApi(): Plugin {
             let score = 0, max = 0; const tasks: any[] = [];
             for (const s of e.sections) for (const t of s.tasks) {
               const g = gradeTask(t, (b.answers || {})[t.id] || {}); score += g.score; max += g.max;
-              tasks.push({ id: t.id, score: g.score, max: g.max, results: g.results, solutions: b.vis === 'after_close' ? null : solutions(t) });
+              tasks.push({ id: t.id, score: g.score, max: g.max, results: g.results, solutions: b.vis === 'after_close' ? null : solutions(t),
+                ...(b.szotar === '1' && b.vis !== 'after_close' ? { glossaryAfter: glossFor(t.id).after } : {}) });
             }
             submitted.add(b.code + b.deviceId);
             setTimeout(() => send(200, { score, max, tasks, solutionsVisible: b.vis !== 'after_close', id: randomUUID() }), 300);

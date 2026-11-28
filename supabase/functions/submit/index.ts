@@ -25,7 +25,7 @@ Deno.serve(async (req) => {
   if (JSON.stringify(answers).length > 200_000) return json({ error: 'too_large' }, 413);
 
   const db = createClient(Deno.env.get('SUPABASE_URL')!, serverKey(), { auth: { persistSession: false } });
-  const { data: a, error: e0 } = await db.from('assignments').select('id, status, solution_visibility').eq('code', code).maybeSingle();
+  const { data: a, error: e0 } = await db.from('assignments').select('id, status, solution_visibility, glossary').eq('code', code).maybeSingle();
   if (e0) { console.error('assignments', e0); return json({ error: 'db' }, 500); }
   if (!a) return json({ error: 'not_found' }, 404);
   if (a.status !== 'open') return json({ error: 'closed' }, 409);
@@ -37,6 +37,13 @@ Deno.serve(async (req) => {
   const byId = new Map(keys.map((k) => [k.task_id, k.task]));
 
   const showSolutions = a.solution_visibility === 'immediate';
+  // bekapcsolt szótárnál a megoldást elárulható címszavak (SPEC 4.5) csak a megoldással együtt mennek ki
+  const after = new Map<string, unknown>();
+  if (a.glossary && showSolutions) {
+    const { data: gl, error: eg } = await db.from('task_glossary').select('task_id, after_submit').in('task_id', at.map((x) => x.task_id));
+    if (eg) console.error('task_glossary', eg);
+    for (const g of gl || []) after.set(g.task_id, g.after_submit);
+  }
   let score = 0, max = 0;
   const rows: any[] = [], tasks: any[] = [];
   for (const { task_id } of at) {
@@ -45,7 +52,8 @@ Deno.serve(async (req) => {
     const g = gradeTask(task, ans);
     score += g.score; max += g.max;
     for (const r of g.results) rows.push({ task_id, item_n: r.n, given: ans[r.n] ?? null, result: r.result });
-    tasks.push({ id: task_id, score: g.score, max: g.max, results: g.results, solutions: showSolutions ? solutions(task) : null });
+    tasks.push({ id: task_id, score: g.score, max: g.max, results: g.results, solutions: showSolutions ? solutions(task) : null,
+      ...(after.has(task_id) ? { glossaryAfter: after.get(task_id) } : {}) });
   }
 
   // eszközönként csak az első beküldés számít a statisztikába (SPEC 4.3)

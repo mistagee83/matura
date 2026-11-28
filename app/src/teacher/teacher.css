@@ -253,3 +253,9 @@
 .t-writing h2 { margin: 0; font-size: 22px; }
 .t-writing p { margin: 0; line-height: 1.5; max-width: 68ch; }
 .t-writing .pill { text-decoration: none; margin-top: 6px; }
+
+/* kiosztás: a szótár bekapcsolása (SPEC 4.5) */
+.t-check { display: flex; align-items: flex-start; gap: 12px; padding: 10px 14px; border-radius: 14px; border: 1.5px solid var(--muted); color: var(--mist); font-size: 14px; cursor: pointer; }
+.t-check:has(input:checked) { background: var(--deep); border-color: var(--yellow); color: var(--white); }
+.t-check input { flex: none; width: 20px; height: 20px; margin: 2px 0 0; accent-color: var(--yellow); cursor: pointer; }
+.t-check b { display: block; font-weight: 600; margin-bottom: 2px; }

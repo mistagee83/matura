@@ -15,7 +15,7 @@ export interface Group { id: string; name: string; level: Level; archived: boole
 export interface LibTask { id: string; exam_id: string; section: Section; number: number; kind: string; exam_type: string | null; points: number; position: number;
   exams: { year: number; session: string; level: Level } }
 export interface AssignmentRow { id: string; code: string; status: 'open' | 'closed'; created_at: string; audio_mode: 'teacher' | 'student';
-  solution_visibility: 'immediate' | 'after_close'; group_id: string | null;
+  solution_visibility: 'immediate' | 'after_close'; glossary: boolean; group_id: string | null;
   assignment_tasks: { task_id: string; position: number }[]; submissions: { score: number; max_score: number; counts: boolean }[] }
 export interface SubmissionRow { id: string; nickname: string; score: number; max_score: number; counts: boolean; created_at: string }
 
@@ -47,12 +47,12 @@ export const updateGroup = async (id: string, patch: Partial<Pick<Group, 'name' 
   check(await must().from('groups').update(patch).eq('id', id).select().single()) as Group;
 export const deleteGroup = async (id: string) => { check(await must().from('groups').delete().eq('id', id)); };
 
-const ASG = 'id, code, status, created_at, audio_mode, solution_visibility, group_id, assignment_tasks(task_id, position), submissions(score, max_score, counts)';
+const ASG = 'id, code, status, created_at, audio_mode, solution_visibility, glossary, group_id, assignment_tasks(task_id, position), submissions(score, max_score, counts)';
 export const loadAssignments = async () => check(await must().from('assignments').select(ASG).order('created_at', { ascending: false })) as AssignmentRow[];
 export const loadAssignment = async (id: string) => check(await must().from('assignments').select(ASG).eq('id', id).maybeSingle()) as AssignmentRow | null;
 export const deleteAssignment = async (id: string) => { check(await must().from('assignments').delete().eq('id', id)); };
-export const createAssignment = async (group: string | null, tasks: string[], audioMode: 'teacher' | 'student', visibility: 'immediate' | 'after_close') =>
-  check(await must().rpc('create_assignment', { p_group: group, p_tasks: tasks, p_audio_mode: audioMode, p_solution_visibility: visibility })) as { id: string; code: string };
+export const createAssignment = async (group: string | null, tasks: string[], audioMode: 'teacher' | 'student', visibility: 'immediate' | 'after_close', glossary: boolean) =>
+  check(await must().rpc('create_assignment', { p_group: group, p_tasks: tasks, p_audio_mode: audioMode, p_solution_visibility: visibility, p_glossary: glossary })) as { id: string; code: string };
 
 export const loadSubmissions = async (assignmentId: string) =>
   check(await must().from('submissions').select('id, nickname, score, max_score, counts, created_at').eq('assignment_id', assignmentId).order('created_at')) as SubmissionRow[];

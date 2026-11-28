@@ -40,6 +40,21 @@ export function glossMatcher(list: GlossEntry[]): Matcher | null {
   };
 }
 
+// a Szótár kapcsoló állását az eszköz megjegyzi (kényelmi beállítás; ha a tároló nem érhető el, kikapcsolva indul)
+const DICT_KEY = 'matura:szotar';
+export function useDict(): [boolean, (v: boolean) => void] {
+  const [on, setOn] = useState(() => { try { return localStorage.getItem(DICT_KEY) === '1'; } catch { return false; } });
+  return [on, (v) => { setOn(v); try { localStorage.setItem(DICT_KEY, v ? '1' : '0'); } catch { /* nincs tároló */ } }];
+}
+
+/** A szójegyzék kapcsolója a feladat fölött: csak ott látszik, ahol a feladathoz van szójegyzék. */
+export function DictBar({ on, set }: { on: boolean; set: (v: boolean) => void }) {
+  return (<div className="dictbar">
+    <button type="button" className={'chip' + (on ? ' on' : '')} aria-pressed={on} onClick={() => set(!on)}>Szótár</button>
+    <span className="muted">{on ? 'Koppints egy aláhúzott szóra. A vizsgán nincs szótár, ezért csak akkor használd, ha elakadtál.' : 'Bekapcsolva a nehezebb szavak jelentése egy koppintással előhívható.'}</span>
+  </div>);
+}
+
 /** A magyarázat lapja: angolul elöl, a magyar és a tipp kérésre. A kiemelt kifejezésen belüli önálló címszavak („Benne:”)
  *  külön gombként, mert a szövegben a hosszabb kifejezés kapja a kiemelést. */
 export function GlossSheet({ pick, list, onPick, onClose }: { pick: { e: GlossEntry; text: string }; list: GlossEntry[]; onPick: Pick; onClose: () => void }) {

@@ -6,6 +6,7 @@ import { getCatalog, getPracticeTask, submitPractice, type CatalogTask, type Tas
 import Player, { clipUrl } from './Player';
 import { loadFilter, saveFilter, loadPractice, savePractice, practiceDone, type PracticeFilter, type PracticeSaved } from './store';
 import Task, { filled, toSubmit } from './Task';
+import { DictBar, useDict } from './gloss';
 import { Header, go } from './ui';
 
 const SECTION: Record<string, string> = { reading: 'Olvasás', language: 'Nyelvhelyesség', listening: 'Hallás' };
@@ -16,18 +17,6 @@ const byExam = (a: CatalogTask, b: CatalogTask) =>
 const examLabel = (t: { year: number; session: string }) => `${t.year}. ${t.session}`;
 const matches = (f: PracticeFilter) => (t: CatalogTask) => t.level === f.level && (f.section === 'all' || t.section === f.section);
 const LOAD_ERR = 'Nem sikerült betölteni. Ellenőrizd az internetkapcsolatot, és töltsd újra az oldalt.';
-// a Szótár kapcsoló állását az eszköz megjegyzi (kényelmi beállítás; ha a tároló nem érhető el, kikapcsolva indul)
-const DICT_KEY = 'matura:szotar';
-const loadDict = () => { try { return localStorage.getItem(DICT_KEY) === '1'; } catch { return false; } };
-const saveDict = (on: boolean) => { try { localStorage.setItem(DICT_KEY, on ? '1' : '0'); } catch { /* nincs tároló */ } };
-
-/** A szójegyzék kapcsolója a feladat fölött (SPEC 4.5): csak ott látszik, ahol a feladathoz van szójegyzék. */
-function DictBar({ on, set }: { on: boolean; set: (v: boolean) => void }) {
-  return (<div className="dictbar">
-    <button type="button" className={'chip' + (on ? ' on' : '')} aria-pressed={on} onClick={() => set(!on)}>Szótár</button>
-    <span className="muted">{on ? 'Koppints egy aláhúzott szóra. A vizsgán nincs szótár, ezért csak akkor használd, ha elakadtál.' : 'Bekapcsolva a nehezebb szavak jelentése egy koppintással előhívható.'}</span>
-  </div>);
-}
 
 export default function Practice({ path }: { path: string }) {
   const m = /^\/gyakorlas\/([0-9a-z-]+[RLH]\d+)\/?$/.exec(path);
@@ -104,8 +93,7 @@ function PracticeTask({ id }: { id: string }) {
     }).catch(() => {});
   }, [id]);
   const update = (fn: (o: PracticeSaved) => PracticeSaved) => setS((o) => { const n = fn(o); savePractice(id, n); return n; });
-  const [dict, setDictState] = useState(loadDict);
-  const setDict = (v: boolean) => { setDictState(v); saveDict(v); };
+  const [dict, setDict] = useDict();
   // beküldés előtt csak a nyilvános címszavak; a javítás után a megoldást elárulhatók is
   const glossAll = useMemo(() => [...(t?.glossary || []), ...(s.result?.glossaryAfter || [])], [t, s.result]);
   const gloss = { list: glossAll, on: dict };

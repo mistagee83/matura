@@ -3,7 +3,8 @@
 import { lazy, Suspense, useEffect, useMemo, useState } from 'react';
 import Practice from './Practice';
 import { Header, go } from './ui';
-import { getAssignment, submit, SubmitError, type Assignment, type TaskRef, type TaskResult } from './api';
+import { getAssignment, submit, SubmitError, type Assignment, type GlossEntry, type TaskRef, type TaskResult } from './api';
+import { DictBar, useDict } from './gloss';
 import { solutions } from '../../supabase/functions/_shared/grade';
 import Player, { clipUrl } from './Player';
 import { deviceId, loadSaved, save, lastNickname, rememberNickname, type Saved } from './store';
@@ -57,6 +58,7 @@ function AssignmentView({ code }: { code: string }) {
   const [confirmEmpty, setConfirmEmpty] = useState(false);
 
   const [showKey, setShowKey] = useState(false);
+  const [dict, setDict] = useDict();
   useEffect(() => { getAssignment(code, device).then(setA).catch(() => setErr('Nem sikerült betölteni a feladatot. Ellenőrizd az internetkapcsolatot, és töltsd újra az oldalt.')); }, [code, device]);
   // beküldés után, ha a megoldás csak lezáráskor nyílik meg: időnként megnézzük, lezárta-e már a tanár (SPEC 4.1)
   const waiting = !!s.result && !s.result.solutionsVisible && !!a?.found && a.status === 'open';
@@ -71,6 +73,12 @@ function AssignmentView({ code }: { code: string }) {
   if (!a) return <div className="page"><Header title="Betöltés…" /><main><div className="skel" /><div className="skel" /><div className="skel short" /></main></div>;
   if (!a.found) return <CodeEntry invalid={code} />;
   const tasks = a.tasks;
+  // szójegyzék, ha a tanár bekapcsolta (SPEC 4.5): a megoldást elárulható címszavak csak akkor, amikor a megoldás is látható
+  const glossOf = (t: TaskRef, after?: GlossEntry[]) => {
+    const list = a.glossary ? [...(t.glossary || []), ...(after || [])] : [];
+    return list.length ? { list, on: dict } : undefined;
+  };
+  const dictBar = (show: boolean) => show && <DictBar on={dict} set={setDict} />;
 
   // ---- eredmény ----
   if (s.result) {
@@ -87,9 +95,11 @@ function AssignmentView({ code }: { code: string }) {
         {tasks.length > 1 && <ul className="tasklist">{r.tasks.map((t) => { const ref = tasks.find((x) => x.id === t.id)!; return <li key={t.id}>{SECTION[ref.section]} – {ref.content.number}. feladat<b>{t.score} / {t.max}</b></li>; })}</ul>}
         {!visible && <p className="warn">A megoldásokat a tanárod a lezárás után nyitja meg. Ha nyitva hagyod ezt az oldalt, magától megjelennek; később ugyanezt a linket ezen az eszközön újra megnyitva is megnézheted őket.</p>}
         {visible && !r.solutionsVisible && <p className="note">A tanárod lezárta a feladatot: lent látod a megoldást.</p>}
+        {visible && dictBar(tasks.some((t) => glossOf(t)))}
         {visible && tasks.map((t) => (<section key={t.id} className="graded">
           <h2>{SECTION[t.section]} – {t.content.number}. feladat <span className="muted">{r.tasks.find((x) => x.id === t.id)?.score} / {t.points}</span></h2>
-          <Task task={t.content} ans={s.answers[t.id] || {}} set={() => {}} graded={gradedOf(t)} audio={studentAudio(t, a)} />
+          <Task task={t.content} ans={s.answers[t.id] || {}} set={() => {}} graded={gradedOf(t)} audio={studentAudio(t, a)}
+            gloss={glossOf(t, r.solutionsVisible ? r.tasks.find((x) => x.id === t.id)?.glossaryAfter : t.glossaryAfter)} />
         </section>))}
         <div className="actions">
           {a.status === 'open' && <button className="pill ghost" onClick={() => update((o) => ({ ...o, answers: {}, index: 0, result: null }))}>Újra kitöltöm gyakorlásként</button>}
@@ -102,11 +112,11 @@ function AssignmentView({ code }: { code: string }) {
   if (a.status === 'closed') return (<div className="page"><Header title="Matura" sub={tasks[0] && label(tasks[0])} /><main>
     <p className="warn">Ez a feladat lezárult, új megoldást már nem fogad.{s.started ? ' A válaszaidat nem küldted be, ezért pontszám nincs; lent összevetheted őket a megoldással.' : ''}</p>
     {!showKey ? <div className="actions"><button className="pill primary" onClick={() => setShowKey(true)}>Megnézem a megoldást</button></div>
-      : tasks.map((t) => (<section key={t.id} className="graded">
+      : <>{dictBar(tasks.some((t) => glossOf(t)))}{tasks.map((t) => (<section key={t.id} className="graded">
         <h2>{SECTION[t.section]} – {t.content.number}. feladat</h2>
         <Task task={t.content} ans={s.answers[t.id] || {}} set={() => {}} keyOnly audio={studentAudio(t, a)}
-          graded={{ id: t.id, score: 0, max: 0, results: [], solutions: solOf(t) }} />
-      </section>))}
+          graded={{ id: t.id, score: 0, max: 0, results: [], solutions: solOf(t) }} gloss={glossOf(t, t.glossaryAfter)} />
+      </section>))}</>}
   </main></div>);
 
   // ---- belépés ----
@@ -160,7 +170,8 @@ function AssignmentView({ code }: { code: string }) {
     <Header title={`${SECTION[t.section]} – ${t.content.number}. feladat`} sub={t.content.examType} right={`${doneN} / ${real(t).length}`} />
     <main>
       {tasks.length > 1 && <p className="muted step">{idx + 1} / {tasks.length} feladat</p>}
-      <Task key={t.id} task={t.content} ans={ans} set={setAns} audio={audio} />
+      {dictBar(!!glossOf(t))}
+      <Task key={t.id} task={t.content} ans={ans} set={setAns} audio={audio} gloss={glossOf(t)} />
     </main>
     {confirmEmpty && <><div className="shade" onClick={() => setConfirmEmpty(false)} /><div className="sheet" role="dialog" aria-modal="true">
       <div className="sh"><span>Még üres: {totalEmpty} kérdés</span></div>
