@@ -8,7 +8,9 @@ const sb = URL_ && KEY ? createClient(URL_, KEY, { auth: { persistSession: false
 
 export type Result = 'ok' | 'typo' | 'bad';
 export interface TaskRef { id: string; examId: string; section: 'reading' | 'language' | 'listening'; points: number; exam: { year: number; session: string; level: string }; content: any;
-  /** a kulcsos feladat: csak lezárt kiosztásnál jön (a megoldás megnyitása) */ key?: any }
+  /** a kulcsos feladat: csak lezárt kiosztásnál jön (a megoldás megnyitása) */ key?: any;
+  /** a szójegyzék beküldés előtt látható címszavai (csak az önálló gyakorlásban, olvasásfeladatnál; SPEC 4.5) */ glossary?: GlossEntry[] }
+export interface GlossEntry { forms: string[]; lemma: string; pos: string; en: string; hu: string; tip?: string }
 export interface Assignment { found: boolean; code: string; status: 'open' | 'closed'; audioMode: 'teacher' | 'student'; solutionVisibility: 'immediate' | 'after_close'; tasks: TaskRef[]; submitted: boolean }
 export interface TaskResult { id: string; score: number; max: number; results: { n: number; result: Result }[]; solutions: Record<string, any> | null }
 export interface SubmitResult { score: number; max: number; tasks: TaskResult[]; solutionsVisible: boolean }
@@ -28,7 +30,8 @@ export async function getAssignment(code: string, deviceId: string): Promise<Ass
 // ---- önálló gyakorlás (SPEC 4.4): tanár, kód és becenév nélkül ----
 export interface CatalogTask { id: string; examId: string; section: TaskRef['section']; number: number; examType: string | null; points: number;
   position: number; year: number; session: string; level: 'közép' | 'emelt' }
-export interface PracticeResult extends TaskResult { solutions: Record<string, any> }
+export interface PracticeResult extends TaskResult { solutions: Record<string, any>;
+  /** a szójegyzék megoldást elárulható címszavai: csak a javítás után jönnek */ glossaryAfter?: GlossEntry[] }
 
 let catalogCache: Promise<CatalogTask[]> | null = null;
 export function getCatalog(): Promise<CatalogTask[]> {

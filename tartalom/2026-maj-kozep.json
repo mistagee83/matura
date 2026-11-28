@@ -61,7 +61,7 @@
      "points": 8,
      "instructions": [
       "Read the following answers from the website of the National Animal Welfare Trust (NAWT). The questions have been removed.",
-      "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1- 8).",
+      "Your task is to write the letters of the questions (A-M) next to the appropriate numbers (1-8).",
       "There are three extra questions that you do not need."
      ],
      "title": "NATIONAL ANIMAL WELFARE TRUST — FREQUENTLY ASKED QUESTIONS",
@@ -184,10 +184,10 @@
      "title": "MONET AND VENICE",
      "body": [
       "Claude Monet’s paintings of Venice are headlining an exhibition for the first time in more than a century. Monet is best {{0}}, and his paintings of Venice are less well known.",
-      "In 1908, the French impressionist and his wife, Alice, travelled to Venice on holiday. When they arrived, he told her that the city was “too beautiful” to paint, and {{9}}. Being in his late 60s at the time, he didn’t want to go in the first place, but his wife {{10}}, and eventually he agreed. He became so {{11}} that he was able to overcome his doubts. They spent two months in Venice, and he painted 37 oil-on- canvas paintings.",
+      "In 1908, the French impressionist and his wife, Alice, travelled to Venice on holiday. When they arrived, he told her that the city was “too beautiful” to paint, and {{9}}. Being in his late 60s at the time, he didn’t want to go in the first place, but his wife {{10}}, and eventually he agreed. He became so {{11}} that he was able to overcome his doubts. They spent two months in Venice, and he painted 37 oil-on-canvas paintings.",
       "While some of the Venice paintings have {{12}}, the Brooklyn Museum’s new exhibition is the first that takes that group of work as its focus since 1912.",
       "Monet’s work is celebrated now, and he’s often {{13}}, but when he was painting, his work wasn’t as accepted. His style, with its visible brushstrokes, bright colours and soft appearance, is widely {{14}}, but it was radical and often criticised in its time.",
-      "The exhibition provides context on how the artworks fit into Monet’s life and career. “It is well- known that he was a painter of light, but he was also a painter of water throughout his entire career,” Lisa Small, the curator of the exhibition explains. “We wanted to show how Venice, a place where you’re surrounded by water and buildings are {{15}}, ended up being the perfect Monet theme”."
+      "The exhibition provides context on how the artworks fit into Monet’s life and career. “It is well-known that he was a painter of light, but he was also a painter of water throughout his entire career,” Lisa Small, the curator of the exhibition explains. “We wanted to show how Venice, a place where you’re surrounded by water and buildings are {{15}}, ended up being the perfect Monet theme”."
      ],
      "bank": [
       {
@@ -288,7 +288,7 @@
      "title": "FOOD COLOURING LETS SCIENTISTS SEE THROUGH SKIN",
      "body": [
       "Using a common yellow food colouring called tartrazine, scientists at Stanford University have created a liquid that allows them to see through the skin of a living mouse.",
-      "The scientists mixed tartrazine with water to make a special lotion. When they tested this mixture on thin slices of chicken breast, the chicken turned clear. Next, the researchers repeated the method on the skin of living mice. First, they shaved the mice to get the hair out of the way. Then, they rubbed the liquid on the head of the mice. In a few minutes, the skin became see- through, and the scientists were able to see a mouse’s brain. When the mixture was rubbed on the skin of a mouse’s belly, the organs inside, like the liver and bowels, became clearly visible. When the liquid was washed off, the skin returned to normal.",
+      "The scientists mixed tartrazine with water to make a special lotion. When they tested this mixture on thin slices of chicken breast, the chicken turned clear. Next, the researchers repeated the method on the skin of living mice. First, they shaved the mice to get the hair out of the way. Then, they rubbed the liquid on the head of the mice. In a few minutes, the skin became see-through, and the scientists were able to see a mouse’s brain. When the mixture was rubbed on the skin of a mouse’s belly, the organs inside, like the liver and bowels, became clearly visible. When the liquid was washed off, the skin returned to normal.",
       "To understand how the new discovery works, think about how light travels through different materials. Skin is made of many different parts, like water, fat, and protein. These different materials scatter the light, making it hard to see through skin. Tartrazine makes the watery parts of the skin more like the other areas. When the light mostly bends the same way, the skin becomes see-through.",
       "The discovery could one day allow doctors to detect medical problems inside the body without needing to do surgery. However, the mixture has only been tested on animals, and more work needs to be done before a similar method can be used on humans."
      ],
@@ -380,7 +380,7 @@
      "title": "FACTS ABOUT ROALD DAHL",
      "body": [
       "{{0}}\nMany of them have been turned into films and even musicals, including Charlie and the Chocolate Factory and Matilda.",
-      "{{26}}\nHe came up with more than 500 new words and names, such as the Oompa- Loompas and scrumdiddlyumptious from Charlie and the Chocolate Factory. He called his language Gobblefunk.",
+      "{{26}}\nHe came up with more than 500 new words and names, such as the Oompa-Loompas and scrumdiddlyumptious from Charlie and the Chocolate Factory. He called his language Gobblefunk.",
       "{{27}}\nHe had a cosy old armchair and a specially designed writing board which would sit on his lap. He would also only write his stories using a pencil and yellow paper.",
       "{{28}}\nOne of them was the famous chocolate maker, John Cadbury, whose company used to taste-test their chocolate bars at Roald's school. Roald used to dream that he would invent a new chocolate bar and win praise from Mr Cadbury.",
       "{{29}}\nAs part of his work, he reported secret information that he collected at dinners and cocktail parties in the US. There, he worked alongside James Bond creator Ian Fleming, and later wrote the film storyline for the fifth James Bond movie You Only Live Twice.",

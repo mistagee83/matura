@@ -16,6 +16,18 @@ const byExam = (a: CatalogTask, b: CatalogTask) =>
 const examLabel = (t: { year: number; session: string }) => `${t.year}. ${t.session}`;
 const matches = (f: PracticeFilter) => (t: CatalogTask) => t.level === f.level && (f.section === 'all' || t.section === f.section);
 const LOAD_ERR = 'Nem sikerült betölteni. Ellenőrizd az internetkapcsolatot, és töltsd újra az oldalt.';
+// a Szótár kapcsoló állását az eszköz megjegyzi (kényelmi beállítás; ha a tároló nem érhető el, kikapcsolva indul)
+const DICT_KEY = 'matura:szotar';
+const loadDict = () => { try { return localStorage.getItem(DICT_KEY) === '1'; } catch { return false; } };
+const saveDict = (on: boolean) => { try { localStorage.setItem(DICT_KEY, on ? '1' : '0'); } catch { /* nincs tároló */ } };
+
+/** A szójegyzék kapcsolója a feladat fölött (SPEC 4.5): csak ott látszik, ahol a feladathoz van szójegyzék. */
+function DictBar({ on, set }: { on: boolean; set: (v: boolean) => void }) {
+  return (<div className="dictbar">
+    <button type="button" className={'chip' + (on ? ' on' : '')} aria-pressed={on} onClick={() => set(!on)}>Szótár</button>
+    <span className="muted">{on ? 'Koppints egy aláhúzott szóra. A vizsgán nincs szótár, ezért csak akkor használd, ha elakadtál.' : 'Bekapcsolva a nehezebb szavak jelentése egy koppintással előhívható.'}</span>
+  </div>);
+}
 
 export default function Practice({ path }: { path: string }) {
   const m = /^\/gyakorlas\/([0-9a-z-]+[RLH]\d+)\/?$/.exec(path);
@@ -92,6 +104,12 @@ function PracticeTask({ id }: { id: string }) {
     }).catch(() => {});
   }, [id]);
   const update = (fn: (o: PracticeSaved) => PracticeSaved) => setS((o) => { const n = fn(o); savePractice(id, n); return n; });
+  const [dict, setDictState] = useState(loadDict);
+  const setDict = (v: boolean) => { setDictState(v); saveDict(v); };
+  // beküldés előtt csak a nyilvános címszavak; a javítás után a megoldást elárulhatók is
+  const glossAll = useMemo(() => [...(t?.glossary || []), ...(s.result?.glossaryAfter || [])], [t, s.result]);
+  const gloss = { list: glossAll, on: dict };
+  const dictBar = glossAll.length > 0 && <DictBar on={dict} set={setDict} />;
   const back = { label: 'Vissza a feladatokhoz', to: '/gyakorlas' };
 
   if (err) return <div className="page"><Header title="Gyakorlás" back={back} /><main><p className="warn">{err}</p></main></div>;
@@ -114,7 +132,8 @@ function PracticeTask({ id }: { id: string }) {
       <main>
         <div className="card score-card"><div className="big">{r.score} / {r.max}</div><div>pont</div></div>
         <p className="note">Lent látod, melyik válaszod jó és melyik nem, és a hibás helyeken a helyes választ.</p>
-        <Task task={t.content} ans={s.answers} set={() => {}} graded={r} audio={audio} />
+        {dictBar}
+        <Task task={t.content} ans={s.answers} set={() => {}} graded={r} audio={audio} gloss={gloss} />
         <div className="actions">
           <button className="pill ghost" onClick={() => { update((o) => ({ ...o, answers: {}, result: null })); scrollTo(0, 0); }}>Újra megoldom</button>
           {nextBtn}
@@ -140,7 +159,8 @@ function PracticeTask({ id }: { id: string }) {
   return (<div className="page">
     <Header title={title} sub={sub} right={`${real.length - empty} / ${real.length}`} back={back} />
     <main>
-      <Task key={t.id} task={t.content} ans={s.answers} set={setAns} audio={audio} />
+      {dictBar}
+      <Task key={t.id} task={t.content} ans={s.answers} set={setAns} audio={audio} gloss={gloss} />
     </main>
     <footer className="foot">
       {sendErr && <p className="warn">{sendErr}</p>}

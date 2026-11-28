@@ -66,7 +66,7 @@
      "body": [
       "In this extract from How To Make A Spaceship, Stephen Hawking explains why he said yes when offered a seat on Virgin’s SpaceShipTwo and {{0}}.",
       "‘I have no fear of adventure. Years ago I barrelled down the steepest hills of San Francisco in my wheelchair. I travel widely and have been to Antarctica and Easter Island and {{1}}. In 2007, after my sixty-fifth birthday, I did something special: I experienced zero gravity. It temporarily took away my disability and {{2}}. After forty years in a wheelchair, I had four wonderful minutes of weightlessness. I travelled in a modified Boeing 727 jet over the ocean off Florida which {{3}}. It has always been my dream to travel into space, and the experience was amazing.",
-      "Now I have a chance to travel to the start of space aboard a Virgin Galactic SpaceShip. Richard Branson is opening spaceflight up for ordinary citizens, and {{4}}. I immediately said yes to Richard when he offered me a seat on SpaceShipTwo. I have lived with ALS, amyotrophic lateral sclerosis, for fifty years. When I was diagnosed at age twenty- one, I was given two years to live. I was starting my PhD at Cambridge and {{5}} whether the universe had always existed and would always exist or had begun with a big explosion. As my body grew weaker, my mind grew stronger. I lost the use of my hands and {{6}}, but I developed ways of travelling through the universe in my mind and visualising how it all worked.",
+      "Now I have a chance to travel to the start of space aboard a Virgin Galactic SpaceShip. Richard Branson is opening spaceflight up for ordinary citizens, and {{4}}. I immediately said yes to Richard when he offered me a seat on SpaceShipTwo. I have lived with ALS, amyotrophic lateral sclerosis, for fifty years. When I was diagnosed at age twenty-one, I was given two years to live. I was starting my PhD at Cambridge and {{5}} whether the universe had always existed and would always exist or had begun with a big explosion. As my body grew weaker, my mind grew stronger. I lost the use of my hands and {{6}}, but I developed ways of travelling through the universe in my mind and visualising how it all worked.",
       "I believe that we need a new generation of astronauts to explore our solar system. These first private astronauts will be pioneers, and {{7}}. It is my belief, and it is the message of Julian Guthrie’s book, for which I have written the afterword, that there is no limit to human effort. Raise your sights. Be brave and kind. Remember to look up at the stars and {{8}}. Space, here I come!’",
       "(https://www.theguardian.com)"
      ],
@@ -256,7 +256,7 @@
       "The truth is that we can nap anywhere. The best way is to find a spot where you can make yourself comfortable at some point during the afternoon period – an unused office, the sofa in the staff room or even in the park. Then close your eyes and just let go. Some people say that they simply “can’t nap” and they won’t be able to fall asleep. But here is the thing: it doesn’t matter. What’s important is that you use this period to close your eyes and disconnect from the world for a short while.",
       "After a nap, take five minutes to become aware of your surroundings and have a cup of tea or a glass of water. One more thing - light will reduce any tiredness quickly, so you will be full of energy and enjoy all the benefits of your nap.",
       "(bbc.co.uk)",
-      "According to the article you cannot overlook the importance of taking a(n) nap during the day.",
+      "According to the article you cannot overlook the importance of taking a(n) {{0}} during the day.",
       "Just a brief nap will help you {{17}} things better.",
       "It’s a good idea to have a(n) {{18}} minute nap in the afternoon.",
       "If you drink your coffee very {{19}}, you won’t be able to have a nap.",
@@ -269,6 +269,13 @@
       "caseSensitive": false
      },
      "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "nap"
+       ]
+      },
       {
        "n": 17,
        "accept": [
@@ -571,7 +578,7 @@
      ],
      "title": "BEALTAINE",
      "body": [
-      "It is believed that {{0}} ancient Irish had four major festivals, as {{9}}as a number of smaller festivals. When Christianity came to Ireland around 1500 years {{10}}, the priests and monks Christianised some of the Pagan festivals and because of that, some of the ancient Irish festivals {{11}} still celebrated in Ireland today.",
+      "It is believed that {{0}} ancient Irish had four major festivals, as {{9}} as a number of smaller festivals. When Christianity came to Ireland around 1500 years {{10}}, the priests and monks Christianised some of the Pagan festivals and because of that, some of the ancient Irish festivals {{11}} still celebrated in Ireland today.",
       "Bealtaine signals the start of summer. Anyone who speaks Irish will {{12}} familiar with this word, {{13}} Bealtaine is also the Irish word for the month of May, along with the festival on the first day of that month. The word beal may have meant ‘bright light’ and the second part means ‘fire’. This festival is strongly connected {{14}} fire in Irish tradition. Until a hundred years ago, people in some country areas of Ireland still followed the custom {{15}} building two great fires in a field on this day and driving their cattle between the fires to protect them from disease. According to a text from the 10th century, the Druids used {{16}} do the same during the Pagan era hundreds of years before that. When an Irish speaker is confused or unsure {{17}} to do, they often use the phrase “I am between two Bealtaine fires about it”.",
       "(www.bbc.co.uk)"
      ],

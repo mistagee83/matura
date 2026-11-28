@@ -2,14 +2,15 @@
 
 Angol érettségi gyakorló: a tanár kioszt egy feladatot, a diákok telefonon, becenévvel megoldják, a szerver javít. A teljes specifikáció: `SPEC.md` (a forrásanyag mappájából átvéve; ha döntés születik, ott és itt is vezesd át).
 
-A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D:\Dokumentumok\Tanári segédanyagok\e-books\Érettségi 2005-2026`. A `tartalom/` ennek a másolata; tartalmi javítás ott történik (kinyerő, `kezi.js`), utána ide másolandó, és újra kell generálni a `supabase/seed.sql`-t.
+A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D:\Dokumentumok\Tanári segédanyagok\e-books\Érettségi 2005-2026`. A `tartalom/` és a `szojegyzek/` ennek a másolata; tartalmi javítás ott történik (kinyerő, `kezi.js`; a szójegyzéknél a `szojegyzek-ellenorzo.js` után), utána ide másolandó, és újra kell generálni a `supabase/seed.sql`-t.
 
 ## Szerkezet
 
 | Hely | Mi van benne |
 |---|---|
 | `app/` | a felület (React, TypeScript, Vite); Cloudflare Pages-re épül. Nyitóoldal: `/` (`app/src/Landing.tsx`, benne a diák kódbeírója); diák: `/k/<kód>`; tanár: `/tanar` (`app/src/teacher/`, külön csomagként töltődik); kiosztás: `/tanar/kiosztas/<id>` (megosztás, élő nézet, tanári hang, lezárás), statisztika: `/tanar/kiosztas/<id>/eredmeny`; csoport oldala (trendek, összevetés): `/tanar/csoport/<id>`; önálló gyakorlás: `/gyakorlas`, `/gyakorlas/<feladat>` (`app/src/Practice.tsx`, SPEC 4.4) |
-| `supabase/functions/practice/` | önálló gyakorlás: egy feladat javítása, a megoldással; csak névtelen darabszámot ment (`practice_runs`) |
+| `supabase/functions/practice/` | önálló gyakorlás: egy feladat javítása, a megoldással és a szójegyzék megoldást elárulható címszavaival (`glossaryAfter`); csak névtelen darabszámot ment (`practice_runs`) |
+| `szojegyzek/` | az olvasásfeladatok szójegyzéke (SPEC 4.5), a forrásmappa `szojegyzek/` mappájának másolata; a seed `task_glossary` táblába tölti, kettébontva (`_shared/glossary.ts`): a beküldés előtt látható rész a `practice_task()`-kal megy ki, az `afterSubmit` rész csak a `practice` függvény válaszával. Felület: `app/src/gloss.tsx` (kiemelés, magyarázó lap), a kapcsoló a `Practice.tsx`-ben |
 | `app/src/Player.tsx` | hanglejátszó (diák és tanár); a hang címe `VITE_AUDIO_BASE` + a `audio.clip` fájlneve |
 | `eszkozok/fredoka-hu.py` | a címsorok betűje (Fredoka 600) az ő, ű, Ő, Ű betűvel, amely a Google Fontsról letölthetőből hiányzik; kimenet: `app/public/fonts/fredoka-matura-600.woff2` (OFL 1.1, a licenc mellette). A Fredokát ezért nem a Google Fontsról töltjük. |
 | `eszkozok/hang-feltoltes.ts` | a kivágott hangok feltöltése az R2 `matura-hang` tárolóba (wrangler) |
@@ -24,7 +25,7 @@ A forrásanyag (PDF, mp3, a digitalizáló eszközök) külön mappában van: `D
 ## Parancsok
 
 ```
-node --test tests/grade.test.ts tests/trendek.test.ts   # a javító és a trendek számolásának próbája
+node --test tests/grade.test.ts tests/trendek.test.ts tests/szojegyzek.test.ts   # a javító, a trendek és a szójegyzék próbája
 node eszkozok/seed.ts               # supabase/seed.sql újragenerálása a tartalom/ alapján
 cd app && npm run dev               # http://localhost:5175 ; helyi próba-háttérrel, ha nincs .env.local
 cd app && npm run build             # típusellenőrzés és build
@@ -60,7 +61,8 @@ Helyi próbakódok (csak a fejlesztői kiszolgálón, `.env.local` nélkül vagy
 - Google-belépés kész és élesben kipróbálva (2026-11-25).
 - Levélküldés: Resend SMTP (`noreply@mrandrewshub.com`), a jelszó-visszaállítás élesben kipróbálva (2026-11-25). A levélsablonok még a Supabase alapértelmezett angol szövegei.
 - A Matura különálló termék, nem a Hub közös Firebase-fiókja (SPEC 11., 18. döntés).
-Önálló gyakorló mód (SPEC 4.4, 11./22.) – helyben kész és kipróbálva (2026-11-26), élesítésre vár: migráció `…06_gyakorlas.sql` (`practice_catalog()`, `practice_task()`, `practice_runs`), `practice` függvény (`verify_jwt = false`). Helyben a próba-háttér a `/dev-api/catalog`, `/dev-api/practice-task`, `/dev-api/practice` címen adja ugyanezt.
+Önálló gyakorló mód (SPEC 4.4, 11./22.) – élesben: migráció `…06_gyakorlas.sql` (`practice_catalog()`, `practice_task()`, `practice_runs`), `practice` függvény (`verify_jwt = false`). Helyben a próba-háttér a `/dev-api/catalog`, `/dev-api/practice-task`, `/dev-api/practice` címen adja ugyanezt.
+Szójegyzék a gyakorló módban (SPEC 4.5, 11./23.) – 2026-11-28: migráció `…28120000_szojegyzek.sql` (`task_glossary`, a `practice_task()` `glossary` mezővel), a `practice` függvény `glossaryAfter` mezője, felület: „Szótár” kapcsoló a gyakorló feladat fölött. Csak az önálló gyakorlásban; a tanári kiosztásban nincs (SPEC 11. Tisztázandó 3.). Ugyanekkor ment ki a tartalom 2026-11-28-i javítása (121 tördelési hiba, egy cím, három példa; SPEC 10.).
 3. szakasz (élő nézet és statisztika) – élesítve (2026-11-25); a valódi tanórás elfogadási próba hátravan (ellenőrzőlista: a forrásmappa `3-szakasz-orai-proba.md` fájlja).
 - Hang: mind a 273 fájl az R2 `matura-hang` tárolóban, nyilvános aldomain `https://matura-hang.mrandrewshub.com/` (wrangler r2 bucket domain, zóna: mrandrewshub.com). A jogi kérdést a megrendelő lezárta (SPEC 11., 19.).
 - Migrációk: `…04_elo.sql` (Realtime a submissions táblára; `get_assignment()` lezárt kiosztásnál a kulcsos feladatot is adja `key` mezőben; `assignment_stats()`), `…05_stat_javitas.sql` (csak a beírós válaszokat kisbetűsíti).

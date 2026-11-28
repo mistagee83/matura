@@ -4,6 +4,7 @@ import { readFileSync, readdirSync, existsSync, statSync, createReadStream } fro
 import { join } from 'node:path';
 import { randomUUID } from 'node:crypto';
 import { gradeTask, publicTask, solutions } from '../supabase/functions/_shared/grade';
+import { splitGlossary } from '../supabase/functions/_shared/glossary';
 
 // Helyi próba-háttér (csak `npm run dev` alatt, ha nincs VITE_SUPABASE_URL): ugyanazt adja vissza, mint élesben a
 // get_assignment() függvény és a `submit` Edge Function. A kulcs itt is a kiszolgálón marad; a böngésző csak a kulcs nélküli
@@ -23,6 +24,13 @@ function devApi(): Plugin {
     if (m) return load(m[1] === 'K' ? '2024-maj-kozep' : '2024-maj-emelt');
     const n = /^(\d{4})([A-Z0-9]+?)(KOZEP|EMELT)$/.exec(code);
     return n ? load(`${n[1]}-${n[2].toLowerCase()}-${n[3].toLowerCase()}`) : null;
+  };
+  // a szójegyzék (SPEC 4.5), mint élesben: a feladattal a nyilvános rész, a javítással a megoldást elárulható rész
+  const glossDir = new URL('../szojegyzek/', import.meta.url);
+  const glossFor = (taskId: string) => {
+    const f = new URL(taskId.replace(/-[RLH]\d+$/, '') + '.json', glossDir);
+    const list = existsSync(f) ? JSON.parse(readFileSync(f, 'utf8')).tasks[taskId] : null;
+    return splitGlossary(list || []);
   };
   const submitted = new Set<string>();
   return {
@@ -82,14 +90,14 @@ function devApi(): Plugin {
         if (url.pathname === '/practice-task') {
           const f = findTask(url.searchParams.get('id') || '');
           if (!f) return send(404, null);
-          return send(200, { id: f.t.id, examId: f.e.id, section: f.s.id, points: f.t.points, exam: { year: f.e.year, session: f.e.session, level: lvl(f.e) }, content: publicTask(f.t) });
+          return send(200, { id: f.t.id, examId: f.e.id, section: f.s.id, points: f.t.points, exam: { year: f.e.year, session: f.e.session, level: lvl(f.e) }, content: publicTask(f.t), glossary: glossFor(f.t.id).entries });
         }
         if (url.pathname === '/practice' && req.method === 'POST') {
           let raw = ''; req.on('data', (c) => (raw += c)); req.on('end', () => {
             const b = JSON.parse(raw || '{}'), f = findTask(String(b.taskId || ''));
             if (!f) return send(404, { error: 'not_found' });
             const g = gradeTask(f.t, b.answers || {});
-            setTimeout(() => send(200, { id: f.t.id, score: g.score, max: g.max, results: g.results, solutions: solutions(f.t) }), 300);
+            setTimeout(() => send(200, { id: f.t.id, score: g.score, max: g.max, results: g.results, solutions: solutions(f.t), glossaryAfter: glossFor(f.t.id).after }), 300);
           });
           return;
         }

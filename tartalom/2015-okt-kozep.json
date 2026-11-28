@@ -61,7 +61,7 @@
      "points": 7,
      "instructions": [
       "In the following interview with Michael, a hotel manager, the questions have been removed.",
-      "Your task is to match the questions (A- I) and the answers (1-7).",
+      "Your task is to match the questions (A-I) and the answers (1-7).",
       "There is one extra question that you do not need."
      ],
      "body": [
@@ -240,7 +240,7 @@
      "points": 7,
      "instructions": [
       "Read this text about a journalist’s visit to a book festival and then look at the half sentences that follow.",
-      "Your task is to match the two sentence halves according to the information in the text (numbers 15-21 to letters A- I). There is an extra letter that you do not need."
+      "Your task is to match the two sentence halves according to the information in the text (numbers 15-21 to letters A-I). There is an extra letter that you do not need."
      ],
      "title": "VISITING A BOOK FESTIVAL IN ICELAND WHERE ONE IN 10 PEOPLE WILL PUBLISH A BOOK",
      "body": [
@@ -503,7 +503,7 @@
      ],
      "title": "\"TURBANED TORNADO\" RETIRES",
      "body": [
-      "Not your average great-great grandfather, Fauja Singh has {{0}} nine 26- mile (42-kilometer) marathons since taking up long-distance running just over a decade ago.",
+      "Not your average great-great grandfather, Fauja Singh has {{0}} nine 26-mile (42-kilometer) marathons since taking up long-distance running just over a decade ago.",
       "On Sunday, the 101-year-old Sikh finished his final {{1}} in Hong Kong, putting an end to a sporting career that has been an inspiration to many around the world. Nicknamed \"Turbaned Tornado\" by fans for his {{2}} headdress, Singh said he began long-distance running to fight the {{3}} he was suffering from after the {{4}} of his son. Singh moved to the UK from India following the {{5}} in his family and entered his first marathon in London in 2000 aged 89. In 2011, Singh became the first centenarian to complete a marathon after {{6}} the Toronto Waterfront Marathon in 2011 in eight hours and 11 minutes and six seconds.",
       "Although the Hong Kong marathon was Singh’s last competitive event, his coach said the centenarian will still run for {{7}}: \"He’s my best student, I would say, which is ironic because he’s {{8}} my age.\"",
       "Singh told CNN he had no secret diet or training program. He says his {{9}} is due to a simple love of the sport. \"It’s because of the {{10}} I get out of it. If something makes you happy, you'll do it well.\"",

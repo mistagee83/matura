@@ -192,3 +192,21 @@ header.top .back:focus-visible { outline: 2px solid var(--yellow); }
 .plist .pmain small { display: block; color: var(--muted); font-size: 14px; line-height: 1.35; }
 .plist .pcount { color: var(--muted); font-size: 14px; white-space: nowrap; }
 .plist .pdone { display: inline-flex; align-items: center; gap: 4px; color: var(--sel-ink); background: var(--sel-bg); border-radius: 999px; padding: 2px 10px; font-size: 14px; font-weight: 600; white-space: nowrap; }
+
+/* szójegyzék (önálló gyakorlás, SPEC 4.5) */
+.dictbar { display: flex; align-items: center; gap: 10px; margin: 0 0 12px; font-size: 14px; line-height: 1.35; }
+.dictbar .chip { flex: none; }
+.gl { text-decoration: underline dotted var(--sel-ink) 2px; text-underline-offset: 4px; cursor: pointer; border-radius: 4px; }
+.gl:focus-visible { outline: 2px solid var(--sel-ink); outline-offset: 1px; }
+.gl:active { background: var(--sel-bg); }
+.glsheet { position: fixed; left: 0; right: 0; bottom: 0; z-index: 9; background: var(--white); border-radius: 22px 22px 0 0; max-height: 60vh; overflow-y: auto; box-shadow: 0 -8px 30px rgba(23, 48, 42, .25); }
+.glsheet .in { max-width: 760px; margin: 0 auto; padding: 14px 16px calc(18px + env(safe-area-inset-bottom)); }
+.glsheet .gh { display: flex; align-items: baseline; gap: 10px; }
+.glsheet .gh b { font: 600 21px var(--exam); }
+.glsheet .gh i { flex: 1; color: var(--muted); font-size: 14px; }
+.glsheet .x { min-width: 44px; min-height: 44px; border: 1.5px solid var(--sand); border-radius: 999px; background: var(--white); font-size: 22px; line-height: 1; cursor: pointer; }
+.glsheet .en { margin: 6px 0 12px; font-size: 17px; }
+.glsheet .hu { margin: 10px 0 0; font-size: 17px; font-weight: 600; }
+.glsheet .tip { margin: 6px 0 0; font-size: 15px; color: var(--muted); }
+.glsheet .sub { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 14px; font-size: 14px; color: var(--muted); }
+.glsheet .sub button { min-height: 40px; padding: 0 14px; border: 1.5px solid var(--sand); border-radius: 999px; background: var(--cream); font: 16px var(--exam); color: var(--deep); cursor: pointer; }

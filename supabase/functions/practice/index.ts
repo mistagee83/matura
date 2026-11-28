@@ -31,5 +31,8 @@ Deno.serve(async (req) => {
   // a napló hibája nem akadályozza a diákot: az eredményt akkor is megkapja
   const { error: e2 } = await db.from('practice_runs').insert({ task_id: taskId, score: g.score, max_score: g.max });
   if (e2) console.error('practice_runs', e2);
-  return json({ id: taskId, score: g.score, max: g.max, results: g.results, solutions: solutions(k.task) });
+  // a szójegyzék megoldást elárulható címszavai (SPEC 4.5) csak a javítás után mennek ki
+  const { data: gl, error: e3 } = await db.from('task_glossary').select('after_submit').eq('task_id', taskId).maybeSingle();
+  if (e3) console.error('task_glossary', e3);
+  return json({ id: taskId, score: g.score, max: g.max, results: g.results, solutions: solutions(k.task), glossaryAfter: gl?.after_submit || [] });
 });

@@ -685,7 +685,7 @@
      "points": 8,
      "instructions": [
       "You are going to read an article about the history of ice cream. Some words are missing from the text.",
-      "Your task is to write the missing words on the dotted lines (18- 25) after the text.",
+      "Your task is to write the missing words on the dotted lines (18-25) after the text.",
       "Use only one word in each gap."
      ],
      "title": "ICE-CREAM",

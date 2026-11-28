@@ -358,6 +358,19 @@ Tanár, kód, becenév és regisztráció nélkül. Célja a kereslet felmérés
 - **Haladás:** a válaszok, az utolsó eredmény és a szűrés csak az eszközön, a böngészőben tárolódik. A listában a megoldott feladatok mellett az utolsó pontszám látszik. Más eszközre nem viszi át, és a böngészőadatok törlésével elvész; ez az ára annak, hogy nincs fiók.
 - **Íráskészség:** egyelőre nincs benne. Terv: a feladat, a hivatalos értékelési szempontok és egy önellenőrző lista, beküldés és MI-értékelés nélkül. Az MI-értékelés a fizetős változat része lehet (a Gemini feltételei 18 év alatti felhasználóknak szóló szolgáltatásban nem engedik).
 
+### 4.5 Szójegyzék a szövegekhez (próba, 2026-11-28)
+
+A gyenge szókincsű diák segítsége: a feladat szövegében egy szóra koppintva megjelenik a jelentése. Állás (2026-11-28): mind a 91 lap mind a 364 olvasásfeladatához elkészült (19 243 címszó, ebből 271 `afterSubmit`), az ellenőrző 0 hibát ad, és a prototípusban mind a 364 feladat hibátlanul megjelenik. A két jóváhagyott próba (2024. május közép R3, emelt R2) mellett a többi gépi (`status: "gépi"`), ember nem nézte át; a szúrópróba hátravan. Az éles appban az önálló gyakorlásban érhető el (2026-11-28): az adatbázis `task_glossary` táblájában kettébontva, a beküldés előtt látható rész a `practice_task()`-kal, a megoldást elárulható rész csak a `practice` függvény javítási válaszával megy ki. A kapcsoló a gyakorló feladat fölött áll (nem a fejlécben), az állását az eszköz megjegyzi. A tanári kiosztásban nincs.
+
+- **Kezelés:** a fejlécben „Szótár” kapcsoló. Bekapcsolva a címszók pontozott aláhúzást kapnak, a szöveg fölött egy sor emlékeztet, hogy a vizsgán nincs szótár. Koppintásra alul kicsúszó lap: szótári alak, szófaj magyarul, egyszerű angol magyarázat; „Magyarul” gombra a szövegbeli magyar megfelelő és, ahol van, egy rövid tipp (pl. hamis barát, rendhagyó többes szám). A lap nem takarja el a szöveget, és nincs mögötte elsötétítés, így olvasás közben a következő szóra lehet koppintani. Ha a kiemelt kifejezésen belül egy szónak saját címszava is van (pl. „endangered animals” → „endangered”), a lap alján „Benne:” gombként megjelenik, mert a szövegben a hosszabb kifejezés kapja a kiemelést. Hosszú nyomás nincs, mert telefonon az a rendszer saját kijelölését hozza elő.
+- **Tartalom:** a szójegyzéket nem szótár-API adja, hanem szövegenként előre készül, a szó *ebben a szövegben* érvényes jelentésével. Indok: így pontos, offline is működik, nincs licenc- és szolgáltatásfüggés, és angol–magyar nyilvános API nincs.
+- **Mennyi szó:** bőven, a gyenge szókincsű diákra méretezve (a próbában 335 szóból 54 címszó). A középszintű diák számára is magától értetődő alapszavak maradnak ki. A megrendelő a próba szóválasztását és a magyarázatok szintjét jónak találta.
+- **Mely vizsgarészek:** csak az olvasásértés (megrendelő, 2026-11-28). A nyelvhelyesség és a hallás szövegeihez nem készül.
+- **Mire terjed ki:** a feladat címére és szövegére. A válaszlehetőségekre (bank, opciók, állítások) nem: egyrészt ott a koppintás választás, másrészt a feladat éppen a szöveg és a lehetőség közti átfogalmazást méri (pl. `accommodation` ↔ `stay overnight`).
+- **A megoldás védelme:** beküldés előtt a szójegyzék nem adhatja ki a megoldást. Beírós feladatnál egy elfogadott válasz csak `afterSubmit` jelöléssel lehet címszó, és akkor csak beküldés után kattintható; ezt az ellenőrző gépileg nézi.
+- **Formátum:** `szojegyzek/<feladatsor>.json`, a `tartalom/` mappától külön (azt a kinyerő újraírja, és így a vizsgaszöveg és a saját szövegünk elkülönül). Felépítés: `formatVersion`, `exam`, `status`, `tasks: { <feladatazonosító>: [címszó, …] }`. Címszó: `forms` (a szövegben előforduló alakok, többszavas kifejezés is; a hosszabb alak nyer), `lemma`, `pos` (`noun`, `verb`, `adjective`, `adverb`, `preposition`, `conjunction`, `pronoun`, `phrasal verb`, `phrase`, `idiom`), `en`, `hu`, nem kötelező `tip` (magyarul) és `afterSubmit`. Ellenőrző: `node eszkozok/szojegyzek-ellenorzo.js`. A készítés szabályai: `eszkozok/szojegyzek-utmutato.md`. Ahol a feladatnak nincs szövegrésze (rövid levelek, kommentek), a címszók az itemek `stem` szövegeire vonatkoznak. A rövid válaszos (`keywords`) feladatoknál az ellenőrző nem látja a választ; ott az `afterSubmit` jelölés kézi.
+- **Tisztázandó:** a 11. fejezet „Tisztázandó” 3. pontja.
+
 ---
 
 ## 5. Adatmodell
@@ -599,6 +612,8 @@ Módosítás (2026-11-25, később): PDF nélkül a megrendelő nem tud dönteni
 
 A „sorrend nem számít" kulcsok (ellenőrizve 2026-11-25, mind a 91 útmutatóban): 13 feladatnál `unordered` vagy `group` kezeli, a kulcsszavas kérdéseknél a javítás eleve sorrendfüggetlen (2005. ősz, 2023. ősz, 2025. ősz emelt). Egy eltérés volt: 2005. május emelt, hallás 3., 27–28.: az útmutató szerint a két válasznak különbözőnek kell lennie (szőke haj / kék szem), a javító viszont a „has blue eyes" + „is blue-eyed" párt is elfogadta. Javítva a `groupKey` mezővel (`kezi.js`), kipróbálva.
 
+**A szójegyzék készítése közben talált hibák (javítva 2026-11-28).** A kinyerő általános szabállyal javítja a PDF szövegrétegének tördelési maradványait: a sorvégen kettévált kötőjeles szót („self- driving” → „self-driving”; a függő kötőjel marad: „high- and middle-sky”, „16- to 25-year-olds”), a gondolatjel helyén álló áthúzó karaktert (U+0335/U+0336/U+02D7 → „–”) és a hézag utáni hiányzó szóközt; összesen 121 mező. A 2020. október emelt R4 címéből kikerült az opciók magyarázatának maradéka („NOT SAY”). Három hézagos olvasásfeladat példája a feladatlap képe alapján bekerült (`kezi.js`): 2007. október emelt R3 (billions), 2009. október közép R4 (avoid), 2017. május közép R3 (nap). A PDF-ben is így áll, ezért marad: „1839” (2014. október emelt R3), „Boeing 7-47-200” (2007. május emelt R2), a csonkán végződő levelek (2005. november emelt R2). Nem javítva: a vizsgaszöveg elírásai (pl. „occured”, „excape”), mert a szöveget szó szerint vesszük át; és a bekezdés elejére olvadt alcímek (kb. 20 helyen, pl. „Puppy love Researchers…”), mert ezek szétválasztása laponként kézi munka (`kezi.js`).
+
 ### Fejlesztési szakaszok
 
 | Szakasz | Tartalom | Elfogadva, ha |
@@ -648,6 +663,7 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
     - Összevetés: azok a feladatok, amelyeket a csoport és a tanár legalább egy másik csoportja is megoldott; csoportonként a helyes arány és a kitöltők száma. Archivált csoport is szerepel.
     - Adat: `group_trends()` (a tanár jogával fut, a sorszintű szabály szerint csak a saját csoportjairól; csoport × feladat soronként kiosztás-, kitöltő-, kérdés- és helyes-szám); a részenkénti és típusonkénti összesítést a felület végzi (`app/src/teacher/trends.ts`). Külön összesítő tábla nincs (5. fejezet).
 22. **Ingyenes önálló gyakorló mód (2026-11-26):** a megrendelő kérésére a fizetős önálló termék előtt egy ingyenes, fiók nélküli mód készül a kereslet felmérésére (4.4). Indok: nem kell hozzá vállalkozás, ÁSZF, fizetés és adatkezelési tájékoztató, mert nincs mit eladni, és a szerver nem tárol a diákra utaló adatot. A meglévő feladatokra és javítóra épül. A tanórás próbától (3. szakasz) független.
+23. **Szójegyzék a szövegekhez (2026-11-28):** előre elkészített, szövegre szabott szójegyzék, nem szótár-API; angol magyarázat elöl, a magyar koppintásra; sok címszó a gyenge szókincsű diákok miatt; csak az olvasásértéshez; a válaszlehetőségekre nem terjed ki (4.5). A megrendelő a próba alapján jóváhagyta.
 
 ### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő mind az ötöt megerősítette, 2026-11-26)
 
@@ -675,3 +691,4 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 
 1. **Jogi háttér:** lezárva (2026-11-25), lásd a lezárt döntések 19. pontját.
 2. **Hangvágás:** kész (2026-11-25): mind a 91 lap vágása meghallgatva és a tartalomba beírva (3.7).
+3. **Gyakorló segítségek (2026-11-28):** a szójegyzék (4.5) a tanári kiosztásban is elérhető legyen-e (tanári kapcsolóval), vagy csak az önálló gyakorlásban. (Eldöntve, 2026-11-28: csak az olvasásértéshez készül.) Ugyanide tartozik a megrendelő másik ötlete, a kérdésenkénti rávezető segítség (irány → szabály → beküldés utáni magyarázat, a szerver egyenként adja ki, megoldás nélkül): nyelve (javaslat: magyar), hatóköre és a két mintasoros próba még nincs eldöntve.

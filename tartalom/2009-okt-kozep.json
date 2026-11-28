@@ -379,7 +379,7 @@
       "It was 3pm and there was a lot of activity as children were coming home from school. On the nearside pavement 60 yards away were three girls, 10 to 12 years old, chatting. I’m not sure what it was that rang alarm bells about those three in particular. Maybe it was the intensity of their conversation and the impression that they didn’t appear to be looking around or taking in any other information from their surroundings.",
       "I stayed at 25 mph and moved out as far as I could to the middle of the road. I also placed a finger over the horn and my right heel in front of the brake pedal. As I drew nearer I slowed to 20 mph. When I got within 2 or 3 car lengths from the girls, one turned rapidly, jumped off the pavement and ran across the road. She never looked up or to her right or left − she just went.",
       "I hit the brake and came to a stop about 4 or 5 feet away from her. What saved her life was not what I was doing at the time, which was applying the brakes − but what I had done 50 yards previously; slowing down, moving out and above all, concentrating on her. If I had been doing 30 mph that day I could have hit her. I could have claimed legitimately that I wasn’t speeding and that it wasn’t my fault. The fact that I had slowed to 20 mph guaranteed that whatever she did I could avoid her.",
-      "The writer describes how he managed to … avoid… an accident recently.",
+      "The writer describes how he managed to {{0}} an accident recently.",
       "It was early {{24}} with many children in the street.",
       "Three girls were busy {{25}} on the pavement.",
       "The {{26}} moved further away from the side of the road.",
@@ -392,6 +392,13 @@
       "caseSensitive": false
      },
      "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "avoid"
+       ]
+      },
       {
        "n": 24,
        "accept": [

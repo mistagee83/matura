@@ -2,12 +2,14 @@
 // A feladat kulcs nélkül érkezik; a példák (n = 0) a lapon is ki vannak töltve, ezért azok megoldása látszik.
 // A belső részeket függvényként hívjuk (nem komponensként), hogy a beírómező gépelés közben ne veszítse el a fókuszt.
 // Beküldés után (graded) a kérdések pipát vagy keresztet kapnak, és ha a kiosztás engedi, látszik a megoldás.
-import { Fragment, useState, type ReactNode } from 'react';
-import type { TaskResult } from './api';
+import { Fragment, useMemo, useState, type ReactNode } from 'react';
+import type { GlossEntry, TaskResult } from './api';
+import { GlossSheet, glossMatcher } from './gloss';
 
 type Ans = Record<string, any>;
 interface Props { task: any; ans: Ans; set: (n: number, v: any) => void; graded?: TaskResult | null; audio?: ReactNode;
-  /** csak a megoldás: lezárt kiosztás, a diák eredménye nélkül (pipa és kereszt nincs, minden kérdésnél látszik a helyes válasz) */ keyOnly?: boolean }
+  /** csak a megoldás: lezárt kiosztás, a diák eredménye nélkül (pipa és kereszt nincs, minden kérdésnél látszik a helyes válasz) */ keyOnly?: boolean;
+  /** szójegyzék (önálló gyakorlás, SPEC 4.5): bekapcsolva a szöveg címszavai kiemelve, koppintásra magyarázat */ gloss?: { list: GlossEntry[]; on: boolean } }
 
 const cleanW = (w: string) => w.toLowerCase().replace(/^[^a-z0-9']+|[^a-z0-9']+$/gi, '').replace(/[’‘]/g, "'");
 const gapCountIn = (s: string) => (s.match(/\{\{gap\}\}/g) || []).length;
@@ -32,8 +34,13 @@ export function toSubmit(task: any, ans: Ans): Ans {
   return out;
 }
 
-export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) {
+export default function Task({ task, ans, set, graded, audio, keyOnly, gloss }: Props) {
   const [sheet, setSheet] = useState<number | null>(null);
+  const [pick, setPick] = useState<{ e: GlossEntry; text: string } | null>(null);
+  const gm = useMemo(() => (gloss?.on && gloss.list.length ? glossMatcher(gloss.list) : null), [gloss?.on, gloss?.list]);
+  const onPick = (e: GlossEntry, text: string) => { setSheet(null); setPick({ e, text }); };
+  // a feladat saját szövege (cím, szövegrész; szövegrész híján a rövid szövegek az itemekben) a szójegyzék kiemelésével
+  const G = (s: string): ReactNode => (gm ? gm(s, onPick) : s);
   const item = (n: number) => task.items.find((i: any) => i.n === n);
   const res = (n: number) => graded?.results.find((r) => r.n === n)?.result;
   const sol = (n: number) => graded?.solutions?.[n];
@@ -51,7 +58,7 @@ export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) 
     const s = sol(it.n);
     return (<>
       <button type="button" className={'gap' + (block ? ' block' : '') + (it.example ? ' ex' : '') + (text ? ' filled' : '') + mark(it.n)}
-        disabled={it.example || done} onClick={() => setSheet(it.n)} aria-label={`${it.example ? 'Példa' : it.n + '. hely'}: ${text || 'üres'}`}>
+        disabled={it.example || done} onClick={() => { setPick(null); setSheet(it.n); }} aria-label={`${it.example ? 'Példa' : it.n + '. hely'}: ${text || 'üres'}`}>
         <span className="n">{it.example ? 'pl.' : it.n}</span>
         <span className="t">{text || (!done && pool(it)[0]?.text.length > 25 ? 'Koppints a választáshoz' : '· · ·')}</span>
         <Sign n={it.n} />
@@ -95,7 +102,7 @@ export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) 
                 {task.kind === 'text' && <><Sign n={it.n} /><Fix n={it.n} text={sol(it.n)?.text} /></>}</span>);
             }
             if (part === '\n') return <br key={k} />;
-            return part ? <span key={k}>{part}</span> : null;
+            return part ? <span key={k}>{G(part)}</span> : null;
           })}
         </p>
       ))}
@@ -112,7 +119,7 @@ export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) 
         <Fix n={it.n} text={sol(it.n)?.text} />
       </div>);
     }
-    if (task.kind === 'bank') return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}><p className="stem exam">{head}{it.stem}</p>{ChoiceGap({ it, block: true })}</div>);
+    if (task.kind === 'bank') return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}><p className="stem exam">{head}{task.body?.length ? it.stem : G(it.stem)}</p>{ChoiceGap({ it, block: true })}</div>);
     const opts = it.options || task.options || [], v = [].concat(it.example ? it.answer : ans[it.n] ?? []) as string[];
     const right = new Set<string>(sol(it.n)?.keys || []);
     return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}>
@@ -212,7 +219,7 @@ export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) 
         <ul className="exam">{task.instructions.map((s: string, i: number) => <li key={i}>{s}</li>)}</ul>
       </details>
       {audio}
-      {task.title && <h3 className="title exam">{task.title}</h3>}
+      {task.title && <h3 className="title exam">{G(task.title)}</h3>}
       {task.body && Body()}
       {task.stemLead && <p className="lead exam">{task.stemLead}</p>}
       {task.bankLead && <p className="lead exam">{task.bankLead}</p>}
@@ -223,6 +230,7 @@ export default function Task({ task, ans, set, graded, audio, keyOnly }: Props) 
         : task.layout === 'stems' ? task.items.map((it: any) => <Fragment key={it.n}>{StemRow({ it })}</Fragment>) : null}
       {task.kind === 'lines' && task.outro && <p className="exam">{task.outro}</p>}
       {Sheet()}
+      {gm && pick && <GlossSheet key={pick.e.lemma + '|' + pick.text} pick={pick} list={gloss!.list} onPick={onPick} onClose={() => setPick(null)} />}
     </div>
   );
 }

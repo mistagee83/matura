@@ -59,7 +59,7 @@
      "points": 7,
      "instructions": [
       "Read the following collection of frequently asked questions and answers from the website of a language school. All of the questions have been removed.",
-      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (1- 7).",
+      "Your task is to write the letters of the questions (A-K) next to the appropriate numbers (1-7).",
       "There are two extra questions that you do not need."
      ],
      "title": "FAQS LANGUAGE COURSES UK",
@@ -328,12 +328,12 @@
      "instructions": [
       "Read this article about a library delivery service.",
       "Some parts of sentences have been left out from the text.",
-      "Your task is to reconstruct the text by filling in the gaps (20- 28) from the list (A-M) below.",
+      "Your task is to reconstruct the text by filling in the gaps (20-28) from the list (A-M) below.",
       "Remember that there are two extra letters that you do not need."
      ],
      "title": "DRONE DELIVERS BOOKS TO KIDS",
      "body": [
-      "Kids in the Montgomery County school district had a special way of getting books to read when the pandemic started: the books were {{0}}. A drone is a small remote- controlled aircraft, like a toy-sized plane or helicopter.",
+      "Kids in the Montgomery County school district had a special way of getting books to read when the pandemic started: the books were {{0}}. A drone is a small remote-controlled aircraft, like a toy-sized plane or helicopter.",
       "Kelly Passek is a librarian at a local school. When schools closed because of the Covid-19 pandemic, she wanted to make sure students in her school district would still {{20}}. A company called Wing Aviation uses drones to {{21}} from restaurants and stores in Ms Passek’s town. She had used the drone service to have things delivered to her own home, and she thought it could {{22}}.",
       "The people at Wing agreed and the company began making deliveries. Students who {{23}} could fill out a Google form to request a specific book, or ask Ms Passek to choose one for them.",
       "Ms Passek received the requests, then got the books from the library, {{24}}, and took them to Wing’s shipping centre.",

@@ -267,7 +267,7 @@
       "‘We are dealing with crimes that touch on the history of France,’ said Colonel Roger Lembert, head of France’s 30-strong police unit dedicated to cracking art smuggling.",
       "The affair coincides with a similar case in Italy, where authorities have started an aggressive campaign to regain lost treasures. On trial are Marion True, a former Getty Museum antiquities curator and Robert Hecht, an American art dealer based in Paris. As a representative of the world’s richest art institution, True is accused of illegally obtaining 42 items during the 1980s and 1990s, including a 2,000-year statue of Apollo unearthed in Italy. The charges carry a 10-year sentence. She denies the charge − as does Hecht −and the Getty Museum says she is innocent.",
       "Rocco Buttiglione, the Italian minister for culture, said Italy is paving the way for other countries to retrieve looted heritage. ‘The age of trafficking in art pieces is over,’ he warned.",
-      "The global trade in stolen art treasures is worth … billions… of pounds.",
+      "The global trade in stolen art treasures is worth {{0}} of pounds.",
       "Rich {{17}} art collectors and museums play an important role in illicit art trade.",
       "One case in France concerns an old {{18}}.",
       "The person thought to be responsible for having stolen and sold it is called {{19}}.",
@@ -281,6 +281,13 @@
       "caseSensitive": false
      },
      "items": [
+      {
+       "n": 0,
+       "example": true,
+       "accept": [
+        "billions"
+       ]
+      },
       {
        "n": 17,
        "accept": [
