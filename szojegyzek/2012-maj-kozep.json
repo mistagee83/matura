@@ -179,6 +179,61 @@
       { "forms": ["researchers"], "lemma": "researcher", "pos": "noun", "en": "a person who studies something to discover new facts", "hu": "kutató" },
       { "forms": ["unprotected"], "lemma": "unprotected", "pos": "adjective", "en": "not kept safe from attack", "hu": "védtelen" },
       { "forms": ["fix"], "lemma": "fix", "pos": "verb", "en": "to repair something", "hu": "kijavít, megjavít" }
+    ],
+    "2012-maj-kozep-L1": [
+      { "forms": ["son-in-law"], "lemma": "son-in-law", "pos": "noun", "en": "the husband of your daughter", "hu": "vő" },
+      { "forms": ["interrupted"], "lemma": "interrupt", "pos": "verb", "en": "to start talking while another person is still speaking", "hu": "félbeszakít, közbevág" },
+      { "forms": ["stand"], "lemma": "stand", "pos": "verb", "en": "to accept or bear something unpleasant", "hu": "elvisel, kibír", "tip": "Itt nem azt jelenti: áll." },
+      { "forms": ["father-in-law"], "lemma": "father-in-law", "pos": "noun", "en": "the father of your wife or husband", "hu": "após" },
+      { "forms": ["take charge"], "lemma": "take charge", "pos": "phrase", "en": "to become responsible for something and control it", "hu": "átveszi az irányítást" },
+      { "forms": ["tolerate"], "lemma": "tolerate", "pos": "verb", "en": "to accept something unpleasant without complaining", "hu": "elvisel, eltűr" },
+      { "forms": ["money-making"], "lemma": "money-making", "pos": "adjective", "en": "that brings in a lot of money", "hu": "jövedelmező, pénzt hozó" },
+      { "forms": ["Buy me out"], "lemma": "buy someone out", "pos": "phrasal verb", "en": "to pay someone to give you their part of a business", "hu": "kivásárol (üzletrészt)" }
+    ],
+    "2012-maj-kozep-L2": [
+      { "forms": ["on the run"], "lemma": "on the run", "pos": "phrase", "en": "trying to escape and hide from people who want to catch you", "hu": "szökésben, menekülőben" },
+      { "forms": ["herd"], "lemma": "herd", "pos": "noun", "en": "a large group of animals of the same kind that live together", "hu": "csorda, csapat (állatoké)" },
+      { "forms": ["deer"], "lemma": "deer", "pos": "noun", "en": "a large, fast wild animal; the male has horns like branches", "hu": "szarvas, őz", "tip": "Egyes és többes számban is deer." },
+      { "forms": ["sightings"], "lemma": "sighting", "pos": "noun", "en": "an occasion when someone sees something unusual", "hu": "észlelés, felbukkanás" },
+      { "forms": ["escaped"], "lemma": "escape", "pos": "verb", "en": "to get away from a place where you are kept", "hu": "megszökik" },
+      { "forms": ["Bavarian"], "lemma": "Bavarian", "pos": "adjective", "en": "from Bavaria, a part of southern Germany", "hu": "bajor" },
+      { "forms": ["picked up"], "lemma": "pick up", "pos": "phrasal verb", "en": "to notice a story and start reporting about it", "hu": "felkap (hírt)" },
+      { "forms": ["animal rights campaigners"], "lemma": "animal rights campaigner", "pos": "noun", "en": "a person who works to protect animals from cruelty", "hu": "állatvédő aktivista" },
+      { "forms": ["widespread"], "lemma": "widespread", "pos": "adjective", "en": "happening in many places", "hu": "kiterjedt, széles körű" },
+      { "forms": ["calf"], "lemma": "calf", "pos": "noun", "en": "a young cow", "hu": "borjú" },
+      { "forms": ["trick"], "lemma": "trick", "pos": "verb", "en": "to make someone do something by making them believe something false", "hu": "rávesz (csellel), becsap" },
+      { "forms": ["captured"], "lemma": "capture", "pos": "verb", "en": "to catch an animal or person", "hu": "elfog, befog" }
+    ],
+    "2012-maj-kozep-L3": [
+      { "forms": ["whisperer"], "lemma": "whisperer", "pos": "noun", "en": "here: a person who has a special way of communicating with animals", "hu": "kutyasuttogó (aki különleges módon bánik az állatokkal)" },
+      { "forms": ["pack"], "lemma": "pack", "pos": "noun", "en": "a group of dogs or wolves that live or move together", "hu": "falka" },
+      { "forms": ["jog"], "lemma": "jog", "pos": "noun", "en": "a run at a slow, steady speed", "hu": "kocogás, futás" },
+      { "forms": ["leashes"], "lemma": "leash", "pos": "noun", "en": "a long piece of leather or rope that you use to walk a dog", "hu": "póráz" },
+      { "forms": ["troubled"], "lemma": "troubled", "pos": "adjective", "en": "having many problems", "hu": "problémás, zaklatott" },
+      { "forms": ["gift"], "lemma": "gift", "pos": "noun", "en": "a natural ability to do something well", "hu": "tehetség, adottság", "tip": "Itt nem ajándékot jelent." },
+      { "forms": ["specialty"], "lemma": "specialty", "pos": "noun", "en": "something that you are especially good at", "hu": "különlegesség, szakterület" },
+      { "forms": ["approach"], "lemma": "approach", "pos": "noun", "en": "a way of doing or dealing with something", "hu": "módszer, megközelítés" },
+      { "forms": ["discipline"], "lemma": "discipline", "pos": "noun", "en": "teaching someone to obey rules", "hu": "fegyelem" },
+      { "forms": ["ill-treatment"], "lemma": "ill-treatment", "pos": "noun", "en": "cruel or bad behaviour towards a person or animal", "hu": "rossz bánásmód, kegyetlenség" },
+      { "forms": ["gentle"], "lemma": "gentle", "pos": "adjective", "en": "calm and kind; not rough", "hu": "szelíd, kedves" }
+    ],
+    "2012-maj-kozep-H1": [
+      { "forms": ["joined"], "lemma": "join", "pos": "verb", "en": "to connect two things together", "hu": "összenő, összekapcsol", "tip": "Itt: születésüktől fogva összenőtt ikrek." },
+      { "forms": ["against their will"], "lemma": "against your will", "pos": "phrase", "en": "when you do not want to do something", "hu": "akaratuk ellenére" },
+      { "forms": ["settled down"], "lemma": "settle down", "pos": "phrasal verb", "en": "to start living in one place for a long time", "hu": "letelepedik" },
+      { "forms": ["took turns"], "lemma": "take turns", "pos": "phrase", "en": "to do something one after the other", "hu": "felváltva csinál, váltják egymást" },
+      { "forms": ["get on very well"], "lemma": "get on well", "pos": "phrase", "en": "to have a friendly relationship", "hu": "jól kijön (valakivel)" },
+      { "forms": ["Siamese twins"], "lemma": "Siamese twins", "pos": "noun", "en": "two babies born with their bodies joined together", "hu": "sziámi ikrek" }
+    ],
+    "2012-maj-kozep-H2": [
+      { "forms": ["by profession"], "lemma": "by profession", "pos": "phrase", "en": "as your job", "hu": "foglalkozására nézve, foglalkozása" },
+      { "forms": ["mechanical device"], "lemma": "mechanical device", "pos": "noun", "en": "a machine or tool with moving parts", "hu": "mechanikus szerkezet" },
+      { "forms": ["end up"], "lemma": "end up", "pos": "phrasal verb", "en": "to be in a place or situation in the end", "hu": "végül valahol köt ki" }
+    ],
+    "2012-maj-kozep-H3": [
+      { "forms": ["gives the impression"], "lemma": "give the impression", "pos": "phrase", "en": "to make people think or feel something", "hu": "azt a benyomást kelti" },
+      { "forms": ["operating table"], "lemma": "operating table", "pos": "noun", "en": "the table where a patient lies during an operation", "hu": "műtőasztal" },
+      { "forms": ["operating theatres"], "lemma": "operating theatre", "pos": "noun", "en": "a room in a hospital where doctors do operations", "hu": "műtő", "tip": "Nem színház: a theatre itt műtőt jelent." }
     ]
   }
 }

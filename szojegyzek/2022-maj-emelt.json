@@ -241,6 +241,70 @@
       { "forms": ["strapped to"], "lemma": "strap to", "pos": "phrase", "en": "to fix something to something with a band", "hu": "rászíjaz, odaerősít" },
       { "forms": ["stroke"], "lemma": "stroke", "pos": "noun", "en": "one movement of the arms when swimming", "hu": "karcsapás, tempó" },
       { "forms": ["efficient"], "lemma": "efficient", "pos": "adjective", "en": "working well without wasting energy", "hu": "hatékony" }
+    ],
+    "2022-maj-emelt-L1": [
+      { "forms": ["species"], "lemma": "species", "pos": "noun", "en": "a group of animals or plants of the same kind", "hu": "faj (állat, növény)", "tip": "Egyes és többes számban is species." },
+      { "forms": ["not-for-profit"], "lemma": "not-for-profit", "pos": "adjective", "en": "working to help people or nature, not to make money", "hu": "nonprofit, nem nyereségérdekelt" },
+      { "forms": ["in the wild"], "lemma": "in the wild", "pos": "phrase", "en": "in nature, not in a zoo or in a house", "hu": "a természetben, szabadon" },
+      { "forms": ["recordist"], "lemma": "recordist", "pos": "noun", "en": "a person whose job is to record sounds", "hu": "hangfelvételt készítő szakember" },
+      { "forms": ["collaborated"], "lemma": "collaborate", "pos": "verb", "en": "to work together with others on something", "hu": "együttműködik" },
+      { "forms": ["raises awareness"], "lemma": "raise awareness", "pos": "phrase", "en": "to make people know more about a problem", "hu": "felhívja a figyelmet (valamire)" },
+      { "forms": ["candidate"], "lemma": "candidate", "pos": "noun", "en": "here: a student working towards a degree", "hu": "-jelölt (itt: doktorandusz)" },
+      { "forms": ["verge of extinction"], "lemma": "on the verge of extinction", "pos": "phrase", "en": "very close to disappearing from the Earth forever", "hu": "a kihalás szélén" },
+      { "forms": ["soundscape"], "lemma": "soundscape", "pos": "noun", "en": "all the sounds that you can hear in a place", "hu": "hangtáj, egy hely összes hangja" },
+      { "forms": ["avian"], "lemma": "avian", "pos": "adjective", "en": "connected with birds", "hu": "madár-, madarakkal kapcsolatos" },
+      { "forms": ["habitat"], "lemma": "habitat", "pos": "noun", "en": "the natural place where an animal or plant lives", "hu": "élőhely" }
+    ],
+    "2022-maj-emelt-L2": [
+      { "forms": ["diplomatic incident"], "lemma": "diplomatic incident", "pos": "noun", "en": "a problem or argument between two countries", "hu": "diplomáciai incidens" },
+      { "forms": ["saw the funny side"], "lemma": "see the funny side", "pos": "phrase", "en": "to laugh at a problem instead of being angry", "hu": "látja a dolog humoros oldalát" },
+      { "forms": ["stretches"], "lemma": "stretch", "pos": "verb", "en": "to cover a long distance", "hu": "húzódik, elnyúlik" },
+      { "forms": ["markers"], "lemma": "marker", "pos": "noun", "en": "an object that shows where something is", "hu": "jelölő, jelzőkő" },
+      { "forms": ["boundary stones"], "lemma": "boundary stone", "pos": "noun", "en": "a stone that shows where one country or piece of land ends", "hu": "határkő" },
+      { "forms": ["laid down"], "lemma": "lay down", "pos": "phrasal verb", "en": "to put something in its place", "hu": "lerak, elhelyez" },
+      { "forms": ["spotted"], "lemma": "spot", "pos": "verb", "en": "to notice something", "hu": "észrevesz" },
+      { "forms": ["nuisance"], "lemma": "nuisance", "pos": "noun", "en": "something annoying that causes problems", "hu": "kellemetlenség (itt: a zavaró, útban lévő kő)" },
+      { "forms": ["geo-localized"], "lemma": "geo-localize", "pos": "verb", "en": "to find and record the exact place of something with satellites or maps", "hu": "földrajzilag bemér, GPS-szel rögzít" },
+      { "forms": ["stressed"], "lemma": "stress", "pos": "verb", "en": "to say something firmly because it is important", "hu": "hangsúlyoz" },
+      { "forms": ["keen"], "lemma": "keen", "pos": "adjective", "en": "wanting very much to do something", "hu": "szeretne, igyekszik (valamit megtenni)" },
+      { "forms": ["resolve"], "lemma": "resolve", "pos": "verb", "en": "to find an answer to a problem", "hu": "megold, rendez" }
+    ],
+    "2022-maj-emelt-L3": [
+      { "forms": ["landlord"], "lemma": "landlord", "pos": "noun", "en": "a person who runs a pub", "hu": "kocsmáros, fogadós", "tip": "Más összefüggésben: főbérlő." },
+      { "forms": ["monarch"], "lemma": "monarch", "pos": "noun", "en": "a king or a queen", "hu": "uralkodó" },
+      { "forms": ["crowned"], "lemma": "crown", "pos": "verb", "en": "to make someone king or queen in a ceremony", "hu": "megkoronáz" },
+      { "forms": ["council"], "lemma": "council", "pos": "noun", "en": "a group of people who govern a town or area", "hu": "önkormányzat, tanács" },
+      { "forms": ["drenched"], "lemma": "drench", "pos": "verb", "en": "to make someone completely wet", "hu": "eláztat, leönt" },
+      { "forms": ["caretaker"], "lemma": "caretaker", "pos": "noun", "en": "a person who looks after a building", "hu": "gondnok" },
+      { "forms": ["purely symbolic"], "lemma": "purely symbolic", "pos": "phrase", "en": "only a sign or an idea, with no real power", "hu": "pusztán jelképes" },
+      { "forms": ["isolation"], "lemma": "isolation", "pos": "noun", "en": "being far away from other people and places", "hu": "elszigeteltség" },
+      { "forms": ["solitude"], "lemma": "solitude", "pos": "noun", "en": "being alone, especially when you like it", "hu": "magány, egyedüllét" },
+      { "forms": ["glorious"], "lemma": "glorious", "pos": "adjective", "en": "very beautiful", "hu": "pompás, csodás" },
+      { "forms": ["seals"], "lemma": "seal", "pos": "noun", "en": "a large sea animal with short fur that eats fish", "hu": "fóka" },
+      { "forms": ["booming"], "lemma": "booming", "pos": "adjective", "en": "growing very fast", "hu": "rohamosan növekvő, virágzó" }
+    ],
+    "2022-maj-emelt-H1": [
+      { "forms": ["racer"], "lemma": "racer", "pos": "noun", "en": "a person who takes part in races", "hu": "versenyző" },
+      { "forms": ["played a part"], "lemma": "play a part", "pos": "phrase", "en": "to help make something happen", "hu": "szerepet játszik, közreműködik" },
+      { "forms": ["setting up"], "lemma": "set up", "pos": "phrasal verb", "en": "to start an organization or a new competition", "hu": "létrehoz, megalapít" }
+    ],
+    "2022-maj-emelt-H2": [
+      { "forms": ["admits"], "lemma": "admit", "pos": "verb", "en": "to say that something is true, often when you do not want to", "hu": "beismer, bevall" },
+      { "forms": ["posted"], "lemma": "post", "pos": "verb", "en": "to put a message or information on a website", "hu": "közzétesz, kitesz (az interneten)" },
+      { "forms": ["requirement"], "lemma": "requirement", "pos": "noun", "en": "something that you must have or must be", "hu": "követelmény, feltétel" },
+      { "forms": ["candidate"], "lemma": "candidate", "pos": "noun", "en": "a person who wants to be chosen for something", "hu": "jelölt, jelentkező" }
+    ],
+    "2022-maj-emelt-H3": [
+      { "forms": ["pedestrian bridge"], "lemma": "pedestrian bridge", "pos": "noun", "en": "a bridge for people who are walking, not for cars", "hu": "gyalogoshíd" },
+      { "forms": ["spans"], "lemma": "span", "pos": "verb", "en": "to go across something from one side to the other", "hu": "átível" },
+      { "forms": ["canyon"], "lemma": "canyon", "pos": "noun", "en": "a deep valley with very steep sides", "hu": "kanyon, szurdok" },
+      { "forms": ["serve as"], "lemma": "serve as", "pos": "phrase", "en": "to be used as something", "hu": "szolgál valamiként" },
+      { "forms": ["freaks"], "lemma": "freak", "pos": "noun", "en": "a person who is very interested in one activity", "hu": "megszállott, rajongó" },
+      { "forms": ["afraid of heights"], "lemma": "be afraid of heights", "pos": "phrase", "en": "to feel fear in high places", "hu": "tériszonya van" },
+      { "forms": ["severe"], "lemma": "severe", "pos": "adjective", "en": "very serious and hard", "hu": "szigorú, kemény" },
+      { "forms": ["security check"], "lemma": "security check", "pos": "noun", "en": "a check to make sure that something is safe", "hu": "biztonsági ellenőrzés" },
+      { "forms": ["volunteers"], "lemma": "volunteer", "pos": "noun", "en": "a person who offers to do something without being paid", "hu": "önkéntes" },
+      { "forms": ["strike"], "lemma": "strike", "pos": "verb", "en": "to hit something hard", "hu": "megüt, rácsap" }
     ]
   }
 }

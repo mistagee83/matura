@@ -273,6 +273,79 @@
       { "forms": ["embassies"], "lemma": "embassy", "pos": "noun", "en": "the office of a country's representatives in another country", "hu": "nagykövetség" },
       { "forms": ["raise awareness"], "lemma": "raise awareness", "pos": "phrase", "en": "to make people know more about a problem", "hu": "felhívja a figyelmet" },
       { "forms": ["involved"], "lemma": "involved", "pos": "adjective", "en": "connected with", "hu": "amivel jár" }
+    ],
+    "2013-maj-emelt-L1": [
+      { "forms": ["quadrillion"], "lemma": "quadrillion", "pos": "noun", "en": "a thousand million million (1 followed by 15 zeros)", "hu": "billiárd" },
+      { "forms": ["billed"], "lemma": "bill", "pos": "verb", "en": "to send someone a paper that says how much they must pay", "hu": "számláz, kiszámláz" },
+      { "forms": ["in error"], "lemma": "in error", "pos": "phrase", "en": "by mistake", "hu": "tévedésből" },
+      { "forms": ["cardiac arrest"], "lemma": "cardiac arrest", "pos": "noun", "en": "a moment when the heart stops working", "hu": "szívroham, szívmegállás" },
+      { "forms": ["work out"], "lemma": "work out", "pos": "phrasal verb", "en": "to calculate an amount", "hu": "kiszámol" },
+      { "forms": ["out of work"], "lemma": "out of work", "pos": "phrase", "en": "without a job", "hu": "munkanélküli" },
+      { "forms": ["stunned"], "lemma": "stunned", "pos": "adjective", "en": "so shocked that you cannot speak or think", "hu": "megdöbbent, elképedt" },
+      { "forms": ["helpline"], "lemma": "helpline", "pos": "noun", "en": "a phone number you can call to get advice from a company", "hu": "ügyfélszolgálat (telefonos)" },
+      { "forms": ["convince"], "lemma": "convince", "pos": "verb", "en": "to make someone believe that something is true", "hu": "meggyőz" },
+      { "forms": ["common sense"], "lemma": "common sense", "pos": "noun", "en": "the ability to think and act in a practical, sensible way", "hu": "józan ész" },
+      { "forms": ["descended"], "lemma": "descend", "pos": "verb", "en": "here: to arrive and have an effect (a humorous use)", "hu": "leszáll, megérkezik (itt tréfásan: végre győzött a józan ész)" },
+      { "forms": ["owe"], "lemma": "owe", "pos": "verb", "en": "to have to pay money back to someone", "hu": "tartozik" },
+      { "forms": ["gross"], "lemma": "gross", "pos": "adjective", "en": "total, before anything is taken away", "hu": "bruttó" },
+      { "forms": ["output"], "lemma": "output", "pos": "noun", "en": "the amount of things a country or company produces", "hu": "kibocsátás, termelés" }
+    ],
+    "2013-maj-emelt-L2": [
+      { "forms": ["mummies"], "lemma": "mummy", "pos": "noun", "en": "a dead body that was kept from decaying, often wrapped in cloth", "hu": "múmia" },
+      { "forms": ["made up of"], "lemma": "be made up of", "pos": "phrase", "en": "to consist of different parts", "hu": "áll valamiből, össze van rakva valamiből" },
+      { "forms": ["Archaeologists"], "lemma": "archaeologist", "pos": "noun", "en": "a person who studies old objects and buildings to learn about the past", "hu": "régész" },
+      { "forms": ["skeletons"], "lemma": "skeleton", "pos": "noun", "en": "all the bones of a body", "hu": "csontváz" },
+      { "forms": ["excavated"], "lemma": "excavate", "pos": "verb", "en": "to dig in the ground to find old objects", "hu": "kiás, feltár" },
+      { "forms": ["preserved"], "lemma": "preserve", "pos": "verb", "en": "to keep something from decaying", "hu": "megőriz, tartósít" },
+      { "forms": ["mummification"], "lemma": "mummification", "pos": "noun", "en": "the process of making a dead body into a mummy", "hu": "mumifikálás" },
+      { "forms": ["jigsaw"], "lemma": "jigsaw", "pos": "noun", "en": "a picture cut into many pieces that you put together", "hu": "kirakós játék" },
+      { "forms": ["distant"], "lemma": "distant", "pos": "adjective", "en": "far away", "hu": "távoli" },
+      { "forms": ["tribal"], "lemma": "tribal", "pos": "adjective", "en": "connected with a group of families who share the same language and customs", "hu": "törzsi" },
+      { "forms": ["worship"], "lemma": "worship", "pos": "noun", "en": "showing respect and love for a god", "hu": "istentisztelet, imádat" },
+      { "forms": ["spiritual"], "lemma": "spiritual", "pos": "adjective", "en": "connected with religion and the soul", "hu": "lelki, szellemi" },
+      { "forms": ["foundations"], "lemma": "foundation", "pos": "noun", "en": "the bottom part of a building, under the ground", "hu": "alap, alapzat" },
+      { "forms": ["terraced"], "lemma": "terraced", "pos": "adjective", "en": "built in a row and joined together", "hu": "sorházas, egymáshoz épített" },
+      { "forms": ["radiocarbon dated"], "lemma": "radiocarbon date", "pos": "verb", "en": "to find out the age of something old by a scientific test", "hu": "radiokarbonos kormeghatározással vizsgál" },
+      { "forms": ["descendants"], "lemma": "descendant", "pos": "noun", "en": "a person in a later generation of a family", "hu": "leszármazott, utód" }
+    ],
+    "2013-maj-emelt-L3": [
+      { "forms": ["in the shade"], "lemma": "put someone in the shade", "pos": "idiom", "en": "to be much better than someone, so that they seem less important", "hu": "háttérbe szorít, felülmúl" },
+      { "forms": ["comfy"], "lemma": "comfy", "pos": "adjective", "en": "comfortable (informal)", "hu": "kényelmes" },
+      { "forms": ["shabby chic"], "lemma": "shabby chic", "pos": "noun", "en": "a style with old, worn furniture that still looks stylish", "hu": "kopottas elegancia (lakberendezési stílus)" },
+      { "forms": ["lamp shades"], "lemma": "lamp shade", "pos": "noun", "en": "a cover over a lamp that makes the light softer", "hu": "lámpaernyő" },
+      { "forms": ["mistaken for"], "lemma": "mistake for", "pos": "phrasal verb", "en": "to think wrongly that one thing is another", "hu": "összetéveszt valamivel" },
+      { "forms": ["humble"], "lemma": "humble", "pos": "adjective", "en": "simple and not expensive or important", "hu": "szerény, egyszerű" },
+      { "forms": ["unremarkable"], "lemma": "unremarkable", "pos": "adjective", "en": "ordinary, not special in any way", "hu": "átlagos, semmi különös" },
+      { "forms": ["ranks"], "lemma": "rank", "pos": "verb", "en": "to have a position in a list of the best", "hu": "helyezést ér el, rangsorban áll" },
+      { "forms": ["a head"], "lemma": "a head", "pos": "phrase", "en": "for each person", "hu": "fejenként" },
+      { "forms": ["modest"], "lemma": "modest", "pos": "adjective", "en": "not large, expensive or special", "hu": "szerény, egyszerű" },
+      { "forms": ["affair"], "lemma": "affair", "pos": "noun", "en": "here: a place or event of a particular kind", "hu": "dolog, ügy" },
+      { "forms": ["scones"], "lemma": "scone", "pos": "noun", "en": "a small British cake, often eaten with butter and jam", "hu": "pogácsaszerű brit sütemény" },
+      { "forms": ["black pudding"], "lemma": "black pudding", "pos": "noun", "en": "a dark sausage made from blood and fat", "hu": "véres hurka" },
+      { "forms": ["haggis"], "lemma": "haggis", "pos": "noun", "en": "a Scottish food made from the inside parts of a sheep, cooked in a bag", "hu": "haggis (skót birkabelsőség-étel)" },
+      { "forms": ["in the same breath"], "lemma": "in the same breath", "pos": "phrase", "en": "at the same time, as if they were similar", "hu": "egy lapon, egy szuszra" }
+    ],
+    "2013-maj-emelt-H1": [
+      { "forms": ["deliberately"], "lemma": "deliberately", "pos": "adverb", "en": "on purpose, not by accident", "hu": "szándékosan" },
+      { "forms": ["set fire to"], "lemma": "set fire to", "pos": "phrase", "en": "to make something start burning", "hu": "felgyújt" },
+      { "forms": ["trailer house", "trailer"], "lemma": "trailer", "pos": "noun", "en": "a vehicle that people can live in, pulled by a car", "hu": "lakókocsi" },
+      { "forms": ["in broad daylight"], "lemma": "in broad daylight", "pos": "phrase", "en": "during the day, when it is fully light", "hu": "fényes nappal" },
+      { "forms": ["hide away"], "lemma": "hide away", "pos": "phrasal verb", "en": "to go to a place where nobody can find you", "hu": "elrejtőzik, elvonul" }
+    ],
+    "2013-maj-emelt-H2": [
+      { "forms": ["assume"], "lemma": "assume", "pos": "verb", "en": "to think that something is true without being sure", "hu": "feltételez" },
+      { "forms": ["responds"], "lemma": "respond", "pos": "verb", "en": "to react to something", "hu": "reagál" },
+      { "forms": ["indicate"], "lemma": "indicate", "pos": "verb", "en": "to show that something is true", "hu": "jelez, mutat" },
+      { "forms": ["whereas"], "lemma": "whereas", "pos": "conjunction", "en": "used to compare two different facts", "hu": "míg, ezzel szemben" },
+      { "forms": ["precise"], "lemma": "precise", "pos": "adjective", "en": "exact and correct", "hu": "pontos" },
+      { "forms": ["turtles"], "lemma": "turtle", "pos": "noun", "en": "an animal with a hard shell that lives in water or on land", "hu": "teknős" },
+      { "forms": ["prey"], "lemma": "prey", "pos": "noun", "en": "an animal that is caught and eaten by another animal", "hu": "zsákmány(állat)" },
+      { "forms": ["watching out for"], "lemma": "watch out for", "pos": "phrasal verb", "en": "to be careful and look around for something dangerous", "hu": "résen van, figyel valamire" }
+    ],
+    "2013-maj-emelt-H3": [
+      { "forms": ["former"], "lemma": "former", "pos": "adjective", "en": "that was in the past, but not now", "hu": "egykori, volt" },
+      { "forms": ["announce"], "lemma": "announce", "pos": "verb", "en": "to tell people something officially", "hu": "bejelent" },
+      { "forms": ["subscribers"], "lemma": "subscriber", "pos": "noun", "en": "a person who pays to get a service regularly", "hu": "előfizető" }
     ]
   }
 }

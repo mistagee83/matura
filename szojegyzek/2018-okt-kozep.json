@@ -188,6 +188,71 @@
       { "forms": ["pressed"], "lemma": "press", "pos": "verb", "en": "to push something with your finger", "hu": "megnyom" },
       { "forms": ["believing"], "lemma": "believe", "pos": "verb", "en": "to think that something is true", "hu": "hisz, azt hiszi" },
       { "forms": ["placebo button"], "lemma": "placebo button", "pos": "noun", "en": "a button that does nothing, but makes people feel that they have some control", "hu": "placebogomb (hatástalan, csak megnyugtató gomb)" }
+    ],
+    "2018-okt-kozep-L1": [
+      { "forms": ["ravens", "raven"], "lemma": "raven", "pos": "noun", "en": "a large black bird", "hu": "holló" },
+      { "forms": ["characterizes"], "lemma": "characterize", "pos": "verb", "en": "to be typical of someone or something", "hu": "jellemez" },
+      { "forms": ["preserve"], "lemma": "preserve", "pos": "verb", "en": "to keep something as it was", "hu": "megőriz" },
+      { "forms": ["reign"], "lemma": "reign", "pos": "noun", "en": "the period when a king or queen rules", "hu": "uralkodás (ideje)" },
+      { "forms": ["observe"], "lemma": "observe", "pos": "verb", "en": "to watch something carefully", "hu": "megfigyel" },
+      { "forms": ["telescope"], "lemma": "telescope", "pos": "noun", "en": "an instrument that makes things that are far away look nearer", "hu": "távcső" },
+      { "forms": ["ensure"], "lemma": "ensure", "pos": "verb", "en": "to make certain that something happens", "hu": "biztosít" },
+      { "forms": ["ruled"], "lemma": "rule", "pos": "verb", "en": "here: to decide something officially", "hu": "elrendel, rendeletben előír" },
+      { "forms": ["inhabiting"], "lemma": "inhabit", "pos": "verb", "en": "to live in a place", "hu": "lakik, él (valahol)" },
+      { "forms": ["executed"], "lemma": "execute", "pos": "verb", "en": "to kill someone as an official punishment", "hu": "kivégez" },
+      { "forms": ["fabulous"], "lemma": "fabulous", "pos": "adjective", "en": "here: like something from a fairy tale", "hu": "mesés" },
+      { "forms": ["adds to"], "lemma": "add to", "pos": "phrasal verb", "en": "to make a quality stronger", "hu": "hozzájárul, fokoz" },
+      { "forms": ["expelled"], "lemma": "expel", "pos": "verb", "en": "to make someone leave a place officially", "hu": "kitilt, kizár" },
+      { "forms": ["misbehave"], "lemma": "misbehave", "pos": "verb", "en": "to behave badly", "hu": "rosszul viselkedik" },
+      { "forms": ["fired"], "lemma": "fire", "pos": "verb", "en": "to make someone leave their job", "hu": "elbocsát, kirúg" }
+    ],
+    "2018-okt-kozep-L2": [
+      { "forms": ["reservation"], "lemma": "reservation", "pos": "noun", "en": "an area of land kept for Native American people", "hu": "rezervátum", "tip": "Más jelentése: foglalás." },
+      { "forms": ["elder"], "lemma": "elder", "pos": "noun", "en": "an old and respected person in a group", "hu": "(törzsi) vén, idős bölcs" },
+      { "forms": ["crew"], "lemma": "crew", "pos": "noun", "en": "a group of people who work together, for example on a spaceship", "hu": "legénység, személyzet" },
+      { "forms": ["promotional opportunity"], "lemma": "promotional opportunity", "pos": "noun", "en": "a chance to make something better known and liked by the public", "hu": "reklámlehetőség" },
+      { "forms": ["official"], "lemma": "official", "pos": "noun", "en": "a person with an important job in an organisation", "hu": "tisztviselő, illetékes" },
+      { "forms": ["tape recorder"], "lemma": "tape recorder", "pos": "noun", "en": "a machine that records sound on tape", "hu": "magnó" },
+      { "forms": ["brief"], "lemma": "brief", "pos": "adjective", "en": "short", "hu": "rövid" },
+      { "forms": ["heartily"], "lemma": "heartily", "pos": "adverb", "en": "loudly and with great enjoyment", "hu": "jóízűen, szívből" },
+      { "forms": ["tribe"], "lemma": "tribe", "pos": "noun", "en": "a group of people with the same language and customs", "hu": "törzs" },
+      { "forms": ["Eventually"], "lemma": "eventually", "pos": "adverb", "en": "in the end, after some time", "hu": "végül", "tip": "Hamis barát: nem azt jelenti, hogy esetleg." },
+      { "forms": ["Watch out for"], "lemma": "watch out for", "pos": "phrasal verb", "en": "be careful of someone or something", "hu": "óvakodj, vigyázz" }
+    ],
+    "2018-okt-kozep-L3": [
+      { "forms": ["immigrant"], "lemma": "immigrant", "pos": "noun", "en": "a person who comes to live in another country", "hu": "bevándorló" },
+      { "forms": ["vibrant"], "lemma": "vibrant", "pos": "adjective", "en": "bright and full of life", "hu": "élénk, eleven" },
+      { "forms": ["captured"], "lemma": "capture", "pos": "verb", "en": "here: to get someone’s attention", "hu": "megragad (figyelmet)" },
+      { "forms": ["impact"], "lemma": "impact", "pos": "noun", "en": "a strong effect", "hu": "hatás" },
+      { "forms": ["artistic composition"], "lemma": "artistic composition", "pos": "noun", "en": "the way the parts of a picture are arranged", "hu": "művészi kompozíció" },
+      { "forms": ["animated feature"], "lemma": "animated feature", "pos": "noun", "en": "a full-length cartoon film", "hu": "egész estés rajzfilm" },
+      { "forms": ["poses"], "lemma": "pose", "pos": "noun", "en": "the position of a body in a picture", "hu": "póz, testtartás" },
+      { "forms": ["illusion of motion"], "lemma": "illusion of motion", "pos": "phrase", "en": "the false feeling that pictures are moving", "hu": "a mozgás illúziója" },
+      { "forms": ["admirable"], "lemma": "admirable", "pos": "adjective", "en": "very good, deserving respect", "hu": "csodálatra méltó" },
+      { "forms": ["not necessarily"], "lemma": "not necessarily", "pos": "phrase", "en": "not always, not in every case", "hu": "nem feltétlenül" },
+      { "forms": ["retiring"], "lemma": "retire", "pos": "verb", "en": "to stop working because of age", "hu": "nyugdíjba vonul" },
+      { "forms": ["passing"], "lemma": "passing", "pos": "noun", "en": "death (a polite word)", "hu": "halál, elhunyt" },
+      { "forms": ["pioneer"], "lemma": "pioneer", "pos": "noun", "en": "one of the first people to do something", "hu": "úttörő" }
+    ],
+    "2018-okt-kozep-H1": [
+      { "forms": ["greet"], "lemma": "greet", "pos": "verb", "en": "here: to react to something in a particular way", "hu": "fogad, üdvözöl" },
+      { "forms": ["Atoll"], "lemma": "atoll", "pos": "noun", "en": "a ring-shaped island made of coral", "hu": "atoll, korallzátony" },
+      { "forms": ["by profession"], "lemma": "by profession", "pos": "phrase", "en": "as a job", "hu": "foglalkozására nézve" },
+      { "forms": ["banned"], "lemma": "ban", "pos": "verb", "en": "to say officially that something is not allowed", "hu": "betilt" },
+      { "forms": ["resisted"], "lemma": "resist", "pos": "verb", "en": "to refuse to accept something", "hu": "ellenáll, elutasít" }
+    ],
+    "2018-okt-kozep-H2": [
+      { "forms": ["fame"], "lemma": "fame", "pos": "noun", "en": "being known by many people", "hu": "hírnév" },
+      { "forms": ["sympathy"], "lemma": "sympathy", "pos": "noun", "en": "a feeling of sadness for someone who has problems", "hu": "együttérzés, rokonszenv" },
+      { "forms": ["driving instructor"], "lemma": "driving instructor", "pos": "noun", "en": "a person who teaches people to drive", "hu": "autósoktató" }
+    ],
+    "2018-okt-kozep-H3": [
+      { "forms": ["native speaker"], "lemma": "native speaker", "pos": "noun", "en": "a person who learned a language as a small child", "hu": "anyanyelvi beszélő" },
+      { "forms": ["Parroting"], "lemma": "parroting", "pos": "noun", "en": "repeating words without thinking, like a parrot", "hu": "papagájszerű ismétlés" },
+      { "forms": ["out loud"], "lemma": "out loud", "pos": "phrase", "en": "so that other people can hear you", "hu": "hangosan" },
+      { "forms": ["authentic"], "lemma": "authentic", "pos": "adjective", "en": "real, not made especially for learners", "hu": "eredeti, autentikus" },
+      { "forms": ["subtitle"], "lemma": "subtitle", "pos": "noun", "en": "words on the screen that show what people in a film are saying", "hu": "felirat" },
+      { "forms": ["script"], "lemma": "script", "pos": "noun", "en": "the written text of a film or programme", "hu": "szövegkönyv, leirat" }
     ]
   }
 }

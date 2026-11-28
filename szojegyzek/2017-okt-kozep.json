@@ -156,6 +156,72 @@
       { "forms": ["app"], "lemma": "app", "pos": "noun", "en": "a program that you use on a smartphone", "hu": "alkalmazás, applikáció" },
       { "forms": ["personal touch"], "lemma": "personal touch", "pos": "noun", "en": "something that shows you care about each customer as a person", "hu": "személyes jelleg, személyes odafigyelés" },
       { "forms": ["makes me feel good"], "lemma": "make someone feel good", "pos": "phrase", "en": "to make someone happy", "hu": "jólesik, jó érzéssel tölt el" }
+    ],
+    "2017-okt-kozep-L1": [
+      { "forms": ["terribly"], "lemma": "terribly", "pos": "adverb", "en": "very, extremely", "hu": "borzasztóan" },
+      { "forms": ["furiously"], "lemma": "furiously", "pos": "adverb", "en": "in a very angry way", "hu": "dühösen" },
+      { "forms": ["property"], "lemma": "property", "pos": "noun", "en": "here: a piece of land or a building that you own in the game", "hu": "ingatlan, telek (a játékban)" },
+      { "forms": ["connect up"], "lemma": "connect up", "pos": "phrasal verb", "en": "to join places together", "hu": "összeköt" },
+      { "forms": ["railroad network"], "lemma": "railroad network", "pos": "noun", "en": "a system of railway lines", "hu": "vasúthálózat" },
+      { "forms": ["block"], "lemma": "block", "pos": "verb", "en": "to stop someone so that they cannot do something", "hu": "megakadályoz, elzár" },
+      { "forms": ["give away"], "lemma": "give away", "pos": "phrasal verb", "en": "to let people know a secret, often by mistake", "hu": "elárul" },
+      { "forms": ["link"], "lemma": "link", "pos": "verb", "en": "to join two things together", "hu": "összeköt" },
+      { "forms": ["opponent"], "lemma": "opponent", "pos": "noun", "en": "the person you play against in a game", "hu": "ellenfél" },
+      { "forms": ["pretty"], "lemma": "pretty", "pos": "adverb", "en": "quite, fairly", "hu": "elég, eléggé", "tip": "Itt határozószó, nem azt jelenti: csinos." },
+      { "forms": ["route"], "lemma": "route", "pos": "noun", "en": "the way from one place to another", "hu": "útvonal" },
+      { "forms": ["ruining"], "lemma": "ruin", "pos": "verb", "en": "to spoil something completely", "hu": "tönkretesz" },
+      { "forms": ["for good"], "lemma": "for good", "pos": "idiom", "en": "forever", "hu": "végleg, végérvényesen" }
+    ],
+    "2017-okt-kozep-L2": [
+      { "forms": ["WISDOM"], "lemma": "wisdom", "pos": "noun", "en": "the ability to make good decisions because of knowledge and experience", "hu": "bölcsesség" },
+      { "forms": ["formal education"], "lemma": "formal education", "pos": "noun", "en": "education at school or university", "hu": "iskolai végzettség" },
+      { "forms": ["well read"], "lemma": "well read", "pos": "adjective", "en": "having read many books", "hu": "olvasott, művelt" },
+      { "forms": ["recognized"], "lemma": "recognize", "pos": "verb", "en": "here: to accept that someone is good or important", "hu": "elismer" },
+      { "forms": ["docks", "dock"], "lemma": "dock", "pos": "noun", "en": "the part of a port where ships stop", "hu": "kikötő, rakpart" },
+      { "forms": ["drowning"], "lemma": "drown", "pos": "verb", "en": "to die in water because you cannot breathe", "hu": "fuldoklik, vízbe fullad" },
+      { "forms": ["merchant"], "lemma": "merchant", "pos": "noun", "en": "a person who buys and sells goods, especially in the past", "hu": "kereskedő" },
+      { "forms": ["shilling"], "lemma": "shilling", "pos": "noun", "en": "an old British coin", "hu": "shilling (régi angol pénzérme)" },
+      { "forms": ["considered"], "lemma": "consider", "pos": "verb", "en": "to think about someone in a particular way", "hu": "tart valakit valaminek" },
+      { "forms": ["displeased"], "lemma": "displeased", "pos": "adjective", "en": "annoyed, not happy", "hu": "elégedetlen, bosszús" },
+      { "forms": ["protesting"], "lemma": "protest", "pos": "verb", "en": "to say strongly that you do not agree", "hu": "tiltakozik" },
+      { "forms": ["approached"], "lemma": "approach", "pos": "verb", "en": "to come near someone or something", "hu": "odamegy, közeledik" },
+      { "forms": ["Leave him alone"], "lemma": "leave someone alone", "pos": "phrase", "en": "stop annoying or disturbing someone", "hu": "hagyjátok békén" },
+      { "forms": ["judge"], "lemma": "judge", "pos": "noun", "en": "here: a person who can decide what something is worth", "hu": "megítélő, bíra" },
+      { "forms": ["worth"], "lemma": "worth", "pos": "adjective", "en": "having a particular value", "hu": "ér valamennyit" }
+    ],
+    "2017-okt-kozep-L3": [
+      { "forms": ["cinema-goer"], "lemma": "cinema-goer", "pos": "noun", "en": "a person who goes to the cinema", "hu": "mozilátogató, mozinéző" },
+      { "forms": ["Navy Seal"], "lemma": "Navy SEAL", "pos": "noun", "en": "a soldier in a special group of the US Navy that does dangerous jobs", "hu": "a haditengerészet különleges egységének katonája" },
+      { "forms": ["breathing techniques"], "lemma": "breathing technique", "pos": "noun", "en": "a special way of breathing", "hu": "légzéstechnika" },
+      { "forms": ["sitting through", "sit through"], "lemma": "sit through", "pos": "phrasal verb", "en": "to stay until the end of something long or boring", "hu": "végigül" },
+      { "forms": ["trilogies"], "lemma": "trilogy", "pos": "noun", "en": "a set of three films or books that tell one story", "hu": "trilógia" },
+      { "forms": ["on repeat"], "lemma": "on repeat", "pos": "phrase", "en": "played again and again", "hu": "újra és újra, ismétlésben" },
+      { "forms": ["permitted"], "lemma": "permit", "pos": "verb", "en": "to allow", "hu": "megenged" },
+      { "forms": ["result in"], "lemma": "result in", "pos": "phrasal verb", "en": "to cause something", "hu": "eredményez, maga után von" },
+      { "forms": ["disqualification"], "lemma": "disqualification", "pos": "noun", "en": "being stopped from taking part because you broke a rule", "hu": "kizárás" },
+      { "forms": ["in his honour"], "lemma": "in someone’s honour", "pos": "phrase", "en": "to show respect for someone", "hu": "a tiszteletére" },
+      { "forms": ["passion"], "lemma": "passion", "pos": "noun", "en": "a very strong love of something", "hu": "szenvedély" },
+      { "forms": ["put ourselves through hell"], "lemma": "put yourself through hell", "pos": "idiom", "en": "to make yourself suffer a lot", "hu": "pokoli kínokat állt ki" },
+      { "forms": ["chest pains"], "lemma": "chest pain", "pos": "noun", "en": "pain in the front part of your body, between your neck and stomach", "hu": "mellkasi fájdalom" },
+      { "forms": ["dropped out"], "lemma": "drop out", "pos": "phrasal verb", "en": "to stop taking part in something before the end", "hu": "kiesik, feladja" },
+      { "forms": ["enthusiastic"], "lemma": "enthusiastic", "pos": "adjective", "en": "showing a lot of interest and excitement", "hu": "lelkes" }
+    ],
+    "2017-okt-kozep-H1": [
+      { "forms": ["respectively"], "lemma": "respectively", "pos": "adverb", "en": "in the same order as the people or things you have just mentioned", "hu": "sorrendben, illetve" },
+      { "forms": ["condition"], "lemma": "condition", "pos": "noun", "en": "here: an illness or health problem that lasts a long time", "hu": "betegség, állapot" },
+      { "forms": ["deliberately"], "lemma": "deliberately", "pos": "adverb", "en": "on purpose", "hu": "szándékosan" },
+      { "forms": ["symptoms"], "lemma": "symptom", "pos": "noun", "en": "a sign of an illness", "hu": "tünet" }
+    ],
+    "2017-okt-kozep-H2": [
+      { "forms": ["victims"], "lemma": "victim", "pos": "noun", "en": "a person who has something bad done to them", "hu": "áldozat, károsult" },
+      { "forms": ["file"], "lemma": "file", "pos": "verb", "en": "to officially give in a written document", "hu": "(hivatalosan) bead, benyújt" },
+      { "forms": ["record take"], "lemma": "record take", "pos": "noun", "en": "the largest amount ever taken at one time", "hu": "rekordzsákmány" }
+    ],
+    "2017-okt-kozep-H3": [
+      { "forms": ["calculations"], "lemma": "calculation", "pos": "noun", "en": "the work of finding a number or amount using maths", "hu": "számítás" },
+      { "forms": ["worth it"], "lemma": "be worth it", "pos": "phrase", "en": "to be good or useful enough to make the effort right", "hu": "megéri" },
+      { "forms": ["arrangement"], "lemma": "arrangement", "pos": "noun", "en": "a plan or way of organising something", "hu": "megoldás, elrendezés" },
+      { "forms": ["somewhat"], "lemma": "somewhat", "pos": "adverb", "en": "a little, rather", "hu": "némileg, kissé" }
     ]
   }
 }

@@ -273,6 +273,78 @@
       { "forms": ["soar"], "lemma": "soar", "pos": "verb", "en": "to rise very quickly", "hu": "szárnyal, rohamosan nő" },
       { "forms": ["architecture"], "lemma": "architecture", "pos": "noun", "en": "the style and design of buildings", "hu": "építészet" },
       { "forms": ["nightlife"], "lemma": "nightlife", "pos": "noun", "en": "bars, clubs and entertainment at night", "hu": "éjszakai élet" }
+    ],
+    "2015-maj-emelt-L1": [
+      { "forms": ["allocated"], "lemma": "allocated", "pos": "adjective", "en": "given to someone for a particular purpose", "hu": "kiutalt, nekik járó" },
+      { "forms": ["take leave"], "lemma": "take leave", "pos": "phrase", "en": "to have time away from work, often with pay", "hu": "szabadságot vesz ki" },
+      { "forms": ["hard-earned"], "lemma": "hard-earned", "pos": "adjective", "en": "got after a lot of work and effort", "hu": "keservesen megszolgált, nehezen megszerzett" },
+      { "forms": ["accumulated"], "lemma": "accumulated", "pos": "adjective", "en": "collected little by little over a period of time", "hu": "felhalmozott, összegyűlt" },
+      { "forms": ["unclaimed"], "lemma": "unclaimed", "pos": "adjective", "en": "that nobody has asked for or used", "hu": "fel nem használt, ki nem vett" },
+      { "forms": ["workaholics"], "lemma": "workaholic", "pos": "noun", "en": "a person who works too much and cannot stop", "hu": "munkamániás" },
+      { "forms": ["financed"], "lemma": "finance", "pos": "verb", "en": "to give the money for something", "hu": "finanszíroz, fizet" },
+      { "forms": ["featuring"], "lemma": "feature", "pos": "verb", "en": "to show someone as an important part of a film or advertisement", "hu": "szerepeltet, bemutat" },
+      { "forms": ["expire"], "lemma": "expire", "pos": "verb", "en": "to come to an end and no longer be possible to use", "hu": "lejár, elévül" },
+      { "forms": ["bluntly"], "lemma": "bluntly", "pos": "adverb", "en": "saying exactly what you think, even if it is not polite", "hu": "kertelés nélkül, nyersen" },
+      { "forms": ["mandatory"], "lemma": "mandatory", "pos": "adjective", "en": "required by law or a rule", "hu": "kötelező" },
+      { "forms": ["reward"], "lemma": "reward", "pos": "verb", "en": "to give someone something because they have worked well", "hu": "jutalmaz, megjutalmaz" },
+      { "forms": ["guaranteed"], "lemma": "guaranteed", "pos": "adjective", "en": "that people are promised and will surely get", "hu": "garantált, biztosított" },
+      { "forms": ["common practice"], "lemma": "common practice", "pos": "phrase", "en": "the usual way of doing something in a place", "hu": "bevett gyakorlat, általános szokás" }
+    ],
+    "2015-maj-emelt-L2": [
+      { "forms": ["line of work"], "lemma": "line of work", "pos": "phrase", "en": "a type of job", "hu": "szakma, foglalkozás" },
+      { "forms": ["associate with"], "lemma": "associate with", "pos": "phrasal verb", "en": "to connect two things in your mind", "hu": "összekapcsol, társít valamivel" },
+      { "forms": ["stroke"], "lemma": "stroke", "pos": "noun", "en": "one movement of your hand over something", "hu": "simogatás, simítás" },
+      { "forms": ["coat"], "lemma": "coat", "pos": "noun", "en": "the hair or fur of an animal", "hu": "bunda, szőrzet" },
+      { "forms": ["fits of sneezing"], "lemma": "fit of sneezing", "pos": "phrase", "en": "a short period when you cannot stop sneezing", "hu": "tüsszögési roham" },
+      { "forms": ["set off"], "lemma": "set off", "pos": "phrasal verb", "en": "to make something start", "hu": "kivált, elindít" },
+      { "forms": ["asthma"], "lemma": "asthma", "pos": "noun", "en": "an illness that makes breathing difficult", "hu": "asztma" },
+      { "forms": ["tracking down"], "lemma": "track down", "pos": "phrasal verb", "en": "to find someone or something after searching for a long time", "hu": "felkutat, felderít" },
+      { "forms": ["hunt them down"], "lemma": "hunt down", "pos": "phrasal verb", "en": "to search hard until you find someone", "hu": "felkutat, levadász" },
+      { "forms": ["severe"], "lemma": "severe", "pos": "adjective", "en": "very serious or bad", "hu": "súlyos" },
+      { "forms": ["pursuing"], "lemma": "pursue", "pos": "verb", "en": "to try to achieve something over a long time", "hu": "követ, megvalósítani igyekszik" },
+      { "forms": ["coming up against"], "lemma": "come up against", "pos": "phrasal verb", "en": "to have to deal with a difficulty or an enemy", "hu": "szembekerül valamivel" },
+      { "forms": ["nemeses"], "lemma": "nemesis", "pos": "noun", "en": "an enemy that you cannot easily defeat", "hu": "ősellenség, végzet", "tip": "Többes száma: nemeses (ejtsd: nemesziz)." },
+      { "forms": ["recovers"], "lemma": "recover", "pos": "verb", "en": "to find and get back something that was lost", "hu": "visszaszerez, megtalál" }
+    ],
+    "2015-maj-emelt-L3": [
+      { "forms": ["bond"], "lemma": "bond", "pos": "noun", "en": "a strong feeling of friendship or love that connects people", "hu": "kötődés, kapcsolat" },
+      { "forms": ["inspired"], "lemma": "inspire", "pos": "verb", "en": "to give someone the idea to do something", "hu": "ihlet, ösztönöz" },
+      { "forms": ["lyric"], "lemma": "lyric", "pos": "noun", "en": "the words of a song", "hu": "dalszöveg" },
+      { "forms": ["struck a chord"], "lemma": "strike a chord", "pos": "idiom", "en": "to make someone feel that something is familiar or important to them", "hu": "megérintette, rezonált benne" },
+      { "forms": ["aisle"], "lemma": "aisle", "pos": "noun", "en": "the long passage between the rows of seats, for example in a church", "hu": "(templomi) folyosó, sorok közti út", "tip": "Az s-t nem ejtjük: /aɪl/." },
+      { "forms": ["proposed"], "lemma": "propose", "pos": "verb", "en": "to ask someone to marry you", "hu": "megkéri a kezét" },
+      { "forms": ["rehearsed"], "lemma": "rehearse", "pos": "verb", "en": "to practise something before you do it in public", "hu": "begyakorol, elpróbál" },
+      { "forms": ["vows"], "lemma": "vow", "pos": "noun", "en": "a serious promise, especially at a wedding", "hu": "(házassági) eskü, fogadalom" },
+      { "forms": ["wed"], "lemma": "wed", "pos": "verb", "en": "to marry", "hu": "összeházasodik, megesküszik" },
+      { "forms": ["sealing the deal"], "lemma": "seal the deal", "pos": "idiom", "en": "to do the final thing that makes an agreement official", "hu": "megpecsételve az egyezséget" },
+      { "forms": ["planting a kiss"], "lemma": "plant a kiss", "pos": "phrase", "en": "to kiss someone or something firmly", "hu": "csókot nyom" },
+      { "forms": ["empowering"], "lemma": "empowering", "pos": "adjective", "en": "making you feel stronger and more in control of your life", "hu": "erőt adó, felszabadító" }
+    ],
+    "2015-maj-emelt-H1": [
+      { "forms": ["raising"], "lemma": "raise", "pos": "verb", "en": "to keep and feed animals so that they grow", "hu": "tenyészt, nevel" },
+      { "forms": ["cattle"], "lemma": "cattle", "pos": "noun", "en": "cows and bulls kept on a farm", "hu": "szarvasmarha", "tip": "Mindig többes számú ige áll utána." }
+    ],
+    "2015-maj-emelt-H2": [
+      { "forms": ["dating agency"], "lemma": "dating agency", "pos": "noun", "en": "a company that helps people find a partner", "hu": "társkereső iroda" },
+      { "forms": ["speed dating"], "lemma": "speed dating", "pos": "noun", "en": "an event where people meet many possible partners for a few minutes each", "hu": "gyorsrandi" },
+      { "forms": ["varies"], "lemma": "vary", "pos": "verb", "en": "to be different in different situations", "hu": "változik, eltér" },
+      { "forms": ["forwarded"], "lemma": "forward", "pos": "verb", "en": "to send a letter or email that you have received to another person", "hu": "továbbít" },
+      { "forms": ["other party"], "lemma": "the other party", "pos": "phrase", "en": "the other person who is involved in something", "hu": "a másik fél" },
+      { "forms": ["hopeless case"], "lemma": "hopeless case", "pos": "phrase", "en": "a person who will never be suitable or successful", "hu": "reménytelen eset" },
+      { "forms": ["arrive at a decision"], "lemma": "arrive at a decision", "pos": "phrase", "en": "to decide after thinking", "hu": "döntésre jut" }
+    ],
+    "2015-maj-emelt-H3": [
+      { "forms": ["pecked"], "lemma": "peck", "pos": "verb", "en": "when a bird hits something with its beak", "hu": "megcsíp, belecsíp (csőrrel)" },
+      { "forms": ["scalp"], "lemma": "scalp", "pos": "noun", "en": "the skin on the top of your head, under your hair", "hu": "fejbőr" },
+      { "forms": ["colander"], "lemma": "colander", "pos": "noun", "en": "a metal or plastic bowl with many small holes, used in the kitchen", "hu": "szűrőedény, tésztaszűrő" },
+      { "forms": ["require"], "lemma": "require", "pos": "verb", "en": "to make someone do something because of a rule", "hu": "előír, kötelez" },
+      { "forms": ["gulls"], "lemma": "gull", "pos": "noun", "en": "a large grey and white sea bird", "hu": "sirály" },
+      { "forms": ["rip them open"], "lemma": "rip open", "pos": "phrasal verb", "en": "to tear something quickly so that it opens", "hu": "feltép, széttép" },
+      { "forms": ["councillor"], "lemma": "councillor", "pos": "noun", "en": "a member of the group of people who govern a town", "hu": "önkormányzati képviselő" },
+      { "forms": ["seagulls"], "lemma": "seagull", "pos": "noun", "en": "a large grey and white sea bird", "hu": "sirály" },
+      { "forms": ["coastal"], "lemma": "coastal", "pos": "adjective", "en": "near the sea", "hu": "tengerparti" },
+      { "forms": ["horrendous"], "lemma": "horrendous", "pos": "adjective", "en": "extremely bad or unpleasant", "hu": "borzalmas, rémes" },
+      { "forms": ["scavangers"], "lemma": "scavenger", "pos": "noun", "en": "an animal that eats dead animals or food that people throw away", "hu": "dögevő, hulladékon élő állat", "tip": "A szabályos írásmód: scavengers." }
     ]
   }
 }

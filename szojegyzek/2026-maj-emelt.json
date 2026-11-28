@@ -259,6 +259,70 @@
       { "forms": ["transmit"], "lemma": "transmit", "pos": "verb", "en": "to pass a disease from one person or animal to another", "hu": "terjeszt, átad (betegséget)" },
       { "forms": ["various"], "lemma": "various", "pos": "adjective", "en": "several different", "hu": "különféle" },
       { "forms": ["diseases"], "lemma": "disease", "pos": "noun", "en": "an illness", "hu": "betegség" }
+    ],
+    "2026-maj-emelt-L1": [
+      { "forms": ["GET THE SACK"], "lemma": "get the sack", "pos": "idiom", "en": "to lose your job because your employer tells you to leave", "hu": "kirúgják (az állásából)" },
+      { "forms": ["sacked"], "lemma": "sack", "pos": "verb", "en": "to tell someone that they must leave their job", "hu": "kirúg, elbocsát" },
+      { "forms": ["come to terms with"], "lemma": "come to terms with", "pos": "phrase", "en": "to slowly accept a sad or difficult situation", "hu": "beletörődik, megbékél valamivel" },
+      { "forms": ["flocked"], "lemma": "flock", "pos": "verb", "en": "to go to a place in large numbers", "hu": "tömegesen özönlik, sereglik" },
+      { "forms": ["labourers"], "lemma": "labourer", "pos": "noun", "en": "a person who does hard work with their body", "hu": "munkás, napszámos" },
+      { "forms": ["tradesmen"], "lemma": "tradesman", "pos": "noun", "en": "a person who does a skilled job with their hands, such as a builder", "hu": "mesterember, iparos" },
+      { "forms": ["craftsmen"], "lemma": "craftsman", "pos": "noun", "en": "a person who makes beautiful or useful things by hand", "hu": "kézműves, mesterember" },
+      { "forms": ["arose"], "lemma": "arise", "pos": "verb", "en": "to appear or start to exist", "hu": "adódik, felmerül" },
+      { "forms": ["sack"], "lemma": "sack", "pos": "noun", "en": "a large bag made of strong cloth", "hu": "zsák" },
+      { "forms": ["safekeeping"], "lemma": "safekeeping", "pos": "noun", "en": "keeping something in a safe place so that it is not lost or stolen", "hu": "megőrzés" },
+      { "forms": ["job security"], "lemma": "job security", "pos": "noun", "en": "the feeling that you will not lose your job", "hu": "munkahelyi biztonság, az állás biztonsága" },
+      { "forms": ["trade unions"], "lemma": "trade union", "pos": "noun", "en": "an organisation of workers that protects their rights", "hu": "szakszervezet" },
+      { "forms": ["dismissed"], "lemma": "dismiss", "pos": "verb", "en": "to tell someone officially that they must leave their job", "hu": "elbocsát" },
+      { "forms": ["at a moment’s notice"], "lemma": "at a moment’s notice", "pos": "idiom", "en": "very suddenly, without any warning", "hu": "egyik pillanatról a másikra" },
+      { "forms": ["belongings"], "lemma": "belongings", "pos": "noun", "en": "the things that you own and can carry", "hu": "holmi, személyes tárgyak", "tip": "Mindig többes számban áll." }
+    ],
+    "2026-maj-emelt-L2": [
+      { "forms": ["SPIED ON"], "lemma": "spy on", "pos": "phrasal verb", "en": "to watch or listen to someone secretly", "hu": "kémkedik valaki után" },
+      { "forms": ["Ambassador"], "lemma": "ambassador", "pos": "noun", "en": "the most important person who represents his country in another country", "hu": "nagykövet" },
+      { "forms": ["Seal"], "lemma": "seal", "pos": "noun", "en": "an official sign of a country or organisation", "hu": "pecsét, címer" },
+      { "forms": ["residence"], "lemma": "residence", "pos": "noun", "en": "the house where an important person lives (formal)", "hu": "rezidencia, lakhely" },
+      { "forms": ["ornament"], "lemma": "ornament", "pos": "noun", "en": "an object that is used only to make a place look nice", "hu": "dísztárgy, dísz" },
+      { "forms": ["listening device"], "lemma": "listening device", "pos": "noun", "en": "a small machine for secretly hearing what people say", "hu": "lehallgatókészülék, poloska" },
+      { "forms": ["dubbed"], "lemma": "dub", "pos": "verb", "en": "to give someone or something a name, often a funny one", "hu": "elnevez, elkeresztel" },
+      { "forms": ["seemingly"], "lemma": "seemingly", "pos": "adverb", "en": "appearing to be something, but maybe not really", "hu": "látszólag" },
+      { "forms": ["infiltrate"], "lemma": "infiltrate", "pos": "verb", "en": "to secretly get into a group or place", "hu": "beszivárog, beépül" },
+      { "forms": ["ingenious"], "lemma": "ingenious", "pos": "adjective", "en": "very clever and new", "hu": "zseniális, ötletes" },
+      { "forms": ["stunt"], "lemma": "stunt", "pos": "noun", "en": "a clever and surprising action done to get an advantage", "hu": "mutatvány, trükk" },
+      { "forms": ["transceiver"], "lemma": "transceiver", "pos": "noun", "en": "a radio that can both send and receive signals", "hu": "adó-vevő" },
+      { "forms": ["vibrations"], "lemma": "vibration", "pos": "noun", "en": "a fast, small movement back and forth", "hu": "rezgés" },
+      { "forms": ["bug’s"], "lemma": "bug", "pos": "noun", "en": "here: a very small hidden machine for listening", "hu": "poloska (lehallgatókészülék)", "tip": "Más jelentései: bogár, illetve hiba (programban)." },
+      { "forms": ["came to light"], "lemma": "come to light", "pos": "idiom", "en": "to become known", "hu": "napvilágra kerül, kiderül" },
+      { "forms": ["tuned into"], "lemma": "tune into", "pos": "phrasal verb", "en": "to set a radio to receive a particular signal", "hu": "ráhangol, befog (adást)" },
+      { "forms": ["wavelength"], "lemma": "wavelength", "pos": "noun", "en": "the size of a radio wave that a station uses", "hu": "hullámhossz" },
+      { "forms": ["overheard"], "lemma": "overhear", "pos": "verb", "en": "to hear by chance what other people are saying", "hu": "véletlenül meghall, kihallgat" },
+      { "forms": ["eavesdropping"], "lemma": "eavesdrop", "pos": "verb", "en": "to listen secretly to other people", "hu": "hallgatózik, kihallgat" }
+    ],
+    "2026-maj-emelt-L3": [
+      { "forms": ["courtesy"], "lemma": "courtesy", "pos": "noun", "en": "polite and kind behaviour towards other people", "hu": "udvariasság, előzékenység" },
+      { "forms": ["descending into chaos"], "lemma": "descend into chaos", "pos": "phrase", "en": "to slowly become completely disorganised", "hu": "káoszba süllyed" },
+      { "forms": ["raises awareness"], "lemma": "raise awareness", "pos": "phrase", "en": "to make people know and care more about something", "hu": "felhívja a figyelmet, tudatosítja" },
+      { "forms": ["consciously"], "lemma": "consciously", "pos": "adverb", "en": "knowing what you are doing and doing it on purpose", "hu": "tudatosan" },
+      { "forms": ["gestures"], "lemma": "gesture", "pos": "noun", "en": "a small action that shows your feelings", "hu": "gesztus, figyelmesség" },
+      { "forms": ["lasting impact"], "lemma": "lasting impact", "pos": "phrase", "en": "an effect that continues for a long time", "hu": "tartós hatás" },
+      { "forms": ["acknowledge"], "lemma": "acknowledge", "pos": "verb", "en": "to show that you have noticed something", "hu": "elismer, nyugtáz" },
+      { "forms": ["In a sense"], "lemma": "in a sense", "pos": "phrase", "en": "in one way; partly", "hu": "bizonyos értelemben" },
+      { "forms": ["stand out"], "lemma": "stand out", "pos": "phrasal verb", "en": "to be easy to notice because it is different", "hu": "kitűnik, feltűnik" },
+      { "forms": ["fallen out of fashion"], "lemma": "fall out of fashion", "pos": "phrase", "en": "to stop being popular", "hu": "kimegy a divatból" }
+    ],
+    "2026-maj-emelt-H1": [
+      { "forms": ["made their way to"], "lemma": "make your way to", "pos": "phrase", "en": "to move or travel to a place", "hu": "eljut valahová" },
+      { "forms": ["carry out"], "lemma": "carry out", "pos": "phrasal verb", "en": "to do a piece of work or a task", "hu": "végrehajt, elvégez" },
+      { "forms": ["gained a reputation"], "lemma": "gain a reputation", "pos": "phrase", "en": "to become known for something", "hu": "hírnevet szerez" },
+      { "forms": ["passionate"], "lemma": "passionate", "pos": "adjective", "en": "showing very strong feelings", "hu": "szenvedélyes" },
+      { "forms": ["contexts"], "lemma": "context", "pos": "noun", "en": "the situation in which something happens or is used", "hu": "összefüggés, helyzet" }
+    ],
+    "2026-maj-emelt-H2": [
+      { "forms": ["iconic"], "lemma": "iconic", "pos": "adjective", "en": "very famous and seen as a symbol of something", "hu": "ikonikus, jelképpé vált" },
+      { "forms": ["landing"], "lemma": "landing", "pos": "noun", "en": "the arrival of soldiers on land from ships", "hu": "partraszállás" },
+      { "forms": ["piling up"], "lemma": "pile up", "pos": "phrasal verb", "en": "to put things on top of each other", "hu": "felhalmoz, egymásra rak" },
+      { "forms": ["Marines"], "lemma": "marine", "pos": "noun", "en": "a soldier who is trained to fight on land and at sea", "hu": "tengerészgyalogos" },
+      { "forms": ["staged"], "lemma": "staged", "pos": "adjective", "en": "arranged in advance to look real, not natural", "hu": "megrendezett, beállított" }
     ]
   }
 }

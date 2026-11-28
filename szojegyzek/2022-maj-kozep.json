@@ -197,6 +197,54 @@
       { "forms": ["fought over"], "lemma": "fight over", "pos": "phrasal verb", "en": "to fight because everyone wants the same thing", "hu": "összeverekedtek, marakodtak valamin" },
       { "forms": ["hiding away from"], "lemma": "hide away from", "pos": "phrasal verb", "en": "to stay where others cannot find you", "hu": "elbújik valaki elől" },
       { "forms": ["siblings"], "lemma": "sibling", "pos": "noun", "en": "a brother or sister", "hu": "testvér" }
+    ],
+    "2022-maj-kozep-L1": [
+      { "forms": ["legend"], "lemma": "legend", "pos": "noun", "en": "a very famous person who is admired by many people", "hu": "legenda, híresség" },
+      { "forms": ["structures"], "lemma": "structure", "pos": "noun", "en": "something that is built from many parts", "hu": "építmény, szerkezet" },
+      { "forms": ["boxlike"], "lemma": "boxlike", "pos": "adjective", "en": "with the shape of a box", "hu": "doboz alakú" },
+      { "forms": ["cement brick"], "lemma": "cement brick", "pos": "noun", "en": "a heavy block made of hard grey building material", "hu": "betontégla" },
+      { "forms": ["glue"], "lemma": "glue", "pos": "noun", "en": "a thick liquid for sticking things together", "hu": "ragasztó" },
+      { "forms": ["creations"], "lemma": "creation", "pos": "noun", "en": "something that someone has made", "hu": "alkotás, mű" },
+      { "forms": ["landmarks"], "lemma": "landmark", "pos": "noun", "en": "a famous building that you can easily recognize", "hu": "nevezetesség, jellegzetes épület" }
+    ],
+    "2022-maj-kozep-L2": [
+      { "forms": ["costly"], "lemma": "costly", "pos": "adjective", "en": "costing a lot of money", "hu": "drága, költséges" },
+      { "forms": ["fat wallets"], "lemma": "fat wallet", "pos": "phrase", "en": "a lot of money (a wallet full of money)", "hu": "vastag pénztárca (gazdagság)" },
+      { "forms": ["parrot"], "lemma": "parrot", "pos": "noun", "en": "a colourful bird that can learn to copy human words", "hu": "papagáj" },
+      { "forms": ["exotic"], "lemma": "exotic", "pos": "adjective", "en": "unusual and coming from a far-away country", "hu": "egzotikus" },
+      { "forms": ["a bunch of"], "lemma": "a bunch of", "pos": "phrase", "en": "a lot of", "hu": "egy csomó, egy halom" },
+      { "forms": ["cigars"], "lemma": "cigar", "pos": "noun", "en": "a thick roll of tobacco leaves that people smoke", "hu": "szivar" },
+      { "forms": ["fluently"], "lemma": "fluently", "pos": "adverb", "en": "speaking a language easily and well", "hu": "folyékonyan" },
+      { "forms": ["entertainer"], "lemma": "entertainer", "pos": "noun", "en": "someone whose job is to make people laugh or have fun", "hu": "szórakoztató, előadóművész" },
+      { "forms": ["ancestry"], "lemma": "ancestry", "pos": "noun", "en": "the family members who lived long before you", "hu": "származás, ősök" },
+      { "forms": ["goes back"], "lemma": "go back", "pos": "phrasal verb", "en": "to have started or existed at a time in the past", "hu": "visszanyúlik (a múltba)" },
+      { "forms": ["anecdote"], "lemma": "anecdote", "pos": "noun", "en": "a short funny or interesting story about a real event", "hu": "anekdota, történet" },
+      { "forms": ["goes for"], "lemma": "go for", "pos": "phrasal verb", "en": "to be sold for a price", "hu": "ennyiért kel el, ennyibe kerül" }
+    ],
+    "2022-maj-kozep-L3": [
+      { "forms": ["untold"], "lemma": "untold", "pos": "adjective", "en": "not told to people before", "hu": "eddig el nem mondott, ismeretlen" },
+      { "forms": ["flavors"], "lemma": "flavor", "pos": "noun", "en": "a type of taste, for example lemon or strawberry", "hu": "íz, ízváltozat", "tip": "Amerikai írásmód; a brit alak: flavour." },
+      { "forms": ["candy-coated"], "lemma": "candy-coated", "pos": "adjective", "en": "covered with a thin hard layer of sugar", "hu": "cukorbevonatos, cukormázas" },
+      { "forms": ["founded"], "lemma": "found", "pos": "verb", "en": "to start a company or organization", "hu": "alapít", "tip": "A found (alapít) szabályos ige: found – founded. Ne keverd a find (talál) múlt idejével." },
+      { "forms": ["took on"], "lemma": "take on", "pos": "phrasal verb", "en": "to start doing a job or having a duty", "hu": "elvállal, átvesz (feladatot)" },
+      { "forms": ["fond"], "lemma": "fond", "pos": "adjective", "en": "liking something or someone", "hu": "kedvel, szeret" },
+      { "forms": ["eventually"], "lemma": "eventually", "pos": "adverb", "en": "after a long time", "hu": "végül, végül is", "tip": "Hamis barát: nem azt jelenti, hogy esetleg." },
+      { "forms": ["paired up"], "lemma": "pair up", "pos": "phrasal verb", "en": "to start working together with another person", "hu": "összeáll, társul" },
+      { "forms": ["brands"], "lemma": "brand", "pos": "noun", "en": "a type of product made by one company with its own name", "hu": "márka" },
+      { "forms": ["debuted"], "lemma": "debut", "pos": "verb", "en": "to appear for the first time", "hu": "bemutatkozik, megjelenik (először)" }
+    ],
+    "2022-maj-kozep-H1": [
+      { "forms": ["streamlined"], "lemma": "streamlined", "pos": "adjective", "en": "with a smooth shape that moves easily through water or air", "hu": "áramvonalas" },
+      { "forms": ["arranged"], "lemma": "arrange", "pos": "verb", "en": "to put things in a certain order or position", "hu": "elrendez" },
+      { "forms": ["seals"], "lemma": "seal", "pos": "noun", "en": "a large sea animal with short fur that eats fish", "hu": "fóka" },
+      { "forms": ["pups"], "lemma": "pup", "pos": "noun", "en": "a baby of some animals, for example sharks or seals", "hu": "kölyök, utód (állaté)" },
+      { "forms": ["creatures"], "lemma": "creature", "pos": "noun", "en": "any living animal", "hu": "élőlény, teremtmény" }
+    ],
+    "2022-maj-kozep-H2": [
+      { "forms": ["got into the final"], "lemma": "get into the final", "pos": "phrase", "en": "to win enough races to be in the last and most important race", "hu": "bejut a döntőbe" }
+    ],
+    "2022-maj-kozep-H3": [
+      { "forms": ["computer generated"], "lemma": "computer generated", "pos": "adjective", "en": "made on a computer, not real", "hu": "számítógéppel készült (trükk)" }
     ]
   }
 }

@@ -182,6 +182,61 @@
       { "forms": ["launched"], "lemma": "launch", "pos": "verb", "en": "to start selling or offering a new product", "hu": "piacra dob, elindít" },
       { "forms": ["charging"], "lemma": "charge", "pos": "verb", "en": "to ask for money for something", "hu": "díjat kér, felszámol" },
       { "forms": ["monthly fee"], "lemma": "monthly fee", "pos": "noun", "en": "money that you pay every month for a service", "hu": "havidíj" }
+    ],
+    "2013-maj-kozep-L1": [
+      { "forms": ["bats"], "lemma": "bat", "pos": "noun", "en": "a small animal like a mouse with wings that flies at night", "hu": "denevér" },
+      { "forms": ["cave"], "lemma": "cave", "pos": "noun", "en": "a large hole in the side of a hill or under the ground", "hu": "barlang" },
+      { "forms": ["pouring out"], "lemma": "pour out", "pos": "phrasal verb", "en": "to come out of a place in large numbers", "hu": "kiözönlik, kiáramlik" },
+      { "forms": ["migrate"], "lemma": "migrate", "pos": "verb", "en": "to travel to another place at the same time each year", "hu": "vándorol (évszakonként)" },
+      { "forms": ["raise their young"], "lemma": "raise your young", "pos": "phrase", "en": "to look after your babies until they grow up", "hu": "felneveli a kicsinyeit" },
+      { "forms": ["gives birth"], "lemma": "give birth", "pos": "phrase", "en": "to have a baby", "hu": "világra hoz, megszül" },
+      { "forms": ["pup"], "lemma": "pup", "pos": "noun", "en": "a baby of some animals, for example a bat or a dog", "hu": "kölyök, kicsinye" },
+      { "forms": ["crammed"], "lemma": "crammed", "pos": "adjective", "en": "pushed together in a small space", "hu": "összezsúfolt, összepréselt" },
+      { "forms": ["sense of smell"], "lemma": "sense of smell", "pos": "noun", "en": "the ability to notice things with your nose", "hu": "szaglás" },
+      { "forms": ["nurse"], "lemma": "nurse", "pos": "verb", "en": "to feed a baby with milk from the mother’s body", "hu": "szoptat, szopik", "tip": "Itt ige, nem ápolót jelent." },
+      { "forms": ["column"], "lemma": "column", "pos": "noun", "en": "a tall, narrow shape", "hu": "oszlop" }
+    ],
+    "2013-maj-kozep-L2": [
+      { "forms": ["purpose"], "lemma": "purpose", "pos": "noun", "en": "what something is used for", "hu": "cél, rendeltetés" },
+      { "forms": ["I bet"], "lemma": "I bet", "pos": "phrase", "en": "I am almost sure", "hu": "lefogadom, biztos vagyok benne" },
+      { "forms": ["running water"], "lemma": "running water", "pos": "noun", "en": "water that comes from taps in a building", "hu": "folyóvíz, vezetékes víz" },
+      { "forms": ["reasonably"], "lemma": "reasonably", "pos": "adverb", "en": "fairly; quite but not very", "hu": "meglehetősen, elég" },
+      { "forms": ["secure"], "lemma": "secure", "pos": "adjective", "en": "safe and protected", "hu": "biztonságos" },
+      { "forms": ["burglars"], "lemma": "burglar", "pos": "noun", "en": "a person who goes into a building to steal things", "hu": "betörő" },
+      { "forms": ["consisted"], "lemma": "consist", "pos": "verb", "en": "to be formed from certain parts", "hu": "áll valamiből" },
+      { "forms": ["predators"], "lemma": "predator", "pos": "noun", "en": "an animal that kills and eats other animals", "hu": "ragadozó" },
+      { "forms": ["servants"], "lemma": "servant", "pos": "noun", "en": "a person who works in another person’s house, for example cooking or cleaning", "hu": "szolga, cseléd" }
+    ],
+    "2013-maj-kozep-L3": [
+      { "forms": ["identified"], "lemma": "identify", "pos": "verb", "en": "to recognise and name something", "hu": "azonosít, felfedez" },
+      { "forms": ["distinct"], "lemma": "distinct", "pos": "adjective", "en": "clearly separate, not the same as others", "hu": "különálló, elkülönülő" },
+      { "forms": ["under threat"], "lemma": "under threat", "pos": "phrase", "en": "in danger of being harmed or lost", "hu": "veszélyben, fenyegetett" },
+      { "forms": ["little-known"], "lemma": "little-known", "pos": "adjective", "en": "not known by many people", "hu": "kevéssé ismert" },
+      { "forms": ["expedition"], "lemma": "expedition", "pos": "noun", "en": "an organised journey for scientific research", "hu": "expedíció" },
+      { "forms": ["linguists"], "lemma": "linguist", "pos": "noun", "en": "a person who studies languages", "hu": "nyelvész" },
+      { "forms": ["closely related"], "lemma": "closely related", "pos": "phrase", "en": "very similar because they come from the same origin", "hu": "közeli rokon(ságban álló)" },
+      { "forms": ["endangered"], "lemma": "endangered", "pos": "adjective", "en": "in danger of disappearing for ever", "hu": "veszélyeztetett, kihalófélben lévő" },
+      { "forms": ["remained"], "lemma": "remain", "pos": "verb", "en": "to stay in the same state", "hu": "marad" }
+    ],
+    "2013-maj-kozep-H1": [
+      { "forms": ["raised"], "lemma": "raise", "pos": "verb", "en": "to look after a child until it grows up", "hu": "felnevel" },
+      { "forms": ["do for a living"], "lemma": "do for a living", "pos": "phrase", "en": "to do as a job", "hu": "mivel keresi a kenyerét, mi a foglalkozása" },
+      { "forms": ["natural talent"], "lemma": "natural talent", "pos": "noun", "en": "an ability that you are born with", "hu": "veleszületett tehetség" },
+      { "forms": ["relatives"], "lemma": "relative", "pos": "noun", "en": "a member of your family", "hu": "rokon" },
+      { "forms": ["reunited"], "lemma": "reunite", "pos": "verb", "en": "to bring people together again after a long time", "hu": "újra egymásra talál, újra egyesül" }
+    ],
+    "2013-maj-kozep-H2": [
+      { "forms": ["space shuttle"], "lemma": "space shuttle", "pos": "noun", "en": "a spacecraft that can fly into space and come back many times", "hu": "űrrepülőgép, űrsikló" },
+      { "forms": ["touched down"], "lemma": "touch down", "pos": "phrasal verb", "en": "to land on the ground", "hu": "leszáll, földet ér" },
+      { "forms": ["broke apart"], "lemma": "break apart", "pos": "phrasal verb", "en": "to break into many pieces", "hu": "darabjaira hullik, szétesik" },
+      { "forms": ["lift-off"], "lemma": "lift-off", "pos": "noun", "en": "the moment when a spacecraft leaves the ground", "hu": "kilövés, felszállás" },
+      { "forms": ["felling"], "lemma": "felling", "pos": "noun", "en": "cutting down trees", "hu": "kivágás (fáké)" },
+      { "forms": ["closure"], "lemma": "closure", "pos": "noun", "en": "the end of something, when it is stopped for ever", "hu": "lezárás, megszüntetés" }
+    ],
+    "2013-maj-kozep-H3": [
+      { "forms": ["nursery", "nurseries"], "lemma": "nursery", "pos": "noun", "en": "a place where young children are looked after while their parents work", "hu": "óvoda, bölcsőde" },
+      { "forms": ["intended purpose"], "lemma": "intended purpose", "pos": "noun", "en": "the reason why something was planned", "hu": "eredeti cél, rendeltetés" },
+      { "forms": ["birthrate"], "lemma": "birthrate", "pos": "noun", "en": "the number of babies born in a year, compared to the population", "hu": "születési arány" }
     ]
   }
 }

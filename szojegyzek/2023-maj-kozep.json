@@ -194,6 +194,67 @@
       { "forms": ["useful"], "lemma": "useful", "pos": "adjective", "en": "helping you to do something", "hu": "hasznos" },
       { "forms": ["training"], "lemma": "train", "pos": "verb", "en": "to teach an animal to do something", "hu": "kiképez, idomít" },
       { "forms": ["therapy dogs"], "lemma": "therapy dog", "pos": "noun", "en": "a dog that helps people who are ill, sad or stressed", "hu": "terápiás kutya" }
+    ],
+    "2023-maj-kozep-L1": [
+      { "forms": ["attendants"], "lemma": "attendant", "pos": "noun", "en": "a person whose job is to look after passengers on a plane", "hu": "kísérő (itt: légiutas-kísérő)" },
+      { "forms": ["frequent"], "lemma": "frequent", "pos": "adjective", "en": "happening or doing something often", "hu": "gyakori, rendszeres" },
+      { "forms": ["miracle"], "lemma": "miracle", "pos": "noun", "en": "something wonderful that seems impossible", "hu": "csoda" },
+      { "forms": ["crew"], "lemma": "crew", "pos": "noun", "en": "all the people who work on a plane or ship", "hu": "személyzet" },
+      { "forms": ["deserve"], "lemma": "deserve", "pos": "verb", "en": "to have earned something because of what you do", "hu": "megérdemel" },
+      { "forms": ["handle"], "lemma": "handle", "pos": "verb", "en": "to deal with a problem or situation", "hu": "kezel, megold" },
+      { "forms": ["occur"], "lemma": "occur", "pos": "verb", "en": "to happen", "hu": "előfordul, történik" },
+      { "forms": ["treated"], "lemma": "treat", "pos": "verb", "en": "to behave towards someone in a particular way", "hu": "bánik valakivel" },
+      { "forms": ["carried out a survey"], "lemma": "carry out a survey", "pos": "phrase", "en": "to ask many people the same questions to find out what they think", "hu": "felmérést végez, közvélemény-kutatást készít" },
+      { "forms": ["offensive"], "lemma": "offensive", "pos": "adjective", "en": "rude and making people upset or angry", "hu": "sértő, bántó" },
+      { "forms": ["upon boarding"], "lemma": "upon boarding", "pos": "phrase", "en": "at the moment when you get on the plane", "hu": "beszálláskor" },
+      { "forms": ["inappropriate"], "lemma": "inappropriate", "pos": "adjective", "en": "not right for the situation", "hu": "nem megfelelő, alkalmatlan" },
+      { "forms": ["last but not least"], "lemma": "last but not least", "pos": "phrase", "en": "the last thing in a list, but just as important as the others", "hu": "végül, de nem utolsósorban" }
+    ],
+    "2023-maj-kozep-L2": [
+      { "forms": ["biographer"], "lemma": "biographer", "pos": "noun", "en": "a person who writes the story of someone else’s life", "hu": "életrajzíró" },
+      { "forms": ["thieves"], "lemma": "thief", "pos": "noun", "en": "a person who steals things", "hu": "tolvaj", "tip": "Rendhagyó többes szám: thief – thieves." },
+      { "forms": ["rowboat"], "lemma": "rowboat", "pos": "noun", "en": "a small boat that you move with long pieces of wood (oars)", "hu": "evezős csónak" },
+      { "forms": ["caught up with"], "lemma": "catch up with", "pos": "phrasal verb", "en": "to reach someone who was in front of you", "hu": "utoléri" },
+      { "forms": ["drew"], "lemma": "draw", "pos": "verb", "en": "to take a gun out quickly", "hu": "előránt (fegyvert)", "tip": "Rendhagyó ige: draw – drew – drawn. Itt nem rajzolást jelent." },
+      { "forms": ["trusty"], "lemma": "trusty", "pos": "adjective", "en": "that you have had for a long time and can trust", "hu": "megbízható, hűséges" },
+      { "forms": ["rifle"], "lemma": "rifle", "pos": "noun", "en": "a long gun", "hu": "puska" },
+      { "forms": ["set off"], "lemma": "set off", "pos": "phrasal verb", "en": "to start a journey", "hu": "elindul, útnak indul" },
+      { "forms": ["horse-drawn wagon"], "lemma": "horse-drawn wagon", "pos": "noun", "en": "a cart with four wheels that a horse pulls", "hu": "lovas kocsi, szekér" },
+      { "forms": ["cross-country"], "lemma": "cross-country", "pos": "adverb", "en": "across fields and open land, not on roads", "hu": "terepen át, mezőkön keresztül" },
+      { "forms": ["wilderness"], "lemma": "wilderness", "pos": "noun", "en": "a wild area where no people live", "hu": "vadon, pusztaság" },
+      { "forms": ["extraordinary"], "lemma": "extraordinary", "pos": "adjective", "en": "very unusual and surprising", "hu": "rendkívüli" }
+    ],
+    "2023-maj-kozep-L3": [
+      { "forms": ["going green"], "lemma": "go green", "pos": "phrase", "en": "to start doing things that are better for nature", "hu": "környezetbarát lesz, zöldre vált" },
+      { "forms": ["modeled after"], "lemma": "model after", "pos": "phrase", "en": "to make something so that it looks like a real person or thing", "hu": "valakiről mintázott" },
+      { "forms": ["ahead of"], "lemma": "ahead of", "pos": "preposition", "en": "before", "hu": "előtt (időben)" },
+      { "forms": ["Chimpanzee"], "lemma": "chimpanzee", "pos": "noun", "en": "a kind of small ape from Africa", "hu": "csimpánz" },
+      { "forms": ["recycled"], "lemma": "recycled", "pos": "adjective", "en": "made from used things that would otherwise be thrown away", "hu": "újrahasznosított" },
+      { "forms": ["otherwise"], "lemma": "otherwise", "pos": "adverb", "en": "if not; in a different situation", "hu": "különben, egyébként" },
+      { "forms": ["delighted"], "lemma": "delighted", "pos": "adjective", "en": "very pleased", "hu": "elragadtatott, nagyon boldog" },
+      { "forms": ["Executive Vice President"], "lemma": "executive vice president", "pos": "noun", "en": "one of the most important managers of a company", "hu": "ügyvezető alelnök" },
+      { "forms": ["statement"], "lemma": "statement", "pos": "noun", "en": "something official that someone says or writes", "hu": "nyilatkozat" },
+      { "forms": ["role models"], "lemma": "role model", "pos": "noun", "en": "a person whom young people admire and want to be like", "hu": "példakép" }
+    ],
+    "2023-maj-kozep-H1": [
+      { "forms": ["kidney"], "lemma": "kidney", "pos": "noun", "en": "one of the two organs in your body that clean your blood", "hu": "vese" },
+      { "forms": ["monks"], "lemma": "monk", "pos": "noun", "en": "a man who lives in a religious community", "hu": "szerzetes" },
+      { "forms": ["cure"], "lemma": "cure", "pos": "verb", "en": "to make an illness go away", "hu": "gyógyít, meggyógyít" },
+      { "forms": ["asthma attacks"], "lemma": "asthma attack", "pos": "noun", "en": "a time when someone suddenly cannot breathe easily", "hu": "asztmás roham" },
+      { "forms": ["sugar cane"], "lemma": "sugar cane", "pos": "noun", "en": "a tall plant from which sugar is made", "hu": "cukornád" },
+      { "forms": ["sugar beet"], "lemma": "sugar beet", "pos": "noun", "en": "a plant with a large white root from which sugar is made", "hu": "cukorrépa" }
+    ],
+    "2023-maj-kozep-H2": [
+      { "forms": ["shadowy figures"], "lemma": "shadowy figure", "pos": "noun", "en": "a person you cannot see clearly, like a shadow", "hu": "árnyalak" },
+      { "forms": ["excavating"], "lemma": "excavate", "pos": "verb", "en": "to dig in the ground to find old objects", "hu": "ásatást végez, feltár" },
+      { "forms": ["buried", "burying"], "lemma": "bury", "pos": "verb", "en": "to put something or someone in the ground and cover it", "hu": "eltemet, elás" },
+      { "forms": ["coffin"], "lemma": "coffin", "pos": "noun", "en": "a box in which a dead person is buried", "hu": "koporsó" },
+      { "forms": ["treasures"], "lemma": "treasure", "pos": "noun", "en": "a very valuable object, for example made of gold", "hu": "kincs" },
+      { "forms": ["custom"], "lemma": "custom", "pos": "noun", "en": "something that people have done for a long time", "hu": "szokás" },
+      { "forms": ["ruler"], "lemma": "ruler", "pos": "noun", "en": "a person who governs a country, for example a king", "hu": "uralkodó" }
+    ],
+    "2023-maj-kozep-H3": [
+      { "forms": ["incident"], "lemma": "incident", "pos": "noun", "en": "an event, often an unusual or unpleasant one", "hu": "eset, incidens" }
     ]
   }
 }

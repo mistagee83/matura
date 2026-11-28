@@ -169,6 +169,62 @@
       { "forms": ["fewer"], "lemma": "few", "pos": "adjective", "en": "a smaller number of", "hu": "kevesebb" },
       { "forms": ["probably"], "lemma": "probably", "pos": "adverb", "en": "almost certainly", "hu": "valószínűleg" },
       { "forms": ["fearless"], "lemma": "fearless", "pos": "adjective", "en": "not afraid of anything", "hu": "rettenthetetlen, félelem nélküli" }
+    ],
+    "2019-okt-kozep-L1": [
+      { "forms": ["New Year’s resolutions"], "lemma": "New Year’s resolution", "pos": "noun", "en": "a promise to yourself to do something better in the new year", "hu": "újévi fogadalom" },
+      { "forms": ["Babylonians"], "lemma": "Babylonian", "pos": "noun", "en": "a person from Babylon, an ancient city in the Middle East", "hu": "babiloni (ember)" },
+      { "forms": ["repay"], "lemma": "repay", "pos": "verb", "en": "to pay back money that you borrowed", "hu": "visszafizet" },
+      { "forms": ["debts"], "lemma": "debt", "pos": "noun", "en": "money that you owe to someone", "hu": "adósság", "tip": "A b-t nem ejtjük: /det/." },
+      { "forms": ["making a vow"], "lemma": "make a vow", "pos": "phrase", "en": "to make a very serious promise", "hu": "esküt tesz, fogadalmat tesz" },
+      { "forms": ["capability"], "lemma": "capability", "pos": "noun", "en": "the ability or skill to do something", "hu": "képesség" },
+      { "forms": ["proposed"], "lemma": "propose", "pos": "verb", "en": "to suggest an idea or a plan", "hu": "javasol, felvet" },
+      { "forms": ["in the first place"], "lemma": "in the first place", "pos": "phrase", "en": "from the beginning", "hu": "eleve, már eleve" }
+    ],
+    "2019-okt-kozep-L2": [
+      { "forms": ["model railroad"], "lemma": "model railroad", "pos": "noun", "en": "a small copy of a railway with toy trains", "hu": "modellvasút, terepasztal" },
+      { "forms": ["miniature"], "lemma": "miniature", "pos": "adjective", "en": "very small; a small copy of something", "hu": "kicsinyített, miniatűr" },
+      { "forms": ["track"], "lemma": "track", "pos": "noun", "en": "the metal lines that trains run on", "hu": "sín, vágány" },
+      { "forms": ["anything but"], "lemma": "anything but", "pos": "phrase", "en": "not at all", "hu": "minden, csak nem; egyáltalán nem" },
+      { "forms": ["small-scale"], "lemma": "small-scale", "pos": "adjective", "en": "small in size or amount", "hu": "kis méretű, kicsi" },
+      { "forms": ["spectacle"], "lemma": "spectacle", "pos": "noun", "en": "something impressive that people come to look at", "hu": "látványosság" },
+      { "forms": ["spanning"], "lemma": "span", "pos": "verb", "en": "to go across something from one side to the other", "hu": "átível" },
+      { "forms": ["canyons"], "lemma": "canyon", "pos": "noun", "en": "a deep valley with very steep sides", "hu": "kanyon, szurdok" },
+      { "forms": ["housed", "house"], "lemma": "house", "pos": "verb", "en": "to give something a place where it is kept", "hu": "elhelyez, otthont ad", "tip": "Itt ige, a kiejtése /haʊz/." },
+      { "forms": ["handcrafted"], "lemma": "handcraft", "pos": "verb", "en": "to make something by hand, with skill", "hu": "kézzel készít" },
+      { "forms": ["remarkably"], "lemma": "remarkably", "pos": "adverb", "en": "surprisingly; very", "hu": "feltűnően, rendkívül" },
+      { "forms": ["lifelike"], "lemma": "lifelike", "pos": "adjective", "en": "looking just like the real thing", "hu": "élethű" },
+      { "forms": ["scenery"], "lemma": "scenery", "pos": "noun", "en": "the landscape around, for example hills, trees and rivers", "hu": "táj, díszlet" },
+      { "forms": ["basement", "basements"], "lemma": "basement", "pos": "noun", "en": "a room or rooms under the ground floor of a house", "hu": "pince, alagsor" },
+      { "forms": ["raised"], "lemma": "raise", "pos": "verb", "en": "to collect the money that you need for something", "hu": "előteremt, összegyűjt (pénzt)" }
+    ],
+    "2019-okt-kozep-L3": [
+      { "forms": ["etiquette"], "lemma": "etiquette", "pos": "noun", "en": "the rules of polite behaviour", "hu": "illemszabályok, etikett" },
+      { "forms": ["impolite"], "lemma": "impolite", "pos": "adjective", "en": "not polite; rude", "hu": "udvariatlan" },
+      { "forms": ["served"], "lemma": "serve", "pos": "verb", "en": "to give food to people at a meal", "hu": "felszolgál, kínál (ételt)" },
+      { "forms": ["elbows"], "lemma": "elbow", "pos": "noun", "en": "the part in the middle of your arm where it bends", "hu": "könyök" },
+      { "forms": ["reach over"], "lemma": "reach over", "pos": "phrasal verb", "en": "to stretch your arm across something", "hu": "átnyúl" },
+      { "forms": ["informal"], "lemma": "informal", "pos": "adjective", "en": "relaxed, not official", "hu": "kötetlen, fesztelen" },
+      { "forms": ["setting"], "lemma": "setting", "pos": "noun", "en": "the place and situation where something happens", "hu": "környezet, helyzet" },
+      { "forms": ["swallow"], "lemma": "swallow", "pos": "verb", "en": "to make food go down your throat", "hu": "lenyel" },
+      { "forms": ["chew"], "lemma": "chew", "pos": "verb", "en": "to break food into small pieces with your teeth", "hu": "rág" },
+      { "forms": ["prongs"], "lemma": "prong", "pos": "noun", "en": "one of the long thin points of a fork", "hu": "villafog" },
+      { "forms": ["facing upwards"], "lemma": "face upwards", "pos": "phrase", "en": "pointing towards the sky or ceiling", "hu": "felfelé néz" },
+      { "forms": ["my eyes are bigger than my stomach"], "lemma": "your eyes are bigger than your stomach", "pos": "idiom", "en": "you took more food than you can eat", "hu": "több szemem, mint szám (többet szedtem, mint amennyit meg tudok enni)" }
+    ],
+    "2019-okt-kozep-H1": [
+      { "forms": ["convicted"], "lemma": "convict", "pos": "verb", "en": "to decide officially in court that someone is guilty of a crime", "hu": "elítél (bíróság)" },
+      { "forms": ["burglary"], "lemma": "burglary", "pos": "noun", "en": "the crime of getting into a building to steal things", "hu": "betörés" },
+      { "forms": ["firearm"], "lemma": "firearm", "pos": "noun", "en": "a gun", "hu": "lőfegyver" },
+      { "forms": ["appreciated"], "lemma": "appreciate", "pos": "verb", "en": "to understand how good or useful someone or something is", "hu": "megbecsül, értékel" },
+      { "forms": ["for certain"], "lemma": "for certain", "pos": "phrase", "en": "without any doubt", "hu": "biztosan" }
+    ],
+    "2019-okt-kozep-H2": [
+      { "forms": ["Surgeons"], "lemma": "surgeon", "pos": "noun", "en": "a doctor who does operations", "hu": "sebész" }
+    ],
+    "2019-okt-kozep-H3": [
+      { "forms": ["adopted"], "lemma": "adopt", "pos": "verb", "en": "to take an animal or a child into your home and look after it as your own", "hu": "örökbe fogad" },
+      { "forms": ["conscientiously"], "lemma": "conscientiously", "pos": "adverb", "en": "carefully and doing your work well", "hu": "lelkiismeretesen" },
+      { "forms": ["in favour of"], "lemma": "in favour of", "pos": "phrase", "en": "supporting someone or something", "hu": "mellett (érvel), valaki érdekében" }
     ]
   }
 }

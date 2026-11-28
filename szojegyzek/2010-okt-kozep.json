@@ -147,6 +147,59 @@
       { "forms": ["attended"], "lemma": "attend", "pos": "verb", "en": "here: to go to a place where there is an emergency", "hu": "kivonul, kiszáll (helyszínre)" },
       { "forms": ["blazes"], "lemma": "blaze", "pos": "noun", "en": "a large fire", "hu": "tűz, tűzeset" },
       { "forms": ["dropped"], "lemma": "drop", "pos": "verb", "en": "to become less in number", "hu": "csökken" }
+    ],
+    "2010-okt-kozep-L1": [
+      { "forms": ["elves", "elf"], "lemma": "elf", "pos": "noun", "en": "a small person with magic powers in old stories", "hu": "manó, tündérmanó", "tip": "Rendhagyó többes szám: one elf, two elves." },
+      { "forms": ["fairy", "fairies"], "lemma": "fairy", "pos": "noun", "en": "a small creature in stories that looks like a person and can do magic", "hu": "tündér" },
+      { "forms": ["magical powers"], "lemma": "magical power", "pos": "noun", "en": "the ability to do things that are not possible in real life", "hu": "varázserő" },
+      { "forms": ["folklore"], "lemma": "folklore", "pos": "noun", "en": "the old stories and beliefs of a group of people", "hu": "néphagyomány, népi hiedelemvilág" },
+      { "forms": ["nightmare"], "lemma": "nightmare", "pos": "noun", "en": "a very frightening dream", "hu": "rémálom" },
+      { "forms": ["associated with"], "lemma": "associate with", "pos": "phrase", "en": "to be connected with something in people's minds", "hu": "kapcsolatba hoz, összekapcsol" },
+      { "forms": ["mischievous"], "lemma": "mischievous", "pos": "adjective", "en": "liking to play tricks and cause small trouble, but not in a bad way", "hu": "csintalan, huncut" },
+      { "forms": ["playing tricks", "plays tricks"], "lemma": "play tricks", "pos": "phrase", "en": "to do things to make people look silly or to surprise them, for fun", "hu": "megtréfál, csínyt tesz" },
+      { "forms": ["porridge"], "lemma": "porridge", "pos": "noun", "en": "a soft hot food made from oats and milk or water", "hu": "zabkása" },
+      { "forms": ["Christmas Eve"], "lemma": "Christmas Eve", "pos": "noun", "en": "the day or evening before Christmas Day, 24 December", "hu": "szenteste" },
+      { "forms": ["lads"], "lemma": "lad", "pos": "noun", "en": "a boy or young man", "hu": "legény, fiú" }
+    ],
+    "2010-okt-kozep-L2": [
+      { "forms": ["coughed up"], "lemma": "cough up", "pos": "phrasal verb", "en": "to make something come out of your throat by coughing", "hu": "felköhög" },
+      { "forms": ["rusty"], "lemma": "rusty", "pos": "adjective", "en": "covered with the red-brown material that forms on old wet metal", "hu": "rozsdás" },
+      { "forms": ["mowing"], "lemma": "mow", "pos": "verb", "en": "to cut grass with a machine", "hu": "nyír (füvet), kaszál" },
+      { "forms": ["rib cage"], "lemma": "rib cage", "pos": "noun", "en": "the bones in your chest that protect your heart and lungs", "hu": "bordakosár, mellkas" },
+      { "forms": ["foreign object"], "lemma": "foreign object", "pos": "noun", "en": "a thing that has got into the body from outside", "hu": "idegen test" },
+      { "forms": ["ribs"], "lemma": "rib", "pos": "noun", "en": "one of the curved bones in your chest", "hu": "borda" },
+      { "forms": ["seal itself off"], "lemma": "seal off", "pos": "phrasal verb", "en": "to close completely so that nothing can get in or out", "hu": "elzárja, betokozza magát" },
+      { "forms": ["predicted"], "lemma": "predict", "pos": "verb", "en": "to say what will happen in the future", "hu": "megjósol, előre jelez" },
+      { "forms": ["grave"], "lemma": "grave", "pos": "noun", "en": "the place in the ground where a dead person is buried", "hu": "sír" },
+      { "forms": ["lungs"], "lemma": "lung", "pos": "noun", "en": "one of the two organs in your chest that you use for breathing", "hu": "tüdő" },
+      { "forms": ["stubborn"], "lemma": "stubborn", "pos": "adjective", "en": "not willing to change or move", "hu": "makacs, csökönyös" },
+      { "forms": ["surrendered"], "lemma": "surrender", "pos": "verb", "en": "to stop fighting and accept that you have lost", "hu": "megadja magát" }
+    ],
+    "2010-okt-kozep-L3": [
+      { "forms": ["environmentalists"], "lemma": "environmentalist", "pos": "noun", "en": "a person who works to protect nature", "hu": "környezetvédő" },
+      { "forms": ["rewards"], "lemma": "reward", "pos": "verb", "en": "to give someone a prize for something good they have done", "hu": "jutalmaz, díjaz" },
+      { "forms": ["nationwide"], "lemma": "nationwide", "pos": "adverb", "en": "in all parts of the country", "hu": "országszerte" },
+      { "forms": ["stream"], "lemma": "stream", "pos": "noun", "en": "a small narrow river", "hu": "patak" },
+      { "forms": ["inspired", "inspiring"], "lemma": "inspire", "pos": "verb", "en": "to give someone the wish and the energy to do something", "hu": "ösztönöz, inspirál; (inspiring) lelkesítő" },
+      { "forms": ["motionless"], "lemma": "motionless", "pos": "adjective", "en": "not moving at all", "hu": "mozdulatlan, állóvizű" },
+      { "forms": ["trash"], "lemma": "trash", "pos": "noun", "en": "things that people throw away", "hu": "szemét, hulladék", "tip": "Amerikai szó; a brit angolban rubbish." },
+      { "forms": ["tires"], "lemma": "tire", "pos": "noun", "en": "the round rubber part around the wheel of a car or bicycle", "hu": "(gumi)abroncs", "tip": "Amerikai írásmód; a brit angolban tyre." },
+      { "forms": ["shopping carts"], "lemma": "shopping cart", "pos": "noun", "en": "a large metal basket on wheels that you use in a supermarket", "hu": "bevásárlókocsi" },
+      { "forms": ["peers"], "lemma": "peer", "pos": "noun", "en": "people who are the same age as you", "hu": "kortárs, társ" },
+      { "forms": ["achieve"], "lemma": "achieve", "pos": "verb", "en": "to succeed in doing something after a lot of work", "hu": "elér, megvalósít" }
+    ],
+    "2010-okt-kozep-H1": [
+      { "forms": ["sentenced"], "lemma": "sentence", "pos": "verb", "en": "to say officially in court what punishment someone will get", "hu": "elítél (büntetésre)" },
+      { "forms": ["ordered"], "lemma": "order", "pos": "verb", "en": "to tell someone officially that they must do something", "hu": "kötelez, elrendel" }
+    ],
+    "2010-okt-kozep-H2": [
+      { "forms": ["paranormal"], "lemma": "paranormal", "pos": "adjective", "en": "that cannot be explained by science, for example ghosts", "hu": "természetfeletti, paranormális" },
+      { "forms": ["incident"], "lemma": "incident", "pos": "noun", "en": "something unusual that happens", "hu": "eset, esemény" }
+    ],
+    "2010-okt-kozep-H3": [
+      { "forms": ["Killer bees"], "lemma": "killer bee", "pos": "noun", "en": "a kind of bee that attacks people more often than other bees", "hu": "gyilkos méh" },
+      { "forms": ["sting"], "lemma": "sting", "pos": "noun", "en": "the wound or pain when an insect pushes its sharp point into your skin", "hu": "(rovar)csípés", "tip": "Igeként is áll (tend to sting): csíp." },
+      { "forms": ["tend to"], "lemma": "tend to", "pos": "phrase", "en": "to usually do something", "hu": "hajlamos valamire, általában (így tesz)" }
     ]
   }
 }

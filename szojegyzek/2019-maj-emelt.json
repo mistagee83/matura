@@ -278,6 +278,71 @@
       { "forms": ["vitality"], "lemma": "vitality", "pos": "noun", "en": "energy and strength", "hu": "életerő, lendület" },
       { "forms": ["environmental benefits"], "lemma": "environmental benefit", "pos": "noun", "en": "a good effect on nature", "hu": "környezeti előny" },
       { "forms": ["self-evident"], "lemma": "self-evident", "pos": "adjective", "en": "clear without needing to be explained", "hu": "magától értetődő, nyilvánvaló" }
+    ],
+    "2019-maj-emelt-L1": [
+      { "forms": ["house-sit", "house-sitting"], "lemma": "house-sit", "pos": "verb", "en": "to live in someone’s home and look after it while they are away", "hu": "házra vigyáz (a tulajdonos távollétében)" },
+      { "forms": ["house-sitter"], "lemma": "house-sitter", "pos": "noun", "en": "a person who lives in someone’s home while they are away", "hu": "házőrző, lakásvigyázó" },
+      { "forms": ["vacant"], "lemma": "vacant", "pos": "adjective", "en": "empty, with nobody living in it", "hu": "üres, lakatlan" },
+      { "forms": ["break into"], "lemma": "break into", "pos": "phrasal verb", "en": "to get into a building by force", "hu": "betör" },
+      { "forms": ["equivalent"], "lemma": "equivalent", "pos": "noun", "en": "a person or thing that has the same role as another", "hu": "megfelelő, párja" },
+      { "forms": ["comes in"], "lemma": "come in", "pos": "phrasal verb", "en": "here: to have a part in a situation", "hu": "itt jön a képbe" },
+      { "forms": ["hand over"], "lemma": "hand over", "pos": "phrasal verb", "en": "to give something to someone", "hu": "átad" },
+      { "forms": ["properties"], "lemma": "property", "pos": "noun", "en": "a building and the land around it", "hu": "ingatlan" },
+      { "forms": ["backpacking"], "lemma": "backpacking", "pos": "adjective", "en": "travelling cheaply, with your things in a bag on your back", "hu": "hátizsákos" },
+      { "forms": ["changing hands"], "lemma": "change hands", "pos": "idiom", "en": "to pass from one person to another", "hu": "gazdát cserél" },
+      { "forms": ["isolated"], "lemma": "isolated", "pos": "adjective", "en": "far away from other places", "hu": "elszigetelt, félreeső" },
+      { "forms": ["chores"], "lemma": "chore", "pos": "noun", "en": "a small job that you have to do regularly in a house", "hu": "házimunka, teendő" }
+    ],
+    "2019-maj-emelt-L2": [
+      { "forms": ["FEELING BLUE"], "lemma": "feel blue", "pos": "idiom", "en": "to feel sad", "hu": "levert, szomorú", "tip": "A címben szójáték is: a Bluetooth nevére utal." },
+      { "forms": ["non-violently"], "lemma": "non-violently", "pos": "adverb", "en": "without fighting", "hu": "erőszakmentesen" },
+      { "forms": ["negotiate"], "lemma": "negotiate", "pos": "verb", "en": "to discuss something in order to reach an agreement", "hu": "tárgyal" },
+      { "forms": ["crucially"], "lemma": "crucially", "pos": "adverb", "en": "what is very important", "hu": "ami döntő, kulcsfontosságú módon" },
+      { "forms": ["boundaries"], "lemma": "boundary", "pos": "noun", "en": "a line where one country or area ends and another begins", "hu": "határ" },
+      { "forms": ["tech giants"], "lemma": "tech giant", "pos": "noun", "en": "a very big technology company", "hu": "technológiai óriáscég" },
+      { "forms": ["short-range"], "lemma": "short-range", "pos": "adjective", "en": "working only over a short distance", "hu": "rövid hatótávolságú" },
+      { "forms": ["wireless"], "lemma": "wireless", "pos": "adjective", "en": "without wires", "hu": "vezeték nélküli" },
+      { "forms": ["cords"], "lemma": "cord", "pos": "noun", "en": "a piece of wire covered with plastic", "hu": "zsinór, kábel" },
+      { "forms": ["codename"], "lemma": "codename", "pos": "noun", "en": "a secret name for a project", "hu": "fedőnév" },
+      { "forms": ["literal translation"], "lemma": "literal translation", "pos": "noun", "en": "a translation that follows the original word for word", "hu": "szó szerinti fordítás" },
+      { "forms": ["caught on like wildfire"], "lemma": "catch on like wildfire", "pos": "idiom", "en": "to become popular very quickly", "hu": "futótűzként terjed el" },
+      { "forms": ["associate with"], "lemma": "associate with", "pos": "phrasal verb", "en": "to connect someone or something in your mind", "hu": "társít, összekapcsol" },
+      { "forms": ["runic symbols"], "lemma": "runic symbol", "pos": "noun", "en": "a letter of an old alphabet used in northern Europe", "hu": "rúnajel, rovásjel" },
+      { "forms": ["Old Norse"], "lemma": "Old Norse", "pos": "noun", "en": "the old language of Scandinavia", "hu": "óskandináv (nyelv)" }
+    ],
+    "2019-maj-emelt-L3": [
+      { "forms": ["life-changing sum"], "lemma": "life-changing sum", "pos": "noun", "en": "an amount of money so big that it changes your life completely", "hu": "életet megváltoztató összeg" },
+      { "forms": ["dumb luck"], "lemma": "dumb luck", "pos": "noun", "en": "luck that has nothing to do with skill", "hu": "vakszerencse" },
+      { "forms": ["vast"], "lemma": "vast", "pos": "adjective", "en": "very great", "hu": "óriási, döntő" },
+      { "forms": ["struggling"], "lemma": "struggle", "pos": "verb", "en": "to try very hard to do something difficult", "hu": "küszködik" },
+      { "forms": ["came up with"], "lemma": "come up with", "pos": "phrasal verb", "en": "to think of an idea or plan", "hu": "kitalál, előáll valamivel" },
+      { "forms": ["algorithm"], "lemma": "algorithm", "pos": "noun", "en": "a set of steps that a computer follows to solve a problem", "hu": "algoritmus" },
+      { "forms": ["purchased"], "lemma": "purchase", "pos": "verb", "en": "to buy", "hu": "vásárol" },
+      { "forms": ["jackpot"], "lemma": "jackpot", "pos": "noun", "en": "the biggest prize in a lottery", "hu": "főnyeremény" },
+      { "forms": ["walked away with"], "lemma": "walk away with", "pos": "phrasal verb", "en": "to win or take home money", "hu": "hazavisz, nyer" },
+      { "forms": ["investors"], "lemma": "investor", "pos": "noun", "en": "a person who puts money into a business to make a profit", "hu": "befektető" },
+      { "forms": ["syndicate"], "lemma": "syndicate", "pos": "noun", "en": "a group of people who work together for business", "hu": "társulás, szindikátus" },
+      { "forms": ["scheme"], "lemma": "scheme", "pos": "noun", "en": "a clever plan, often not completely honest", "hu": "trükk, módszer" },
+      { "forms": ["bulk buying"], "lemma": "bulk buying", "pos": "noun", "en": "buying things in very large amounts", "hu": "tömeges vásárlás" },
+      { "forms": ["pushed his luck"], "lemma": "push your luck", "pos": "idiom", "en": "to take too big a risk after you have been lucky", "hu": "kísérti a szerencséjét" },
+      { "forms": ["went bankrupt"], "lemma": "go bankrupt", "pos": "phrase", "en": "to lose all your money, so that you cannot pay what you owe", "hu": "csődbe megy" }
+    ],
+    "2019-maj-emelt-H2": [
+      { "forms": ["nanny"], "lemma": "nanny", "pos": "noun", "en": "a woman whose job is to look after a family’s children", "hu": "dada, gyermekgondozó" },
+      { "forms": ["childless"], "lemma": "childless", "pos": "adjective", "en": "without children", "hu": "gyermektelen" },
+      { "forms": ["duties"], "lemma": "duty", "pos": "noun", "en": "a task that is part of your job", "hu": "feladat, kötelesség" },
+      { "forms": ["considerable"], "lemma": "considerable", "pos": "adjective", "en": "large or important", "hu": "jelentős" },
+      { "forms": ["self-defence"], "lemma": "self-defence", "pos": "noun", "en": "ways of protecting yourself when someone attacks you", "hu": "önvédelem" },
+      { "forms": ["trial period"], "lemma": "trial period", "pos": "noun", "en": "a time when you try a new job to see if it is suitable", "hu": "próbaidő" },
+      { "forms": ["secrecy"], "lemma": "secrecy", "pos": "noun", "en": "keeping something secret", "hu": "titoktartás" }
+    ],
+    "2019-maj-emelt-H3": [
+      { "forms": ["tightrope"], "lemma": "tightrope", "pos": "noun", "en": "a rope high above the ground that a performer walks along", "hu": "kötél (kötéltáncosé)" },
+      { "forms": ["suspended"], "lemma": "suspend", "pos": "verb", "en": "to hang something from above", "hu": "kifeszít, felfüggeszt" },
+      { "forms": ["crossings"], "lemma": "crossing", "pos": "noun", "en": "a journey from one side to the other", "hu": "átkelés" },
+      { "forms": ["charged"], "lemma": "charge", "pos": "verb", "en": "to ask an amount of money for something", "hu": "(díjat) kér, felszámít" },
+      { "forms": ["wheelbarrow"], "lemma": "wheelbarrow", "pos": "noun", "en": "a small cart with one wheel that you push", "hu": "talicska" },
+      { "forms": ["Duke"], "lemma": "duke", "pos": "noun", "en": "a man of very high social rank", "hu": "herceg" }
     ]
   }
 }

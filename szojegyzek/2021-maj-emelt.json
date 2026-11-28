@@ -237,6 +237,78 @@
       { "forms": ["generous"], "lemma": "generous", "pos": "adjective", "en": "kind and ready to give help or money", "hu": "nagylelkű" },
       { "forms": ["instead"], "lemma": "instead", "pos": "adverb", "en": "in place of doing something else", "hu": "ehelyett" },
       { "forms": ["ensured"], "lemma": "ensure", "pos": "verb", "en": "to make sure that something happens", "hu": "biztosít, gondoskodik róla" }
+    ],
+    "2021-maj-emelt-L1": [
+      { "forms": ["era"], "lemma": "era", "pos": "noun", "en": "a period of time in history", "hu": "korszak, éra" },
+      { "forms": ["emotional support animals"], "lemma": "emotional support animal", "pos": "noun", "en": "a pet that helps a person feel calm and less lonely", "hu": "érzelmi támogató állat" },
+      { "forms": ["insisted on"], "lemma": "insist on", "pos": "phrasal verb", "en": "to say firmly that you must do or have something", "hu": "ragaszkodik valamihez" },
+      { "forms": ["peacocks"], "lemma": "peacock", "pos": "noun", "en": "a large bird with long, colourful tail feathers", "hu": "páva" },
+      { "forms": ["cargo hold"], "lemma": "cargo hold", "pos": "noun", "en": "the part of a plane where bags and goods are kept", "hu": "csomagtér, raktér" },
+      { "forms": ["accommodate"], "lemma": "accommodate", "pos": "verb", "en": "to have enough space for someone or something", "hu": "elhelyez, befogad" },
+      { "forms": ["misbehaving"], "lemma": "misbehave", "pos": "verb", "en": "to behave badly", "hu": "rosszul viselkedik" },
+      { "forms": ["lawsuits"], "lemma": "lawsuit", "pos": "noun", "en": "a case in court in which one person or company asks for money from another", "hu": "per, polgári per" },
+      { "forms": ["crewmembers"], "lemma": "crewmember", "pos": "noun", "en": "a person who works on a plane or ship", "hu": "személyzet tagja, légiutas-kísérő" },
+      { "forms": ["long-awaited"], "lemma": "long-awaited", "pos": "adjective", "en": "that people have waited for for a long time", "hu": "régóta várt" },
+      { "forms": ["applauded"], "lemma": "applaud", "pos": "verb", "en": "to say that you strongly approve of something", "hu": "üdvözöl, helyesel" },
+      { "forms": ["unions"], "lemma": "union", "pos": "noun", "en": "an organisation of workers that protects their rights", "hu": "szakszervezet" }
+    ],
+    "2021-maj-emelt-L2": [
+      { "forms": ["flame"], "lemma": "flame", "pos": "noun", "en": "the bright burning part of a fire", "hu": "láng" },
+      { "forms": ["Eternal"], "lemma": "eternal", "pos": "adjective", "en": "lasting for ever", "hu": "örök" },
+      { "forms": ["geologists"], "lemma": "geologist", "pos": "noun", "en": "a scientist who studies rocks and the earth", "hu": "geológus" },
+      { "forms": ["continuous"], "lemma": "continuous", "pos": "adjective", "en": "going on without stopping", "hu": "folyamatos, szüntelen" },
+      { "forms": ["seeps"], "lemma": "seep", "pos": "verb", "en": "to flow slowly through a small hole", "hu": "szivárog" },
+      { "forms": ["crack"], "lemma": "crack", "pos": "noun", "en": "a thin opening in something hard", "hu": "repedés, rés" },
+      { "forms": ["fuelling"], "lemma": "fuel", "pos": "verb", "en": "to give something the material it needs to burn", "hu": "táplál (tüzet)" },
+      { "forms": ["extinguished"], "lemma": "extinguish", "pos": "verb", "en": "to make a fire stop burning", "hu": "kiolt, elolt" },
+      { "forms": ["re-lit"], "lemma": "re-light", "pos": "verb", "en": "to start a fire again", "hu": "újra meggyújt" },
+      { "forms": ["exceeding"], "lemma": "exceed", "pos": "verb", "en": "to be more than a number or amount", "hu": "meghalad, túllép" },
+      { "forms": ["boiling point"], "lemma": "boiling point", "pos": "noun", "en": "the temperature at which a liquid starts to turn into gas", "hu": "forráspont" },
+      { "forms": ["breaks down"], "lemma": "break down", "pos": "phrasal verb", "en": "to make a substance separate into smaller parts", "hu": "lebont" },
+      { "forms": ["molecules"], "lemma": "molecule", "pos": "noun", "en": "the smallest unit of a substance", "hu": "molekula" },
+      { "forms": ["releasing"], "lemma": "release", "pos": "verb", "en": "to let a gas or liquid come out", "hu": "felszabadít, kibocsát" },
+      { "forms": ["extract"], "lemma": "extract", "pos": "verb", "en": "to take something out, often with effort", "hu": "kitermel, kinyer" },
+      { "forms": ["non-invasive"], "lemma": "non-invasive", "pos": "adjective", "en": "not damaging or entering something", "hu": "kíméletes, nem roncsoló" }
+    ],
+    "2021-maj-emelt-L3": [
+      { "forms": ["mystified"], "lemma": "mystified", "pos": "adjective", "en": "not able to understand something at all", "hu": "értetlen, tanácstalan" },
+      { "forms": ["broadband"], "lemma": "broadband", "pos": "noun", "en": "a fast internet connection", "hu": "szélessávú internet" },
+      { "forms": ["crashed"], "lemma": "crash", "pos": "verb", "en": "to suddenly stop working (about a computer or network)", "hu": "összeomlik, leáll" },
+      { "forms": ["gave off"], "lemma": "give off", "pos": "phrasal verb", "en": "to send out a signal, heat or smell", "hu": "kibocsát, kisugároz" },
+      { "forms": ["fault"], "lemma": "fault", "pos": "noun", "en": "a technical problem", "hu": "hiba, meghibásodás" },
+      { "forms": ["called"], "lemma": "call", "pos": "verb", "en": "here: to ask an expert to come and help", "hu": "segítségül hív, kihív (szakembert)" },
+      { "forms": ["numerous"], "lemma": "numerous", "pos": "adjective", "en": "very many", "hu": "számos, sok" },
+      { "forms": ["appliance"], "lemma": "appliance", "pos": "noun", "en": "an electrical machine in the home, like a fridge or TV", "hu": "háztartási gép, készülék" },
+      { "forms": ["interference"], "lemma": "interference", "pos": "noun", "en": "signals that spoil the quality of radio, TV or internet", "hu": "interferencia, zavar" },
+      { "forms": ["device"], "lemma": "device", "pos": "noun", "en": "a small machine or tool", "hu": "eszköz, készülék" },
+      { "forms": ["locate"], "lemma": "locate", "pos": "verb", "en": "to find where something is", "hu": "behatárol, megtalál" },
+      { "forms": ["picked up"], "lemma": "pick up", "pos": "phrasal verb", "en": "to notice a signal with a machine", "hu": "észlel, fog (jelet)" },
+      { "forms": ["burst"], "lemma": "burst", "pos": "noun", "en": "a short sudden amount of something", "hu": "kitörés, hirtelen lökés" },
+      { "forms": ["occupant"], "lemma": "occupant", "pos": "noun", "en": "a person who lives in a house or flat", "hu": "lakó" },
+      { "forms": ["knocked out"], "lemma": "knock out", "pos": "phrasal verb", "en": "to stop something from working", "hu": "kiüt, működésképtelenné tesz" },
+      { "forms": ["retired"], "lemma": "retire", "pos": "verb", "en": "to stop using a machine because it is old", "hu": "kivon a forgalomból, nyugdíjaz" }
+    ],
+    "2021-maj-emelt-H1": [
+      { "forms": ["propose"], "lemma": "propose", "pos": "verb", "en": "to ask someone to marry you", "hu": "megkéri a kezét" },
+      { "forms": ["proposal"], "lemma": "proposal", "pos": "noun", "en": "asking someone to marry you", "hu": "házassági ajánlat, lánykérés" },
+      { "forms": ["CCTV footage"], "lemma": "CCTV footage", "pos": "noun", "en": "film recorded by security cameras", "hu": "biztonsági kamerafelvétel" }
+    ],
+    "2021-maj-emelt-H2": [
+      { "forms": ["executed"], "lemma": "execute", "pos": "verb", "en": "to kill someone as an official punishment", "hu": "kivégez" },
+      { "forms": ["sympathized with"], "lemma": "sympathize with", "pos": "phrasal verb", "en": "to support an idea or group", "hu": "rokonszenvez valamivel" },
+      { "forms": ["aristocrat"], "lemma": "aristocrat", "pos": "noun", "en": "a person from the highest social class", "hu": "arisztokrata, nemes" },
+      { "forms": ["portrayal"], "lemma": "portrayal", "pos": "noun", "en": "the way someone is shown in a picture", "hu": "ábrázolás" },
+      { "forms": ["pity"], "lemma": "pity", "pos": "noun", "en": "a feeling of sadness for someone who is suffering", "hu": "szánalom, könyörület" }
+    ],
+    "2021-maj-emelt-H3": [
+      { "forms": ["treatments"], "lemma": "treatment", "pos": "noun", "en": "a way of making an illness better", "hu": "kezelés, gyógymód" },
+      { "forms": ["adaptive"], "lemma": "adaptive", "pos": "adjective", "en": "able to change to fit a new situation", "hu": "adaptív, alkalmazkodó" },
+      { "forms": ["immune systems"], "lemma": "immune system", "pos": "noun", "en": "the parts of the body that fight illness", "hu": "immunrendszer" },
+      { "forms": ["supplementing", "supplement"], "lemma": "supplement", "pos": "verb", "en": "to add something extra to what you eat", "hu": "kiegészít; (főnévként) étrend-kiegészítő" },
+      { "forms": ["placebo"], "lemma": "placebo", "pos": "noun", "en": "a pill with no medicine in it, used in tests", "hu": "placebo, hatóanyag nélküli tabletta" },
+      { "forms": ["garlic"], "lemma": "garlic", "pos": "noun", "en": "a plant like a small onion with a strong taste", "hu": "fokhagyma" },
+      { "forms": ["symptoms"], "lemma": "symptom", "pos": "noun", "en": "a sign of an illness, like a cough or fever", "hu": "tünet" },
+      { "forms": ["As far as orange juice is concerned"], "lemma": "as far as something is concerned", "pos": "phrase", "en": "when we talk about something", "hu": "ami a narancslevet illeti" }
     ]
   }
 }

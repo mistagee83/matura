@@ -246,6 +246,67 @@
       { "forms": ["bushes"], "lemma": "bush", "pos": "noun", "en": "a plant like a small tree", "hu": "bokor" },
       { "forms": ["held steady"], "lemma": "hold steady", "pos": "phrase", "en": "to stay still and not move", "hu": "stabilan tart, egy helyben marad" },
       { "forms": ["on board"], "lemma": "on board", "pos": "phrase", "en": "on a ship, plane or helicopter", "hu": "a fedélzeten, fedélzetre" }
+    ],
+    "2007-okt-emelt-L1": [
+      { "forms": ["diners"], "lemma": "diner", "pos": "noun", "en": "a person who is eating in a restaurant", "hu": "étkező vendég" },
+      { "forms": ["gourmet"], "lemma": "gourmet", "pos": "adjective", "en": "of very high quality and expensive (about food)", "hu": "ínyenc, minőségi" },
+      { "forms": ["disclaimer"], "lemma": "disclaimer", "pos": "noun", "en": "a written statement that a company is not responsible for something", "hu": "felelősségkizáró nyilatkozat" },
+      { "forms": ["consequences"], "lemma": "consequence", "pos": "noun", "en": "a result of something, often a bad one", "hu": "következmény" },
+      { "forms": ["rare"], "lemma": "rare", "pos": "adjective", "en": "cooked only for a short time, so it is still red inside (about meat)", "hu": "angolosan átsütött, véres", "tip": "Húsnál nem azt jelenti: ritka." },
+      { "forms": ["medium-rare"], "lemma": "medium-rare", "pos": "adjective", "en": "cooked so that the inside is still a little pink (about meat)", "hu": "közepesen átsütött" },
+      { "forms": ["on duty"], "lemma": "on duty", "pos": "phrase", "en": "working at a particular time", "hu": "szolgálatban, műszakban" },
+      { "forms": ["held responsible"], "lemma": "hold responsible", "pos": "phrase", "en": "to say that someone is to blame for something bad", "hu": "felelőssé tesz, felelősségre von" },
+      { "forms": ["food-poisoning"], "lemma": "food poisoning", "pos": "noun", "en": "an illness caused by eating bad food", "hu": "ételmérgezés" },
+      { "forms": ["spokesman"], "lemma": "spokesman", "pos": "noun", "en": "a person who speaks officially for a company", "hu": "szóvivő" },
+      { "forms": ["at their own risk"], "lemma": "at your own risk", "pos": "phrase", "en": "knowing that if something bad happens, it is your problem", "hu": "saját felelősségükre" },
+      { "forms": ["confidence"], "lemma": "confidence", "pos": "noun", "en": "the feeling that you can trust something", "hu": "bizalom" },
+      { "forms": ["chairman"], "lemma": "chairman", "pos": "noun", "en": "the person who leads an organisation", "hu": "elnök" },
+      { "forms": ["common sense"], "lemma": "common sense", "pos": "noun", "en": "the ability to make good, practical decisions", "hu": "józan ész" },
+      { "forms": ["raw"], "lemma": "raw", "pos": "adjective", "en": "not cooked", "hu": "nyers" }
+    ],
+    "2007-okt-emelt-L2": [
+      { "forms": ["switched"], "lemma": "switch", "pos": "verb", "en": "to change one thing for another", "hu": "felcserél" },
+      { "forms": ["accidentally"], "lemma": "accidentally", "pos": "adverb", "en": "by mistake, without wanting to", "hu": "véletlenül" },
+      { "forms": ["biologically"], "lemma": "biologically", "pos": "adverb", "en": "by birth and blood", "hu": "biológiailag, vér szerint" },
+      { "forms": ["mix-up"], "lemma": "mix-up", "pos": "noun", "en": "a mistake in which one thing is confused with another", "hu": "összecserélés, tévedés" },
+      { "forms": ["features"], "lemma": "feature", "pos": "noun", "en": "a typical quality or detail of something", "hu": "jellemző, vonás" },
+      { "forms": ["gender"], "lemma": "gender", "pos": "noun", "en": "being male or female", "hu": "nem (fiú vagy lány)" },
+      { "forms": ["tag"], "lemma": "tag", "pos": "verb", "en": "to put a small label on someone or something", "hu": "megjelöl (címkével)" },
+      { "forms": ["wrist"], "lemma": "wrist", "pos": "noun", "en": "the part of the body between the hand and the arm", "hu": "csukló" },
+      { "forms": ["particulars"], "lemma": "particulars", "pos": "noun", "en": "facts and details about a person, such as name and date of birth", "hu": "adatok", "tip": "Ebben a jelentésben mindig többes számú." },
+      { "forms": ["neighbouring"], "lemma": "neighbouring", "pos": "adjective", "en": "near or next to each other", "hu": "szomszédos" },
+      { "forms": ["bore close resemblance"], "lemma": "bear a close resemblance", "pos": "phrase", "en": "to look very similar to someone", "hu": "nagyon hasonlít valakire" },
+      { "forms": ["curiosity"], "lemma": "curiosity", "pos": "noun", "en": "the wish to know about something", "hu": "kíváncsiság" },
+      { "forms": ["confirmed"], "lemma": "confirm", "pos": "verb", "en": "to show that something is definitely true", "hu": "megerősít, igazol" },
+      { "forms": ["investigating"], "lemma": "investigate", "pos": "verb", "en": "to try to find out the facts about something", "hu": "kivizsgál" },
+      { "forms": ["incident"], "lemma": "incident", "pos": "noun", "en": "an unusual or unpleasant event", "hu": "eset, incidens" }
+    ],
+    "2007-okt-emelt-L3": [
+      { "forms": ["decoding"], "lemma": "decode", "pos": "verb", "en": "to find out the meaning of something difficult", "hu": "megfejt" },
+      { "forms": ["sophisticated"], "lemma": "sophisticated", "pos": "adjective", "en": "clever and not simple", "hu": "kifinomult, szellemes" },
+      { "forms": ["frontal lobe"], "lemma": "frontal lobe", "pos": "noun", "en": "the front part of the brain", "hu": "homloklebeny" },
+      { "forms": ["intangible"], "lemma": "intangible", "pos": "adjective", "en": "that you cannot touch or easily describe", "hu": "megfoghatatlan" },
+      { "forms": ["numerous"], "lemma": "numerous", "pos": "adjective", "en": "very many", "hu": "számos" },
+      { "forms": ["appreciate"], "lemma": "appreciate", "pos": "verb", "en": "to understand and enjoy something", "hu": "értékel, méltányol" },
+      { "forms": ["verbal"], "lemma": "verbal", "pos": "adjective", "en": "using words", "hu": "szóbeli, szavakon alapuló" },
+      { "forms": ["punchlines", "punchline"], "lemma": "punchline", "pos": "noun", "en": "the last, funny part of a joke", "hu": "poén, csattanó" },
+      { "forms": ["start off"], "lemma": "start off", "pos": "phrasal verb", "en": "to begin", "hu": "kezdetnek, induláskor" },
+      { "forms": ["guinea pigs"], "lemma": "guinea pig", "pos": "noun", "en": "here: a person who is used in a test or experiment", "hu": "kísérleti alany", "tip": "Szó szerint: tengerimalac." },
+      { "forms": ["tended to"], "lemma": "tend to", "pos": "phrase", "en": "to usually do something", "hu": "hajlamos valamire, általában úgy tesz" }
+    ],
+    "2007-okt-emelt-H1": [
+      { "forms": ["essential"], "lemma": "essential", "pos": "adjective", "en": "very important and necessary", "hu": "alapvető, nélkülözhetetlen" },
+      { "forms": ["majority"], "lemma": "majority", "pos": "noun", "en": "most of the people in a group", "hu": "többség" },
+      { "forms": ["speed limit"], "lemma": "speed limit", "pos": "noun", "en": "the fastest speed you are allowed to drive on a road", "hu": "sebességkorlátozás" },
+      { "forms": ["reflect"], "lemma": "reflect", "pos": "verb", "en": "to show what something is like", "hu": "tükröz" },
+      { "forms": ["bumper stickers"], "lemma": "bumper sticker", "pos": "noun", "en": "a sticker with words or a picture on the back of a car", "hu": "lökhárítómatrica" }
+    ],
+    "2007-okt-emelt-H2": [
+      { "forms": ["fourth-grader"], "lemma": "fourth-grader", "pos": "noun", "en": "a child in the fourth year of school", "hu": "negyedikes" },
+      { "forms": ["holds the record"], "lemma": "hold the record", "pos": "phrase", "en": "to have done something better than anyone else", "hu": "tartja a rekordot" },
+      { "forms": ["pulled"], "lemma": "pull", "pos": "verb", "en": "here: to take a tooth out of the mouth", "hu": "kihúz (fogat)" },
+      { "forms": ["get rid of"], "lemma": "get rid of", "pos": "phrase", "en": "to become free of something you do not want", "hu": "megszabadul valamitől" },
+      { "forms": ["speech therapist"], "lemma": "speech therapist", "pos": "noun", "en": "a person who helps people who have problems speaking", "hu": "logopédus" }
     ]
   }
 }

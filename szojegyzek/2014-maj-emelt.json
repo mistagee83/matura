@@ -320,6 +320,77 @@
       { "forms": ["mental"], "lemma": "mental", "pos": "adjective", "en": "connected with the mind", "hu": "szellemi, mentális" },
       { "forms": ["physical"], "lemma": "physical", "pos": "adjective", "en": "connected with the body", "hu": "fizikai, testi" },
       { "forms": ["better chance"], "lemma": "chance", "pos": "phrase", "en": "more possibility that something good will happen", "hu": "nagyobb esély" }
+    ],
+    "2014-maj-emelt-L1": [
+      { "forms": ["CODE OF BEHAVIOUR"], "lemma": "code of behaviour", "pos": "noun", "en": "a set of rules about how people should behave", "hu": "házirend, magatartási szabályzat" },
+      { "forms": ["assist"], "lemma": "assist", "pos": "verb", "en": "to help", "hu": "segít, elősegít" },
+      { "forms": ["facilitate"], "lemma": "facilitate", "pos": "verb", "en": "to make something easier to happen", "hu": "megkönnyít, elősegít" },
+      { "forms": ["prospectus"], "lemma": "prospectus", "pos": "noun", "en": "a small book that gives information about a school", "hu": "tájékoztató füzet" },
+      { "forms": ["Assembly"], "lemma": "assembly", "pos": "noun", "en": "a meeting of all the teachers and students in a school", "hu": "iskolai gyűlés, ünnepély" },
+      { "forms": ["certificates"], "lemma": "certificate", "pos": "noun", "en": "an official paper that says you have done something well", "hu": "oklevél, elismerő oklevél" },
+      { "forms": ["possesses"], "lemma": "possess", "pos": "verb", "en": "to have something", "hu": "birtokol, rendelkezik valamivel" },
+      { "forms": ["irrespective of"], "lemma": "irrespective of", "pos": "preposition", "en": "without thinking about something as important", "hu": "függetlenül valamitől, tekintet nélkül" },
+      { "forms": ["gender"], "lemma": "gender", "pos": "noun", "en": "being male or female", "hu": "nem (férfi vagy nő)" }
+    ],
+    "2014-maj-emelt-L2": [
+      { "forms": ["summit"], "lemma": "summit", "pos": "noun", "en": "the top of a mountain", "hu": "csúcs" },
+      { "forms": ["exhibit"], "lemma": "exhibit", "pos": "verb", "en": "to show a quality clearly", "hu": "mutat, tanúbizonyságot tesz" },
+      { "forms": ["superhuman"], "lemma": "superhuman", "pos": "adjective", "en": "much greater than normal people have", "hu": "emberfeletti" },
+      { "forms": ["altitudes"], "lemma": "altitude", "pos": "noun", "en": "the height of a place above the sea", "hu": "tengerszint feletti magasság" },
+      { "forms": ["lug"], "lemma": "lug", "pos": "verb", "en": "to carry something heavy with difficulty", "hu": "cipel, hurcol" },
+      { "forms": ["braved"], "lemma": "brave", "pos": "verb", "en": "to face something dangerous without fear", "hu": "dacol valamivel, szembeszáll" },
+      { "forms": ["avalanches"], "lemma": "avalanche", "pos": "noun", "en": "a large amount of snow that falls down a mountain", "hu": "lavina" },
+      { "forms": ["subzero"], "lemma": "subzero", "pos": "adjective", "en": "below zero degrees", "hu": "fagypont alatti" },
+      { "forms": ["glaciers"], "lemma": "glacier", "pos": "noun", "en": "a large mass of ice that moves slowly down a mountain", "hu": "gleccser" },
+      { "forms": ["courage"], "lemma": "courage", "pos": "noun", "en": "the ability to do something dangerous without fear", "hu": "bátorság" },
+      { "forms": ["followers"], "lemma": "follower", "pos": "noun", "en": "a person who believes in a religion or a leader", "hu": "követő, híve" },
+      { "forms": ["suffering"], "lemma": "suffering", "pos": "noun", "en": "pain and problems", "hu": "szenvedés" },
+      { "forms": ["trek"], "lemma": "trek", "pos": "noun", "en": "a long, hard journey on foot", "hu": "hosszú gyalogtúra" },
+      { "forms": ["mountaineers"], "lemma": "mountaineer", "pos": "noun", "en": "a person who climbs high mountains", "hu": "hegymászó" },
+      { "forms": ["won fame"], "lemma": "win fame", "pos": "phrase", "en": "to become famous", "hu": "hírnevet szerez" },
+      { "forms": ["heritage"], "lemma": "heritage", "pos": "noun", "en": "the traditions and history of a group of people", "hu": "örökség, hagyomány" },
+      { "forms": ["triumph"], "lemma": "triumph", "pos": "noun", "en": "a great success", "hu": "diadal, győzelem" }
+    ],
+    "2014-maj-emelt-L3": [
+      { "forms": ["rural"], "lemma": "rural", "pos": "adjective", "en": "in the countryside", "hu": "vidéki" },
+      { "forms": ["merry-go-round"], "lemma": "merry-go-round", "pos": "noun", "en": "a round platform in a playground that turns while children sit on it", "hu": "körhinta, forgó játék" },
+      { "forms": ["spins"], "lemma": "spin", "pos": "verb", "en": "to turn round and round quickly", "hu": "pörög, forog" },
+      { "forms": ["help themselves"], "lemma": "help yourself", "pos": "phrase", "en": "to take something freely without asking or paying", "hu": "kiszolgálja magát, szabadon vesz" },
+      { "forms": ["luxury"], "lemma": "luxury", "pos": "noun", "en": "something expensive or rare that not everyone can have", "hu": "luxus, fényűzés" },
+      { "forms": ["wells"], "lemma": "well", "pos": "noun", "en": "a deep hole in the ground from which people get water", "hu": "kút", "tip": "Itt főnév." },
+      { "forms": ["haul"], "lemma": "haul", "pos": "verb", "en": "to pull or carry something heavy", "hu": "cipel, vonszol" },
+      { "forms": ["exhausting"], "lemma": "exhausting", "pos": "adjective", "en": "making you extremely tired", "hu": "kimerítő" },
+      { "forms": ["chore"], "lemma": "chore", "pos": "noun", "en": "a boring job that you must do regularly", "hu": "házimunka, fárasztó kötelesség" },
+      { "forms": ["battling"], "lemma": "battle", "pos": "verb", "en": "to fight against something", "hu": "harcol, küzd" },
+      { "forms": ["germs"], "lemma": "germ", "pos": "noun", "en": "a very small living thing that causes illness", "hu": "baktérium, kórokozó" },
+      { "forms": ["upkeep"], "lemma": "upkeep", "pos": "noun", "en": "the cost of keeping something in good condition", "hu": "fenntartás, karbantartás" }
+    ],
+    "2014-maj-emelt-H1": [
+      { "forms": ["sombre"], "lemma": "sombre", "pos": "adjective", "en": "dark and sad", "hu": "komor, sötét" },
+      { "forms": ["somewhat"], "lemma": "somewhat", "pos": "adverb", "en": "a little; rather", "hu": "némileg, kissé" },
+      { "forms": ["Harlequin"], "lemma": "Harlequin", "pos": "noun", "en": "a clown in old Italian theatre who wears clothes with a diamond pattern", "hu": "Harlekin, bohóc" },
+      { "forms": ["brooding"], "lemma": "brooding", "pos": "adjective", "en": "looking sad and thinking a lot about problems", "hu": "tépelődő, merengő" },
+      { "forms": ["luncheon"], "lemma": "luncheon", "pos": "noun", "en": "a formal lunch", "hu": "ebéd (ünnepélyes)" },
+      { "forms": ["dissociating himself"], "lemma": "dissociate yourself", "pos": "phrase", "en": "to show that you are not connected with something", "hu": "elhatárolódik, kívül helyezkedik" },
+      { "forms": ["love affair"], "lemma": "love affair", "pos": "noun", "en": "a romantic relationship between two people", "hu": "szerelmi viszony" },
+      { "forms": ["participant"], "lemma": "participant", "pos": "noun", "en": "a person who takes part in something", "hu": "résztvevő" },
+      { "forms": ["loneliness"], "lemma": "loneliness", "pos": "noun", "en": "the sad feeling of being alone", "hu": "magány" }
+    ],
+    "2014-maj-emelt-H2": [
+      { "forms": ["went on sale"], "lemma": "go on sale", "pos": "phrase", "en": "to start being sold in shops", "hu": "kereskedelmi forgalomba kerül" },
+      { "forms": ["downtown"], "lemma": "downtown", "pos": "adverb", "en": "to or in the centre of a city (American English)", "hu": "a belvárosba, a belvárosban" },
+      { "forms": ["effort"], "lemma": "effort", "pos": "noun", "en": "physical or mental energy that you use to do something", "hu": "erőfeszítés" },
+      { "forms": ["If it hadn’t been for"], "lemma": "if it hadn’t been for", "pos": "phrase", "en": "without someone or something", "hu": "ha nem lett volna (valaki)" },
+      { "forms": ["exposed to"], "lemma": "exposed to", "pos": "phrase", "en": "not protected from something", "hu": "kitéve valaminek" }
+    ],
+    "2014-maj-emelt-H3": [
+      { "forms": ["field marketers"], "lemma": "field marketer", "pos": "noun", "en": "a person who promotes a product by meeting people outside the office", "hu": "helyszíni értékesítő, promóter" },
+      { "forms": ["product samples"], "lemma": "product sample", "pos": "noun", "en": "a small free amount of a product that people can try", "hu": "termékminta" },
+      { "forms": ["kiosks"], "lemma": "kiosk", "pos": "noun", "en": "a small stand where things are sold", "hu": "árusítóstand, bódé" },
+      { "forms": ["attributes"], "lemma": "attribute", "pos": "noun", "en": "a quality or feature of a person", "hu": "jellemző, tulajdonság" },
+      { "forms": ["findings"], "lemma": "findings", "pos": "noun", "en": "the results of research", "hu": "eredmények (kutatásé)" },
+      { "forms": ["co-founder"], "lemma": "co-founder", "pos": "noun", "en": "one of the people who started a company", "hu": "társalapító" },
+      { "forms": ["moral of the story"], "lemma": "the moral of the story", "pos": "phrase", "en": "the lesson you can learn from a story", "hu": "a történet tanulsága" }
     ]
   }
 }

@@ -291,6 +291,70 @@
       { "forms": ["totally"], "lemma": "totally", "pos": "adverb", "en": "completely", "hu": "teljesen" },
       { "forms": ["destabilized"], "lemma": "destabilize", "pos": "verb", "en": "to make something unsafe and likely to change", "hu": "megingat, destabilizál" },
       { "forms": ["half century"], "lemma": "half century", "pos": "noun", "en": "fifty years", "hu": "fél évszázad" }
+    ],
+    "2012-maj-emelt-L1": [
+      { "forms": ["good fortune"], "lemma": "good fortune", "pos": "phrase", "en": "good luck", "hu": "szerencse, jó sors" },
+      { "forms": ["expedition"], "lemma": "expedition", "pos": "noun", "en": "a long, organised journey to explore a place", "hu": "expedíció" },
+      { "forms": ["yacht"], "lemma": "yacht", "pos": "noun", "en": "a large boat with sails or an engine, used for travel or racing", "hu": "jacht" },
+      { "forms": ["conserve"], "lemma": "conserve", "pos": "verb", "en": "to protect something so that it is not damaged or lost", "hu": "megőriz, megóv" },
+      { "forms": ["rid"], "lemma": "rid", "pos": "verb", "en": "to clean a place by removing something bad or unwanted", "hu": "megtisztít, megszabadít" },
+      { "forms": ["skim"], "lemma": "skim", "pos": "verb", "en": "to remove things from the top of a liquid", "hu": "lefölöz, a felszínről leszed" },
+      { "forms": ["compact"], "lemma": "compact", "pos": "verb", "en": "to press something together so that it takes less space", "hu": "tömörít, összeprésel" },
+      { "forms": ["coral reef"], "lemma": "coral reef", "pos": "noun", "en": "a line of hard natural material in warm seas, made by tiny sea animals", "hu": "korallzátony" },
+      { "forms": ["accompany"], "lemma": "accompany", "pos": "verb", "en": "to go somewhere with someone", "hu": "elkísér" },
+      { "forms": ["divers"], "lemma": "diver", "pos": "noun", "en": "a person who swims under water with special equipment", "hu": "búvár" },
+      { "forms": ["reconstruct"], "lemma": "reconstruct", "pos": "verb", "en": "to build something again after it has been destroyed", "hu": "újjáépít, helyreállít" },
+      { "forms": ["reroute"], "lemma": "reroute", "pos": "verb", "en": "to send something along a different way", "hu": "más irányba terel, elterel" },
+      { "forms": ["overseen"], "lemma": "oversee", "pos": "verb", "en": "to watch and control work to check that it is done well", "hu": "felügyel, irányít" }
+    ],
+    "2012-maj-emelt-L2": [
+      { "forms": ["criteria"], "lemma": "criterion", "pos": "noun", "en": "the rules or standards that you use to judge or choose something", "hu": "feltétel, kritérium", "tip": "A criteria többes szám; egyes száma: criterion." },
+      { "forms": ["participation"], "lemma": "participation", "pos": "noun", "en": "taking part in an activity or event", "hu": "részvétel" },
+      { "forms": ["origin"], "lemma": "origin", "pos": "noun", "en": "the country or family that someone comes from", "hu": "származás" },
+      { "forms": ["took an oath"], "lemma": "take an oath", "pos": "phrase", "en": "to make a formal, serious promise", "hu": "esküt tesz" },
+      { "forms": ["honourable"], "lemma": "honourable", "pos": "adjective", "en": "honest and fair, deserving respect", "hu": "tisztességes, becsületes" },
+      { "forms": ["nude"], "lemma": "nude", "pos": "adjective", "en": "not wearing any clothes", "hu": "meztelen" },
+      { "forms": ["layer"], "lemma": "layer", "pos": "noun", "en": "a thin sheet of something that covers a surface", "hu": "réteg" },
+      { "forms": ["dusted"], "lemma": "dust", "pos": "verb", "en": "to cover something with a fine powder", "hu": "beszór, behint (porral)" },
+      { "forms": ["regulate"], "lemma": "regulate", "pos": "verb", "en": "to control something so that it stays at the right level", "hu": "szabályoz" },
+      { "forms": ["wreath"], "lemma": "wreath", "pos": "noun", "en": "flowers or leaves arranged in a circle", "hu": "koszorú" },
+      { "forms": ["erected"], "lemma": "erect", "pos": "verb", "en": "to build or put up a statue or building", "hu": "emel, felállít (szobrot)" },
+      { "forms": ["verses"], "lemma": "verse", "pos": "noun", "en": "lines of a poem", "hu": "versszak, vers" },
+      { "forms": ["achievements"], "lemma": "achievement", "pos": "noun", "en": "something good and difficult that you have done", "hu": "teljesítmény, siker" }
+    ],
+    "2012-maj-emelt-L3": [
+      { "forms": ["sensors"], "lemma": "sensor", "pos": "noun", "en": "a device that notices and measures things like heat, light or touch", "hu": "érzékelő" },
+      { "forms": ["scan"], "lemma": "scan", "pos": "verb", "en": "to use a machine to make a picture of something", "hu": "beolvas, letapogat" },
+      { "forms": ["fingertips"], "lemma": "fingertip", "pos": "noun", "en": "the end of a finger", "hu": "ujjbegy" },
+      { "forms": ["advances"], "lemma": "advance", "pos": "noun", "en": "progress or a new development in science or technology", "hu": "fejlődés, előrelépés" },
+      { "forms": ["crime scene"], "lemma": "crime scene", "pos": "noun", "en": "the place where a crime happened", "hu": "tetthely" },
+      { "forms": ["vary"], "lemma": "vary", "pos": "verb", "en": "to change; to be different at different times", "hu": "változik, eltér" },
+      { "forms": ["authorities"], "lemma": "authority", "pos": "noun", "en": "the people or organisations that have official power, for example the police", "hu": "hatóság" },
+      { "forms": ["fingerprint matches"], "lemma": "fingerprint match", "pos": "noun", "en": "a decision that two fingerprints come from the same person", "hu": "ujjlenyomat-egyezés, azonosítás" },
+      { "forms": ["broadly"], "lemma": "broadly", "pos": "adverb", "en": "in a wide and general way, not in detail", "hu": "tágan, általánosan" },
+      { "forms": ["refining"], "lemma": "refine", "pos": "verb", "en": "to improve something by making small changes", "hu": "finomít, tökéletesít" },
+      { "forms": ["sorting"], "lemma": "sort", "pos": "verb", "en": "to put things into groups", "hu": "osztályoz, szétválogat" }
+    ],
+    "2012-maj-emelt-H2": [
+      { "forms": ["advances"], "lemma": "advance", "pos": "noun", "en": "progress or a new development in technology", "hu": "fejlődés, előrelépés" },
+      { "forms": ["day-to-day"], "lemma": "day-to-day", "pos": "adjective", "en": "happening every day as a normal part of life", "hu": "mindennapos, napi" },
+      { "forms": ["identification parade"], "lemma": "identification parade", "pos": "noun", "en": "a line of people from which a witness tries to choose the criminal", "hu": "szembesítés, felismerés céljából felsorakoztatott személyek" },
+      { "forms": ["time-consuming"], "lemma": "time-consuming", "pos": "adjective", "en": "needing a lot of time", "hu": "időigényes" },
+      { "forms": ["witness"], "lemma": "witness", "pos": "noun", "en": "a person who saw a crime or accident", "hu": "tanú, szemtanú" },
+      { "forms": ["contributors"], "lemma": "contributor", "pos": "noun", "en": "a person who gives something, for example their help or time", "hu": "közreműködő, résztvevő" },
+      { "forms": ["clip"], "lemma": "clip", "pos": "noun", "en": "a short part of a film or video", "hu": "videorészlet, klip" },
+      { "forms": ["montage"], "lemma": "montage", "pos": "noun", "en": "a film made by putting many short pieces together", "hu": "montázs, összevágott film" },
+      { "forms": ["determined"], "lemma": "determine", "pos": "verb", "en": "to decide something officially or by calculation", "hu": "meghatároz, eldönt" },
+      { "forms": ["So as to"], "lemma": "so as to", "pos": "conjunction", "en": "in order to; with the aim of", "hu": "azért, hogy", "tip": "Utána főnévi igenév áll: so as to make sure." }
+    ],
+    "2012-maj-emelt-H3": [
+      { "forms": ["net amount"], "lemma": "net amount", "pos": "noun", "en": "the money left after taxes and costs are taken away", "hu": "nettó összeg" },
+      { "forms": ["lottery"], "lemma": "lottery", "pos": "noun", "en": "a game in which people buy tickets with numbers and win money if their numbers are chosen", "hu": "lottó" },
+      { "forms": ["had come up"], "lemma": "come up", "pos": "phrasal verb", "en": "to be chosen in a game such as the lottery", "hu": "kihúzzák (számot)" },
+      { "forms": ["jackpot"], "lemma": "jackpot", "pos": "noun", "en": "the biggest prize in a game of chance", "hu": "főnyeremény" },
+      { "forms": ["luxury items"], "lemma": "luxury item", "pos": "noun", "en": "an expensive thing that you want but do not need", "hu": "luxuscikk" },
+      { "forms": ["billionaire"], "lemma": "billionaire", "pos": "noun", "en": "a person who has more than a thousand million dollars", "hu": "milliárdos" },
+      { "forms": ["made a profit"], "lemma": "make a profit", "pos": "phrase", "en": "to earn more money than you spend", "hu": "nyereséget ér el" }
     ]
   }
 }

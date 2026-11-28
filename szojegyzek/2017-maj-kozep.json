@@ -198,6 +198,58 @@
       { "forms": ["definitely"], "lemma": "definitely", "pos": "adverb", "en": "certainly", "hu": "egyértelműen, mindenképp" },
       { "forms": ["detectable"], "lemma": "detectable", "pos": "adjective", "en": "that can be noticed", "hu": "érzékelhető, észlelhető" },
       { "forms": ["unpleasant"], "lemma": "unpleasant", "pos": "adjective", "en": "not nice", "hu": "kellemetlen" }
+    ],
+    "2017-maj-kozep-L1": [
+      { "forms": ["undersea"], "lemma": "undersea", "pos": "adjective", "en": "below the surface of the sea", "hu": "tenger alatti" },
+      { "forms": ["portion"], "lemma": "portion", "pos": "noun", "en": "a part of something", "hu": "rész, szakasz" },
+      { "forms": ["service tunnel"], "lemma": "service tunnel", "pos": "noun", "en": "a tunnel used by workers, not by passengers", "hu": "szervizalagút" },
+      { "forms": ["emergencies"], "lemma": "emergency", "pos": "noun", "en": "a dangerous situation that needs action at once", "hu": "vészhelyzet" },
+      { "forms": ["Construction"], "lemma": "construction", "pos": "noun", "en": "the process of building something", "hu": "építés, építkezés" },
+      { "forms": ["ceremonial"], "lemma": "ceremonial", "pos": "adjective", "en": "done as part of an official event", "hu": "ünnepélyes" },
+      { "forms": ["breakthrough"], "lemma": "breakthrough", "pos": "noun", "en": "here: the moment when the two sides of the tunnel met", "hu": "áttörés" },
+      { "forms": ["tunnelled"], "lemma": "tunnel", "pos": "verb", "en": "to make a long passage under the ground or the sea", "hu": "alagutat épít" },
+      { "forms": ["football pitches"], "lemma": "football pitch", "pos": "noun", "en": "a field on which football is played", "hu": "futballpálya" },
+      { "forms": ["in operation"], "lemma": "in operation", "pos": "phrase", "en": "working, being used", "hu": "üzemben, működésben" },
+      { "forms": ["scheme"], "lemma": "scheme", "pos": "noun", "en": "an official plan or system", "hu": "program, rendszer" }
+    ],
+    "2017-maj-kozep-L2": [
+      { "forms": ["Christianity"], "lemma": "Christianity", "pos": "noun", "en": "the religion based on the teachings of Jesus Christ", "hu": "kereszténység" },
+      { "forms": ["priests"], "lemma": "priest", "pos": "noun", "en": "a person who leads religious services", "hu": "pap" },
+      { "forms": ["monks"], "lemma": "monk", "pos": "noun", "en": "a man who lives in a religious group away from other people", "hu": "szerzetes" },
+      { "forms": ["Christianised"], "lemma": "Christianise", "pos": "verb", "en": "to change something so that it becomes part of the Christian religion", "hu": "keresztény ünneppé tett" },
+      { "forms": ["Pagan"], "lemma": "pagan", "pos": "adjective", "en": "connected with old religions from before Christianity", "hu": "pogány" },
+      { "forms": ["signals"], "lemma": "signal", "pos": "verb", "en": "to show that something is starting or happening", "hu": "jelez" },
+      { "forms": ["familiar"], "lemma": "familiar", "pos": "adjective", "en": "known to you because you have heard or seen it before", "hu": "ismerős" },
+      { "forms": ["custom"], "lemma": "custom", "pos": "noun", "en": "something that people have done in the same way for a long time", "hu": "szokás, hagyomány" },
+      { "forms": ["cattle"], "lemma": "cattle", "pos": "noun", "en": "cows and bulls kept on a farm", "hu": "szarvasmarha", "tip": "Többes számú főnév: the cattle are." },
+      { "forms": ["disease"], "lemma": "disease", "pos": "noun", "en": "an illness", "hu": "betegség" },
+      { "forms": ["Druids"], "lemma": "Druid", "pos": "noun", "en": "a priest of the old Celtic religion", "hu": "druida" },
+      { "forms": ["era"], "lemma": "era", "pos": "noun", "en": "a period of time in history", "hu": "korszak" }
+    ],
+    "2017-maj-kozep-L3": [
+      { "forms": ["epicenter"], "lemma": "epicenter", "pos": "noun", "en": "the central and most important place of an activity", "hu": "központ, gócpont" },
+      { "forms": ["district"], "lemma": "district", "pos": "noun", "en": "a part of a city", "hu": "negyed, kerület" },
+      { "forms": ["originates from"], "lemma": "originate from", "pos": "phrasal verb", "en": "to come from something; to start in a place", "hu": "ered, származik" },
+      { "forms": ["pirates"], "lemma": "pirate", "pos": "noun", "en": "a person who attacks ships at sea to steal from them", "hu": "kalóz" },
+      { "forms": ["tribes"], "lemma": "tribe", "pos": "noun", "en": "a group of people with the same language and customs", "hu": "törzs" },
+      { "forms": ["potential"], "lemma": "potential", "pos": "adjective", "en": "possible in the future", "hu": "lehetséges" },
+      { "forms": ["entire"], "lemma": "entire", "pos": "adjective", "en": "whole", "hu": "egész" },
+      { "forms": ["demolished"], "lemma": "demolish", "pos": "verb", "en": "to destroy a building or wall completely", "hu": "lerombol, lebont" },
+      { "forms": ["colonial"], "lemma": "colonial", "pos": "adjective", "en": "connected with a country that controls another country far away", "hu": "gyarmati" },
+      { "forms": ["stuck"], "lemma": "stick", "pos": "verb", "en": "here: to continue to be used", "hu": "megmaradt, rajta ragadt", "tip": "Rendhagyó ige: stick – stuck – stuck." },
+      { "forms": ["stock exchange"], "lemma": "stock exchange", "pos": "noun", "en": "a place where parts of companies (shares) are bought and sold", "hu": "értéktőzsde" },
+      { "forms": ["established"], "lemma": "establish", "pos": "verb", "en": "to start an organisation", "hu": "megalapít, létrehoz" },
+      { "forms": ["buttonwood tree"], "lemma": "buttonwood tree", "pos": "noun", "en": "a large North American tree with round seed balls", "hu": "amerikai platán" },
+      { "forms": ["speculators"], "lemma": "speculator", "pos": "noun", "en": "a person who buys and sells things, hoping to make a quick profit", "hu": "spekuláns" },
+      { "forms": ["gave birth to"], "lemma": "give birth to", "pos": "idiom", "en": "here: to start something new", "hu": "életre hív, létrehoz" }
+    ],
+    "2017-maj-kozep-H2": [
+      { "forms": ["motivated"], "lemma": "motivated", "pos": "adjective", "en": "having a strong reason to do something", "hu": "motivált (valami hajtja)" }
+    ],
+    "2017-maj-kozep-H3": [
+      { "forms": ["four-lane"], "lemma": "four-lane", "pos": "adjective", "en": "with four lines of traffic", "hu": "négysávos" },
+      { "forms": ["armoured truck"], "lemma": "armoured truck", "pos": "noun", "en": "a strong vehicle with metal walls, used to carry money", "hu": "pénzszállító páncélautó" },
+      { "forms": ["reward"], "lemma": "reward", "pos": "noun", "en": "money given to someone for helping, for example for returning something lost", "hu": "jutalom, (megtalálói) díj" }
     ]
   }
 }

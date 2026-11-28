@@ -208,6 +208,63 @@
       { "forms": ["relieved"], "lemma": "relieved", "pos": "adjective", "en": "happy because a worry has ended", "hu": "megkönnyebbült" },
       { "forms": ["investigation"], "lemma": "investigation", "pos": "noun", "en": "the police work to find out the truth about a crime", "hu": "nyomozás" },
       { "forms": ["come forward"], "lemma": "come forward", "pos": "phrasal verb", "en": "to offer to help, for example by giving information to the police", "hu": "jelentkezik (információval)" }
+    ],
+    "2024-okt-kozep-L1": [
+      { "forms": ["RSVP"], "lemma": "RSVP", "pos": "phrase", "en": "letters on an invitation that mean “please answer”", "hu": "kérjük, jelezze részvételét", "tip": "Francia rövidítés: répondez s’il vous plaît." },
+      { "forms": ["in which case"], "lemma": "in which case", "pos": "phrase", "en": "and if this happens", "hu": "ebben az esetben, ilyenkor" },
+      { "forms": ["no later than"], "lemma": "no later than", "pos": "phrase", "en": "at this time or before it, but not after it", "hu": "legkésőbb" },
+      { "forms": ["refuse"], "lemma": "refuse", "pos": "verb", "en": "to say no to something that someone offers you", "hu": "visszautasít, elutasít" },
+      { "forms": ["necessarily"], "lemma": "necessarily", "pos": "adverb", "en": "used with “not”: not always, not in every case", "hu": "(nem) feltétlenül" },
+      { "forms": ["host"], "lemma": "host", "pos": "noun", "en": "the person who invites guests to their home and looks after them", "hu": "házigazda, vendéglátó" }
+    ],
+    "2024-okt-kozep-L2": [
+      { "forms": ["FROST FAIRS"], "lemma": "frost fair", "pos": "noun", "en": "a big market and party held on a frozen river in winter", "hu": "jégvásár (befagyott folyón tartott vásár)" },
+      { "forms": ["freeze over"], "lemma": "freeze over", "pos": "phrasal verb", "en": "to become completely covered with ice", "hu": "befagy" },
+      { "forms": ["locked in"], "lemma": "be locked in", "pos": "phrase", "en": "to be stuck in a difficult situation for a long time", "hu": "valaminek a fogságában van, beleragadt valamibe" },
+      { "forms": ["famine"], "lemma": "famine", "pos": "noun", "en": "a time when many people in a place have no food and are dying", "hu": "éhínség" },
+      { "forms": ["setting up camp"], "lemma": "set up camp", "pos": "phrase", "en": "to put up tents or stalls and stay in a place", "hu": "tábort ver, letelepszik" },
+      { "forms": ["pitches"], "lemma": "pitch", "pos": "noun", "en": "an area of ground where people play football or other sports", "hu": "(sport)pálya" },
+      { "forms": ["barbers"], "lemma": "barber", "pos": "noun", "en": "a person whose job is cutting men’s hair", "hu": "borbély, férfifodrász" },
+      { "forms": ["turned up"], "lemma": "turn up", "pos": "phrasal verb", "en": "to arrive or come to a place", "hu": "megjelenik, eljön" },
+      { "forms": ["on record"], "lemma": "on record", "pos": "phrase", "en": "written down and known about officially", "hu": "feljegyzett, ismert (a feljegyzések szerint)" }
+    ],
+    "2024-okt-kozep-L3": [
+      { "forms": ["units"], "lemma": "unit", "pos": "noun", "en": "an amount of time or size that is used as a standard for measuring", "hu": "egység, mértékegység" },
+      { "forms": ["varied"], "lemma": "vary", "pos": "verb", "en": "to be different at different times", "hu": "változik, eltér" },
+      { "forms": ["adjust"], "lemma": "adjust", "pos": "verb", "en": "to change something a little so that it fits a new situation", "hu": "hozzáigazít, alkalmaz" },
+      { "forms": ["agricultural"], "lemma": "agricultural", "pos": "adjective", "en": "connected with farming", "hu": "mezőgazdasági" },
+      { "forms": ["Due to"], "lemma": "due to", "pos": "phrase", "en": "because of", "hu": "valami miatt, következtében" },
+      { "forms": ["accuracy"], "lemma": "accuracy", "pos": "noun", "en": "the quality of being exactly correct", "hu": "pontosság" },
+      { "forms": ["devices"], "lemma": "device", "pos": "noun", "en": "a machine or tool made for a special job", "hu": "eszköz, szerkezet" },
+      { "forms": ["sundials"], "lemma": "sundial", "pos": "noun", "en": "an old kind of clock that shows the time with the shadow of the sun", "hu": "napóra" },
+      { "forms": ["regulating"], "lemma": "regulate", "pos": "verb", "en": "to control something with rules so that it is the same everywhere", "hu": "szabályoz, egységesít" },
+      { "forms": ["time zone", "time zones"], "lemma": "time zone", "pos": "noun", "en": "an area of the world where people use the same time", "hu": "időzóna" },
+      { "forms": ["adoption"], "lemma": "adoption", "pos": "noun", "en": "the act of starting to use a new system or idea", "hu": "bevezetés, elfogadás (rendszeré)", "tip": "A családjogban örökbefogadást is jelent." },
+      { "forms": ["quartz"], "lemma": "quartz", "pos": "noun", "en": "a hard mineral that is used in watches and clocks", "hu": "kvarc" },
+      { "forms": ["sensitive"], "lemma": "sensitive", "pos": "adjective", "en": "able to notice or measure very small changes", "hu": "érzékeny, pontos (műszer)" }
+    ],
+    "2024-okt-kozep-H1": [
+      { "forms": ["tea dealer"], "lemma": "tea dealer", "pos": "noun", "en": "a person who buys and sells tea as a business", "hu": "teakereskedő" },
+      { "forms": ["skillful"], "lemma": "skillful", "pos": "adjective", "en": "very good at doing something", "hu": "ügyes, gyakorlott" },
+      { "forms": ["bride"], "lemma": "bride", "pos": "noun", "en": "a woman on her wedding day", "hu": "menyasszony" },
+      { "forms": ["stationary"], "lemma": "stationery", "pos": "noun", "en": "paper, pens, envelopes and other things for writing", "hu": "írószer, papíráru", "tip": "Helyesen stationery; a stationary (álló, mozdulatlan) itt elírás a feladatlapon." },
+      { "forms": ["pin"], "lemma": "pin", "pos": "noun", "en": "a very small thin piece of metal with a sharp point", "hu": "gombostű, tű" },
+      { "forms": ["In addition to"], "lemma": "in addition to", "pos": "phrase", "en": "as well as; and also", "hu": "valamin kívül, azon felül" },
+      { "forms": ["accordion"], "lemma": "accordion", "pos": "noun", "en": "a musical instrument that you hold in both hands and press in and out", "hu": "harmonika, tangóharmonika" },
+      { "forms": ["All in all"], "lemma": "all in all", "pos": "phrase", "en": "when you think about everything together", "hu": "mindent összevetve, összesen" }
+    ],
+    "2024-okt-kozep-H2": [
+      { "forms": ["As time went by"], "lemma": "as time goes by", "pos": "phrase", "en": "while time passed", "hu": "ahogy telt az idő" },
+      { "forms": ["in time"], "lemma": "in time", "pos": "phrase", "en": "after some time has passed; one day", "hu": "idővel, előbb-utóbb" }
+    ],
+    "2024-okt-kozep-H3": [
+      { "forms": ["given away"], "lemma": "give away", "pos": "phrasal verb", "en": "to give something to other people without asking for money", "hu": "elajándékoz, odaad" },
+      { "forms": ["unfortunate"], "lemma": "unfortunate", "pos": "adjective", "en": "bad and not lucky", "hu": "szerencsétlen, balszerencsés" },
+      { "forms": ["charities"], "lemma": "charity", "pos": "noun", "en": "an organisation that collects money to help people in need", "hu": "jótékonysági szervezet" },
+      { "forms": ["considers", "consider"], "lemma": "consider", "pos": "verb", "en": "to think that someone or something is a particular way", "hu": "tart valaminek, gondol" },
+      { "forms": ["unwell"], "lemma": "unwell", "pos": "adjective", "en": "ill; not feeling healthy", "hu": "rosszul (van), beteg" },
+      { "forms": ["celebrities"], "lemma": "celebrity", "pos": "noun", "en": "a famous person", "hu": "híresség, sztár" },
+      { "forms": ["jackpot"], "lemma": "jackpot", "pos": "noun", "en": "the biggest prize in a lottery or game", "hu": "főnyeremény" }
     ]
   }
 }

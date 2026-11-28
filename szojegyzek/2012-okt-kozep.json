@@ -190,6 +190,67 @@
       { "forms": ["thick"], "lemma": "thick", "pos": "adjective", "en": "with a lot of distance between the two sides", "hu": "vastag" },
       { "forms": ["permission"], "lemma": "permission", "pos": "noun", "en": "when someone allows you to do something", "hu": "engedély" },
       { "forms": ["foreign"], "lemma": "foreign", "pos": "adjective", "en": "from or in another country", "hu": "külföldi, idegen" }
+    ],
+    "2012-okt-kozep-L1": [
+      { "forms": ["remote"], "lemma": "remote", "pos": "adjective", "en": "very far from other places and people", "hu": "távoli, félreeső" },
+      { "forms": ["origin"], "lemma": "origin", "pos": "noun", "en": "the way something started or was made", "hu": "eredet" },
+      { "forms": ["overseas territory"], "lemma": "overseas territory", "pos": "noun", "en": "land far across the sea that belongs to a country", "hu": "tengerentúli terület" },
+      { "forms": ["emperor"], "lemma": "emperor", "pos": "noun", "en": "a man who rules a very large country or group of countries", "hu": "császár" },
+      { "forms": ["exiled"], "lemma": "exile", "pos": "verb", "en": "to send someone away from their country as a punishment", "hu": "száműz" },
+      { "forms": ["defeat"], "lemma": "defeat", "pos": "noun", "en": "losing a battle or war", "hu": "vereség" },
+      { "forms": ["uninhabited"], "lemma": "uninhabited", "pos": "adjective", "en": "with no people living there", "hu": "lakatlan", "tip": "Hamis barát: nem azt jelenti, hogy lakott." },
+      { "forms": ["stopover"], "lemma": "stopover", "pos": "noun", "en": "a short stay in a place during a long journey", "hu": "pihenőhely, megálló (hosszú úton)" },
+      { "forms": ["steam"], "lemma": "steam", "pos": "noun", "en": "the hot gas from boiling water, used to power engines", "hu": "gőz (gőzhajó)" },
+      { "forms": ["residents"], "lemma": "resident", "pos": "noun", "en": "a person who lives in a place", "hu": "lakos" },
+      { "forms": ["trend"], "lemma": "trend", "pos": "noun", "en": "the general direction in which things are changing", "hu": "irányzat, tendencia" },
+      { "forms": ["reachable"], "lemma": "reachable", "pos": "adjective", "en": "possible to get to", "hu": "elérhető, megközelíthető" },
+      { "forms": ["access"], "lemma": "access", "pos": "noun", "en": "a way of getting into or reaching a place", "hu": "megközelítés, bejutás" }
+    ],
+    "2012-okt-kozep-L2": [
+      { "forms": ["misunderstood"], "lemma": "misunderstood", "pos": "adjective", "en": "not understood or judged correctly by people", "hu": "félreértett, meg nem értett" },
+      { "forms": ["Crows"], "lemma": "crow", "pos": "noun", "en": "a large black bird", "hu": "varjú" },
+      { "forms": ["underrated"], "lemma": "underrated", "pos": "adjective", "en": "better than people think", "hu": "alábecsült" },
+      { "forms": ["reputation"], "lemma": "reputation", "pos": "noun", "en": "the opinion that people have about someone or something", "hu": "hírnév" },
+      { "forms": ["ensure"], "lemma": "ensure", "pos": "verb", "en": "to make certain that something happens", "hu": "biztosít, gondoskodik róla" },
+      { "forms": ["defining"], "lemma": "defining", "pos": "adjective", "en": "showing the most important qualities of something", "hu": "meghatározó, jellemző" },
+      { "forms": ["cracks"], "lemma": "crack", "pos": "noun", "en": "a narrow space or line between two parts of something", "hu": "rés, repedés" },
+      { "forms": ["wire"], "lemma": "wire", "pos": "noun", "en": "a long, thin piece of metal", "hu": "drót" },
+      { "forms": ["hook"], "lemma": "hook", "pos": "noun", "en": "a curved piece of metal used for catching or hanging things", "hu": "kampó, horog" },
+      { "forms": ["task at hand"], "lemma": "the task at hand", "pos": "phrase", "en": "the job that you are doing now", "hu": "az aktuális feladat" },
+      { "forms": ["crack"], "lemma": "crack", "pos": "verb", "en": "to break something hard so that it opens", "hu": "feltör (diót)" },
+      { "forms": ["sidewalks"], "lemma": "sidewalk", "pos": "noun", "en": "a path at the side of a street for people to walk on (American English)", "hu": "járda" },
+      { "forms": ["pedestrian crossing"], "lemma": "pedestrian crossing", "pos": "noun", "en": "a place where people can walk across a road", "hu": "gyalogátkelő, zebra" },
+      { "forms": ["run over"], "lemma": "run over", "pos": "phrasal verb", "en": "to hit someone or something with a car and drive over them", "hu": "elgázol, elüt" }
+    ],
+    "2012-okt-kozep-L3": [
+      { "forms": ["DIALS"], "lemma": "dial", "pos": "verb", "en": "to press the numbers on a phone to call someone", "hu": "tárcsáz, felhív (számot)" },
+      { "forms": ["responding"], "lemma": "respond", "pos": "verb", "en": "to do something because something has happened", "hu": "reagál, kiszáll (rendőrség hívásra)" },
+      { "forms": ["showed up"], "lemma": "show up", "pos": "phrasal verb", "en": "to arrive", "hu": "megjelenik, felbukkan" },
+      { "forms": ["doorstep"], "lemma": "doorstep", "pos": "noun", "en": "the step in front of the door of a house", "hu": "küszöb, ajtó előtti lépcső" },
+      { "forms": ["Retired"], "lemma": "retired", "pos": "adjective", "en": "no longer working because of age", "hu": "nyugdíjas" },
+      { "forms": ["lecturer"], "lemma": "lecturer", "pos": "noun", "en": "a teacher at a university", "hu": "egyetemi oktató, előadó" },
+      { "forms": ["insisted"], "lemma": "insist", "pos": "verb", "en": "to say firmly that something is true", "hu": "erősködik, kitart amellett" },
+      { "forms": ["off the hook"], "lemma": "off the hook", "pos": "phrase", "en": "not correctly placed on the phone, so the line is open", "hu": "nincs a helyén (telefonkagyló)" },
+      { "forms": ["paw"], "lemma": "paw", "pos": "noun", "en": "the foot of an animal such as a cat or dog", "hu": "mancs" },
+      { "forms": ["conclusion"], "lemma": "conclusion", "pos": "noun", "en": "a decision that you make after thinking about the facts", "hu": "következtetés" },
+      { "forms": ["fuss"], "lemma": "fuss", "pos": "noun", "en": "a lot of excitement or worry about something not important", "hu": "felhajtás, nagy hűhó" },
+      { "forms": ["confirmed"], "lemma": "confirm", "pos": "verb", "en": "to say that something is true", "hu": "megerősít" },
+      { "forms": ["turned out"], "lemma": "turn out", "pos": "phrasal verb", "en": "to be found to be something in the end", "hu": "kiderül, kiderült" },
+      { "forms": ["spokesperson"], "lemma": "spokesperson", "pos": "noun", "en": "a person who speaks officially for an organisation", "hu": "szóvivő" },
+      { "forms": ["purrfect"], "lemma": "purrfect", "pos": "adjective", "en": "a joke word: perfect, mixed with purr, the sound a happy cat makes", "hu": "tökéletes (szójáték a dorombolással)" }
+    ],
+    "2012-okt-kozep-H1": [
+      { "forms": ["python"], "lemma": "python", "pos": "noun", "en": "a very large snake that kills animals by squeezing them", "hu": "piton" },
+      { "forms": ["call in"], "lemma": "call in", "pos": "phrasal verb", "en": "to ask an expert to come and help", "hu": "kihív, segítségül hív" },
+      { "forms": ["guarding"], "lemma": "guard", "pos": "verb", "en": "to watch something to protect it", "hu": "őriz, véd" },
+      { "forms": ["starved"], "lemma": "starve", "pos": "verb", "en": "to have no food for a long time", "hu": "éheztet, éhezik" }
+    ],
+    "2012-okt-kozep-H2": [
+      { "forms": ["stepfather"], "lemma": "stepfather", "pos": "noun", "en": "the man who is married to your mother but is not your father", "hu": "mostohaapa" },
+      { "forms": ["stepdad"], "lemma": "stepdad", "pos": "noun", "en": "an informal word for the man who is married to your mother but is not your father", "hu": "mostohaapa (bizalmas)" },
+      { "forms": ["an only child"], "lemma": "an only child", "pos": "phrase", "en": "a child who has no brothers or sisters", "hu": "egyke, egyetlen gyerek" },
+      { "forms": ["incident"], "lemma": "incident", "pos": "noun", "en": "something that happens, often something unusual or bad", "hu": "eset, incidens" },
+      { "forms": ["contract"], "lemma": "contract", "pos": "noun", "en": "an official written agreement", "hu": "szerződés", "tip": "A contract for a record: lemezszerződés." }
     ]
   }
 }

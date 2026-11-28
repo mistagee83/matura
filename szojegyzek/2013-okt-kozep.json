@@ -190,6 +190,74 @@
       { "forms": ["mom"], "lemma": "mom", "pos": "noun", "en": "mother (American English)", "hu": "anyu, anya", "tip": "Amerikai angol; a brit angolban: mum." },
       { "forms": ["be able to"], "lemma": "be able to", "pos": "phrase", "en": "can", "hu": "képes valamire, tudja", "tip": "Ugyanez múlt időben: was able to." },
       { "forms": ["was later able to"], "lemma": "be able to", "pos": "phrase", "en": "later she could", "hu": "később tudta" }
+    ],
+    "2013-okt-kozep-L1": [
+      { "forms": ["dedicated to"], "lemma": "dedicated to", "pos": "phrase", "en": "made only for one particular purpose", "hu": "valaminek szentelt" },
+      { "forms": ["yard sales"], "lemma": "yard sale", "pos": "noun", "en": "a sale of old things in front of someone’s house", "hu": "udvari vásár, garázsvásár" },
+      { "forms": ["rubbish dump"], "lemma": "rubbish dump", "pos": "noun", "en": "a place where people take things they throw away", "hu": "szemétlerakó" },
+      { "forms": ["donated"], "lemma": "donate", "pos": "verb", "en": "to give something to an organisation for free", "hu": "adományoz" },
+      { "forms": ["features"], "lemma": "feature", "pos": "verb", "en": "to have something as an important part", "hu": "bemutat, kiállít" },
+      { "forms": ["disasterpieces"], "lemma": "disasterpiece", "pos": "noun", "en": "a joke word for a very bad piece of art (disaster + masterpiece)", "hu": "katasztrófa-műremek (szójáték)" },
+      { "forms": ["reproduction"], "lemma": "reproduction", "pos": "noun", "en": "a copy of a painting", "hu": "másolat, reprodukció" },
+      { "forms": ["spinning in his grave"], "lemma": "spin in your grave", "pos": "idiom", "en": "said about a dead person who would be very angry if he could see something", "hu": "forogna a sírjában" },
+      { "forms": ["criteria"], "lemma": "criterion", "pos": "noun", "en": "the standards that you use to judge or choose something", "hu": "feltétel, kritérium", "tip": "A criteria többes szám." },
+      { "forms": ["sincere"], "lemma": "sincere", "pos": "adjective", "en": "honest and showing real feelings", "hu": "őszinte" },
+      { "forms": ["spectacularly"], "lemma": "spectacularly", "pos": "adverb", "en": "in a very big and surprising way", "hu": "látványosan, fergetegesen" },
+      { "forms": ["perspective"], "lemma": "perspective", "pos": "noun", "en": "the way of drawing things so that some look near and some far", "hu": "perspektíva, térhatás" },
+      { "forms": ["barely"], "lemma": "barely", "pos": "adverb", "en": "almost not", "hu": "alig" }
+    ],
+    "2013-okt-kozep-L2": [
+      { "forms": ["UNEMPLOYED"], "lemma": "unemployed", "pos": "adjective", "en": "without a job", "hu": "munkanélküli" },
+      { "forms": ["BILLBOARD"], "lemma": "billboard", "pos": "noun", "en": "a very large board in a public place for advertisements", "hu": "óriásplakát" },
+      { "forms": ["filling out"], "lemma": "fill out", "pos": "phrasal verb", "en": "to write all the necessary information on a form", "hu": "kitölt" },
+      { "forms": ["composing"], "lemma": "compose", "pos": "verb", "en": "to write a letter carefully", "hu": "megfogalmaz, megír" },
+      { "forms": ["cover letters"], "lemma": "cover letter", "pos": "noun", "en": "a letter you send with your CV when you apply for a job", "hu": "motivációs levél, kísérőlevél" },
+      { "forms": ["candidate"], "lemma": "candidate", "pos": "noun", "en": "a person who wants to get a job", "hu": "jelölt, pályázó" },
+      { "forms": ["countless"], "lemma": "countless", "pos": "adjective", "en": "very many", "hu": "számtalan" },
+      { "forms": ["had had enough"], "lemma": "have had enough", "pos": "phrase", "en": "to be tired of something and not want it to continue", "hu": "elege lett" },
+      { "forms": ["come up with"], "lemma": "come up with", "pos": "phrasal verb", "en": "to think of an idea or plan", "hu": "kitalál, előáll valamivel" },
+      { "forms": ["dreamed up"], "lemma": "dream up", "pos": "phrasal verb", "en": "to invent a new idea, often an unusual one", "hu": "kiötöl, kitalál" },
+      { "forms": ["CV"], "lemma": "CV", "pos": "noun", "en": "a document that lists your education and work experience", "hu": "önéletrajz" },
+      { "forms": ["concrete"], "lemma": "concrete", "pos": "adjective", "en": "real and definite", "hu": "konkrét, kézzelfogható", "tip": "Főnévként betont jelent." },
+      { "forms": ["persuade"], "lemma": "persuade", "pos": "verb", "en": "to make someone agree to do something", "hu": "rábeszél, meggyőz" }
+    ],
+    "2013-okt-kozep-L3": [
+      { "forms": ["on board"], "lemma": "on board", "pos": "phrase", "en": "on a plane, ship or train", "hu": "a fedélzeten" },
+      { "forms": ["survey"], "lemma": "survey", "pos": "noun", "en": "a set of questions to find out what people think", "hu": "felmérés, közvélemény-kutatás" },
+      { "forms": ["revealed"], "lemma": "reveal", "pos": "verb", "en": "to show something that was not known", "hu": "feltár, kimutat" },
+      { "forms": ["frustration"], "lemma": "frustration", "pos": "noun", "en": "the feeling of being annoyed because you cannot change something", "hu": "bosszúság, frusztráció" },
+      { "forms": ["irritated"], "lemma": "irritated", "pos": "adjective", "en": "annoyed", "hu": "ingerült, bosszús" },
+      { "forms": ["willing"], "lemma": "willing", "pos": "adjective", "en": "happy to do something if necessary", "hu": "hajlandó" },
+      { "forms": ["annoyance"], "lemma": "annoyance", "pos": "noun", "en": "something that makes you a little angry", "hu": "bosszúság, zavaró dolog" },
+      { "forms": ["respondents"], "lemma": "respondent", "pos": "noun", "en": "a person who answers questions in a survey", "hu": "válaszadó" },
+      { "forms": ["short-haul"], "lemma": "short-haul", "pos": "adjective", "en": "travelling a short distance", "hu": "rövid távú (járat)" },
+      { "forms": ["overall"], "lemma": "overall", "pos": "adjective", "en": "including everything; total", "hu": "teljes, összesített" },
+      { "forms": ["disturbance"], "lemma": "disturbance", "pos": "noun", "en": "something that stops you from being calm or quiet", "hu": "zavarás, zavaró tényező" },
+      { "forms": ["excluded"], "lemma": "exclude", "pos": "verb", "en": "to not allow someone to enter a place", "hu": "kizár" },
+      { "forms": ["undecided"], "lemma": "undecided", "pos": "adjective", "en": "not yet sure what you think", "hu": "bizonytalan, nem döntött" }
+    ],
+    "2013-okt-kozep-H1": [
+      { "forms": ["cashier"], "lemma": "cashier", "pos": "noun", "en": "a person whose job is to take and give money in a bank or shop", "hu": "pénztáros" },
+      { "forms": ["robber"], "lemma": "robber", "pos": "noun", "en": "a person who steals from a bank or shop", "hu": "rabló" },
+      { "forms": ["praised"], "lemma": "praise", "pos": "verb", "en": "to say that someone has done something well", "hu": "megdicsér" },
+      { "forms": ["junction"], "lemma": "junction", "pos": "noun", "en": "a place where roads meet", "hu": "útkereszteződés" },
+      { "forms": ["ink"], "lemma": "ink", "pos": "noun", "en": "a coloured liquid for writing or printing", "hu": "tinta, festék" }
+    ],
+    "2013-okt-kozep-H2": [
+      { "forms": ["congratulates"], "lemma": "congratulate", "pos": "verb", "en": "to tell someone you are happy about their success", "hu": "gratulál" },
+      { "forms": ["broke the news"], "lemma": "break the news", "pos": "phrase", "en": "to tell someone important news for the first time", "hu": "közli a hírt" },
+      { "forms": ["entertain"], "lemma": "entertain", "pos": "verb", "en": "to keep people interested and amused", "hu": "szórakoztat" }
+    ],
+    "2013-okt-kozep-H3": [
+      { "forms": ["treated to"], "lemma": "treat someone to", "pos": "phrase", "en": "to buy or give someone something special that they enjoy", "hu": "megvendégel valamivel" },
+      { "forms": ["origins"], "lemma": "origin", "pos": "noun", "en": "the beginning of something", "hu": "eredet, kezdetek" },
+      { "forms": ["whereas"], "lemma": "whereas", "pos": "conjunction", "en": "used to compare two different facts", "hu": "míg, ezzel szemben" },
+      { "forms": ["Civil War"], "lemma": "civil war", "pos": "noun", "en": "a war between groups of people in the same country", "hu": "polgárháború (itt az amerikai)" },
+      { "forms": ["raised"], "lemma": "raise", "pos": "verb", "en": "to look after children until they grow up", "hu": "felnevel" },
+      { "forms": ["approached"], "lemma": "approach", "pos": "verb", "en": "to speak to someone about something for the first time", "hu": "megkeres, felkeres" },
+      { "forms": ["minister"], "lemma": "minister", "pos": "noun", "en": "a religious leader in some Christian groups", "hu": "lelkész", "tip": "Itt nem minisztert jelent." },
+      { "forms": ["dedicated to"], "lemma": "dedicated to", "pos": "phrase", "en": "made to honour someone", "hu": "valakinek szentelt" },
+      { "forms": ["greeting card"], "lemma": "greeting card", "pos": "noun", "en": "a card with a picture and a message that you send on special days", "hu": "üdvözlőlap" }
     ]
   }
 }

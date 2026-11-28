@@ -265,6 +265,66 @@
       { "forms": ["mechanical"], "lemma": "mechanical", "pos": "adjective", "en": "worked by machine parts, not by electricity", "hu": "mechanikus" },
       { "forms": ["creative writing"], "lemma": "creative writing", "pos": "noun", "en": "writing stories, poems and other imaginative texts", "hu": "kreatív írás, szépírás" },
       { "forms": ["the next moment"], "lemma": "the next moment", "pos": "phrase", "en": "immediately after that", "hu": "a következő pillanatban" }
+    ],
+    "2025-okt-emelt-L1": [
+      { "forms": ["Sergeant"], "lemma": "sergeant", "pos": "noun", "en": "a soldier or airman of middle rank", "hu": "őrmester" },
+      { "forms": ["wing"], "lemma": "wing", "pos": "noun", "en": "one of the two long flat parts on the sides of a plane", "hu": "szárny (repülőgépé)" },
+      { "forms": ["bomber"], "lemma": "bomber", "pos": "noun", "en": "a military plane that drops bombs", "hu": "bombázó (repülőgép)" },
+      { "forms": ["extinguish"], "lemma": "extinguish", "pos": "verb", "en": "to make a fire stop burning", "hu": "elolt" },
+      { "forms": ["At the risk of"], "lemma": "at the risk of", "pos": "phrase", "en": "knowing that something bad, such as death, could happen", "hu": "kockáztatva valamit" },
+      { "forms": ["admirer"], "lemma": "admirer", "pos": "noun", "en": "a person who likes and respects someone or something very much", "hu": "csodáló, tisztelő" },
+      { "forms": ["presence"], "lemma": "presence", "pos": "noun", "en": "being in the same place as someone", "hu": "jelenlét" },
+      { "forms": ["sympathy"], "lemma": "sympathy", "pos": "noun", "en": "understanding and kindness towards someone who has a problem", "hu": "együttérzés" },
+      { "forms": ["humble"], "lemma": "humble", "pos": "adjective", "en": "feeling that you are not important", "hu": "alázatos, kicsinek érzi magát" },
+      { "forms": ["awkward"], "lemma": "awkward", "pos": "adjective", "en": "feeling nervous and not comfortable", "hu": "feszengő, esetlen" }
+    ],
+    "2025-okt-emelt-L2": [
+      { "forms": ["phenomenon"], "lemma": "phenomenon", "pos": "noun", "en": "something that happens and that people notice or study", "hu": "jelenség" },
+      { "forms": ["perfection"], "lemma": "perfection", "pos": "noun", "en": "the process of making something as good as possible", "hu": "tökéletesítés" },
+      { "forms": ["demographic data"], "lemma": "demographic data", "pos": "noun", "en": "information about the people who live in a place, such as their age and number", "hu": "népesedési adatok" },
+      { "forms": ["baptismal"], "lemma": "baptismal", "pos": "adjective", "en": "connected with the church ceremony in which a baby is given a name", "hu": "keresztelési" },
+      { "forms": ["worth"], "lemma": "worth", "pos": "noun", "en": "how important or valuable someone is", "hu": "érték" },
+      { "forms": ["Customs"], "lemma": "custom", "pos": "noun", "en": "a traditional way of doing something", "hu": "szokás", "tip": "A customs (mindig többes számban) a vámot is jelenti, itt nem." },
+      { "forms": ["progressed"], "lemma": "progress", "pos": "verb", "en": "to move forward in time", "hu": "halad, előrehalad" },
+      { "forms": ["commercial interests"], "lemma": "commercial interests", "pos": "phrase", "en": "businesses that want to make money", "hu": "üzleti érdekek, cégek" },
+      { "forms": ["adapted"], "lemma": "adapt", "pos": "verb", "en": "to change something so that it can be used in a new way", "hu": "átalakít, átdolgoz" },
+      { "forms": ["party favors"], "lemma": "party favor", "pos": "noun", "en": "a small gift that guests get at a party", "hu": "apró ajándék a vendégeknek (bulin)" },
+      { "forms": ["gift wrap"], "lemma": "gift wrap", "pos": "noun", "en": "coloured paper for covering presents", "hu": "csomagolópapír (ajándékhoz)" },
+      { "forms": ["essentials"], "lemma": "essential", "pos": "noun", "en": "a thing that is necessary", "hu": "nélkülözhetetlen kellék" }
+    ],
+    "2025-okt-emelt-L3": [
+      { "forms": ["barons"], "lemma": "baron", "pos": "noun", "en": "a man of high rank who owned a lot of land", "hu": "báró, nagyúr" },
+      { "forms": ["Medieval"], "lemma": "medieval", "pos": "adjective", "en": "connected with the Middle Ages", "hu": "középkori" },
+      { "forms": ["reign"], "lemma": "reign", "pos": "noun", "en": "the time when a king or queen rules", "hu": "uralkodás" },
+      { "forms": ["demands"], "lemma": "demand", "pos": "noun", "en": "a strong request", "hu": "követelés" },
+      { "forms": ["drawing up"], "lemma": "draw up", "pos": "phrasal verb", "en": "to write a document", "hu": "megfogalmaz, megszövegez" },
+      { "forms": ["subjects"], "lemma": "subject", "pos": "noun", "en": "a person who lives in a country ruled by a king or queen", "hu": "alattvaló", "tip": "Itt nem tantárgyat jelent." },
+      { "forms": ["govern"], "lemma": "govern", "pos": "verb", "en": "to rule a country", "hu": "kormányoz, irányít" },
+      { "forms": ["feudal"], "lemma": "feudal", "pos": "adjective", "en": "connected with the old system in which people worked land for a lord", "hu": "hűbéri, feudális" },
+      { "forms": ["civil war"], "lemma": "civil war", "pos": "noun", "en": "a war between groups of people in the same country", "hu": "polgárháború" },
+      { "forms": ["terms"], "lemma": "term", "pos": "noun", "en": "one of the conditions in an agreement", "hu": "feltétel, kikötés" },
+      { "forms": ["rebel"], "lemma": "rebel", "pos": "adjective", "en": "fighting against the government or the ruler", "hu": "lázadó" },
+      { "forms": ["buy time"], "lemma": "buy time", "pos": "idiom", "en": "to make something happen later so that you have more time", "hu": "időt nyer" },
+      { "forms": ["broke out"], "lemma": "break out", "pos": "phrasal verb", "en": "to start suddenly (a war, a fire)", "hu": "kitör" },
+      { "forms": ["civil rights"], "lemma": "civil rights", "pos": "noun", "en": "the rights that every person in a country should have", "hu": "polgári jogok" }
+    ],
+    "2025-okt-emelt-H1": [
+      { "forms": ["cycle of poverty"], "lemma": "cycle of poverty", "pos": "phrase", "en": "when poor parents have children who also stay poor", "hu": "a szegénység ördögi köre" },
+      { "forms": ["nightstand"], "lemma": "nightstand", "pos": "noun", "en": "a small table next to a bed", "hu": "éjjeliszekrény" },
+      { "forms": ["superstition"], "lemma": "superstition", "pos": "noun", "en": "a belief that some things bring good or bad luck", "hu": "babona" }
+    ],
+    "2025-okt-emelt-H2": [
+      { "forms": ["unmanly"], "lemma": "unmanly", "pos": "adjective", "en": "not typical of how a man should be", "hu": "férfiatlan" },
+      { "forms": ["reputation"], "lemma": "reputation", "pos": "noun", "en": "what most people think about someone or something", "hu": "hírnév, megítélés" },
+      { "forms": ["whereas"], "lemma": "whereas", "pos": "conjunction", "en": "used to compare two different facts", "hu": "míg, ezzel szemben" },
+      { "forms": ["sedan chairs"], "lemma": "sedan chair", "pos": "noun", "en": "a seat in a box, carried on poles by two men", "hu": "gyaloghintó" },
+      { "forms": ["porters"], "lemma": "porter", "pos": "noun", "en": "a man whose job is carrying things or people", "hu": "hordár" },
+      { "forms": ["insults"], "lemma": "insult", "pos": "noun", "en": "a rude remark", "hu": "sértés" },
+      { "forms": ["run Hanway over"], "lemma": "run somebody over", "pos": "phrasal verb", "en": "to hit someone with a vehicle", "hu": "elgázol" }
+    ],
+    "2025-okt-emelt-H3": [
+      { "forms": ["passed away"], "lemma": "pass away", "pos": "phrasal verb", "en": "to die (a polite way of saying it)", "hu": "elhunyt, meghalt" },
+      { "forms": ["sensational"], "lemma": "sensational", "pos": "adjective", "en": "causing great excitement", "hu": "szenzációs, nagy feltűnést keltő" }
     ]
   }
 }

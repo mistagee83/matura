@@ -246,6 +246,61 @@
       { "forms": ["stacking shelves"], "lemma": "stack shelves", "pos": "phrase", "en": "to put products on the shelves in a shop", "hu": "árufeltöltés (a polcokra)" },
       { "forms": ["live off"], "lemma": "live off", "pos": "phrasal verb", "en": "to get the money you need to live from something", "hu": "valamiből él" },
       { "forms": ["earn"], "lemma": "earn", "pos": "verb", "en": "to get money for work", "hu": "keres (pénzt)" }
+    ],
+    "2006-febr-emelt-L1": [
+      { "forms": ["mammals"], "lemma": "mammal", "pos": "noun", "en": "an animal whose babies drink milk from their mother, for example a dog or a human", "hu": "emlős" },
+      { "forms": ["interprets"], "lemma": "interpret", "pos": "verb", "en": "to understand the meaning of something", "hu": "értelmez, feldolgoz" },
+      { "forms": ["co-ordinates"], "lemma": "co-ordinate", "pos": "verb", "en": "to organise the different parts of something so that they work together", "hu": "összehangol, irányít" },
+      { "forms": ["regulate"], "lemma": "regulate", "pos": "verb", "en": "to control something so that it stays at the right level", "hu": "szabályoz" },
+      { "forms": ["extract"], "lemma": "extract", "pos": "verb", "en": "to take out a substance from something", "hu": "kivon, kinyer" },
+      { "forms": ["nutrition"], "lemma": "nutrition", "pos": "noun", "en": "the useful substances in food that the body needs", "hu": "tápanyag, táplálék" },
+      { "forms": ["reptiles"], "lemma": "reptile", "pos": "noun", "en": "an animal with cold blood and dry skin, for example a snake", "hu": "hüllő" },
+      { "forms": ["lunge at"], "lemma": "lunge at", "pos": "phrasal verb", "en": "to move forward suddenly to attack or catch something", "hu": "rávetődik, lecsap valamire" },
+      { "forms": ["edible"], "lemma": "edible", "pos": "adjective", "en": "safe or good enough to eat", "hu": "ehető" },
+      { "forms": ["inedible"], "lemma": "inedible", "pos": "adjective", "en": "not possible or not safe to eat", "hu": "ehetetlen" },
+      { "forms": ["fill up on"], "lemma": "fill up on", "pos": "phrasal verb", "en": "to eat a lot of something until you are full", "hu": "teleeszi magát valamivel" },
+      { "forms": ["selective"], "lemma": "selective", "pos": "adjective", "en": "choosing carefully", "hu": "válogatós, megválogató" }
+    ],
+    "2006-febr-emelt-L2": [
+      { "forms": ["refer to"], "lemma": "refer to", "pos": "phrasal verb", "en": "to be used to describe something", "hu": "jelöl, vonatkozik valamire" },
+      { "forms": ["impact"], "lemma": "impact", "pos": "noun", "en": "the strong effect that something has", "hu": "hatás" },
+      { "forms": ["located"], "lemma": "located", "pos": "adjective", "en": "in a particular place", "hu": "elhelyezkedő, található" },
+      { "forms": ["subways"], "lemma": "subway", "pos": "noun", "en": "an underground railway in a city (American English)", "hu": "metró", "tip": "A brit angolban a subway aluljárót jelent." },
+      { "forms": ["resources"], "lemma": "resource", "pos": "noun", "en": "something useful that a country or people have and use, like oil or water", "hu": "erőforrás, nyersanyag" },
+      { "forms": ["gasoline"], "lemma": "gasoline", "pos": "noun", "en": "the liquid fuel that cars use (American English)", "hu": "benzin", "tip": "Brit angolul: petrol." },
+      { "forms": ["habitats"], "lemma": "habitat", "pos": "noun", "en": "the natural home of an animal or plant", "hu": "élőhely" },
+      { "forms": ["high-rise"], "lemma": "high-rise", "pos": "adjective", "en": "very tall, with many floors", "hu": "sokemeletes, toronyház" },
+      { "forms": ["solar power"], "lemma": "solar power", "pos": "noun", "en": "energy that comes from the sun", "hu": "napenergia" },
+      { "forms": ["panels"], "lemma": "panel", "pos": "noun", "en": "a flat piece of material; here: a flat part that collects energy from the sun", "hu": "panel, (napelem)tábla" },
+      { "forms": ["absorb"], "lemma": "absorb", "pos": "verb", "en": "to take in something, like light or liquid", "hu": "elnyel, felvesz" },
+      { "forms": ["convert"], "lemma": "convert", "pos": "verb", "en": "to change something into a different form", "hu": "átalakít" }
+    ],
+    "2006-febr-emelt-L3": [
+      { "forms": ["jet lag"], "lemma": "jet lag", "pos": "noun", "en": "a tired feeling after a long flight to a place where the time is different", "hu": "időeltolódás okozta fáradtság" },
+      { "forms": ["time zones"], "lemma": "time zone", "pos": "noun", "en": "one of the areas of the world that have their own time", "hu": "időzóna" },
+      { "forms": ["disrupt"], "lemma": "disrupt", "pos": "verb", "en": "to stop something from working in the normal way", "hu": "megzavar, felborít" },
+      { "forms": ["rhythms"], "lemma": "rhythm", "pos": "noun", "en": "a regular pattern that repeats", "hu": "ritmus" },
+      { "forms": ["body clock"], "lemma": "body clock", "pos": "noun", "en": "the natural system in your body that controls when you sleep and wake", "hu": "belső óra, biológiai óra" },
+      { "forms": ["rigid"], "lemma": "rigid", "pos": "adjective", "en": "fixed and not easy to change", "hu": "merev, kötött" },
+      { "forms": ["exhaustion"], "lemma": "exhaustion", "pos": "noun", "en": "the state of being extremely tired", "hu": "kimerültség" },
+      { "forms": ["disorientation"], "lemma": "disorientation", "pos": "noun", "en": "a feeling of not knowing where you are or what is happening", "hu": "zavartság, tájékozódási zavar" },
+      { "forms": ["dehydrated"], "lemma": "dehydrated", "pos": "adjective", "en": "having too little water in your body", "hu": "kiszáradt" },
+      { "forms": ["stuck"], "lemma": "stuck", "pos": "adjective", "en": "not able to leave a place", "hu": "bezárva, beszorulva" },
+      { "forms": ["cabin"], "lemma": "cabin", "pos": "noun", "en": "the part of a plane where the passengers sit", "hu": "utastér" },
+      { "forms": ["susceptible to"], "lemma": "susceptible to", "pos": "phrase", "en": "easily affected or harmed by something", "hu": "fogékony, hajlamos valamire" },
+      { "forms": ["counteracting"], "lemma": "counteract", "pos": "verb", "en": "to reduce the bad effect of something", "hu": "ellensúlyoz, ellene hat" },
+      { "forms": ["hangover"], "lemma": "hangover", "pos": "noun", "en": "the headache and bad feeling after drinking too much alcohol", "hu": "másnaposság" },
+      { "forms": ["intake"], "lemma": "intake", "pos": "noun", "en": "the amount of food or drink that you take into your body", "hu": "bevitel, fogyasztás" },
+      { "forms": ["aisle"], "lemma": "aisle", "pos": "noun", "en": "the long narrow way between rows of seats", "hu": "folyosó (ülések között)", "tip": "Az s néma: /aɪl/." },
+      { "forms": ["align"], "lemma": "align", "pos": "verb", "en": "to put something in the right position in relation to something else", "hu": "hozzáigazít, összehangol" },
+      { "forms": ["adjust"], "lemma": "adjust", "pos": "verb", "en": "to change something a little so that it fits better", "hu": "hozzáigazít, átállít" }
+    ],
+    "2006-febr-emelt-H2": [
+      { "forms": ["giant wheel"], "lemma": "giant wheel", "pos": "noun", "en": "a very big wheel with seats that turns slowly, so people can see far", "hu": "óriáskerék" }
+    ],
+    "2006-febr-emelt-H3": [
+      { "forms": ["expelled"], "lemma": "expel", "pos": "verb", "en": "to officially make someone leave a school", "hu": "kicsap, eltanácsol (iskolából)" },
+      { "forms": ["mind games"], "lemma": "mind game", "pos": "noun", "en": "a game that makes you think hard", "hu": "logikai játék, gondolkodtató játék" }
     ]
   }
 }

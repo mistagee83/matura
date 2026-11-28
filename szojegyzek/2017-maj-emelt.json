@@ -278,6 +278,76 @@
       { "forms": ["received"], "lemma": "receive", "pos": "verb", "en": "to get something", "hu": "kapott" },
       { "forms": ["in exchange for"], "lemma": "in exchange for", "pos": "phrase", "en": "as payment for", "hu": "valamiért cserébe" },
       { "forms": ["loser"], "lemma": "loser", "pos": "noun", "en": "the person who does not win", "hu": "vesztes" }
+    ],
+    "2017-maj-emelt-L1": [
+      { "forms": ["on steroids"], "lemma": "on steroids", "pos": "idiom", "en": "much bigger or stronger than the usual kind", "hu": "felturbózva, a szokásosnál sokkal nagyobb léptékben" },
+      { "forms": ["monument"], "lemma": "monument", "pos": "noun", "en": "a large old structure built for an important purpose or to remember something", "hu": "emlékmű, műemlék" },
+      { "forms": ["Neolithic"], "lemma": "Neolithic", "pos": "adjective", "en": "from the late Stone Age, many thousands of years ago", "hu": "újkőkori" },
+      { "forms": ["arena"], "lemma": "arena", "pos": "noun", "en": "a large flat area with walls or seats around it, used for events", "hu": "aréna, küzdőtér" },
+      { "forms": ["bordered"], "lemma": "border", "pos": "verb", "en": "to be next to something along its edge", "hu": "határol, szegélyez" },
+      { "forms": ["ground-penetrating radar"], "lemma": "ground-penetrating radar", "pos": "noun", "en": "a machine that sends signals into the ground to show what is under it", "hu": "talajradar" },
+      { "forms": ["intact"], "lemma": "intact", "pos": "adjective", "en": "complete and not damaged", "hu": "ép, sértetlen" },
+      { "forms": ["fragments"], "lemma": "fragment", "pos": "noun", "en": "a small piece that has broken off something", "hu": "töredék, darab" },
+      { "forms": ["depression"], "lemma": "depression", "pos": "noun", "en": "here: a part of the ground that is lower than the area around it", "hu": "mélyedés, horpadás", "tip": "Más jelentése: depresszió, levertség." },
+      { "forms": ["presume"], "lemma": "presume", "pos": "verb", "en": "to think that something is probably true", "hu": "feltételez" },
+      { "forms": ["ritual"], "lemma": "ritual", "pos": "adjective", "en": "connected with a ceremony that is always done in the same way", "hu": "szertartási, rituális" },
+      { "forms": ["subsurface"], "lemma": "subsurface", "pos": "adjective", "en": "under the top layer of the ground", "hu": "felszín alatti" },
+      { "forms": ["state-of-the-art"], "lemma": "state-of-the-art", "pos": "adjective", "en": "using the newest and most modern methods", "hu": "a legkorszerűbb, csúcstechnológiás" },
+      { "forms": ["findings"], "lemma": "findings", "pos": "noun", "en": "the facts that people discover when they study something", "hu": "eredmények, leletek" }
+    ],
+    "2017-maj-emelt-L2": [
+      { "forms": ["named after"], "lemma": "name after", "pos": "phrasal verb", "en": "to give someone or something the same name as another person", "hu": "valakiről elnevez" },
+      { "forms": ["Her Majesty"], "lemma": "Her Majesty", "pos": "phrase", "en": "a polite way of talking about the Queen", "hu": "Őfelsége" },
+      { "forms": ["mythical"], "lemma": "mythical", "pos": "adjective", "en": "existing only in old stories", "hu": "mitikus, mondabeli" },
+      { "forms": ["eventually"], "lemma": "eventually", "pos": "adverb", "en": "in the end, after some time", "hu": "végül, végül is", "tip": "Hamis barát: nem azt jelenti, hogy esetleg." },
+      { "forms": ["Her Royal Highness"], "lemma": "Her Royal Highness", "pos": "phrase", "en": "a polite way of talking about a queen or princess", "hu": "Királyi Fensége" },
+      { "forms": ["prehistoric"], "lemma": "prehistoric", "pos": "adjective", "en": "from the time before history was written down", "hu": "őskori, történelem előtti" },
+      { "forms": ["private secretary"], "lemma": "private secretary", "pos": "noun", "en": "a person who organises the work and letters of an important person", "hu": "magántitkár" },
+      { "forms": ["indisputable evidence"], "lemma": "indisputable evidence", "pos": "noun", "en": "proof that nobody can argue with", "hu": "megdönthetetlen bizonyíték" },
+      { "forms": ["monarch"], "lemma": "monarch", "pos": "noun", "en": "a king or queen", "hu": "uralkodó" },
+      { "forms": ["regrettable"], "lemma": "regrettable", "pos": "adjective", "en": "unfortunate; that you feel sorry about", "hu": "sajnálatos" },
+      { "forms": ["ultimately"], "lemma": "ultimately", "pos": "adverb", "en": "in the end, after everything has happened", "hu": "végül, végső soron" },
+      { "forms": ["turned out to be"], "lemma": "turn out to be", "pos": "phrase", "en": "to be discovered to be something in the end", "hu": "kiderül róla, hogy" },
+      { "forms": ["hoax"], "lemma": "hoax", "pos": "noun", "en": "a trick that makes people believe something that is not true", "hu": "átverés, kacsa (hamis hír)" }
+    ],
+    "2017-maj-emelt-L3": [
+      { "forms": ["a string of"], "lemma": "a string of", "pos": "phrase", "en": "a number of similar events, one after another", "hu": "egy sor, sorozatos" },
+      { "forms": ["gruesome"], "lemma": "gruesome", "pos": "adjective", "en": "very unpleasant and shocking, usually connected with death or injury", "hu": "borzalmas, hátborzongató" },
+      { "forms": ["centre-stage"], "lemma": "centre-stage", "pos": "adverb", "en": "in the most important position, where everyone can see it", "hu": "a középpontba(n)" },
+      { "forms": ["joining in"], "lemma": "join in", "pos": "phrasal verb", "en": "to take part in an activity with other people", "hu": "beszáll, csatlakozik" },
+      { "forms": ["epidemic"], "lemma": "epidemic", "pos": "noun", "en": "here: a sudden increase of something bad that affects many people", "hu": "járvány (átvitt értelemben)" },
+      { "forms": ["offensive"], "lemma": "offensive", "pos": "adjective", "en": "rude and likely to upset people", "hu": "sértő, botrányos" },
+      { "forms": ["pushing the boundaries"], "lemma": "push the boundaries", "pos": "idiom", "en": "to go further than what is normally accepted", "hu": "feszegeti a határokat" },
+      { "forms": ["decency"], "lemma": "decency", "pos": "noun", "en": "behaviour that people think is polite and morally right", "hu": "tisztesség, illem" },
+      { "forms": ["dangling"], "lemma": "dangle", "pos": "verb", "en": "to hang loosely in the air", "hu": "lóg, csüng" },
+      { "forms": ["explosives"], "lemma": "explosive", "pos": "noun", "en": "a substance that can blow up, like a bomb", "hu": "robbanóanyag" },
+      { "forms": ["binge drinking"], "lemma": "binge drinking", "pos": "noun", "en": "drinking a lot of alcohol in a short time", "hu": "mértéktelen ivászat" },
+      { "forms": ["Interior Ministry"], "lemma": "Interior Ministry", "pos": "noun", "en": "the government department responsible for the police and public order", "hu": "belügyminisztérium" },
+      { "forms": ["snappers"], "lemma": "snapper", "pos": "noun", "en": "informal: a person who takes photographs", "hu": "fotós, kattintgató" },
+      { "forms": ["criminalise"], "lemma": "criminalise", "pos": "verb", "en": "to make something illegal", "hu": "büntetendővé tesz" },
+      { "forms": ["landmarks"], "lemma": "landmark", "pos": "noun", "en": "a famous building or place that is easy to recognise", "hu": "nevezetesség" }
+    ],
+    "2017-maj-emelt-H1": [
+      { "forms": ["formulated"], "lemma": "formulate", "pos": "verb", "en": "to develop an idea and explain it carefully", "hu": "megfogalmaz, kidolgoz" },
+      { "forms": ["natural selection"], "lemma": "natural selection", "pos": "noun", "en": "the process in which only the plants and animals best suited to their environment survive", "hu": "természetes kiválasztódás" },
+      { "forms": ["owl"], "lemma": "owl", "pos": "noun", "en": "a bird with big eyes that hunts at night", "hu": "bagoly" },
+      { "forms": ["decade-long"], "lemma": "decade-long", "pos": "adjective", "en": "lasting ten years", "hu": "tízéves, egy évtizedig tartó" },
+      { "forms": ["voyage"], "lemma": "voyage", "pos": "noun", "en": "a long journey by ship", "hu": "(hosszú) hajóút" },
+      { "forms": ["naturalist"], "lemma": "naturalist", "pos": "noun", "en": "a scientist who studies plants and animals", "hu": "természettudós, természetbúvár" },
+      { "forms": ["companion"], "lemma": "companion", "pos": "noun", "en": "a person who travels with you or spends a lot of time with you", "hu": "társ, útitárs" },
+      { "forms": ["determination"], "lemma": "determination", "pos": "noun", "en": "the quality of continuing to try even when something is difficult", "hu": "elszántság, eltökéltség" }
+    ],
+    "2017-maj-emelt-H2": [
+      { "forms": ["bite the bullet"], "lemma": "bite the bullet", "pos": "idiom", "en": "to accept something painful or unpleasant because you have to", "hu": "összeszorítja a fogát" },
+      { "forms": ["caught red-handed"], "lemma": "catch someone red-handed", "pos": "idiom", "en": "to find someone while they are doing something wrong", "hu": "tetten ér" },
+      { "forms": ["feast"], "lemma": "feast", "pos": "noun", "en": "a large special meal for many people", "hu": "lakoma" },
+      { "forms": ["Giving somebody the cold shoulder"], "lemma": "give someone the cold shoulder", "pos": "idiom", "en": "to treat someone in an unfriendly way on purpose", "hu": "levegőnek néz, hidegen bánik valakivel" }
+    ],
+    "2017-maj-emelt-H3": [
+      { "forms": ["possessing"], "lemma": "possess", "pos": "verb", "en": "to have a quality", "hu": "birtokol, rendelkezik valamivel" },
+      { "forms": ["a spirit of adventure"], "lemma": "a spirit of adventure", "pos": "phrase", "en": "the wish to try new and exciting things", "hu": "kalandvágy" },
+      { "forms": ["Gorge"], "lemma": "gorge", "pos": "noun", "en": "a deep narrow valley with steep sides", "hu": "szurdok" },
+      { "forms": ["jewel in the crown"], "lemma": "the jewel in the crown", "pos": "idiom", "en": "the best and most valuable part of something", "hu": "a legszebb gyöngyszem, fénypont" }
     ]
   }
 }

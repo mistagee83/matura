@@ -188,6 +188,61 @@
       { "forms": ["closer"], "lemma": "close", "pos": "adjective", "en": "having a better relationship", "hu": "közelebb (egymáshoz)" },
       { "forms": ["championships"], "lemma": "championship", "pos": "noun", "en": "a competition to find the best player or team", "hu": "bajnokság" },
       { "forms": ["association"], "lemma": "association", "pos": "noun", "en": "an organization for people with the same interest", "hu": "szövetség, egyesület" }
+    ],
+    "2011-maj-kozep-L1": [
+      { "forms": ["fined"], "lemma": "fine", "pos": "verb", "en": "to make someone pay money as a punishment", "hu": "megbírságol" },
+      { "forms": ["blowing nose", "blowing his nose", "blew my nose"], "lemma": "blow your nose", "pos": "phrase", "en": "to clean your nose by pushing air out of it into a tissue", "hu": "orrot fúj" },
+      { "forms": ["stationary"], "lemma": "stationary", "pos": "adjective", "en": "not moving", "hu": "álló, egy helyben álló" },
+      { "forms": ["handbrake"], "lemma": "handbrake", "pos": "noun", "en": "the brake in a car that you pull up with your hand", "hu": "kézifék" },
+      { "forms": ["tissue"], "lemma": "tissue", "pos": "noun", "en": "a piece of soft paper that you use to clean your nose", "hu": "papír zsebkendő" },
+      { "forms": ["furniture restoration"], "lemma": "furniture restoration", "pos": "noun", "en": "repairing old furniture so that it looks as it did when it was new", "hu": "bútorrestaurálás" },
+      { "forms": ["stand-still"], "lemma": "stand-still", "pos": "noun", "en": "a situation in which nothing moves at all", "hu": "teljes leállás, mozdulatlanság", "tip": "Az at a standstill azt jelenti: áll, nem mozdul." },
+      { "forms": ["waved over"], "lemma": "wave over", "pos": "phrasal verb", "en": "to move your hand to tell a driver to stop at the side of the road", "hu": "félreint (autóst)" },
+      { "forms": ["Candid Camera"], "lemma": "Candid Camera", "pos": "noun", "en": "a TV show that secretly films people in funny situations", "hu": "Kandi kamera, rejtett kamerás műsor" },
+      { "forms": ["stating"], "lemma": "state", "pos": "verb", "en": "to say or write something clearly and officially", "hu": "kijelent, közöl" },
+      { "forms": ["fine"], "lemma": "fine", "pos": "noun", "en": "money that you must pay as a punishment", "hu": "bírság", "tip": "Itt főnév, nem azt jelenti: jó." },
+      { "forms": ["pleading not guilty"], "lemma": "plead not guilty", "pos": "phrase", "en": "to say in court that you did not do the crime", "hu": "ártatlannak vallja magát (a bíróságon)" }
+    ],
+    "2011-maj-kozep-L2": [
+      { "forms": ["auction", "auctioned"], "lemma": "auction", "pos": "noun", "en": "a sale where things go to the person who offers the most money", "hu": "árverés, aukció" },
+      { "forms": ["sheet"], "lemma": "sheet", "pos": "noun", "en": "a large piece of paper with many stamps printed on it", "hu": "(bélyeg)ív" },
+      { "forms": ["charity"], "lemma": "charity", "pos": "noun", "en": "giving money to help people who need it", "hu": "jótékonyság, jótékony cél" },
+      { "forms": ["cigarette holder"], "lemma": "cigarette holder", "pos": "noun", "en": "a long thin tube that you put a cigarette into to smoke it", "hu": "szipka" },
+      { "forms": ["featuring"], "lemma": "feature", "pos": "verb", "en": "to have someone or something as an important part", "hu": "bemutat, szerepeltet" },
+      { "forms": ["copyright"], "lemma": "copyright", "pos": "noun", "en": "the legal right to decide who can copy or use a picture, a book or music", "hu": "szerzői jog" },
+      { "forms": ["grant"], "lemma": "grant", "pos": "verb", "en": "to give or allow something officially", "hu": "megad, engedélyez" },
+      { "forms": ["altered"], "lemma": "alter", "pos": "verb", "en": "to change something", "hu": "megváltoztat, átalakít" },
+      { "forms": ["archived"], "lemma": "archive", "pos": "verb", "en": "to keep old papers or objects in a special place", "hu": "archivál, megőriz" }
+    ],
+    "2011-maj-kozep-L3": [
+      { "forms": ["Praying"], "lemma": "pray", "pos": "verb", "en": "to speak to God", "hu": "imádkozik" },
+      { "forms": ["goldsmith"], "lemma": "goldsmith", "pos": "noun", "en": "a person who makes things from gold", "hu": "aranyműves" },
+      { "forms": ["printmaker"], "lemma": "printmaker", "pos": "noun", "en": "an artist who makes pictures that are printed on paper", "hu": "grafikus (nyomatkészítő)" },
+      { "forms": ["draughtsman"], "lemma": "draughtsman", "pos": "noun", "en": "a person who is very good at drawing", "hu": "rajzoló" },
+      { "forms": ["art theorist"], "lemma": "art theorist", "pos": "noun", "en": "a person who studies and writes about the ideas behind art", "hu": "művészetelméleti író" },
+      { "forms": ["regarded as"], "lemma": "regard as", "pos": "phrase", "en": "to think of someone in a particular way", "hu": "tartják valakinek, valaminek számít" },
+      { "forms": ["struggling"], "lemma": "struggling", "pos": "adjective", "en": "having a lot of problems, for example because of no money", "hu": "küszködő, nehéz helyzetben levő" },
+      { "forms": ["miners"], "lemma": "miner", "pos": "noun", "en": "a person who works under the ground, digging for coal or metals", "hu": "bányász" },
+      { "forms": ["hard labour"], "lemma": "hard labour", "pos": "noun", "en": "very tiring physical work", "hu": "nehéz fizikai munka" },
+      { "forms": ["draw lots"], "lemma": "draw lots", "pos": "phrase", "en": "to decide something by chance, for example by picking pieces of paper", "hu": "sorsot húz" },
+      { "forms": ["twisted"], "lemma": "twisted", "pos": "adjective", "en": "bent and with a changed shape", "hu": "eltorzult, görbe" },
+      { "forms": ["delicate"], "lemma": "delicate", "pos": "adjective", "en": "needing great care and skill", "hu": "finom, kényes" },
+      { "forms": ["brush strokes"], "lemma": "brush stroke", "pos": "noun", "en": "a line of paint made by one movement of a brush", "hu": "ecsetvonás" },
+      { "forms": ["sketched", "sketch"], "lemma": "sketch", "pos": "verb", "en": "to draw something quickly", "hu": "felvázol, lerajzol; (főnév) vázlat" }
+    ],
+    "2011-maj-kozep-H1": [
+      { "forms": ["Pickpockets"], "lemma": "pickpocket", "pos": "noun", "en": "a thief who steals things from people's pockets or bags", "hu": "zsebtolvaj" },
+      { "forms": ["acquaintances"], "lemma": "acquaintance", "pos": "noun", "en": "a person you know a little, but who is not a close friend", "hu": "ismerős" },
+      { "forms": ["robbed"], "lemma": "rob", "pos": "verb", "en": "to steal things from a person", "hu": "kirabol, meglop" },
+      { "forms": ["skillful"], "lemma": "skillful", "pos": "adjective", "en": "very good at doing something", "hu": "ügyes, rátermett" },
+      { "forms": ["dummy"], "lemma": "dummy", "pos": "noun", "en": "a model of a person, for example in a shop window", "hu": "próbababa" },
+      { "forms": ["valuables"], "lemma": "valuables", "pos": "noun", "en": "small things that are worth a lot of money", "hu": "értéktárgyak", "tip": "Mindig többes számban áll." }
+    ],
+    "2011-maj-kozep-H3": [
+      { "forms": ["under pressure"], "lemma": "under pressure", "pos": "phrase", "en": "in a situation where you must do very well or very quickly", "hu": "nyomás alatt" },
+      { "forms": ["accompanied"], "lemma": "accompany", "pos": "verb", "en": "to go somewhere with someone", "hu": "elkísér" },
+      { "forms": ["challenger"], "lemma": "challenger", "pos": "noun", "en": "a sportsperson who fights against the champion to win the title", "hu": "kihívó" },
+      { "forms": ["knocked down"], "lemma": "knock down", "pos": "phrasal verb", "en": "to hit someone so that they fall to the ground", "hu": "leüt, földre küld" }
     ]
   }
 }

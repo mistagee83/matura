@@ -218,6 +218,72 @@
       { "forms": ["thrilled"], "lemma": "thrilled", "pos": "adjective", "en": "very happy and excited", "hu": "nagyon boldog, el volt ragadtatva" },
       { "forms": ["amazing"], "lemma": "amazing", "pos": "adjective", "en": "very surprising and wonderful", "hu": "elképesztő, csodás" },
       { "forms": ["travelled through time"], "lemma": "travel through time", "pos": "phrase", "en": "to go from one time to another, like in a time machine", "hu": "átutazott az időn" }
+    ],
+    "2023-okt-emelt-L1": [
+      { "forms": ["troubled"], "lemma": "troubled", "pos": "adjective", "en": "having many worries and problems in your life", "hu": "gyötrődő, zaklatott" },
+      { "forms": ["grounds"], "lemma": "grounds", "pos": "noun", "en": "the land and gardens around a large building", "hu": "(egy intézmény) területe, kertje", "tip": "Ebben a jelentésben mindig többes számban áll." },
+      { "forms": ["mental hospital"], "lemma": "mental hospital", "pos": "noun", "en": "a hospital for people with an illness of the mind", "hu": "elmegyógyintézet" },
+      { "forms": ["sitter"], "lemma": "sitter", "pos": "noun", "en": "a person who is painted in a picture", "hu": "modell (festményé)" },
+      { "forms": ["working-class"], "lemma": "working-class", "pos": "adjective", "en": "belonging to the group of people who do physical work for low pay", "hu": "munkáscsaládból való, munkásosztálybeli" },
+      { "forms": ["unpublished"], "lemma": "unpublished", "pos": "adjective", "en": "never printed for the public to read", "hu": "kiadatlan, eddig nem publikált" },
+      { "forms": ["attendant"], "lemma": "attendant", "pos": "noun", "en": "a person whose job is to help or look after people in a place", "hu": "ápoló, felügyelő" },
+      { "forms": ["accompanied"], "lemma": "accompany", "pos": "verb", "en": "to go somewhere with someone", "hu": "elkísér" }
+    ],
+    "2023-okt-emelt-L2": [
+      { "forms": ["vast"], "lemma": "vast", "pos": "adjective", "en": "extremely large", "hu": "hatalmas, óriási" },
+      { "forms": ["nobleman"], "lemma": "nobleman", "pos": "noun", "en": "a man from an important family with a title, such as a count", "hu": "nemes, nemesember" },
+      { "forms": ["christened"], "lemma": "christen", "pos": "verb", "en": "to give a name to a place or thing", "hu": "elnevez, (névvel) megkeresztel" },
+      { "forms": ["patron saint"], "lemma": "patron saint", "pos": "noun", "en": "a holy person who is believed to protect a place or a group of people", "hu": "védőszent" },
+      { "forms": ["miners"], "lemma": "miner", "pos": "noun", "en": "a person who works under the ground to get coal, silver or gold", "hu": "bányász" },
+      { "forms": ["rulers"], "lemma": "ruler", "pos": "noun", "en": "a person who controls an area and its people", "hu": "uralkodó" },
+      { "forms": ["competing"], "lemma": "compete", "pos": "verb", "en": "to try to get something that others also want", "hu": "versengenek, versenyeznek" },
+      { "forms": ["mint", "minted"], "lemma": "mint", "pos": "verb", "en": "to make coins from metal", "hu": "(pénzt) ver" },
+      { "forms": ["currency"], "lemma": "currency", "pos": "noun", "en": "the money used in a country", "hu": "pénznem, valuta" },
+      { "forms": ["granted permission"], "lemma": "grant permission", "pos": "phrase", "en": "to officially allow someone to do something", "hu": "engedélyt ad" },
+      { "forms": ["survival"], "lemma": "survival", "pos": "noun", "en": "continuing to exist", "hu": "fennmaradás, túlélés" },
+      { "forms": ["diameter"], "lemma": "diameter", "pos": "noun", "en": "the length of a straight line across the middle of a circle", "hu": "átmérő" },
+      { "forms": ["ran dry"], "lemma": "run dry", "pos": "phrase", "en": "to have nothing left in it", "hu": "kimerül, kiapad" },
+      { "forms": ["remodelling"], "lemma": "remodel", "pos": "verb", "en": "to change the shape or form of something", "hu": "átalakít, újraformál" },
+      { "forms": ["colonists"], "lemma": "colonist", "pos": "noun", "en": "a person from Europe who went to live in a new land far away", "hu": "telepes, gyarmatos" }
+    ],
+    "2023-okt-emelt-L3": [
+      { "forms": ["wizard"], "lemma": "wizard", "pos": "noun", "en": "a man in stories who has magic powers", "hu": "varázsló" },
+      { "forms": ["fired"], "lemma": "fire", "pos": "verb", "en": "to tell someone that they must leave their job", "hu": "kirúg, elbocsát" },
+      { "forms": ["wizardry"], "lemma": "wizardry", "pos": "noun", "en": "magic or magic tricks", "hu": "varázslat, bűvészkedés" },
+      { "forms": ["state-appointed"], "lemma": "state-appointed", "pos": "adjective", "en": "chosen officially by the government", "hu": "állami kinevezésű" },
+      { "forms": ["vibes"], "lemma": "vibe", "pos": "noun", "en": "the feeling or mood of a place (informal)", "hu": "hangulat, kisugárzás" },
+      { "forms": ["provocateur"], "lemma": "provocateur", "pos": "noun", "en": "a person who likes to shock people on purpose", "hu": "provokátor" },
+      { "forms": ["offensive remarks"], "lemma": "offensive remark", "pos": "noun", "en": "something rude that someone says that upsets people", "hu": "sértő megjegyzés" },
+      { "forms": ["terminated"], "lemma": "terminate", "pos": "verb", "en": "to end something officially", "hu": "megszüntet, felbont (szerződést)" },
+      { "forms": ["designated"], "lemma": "designate", "pos": "verb", "en": "to choose a place officially for a special purpose", "hu": "kijelöl" },
+      { "forms": ["cloak"], "lemma": "cloak", "pos": "noun", "en": "a long, loose coat without sleeves", "hu": "köpeny, palást" },
+      { "forms": ["pointy hat"], "lemma": "pointy hat", "pos": "noun", "en": "a tall hat with a sharp end at the top", "hu": "hegyes süveg" },
+      { "forms": ["droughts"], "lemma": "drought", "pos": "noun", "en": "a long time with no rain", "hu": "aszály, szárazság" },
+      { "forms": ["termination of employment"], "lemma": "termination of employment", "pos": "phrase", "en": "the official end of someone’s job", "hu": "munkaviszony megszüntetése, elbocsátás" },
+      { "forms": ["curse"], "lemma": "curse", "pos": "verb", "en": "to use magic to make bad things happen to someone", "hu": "megátkoz" },
+      { "forms": ["blessings"], "lemma": "blessing", "pos": "noun", "en": "a wish that good things will happen to someone", "hu": "áldás" }
+    ],
+    "2023-okt-emelt-H1": [
+      { "forms": ["breadlines"], "lemma": "breadline", "pos": "noun", "en": "a line of poor people waiting for free food", "hu": "ingyenkonyhai sor, élelmiszersegélyért álló sor" },
+      { "forms": ["Atop"], "lemma": "atop", "pos": "preposition", "en": "on the top of", "hu": "valaminek a tetején" },
+      { "forms": ["symbolize"], "lemma": "symbolize", "pos": "verb", "en": "to be a sign of an idea or a quality", "hu": "jelképez" },
+      { "forms": ["documentary"], "lemma": "documentary", "pos": "noun", "en": "a film about real people and events", "hu": "dokumentumfilm" },
+      { "forms": ["entitled"], "lemma": "entitled", "pos": "adjective", "en": "having the title", "hu": "című" },
+      { "forms": ["confirm"], "lemma": "confirm", "pos": "verb", "en": "to show that something is true", "hu": "megerősít, igazol" }
+    ],
+    "2023-okt-emelt-H2": [
+      { "forms": ["rejected"], "lemma": "reject", "pos": "verb", "en": "to say no to a request", "hu": "elutasít" },
+      { "forms": ["acceleration"], "lemma": "acceleration", "pos": "noun", "en": "the fast increase in speed", "hu": "gyorsulás" },
+      { "forms": ["shuttle"], "lemma": "shuttle", "pos": "noun", "en": "a spacecraft that can fly into space and come back", "hu": "űrrepülőgép, űrsikló" },
+      { "forms": ["trembling"], "lemma": "tremble", "pos": "verb", "en": "to shake because you are cold, weak or afraid", "hu": "remeg, reszket" },
+      { "forms": ["exhausted"], "lemma": "exhausted", "pos": "adjective", "en": "extremely tired", "hu": "kimerült" },
+      { "forms": ["muscular"], "lemma": "muscular", "pos": "adjective", "en": "having strong, big muscles", "hu": "izmos" },
+      { "forms": ["an absolute nightmare"], "lemma": "an absolute nightmare", "pos": "phrase", "en": "something extremely bad and unpleasant", "hu": "maga a rémálom, borzalmas" }
+    ],
+    "2023-okt-emelt-H3": [
+      { "forms": ["Brewery Chain"], "lemma": "brewery chain", "pos": "noun", "en": "a company that makes beer and owns many pubs", "hu": "sörgyár és kocsmalánca" },
+      { "forms": ["banned", "ban"], "lemma": "ban", "pos": "verb", "en": "to say officially that people must not do something (also a noun: a rule like this)", "hu": "betilt; tilalom" },
+      { "forms": ["policy"], "lemma": "policy", "pos": "noun", "en": "a set of rules or plans of a company", "hu": "szabályzat, irányelv" }
     ]
   }
 }

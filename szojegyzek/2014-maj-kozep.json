@@ -186,6 +186,76 @@
       { "forms": ["called for"], "lemma": "call for", "pos": "phrasal verb", "en": "to phone and ask for something to come", "hu": "hív, kihív (mentőt)" },
       { "forms": ["fell down"], "lemma": "fall down", "pos": "phrasal verb", "en": "to fall to a lower place", "hu": "leesik, legurul", "tip": "Rendhagyó ige: fall – fell – fallen." },
       { "forms": ["broke"], "lemma": "break", "pos": "verb", "en": "to damage a bone so that it cracks", "hu": "eltör (csontot)", "tip": "Rendhagyó ige: break – broke – broken." }
+    ],
+    "2014-maj-kozep-L1": [
+      { "forms": ["majority"], "lemma": "majority", "pos": "noun", "en": "most of the people or things in a group", "hu": "többség" },
+      { "forms": ["salary"], "lemma": "salary", "pos": "noun", "en": "the money that you get for your job, usually every month", "hu": "fizetés" },
+      { "forms": ["realized his dream"], "lemma": "realize your dream", "pos": "phrase", "en": "to make something that you wanted very much really happen", "hu": "valóra váltotta az álmát" },
+      { "forms": ["launch"], "lemma": "launch", "pos": "noun", "en": "the time when a new product is first shown and offered for sale", "hu": "piacra dobás, bevezetés" },
+      { "forms": ["revolutionary"], "lemma": "revolutionary", "pos": "adjective", "en": "bringing a very big and important change", "hu": "forradalmi" },
+      { "forms": ["mass production"], "lemma": "mass production", "pos": "noun", "en": "making very large numbers of the same product in a factory", "hu": "tömeggyártás" },
+      { "forms": ["component"], "lemma": "component", "pos": "noun", "en": "one of the parts that a machine is made of", "hu": "alkatrész" },
+      { "forms": ["constructed"], "lemma": "construct", "pos": "verb", "en": "to build something by putting its parts together", "hu": "megépít, összeszerel" },
+      { "forms": ["production line"], "lemma": "production line", "pos": "noun", "en": "a line of workers and machines in a factory; each does one job as the product moves along", "hu": "futószalag, gyártósor" },
+      { "forms": ["systematically"], "lemma": "systematically", "pos": "adverb", "en": "in a carefully organised way, following a fixed plan", "hu": "módszeresen, szervezetten" },
+      { "forms": ["claimed"], "lemma": "claim", "pos": "verb", "en": "to say that something is true, even if others may not believe it", "hu": "állít" },
+      { "forms": ["as long as"], "lemma": "as long as", "pos": "conjunction", "en": "only if", "hu": "feltéve, hogy; csak ha" }
+    ],
+    "2014-maj-kozep-L2": [
+      { "forms": ["in principle"], "lemma": "in principle", "pos": "phrase", "en": "in theory; according to the rules", "hu": "elvben, elvileg" },
+      { "forms": ["safeguarding"], "lemma": "safeguard", "pos": "verb", "en": "to protect something from harm or loss", "hu": "őriz, megvéd" },
+      { "forms": ["crown jewels"], "lemma": "crown jewels", "pos": "noun", "en": "the crown and other valuable objects worn by a king or queen at important ceremonies", "hu": "koronaékszerek" },
+      { "forms": ["in practice"], "lemma": "in practice", "pos": "phrase", "en": "what really happens, not what should happen in theory", "hu": "a gyakorlatban, valójában" },
+      { "forms": ["in their own right"], "lemma": "in your own right", "pos": "phrase", "en": "because of what they are themselves, not because of something else", "hu": "önmagukban is, saját jogon" },
+      { "forms": ["fortress"], "lemma": "fortress", "pos": "noun", "en": "a large, strong building built to protect a place from attack", "hu": "erőd, vár" },
+      { "forms": ["fascinate"], "lemma": "fascinate", "pos": "verb", "en": "to interest someone very much", "hu": "lenyűgöz, elbűvöl" },
+      { "forms": ["passed on"], "lemma": "pass on", "pos": "phrasal verb", "en": "to give or tell something to people who live later", "hu": "továbbad, áthagyományoz" },
+      { "forms": ["bodyguard"], "lemma": "bodyguard", "pos": "noun", "en": "a group of soldiers or a person whose job is to protect an important person", "hu": "testőrség, testőr" },
+      { "forms": ["ancestors"], "lemma": "ancestor", "pos": "noun", "en": "a person who lived before you and from whom you come", "hu": "ős, előd" },
+      { "forms": ["nickname"], "lemma": "nickname", "pos": "noun", "en": "an informal name that people use instead of the real name", "hu": "becenév, gúnynév" },
+      { "forms": ["probable"], "lemma": "probable", "pos": "adjective", "en": "likely to be true", "hu": "valószínű" },
+      { "forms": ["chunks"], "lemma": "chunk", "pos": "noun", "en": "a large, thick piece of something", "hu": "(nagy) darab" }
+    ],
+    "2014-maj-kozep-L3": [
+      { "forms": ["liberty"], "lemma": "liberty", "pos": "noun", "en": "being free to live and think as you want", "hu": "szabadság" },
+      { "forms": ["harbor"], "lemma": "harbor", "pos": "noun", "en": "an area of water near the land where ships can stay safely", "hu": "kikötő", "tip": "Brit helyesírással: harbour." },
+      { "forms": ["immigrants"], "lemma": "immigrant", "pos": "noun", "en": "a person who comes to live in a new country", "hu": "bevándorló" },
+      { "forms": ["dictator-like"], "lemma": "dictator-like", "pos": "adjective", "en": "ruling a country with total power, like a dictator", "hu": "diktátorszerű, zsarnoki" },
+      { "forms": ["emperor"], "lemma": "emperor", "pos": "noun", "en": "the male ruler of an empire", "hu": "császár" },
+      { "forms": ["monument"], "lemma": "monument", "pos": "noun", "en": "a large statue or building made to remember a person or an idea", "hu": "emlékmű" },
+      { "forms": ["strengthen"], "lemma": "strengthen", "pos": "verb", "en": "to make something stronger", "hu": "megerősít" },
+      { "forms": ["demands"], "lemma": "demand", "pos": "noun", "en": "a strong request for something", "hu": "követelés, igény" },
+      { "forms": ["sculptor"], "lemma": "sculptor", "pos": "noun", "en": "an artist who makes statues", "hu": "szobrász" },
+      { "forms": ["torch"], "lemma": "torch", "pos": "noun", "en": "a long stick with fire at one end, carried to give light", "hu": "fáklya" },
+      { "forms": ["pedestal"], "lemma": "pedestal", "pos": "noun", "en": "the base that a statue stands on", "hu": "talapzat" },
+      { "forms": ["raised money"], "lemma": "raise money", "pos": "phrase", "en": "to collect money for a purpose", "hu": "pénzt gyűjtött" },
+      { "forms": ["taken apart"], "lemma": "take apart", "pos": "phrasal verb", "en": "to separate something into its pieces", "hu": "szétszed" },
+      { "forms": ["shipped"], "lemma": "ship", "pos": "verb", "en": "to send something by ship", "hu": "hajón szállít" },
+      { "forms": ["dedicated"], "lemma": "dedicate", "pos": "verb", "en": "to open a building or monument officially at a ceremony", "hu": "(ünnepélyesen) felavat" },
+      { "forms": ["rays"], "lemma": "ray", "pos": "noun", "en": "a line of light; here: a pointed part of the crown that looks like one", "hu": "sugár" }
+    ],
+    "2014-maj-kozep-H1": [
+      { "forms": ["besides"], "lemma": "besides", "pos": "preposition", "en": "in addition to", "hu": "azon kívül, hogy; mellett" },
+      { "forms": ["bogus"], "lemma": "bogus", "pos": "adjective", "en": "not real or true, made to trick people", "hu": "hamis, kamu" },
+      { "forms": ["promotes"], "lemma": "promote", "pos": "verb", "en": "to help something become known or popular", "hu": "népszerűsít, terjeszt" },
+      { "forms": ["victim"], "lemma": "victim", "pos": "noun", "en": "a person who something bad or unpleasant happens to", "hu": "áldozat" },
+      { "forms": ["prank"], "lemma": "prank", "pos": "noun", "en": "a trick that you play on someone to make others laugh", "hu": "csíny, ugratás, tréfa" },
+      { "forms": ["tape"], "lemma": "tape", "pos": "verb", "en": "to fix something to a surface with a long sticky strip", "hu": "ragasztószalaggal felragaszt" },
+      { "forms": ["supposed to"], "lemma": "be supposed to", "pos": "phrase", "en": "to be expected to do something", "hu": "kellene, az a dolga, hogy" },
+      { "forms": ["involve"], "lemma": "involve", "pos": "verb", "en": "to include something as a part", "hu": "magában foglal, jár valamivel" }
+    ],
+    "2014-maj-kozep-H2": [
+      { "forms": ["rescued"], "lemma": "rescue", "pos": "verb", "en": "to save someone from a dangerous or bad situation", "hu": "megment, kiment" },
+      { "forms": ["in spite of"], "lemma": "in spite of", "pos": "preposition", "en": "even though something is true", "hu": "ellenére, dacára", "tip": "Utána főnév vagy -ing alak áll: in spite of the rain." },
+      { "forms": ["cage"], "lemma": "cage", "pos": "noun", "en": "a box made of metal bars, for keeping animals", "hu": "ketrec" },
+      { "forms": ["animal welfare campaigners"], "lemma": "animal welfare campaigner", "pos": "noun", "en": "people who work to protect animals from bad treatment", "hu": "állatvédők, állatvédő aktivisták" },
+      { "forms": ["territory"], "lemma": "territory", "pos": "noun", "en": "the area that an animal thinks of as its own", "hu": "terület, territórium" },
+      { "forms": ["cubs"], "lemma": "cub", "pos": "noun", "en": "a young lion, bear or wolf", "hu": "kölyök (oroszláné, medvéé)" },
+      { "forms": ["lionesses"], "lemma": "lioness", "pos": "noun", "en": "a female lion", "hu": "nőstény oroszlán" },
+      { "forms": ["food poisoning"], "lemma": "food poisoning", "pos": "noun", "en": "an illness caused by eating bad food", "hu": "ételmérgezés" }
+    ],
+    "2014-maj-kozep-H3": [
+      { "forms": ["go off"], "lemma": "go off", "pos": "phrasal verb", "en": "to leave a place in order to do something", "hu": "elmegy, távozik" }
     ]
   }
 }

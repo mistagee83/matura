@@ -192,6 +192,54 @@
       { "forms": ["allowed me the chance"], "lemma": "allow someone the chance", "pos": "phrase", "en": "to give someone the opportunity", "hu": "lehetőséget adott nekem" },
       { "forms": ["a reality"], "lemma": "make something a reality", "pos": "phrase", "en": "to make something really happen", "hu": "valóra váltja, megvalósítja" },
       { "forms": ["onstage"], "lemma": "onstage", "pos": "adverb", "en": "on the stage, in front of an audience", "hu": "a színpadon" }
+    ],
+    "2006-okt-kozep-L2": [
+      { "forms": ["whistle"], "lemma": "whistle", "pos": "noun", "en": "a small object that you blow into to make a high, loud sound", "hu": "síp" },
+      { "forms": ["detectors"], "lemma": "detector", "pos": "noun", "en": "a machine that finds hidden objects under the ground", "hu": "kereső, detektor (műszer)" },
+      { "forms": ["gathering"], "lemma": "gathering", "pos": "noun", "en": "a meeting of a group of people", "hu": "összejövetel, találkozó" },
+      { "forms": ["engraved"], "lemma": "engrave", "pos": "verb", "en": "to cut words or pictures into a hard surface", "hu": "gravíroz, vés" },
+      { "forms": ["motifs"], "lemma": "motif", "pos": "noun", "en": "a picture or pattern used as a decoration", "hu": "minta, díszítőelem" },
+      { "forms": ["thoroughly"], "lemma": "thoroughly", "pos": "adverb", "en": "very carefully, looking at every detail", "hu": "alaposan" },
+      { "forms": ["archeologists"], "lemma": "archeologist", "pos": "noun", "en": "a person who studies very old objects and buildings to learn about the past", "hu": "régész" },
+      { "forms": ["pomegranates"], "lemma": "pomegranate", "pos": "noun", "en": "a round red fruit with a lot of seeds inside", "hu": "gránátalma" },
+      { "forms": ["emblem"], "lemma": "emblem", "pos": "noun", "en": "a picture or object that represents a person, family or country", "hu": "jelkép, címer" },
+      { "forms": ["soil"], "lemma": "soil", "pos": "noun", "en": "the top part of the ground, where plants grow", "hu": "talaj, föld" },
+      { "forms": ["cannon"], "lemma": "cannon", "pos": "noun", "en": "a big old gun on wheels that fires heavy balls", "hu": "ágyú" },
+      { "forms": ["coroner’s officer"], "lemma": "coroner’s officer", "pos": "noun", "en": "an official who decides what happens to old treasure that people find", "hu": "a halottkémi hivatal tisztviselője (a talált kincsek ügyében is eljár)" },
+      { "forms": ["antique"], "lemma": "antique", "pos": "adjective", "en": "old and valuable", "hu": "antik, régi" },
+      { "forms": ["indicated"], "lemma": "indicate", "pos": "verb", "en": "to show or say that something is true", "hu": "jelez, utal rá" }
+    ],
+    "2006-okt-kozep-L3": [
+      { "forms": ["sums up"], "lemma": "sum up", "pos": "phrasal verb", "en": "to describe the main idea of something in a few words", "hu": "összefoglal, jól jellemez" },
+      { "forms": ["remote"], "lemma": "remote", "pos": "adjective", "en": "far away from other places and people", "hu": "távoli, eldugott" },
+      { "forms": ["breaks apart"], "lemma": "break apart", "pos": "phrasal verb", "en": "to break into several pieces", "hu": "darabokra törik, széthullik" },
+      { "forms": ["in mid-air"], "lemma": "in mid-air", "pos": "phrase", "en": "high up in the sky, while flying", "hu": "a levegőben, repülés közben" },
+      { "forms": ["survivors"], "lemma": "survivor", "pos": "noun", "en": "a person who is still alive after an accident", "hu": "túlélő" },
+      { "forms": ["reflect"], "lemma": "reflect", "pos": "verb", "en": "to show what someone feels or thinks", "hu": "tükröz, kifejez" },
+      { "forms": ["anxiety"], "lemma": "anxiety", "pos": "noun", "en": "a strong feeling of worry", "hu": "szorongás, aggodalom" },
+      { "forms": ["hopelessness"], "lemma": "hopelessness", "pos": "noun", "en": "the feeling that nothing good will happen", "hu": "reménytelenség" },
+      { "forms": ["wounded"], "lemma": "wounded", "pos": "noun", "en": "people who are hurt, for example in an accident", "hu": "sebesültek", "tip": "A the wounded többes számú főnévként áll: a sebesültek." },
+      { "forms": ["takes the initiative"], "lemma": "take the initiative", "pos": "phrase", "en": "to be the first to act or decide what to do", "hu": "magához ragadja a kezdeményezést, kezdeményez" },
+      { "forms": ["nominated"], "lemma": "nominate", "pos": "verb", "en": "to choose a film or person as one of the possible winners of a prize", "hu": "jelöl (díjra)" },
+      { "forms": ["suspense"], "lemma": "suspense", "pos": "noun", "en": "the exciting feeling when you are waiting to learn what will happen", "hu": "feszültség, izgalom" },
+      { "forms": ["horrifying"], "lemma": "horrifying", "pos": "adjective", "en": "very frightening and shocking", "hu": "rémisztő, borzalmas" }
+    ],
+    "2006-okt-kozep-H1": [
+      { "forms": ["theoretical physics"], "lemma": "theoretical physics", "pos": "noun", "en": "the part of science that uses ideas and mathematics to explain how the world works", "hu": "elméleti fizika" },
+      { "forms": ["toured"], "lemma": "tour", "pos": "verb", "en": "to travel to many places one after the other", "hu": "körutat tesz, végigjár" },
+      { "forms": ["chauffeur"], "lemma": "chauffeur", "pos": "noun", "en": "a person whose job is to drive someone’s car", "hu": "sofőr (magánsofőr)" },
+      { "forms": ["complex"], "lemma": "complex", "pos": "adjective", "en": "with many parts, so difficult to understand", "hu": "bonyolult, összetett" },
+      { "forms": ["equations"], "lemma": "equation", "pos": "noun", "en": "a statement in mathematics that two things are equal, for example 2x = 6", "hu": "egyenlet" }
+    ],
+    "2006-okt-kozep-H2": [
+      { "forms": ["news item"], "lemma": "news item", "pos": "noun", "en": "one report in the news", "hu": "hír" },
+      { "forms": ["bay"], "lemma": "bay", "pos": "noun", "en": "a part of the sea where the land curves around the water", "hu": "öböl" },
+      { "forms": ["considered"], "lemma": "consider", "pos": "verb", "en": "to think that something is true about someone or something", "hu": "tart valaminek", "tip": "Itt szenvedő szerkezetben: is considered dangerous = veszélyesnek tartják." },
+      { "forms": ["raised"], "lemma": "raise", "pos": "verb", "en": "to collect money for people who need help", "hu": "gyűjt (pénzt)" }
+    ],
+    "2006-okt-kozep-H3": [
+      { "forms": ["plays an important role"], "lemma": "play an important role", "pos": "phrase", "en": "to be very important in something", "hu": "fontos szerepet játszik" },
+      { "forms": ["smuggled out"], "lemma": "smuggle out", "pos": "phrasal verb", "en": "to take something out of a country secretly and illegally", "hu": "kicsempész" }
     ]
   }
 }

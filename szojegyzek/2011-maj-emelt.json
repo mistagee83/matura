@@ -268,6 +268,65 @@
       { "forms": ["type in"], "lemma": "type in", "pos": "phrasal verb", "en": "to write words using a keyboard", "hu": "beír, begépel" },
       { "forms": ["actually"], "lemma": "actually", "pos": "adverb", "en": "in fact; really", "hu": "valójában, tulajdonképpen" },
       { "forms": ["separating"], "lemma": "separate", "pos": "verb", "en": "to become divided", "hu": "elválik, leválik" }
+    ],
+    "2011-maj-emelt-L1": [
+      { "forms": ["steeped in history"], "lemma": "steeped in history", "pos": "phrase", "en": "having a very long and rich history that you can feel everywhere", "hu": "történelemmel átitatott" },
+      { "forms": ["reflected"], "lemma": "reflect", "pos": "verb", "en": "to show what something is like", "hu": "tükröz, visszatükröz" },
+      { "forms": ["underrated"], "lemma": "underrated", "pos": "adjective", "en": "better than most people think", "hu": "alábecsült" },
+      { "forms": ["downing a pint"], "lemma": "down a pint", "pos": "phrase", "en": "to drink a large glass of beer quickly", "hu": "lehajt egy korsó sört" },
+      { "forms": ["cliff"], "lemma": "cliff", "pos": "noun", "en": "a high, steep rock by the sea", "hu": "szikla, sziklafal" },
+      { "forms": ["myth"], "lemma": "myth", "pos": "noun", "en": "something that many people believe but that is not true", "hu": "mítosz, tévhit" },
+      { "forms": ["outstretched"], "lemma": "outstretched", "pos": "adjective", "en": "held out towards someone", "hu": "kinyújtott (kéz)" },
+      { "forms": ["sing-song"], "lemma": "sing-song", "pos": "noun", "en": "an informal occasion when people sing songs together", "hu": "közös éneklés, nótázás" },
+      { "forms": ["pub grub"], "lemma": "pub grub", "pos": "noun", "en": "(informal) simple food that you can buy in a pub", "hu": "kocsmakaja" },
+      { "forms": ["Gaelic"], "lemma": "Gaelic", "pos": "noun", "en": "the old Celtic language of Ireland", "hu": "gael (ír) nyelv" },
+      { "forms": ["renewed"], "lemma": "renewed", "pos": "adjective", "en": "starting again after a pause, often stronger than before", "hu": "megújult, újjáéledt" }
+    ],
+    "2011-maj-emelt-L2": [
+      { "forms": ["owed"], "lemma": "owe", "pos": "verb", "en": "to have something because of what someone or something else did before", "hu": "köszönhet valaminek" },
+      { "forms": ["pioneering"], "lemma": "pioneering", "pos": "adjective", "en": "among the first of its kind", "hu": "úttörő" },
+      { "forms": ["horse carts"], "lemma": "horse cart", "pos": "noun", "en": "a vehicle with wheels that a horse pulls", "hu": "lovaskocsi" },
+      { "forms": ["notoriously"], "lemma": "notoriously", "pos": "adverb", "en": "in a way that is well known for being bad", "hu": "hírhedten, közismerten (rossz)" },
+      { "forms": ["breakdown"], "lemma": "breakdown", "pos": "noun", "en": "a time when a car stops working", "hu": "lerobbanás, meghibásodás" },
+      { "forms": ["hazards"], "lemma": "hazard", "pos": "noun", "en": "something that can be dangerous", "hu": "veszélyforrás" },
+      { "forms": ["potholes"], "lemma": "pothole", "pos": "noun", "en": "a hole in the surface of a road", "hu": "kátyú" },
+      { "forms": ["sharp bends"], "lemma": "sharp bend", "pos": "noun", "en": "a place where a road suddenly turns", "hu": "éles kanyar" },
+      { "forms": ["stray animals"], "lemma": "stray animal", "pos": "noun", "en": "animals that have no home or have got lost", "hu": "kóbor állat" },
+      { "forms": ["outing"], "lemma": "outing", "pos": "noun", "en": "a short trip for pleasure", "hu": "kiruccanás, kirándulás" },
+      { "forms": ["unwary"], "lemma": "unwary", "pos": "adjective", "en": "not careful and not noticing danger", "hu": "óvatlan, gyanútlan" },
+      { "forms": ["horns"], "lemma": "horn", "pos": "noun", "en": "the thing in a car that makes a loud noise as a warning", "hu": "duda, kürt (autóé)" },
+      { "forms": ["compulsory"], "lemma": "compulsory", "pos": "adjective", "en": "that you must do or have because of a law", "hu": "kötelező" },
+      { "forms": ["fined"], "lemma": "fine", "pos": "verb", "en": "to make someone pay money as a punishment", "hu": "megbírságol" },
+      { "forms": ["ventured out"], "lemma": "venture out", "pos": "phrasal verb", "en": "to go outside although it may be dangerous", "hu": "kimerészkedik" },
+      { "forms": ["inherited"], "lemma": "inherit", "pos": "verb", "en": "to get something from people or things that came before", "hu": "örököl, átvesz" },
+      { "forms": ["dim"], "lemma": "dim", "pos": "adjective", "en": "not bright", "hu": "halvány, gyenge (fény)" },
+      { "forms": ["fitted as standard"], "lemma": "fit as standard", "pos": "phrase", "en": "to be put into every new car, not as an extra", "hu": "alapfelszereltségként beszerel" }
+    ],
+    "2011-maj-emelt-L3": [
+      { "forms": ["outlet"], "lemma": "outlet", "pos": "noun", "en": "a shop or restaurant that belongs to a big company", "hu": "egység, üzlet (láncé)" },
+      { "forms": ["fast-food chain"], "lemma": "fast-food chain", "pos": "noun", "en": "a group of fast-food restaurants that belong to one company", "hu": "gyorsétteremlánc" },
+      { "forms": ["district court"], "lemma": "district court", "pos": "noun", "en": "a court for a local area", "hu": "járásbíróság, helyi bíróság" },
+      { "forms": ["written warning"], "lemma": "written warning", "pos": "noun", "en": "a letter from an employer saying that a worker has done something wrong", "hu": "írásbeli figyelmeztetés" },
+      { "forms": ["staff rules"], "lemma": "staff rules", "pos": "noun", "en": "the rules that the workers of a company must follow", "hu": "munkahelyi szabályzat" },
+      { "forms": ["severe"], "lemma": "severe", "pos": "adjective", "en": "very strict or serious", "hu": "szigorú, súlyos" },
+      { "forms": ["measure"], "lemma": "measure", "pos": "noun", "en": "an action that someone takes to deal with a problem", "hu": "intézkedés, lépés" },
+      { "forms": ["net profits"], "lemma": "net profit", "pos": "noun", "en": "the money a company earns after it has paid all its costs", "hu": "nettó nyereség" }
+    ],
+    "2011-maj-emelt-H1": [
+      { "forms": ["paranormal"], "lemma": "paranormal", "pos": "adjective", "en": "that cannot be explained by science, for example ghosts", "hu": "természetfeletti, paranormális" },
+      { "forms": ["mine road"], "lemma": "mine road", "pos": "noun", "en": "a road that leads to a mine, a place where people dig for coal, gold or other metals", "hu": "bányához vezető út" }
+    ],
+    "2011-maj-emelt-H2": [
+      { "forms": ["Lost & Found Departments"], "lemma": "lost and found department", "pos": "noun", "en": "the office where things that people have lost are kept", "hu": "talált tárgyak osztálya" },
+      { "forms": ["smashing"], "lemma": "smash", "pos": "verb", "en": "to break something into pieces violently", "hu": "összetör, szétver" },
+      { "forms": ["witnessed"], "lemma": "witness", "pos": "verb", "en": "to see something happen", "hu": "szemtanúja (valaminek)" },
+      { "forms": ["deny"], "lemma": "deny", "pos": "verb", "en": "to say that something is not true", "hu": "tagad, letagad" },
+      { "forms": ["complaints procedure"], "lemma": "complaints procedure", "pos": "noun", "en": "the official way to make a complaint to a company", "hu": "panaszeljárás, reklamáció" },
+      { "forms": ["come out with"], "lemma": "come out with", "pos": "phrasal verb", "en": "to make something new and show it to the public", "hu": "előáll valamivel, megjelentet" },
+      { "forms": ["shareholders"], "lemma": "shareholder", "pos": "noun", "en": "a person who owns part of a company", "hu": "részvényes" }
+    ],
+    "2011-maj-emelt-H3": [
+      { "forms": ["boarding school"], "lemma": "boarding school", "pos": "noun", "en": "a school where students live during the school year", "hu": "bentlakásos iskola, kollégiumi iskola" }
     ]
   }
 }

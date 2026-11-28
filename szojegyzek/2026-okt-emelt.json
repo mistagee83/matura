@@ -232,6 +232,63 @@
       { "forms": ["enhances"], "lemma": "enhance", "pos": "verb", "en": "to make something stronger or better", "hu": "fokoz, felerősít" },
       { "forms": ["in the same way"], "lemma": "in the same way", "pos": "phrase", "en": "similarly", "hu": "ugyanúgy" },
       { "forms": ["jogging"], "lemma": "jog", "pos": "verb", "en": "to run slowly for exercise", "hu": "kocog" }
+    ],
+    "2026-okt-emelt-L1": [
+      { "forms": ["sighed"], "lemma": "sigh", "pos": "verb", "en": "to breathe out slowly and loudly, often because you are sad or happy", "hu": "sóhajt" },
+      { "forms": ["wistfully"], "lemma": "wistfully", "pos": "adverb", "en": "in a slightly sad way, thinking about something you liked", "hu": "sóvárogva, elmerengve" },
+      { "forms": ["isle"], "lemma": "isle", "pos": "noun", "en": "an island (used in names and poetry)", "hu": "sziget" },
+      { "forms": ["off the coast of"], "lemma": "off the coast of", "pos": "phrase", "en": "in the sea, not far from the land", "hu": "valaminek a partjainál, a part közelében" },
+      { "forms": ["wandered off"], "lemma": "wander off", "pos": "phrasal verb", "en": "to walk away slowly, without hurrying", "hu": "elkóborol, elsétál" },
+      { "forms": ["hemisphere"], "lemma": "hemisphere", "pos": "noun", "en": "one half of the earth", "hu": "félteke" },
+      { "forms": ["idyllic"], "lemma": "idyllic", "pos": "adjective", "en": "very peaceful and beautiful", "hu": "idilli" },
+      { "forms": ["nostalgic"], "lemma": "nostalgic", "pos": "adjective", "en": "making you think happily about the past", "hu": "nosztalgikus" },
+      { "forms": ["care-free"], "lemma": "care-free", "pos": "adjective", "en": "without any worries", "hu": "gondtalan" },
+      { "forms": ["well-kept secret"], "lemma": "well-kept secret", "pos": "phrase", "en": "something that only a few people know about", "hu": "jól őrzött titok" },
+      { "forms": ["fuzzy-faced"], "lemma": "fuzzy-faced", "pos": "adjective", "en": "having a face covered with short soft hair", "hu": "szőrös pofijú, bolyhos arcú" },
+      { "forms": ["dubbed"], "lemma": "dub", "pos": "verb", "en": "to give someone or something a name", "hu": "elnevez, kikiált valaminek" },
+      { "forms": ["marsupials"], "lemma": "marsupial", "pos": "noun", "en": "an animal that carries its babies in a pocket on its body", "hu": "erszényes állat" },
+      { "forms": ["pocket"], "lemma": "pocket", "pos": "noun", "en": "here: a small area", "hu": "kis terület, zug" },
+      { "forms": ["staged"], "lemma": "staged", "pos": "adjective", "en": "arranged in advance, not natural", "hu": "beállított, megrendezett" },
+      { "forms": ["the hottest ticket in town"], "lemma": "the hottest ticket in town", "pos": "idiom", "en": "the thing or place that everyone wants to see", "hu": "a legfelkapottabb hely" },
+      { "forms": ["sensation"], "lemma": "sensation", "pos": "noun", "en": "something that makes many people very excited", "hu": "szenzáció" }
+    ],
+    "2026-okt-emelt-L2": [
+      { "forms": ["capture"], "lemma": "capture", "pos": "verb", "en": "to show something very well", "hu": "megragad, híven tükröz" },
+      { "forms": ["roots"], "lemma": "root", "pos": "noun", "en": "the place or time where something started", "hu": "gyökér, eredet" },
+      { "forms": ["marinated"], "lemma": "marinate", "pos": "verb", "en": "to leave meat in a liquid with spices before cooking it", "hu": "pácol" },
+      { "forms": ["fiery"], "lemma": "fiery", "pos": "adjective", "en": "very hot, like fire", "hu": "tüzes, izzó" },
+      { "forms": ["smoky"], "lemma": "smoky", "pos": "adjective", "en": "tasting of smoke", "hu": "füstös ízű" },
+      { "forms": ["postwar"], "lemma": "postwar", "pos": "adjective", "en": "in the time after a war, here after 1945", "hu": "háború utáni" },
+      { "forms": ["mild"], "lemma": "mild", "pos": "adjective", "en": "not strong or hot in taste", "hu": "enyhe, nem csípős" },
+      { "forms": ["alchemy"], "lemma": "alchemy", "pos": "noun", "en": "a process that changes something in a magical way", "hu": "alkímia, varázslatos átalakulás" },
+      { "forms": ["gastronomic"], "lemma": "gastronomic", "pos": "adjective", "en": "connected with cooking and good food", "hu": "gasztronómiai" },
+      { "forms": ["dissatisfied"], "lemma": "dissatisfied", "pos": "adjective", "en": "not happy with something", "hu": "elégedetlen" },
+      { "forms": ["tin"], "lemma": "tin", "pos": "noun", "en": "a closed metal container for food", "hu": "konzervdoboz", "tip": "Brit angol; amerikaiul can." },
+      { "forms": ["ladling"], "lemma": "ladle", "pos": "verb", "en": "to put soup or sauce on food with a big spoon", "hu": "merőkanállal rámer" },
+      { "forms": ["provocative"], "lemma": "provocative", "pos": "adjective", "en": "making people angry or causing argument", "hu": "provokatív, vitát kiváltó" },
+      { "forms": ["fitting"], "lemma": "fitting", "pos": "adjective", "en": "right for the situation", "hu": "találó, illő" }
+    ],
+    "2026-okt-emelt-L3": [
+      { "forms": ["worked his way up"], "lemma": "work your way up", "pos": "phrase", "en": "to move to better jobs step by step", "hu": "felküzdi magát" },
+      { "forms": ["hospitality"], "lemma": "hospitality", "pos": "noun", "en": "the business of hotels and restaurants", "hu": "vendéglátás" },
+      { "forms": ["partnered"], "lemma": "partner", "pos": "verb", "en": "to work together with someone in business", "hu": "társul" },
+      { "forms": ["approached"], "lemma": "approach", "pos": "verb", "en": "to speak to someone with an offer or request", "hu": "megkeres (ajánlattal)" },
+      { "forms": ["proposal"], "lemma": "proposal", "pos": "noun", "en": "a plan or idea that you offer to someone", "hu": "ajánlat, javaslat" },
+      { "forms": ["dining establishments"], "lemma": "dining establishment", "pos": "noun", "en": "a restaurant or other place where people eat", "hu": "étkezőhely, vendéglő" },
+      { "forms": ["hash brown potatoes"], "lemma": "hash brown potatoes", "pos": "noun", "en": "small pieces of potato fried until brown", "hu": "tócsni, rösztiburgonya" },
+      { "forms": ["stack"], "lemma": "stack", "pos": "noun", "en": "a pile of things on top of each other", "hu": "halom, rakás" },
+      { "forms": ["pan-sized"], "lemma": "pan-sized", "pos": "adjective", "en": "as big as a frying pan", "hu": "serpenyőnyi" },
+      { "forms": ["maple syrup"], "lemma": "maple syrup", "pos": "noun", "en": "a sweet brown liquid made from a tree, eaten on pancakes", "hu": "juharszirup" },
+      { "forms": ["depot"], "lemma": "depot", "pos": "noun", "en": "a small railway station (American English)", "hu": "állomás, megálló" },
+      { "forms": ["dining cars"], "lemma": "dining car", "pos": "noun", "en": "a part of a train where passengers can eat", "hu": "étkezőkocsi" },
+      { "forms": ["in motion"], "lemma": "in motion", "pos": "phrase", "en": "moving", "hu": "mozgásban, menet közben" }
+    ],
+    "2026-okt-emelt-H3": [
+      { "forms": ["bullied"], "lemma": "bully", "pos": "verb", "en": "to hurt or frighten a weaker person again and again", "hu": "bántalmaz, terrorizál" },
+      { "forms": ["shot", "shooting"], "lemma": "shoot", "pos": "verb", "en": "to make a film", "hu": "forgat (filmet)" },
+      { "forms": ["generated"], "lemma": "generate", "pos": "verb", "en": "to produce or make", "hu": "előállít, létrehoz" },
+      { "forms": ["long since"], "lemma": "long since", "pos": "phrase", "en": "a long time ago", "hu": "már régen" },
+      { "forms": ["stuttered"], "lemma": "stutter", "pos": "verb", "en": "to have difficulty speaking, so that you repeat the first sounds of words", "hu": "dadog" }
     ]
   }
 }

@@ -240,6 +240,72 @@
       { "forms": ["that can be it"], "lemma": "that's it", "pos": "idiom", "en": "here: that can be the end; you can die", "hu": "annyi, ott vége lehet" },
       { "forms": ["nurse"], "lemma": "nurse", "pos": "noun", "en": "a person who looks after ill people in hospital", "hu": "ápoló(nő)" },
       { "forms": ["information technology"], "lemma": "information technology", "pos": "noun", "en": "the use of computers to store and send information", "hu": "informatika" }
+    ],
+    "2008-maj-emelt-L1": [
+      { "forms": ["celebrities"], "lemma": "celebrity", "pos": "noun", "en": "a famous person", "hu": "híresség, sztár" },
+      { "forms": ["offspring"], "lemma": "offspring", "pos": "noun", "en": "a person’s children", "hu": "utód, gyerek", "tip": "Egyes és többes számban is offspring." },
+      { "forms": ["offender"], "lemma": "offender", "pos": "noun", "en": "a person who does something wrong", "hu": "bűnös, elkövető (itt tréfásan)" },
+      { "forms": ["newborn"], "lemma": "newborn", "pos": "adjective", "en": "born very recently", "hu": "újszülött" },
+      { "forms": ["second opinion"], "lemma": "second opinion", "pos": "noun", "en": "the view of another person, to check if the first view was right", "hu": "másik vélemény, második szakvélemény" },
+      { "forms": ["spell them out"], "lemma": "spell out", "pos": "phrasal verb", "en": "to say the letters of a word one by one", "hu": "betűz, kibetűz" },
+      { "forms": ["desk clerks"], "lemma": "desk clerk", "pos": "noun", "en": "a person who works at the front desk of a hotel or office", "hu": "recepciós, ügyintéző" },
+      { "forms": ["lifetime"], "lemma": "lifetime", "pos": "noun", "en": "the whole time that a person is alive", "hu": "egész élet" },
+      { "forms": ["measures"], "lemma": "measure", "pos": "noun", "en": "an official action to solve a problem", "hu": "intézkedés" },
+      { "forms": ["vital statistics"], "lemma": "vital statistics", "pos": "noun", "en": "official records of births, marriages and deaths", "hu": "anyakönyvi nyilvántartás" },
+      { "forms": ["endanger"], "lemma": "endanger", "pos": "verb", "en": "to put someone in danger", "hu": "veszélyeztet" },
+      { "forms": ["well-being"], "lemma": "well-being", "pos": "noun", "en": "being healthy and happy", "hu": "jólét, jóllét" },
+      { "forms": ["violation"], "lemma": "violation", "pos": "noun", "en": "an action that breaks a law or a right", "hu": "megsértés" },
+      { "forms": ["civil rights"], "lemma": "civil rights", "pos": "noun", "en": "the rights that every citizen of a country should have", "hu": "polgári jogok" },
+      { "forms": ["convictions"], "lemma": "conviction", "pos": "noun", "en": "a strong belief or opinion", "hu": "meggyőződés" },
+      { "forms": ["carry on"], "lemma": "carry on", "pos": "phrasal verb", "en": "here: to behave in a wild or silly way", "hu": "viselkedik (féktelenül), garázdálkodik" }
+    ],
+    "2008-maj-emelt-L2": [
+      { "forms": ["possessions"], "lemma": "possession", "pos": "noun", "en": "a thing that you own", "hu": "holmi, tulajdon" },
+      { "forms": ["briefcases"], "lemma": "briefcase", "pos": "noun", "en": "a flat bag for carrying papers to work", "hu": "aktatáska" },
+      { "forms": ["tempting"], "lemma": "tempt", "pos": "verb", "en": "to make someone want to do something, often something bad", "hu": "csábít, kísértésbe visz" },
+      { "forms": ["break-in"], "lemma": "break-in", "pos": "noun", "en": "entering a car or building illegally to steal something", "hu": "betörés" },
+      { "forms": ["plain view"], "lemma": "plain view", "pos": "noun", "en": "a place where everyone can easily see something", "hu": "jól látható hely" },
+      { "forms": ["loose change"], "lemma": "loose change", "pos": "noun", "en": "coins that you have in your pocket or bag", "hu": "aprópénz" },
+      { "forms": ["out of sight"], "lemma": "out of sight", "pos": "phrase", "en": "where nobody can see it", "hu": "szem elől elrejtve, nem látható helyen" },
+      { "forms": ["removable"], "lemma": "removable", "pos": "adjective", "en": "that you can take off", "hu": "levehető, kivehető" },
+      { "forms": ["feature"], "lemma": "feature", "pos": "noun", "en": "a useful part of a machine", "hu": "funkció, tulajdonság" },
+      { "forms": ["fitted"], "lemma": "fit", "pos": "verb", "en": "to put a machine in its place so that it works", "hu": "beszerel" },
+      { "forms": ["serial number"], "lemma": "serial number", "pos": "noun", "en": "the number that a machine gets in the factory", "hu": "sorozatszám, gyári szám" }
+    ],
+    "2008-maj-emelt-L3": [
+      { "forms": ["cautioned"], "lemma": "caution", "pos": "verb", "en": "to tell people to be careful about something", "hu": "óva int" },
+      { "forms": ["musicality"], "lemma": "musicality", "pos": "noun", "en": "the quality of being like music", "hu": "zeneiség" },
+      { "forms": ["whales"], "lemma": "whale", "pos": "noun", "en": "a very large animal that lives in the sea", "hu": "bálna" },
+      { "forms": ["nightingales"], "lemma": "nightingale", "pos": "noun", "en": "a small brown bird that sings beautifully at night", "hu": "fülemüle" },
+      { "forms": ["mockingbirds"], "lemma": "mockingbird", "pos": "noun", "en": "an American bird that copies the songs of other birds", "hu": "gúnyrigó" },
+      { "forms": ["exceed"], "lemma": "exceed", "pos": "verb", "en": "to be more than a number or amount", "hu": "meghalad, túllép" },
+      { "forms": ["mates"], "lemma": "mate", "pos": "noun", "en": "the male or female partner of an animal", "hu": "pár (állaté)" },
+      { "forms": ["territory"], "lemma": "territory", "pos": "noun", "en": "the area that an animal thinks belongs to it", "hu": "terület, territórium" },
+      { "forms": ["outbursts"], "lemma": "outburst", "pos": "noun", "en": "a sudden, strong burst of sound or feeling", "hu": "kitörés" },
+      { "forms": ["adding up to"], "lemma": "add up to", "pos": "phrasal verb", "en": "to make a whole together", "hu": "összességében kiad valamit" },
+      { "forms": ["instructed"], "lemma": "instruct", "pos": "verb", "en": "to teach someone how to do something", "hu": "tanít, oktat" }
+    ],
+    "2008-maj-emelt-H1": [
+      { "forms": ["water witching"], "lemma": "water witching", "pos": "noun", "en": "finding water under the ground with a special stick", "hu": "vesszőjárás (vízkeresés)" },
+      { "forms": ["dowsing"], "lemma": "dowsing", "pos": "noun", "en": "looking for water under the ground with a special stick", "hu": "varázsvesszős vízkeresés" },
+      { "forms": ["locate"], "lemma": "locate", "pos": "verb", "en": "to find the exact place of something", "hu": "meghatározza a helyét" },
+      { "forms": ["turned to"], "lemma": "turn to", "pos": "phrasal verb", "en": "to go to someone for help", "hu": "fordul valakihez (segítségért)" },
+      { "forms": ["ease"], "lemma": "ease", "pos": "verb", "en": "to make pain less strong", "hu": "enyhít, csillapít" },
+      { "forms": ["barn"], "lemma": "barn", "pos": "noun", "en": "a large farm building for animals or crops", "hu": "pajta, csűr" },
+      { "forms": ["predicted"], "lemma": "predict", "pos": "verb", "en": "to say what will happen before it happens", "hu": "megjósol, előre jelez" },
+      { "forms": ["x-ray vision"], "lemma": "X-ray vision", "pos": "noun", "en": "the power to see through things", "hu": "röntgenlátás" }
+    ],
+    "2008-maj-emelt-H2": [
+      { "forms": ["wilds"], "lemma": "the wilds", "pos": "noun", "en": "places far from towns, where nature is wild", "hu": "vadon" },
+      { "forms": ["brought up"], "lemma": "bring up", "pos": "phrasal verb", "en": "to look after a child until it is an adult", "hu": "felnevel" },
+      { "forms": ["common"], "lemma": "common", "pos": "adjective", "en": "shared by two or more people or groups", "hu": "közös" },
+      { "forms": ["representatives"], "lemma": "representative", "pos": "noun", "en": "a person who belongs to a group and is typical of it", "hu": "képviselő" },
+      { "forms": ["occur"], "lemma": "occur", "pos": "verb", "en": "to happen", "hu": "előfordul, felmerül" }
+    ],
+    "2008-maj-emelt-H3": [
+      { "forms": ["guidelines"], "lemma": "guideline", "pos": "noun", "en": "a rule or piece of advice about how to do something", "hu": "irányelv, útmutatás" },
+      { "forms": ["prescribe"], "lemma": "prescribe", "pos": "verb", "en": "to say officially what must be done", "hu": "előír" },
+      { "forms": ["announcer"], "lemma": "announcer", "pos": "noun", "en": "a person who reads the news or presents programmes on radio or TV", "hu": "bemondó" }
     ]
   }
 }

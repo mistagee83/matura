@@ -236,6 +236,80 @@
       { "forms": ["inventory"], "lemma": "inventory", "pos": "noun", "en": "all the things that an organization has", "hu": "készlet, állomány" },
       { "forms": ["donations"], "lemma": "donation", "pos": "noun", "en": "something that you give to help people, without asking for money", "hu": "adomány" },
       { "forms": ["raised public interest"], "lemma": "raise interest", "pos": "phrase", "en": "to make people interested", "hu": "felkelti a nagyközönség érdeklődését" }
+    ],
+    "2024-okt-emelt-L1": [
+      { "forms": ["legal action"], "lemma": "legal action", "pos": "noun", "en": "using the courts to solve a problem with someone", "hu": "jogi lépés, bírósági eljárás" },
+      { "forms": ["Barber Shop"], "lemma": "barber shop", "pos": "noun", "en": "a shop where men have their hair cut", "hu": "borbélyüzlet, férfifodrászat" },
+      { "forms": ["clippings"], "lemma": "clipping", "pos": "noun", "en": "a small piece cut off something, for example hair", "hu": "levágott darab (itt: levágott haj)" },
+      { "forms": ["retrieve"], "lemma": "retrieve", "pos": "verb", "en": "to get something back", "hu": "visszaszerez" },
+      { "forms": ["locks"], "lemma": "lock", "pos": "noun", "en": "a piece of hair", "hu": "hajtincs", "tip": "Itt nem zár, hanem hajfürt." },
+      { "forms": ["attorney"], "lemma": "attorney", "pos": "noun", "en": "a lawyer (American English)", "hu": "ügyvéd" },
+      { "forms": ["threatened"], "lemma": "threaten", "pos": "verb", "en": "to say that you will do something bad if someone does not do what you want", "hu": "megfenyeget, kilátásba helyez" },
+      { "forms": ["contribute"], "lemma": "contribute", "pos": "verb", "en": "to give money to help something", "hu": "adományoz, hozzájárul" },
+      { "forms": ["profit"], "lemma": "profit", "pos": "noun", "en": "the money you make when you sell something for more than it cost", "hu": "nyereség, haszon" },
+      { "forms": ["sue"], "lemma": "sue", "pos": "verb", "en": "to take someone to court because they have harmed you", "hu": "beperel" },
+      { "forms": ["news accounts"], "lemma": "news account", "pos": "noun", "en": "a report about an event in a newspaper or on TV", "hu": "hírbeszámoló, tudósítás" }
+    ],
+    "2024-okt-emelt-L2": [
+      { "forms": ["copper"], "lemma": "copper", "pos": "noun", "en": "a reddish-brown metal", "hu": "réz" },
+      { "forms": ["torch"], "lemma": "torch", "pos": "noun", "en": "a stick that burns at one end to give light", "hu": "fáklya" },
+      { "forms": ["pedestal"], "lemma": "pedestal", "pos": "noun", "en": "the base on which a statue stands", "hu": "talapzat" },
+      { "forms": ["go up"], "lemma": "go up", "pos": "phrasal verb", "en": "to be built", "hu": "felépül, felállítják" },
+      { "forms": ["Harbor"], "lemma": "harbor", "pos": "noun", "en": "an area of water near land where ships stay safely", "hu": "kikötő", "tip": "Amerikai írásmód; a brit alak: harbour." },
+      { "forms": ["under construction"], "lemma": "under construction", "pos": "phrase", "en": "being built", "hu": "épülőben, építés alatt" },
+      { "forms": ["committee"], "lemma": "committee", "pos": "noun", "en": "a group of people chosen to make decisions or organise something", "hu": "bizottság" },
+      { "forms": ["federal funding"], "lemma": "federal funding", "pos": "noun", "en": "money given by the national government of the USA", "hu": "szövetségi (állami) támogatás" },
+      { "forms": ["spending package"], "lemma": "spending package", "pos": "noun", "en": "a plan that says how the government will spend money", "hu": "költségvetési csomag" },
+      { "forms": ["put up"], "lemma": "put up", "pos": "phrasal verb", "en": "to give the money needed for something", "hu": "előteremt, kifizet (pénzt)" },
+      { "forms": ["funds"], "lemma": "funds", "pos": "noun", "en": "money that is kept for a special purpose", "hu": "pénzalap, keret" },
+      { "forms": ["understandably"], "lemma": "understandably", "pos": "adverb", "en": "in a way that is easy to understand", "hu": "érthető módon" },
+      { "forms": ["on the condition"], "lemma": "on the condition", "pos": "phrase", "en": "only if something else happens", "hu": "azzal a feltétellel" },
+      { "forms": ["immigrant"], "lemma": "immigrant", "pos": "noun", "en": "a person who comes to live in a new country", "hu": "bevándorló" },
+      { "forms": ["in favour of"], "lemma": "be in favour of", "pos": "phrase", "en": "to support an idea", "hu": "támogat valamit, mellette van" },
+      { "forms": ["erecting"], "lemma": "erect", "pos": "verb", "en": "to build or put up a statue or building", "hu": "felállít, emel" }
+    ],
+    "2024-okt-emelt-L3": [
+      { "forms": ["incentive"], "lemma": "incentive", "pos": "noun", "en": "something that makes people want to do something", "hu": "ösztönző, ösztönzés" },
+      { "forms": ["initiative"], "lemma": "initiative", "pos": "noun", "en": "a new plan to deal with a problem", "hu": "kezdeményezés" },
+      { "forms": ["exclusive"], "lemma": "exclusive", "pos": "adjective", "en": "special and only for a few people", "hu": "exkluzív, kiváltságos" },
+      { "forms": ["adopt"], "lemma": "adopt", "pos": "verb", "en": "to accept a new law or plan officially", "hu": "elfogad (törvényt)" },
+      { "forms": ["constitution"], "lemma": "constitution", "pos": "noun", "en": "the basic laws of a country", "hu": "alkotmány" },
+      { "forms": ["implemented"], "lemma": "implement", "pos": "verb", "en": "to start using a plan or system", "hu": "bevezet, megvalósít" },
+      { "forms": ["pledge"], "lemma": "pledge", "pos": "noun", "en": "a serious promise", "hu": "fogadalom, ünnepélyes ígéret" },
+      { "forms": ["tread lightly"], "lemma": "tread lightly", "pos": "phrase", "en": "to be careful not to damage a place", "hu": "kíméletesen bánik vele, óvatosan lép" },
+      { "forms": ["came about"], "lemma": "come about", "pos": "phrasal verb", "en": "to happen or start", "hu": "megszületik, létrejön" },
+      { "forms": ["sustainability"], "lemma": "sustainability", "pos": "noun", "en": "using things in a way that does not harm nature for the future", "hu": "fenntarthatóság" },
+      { "forms": ["hospitality"], "lemma": "hospitality", "pos": "noun", "en": "being friendly and kind to guests", "hu": "vendégszeretet" },
+      { "forms": ["under-educated"], "lemma": "under-educated", "pos": "adjective", "en": "not knowing enough about something", "hu": "tájékozatlan, alulképzett" },
+      { "forms": ["combat"], "lemma": "combat", "pos": "verb", "en": "to try to stop something bad", "hu": "küzd valami ellen, leküzd" },
+      { "forms": ["privilege"], "lemma": "privilege", "pos": "noun", "en": "a special right that only some people have", "hu": "kiváltság, megtiszteltetés" },
+      { "forms": ["sustainable"], "lemma": "sustainable", "pos": "adjective", "en": "not harming nature, so it can go on for a long time", "hu": "fenntartható" },
+      { "forms": ["sunscreen"], "lemma": "sunscreen", "pos": "noun", "en": "a cream that protects your skin from the sun", "hu": "naptej, fényvédő krém" },
+      { "forms": ["partake in"], "lemma": "partake in", "pos": "phrasal verb", "en": "to take part in an activity", "hu": "részt vesz valamiben" },
+      { "forms": ["unmarked hike"], "lemma": "unmarked hike", "pos": "noun", "en": "a long walk on a path that has no signs", "hu": "jelöletlen túra" },
+      { "forms": ["elders"], "lemma": "elder", "pos": "noun", "en": "an old and respected person in a community", "hu": "a közösség idős, tisztelt tagja, vén" }
+    ],
+    "2024-okt-emelt-H1": [
+      { "forms": ["Marsupials"], "lemma": "marsupial", "pos": "noun", "en": "an animal like a kangaroo, whose mother carries its babies in a pocket of skin", "hu": "erszényes állat" },
+      { "forms": ["pouch"], "lemma": "pouch", "pos": "noun", "en": "a pocket of skin on the stomach of some animals", "hu": "erszény" },
+      { "forms": ["mammal"], "lemma": "mammal", "pos": "noun", "en": "an animal that drinks its mother’s milk when it is young", "hu": "emlős" },
+      { "forms": ["howl"], "lemma": "howl", "pos": "verb", "en": "to make a long, loud, high sound, like a wolf", "hu": "üvölt, vonyít" },
+      { "forms": ["bare"], "lemma": "bare", "pos": "verb", "en": "to show something that is usually covered", "hu": "kivillant, kimutat (fogat)" },
+      { "forms": ["wombats"], "lemma": "wombat", "pos": "noun", "en": "an Australian animal with short legs that lives under the ground", "hu": "vombat" },
+      { "forms": ["dingoes"], "lemma": "dingo", "pos": "noun", "en": "a wild dog from Australia", "hu": "dingó (ausztrál vadkutya)" },
+      { "forms": ["backside"], "lemma": "backside", "pos": "noun", "en": "the part of the body that you sit on", "hu": "hátsó fél, far" }
+    ],
+    "2024-okt-emelt-H2": [
+      { "forms": ["spikes"], "lemma": "spike", "pos": "noun", "en": "a thin piece of metal with a sharp point", "hu": "tüske, hegyes vasrúd" },
+      { "forms": ["well-paid"], "lemma": "well-paid", "pos": "adjective", "en": "earning a lot of money", "hu": "jól fizetett" }
+    ],
+    "2024-okt-emelt-H3": [
+      { "forms": ["antique"], "lemma": "antique", "pos": "adjective", "en": "old and valuable", "hu": "antik, régi" },
+      { "forms": ["violets"], "lemma": "violet", "pos": "noun", "en": "a small purple flower", "hu": "ibolya" },
+      { "forms": ["innocence"], "lemma": "innocence", "pos": "noun", "en": "the quality of being pure and not knowing about bad things", "hu": "ártatlanság" },
+      { "forms": ["depiction"], "lemma": "depiction", "pos": "noun", "en": "the way something is shown in a picture", "hu": "ábrázolás" },
+      { "forms": ["gone out"], "lemma": "go out", "pos": "phrasal verb", "en": "(of a fire or light) to stop burning", "hu": "kialszik" },
+      { "forms": ["settle"], "lemma": "settle", "pos": "verb", "en": "to pay money that you owe", "hu": "kifizet, rendez (számlát)" }
     ]
   }
 }

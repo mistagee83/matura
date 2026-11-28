@@ -264,6 +264,62 @@
       { "forms": ["lost their lives"], "lemma": "lose your life", "pos": "phrase", "en": "to die", "hu": "életét vesztette" },
       { "forms": ["fatality"], "lemma": "fatality", "pos": "noun", "en": "a person who is killed in an accident or attack", "hu": "halálos áldozat" },
       { "forms": ["maltese"], "lemma": "Maltese", "pos": "adjective", "en": "from Malta, an island country in the Mediterranean", "hu": "máltai" }
+    ],
+    "2019-okt-emelt-L1": [
+      { "forms": ["aviator"], "lemma": "aviator", "pos": "noun", "en": "a pilot, especially in the early days of flying", "hu": "repülő, pilóta (a repülés hőskorában)" },
+      { "forms": ["aerodynamic"], "lemma": "aerodynamic", "pos": "adjective", "en": "having a shape that moves through the air easily", "hu": "áramvonalas, aerodinamikus" },
+      { "forms": ["aboard"], "lemma": "aboard", "pos": "preposition", "en": "on or in a plane, ship or train", "hu": "fedélzetén" },
+      { "forms": ["navigate", "navigating"], "lemma": "navigate", "pos": "verb", "en": "to find the right way when you travel", "hu": "navigál, tájékozódik" },
+      { "forms": ["compass"], "lemma": "compass", "pos": "noun", "en": "a small object with a needle that always points north", "hu": "iránytű" },
+      { "forms": ["perils"], "lemma": "peril", "pos": "noun", "en": "great danger", "hu": "veszély, veszedelem" },
+      { "forms": ["foggy"], "lemma": "foggy", "pos": "adjective", "en": "full of thick cloud near the ground, so you cannot see far", "hu": "ködös" }
+    ],
+    "2019-okt-emelt-L2": [
+      { "forms": ["skull"], "lemma": "skull", "pos": "noun", "en": "the bones of the head", "hu": "koponya" },
+      { "forms": ["circulate"], "lemma": "circulate", "pos": "verb", "en": "to go from person to person", "hu": "terjed, közszájon forog" },
+      { "forms": ["trophy hunters"], "lemma": "trophy hunter", "pos": "noun", "en": "a person who takes famous or rare things to keep them", "hu": "trófeavadász, ereklyevadász" },
+      { "forms": ["dismissed"], "lemma": "dismiss", "pos": "verb", "en": "to decide that something is not true or not worth thinking about", "hu": "elvet, elutasít" },
+      { "forms": ["ground-penetrating radar"], "lemma": "ground-penetrating radar", "pos": "noun", "en": "a machine that uses radio waves to see what is under the ground", "hu": "talajradar" },
+      { "forms": ["reputed"], "lemma": "reputed", "pos": "adjective", "en": "believed by many people, though not proven", "hu": "állítólagos, a hagyomány szerint" },
+      { "forms": ["absent"], "lemma": "absent", "pos": "adjective", "en": "not there; missing", "hu": "hiányzó, nincs ott" },
+      { "forms": ["playwright"], "lemma": "playwright", "pos": "noun", "en": "a person who writes plays for the theatre", "hu": "drámaíró, színműíró" },
+      { "forms": ["at large"], "lemma": "at large", "pos": "idiom", "en": "not found or caught; free somewhere", "hu": "szabadon, ismeretlen helyen" },
+      { "forms": ["inscribed"], "lemma": "inscribe", "pos": "verb", "en": "to cut words into stone or metal", "hu": "bevés, felír (kőbe)" },
+      { "forms": ["curse"], "lemma": "curse", "pos": "noun", "en": "magic words that are meant to bring bad luck to someone", "hu": "átok" },
+      { "forms": ["ward off"], "lemma": "ward off", "pos": "phrasal verb", "en": "to keep away something or someone dangerous", "hu": "elhárít, távol tart" },
+      { "forms": ["remains"], "lemma": "remains", "pos": "noun", "en": "the body or bones of a dead person", "hu": "földi maradványok, hamvak", "tip": "Ebben a jelentésben mindig többes számú." },
+      { "forms": ["dug up"], "lemma": "dig up", "pos": "phrasal verb", "en": "to take something out of the ground by digging", "hu": "kiás, felás" },
+      { "forms": ["credence"], "lemma": "credence", "pos": "noun", "en": "the belief that something is true", "hu": "hitel, hihetőség (give credence: hitelt ad, alátámaszt)" },
+      { "forms": ["disturbed"], "lemma": "disturb", "pos": "verb", "en": "to move or change something from its original place", "hu": "megbolygat, hozzányúl" }
+    ],
+    "2019-okt-emelt-L3": [
+      { "forms": ["enthusiasts"], "lemma": "enthusiast", "pos": "noun", "en": "a person who is very interested in something and likes it a lot", "hu": "lelkes híve valaminek, rajongó" },
+      { "forms": ["expounding"], "lemma": "expound", "pos": "verb", "en": "to explain your ideas in detail", "hu": "kifejt, részletesen előad" },
+      { "forms": ["infamous"], "lemma": "infamous", "pos": "adjective", "en": "well known for something bad", "hu": "hírhedt" },
+      { "forms": ["Gallows"], "lemma": "gallows", "pos": "noun", "en": "a wooden frame used in the past for killing criminals with a rope", "hu": "akasztófa, bitó" },
+      { "forms": ["condemned"], "lemma": "condemn", "pos": "verb", "en": "to say officially that someone must be punished, for example by death", "hu": "elítél (halálra)" },
+      { "forms": ["confessed"], "lemma": "confess", "pos": "verb", "en": "to admit that you did something wrong", "hu": "bevall, beismer" },
+      { "forms": ["onlookers"], "lemma": "onlooker", "pos": "noun", "en": "a person who watches something happen but does not take part", "hu": "néző, bámészkodó" },
+      { "forms": ["executions"], "lemma": "execution", "pos": "noun", "en": "killing someone as an official punishment", "hu": "kivégzés" },
+      { "forms": ["authorities"], "lemma": "the authorities", "pos": "noun", "en": "the people or organisations that have power and control", "hu": "hatóságok" },
+      { "forms": ["suppressed"], "lemma": "suppress", "pos": "verb", "en": "to stop something by using force or power", "hu": "elfojt, levert" },
+      { "forms": ["terminated"], "lemma": "terminate", "pos": "verb", "en": "to end", "hu": "véget ér, befejeződik" },
+      { "forms": ["tore up"], "lemma": "tear up", "pos": "phrasal verb", "en": "to pull something out of the ground and destroy it", "hu": "feltép, kitép" },
+      { "forms": ["railings"], "lemma": "railing", "pos": "noun", "en": "a fence made of metal bars", "hu": "kerítés (vasrács), korlát" },
+      { "forms": ["gain access"], "lemma": "gain access", "pos": "phrase", "en": "to manage to get into a place", "hu": "bejut, hozzáférést szerez" },
+      { "forms": ["rioting"], "lemma": "rioting", "pos": "noun", "en": "violent fighting by a crowd in the streets", "hu": "zavargás, lázongás" },
+      { "forms": ["intervene"], "lemma": "intervene", "pos": "verb", "en": "to become involved in a situation to stop or change it", "hu": "közbelép, beavatkozik" },
+      { "forms": ["Home Secretary"], "lemma": "Home Secretary", "pos": "noun", "en": "the British government minister responsible for the police and law", "hu": "belügyminiszter (brit)" },
+      { "forms": ["resigned"], "lemma": "resign", "pos": "verb", "en": "to leave your job officially", "hu": "lemond (tisztségről)" },
+      { "forms": ["conduct"], "lemma": "conduct", "pos": "noun", "en": "the way something is done or organised", "hu": "lebonyolítás, levezetés" }
+    ],
+    "2019-okt-emelt-H1": [
+      { "forms": ["rebels"], "lemma": "rebel", "pos": "noun", "en": "a person who refuses to obey rules", "hu": "lázadó" }
+    ],
+    "2019-okt-emelt-H3": [
+      { "forms": ["firmly"], "lemma": "firmly", "pos": "adverb", "en": "in a strong way that does not change", "hu": "szilárdan, határozottan" },
+      { "forms": ["script"], "lemma": "script", "pos": "noun", "en": "the written words of a film or play", "hu": "forgatókönyv" },
+      { "forms": ["post production"], "lemma": "post production", "pos": "noun", "en": "the work on a film after the shooting, for example editing and effects", "hu": "utómunka (filmé)" }
     ]
   }
 }

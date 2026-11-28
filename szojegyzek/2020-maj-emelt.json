@@ -296,6 +296,77 @@
       { "forms": ["parking zones"], "lemma": "parking zone", "pos": "noun", "en": "an area where you are allowed to park", "hu": "parkolózóna" },
       { "forms": ["significant"], "lemma": "significant", "pos": "adjective", "en": "large or important enough to notice", "hu": "jelentős" },
       { "forms": ["vehicles"], "lemma": "vehicle", "pos": "noun", "en": "a machine that carries people or things, like a car or bike", "hu": "jármű" }
+    ],
+    "2020-maj-emelt-L1": [
+      { "forms": ["Landlords"], "lemma": "landlord", "pos": "noun", "en": "a person who owns or runs a pub", "hu": "kocsmáros, a kocsma tulajdonosa" },
+      { "forms": ["dished up"], "lemma": "dish up", "pos": "phrasal verb", "en": "to put food on plates and serve it", "hu": "tálal, felszolgál" },
+      { "forms": ["roasts"], "lemma": "roast", "pos": "noun", "en": "a meal of meat cooked in the oven", "hu": "sült, sült hús (fogás)" },
+      { "forms": ["grief"], "lemma": "grief", "pos": "noun", "en": "great sadness, especially when someone dies", "hu": "gyász, mély fájdalom" },
+      { "forms": ["ashamed"], "lemma": "ashamed", "pos": "adjective", "en": "feeling bad and embarrassed about yourself", "hu": "szégyelli magát" },
+      { "forms": ["come out of their shell"], "lemma": "come out of your shell", "pos": "idiom", "en": "to become less shy and more open with people", "hu": "kibújik a csigaházából, feloldódik" },
+      { "forms": ["upgraded"], "lemma": "upgrade", "pos": "verb", "en": "to make something better", "hu": "feljavít, bővít" },
+      { "forms": ["pints"], "lemma": "pint", "pos": "noun", "en": "a large glass of beer (about half a litre)", "hu": "korsó (sör)" },
+      { "forms": ["interaction"], "lemma": "interaction", "pos": "noun", "en": "talking and doing things with another person", "hu": "kapcsolat, találkozás, beszélgetés" }
+    ],
+    "2020-maj-emelt-L2": [
+      { "forms": ["handsome"], "lemma": "handsome", "pos": "adjective", "en": "here: attractive and nicely built (about a place)", "hu": "szép, tetszetős (helyről)", "tip": "Emberre: jóképű." },
+      { "forms": ["medieval"], "lemma": "medieval", "pos": "adjective", "en": "from the Middle Ages (about 500–1500)", "hu": "középkori" },
+      { "forms": ["lush"], "lemma": "lush", "pos": "adjective", "en": "with a lot of healthy green plants", "hu": "buja, dús (növényzet)" },
+      { "forms": ["picture-perfect"], "lemma": "picture-perfect", "pos": "adjective", "en": "so beautiful that it looks like a picture", "hu": "képeslapszerű, festői" },
+      { "forms": ["setting"], "lemma": "setting", "pos": "noun", "en": "the place and surroundings where something is", "hu": "fekvés, környezet" },
+      { "forms": ["utopian"], "lemma": "utopian", "pos": "adjective", "en": "based on an idea of a perfect world that is not realistic", "hu": "utópisztikus" },
+      { "forms": ["blossomed into"], "lemma": "blossom into", "pos": "phrasal verb", "en": "to grow and develop into something successful", "hu": "kivirágzik, kinövi magát valamivé" },
+      { "forms": ["matchmaking"], "lemma": "matchmaking", "pos": "noun", "en": "helping people to find a partner to marry", "hu": "házasságközvetítés" },
+      { "forms": ["folk"], "lemma": "folk", "pos": "noun", "en": "people", "hu": "emberek, nép" },
+      { "forms": ["inner beauty"], "lemma": "inner beauty", "pos": "noun", "en": "good qualities in a person’s character", "hu": "belső szépség" },
+      { "forms": ["unveiled"], "lemma": "unveil", "pos": "verb", "en": "to show a new statue to the public for the first time", "hu": "leleplez, felavat (szobrot)" },
+      { "forms": ["dedicated to"], "lemma": "dedicated to", "pos": "phrase", "en": "made in honour of a person or group", "hu": "valakinek szentelt, ajánlott" },
+      { "forms": ["rank"], "lemma": "rank", "pos": "verb", "en": "to put people or things in order by how good or bad they are", "hu": "rangsorol" },
+      { "forms": ["unspecified"], "lemma": "unspecified", "pos": "adjective", "en": "not said exactly", "hu": "meghatározatlan, nem részletezett" },
+      { "forms": ["extraordinarily"], "lemma": "extraordinarily", "pos": "adverb", "en": "extremely; very unusually", "hu": "rendkívül" },
+      { "forms": ["truffles"], "lemma": "truffle", "pos": "noun", "en": "a rare, expensive kind of mushroom that grows under the ground", "hu": "szarvasgomba" },
+      { "forms": ["emphasis"], "lemma": "emphasis", "pos": "noun", "en": "special importance given to something", "hu": "hangsúly" },
+      { "forms": ["genuine"], "lemma": "genuine", "pos": "adjective", "en": "honest and real, not pretending", "hu": "őszinte, hiteles" },
+      { "forms": ["unconventional"], "lemma": "unconventional", "pos": "adjective", "en": "different from what most people do", "hu": "rendhagyó, szokatlan" }
+    ],
+    "2020-maj-emelt-L3": [
+      { "forms": ["jelly"], "lemma": "jelly", "pos": "noun", "en": "in American English: a sweet food made from fruit that you spread on bread", "hu": "lekvár, dzsem", "tip": "A brit angolban a jelly zselét, kocsonyát jelent." },
+      { "forms": ["parking fines"], "lemma": "parking fine", "pos": "noun", "en": "money you must pay because you left your car in the wrong place", "hu": "parkolási bírság" },
+      { "forms": ["emergency cache"], "lemma": "emergency cache", "pos": "noun", "en": "a hidden store of things kept for a difficult time", "hu": "vészhelyzeti tartalék(raktár)" },
+      { "forms": ["drive"], "lemma": "drive", "pos": "noun", "en": "an organised effort to collect things for a good purpose", "hu": "gyűjtőakció, kampány" },
+      { "forms": ["dining facilities"], "lemma": "dining facilities", "pos": "noun", "en": "the places, like canteens, where people can eat", "hu": "étkezdék, menza" },
+      { "forms": ["canned"], "lemma": "canned", "pos": "adjective", "en": "kept in a metal container", "hu": "konzerv-, dobozos" },
+      { "forms": ["cancelled out"], "lemma": "cancel out", "pos": "phrasal verb", "en": "to make something have no effect, so you do not owe it", "hu": "kiegyenlít, semlegesít" },
+      { "forms": ["citation"], "lemma": "citation", "pos": "noun", "en": "in American English: an official paper that says you must pay a fine", "hu": "bírságcédula, büntetőcédula" },
+      { "forms": ["issued"], "lemma": "issue", "pos": "verb", "en": "to give an official document to someone", "hu": "kiállít, kiad (hivatalosan)" },
+      { "forms": ["cashew"], "lemma": "cashew", "pos": "noun", "en": "a curved nut that you can eat", "hu": "kesudió" },
+      { "forms": ["preserves"], "lemma": "preserves", "pos": "noun", "en": "jam made with large pieces of fruit", "hu": "befőtt, gyümölcsíz" },
+      { "forms": ["commercially"], "lemma": "commercially", "pos": "adverb", "en": "by a company, to be sold in shops", "hu": "kereskedelmi forgalomban, gyárilag" },
+      { "forms": ["home canning"], "lemma": "home canning", "pos": "noun", "en": "keeping food in jars that you prepare at home", "hu": "házi befőzés, házi tartósítás" },
+      { "forms": ["best before"], "lemma": "best before date", "pos": "noun", "en": "the date until which food is good to eat", "hu": "minőségmegőrzési idő" }
+    ],
+    "2020-maj-emelt-H1": [
+      { "forms": ["swear words"], "lemma": "swear word", "pos": "noun", "en": "a rude word that people say when they are angry", "hu": "káromkodás, csúnya szó" },
+      { "forms": ["harmonious"], "lemma": "harmonious", "pos": "adjective", "en": "friendly and peaceful", "hu": "harmonikus, békés" },
+      { "forms": ["bartenders"], "lemma": "bartender", "pos": "noun", "en": "a person who serves drinks in a bar", "hu": "csapos, pultos" },
+      { "forms": ["saloons"], "lemma": "saloon", "pos": "noun", "en": "a bar in the American West in the past", "hu": "kocsma, szalon (vadnyugati)" },
+      { "forms": ["medieval"], "lemma": "medieval", "pos": "adjective", "en": "from the Middle Ages (about 500–1500)", "hu": "középkori" }
+    ],
+    "2020-maj-emelt-H2": [
+      { "forms": ["no wonder"], "lemma": "it’s no wonder", "pos": "phrase", "en": "it is not surprising", "hu": "nem csoda, hogy" },
+      { "forms": ["differ"], "lemma": "differ", "pos": "verb", "en": "to be not the same", "hu": "különbözik, eltér" },
+      { "forms": ["cuisine"], "lemma": "cuisine", "pos": "noun", "en": "the style of cooking of a country", "hu": "konyha (ételek), gasztronómia" }
+    ],
+    "2020-maj-emelt-H3": [
+      { "forms": ["fined", "fine"], "lemma": "fine", "pos": "verb", "en": "to make someone pay money as a punishment", "hu": "megbírságol; (főnévként) bírság" },
+      { "forms": ["backpackers"], "lemma": "backpacker", "pos": "noun", "en": "a young tourist who travels cheaply with a bag on their back", "hu": "hátizsákos turista" },
+      { "forms": ["offence"], "lemma": "offence", "pos": "noun", "en": "an act that is against the law", "hu": "szabálysértés, vétség" },
+      { "forms": ["littering"], "lemma": "littering", "pos": "noun", "en": "dropping rubbish in a public place", "hu": "szemetelés" },
+      { "forms": ["punishable"], "lemma": "punishable", "pos": "adjective", "en": "that can be punished by law", "hu": "büntetendő" },
+      { "forms": ["stray"], "lemma": "stray", "pos": "adjective", "en": "having no home or owner", "hu": "kóbor, gazdátlan" },
+      { "forms": ["adds up to"], "lemma": "add up to", "pos": "phrasal verb", "en": "to make a total amount", "hu": "összesen kitesz, összeadódik" },
+      { "forms": ["On account of"], "lemma": "on account of", "pos": "phrase", "en": "because of", "hu": "miatt, következtében" },
+      { "forms": ["short-stay"], "lemma": "short-stay", "pos": "adjective", "en": "staying in a place for only a short time", "hu": "rövid ideig tartózkodó" }
     ]
   }
 }

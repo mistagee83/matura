@@ -140,6 +140,50 @@
       { "forms": ["almost like"], "lemma": "almost like", "pos": "phrase", "en": "nearly the same as", "hu": "szinte olyan, mint" },
       { "forms": ["instead of"], "lemma": "instead of", "pos": "preposition", "en": "in the place of", "hu": "valami helyett" },
       { "forms": ["days off"], "lemma": "day off", "pos": "noun", "en": "a day when you do not go to work", "hu": "szabadnap" }
+    ],
+    "2005-nov-kozep-L2": [
+      { "forms": ["marched"], "lemma": "march", "pos": "verb", "en": "to walk quickly and with strong steps", "hu": "masírozik, határozottan lépked" },
+      { "forms": ["grabbed hold of"], "lemma": "grab hold of", "pos": "phrase", "en": "to take something or someone suddenly and firmly with your hand", "hu": "megragad, megfog" },
+      { "forms": ["accompanied by"], "lemma": "accompanied by", "pos": "phrase", "en": "together with another person", "hu": "valaki kíséretében, valakivel együtt" },
+      { "forms": ["sticker"], "lemma": "sticker", "pos": "noun", "en": "a small piece of paper with a picture or number that you can stick on something", "hu": "matrica" },
+      { "forms": ["dustbin"], "lemma": "dustbin", "pos": "noun", "en": "a large container outside the house for rubbish", "hu": "kuka, szemetes" },
+      { "forms": ["sold out"], "lemma": "sell out", "pos": "phrasal verb", "en": "to sell all of something, so that there is none left", "hu": "elfogy, kifogy (az áru)" },
+      { "forms": ["add up to"], "lemma": "add up to", "pos": "phrasal verb", "en": "to make a particular total when you put numbers together", "hu": "kiad (összesen), összeadva annyi" },
+      { "forms": ["tell me off"], "lemma": "tell somebody off", "pos": "phrasal verb", "en": "to speak angrily to someone because they did something wrong", "hu": "leszid, összeszid" }
+    ],
+    "2005-nov-kozep-L3": [
+      { "forms": ["contestants"], "lemma": "contestant", "pos": "noun", "en": "a person who takes part in a competition", "hu": "versenyző, résztvevő" },
+      { "forms": ["cheese wheel"], "lemma": "cheese wheel", "pos": "noun", "en": "a large round cheese", "hu": "sajtkorong" },
+      { "forms": ["steep"], "lemma": "steep", "pos": "adjective", "en": "going up or down very sharply", "hu": "meredek" },
+      { "forms": ["hurl themselves"], "lemma": "hurl yourself", "pos": "phrase", "en": "to throw yourself somewhere with great force", "hu": "veti magát, rohan lefelé" },
+      { "forms": ["tumbling"], "lemma": "tumble", "pos": "verb", "en": "to fall and roll over and over", "hu": "bukdácsol, gurul" },
+      { "forms": ["head over heels"], "lemma": "head over heels", "pos": "idiom", "en": "turning over and over, with your head going down and your feet going up", "hu": "bukfencezve, fejjel lefelé" },
+      { "forms": ["fractured"], "lemma": "fractured", "pos": "adjective", "en": "with a broken bone", "hu": "eltört, törött" },
+      { "forms": ["bruises"], "lemma": "bruise", "pos": "noun", "en": "a dark mark on the skin after you hit something", "hu": "zúzódás, horzsolás" },
+      { "forms": ["stretcher"], "lemma": "stretcher", "pos": "noun", "en": "a kind of bed for carrying a person who is hurt", "hu": "hordágy" },
+      { "forms": ["clutching"], "lemma": "clutch", "pos": "verb", "en": "to hold something tightly", "hu": "szorongat, markol" }
+    ],
+    "2005-nov-kozep-H1": [
+      { "forms": ["drink to"], "lemma": "drink to", "pos": "phrasal verb", "en": "to raise your glass and wish success or happiness to someone or something", "hu": "iszik valakire, valamire; koccint" },
+      { "forms": ["round"], "lemma": "round", "pos": "noun", "en": "drinks bought for everyone in a group at the same time", "hu": "kör (ital)" },
+      { "forms": ["graduate"], "lemma": "graduate", "pos": "verb", "en": "to finish your studies at a school or university", "hu": "végez, diplomát szerez, leérettségizik" }
+    ],
+    "2005-nov-kozep-H2": [
+      { "forms": ["features"], "lemma": "feature", "pos": "noun", "en": "a part or quality of something, for example of a person's body", "hu": "jellemző, (test)vonás" },
+      { "forms": ["characteristics"], "lemma": "characteristic", "pos": "noun", "en": "a typical quality of a person or thing", "hu": "jellemző, ismertetőjegy" },
+      { "forms": ["registered"], "lemma": "register", "pos": "verb", "en": "to measure and write down officially", "hu": "rögzít, feljegyez" },
+      { "forms": ["unisex human phantom"], "lemma": "unisex human phantom", "pos": "noun", "en": "a model of a typical human body, not a man or a woman", "hu": "uniszex emberi modell (átlagos testmodell)" }
+    ],
+    "2005-nov-kozep-H3": [
+      { "forms": ["Secret Service"], "lemma": "secret service", "pos": "noun", "en": "a government organization that secretly collects information to protect the country", "hu": "titkosszolgálat" },
+      { "forms": ["seized"], "lemma": "seize", "pos": "verb", "en": "to take something away officially, for example by the police", "hu": "lefoglal, elkoboz" },
+      { "forms": ["plotting"], "lemma": "plot", "pos": "verb", "en": "to plan secretly to do something bad", "hu": "tervez, összeesküvést sző" },
+      { "forms": ["track down"], "lemma": "track down", "pos": "phrasal verb", "en": "to find someone after looking for them for a long time", "hu": "felkutat, nyomára bukkan" },
+      { "forms": ["tackle"], "lemma": "tackle", "pos": "verb", "en": "to try to deal with a difficult problem", "hu": "fellép valami ellen, megpróbál megoldani" },
+      { "forms": ["hit squads"], "lemma": "hit squad", "pos": "noun", "en": "a special team of police or soldiers sent to deal with a problem", "hu": "különleges egység, bevetési osztag" },
+      { "forms": ["cord"], "lemma": "cord", "pos": "noun", "en": "a piece of thick string or thin rope", "hu": "zsinór" },
+      { "forms": ["leap out"], "lemma": "leap out", "pos": "phrasal verb", "en": "to jump out quickly", "hu": "kiugrik" },
+      { "forms": ["carriages"], "lemma": "carriage", "pos": "noun", "en": "one of the separate parts of a train where people sit", "hu": "vasúti kocsi" }
     ]
   }
 }

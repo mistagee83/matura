@@ -225,6 +225,79 @@
       { "forms": ["visitors"], "lemma": "visitor", "pos": "noun", "en": "a person who comes to see you", "hu": "látogató" },
       { "forms": ["cap and gown"], "lemma": "cap and gown", "pos": "noun", "en": "the special hat and long robe that students wear when they graduate", "hu": "diplomaosztó kalap és talár" },
       { "forms": ["degree"], "lemma": "degree", "pos": "noun", "en": "a qualification you get from a university", "hu": "diploma, egyetemi fokozat" }
+    ],
+    "2023-maj-emelt-L1": [
+      { "forms": ["snowbound"], "lemma": "snowbound", "pos": "adjective", "en": "covered with so much snow that it is hard to travel", "hu": "behavazott, hó miatt elzárt" },
+      { "forms": ["boxing up"], "lemma": "box up", "pos": "phrasal verb", "en": "to put something into boxes", "hu": "dobozba csomagol" },
+      { "forms": ["entrepreneur"], "lemma": "entrepreneur", "pos": "noun", "en": "a person who starts a new business", "hu": "vállalkozó" },
+      { "forms": ["insulated"], "lemma": "insulated", "pos": "adjective", "en": "covered so that heat cannot get in or out", "hu": "hőszigetelt" },
+      { "forms": ["Styrofoam"], "lemma": "Styrofoam", "pos": "noun", "en": "a very light white plastic material used for packing", "hu": "hungarocell, polisztirol" },
+      { "forms": ["claim"], "lemma": "claim", "pos": "verb", "en": "to say that something is true", "hu": "állít" },
+      { "forms": ["nuisance"], "lemma": "nuisance", "pos": "noun", "en": "something annoying that causes problems", "hu": "kellemetlenség, bosszúság" },
+      { "forms": ["shoveling"], "lemma": "shovel", "pos": "verb", "en": "to move snow or earth with a long tool with a wide end", "hu": "lapátol" },
+      { "forms": ["sustain"], "lemma": "sustain", "pos": "verb", "en": "to keep something going for a long time", "hu": "fenntart" },
+      { "forms": ["venture"], "lemma": "venture", "pos": "noun", "en": "a new business that may or may not succeed", "hu": "vállalkozás, kezdeményezés" },
+      { "forms": ["remains to be seen"], "lemma": "it remains to be seen", "pos": "phrase", "en": "we do not know yet", "hu": "majd elválik, egyelőre nem tudni" },
+      { "forms": ["At this rate"], "lemma": "at this rate", "pos": "phrase", "en": "if things continue like this", "hu": "ilyen ütemben, ha így megy tovább" }
+    ],
+    "2023-maj-emelt-L2": [
+      { "forms": ["heritage"], "lemma": "heritage", "pos": "noun", "en": "traditions and things from the past that a country wants to keep", "hu": "örökség" },
+      { "forms": ["humble"], "lemma": "humble", "pos": "adjective", "en": "simple and ordinary, not special or expensive", "hu": "egyszerű, szerény" },
+      { "forms": ["in decline"], "lemma": "in decline", "pos": "phrase", "en": "becoming weaker, smaller or less popular", "hu": "hanyatlóban, visszaszorulóban" },
+      { "forms": ["struggle"], "lemma": "struggle", "pos": "verb", "en": "to try very hard to deal with a difficult situation", "hu": "küzd, küszködik" },
+      { "forms": ["sourdough"], "lemma": "sourdough", "pos": "noun", "en": "bread made with a special sour mixture instead of yeast", "hu": "kovászos kenyér" },
+      { "forms": ["know-how"], "lemma": "know-how", "pos": "noun", "en": "practical knowledge of how to do something", "hu": "szakértelem, tudás" },
+      { "forms": ["inclusion"], "lemma": "inclusion", "pos": "noun", "en": "being added to a list or group", "hu": "felvétel (listára)" },
+      { "forms": ["ritual"], "lemma": "ritual", "pos": "noun", "en": "something you always do in the same way", "hu": "rituálé, szertartás" },
+      { "forms": ["tear"], "lemma": "tear", "pos": "verb", "en": "to pull something into pieces with your hands", "hu": "szétszakít, (kézzel) tör", "tip": "Ebben a jelentésben /teə/ a kiejtése, nem /tɪə/ (könnycsepp)." },
+      { "forms": ["credit"], "lemma": "credit", "pos": "verb", "en": "to say that someone did or made something", "hu": "neki tulajdonít" },
+      { "forms": ["classed as"], "lemma": "class as", "pos": "phrase", "en": "to be put in a group or seen as a certain type", "hu": "valaminek minősül, beletartozik" },
+      { "forms": ["standardised"], "lemma": "standardise", "pos": "verb", "en": "to make things the same size or type", "hu": "szabványosít, egységesít" },
+      { "forms": ["won over"], "lemma": "win over", "pos": "phrasal verb", "en": "to make people like or support something", "hu": "meghódít, megnyer magának" },
+      { "forms": ["artisanal"], "lemma": "artisanal", "pos": "adjective", "en": "made by hand in the traditional way", "hu": "kézműves" },
+      { "forms": ["acknowledged"], "lemma": "acknowledge", "pos": "verb", "en": "to agree that something is true", "hu": "elismer, elismeri, hogy" }
+    ],
+    "2023-maj-emelt-L3": [
+      { "forms": ["granny"], "lemma": "granny", "pos": "noun", "en": "a grandmother (informal)", "hu": "nagyi, nagymama" },
+      { "forms": ["engineer"], "lemma": "engineer", "pos": "verb", "en": "here: to control the sound when music is recorded", "hu": "hangmérnökként dolgozik (zenei felvételen)" },
+      { "forms": ["promote"], "lemma": "promote", "pos": "verb", "en": "to advertise something so that more people buy it", "hu": "népszerűsít, reklámoz" },
+      { "forms": ["label"], "lemma": "label", "pos": "noun", "en": "a company that records and sells music", "hu": "kiadó (lemezkiadó)" },
+      { "forms": ["ballgown-wearing"], "lemma": "ballgown-wearing", "pos": "adjective", "en": "wearing a long, elegant dress for formal parties", "hu": "báli ruhát viselő" },
+      { "forms": ["strum"], "lemma": "strum", "pos": "verb", "en": "to play a guitar by moving your fingers across the strings", "hu": "penget" },
+      { "forms": ["guitar picks"], "lemma": "guitar pick", "pos": "noun", "en": "a small flat piece of plastic for playing the guitar", "hu": "pengető" },
+      { "forms": ["At the height"], "lemma": "at the height", "pos": "phrase", "en": "at the most successful time", "hu": "valaminek a csúcsán, a csúcspontján" },
+      { "forms": ["icon"], "lemma": "icon", "pos": "noun", "en": "a famous person who is a symbol of something", "hu": "ikon, jelkép" },
+      { "forms": ["nationwide fame"], "lemma": "nationwide fame", "pos": "phrase", "en": "being famous in the whole country", "hu": "országos hírnév" },
+      { "forms": ["continuously"], "lemma": "continuously", "pos": "adverb", "en": "without stopping", "hu": "folyamatosan, megszakítás nélkül" }
+    ],
+    "2023-maj-emelt-H1": [
+      { "forms": ["budgie"], "lemma": "budgie", "pos": "noun", "en": "a small colourful bird that people keep as a pet", "hu": "hullámos papagáj" },
+      { "forms": ["archive"], "lemma": "archive", "pos": "noun", "en": "a collection of old recordings or documents", "hu": "archívum" },
+      { "forms": ["stuffed"], "lemma": "stuffed", "pos": "adjective", "en": "(of a dead animal) filled so that it looks alive", "hu": "kitömött, preparált" },
+      { "forms": ["nursery rhymes"], "lemma": "nursery rhyme", "pos": "noun", "en": "a short traditional poem or song for small children", "hu": "gyerekvers, mondóka" },
+      { "forms": ["dialect"], "lemma": "dialect", "pos": "noun", "en": "the way people speak a language in one area", "hu": "nyelvjárás, tájszólás" },
+      { "forms": ["record holder"], "lemma": "record holder", "pos": "noun", "en": "the person or animal that has done something better than anyone else", "hu": "rekorder, rekordtartó" }
+    ],
+    "2023-maj-emelt-H2": [
+      { "forms": ["it-bag"], "lemma": "it-bag", "pos": "noun", "en": "the most fashionable handbag of the season", "hu": "divattáska, a szezon slágertáskája" },
+      { "forms": ["ridiculously"], "lemma": "ridiculously", "pos": "adverb", "en": "so much that it seems silly", "hu": "nevetségesen" },
+      { "forms": ["generated"], "lemma": "generate", "pos": "verb", "en": "to cause or produce something", "hu": "kelt, előidéz" },
+      { "forms": ["colossal"], "lemma": "colossal", "pos": "adjective", "en": "extremely large", "hu": "óriási, hatalmas" },
+      { "forms": ["deliberately"], "lemma": "deliberately", "pos": "adverb", "en": "on purpose, not by accident", "hu": "szándékosan" },
+      { "forms": ["footwear"], "lemma": "footwear", "pos": "noun", "en": "shoes, boots and trainers", "hu": "lábbeli" },
+      { "forms": ["draw attention"], "lemma": "draw attention", "pos": "phrase", "en": "to make people notice something", "hu": "felhívja a figyelmet" },
+      { "forms": ["controversial"], "lemma": "controversial", "pos": "adjective", "en": "causing a lot of argument and disagreement", "hu": "vitatott, ellentmondásos" },
+      { "forms": ["went viral"], "lemma": "go viral", "pos": "phrase", "en": "to spread very quickly on the internet", "hu": "futótűzként terjed az interneten" },
+      { "forms": ["sneakers"], "lemma": "sneaker", "pos": "noun", "en": "sports shoes", "hu": "edzőcipő, sportcipő", "tip": "Amerikai szó; a brit megfelelője: trainers." }
+    ],
+    "2023-maj-emelt-H3": [
+      { "forms": ["contest"], "lemma": "contest", "pos": "noun", "en": "a competition", "hu": "verseny, pályázat" },
+      { "forms": ["supplied"], "lemma": "supply", "pos": "verb", "en": "to give someone things that they need", "hu": "ellát, biztosít" },
+      { "forms": ["applicants"], "lemma": "applicant", "pos": "noun", "en": "a person who asks to be chosen for a job", "hu": "pályázó, jelentkező" },
+      { "forms": ["Applications"], "lemma": "application", "pos": "noun", "en": "a written request to be chosen for a job", "hu": "pályázat, jelentkezés" },
+      { "forms": ["required"], "lemma": "require", "pos": "verb", "en": "to need or to demand something officially", "hu": "megkövetel, előír" },
+      { "forms": ["evaluated"], "lemma": "evaluate", "pos": "verb", "en": "to judge how good something is", "hu": "értékel, elbírál" },
+      { "forms": ["deadline"], "lemma": "deadline", "pos": "noun", "en": "the last day when you can do something", "hu": "határidő" }
     ]
   }
 }

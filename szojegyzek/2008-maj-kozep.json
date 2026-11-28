@@ -226,6 +226,54 @@
       { "forms": ["floor"], "lemma": "floor", "pos": "noun", "en": "the surface you walk on in a room", "hu": "padló" },
       { "forms": ["childhood"], "lemma": "childhood", "pos": "noun", "en": "the time when you are a child", "hu": "gyermekkor" },
       { "forms": ["went underground"], "lemma": "go underground", "pos": "idiom", "en": "here: to become hidden, but still exist", "hu": "a felszín alá került, rejtve maradt" }
+    ],
+    "2008-maj-kozep-L1": [
+      { "forms": ["cheeky"], "lemma": "cheeky", "pos": "adjective", "en": "a little rude, but in a funny way", "hu": "pimasz, szemtelen" },
+      { "forms": ["bid"], "lemma": "bid", "pos": "noun", "en": "an offer of money for something at an auction", "hu": "licit, ajánlat" },
+      { "forms": ["auction site"], "lemma": "auction site", "pos": "noun", "en": "a website where things are sold to the person who offers the most money", "hu": "aukciós oldal, árverési oldal" },
+      { "forms": ["congratulate"], "lemma": "congratulate", "pos": "verb", "en": "to tell someone you are happy about their success", "hu": "gratulál" },
+      { "forms": ["flew into a panic"], "lemma": "fly into a panic", "pos": "phrase", "en": "to suddenly become very frightened and worried", "hu": "pánikba esik" },
+      { "forms": ["wiz"], "lemma": "wiz", "pos": "noun", "en": "a person who is very good at something", "hu": "zseni, ügyes kezű" },
+      { "forms": ["saw the funny side"], "lemma": "see the funny side", "pos": "phrase", "en": "to be able to laugh at a bad situation", "hu": "meglátja a dolog vicces oldalát" },
+      { "forms": ["insist on"], "lemma": "insist on", "pos": "phrasal verb", "en": "to say strongly that something must happen", "hu": "ragaszkodik valamihez" }
+    ],
+    "2008-maj-kozep-L2": [
+      { "forms": ["ruining"], "lemma": "ruin", "pos": "verb", "en": "to damage something so badly that it is destroyed", "hu": "tönkretesz" },
+      { "forms": ["landmarks"], "lemma": "landmark", "pos": "noun", "en": "a famous building or place that is easy to recognise", "hu": "nevezetesség, tájékozódási pont" },
+      { "forms": ["disturbing"], "lemma": "disturbing", "pos": "adjective", "en": "making you feel worried", "hu": "nyugtalanító, aggasztó" },
+      { "forms": ["draining"], "lemma": "drain", "pos": "verb", "en": "to take the water out of a lake or river", "hu": "lecsapol, kiszárít" },
+      { "forms": ["edition"], "lemma": "edition", "pos": "noun", "en": "one of the forms of a book that is printed again", "hu": "kiadás" },
+      { "forms": ["global warming"], "lemma": "global warming", "pos": "noun", "en": "the rise in the temperature of the Earth", "hu": "globális felmelegedés" },
+      { "forms": ["massive"], "lemma": "massive", "pos": "adjective", "en": "very big", "hu": "hatalmas, óriási" },
+      { "forms": ["heat up"], "lemma": "heat up", "pos": "phrasal verb", "en": "to become warmer", "hu": "felmelegszik" },
+      { "forms": ["at this rate"], "lemma": "at this rate", "pos": "phrase", "en": "if things continue at the same speed as now", "hu": "ilyen ütemben" },
+      { "forms": ["spokesman"], "lemma": "spokesman", "pos": "noun", "en": "a person who speaks officially for a company", "hu": "szóvivő" },
+      { "forms": ["consequences"], "lemma": "consequence", "pos": "noun", "en": "a result of something, often a bad one", "hu": "következmény" }
+    ],
+    "2008-maj-kozep-L3": [
+      { "forms": ["jewellery"], "lemma": "jewellery", "pos": "noun", "en": "rings, necklaces and other things that people wear as decoration", "hu": "ékszer(ek)" },
+      { "forms": ["survive"], "lemma": "survive", "pos": "verb", "en": "to continue to exist after a long time", "hu": "fennmarad" },
+      { "forms": ["digging"], "lemma": "dig", "pos": "verb", "en": "to make a hole in the ground", "hu": "ás" },
+      { "forms": ["stone mine"], "lemma": "stone mine", "pos": "noun", "en": "a place where people take stone out of the ground", "hu": "kőbánya" },
+      { "forms": ["carved"], "lemma": "carve", "pos": "verb", "en": "to cut a shape or a picture into stone or wood", "hu": "bevés, kifarag" },
+      { "forms": ["surface"], "lemma": "surface", "pos": "noun", "en": "the top or outside part of something", "hu": "felület, felszín" },
+      { "forms": ["ancient"], "lemma": "ancient", "pos": "adjective", "en": "very old, from thousands of years ago", "hu": "ősi, ókori" },
+      { "forms": ["throne"], "lemma": "throne", "pos": "noun", "en": "the special chair of a king or queen", "hu": "trón" },
+      { "forms": ["figure out"], "lemma": "figure out", "pos": "phrasal verb", "en": "to understand something after thinking about it", "hu": "kitalál, megfejt" },
+      { "forms": ["crack the code"], "lemma": "crack the code", "pos": "phrase", "en": "to find out what a secret message means", "hu": "feltöri a kódot, megfejti a titkosírást" }
+    ],
+    "2008-maj-kozep-H1": [
+      { "forms": ["heaven"], "lemma": "heaven", "pos": "noun", "en": "a perfect, very happy place", "hu": "mennyország" },
+      { "forms": ["political-societal"], "lemma": "political-societal", "pos": "adjective", "en": "connected with politics and with society", "hu": "politikai-társadalmi" },
+      { "forms": ["money matters"], "lemma": "money matters", "pos": "noun", "en": "questions and problems connected with money", "hu": "pénzügyek" }
+    ],
+    "2008-maj-kozep-H2": [
+      { "forms": ["coral reef"], "lemma": "coral reef", "pos": "noun", "en": "a line of hard, colourful rock made by small sea animals", "hu": "korallzátony" },
+      { "forms": ["speedboat"], "lemma": "speedboat", "pos": "noun", "en": "a small fast boat with an engine", "hu": "motorcsónak" }
+    ],
+    "2008-maj-kozep-H3": [
+      { "forms": ["makeup"], "lemma": "makeup", "pos": "noun", "en": "things like lipstick that people put on their face", "hu": "smink, kozmetikum" },
+      { "forms": ["fairly"], "lemma": "fairly", "pos": "adverb", "en": "quite; more than a little", "hu": "eléggé, meglehetősen" }
     ]
   }
 }

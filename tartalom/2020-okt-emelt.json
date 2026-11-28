@@ -921,7 +921,7 @@
      "instructions": [
       "You are going to read an anecdote about Alexandre Dumas (1802-1870). In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
       "Read the text and then copy the extra word in the space provided after each line.",
-      "Some lines are correct. Indicate these lines with a tick ().",
+      "Some lines are correct. Indicate these lines with a tick (✓).",
       "The task begins with two examples (0)."
      ],
      "title": "THE SHOT",

@@ -245,6 +245,72 @@
       { "forms": ["patronising"], "lemma": "patronising", "pos": "adjective", "en": "treating someone as if they were stupid", "hu": "lekezelő, leereszkedő" },
       { "forms": ["take my dog out"], "lemma": "take (a dog) out", "pos": "phrase", "en": "to take a dog outside for a walk", "hu": "kiviszi a kutyát (sétálni)" },
       { "forms": ["ridiculous"], "lemma": "ridiculous", "pos": "adjective", "en": "very silly", "hu": "nevetséges" }
+    ],
+    "2022-okt-emelt-L1": [
+      { "forms": ["launched"], "lemma": "launch", "pos": "verb", "en": "to start something new, for example an event", "hu": "elindít, útjára indít" },
+      { "forms": ["public awareness"], "lemma": "public awareness", "pos": "noun", "en": "how much people in general know about something", "hu": "a közvélemény tájékozottsága, társadalmi figyelem" },
+      { "forms": ["numerous"], "lemma": "numerous", "pos": "adjective", "en": "very many", "hu": "számos, rengeteg" },
+      { "forms": ["mark the day"], "lemma": "mark the day", "pos": "phrase", "en": "to do something special to remember or celebrate a day", "hu": "megünnepli, megemlékezik a napról" },
+      { "forms": ["corkscrews"], "lemma": "corkscrew", "pos": "noun", "en": "a tool for pulling the cork out of a bottle", "hu": "dugóhúzó" },
+      { "forms": ["patrons"], "lemma": "patron", "pos": "noun", "en": "a customer of a pub, shop or restaurant", "hu": "vendég, (törzs)vendég" },
+      { "forms": ["adaptability"], "lemma": "adaptability", "pos": "noun", "en": "being able to change easily in new situations", "hu": "alkalmazkodóképesség" },
+      { "forms": ["awkward"], "lemma": "awkward", "pos": "adjective", "en": "difficult to use or do; not comfortable", "hu": "kényelmetlen, ügyetlen, nehézkes" },
+      { "forms": ["contributed"], "lemma": "contribute", "pos": "verb", "en": "to help to make something happen", "hu": "hozzájárul" },
+      { "forms": ["consideration"], "lemma": "consideration", "pos": "noun", "en": "thinking carefully about someone’s needs and feelings", "hu": "figyelembevétel, tekintet" },
+      { "forms": ["a long way to go"], "lemma": "a long way to go", "pos": "phrase", "en": "much more still has to be done", "hu": "még sok a tennivaló, még messze a cél" },
+      { "forms": ["manufacturers"], "lemma": "manufacturer", "pos": "noun", "en": "a company that makes products in large numbers", "hu": "gyártó" }
+    ],
+    "2022-okt-emelt-L2": [
+      { "forms": ["apprentice"], "lemma": "apprentice", "pos": "noun", "en": "a young person who works for someone to learn a job", "hu": "inas, tanonc" },
+      { "forms": ["made up for"], "lemma": "make up for", "pos": "phrasal verb", "en": "to do something good so that a bad thing is less important", "hu": "pótol, kárpótol, ellensúlyoz" },
+      { "forms": ["lack of"], "lemma": "lack of", "pos": "phrase", "en": "not having something, or not having enough of it", "hu": "hiány (valamiből)" },
+      { "forms": ["going without"], "lemma": "go without", "pos": "phrasal verb", "en": "to not have something that you need", "hu": "lemond valamiről, nélkülöz" },
+      { "forms": ["volumes"], "lemma": "volume", "pos": "noun", "en": "a book", "hu": "kötet, könyv" },
+      { "forms": ["fictitious"], "lemma": "fictitious", "pos": "adjective", "en": "not real; invented", "hu": "kitalált, költött" },
+      { "forms": ["widow"], "lemma": "widow", "pos": "noun", "en": "a woman whose husband has died", "hu": "özvegyasszony" },
+      { "forms": ["bachelors"], "lemma": "bachelor", "pos": "noun", "en": "a man who has no wife", "hu": "agglegény, nőtlen férfi" },
+      { "forms": ["penned"], "lemma": "pen", "pos": "verb", "en": "to write", "hu": "megír, papírra vet" },
+      { "forms": ["unmasking"], "lemma": "unmask", "pos": "verb", "en": "to show who someone really is", "hu": "leleplez" },
+      { "forms": ["endured"], "lemma": "endure", "pos": "verb", "en": "to suffer something bad for a long time", "hu": "elvisel, eltűr" },
+      { "forms": ["fled"], "lemma": "flee", "pos": "verb", "en": "to leave a place quickly, to escape", "hu": "elmenekül, megszökik", "tip": "Rendhagyó ige: flee – fled – fled." },
+      { "forms": ["penniless"], "lemma": "penniless", "pos": "adjective", "en": "having no money at all", "hu": "nincstelen, pénztelen" },
+      { "forms": ["land speculator"], "lemma": "land speculator", "pos": "noun", "en": "a person who buys land to sell it later for more money", "hu": "földspekuláns, ingatlanspekuláns" },
+      { "forms": ["gentleman of leisure"], "lemma": "gentleman of leisure", "pos": "phrase", "en": "a rich man who does not need to work", "hu": "dologtalan úriember, aki nem szorul munkára" },
+      { "forms": ["devoting"], "lemma": "devote", "pos": "verb", "en": "to give all your time and energy to something", "hu": "szentel, odaszán (magát valaminek)" }
+    ],
+    "2022-okt-emelt-L3": [
+      { "forms": ["marketed"], "lemma": "market", "pos": "verb", "en": "to advertise and sell a product", "hu": "forgalmaz, reklámoz" },
+      { "forms": ["monopoly"], "lemma": "monopoly", "pos": "noun", "en": "the right to be the only one who sells a product", "hu": "monopólium, kizárólagos jog" },
+      { "forms": ["battle lines were drawn"], "lemma": "the battle lines are drawn", "pos": "idiom", "en": "two sides are ready to fight", "hu": "megkezdődik a csata, felsorakoznak a felek" },
+      { "forms": ["dates back"], "lemma": "date back", "pos": "phrasal verb", "en": "to have existed since a time in the past", "hu": "visszanyúlik, (valamikor) keletkezett" },
+      { "forms": ["patent"], "lemma": "patent", "pos": "noun", "en": "the official right to be the only one to make or sell an invention", "hu": "szabadalom" },
+      { "forms": ["trademark"], "lemma": "trademark", "pos": "noun", "en": "a name, sign or shape that only one company can use", "hu": "védjegy" },
+      { "forms": ["initial"], "lemma": "initial", "pos": "adjective", "en": "happening at the beginning; first", "hu": "kezdeti, első" },
+      { "forms": ["threw out"], "lemma": "throw out", "pos": "phrasal verb", "en": "to say officially that a request is not accepted", "hu": "elutasít, elvet" },
+      { "forms": ["complaint"], "lemma": "complaint", "pos": "noun", "en": "an official statement that something is wrong or unfair", "hu": "panasz, kereset" },
+      { "forms": ["claim"], "lemma": "claim", "pos": "verb", "en": "to ask for something because you think you have a right to it", "hu": "igényel, követel" },
+      { "forms": ["functional"], "lemma": "functional", "pos": "adjective", "en": "connected with what something is used for", "hu": "funkcionális, gyakorlati" },
+      { "forms": ["characteristic"], "lemma": "characteristic", "pos": "noun", "en": "a typical quality or feature", "hu": "jellemző, sajátosság" },
+      { "forms": ["indication"], "lemma": "indication", "pos": "noun", "en": "a sign that shows something", "hu": "jel, utalás" },
+      { "forms": ["concluded"], "lemma": "conclude", "pos": "verb", "en": "to decide after thinking about all the facts", "hu": "megállapít, arra a következtetésre jut" }
+    ],
+    "2022-okt-emelt-H1": [
+      { "forms": ["compete"], "lemma": "compete", "pos": "verb", "en": "to take part in a competition", "hu": "versenyez" },
+      { "forms": ["competitive"], "lemma": "competitive", "pos": "adjective", "en": "taking part in serious competitions", "hu": "versenyszerű, versenyző" },
+      { "forms": ["beneficial"], "lemma": "beneficial", "pos": "adjective", "en": "good or helpful for someone", "hu": "hasznos, jótékony" },
+      { "forms": ["fit in"], "lemma": "fit in", "pos": "phrasal verb", "en": "to be accepted by a group because you are similar to them", "hu": "beilleszkedik" },
+      { "forms": ["prediction"], "lemma": "prediction", "pos": "noun", "en": "what someone thinks will happen in the future", "hu": "jóslat, előrejelzés" }
+    ],
+    "2022-okt-emelt-H2": [
+      { "forms": ["participants"], "lemma": "participant", "pos": "noun", "en": "a person who takes part in something", "hu": "résztvevő" },
+      { "forms": ["With the passage of time"], "lemma": "with the passage of time", "pos": "phrase", "en": "as time goes by", "hu": "az idő múlásával" },
+      { "forms": ["camper", "campers"], "lemma": "camper", "pos": "noun", "en": "here: a person who lived in the cave during the experiment", "hu": "táborozó (itt: a barlangban élő résztvevő)" }
+    ],
+    "2022-okt-emelt-H3": [
+      { "forms": ["Mother-in-Law"], "lemma": "mother-in-law", "pos": "noun", "en": "the mother of your husband or wife", "hu": "anyós" },
+      { "forms": ["simultaneously"], "lemma": "simultaneously", "pos": "adverb", "en": "at the same time", "hu": "egyszerre, egyidejűleg" },
+      { "forms": ["necklace"], "lemma": "necklace", "pos": "noun", "en": "a piece of jewellery that you wear around your neck", "hu": "nyaklánc" },
+      { "forms": ["tend to"], "lemma": "tend to", "pos": "phrase", "en": "to usually do something", "hu": "hajlamos valamire, általában (így tesz)" }
     ]
   }
 }

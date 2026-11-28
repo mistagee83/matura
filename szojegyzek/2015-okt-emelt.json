@@ -249,6 +249,83 @@
       { "forms": ["in place of"], "lemma": "in place of", "pos": "phrase", "en": "instead of", "hu": "helyett" },
       { "forms": ["spilled"], "lemma": "spill", "pos": "verb", "en": "to let liquid fall out by accident", "hu": "kiömlött, kilöttyent" },
       { "forms": ["altogether"], "lemma": "altogether", "pos": "adverb", "en": "completely", "hu": "teljesen, egészen" }
+    ],
+    "2015-okt-emelt-L1": [
+      { "forms": ["cellar"], "lemma": "cellar", "pos": "noun", "en": "a room under a building, often used for storing wine", "hu": "pince" },
+      { "forms": ["unearthed"], "lemma": "unearth", "pos": "verb", "en": "to find something buried in the ground by digging", "hu": "kiás, feltár" },
+      { "forms": ["ceramic"], "lemma": "ceramic", "pos": "adjective", "en": "made of clay that has been baked hard", "hu": "kerámia-, cserép-" },
+      { "forms": ["jars"], "lemma": "jar", "pos": "noun", "en": "a glass or clay container for food or drink", "hu": "korsó, edény" },
+      { "forms": ["beverage"], "lemma": "beverage", "pos": "noun", "en": "a drink (a formal word)", "hu": "ital" },
+      { "forms": ["evidently"], "lemma": "evidently", "pos": "adverb", "en": "clearly, as the facts show", "hu": "nyilvánvalóan, láthatóan" },
+      { "forms": ["reserved for"], "lemma": "reserved for", "pos": "phrase", "en": "kept only for a special purpose or for special people", "hu": "fenntartva valamire" },
+      { "forms": ["banquets"], "lemma": "banquet", "pos": "noun", "en": "a large formal dinner for many people", "hu": "díszlakoma, bankett" },
+      { "forms": ["resins"], "lemma": "resin", "pos": "noun", "en": "a sticky substance that comes out of some trees", "hu": "gyanta" },
+      { "forms": ["cinnamon"], "lemma": "cinnamon", "pos": "noun", "en": "a brown sweet spice", "hu": "fahéj" },
+      { "forms": ["residues"], "lemma": "residue", "pos": "noun", "en": "a small amount of something that stays after the rest has gone", "hu": "maradvány, üledék" },
+      { "forms": ["dig"], "lemma": "dig", "pos": "noun", "en": "the work of digging in a place to find old objects", "hu": "ásatás" },
+      { "forms": ["yet to be found"], "lemma": "yet to be found", "pos": "phrase", "en": "not found until now, but may be found later", "hu": "még felfedezésre vár" },
+      { "forms": ["sheds important new light"], "lemma": "shed new light on", "pos": "idiom", "en": "to help people understand something better", "hu": "új megvilágításba helyez, fontos új információkkal szolgál" }
+    ],
+    "2015-okt-emelt-L2": [
+      { "forms": ["scent"], "lemma": "scent", "pos": "noun", "en": "a pleasant smell", "hu": "illat" },
+      { "forms": ["wafting"], "lemma": "waft", "pos": "verb", "en": "to move gently through the air", "hu": "lengedez, terjeng (illat)" },
+      { "forms": ["scented"], "lemma": "scented", "pos": "adjective", "en": "having a pleasant smell", "hu": "illatos, illatosított" },
+      { "forms": ["soy wax"], "lemma": "soy wax", "pos": "noun", "en": "a soft material made from soy beans, used for candles", "hu": "szójaviasz" },
+      { "forms": ["collaborated"], "lemma": "collaborate", "pos": "verb", "en": "to work together with someone to make something", "hu": "együttműködik" },
+      { "forms": ["blend"], "lemma": "blend", "pos": "noun", "en": "a mixture of different things", "hu": "keverék" },
+      { "forms": ["sizzle"], "lemma": "sizzle", "pos": "noun", "en": "the sound of food frying in hot oil", "hu": "sistergés, serceg" },
+      { "forms": ["savory"], "lemma": "savory", "pos": "adjective", "en": "tasting salty or spicy, not sweet", "hu": "sós, pikáns, ízletes", "tip": "Brit helyesírással: savoury." },
+      { "forms": ["drift"], "lemma": "drift", "pos": "verb", "en": "to move slowly through the air", "hu": "beszáll, lassan beúszik" },
+      { "forms": ["bring to mind"], "lemma": "bring to mind", "pos": "phrase", "en": "to make you remember or think of something", "hu": "eszébe juttat, felidéz" },
+      { "forms": ["citrus-flavored"], "lemma": "citrus-flavored", "pos": "adjective", "en": "tasting like lemons, oranges or limes", "hu": "citrusízű" },
+      { "forms": ["bottled"], "lemma": "bottle", "pos": "verb", "en": "to put a drink into bottles", "hu": "palackoz" },
+      { "forms": ["distributed"], "lemma": "distribute", "pos": "verb", "en": "to send goods to shops so that they can be sold", "hu": "forgalmaz, terjeszt" },
+      { "forms": ["essential oils"], "lemma": "essential oil", "pos": "noun", "en": "a strong-smelling oil taken from a plant", "hu": "illóolaj" },
+      { "forms": ["energize"], "lemma": "energize", "pos": "verb", "en": "to give energy and make something feel more lively", "hu": "felpezsdít, energiával tölt fel" }
+    ],
+    "2015-okt-emelt-L3": [
+      { "forms": ["win back"], "lemma": "win back", "pos": "phrasal verb", "en": "to get something or someone back after losing them", "hu": "visszahódít, visszaszerez" },
+      { "forms": ["heartfelt"], "lemma": "heartfelt", "pos": "adjective", "en": "very sincere and deeply felt", "hu": "szívből jövő, őszinte" },
+      { "forms": ["carving"], "lemma": "carve", "pos": "verb", "en": "to cut letters or shapes into a hard surface", "hu": "bevés, kifarag" },
+      { "forms": ["etched"], "lemma": "etch", "pos": "verb", "en": "to cut or mark lines into a surface", "hu": "bevés, belekarcol" },
+      { "forms": ["innovative"], "lemma": "innovative", "pos": "adjective", "en": "having new and original ideas", "hu": "újító, ötletes" },
+      { "forms": ["spell out"], "lemma": "spell out", "pos": "phrasal verb", "en": "to form a word letter by letter", "hu": "kibetűz, kirak (betűkből)" },
+      { "forms": ["declaration"], "lemma": "declaration", "pos": "noun", "en": "an important statement in which you say what you feel or believe", "hu": "nyilatkozat, vallomás" },
+      { "forms": ["chalk"], "lemma": "chalk", "pos": "noun", "en": "a soft white stone, also used for writing", "hu": "kréta, mészkő" },
+      { "forms": ["traced"], "lemma": "trace", "pos": "verb", "en": "to find where something came from or who did it", "hu": "visszavezet, kiderít" },
+      { "forms": ["left a mark on"], "lemma": "leave a mark on", "pos": "idiom", "en": "to have a lasting effect on someone", "hu": "nyomot hagyott benne" },
+      { "forms": ["regrets"], "lemma": "regret", "pos": "noun", "en": "a feeling of being sorry about something you have done", "hu": "megbánás" },
+      { "forms": ["legal consequences"], "lemma": "legal consequence", "pos": "noun", "en": "results of breaking the law, such as having to pay money", "hu": "jogi következmények" },
+      { "forms": ["owe"], "lemma": "owe", "pos": "verb", "en": "to need to give someone something because of what you did", "hu": "tartozik" },
+      { "forms": ["violate"], "lemma": "violate", "pos": "verb", "en": "to break a law or rule", "hu": "megsért, áthág" },
+      { "forms": ["codes"], "lemma": "code", "pos": "noun", "en": "a set of laws or rules", "hu": "szabályzat, előírás" },
+      { "forms": ["wash away"], "lemma": "wash away", "pos": "phrasal verb", "en": "to remove something by the action of water", "hu": "elmos" }
+    ],
+    "2015-okt-emelt-H1": [
+      { "forms": ["spot"], "lemma": "spot", "pos": "noun", "en": "a particular place", "hu": "hely, helyszín" },
+      { "forms": ["set fire to"], "lemma": "set fire to", "pos": "phrase", "en": "to make something start burning", "hu": "felgyújt" },
+      { "forms": ["consecutive"], "lemma": "consecutive", "pos": "adjective", "en": "following one after another", "hu": "egymást követő" },
+      { "forms": ["renovations"], "lemma": "renovation", "pos": "noun", "en": "repairing an old building so that it looks new again", "hu": "felújítás" },
+      { "forms": ["anxious"], "lemma": "anxious", "pos": "adjective", "en": "here: wanting very much to do something", "hu": "igyekvő, azon iparkodó, hogy" },
+      { "forms": ["preserve"], "lemma": "preserve", "pos": "verb", "en": "to keep something as it was", "hu": "megőriz" },
+      { "forms": ["redecorate"], "lemma": "redecorate", "pos": "verb", "en": "to paint and furnish the rooms of a building again", "hu": "újra berendez, felújít" },
+      { "forms": ["exclusively"], "lemma": "exclusively", "pos": "adverb", "en": "only for one person or group", "hu": "kizárólag" }
+    ],
+    "2015-okt-emelt-H2": [
+      { "forms": ["introductory"], "lemma": "introductory", "pos": "adjective", "en": "coming at the beginning", "hu": "bevezető" },
+      { "forms": ["announcement", "announcements"], "lemma": "announcement", "pos": "noun", "en": "a message spoken in public to give information", "hu": "bemondás, hangos tájékoztatás" },
+      { "forms": ["implies"], "lemma": "imply", "pos": "verb", "en": "to suggest something without saying it directly", "hu": "célozgat, sejtet" },
+      { "forms": ["approached"], "lemma": "approach", "pos": "verb", "en": "to ask someone if they want to do something", "hu": "megkeres (ajánlattal)" }
+    ],
+    "2015-okt-emelt-H3": [
+      { "forms": ["formations"], "lemma": "formation", "pos": "noun", "en": "shapes or structures that slowly grow in a place over a long time", "hu": "képződmény" },
+      { "forms": ["plagues"], "lemma": "plague", "pos": "verb", "en": "to worry or trouble someone for a long time", "hu": "gyötör, foglalkoztat" },
+      { "forms": ["stalactites"], "lemma": "stalactite", "pos": "noun", "en": "a long, thin, pointed stone shape that hangs down", "hu": "sztalaktit (függő képződmény)" },
+      { "forms": ["icicles"], "lemma": "icicle", "pos": "noun", "en": "a long, pointed piece of ice that hangs down in winter", "hu": "jégcsap" },
+      { "forms": ["stalagmites"], "lemma": "stalagmite", "pos": "noun", "en": "a pointed stone shape that rises up", "hu": "sztalagmit (álló képződmény)" },
+      { "forms": ["emerge"], "lemma": "emerge", "pos": "verb", "en": "to come out of something and appear", "hu": "kiemelkedik, előbukkan" },
+      { "forms": ["cones"], "lemma": "cone", "pos": "noun", "en": "a shape with a round base and a point at the top", "hu": "kúp, bója" },
+      { "forms": ["sedimentary"], "lemma": "sedimentary", "pos": "adjective", "en": "made from layers of sand and mud pressed together over a long time", "hu": "üledékes" }
     ]
   }
 }

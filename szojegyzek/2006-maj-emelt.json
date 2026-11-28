@@ -283,6 +283,69 @@
       { "forms": ["criminal mysteries"], "lemma": "criminal mystery", "pos": "noun", "en": "a crime that nobody can explain", "hu": "bűnügyi rejtély" },
       { "forms": ["is yet to be seen"], "lemma": "be yet to be seen", "pos": "phrase", "en": "nobody knows it yet", "hu": "még kérdés, még nem lehet tudni" },
       { "forms": ["whether"], "lemma": "whether", "pos": "conjunction", "en": "if (used when there are two possibilities)", "hu": "vajon, hogy ... -e" }
+    ],
+    "2006-maj-emelt-L1": [
+      { "forms": ["stuck on red"], "lemma": "stuck on red", "pos": "phrase", "en": "showing the red light for a long time and not changing", "hu": "beragadt pirosra, nem vált át" },
+      { "forms": ["intersections"], "lemma": "intersection", "pos": "noun", "en": "a place where two or more roads cross each other", "hu": "útkereszteződés" },
+      { "forms": ["exert"], "lemma": "exert", "pos": "verb", "en": "to use power or influence to make something happen", "hu": "gyakorol (befolyást, irányítást)" },
+      { "forms": ["stunning"], "lemma": "stunning", "pos": "adjective", "en": "extremely surprising or impressive", "hu": "megdöbbentő, lenyűgöző" },
+      { "forms": ["investigative reporting"], "lemma": "investigative reporting", "pos": "noun", "en": "journalism that tries to find out hidden facts", "hu": "oknyomozó újságírás" },
+      { "forms": ["deactivated"], "lemma": "deactivate", "pos": "verb", "en": "to switch off a machine so that it does not work", "hu": "kikapcsol, hatástalanít" },
+      { "forms": ["in favor of"], "lemma": "in favour of", "pos": "phrase", "en": "because something else is chosen instead", "hu": "valaminek a javára, helyett" },
+      { "forms": ["all along"], "lemma": "all along", "pos": "phrase", "en": "from the beginning, the whole time", "hu": "kezdettől fogva, végig" },
+      { "forms": ["touching"], "lemma": "touching", "pos": "adjective", "en": "making you feel sympathy or sad", "hu": "megható" },
+      { "forms": ["faith"], "lemma": "faith", "pos": "noun", "en": "strong belief that something will work", "hu": "hit, bizalom" }
+    ],
+    "2006-maj-emelt-L2": [
+      { "forms": ["Introductory"], "lemma": "introductory", "pos": "adjective", "en": "for beginners, giving the basic facts of a subject", "hu": "bevezető (kurzus)" },
+      { "forms": ["mid-term papers"], "lemma": "mid-term paper", "pos": "noun", "en": "a test or written work in the middle of a university term", "hu": "félévközi dolgozat" },
+      { "forms": ["finals"], "lemma": "finals", "pos": "noun", "en": "the last exams at the end of a course", "hu": "záróvizsgák" },
+      { "forms": ["overslept"], "lemma": "oversleep", "pos": "verb", "en": "to sleep longer than you wanted to", "hu": "elalszik (túl sokáig alszik)" },
+      { "forms": ["make it back"], "lemma": "make it back", "pos": "phrase", "en": "to succeed in returning to a place", "hu": "visszaér, sikerül visszaérnie" },
+      { "forms": ["flat tyre"], "lemma": "flat tyre", "pos": "noun", "en": "a tyre with no air in it", "hu": "defekt, lapos gumi" },
+      { "forms": ["spare"], "lemma": "spare", "pos": "noun", "en": "an extra tyre that you keep in the car", "hu": "pótkerék" },
+      { "forms": ["relieved"], "lemma": "relieved", "pos": "adjective", "en": "happy because a worry has gone away", "hu": "megkönnyebbült" },
+      { "forms": ["booklet"], "lemma": "booklet", "pos": "noun", "en": "a small thin book with paper covers", "hu": "füzet" },
+      { "forms": ["unprepared"], "lemma": "unprepared", "pos": "adjective", "en": "not ready for something", "hu": "felkészületlen" }
+    ],
+    "2006-maj-emelt-L3": [
+      { "forms": ["turned off"], "lemma": "turn off", "pos": "phrasal verb", "en": "to stop watching a programme because you do not like it", "hu": "elfordul tőle, kikapcsol (műsort)" },
+      { "forms": ["artificiality"], "lemma": "artificiality", "pos": "noun", "en": "the quality of not being real or natural", "hu": "mesterkéltség, mesterségesség" },
+      { "forms": ["vanity"], "lemma": "vanity", "pos": "noun", "en": "too much pride in your looks or yourself", "hu": "hiúság, beképzeltség" },
+      { "forms": ["exhibitionism"], "lemma": "exhibitionism", "pos": "noun", "en": "behaviour that tries to make everyone look at you", "hu": "magamutogatás, feltűnési vágy" },
+      { "forms": ["appalling"], "lemma": "appalling", "pos": "adjective", "en": "very bad and shocking", "hu": "borzalmas, megdöbbentő" },
+      { "forms": ["fireworks"], "lemma": "fireworks", "pos": "noun", "en": "here: angry arguments and excitement", "hu": "(itt) heves összecsapások, nagy patália" },
+      { "forms": ["coarseness"], "lemma": "coarseness", "pos": "noun", "en": "rude and impolite behaviour", "hu": "durvaság, közönségesség" },
+      { "forms": ["ignorance"], "lemma": "ignorance", "pos": "noun", "en": "not knowing about things that you should know", "hu": "tudatlanság, műveletlenség" },
+      { "forms": ["immorality"], "lemma": "immorality", "pos": "noun", "en": "behaviour that is morally wrong", "hu": "erkölcstelenség" },
+      { "forms": ["beneath the surface"], "lemma": "beneath the surface", "pos": "phrase", "en": "hidden, not easy to see at first", "hu": "a felszín alatt, mélyen legbelül" },
+      { "forms": ["scriptwriters"], "lemma": "scriptwriter", "pos": "noun", "en": "a person who writes the words for a film or TV programme", "hu": "forgatókönyvíró" },
+      { "forms": ["endowed"], "lemma": "endow", "pos": "verb", "en": "to give someone a good quality", "hu": "felruház (tulajdonsággal)" },
+      { "forms": ["kind-heartedness"], "lemma": "kind-heartedness", "pos": "noun", "en": "being kind and caring to other people", "hu": "jószívűség" },
+      { "forms": ["downright"], "lemma": "downright", "pos": "adverb", "en": "completely (used about something bad)", "hu": "egyenesen, kifejezetten" }
+    ],
+    "2006-maj-emelt-H1": [
+      { "forms": ["guidance"], "lemma": "guidance", "pos": "noun", "en": "official advice about how something should be done", "hu": "iránymutatás, útmutatás" },
+      { "forms": ["correspondent"], "lemma": "correspondent", "pos": "noun", "en": "a journalist who reports on one special subject", "hu": "tudósító" },
+      { "forms": ["prison terms"], "lemma": "prison term", "pos": "noun", "en": "the time that someone has to stay in prison", "hu": "börtönbüntetés (időtartama)" },
+      { "forms": ["exceed"], "lemma": "exceed", "pos": "verb", "en": "to be more than a particular amount", "hu": "meghalad, túllép" },
+      { "forms": ["prison sentences", "sentences"], "lemma": "sentence", "pos": "noun", "en": "the punishment that a judge gives", "hu": "ítélet, büntetés", "tip": "Itt nem mondatot jelent." },
+      { "forms": ["deterrent"], "lemma": "deterrent", "pos": "adjective", "en": "making people afraid to do something wrong", "hu": "elrettentő" },
+      { "forms": ["provoke"], "lemma": "provoke", "pos": "verb", "en": "to cause a strong reaction", "hu": "kivált (reakciót), kiprovokál" },
+      { "forms": ["sentenced"], "lemma": "sentence", "pos": "verb", "en": "to officially give someone a punishment in court", "hu": "elítél (büntetésre)" }
+    ],
+    "2006-maj-emelt-H2": [
+      { "forms": ["bunny's", "bunny"], "lemma": "bunny", "pos": "noun", "en": "a rabbit (a word children use)", "hu": "nyuszi" },
+      { "forms": ["run over"], "lemma": "run over", "pos": "phrasal verb", "en": "to hit someone or an animal with a vehicle", "hu": "elgázol" },
+      { "forms": ["lettuce"], "lemma": "lettuce", "pos": "noun", "en": "a green vegetable with large leaves, eaten in salads", "hu": "fejes saláta" },
+      { "forms": ["on offer"], "lemma": "on offer", "pos": "phrase", "en": "available to buy", "hu": "kapható, kínálatban" },
+      { "forms": ["operator"], "lemma": "operator", "pos": "noun", "en": "the person who runs something, for example a website", "hu": "üzemeltető" },
+      { "forms": ["death threats"], "lemma": "death threat", "pos": "noun", "en": "a message saying that someone will be killed", "hu": "halálos fenyegetés" },
+      { "forms": ["reconsider"], "lemma": "reconsider", "pos": "verb", "en": "to think again about a decision and maybe change it", "hu": "újragondol" },
+      { "forms": ["animal rights"], "lemma": "animal rights", "pos": "noun", "en": "the idea that animals should be protected from cruel treatment", "hu": "állatjogok" }
+    ],
+    "2006-maj-emelt-H3": [
+      { "forms": ["bagpipe"], "lemma": "bagpipe", "pos": "noun", "en": "a musical instrument with a bag and pipes that you blow into", "hu": "duda" }
     ]
   }
 }

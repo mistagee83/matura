@@ -264,6 +264,64 @@
       { "forms": ["so far"], "lemma": "so far", "pos": "phrase", "en": "until now", "hu": "eddig, mostanáig" },
       { "forms": ["open office plans"], "lemma": "open office plan", "pos": "noun", "en": "a large office without walls between the workers", "hu": "egyterű iroda (open office)" },
       { "forms": ["work out"], "lemma": "work out", "pos": "phrasal verb", "en": "to be successful", "hu": "beválik, működik" }
+    ],
+    "2025-maj-emelt-L1": [
+      { "forms": ["peers"], "lemma": "peer", "pos": "noun", "en": "a person who does the same job or is at the same level as you", "hu": "pályatárs, kolléga" },
+      { "forms": ["one of a kind"], "lemma": "one of a kind", "pos": "idiom", "en": "completely different from everyone else", "hu": "egyedülálló, páratlan" },
+      { "forms": ["possessed of"], "lemma": "be possessed of", "pos": "phrase", "en": "to have a quality (formal)", "hu": "rendelkezik valamivel (választékos)" },
+      { "forms": ["Tributes", "paid tribute"], "lemma": "pay tribute", "pos": "phrase", "en": "to say in public that you admire and respect someone", "hu": "tiszteleg, méltatja (valakinek az emlékét)" },
+      { "forms": ["countless"], "lemma": "countless", "pos": "adjective", "en": "very many; too many to count", "hu": "számtalan" },
+      { "forms": ["sharp eye"], "lemma": "a sharp eye", "pos": "phrase", "en": "the ability to notice small details very quickly", "hu": "éles szem" },
+      { "forms": ["wit"], "lemma": "wit", "pos": "noun", "en": "the ability to say clever and funny things", "hu": "szellemesség, humor" },
+      { "forms": ["live on"], "lemma": "live on", "pos": "phrasal verb", "en": "to continue to exist after someone has died", "hu": "tovább él" },
+      { "forms": ["the curtain comes down"], "lemma": "the curtain comes down", "pos": "idiom", "en": "something ends, like a show at the theatre", "hu": "legördül a függöny (véget ér)" },
+      { "forms": ["national treasure"], "lemma": "national treasure", "pos": "phrase", "en": "a person who is loved and respected by the whole country", "hu": "nemzeti kincs" },
+      { "forms": ["fondest"], "lemma": "fond", "pos": "adjective", "en": "full of love and warm feelings", "hu": "szeretetteljes, kedves (emlék)" },
+      { "forms": ["affection"], "lemma": "affection", "pos": "noun", "en": "a feeling of liking and caring about someone", "hu": "szeretet, ragaszkodás" },
+      { "forms": ["shone through"], "lemma": "shine through", "pos": "phrasal verb", "en": "to be easy to see or notice", "hu": "átsüt, megmutatkozik" }
+    ],
+    "2025-maj-emelt-L2": [
+      { "forms": ["carve", "carving"], "lemma": "carve", "pos": "verb", "en": "to cut a shape or a picture into something with a knife", "hu": "farag, kivág" },
+      { "forms": ["jack-o’-lantern", "jack-o’-lanterns"], "lemma": "jack-o’-lantern", "pos": "noun", "en": "a pumpkin with a face cut into it and a light inside", "hu": "töklámpás" },
+      { "forms": ["demonic"], "lemma": "demonic", "pos": "adjective", "en": "looking like an evil spirit", "hu": "ördögi, démoni" },
+      { "forms": ["Stingy"], "lemma": "stingy", "pos": "adjective", "en": "not liking to spend or give money", "hu": "fukar, zsugori" },
+      { "forms": ["tricked"], "lemma": "trick", "pos": "verb", "en": "to make someone believe something false", "hu": "rászed, becsap" },
+      { "forms": ["monetary gain"], "lemma": "monetary gain", "pos": "phrase", "en": "getting money as a result of something", "hu": "anyagi haszon" },
+      { "forms": ["sentenced"], "lemma": "sentence", "pos": "verb", "en": "to decide officially what punishment someone will get", "hu": "ítél, elítél" },
+      { "forms": ["wander", "wandering"], "lemma": "wander", "pos": "verb", "en": "to walk around without a clear direction", "hu": "kóborol, bolyong" },
+      { "forms": ["for eternity"], "lemma": "for eternity", "pos": "phrase", "en": "for all time; for ever", "hu": "örökké, az idők végezetéig" },
+      { "forms": ["turnips"], "lemma": "turnip", "pos": "noun", "en": "a round white vegetable that grows under the ground", "hu": "fehérrépa, tarlórépa" },
+      { "forms": ["frighten away"], "lemma": "frighten away", "pos": "phrasal verb", "en": "to make someone so afraid that they leave", "hu": "elriaszt, elijeszt" },
+      { "forms": ["souls"], "lemma": "soul", "pos": "noun", "en": "the part of a person that some people believe lives on after death", "hu": "lélek" },
+      { "forms": ["otherworld"], "lemma": "otherworld", "pos": "noun", "en": "the world of the dead or of spirits", "hu": "túlvilág" },
+      { "forms": ["disguises"], "lemma": "disguise", "pos": "noun", "en": "clothes or a mask that you wear so that people do not know who you are", "hu": "álruha, jelmez" },
+      { "forms": ["folklore"], "lemma": "folklore", "pos": "noun", "en": "old stories and beliefs of a group of people", "hu": "néphagyomány, népi hiedelem" },
+      { "forms": ["incorporated"], "lemma": "incorporate", "pos": "verb", "en": "to make something a part of a larger thing", "hu": "beépít, beolvaszt" }
+    ],
+    "2025-maj-emelt-L3": [
+      { "forms": ["council"], "lemma": "council", "pos": "noun", "en": "the group of people who govern a town or city", "hu": "városi tanács, önkormányzat" },
+      { "forms": ["declining"], "lemma": "decline", "pos": "verb", "en": "to become worse or weaker", "hu": "romlik, hanyatlik" },
+      { "forms": ["launch"], "lemma": "launch", "pos": "noun", "en": "the time when something new starts or is made available", "hu": "elindítás, bevezetés" },
+      { "forms": ["fan mail"], "lemma": "fan mail", "pos": "noun", "en": "letters that people send to someone they admire", "hu": "rajongói levelek" },
+      { "forms": ["Elm"], "lemma": "elm", "pos": "noun", "en": "a tall tree with wide leaves", "hu": "szil, szilfa" },
+      { "forms": ["aesthetic"], "lemma": "aesthetic", "pos": "adjective", "en": "connected with beauty", "hu": "esztétikai" },
+      { "forms": ["peppermints"], "lemma": "peppermint", "pos": "noun", "en": "a sweet with a strong fresh mint taste", "hu": "mentolos cukorka" }
+    ],
+    "2025-maj-emelt-H1": [
+      { "forms": ["expedition"], "lemma": "expedition", "pos": "noun", "en": "a long, organised journey to a far place to find out about it", "hu": "expedíció" },
+      { "forms": ["colonize"], "lemma": "colonize", "pos": "verb", "en": "to go and live in a new land and take control of it", "hu": "benépesít, gyarmatosít" },
+      { "forms": ["rafts", "raft"], "lemma": "raft", "pos": "noun", "en": "a flat boat made of pieces of wood tied together", "hu": "tutaj" },
+      { "forms": ["crossing"], "lemma": "crossing", "pos": "noun", "en": "a journey across a sea or river", "hu": "átkelés" },
+      { "forms": ["publication"], "lemma": "publication", "pos": "noun", "en": "the act of printing a book and making it available", "hu": "kiadás, megjelenés (könyvé)" },
+      { "forms": ["sceptical"], "lemma": "sceptical", "pos": "adjective", "en": "having doubts that something is true", "hu": "kételkedő, szkeptikus" },
+      { "forms": ["populated"], "lemma": "populate", "pos": "verb", "en": "to come and live in a place", "hu": "benépesít, lakóhelyévé tesz" }
+    ],
+    "2025-maj-emelt-H3": [
+      { "forms": ["coffin"], "lemma": "coffin", "pos": "noun", "en": "the box in which a dead person is buried", "hu": "koporsó" },
+      { "forms": ["emphasizes"], "lemma": "emphasize", "pos": "verb", "en": "to show that something is very important", "hu": "hangsúlyoz, kiemel" },
+      { "forms": ["devotion"], "lemma": "devotion", "pos": "noun", "en": "great love and loyalty", "hu": "odaadás, hűség" },
+      { "forms": ["modest"], "lemma": "modest", "pos": "adjective", "en": "simple, not rich or expensive", "hu": "szerény, egyszerű" },
+      { "forms": ["bonds"], "lemma": "bond", "pos": "noun", "en": "a strong feeling of friendship or love between two people or animals", "hu": "kötelék, kapcsolat" }
     ]
   }
 }

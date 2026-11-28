@@ -226,6 +226,48 @@
       { "forms": ["taken place"], "lemma": "take place", "pos": "phrase", "en": "to happen", "hu": "megtörténik, lezajlik" },
       { "forms": ["in the case of"], "lemma": "in the case of", "pos": "phrase", "en": "when we talk about", "hu": "... esetében" },
       { "forms": ["activity level"], "lemma": "activity level", "pos": "noun", "en": "how active something is", "hu": "aktivitás mértéke" }
+    ],
+    "2006-maj-kozep-L2": [
+      { "forms": ["savage"], "lemma": "savage", "pos": "adjective", "en": "very wild and violent", "hu": "vad, kegyetlen" },
+      { "forms": ["sneak up on"], "lemma": "sneak up on", "pos": "phrasal verb", "en": "to come near someone quietly so that they do not see you", "hu": "odalopakodik, rajtaüt" },
+      { "forms": ["prey"], "lemma": "prey", "pos": "noun", "en": "an animal that another animal hunts and eats", "hu": "zsákmány" },
+      { "forms": ["companions"], "lemma": "companion", "pos": "noun", "en": "a person or animal that you spend time with", "hu": "társ" },
+      { "forms": ["bathers"], "lemma": "bather", "pos": "noun", "en": "a person who is swimming in the sea", "hu": "fürdőző" },
+      { "forms": ["shore"], "lemma": "shore", "pos": "noun", "en": "the land next to the sea", "hu": "part (tengerpart)" },
+      { "forms": ["on red alert"], "lemma": "on red alert", "pos": "phrase", "en": "ready for danger, because something bad may happen", "hu": "készültségben, riadókészültségben" },
+      { "forms": ["terrified"], "lemma": "terrified", "pos": "adjective", "en": "very frightened", "hu": "rémült, halálra rémült" },
+      { "forms": ["clean"], "lemma": "clean", "pos": "adverb", "en": "here: completely", "hu": "teljesen, egészen", "tip": "Itt nem azt jelenti, hogy tiszta." },
+      { "forms": ["spotted"], "lemma": "spot", "pos": "verb", "en": "to see or notice something", "hu": "észrevesz, megpillant" },
+      { "forms": ["evacuated"], "lemma": "evacuate", "pos": "verb", "en": "to make everyone leave a place because it is dangerous", "hu": "kiürít" },
+      { "forms": ["prowling"], "lemma": "prowl", "pos": "verb", "en": "to move around quietly, looking for something to hunt", "hu": "ólálkodik, portyázik" }
+    ],
+    "2006-maj-kozep-L3": [
+      { "forms": ["regarded as"], "lemma": "regard as", "pos": "phrasal verb", "en": "to think about someone or something in a particular way", "hu": "tartják valaminek, tekintik valaminek" },
+      { "forms": ["candidate"], "lemma": "candidate", "pos": "noun", "en": "a person who may be the right one", "hu": "jelölt, (lehetséges) személy" },
+      { "forms": ["Florentine"], "lemma": "Florentine", "pos": "adjective", "en": "from the city of Florence in Italy", "hu": "firenzei" },
+      { "forms": ["silk merchant"], "lemma": "silk merchant", "pos": "noun", "en": "a person who buys and sells silk, a fine and expensive cloth", "hu": "selyemkereskedő" },
+      { "forms": ["self portrait"], "lemma": "self portrait", "pos": "noun", "en": "a picture that an artist paints of himself or herself", "hu": "önarckép" },
+      { "forms": ["similarities"], "lemma": "similarity", "pos": "noun", "en": "a way in which two things are like each other", "hu": "hasonlóság" },
+      { "forms": ["subject"], "lemma": "subject", "pos": "noun", "en": "the person in a painting", "hu": "a kép alakja, a modell", "tip": "Itt nem tantárgyat jelent." },
+      { "forms": ["mysterious"], "lemma": "mysterious", "pos": "adjective", "en": "strange and difficult to understand", "hu": "titokzatos, rejtélyes" },
+      { "forms": ["dull"], "lemma": "dull", "pos": "adjective", "en": "not bright", "hu": "fakó, tompa (szín)" },
+      { "forms": ["shades"], "lemma": "shade", "pos": "noun", "en": "a type of a colour, for example a darker or lighter one", "hu": "árnyalat" },
+      { "forms": ["due to"], "lemma": "due to", "pos": "preposition", "en": "because of", "hu": "valami miatt, valaminek köszönhetően" },
+      { "forms": ["layer"], "lemma": "layer", "pos": "noun", "en": "a thin covering over a surface", "hu": "réteg" },
+      { "forms": ["yellowed"], "lemma": "yellow", "pos": "verb", "en": "to become yellow because it is old", "hu": "megsárgul" }
+    ],
+    "2006-maj-kozep-H2": [
+      { "forms": ["blocks"], "lemma": "block", "pos": "noun", "en": "the distance along a city street from one corner to the next", "hu": "háztömb, sarok (távolság)" },
+      { "forms": ["nasty scar"], "lemma": "nasty scar", "pos": "noun", "en": "an ugly mark on the skin left after an injury", "hu": "csúnya sebhely, forradás" },
+      { "forms": ["cheer up"], "lemma": "cheer up", "pos": "phrasal verb", "en": "to make someone feel happier", "hu": "felvidít" }
+    ],
+    "2006-maj-kozep-H3": [
+      { "forms": ["stretches"], "lemma": "stretch", "pos": "verb", "en": "to cover a large area from one place to another", "hu": "elterül, húzódik" },
+      { "forms": ["varies"], "lemma": "vary", "pos": "verb", "en": "to be different in different cases", "hu": "változik, eltér" },
+      { "forms": ["incidents"], "lemma": "incident", "pos": "noun", "en": "an event, often an unusual or bad one", "hu": "eset, incidens" },
+      { "forms": ["promoted"], "lemma": "promote", "pos": "verb", "en": "to help something become popular or well known", "hu": "népszerűsít, terjeszt" },
+      { "forms": ["eager"], "lemma": "eager", "pos": "adjective", "en": "wanting to do something very much", "hu": "lelkes, mohó" },
+      { "forms": ["mass media"], "lemma": "mass media", "pos": "noun", "en": "newspapers, TV and radio, which reach very many people", "hu": "tömegmédia, tömegtájékoztatás" }
     ]
   }
 }

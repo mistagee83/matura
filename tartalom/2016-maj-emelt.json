@@ -950,7 +950,7 @@
       "You can use each word only once.",
       "There are two extra words that you do not need to use."
      ],
-     "title": "HOWTOWINATROCK-PAPER-SCISSORS",
+     "title": "HOW TO WIN AT ROCK-PAPER-SCISSORS",
      "body": [
       "What are your odds of {{0}} rock-paper-scissors? Simple – one in three. At least, that's what {{20}} predicts.",
       "But people do not play randomly; they {{21}} a hidden strategy, which was revealed in a rock-paper-scissors tournament in China.",
@@ -1078,7 +1078,7 @@
      "instructions": [
       "You are going to read an article about the origins of margherita pizza. In most lines there is one word that should not be there. It is either grammatically incorrect or does not fit in with the sense of the text.",
       "Read the text and then copy the extra word in the space provided after each line.",
-      "Some lines are correct. Indicate these lines with a tick ().",
+      "Some lines are correct. Indicate these lines with a tick (✓).",
       "The task begins with two examples (0)."
      ],
      "title": "MARGHERITA PIZZA",

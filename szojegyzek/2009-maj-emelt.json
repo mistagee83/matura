@@ -281,6 +281,71 @@
       { "forms": ["finished products"], "lemma": "finished product", "pos": "noun", "en": "the thing you have at the end when the work is done", "hu": "kész munka, végtermék" },
       { "forms": ["disappoint"], "lemma": "disappoint", "pos": "verb", "en": "to make someone sad because something was not as good as hoped", "hu": "csalódást okoz, kiábrándít" },
       { "forms": ["worthwhile"], "lemma": "worthwhile", "pos": "adjective", "en": "good or useful enough to spend time on", "hu": "érdemes, megérte" }
+    ],
+    "2009-maj-emelt-L1": [
+      { "forms": ["flitch"], "lemma": "flitch", "pos": "noun", "en": "one side of a pig, salted and smoked", "hu": "szalonnaoldal" },
+      { "forms": ["trials", "trial"], "lemma": "trial", "pos": "noun", "en": "here: a funny test that looks like a court case", "hu": "(tréfás) tárgyalás, próba" },
+      { "forms": ["on the rocks"], "lemma": "on the rocks", "pos": "idiom", "en": "having serious problems and likely to fail (about a marriage)", "hu": "válságban van, zátonyra futott" },
+      { "forms": ["the real deal"], "lemma": "the real deal", "pos": "idiom", "en": "real and good, not false", "hu": "az igazi, valódi" },
+      { "forms": ["paraded"], "lemma": "parade", "pos": "verb", "en": "to walk through the streets so that many people can see you", "hu": "felvonultat, körbehordoz" },
+      { "forms": ["awaits"], "lemma": "await", "pos": "verb", "en": "to be ready for someone", "hu": "vár rá" },
+      { "forms": ["selection panel"], "lemma": "selection panel", "pos": "noun", "en": "a group of people who choose who can take part", "hu": "válogatóbizottság" },
+      { "forms": ["captures the imagination"], "lemma": "capture the imagination", "pos": "phrase", "en": "to make people very interested and excited", "hu": "megragadja a képzeletet" },
+      { "forms": ["smoked"], "lemma": "smoke", "pos": "verb", "en": "to keep meat in smoke so that it lasts long", "hu": "füstöl" },
+      { "forms": ["salted"], "lemma": "salt", "pos": "verb", "en": "to put a lot of salt on meat so that it lasts long", "hu": "besóz, pácol" },
+      { "forms": ["maids"], "lemma": "maid", "pos": "noun", "en": "an old word for a young woman who is not married", "hu": "hajadon, leány" },
+      { "forms": ["bachelors"], "lemma": "bachelor", "pos": "noun", "en": "a man who has never been married", "hu": "agglegény, nőtlen férfi" },
+      { "forms": ["on trial"], "lemma": "on trial", "pos": "phrase", "en": "being judged, as in a court", "hu": "bíróság előtt, megmérettetés alatt" },
+      { "forms": ["captures the spirit"], "lemma": "capture the spirit", "pos": "phrase", "en": "to show very well what something is really like", "hu": "jól visszaadja a hangulatát" }
+    ],
+    "2009-maj-emelt-L2": [
+      { "forms": ["desperate"], "lemma": "desperate", "pos": "adjective", "en": "wanting something very much", "hu": "kétségbeesetten vágyik valamire" },
+      { "forms": ["grab"], "lemma": "grab", "pos": "verb", "en": "to take something quickly before others do", "hu": "megkaparint, megszerez" },
+      { "forms": ["submitted"], "lemma": "submit", "pos": "verb", "en": "to send something officially, for example to an office", "hu": "benyújt, beküld" },
+      { "forms": ["promote"], "lemma": "promote", "pos": "verb", "en": "to make a place known and popular", "hu": "népszerűsít" },
+      { "forms": ["mind-boggling"], "lemma": "mind-boggling", "pos": "adjective", "en": "so big or surprising that it is hard to believe", "hu": "elképesztő, hihetetlen" },
+      { "forms": ["logged onto"], "lemma": "log onto", "pos": "phrasal verb", "en": "to visit a website, often by typing a name and password", "hu": "felkeres, bejelentkezik (weboldalra)" },
+      { "forms": ["sifting through"], "lemma": "sift through", "pos": "phrasal verb", "en": "to look at a lot of things carefully to choose the best", "hu": "átválogat, átfésül" },
+      { "forms": ["deadline"], "lemma": "deadline", "pos": "noun", "en": "the last day when you can do something", "hu": "határidő" },
+      { "forms": ["in exchange for"], "lemma": "in exchange for", "pos": "phrase", "en": "as a payment for something", "hu": "cserébe valamiért" },
+      { "forms": ["tempting"], "lemma": "tempting", "pos": "adjective", "en": "that makes you want to have it", "hu": "csábító" },
+      { "forms": ["oceanfront"], "lemma": "oceanfront", "pos": "adjective", "en": "right next to the ocean", "hu": "óceánparti" },
+      { "forms": ["airfare"], "lemma": "airfare", "pos": "noun", "en": "the money that you pay for a plane ticket", "hu": "repülőjegy (ára)" },
+      { "forms": ["strolling"], "lemma": "stroll", "pos": "verb", "en": "to walk slowly, just for pleasure", "hu": "sétálgat" },
+      { "forms": ["snorkelling"], "lemma": "snorkel", "pos": "verb", "en": "to swim under the water with a tube to breathe through", "hu": "búvárpipával úszik" },
+      { "forms": ["crystal clear"], "lemma": "crystal clear", "pos": "adjective", "en": "very clean, so that you can see through it", "hu": "kristálytiszta" }
+    ],
+    "2009-maj-emelt-L3": [
+      { "forms": ["rush home"], "lemma": "rush home", "pos": "phrase", "en": "to go home very quickly", "hu": "hazarohan" },
+      { "forms": ["lock away"], "lemma": "lock away", "pos": "phrasal verb", "en": "to put something in a place and lock it", "hu": "elzár" },
+      { "forms": ["shoeboxes"], "lemma": "shoebox", "pos": "noun", "en": "here: a very small room", "hu": "cipősdoboz (itt: nagyon pici szoba)" },
+      { "forms": ["transformed"], "lemma": "transform", "pos": "verb", "en": "to change something completely", "hu": "átalakít, gyökeresen megváltoztat" },
+      { "forms": ["flying saucer"], "lemma": "flying saucer", "pos": "noun", "en": "a round spaceship from another planet", "hu": "repülő csészealj" },
+      { "forms": ["gadgets"], "lemma": "gadget", "pos": "noun", "en": "a small, clever machine", "hu": "kütyü, szerkentyű" },
+      { "forms": ["guaranteed"], "lemma": "guaranteed", "pos": "adjective", "en": "certain to happen", "hu": "garantáltan, biztosan" },
+      { "forms": ["rocks"], "lemma": "rock", "pos": "verb", "en": "to move gently from side to side", "hu": "ringat" },
+      { "forms": ["cradle"], "lemma": "cradle", "pos": "noun", "en": "a small bed for a baby that moves from side to side", "hu": "bölcső" },
+      { "forms": ["remote control"], "lemma": "remote control", "pos": "noun", "en": "a small device that you use to control a TV from a distance", "hu": "távirányító" },
+      { "forms": ["doubles as"], "lemma": "double as", "pos": "phrasal verb", "en": "to have a second use", "hu": "egyben ... is, ... szerepét is betölti" },
+      { "forms": ["settle down"], "lemma": "settle down", "pos": "phrasal verb", "en": "to make yourself comfortable", "hu": "kényelmesen elhelyezkedik" }
+    ],
+    "2009-maj-emelt-H1": [
+      { "forms": ["inspired by"], "lemma": "be inspired by", "pos": "phrase", "en": "to get the idea for something from something else", "hu": "ihletett, valami ihlette" },
+      { "forms": ["cover the expenses"], "lemma": "cover the expenses", "pos": "phrase", "en": "to have enough money to pay the costs", "hu": "fedezi a költségeket" }
+    ],
+    "2009-maj-emelt-H2": [
+      { "forms": ["thunderstorms"], "lemma": "thunderstorm", "pos": "noun", "en": "a storm with loud noise and flashes of light in the sky", "hu": "zivatar" },
+      { "forms": ["lightning"], "lemma": "lightning", "pos": "noun", "en": "the bright flash of light in the sky in a storm", "hu": "villám" },
+      { "forms": ["current"], "lemma": "current", "pos": "noun", "en": "a flow of electricity", "hu": "(elektromos) áram" },
+      { "forms": ["manufacturers"], "lemma": "manufacturer", "pos": "noun", "en": "a company that makes products", "hu": "gyártó" },
+      { "forms": ["holding onto"], "lemma": "hold onto", "pos": "phrasal verb", "en": "to keep something tightly in your hand", "hu": "kapaszkodik, szorosan fog" }
+    ],
+    "2009-maj-emelt-H3": [
+      { "forms": ["floods"], "lemma": "flood", "pos": "noun", "en": "a lot of water that covers land that is usually dry", "hu": "árvíz, áradás" },
+      { "forms": ["flood barrier"], "lemma": "flood barrier", "pos": "noun", "en": "a wall or gate built to stop the sea from coming into a city", "hu": "árvízvédelmi gát" },
+      { "forms": ["algae"], "lemma": "algae", "pos": "noun", "en": "very simple green plants that grow in water or on wet walls", "hu": "alga, moszat" },
+      { "forms": ["camera obscura"], "lemma": "camera obscura", "pos": "noun", "en": "a dark box with a small hole that shows a picture of the outside world", "hu": "camera obscura, sötétkamra" },
+      { "forms": ["frosted glass"], "lemma": "frosted glass", "pos": "noun", "en": "glass that you cannot see through clearly", "hu": "tejüveg" }
     ]
   }
 }

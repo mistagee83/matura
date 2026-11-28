@@ -262,6 +262,62 @@
       { "forms": ["facts"], "lemma": "fact", "pos": "noun", "en": "something that is true", "hu": "tény" },
       { "forms": ["decision"], "lemma": "decision", "pos": "noun", "en": "a choice that you make", "hu": "döntés" },
       { "forms": ["itself"], "lemma": "itself", "pos": "pronoun", "en": "used to say that you mean that exact thing", "hu": "maga (a szó)" }
+    ],
+    "2024-maj-emelt-L1": [
+      { "forms": ["extravagant"], "lemma": "extravagant", "pos": "adjective", "en": "very expensive and much more than people usually need", "hu": "fényűző, pazar" },
+      { "forms": ["floral"], "lemma": "floral", "pos": "adjective", "en": "made of flowers", "hu": "virág-, virágokból álló" },
+      { "forms": ["species"], "lemma": "species", "pos": "noun", "en": "a group of plants or animals of the same kind", "hu": "faj (növény, állat)", "tip": "Egyes és többes számban is species." },
+      { "forms": ["rural"], "lemma": "rural", "pos": "adjective", "en": "in the countryside, not in a town", "hu": "vidéki" },
+      { "forms": ["mansion"], "lemma": "mansion", "pos": "noun", "en": "a very large and impressive house", "hu": "kúria, kastély" },
+      { "forms": ["establishment"], "lemma": "establishment", "pos": "noun", "en": "a business such as a hotel, shop or restaurant", "hu": "intézmény, (vendéglátó)hely" },
+      { "forms": ["tailor-made"], "lemma": "tailor-made", "pos": "adjective", "en": "made specially for one person and what they want", "hu": "személyre szabott" },
+      { "forms": ["discreetness"], "lemma": "discreetness", "pos": "noun", "en": "being careful not to tell other people about something", "hu": "diszkréció, tapintat" },
+      { "forms": ["secrecy"], "lemma": "secrecy", "pos": "noun", "en": "keeping something hidden so that others do not know about it", "hu": "titoktartás, titkosság" },
+      { "forms": ["customized"], "lemma": "customize", "pos": "verb", "en": "to change something so that it fits what one person wants", "hu": "egyedi igényre szabott" },
+      { "forms": ["pop in"], "lemma": "pop in", "pos": "phrasal verb", "en": "to visit a place quickly, without planning it", "hu": "beugrik, benéz" },
+      { "forms": ["as they please"], "lemma": "as you please", "pos": "phrase", "en": "in the way and at the time they want", "hu": "ahogy kedvük tartja, kedvük szerint" }
+    ],
+    "2024-maj-emelt-L2": [
+      { "forms": ["rent-free"], "lemma": "rent-free", "pos": "adjective", "en": "without having to pay money for the place where you live", "hu": "lakbér nélkül, ingyen lakva" },
+      { "forms": ["pet sit", "pet-sitting"], "lemma": "pet-sit", "pos": "verb", "en": "to look after someone’s animals while they are away", "hu": "háziállatra vigyáz (a gazdi távollétében)" },
+      { "forms": ["home sits"], "lemma": "home sit", "pos": "noun", "en": "a job when you stay in someone’s home while they are away", "hu": "házőrzés, lakásvigyázás" },
+      { "forms": ["build up"], "lemma": "build up", "pos": "phrasal verb", "en": "to make something bigger or stronger little by little", "hu": "fokozatosan felépít, gyarapít" },
+      { "forms": ["secure"], "lemma": "secure", "pos": "verb", "en": "to get something, often after a lot of effort", "hu": "megszerez, biztosít magának", "tip": "Itt ige. Melléknévként azt jelenti: biztonságos." },
+      { "forms": ["occasional"], "lemma": "occasional", "pos": "adjective", "en": "happening sometimes, but not often", "hu": "alkalmi, egy-egy" },
+      { "forms": ["estimating"], "lemma": "estimate", "pos": "verb", "en": "to guess a number or amount by thinking about it carefully", "hu": "becsül, megbecsül" },
+      { "forms": ["hop around"], "lemma": "hop around", "pos": "phrasal verb", "en": "to travel quickly from one place to another", "hu": "körbeutazgat, egyik helyről a másikra ugrál" },
+      { "forms": ["feline"], "lemma": "feline", "pos": "noun", "en": "a cat or an animal of the cat family", "hu": "macska, macskaféle" },
+      { "forms": ["gorgeous"], "lemma": "gorgeous", "pos": "adjective", "en": "very beautiful or very pleasant", "hu": "gyönyörű, csodás" }
+    ],
+    "2024-maj-emelt-L3": [
+      { "forms": ["seagulls"], "lemma": "seagull", "pos": "noun", "en": "a large grey and white bird that lives near the sea", "hu": "sirály" },
+      { "forms": ["chasing away"], "lemma": "chase away", "pos": "phrasal verb", "en": "to run after animals or people to make them go away", "hu": "elkerget, elhesseget" },
+      { "forms": ["scarecrow"], "lemma": "scarecrow", "pos": "noun", "en": "a figure dressed like a person that frightens birds away from fields", "hu": "madárijesztő" },
+      { "forms": ["alike"], "lemma": "alike", "pos": "adverb", "en": "in the same way; both of them", "hu": "egyaránt, egyformán" },
+      { "forms": ["outgoing"], "lemma": "outgoing", "pos": "adjective", "en": "friendly and happy to meet and talk to new people", "hu": "barátságos, nyitott, társaságkedvelő" },
+      { "forms": ["flapper"], "lemma": "flapper", "pos": "noun", "en": "here: someone who moves their arms up and down like a bird moves its wings", "hu": "szárnycsapkodó (itt: aki ügyesen csapkod a jelmezben)" },
+      { "forms": ["essentials"], "lemma": "essential", "pos": "noun", "en": "the most important things that you must have", "hu": "alapkövetelmények, a legfontosabb dolgok" },
+      { "forms": ["approached"], "lemma": "approach", "pos": "verb", "en": "to come near someone, often to speak to them", "hu": "megszólít, odamegy valakihez" }
+    ],
+    "2024-maj-emelt-H1": [
+      { "forms": ["semester"], "lemma": "semester", "pos": "noun", "en": "one of the two parts of a school or university year", "hu": "félév (egyetemi)" },
+      { "forms": ["syllabus"], "lemma": "syllabus", "pos": "noun", "en": "a list of the topics and tasks for a university course", "hu": "tanmenet, kurzusleírás" },
+      { "forms": ["unclaimed"], "lemma": "unclaimed", "pos": "adjective", "en": "that nobody has asked for or taken", "hu": "el nem vitt, gazdátlan" },
+      { "forms": ["senior student"], "lemma": "senior student", "pos": "noun", "en": "a student in the last year of high school or university", "hu": "végzős diák" }
+    ],
+    "2024-maj-emelt-H2": [
+      { "forms": ["mashed potatoes"], "lemma": "mashed potatoes", "pos": "noun", "en": "potatoes that are cooked and then pressed until soft", "hu": "krumplipüré" },
+      { "forms": ["consisted of"], "lemma": "consist of", "pos": "phrasal verb", "en": "to be made of particular parts", "hu": "áll valamiből" },
+      { "forms": ["rhymes"], "lemma": "rhyme", "pos": "noun", "en": "a word that ends with the same sound as another word", "hu": "rím" },
+      { "forms": ["tear up"], "lemma": "tear up", "pos": "phrasal verb", "en": "to pull paper into small pieces", "hu": "széttép, összetép" },
+      { "forms": ["widely separated"], "lemma": "widely separated", "pos": "phrase", "en": "far away from each other", "hu": "egymástól távol eső" },
+      { "forms": ["getting rid of"], "lemma": "get rid of", "pos": "phrase", "en": "to throw away something you do not want", "hu": "megszabadul valamitől" }
+    ],
+    "2024-maj-emelt-H3": [
+      { "forms": ["given up hope"], "lemma": "give up hope", "pos": "phrase", "en": "to stop believing that something good will happen", "hu": "feladja a reményt" },
+      { "forms": ["implanted"], "lemma": "implant", "pos": "verb", "en": "to put something into a body, for example in a medical operation", "hu": "beültet (a testbe)" },
+      { "forms": ["renovated"], "lemma": "renovate", "pos": "verb", "en": "to repair an old building so that it looks new again", "hu": "felújít" },
+      { "forms": ["activists"], "lemma": "activist", "pos": "noun", "en": "a person who works hard to change something in society", "hu": "aktivista" }
     ]
   }
 }

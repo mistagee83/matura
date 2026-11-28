@@ -162,6 +162,68 @@
       { "forms": ["survived"], "lemma": "survive", "pos": "verb", "en": "to stay alive through a difficult or dangerous time", "hu": "túlélte, kibírta" },
       { "forms": ["managed to"], "lemma": "manage to", "pos": "phrase", "en": "to succeed in doing something difficult", "hu": "sikerült neki" },
       { "forms": ["whole"], "lemma": "whole", "pos": "adjective", "en": "all of something", "hu": "egész" }
+    ],
+    "2016-maj-kozep-L1": [
+      { "forms": ["patron saint"], "lemma": "patron saint", "pos": "noun", "en": "a holy person who is believed to protect a country, a town or a group of people", "hu": "védőszent" },
+      { "forms": ["emblem"], "lemma": "emblem", "pos": "noun", "en": "a picture or sign that represents a country or a group", "hu": "jelkép, címer" },
+      { "forms": ["adopted"], "lemma": "adopt", "pos": "verb", "en": "to start to use something as your own", "hu": "átvesz, felvesz" },
+      { "forms": ["confusion"], "lemma": "confusion", "pos": "noun", "en": "a situation in which people do not know what is happening", "hu": "zűrzavar, összekeveredés" },
+      { "forms": ["despite"], "lemma": "despite", "pos": "preposition", "en": "even though something is true", "hu": "ellenére, dacára", "tip": "Utána főnév vagy -ing alak áll, nem mellékmondat: despite this." },
+      { "forms": ["dragon-slaying"], "lemma": "dragon-slaying", "pos": "adjective", "en": "who killed a dragon", "hu": "sárkányölő" },
+      { "forms": ["noble"], "lemma": "noble", "pos": "adjective", "en": "belonging to a rich and important family with a high social position", "hu": "nemesi, előkelő" },
+      { "forms": ["served"], "lemma": "serve", "pos": "verb", "en": "to work as a soldier for a ruler or a country", "hu": "szolgál" },
+      { "forms": ["persecution"], "lemma": "persecution", "pos": "noun", "en": "treating people very badly because of their religion or beliefs", "hu": "üldözés" },
+      { "forms": ["tortured"], "lemma": "torture", "pos": "verb", "en": "to hurt someone very badly on purpose", "hu": "megkínoz" },
+      { "forms": ["executed"], "lemma": "execute", "pos": "verb", "en": "to kill someone as an official punishment", "hu": "kivégez" },
+      { "forms": ["martyr"], "lemma": "martyr", "pos": "noun", "en": "a person who is killed because of their religion or beliefs", "hu": "vértanú, mártír" },
+      { "forms": ["reputed"], "lemma": "reputed", "pos": "adjective", "en": "believed by people to be true, though it may not be", "hu": "állítólagos; úgy tartják, hogy" },
+      { "forms": ["martyrdom"], "lemma": "martyrdom", "pos": "noun", "en": "the death of a martyr", "hu": "vértanúhalál" }
+    ],
+    "2016-maj-kozep-L2": [
+      { "forms": ["nursing"], "lemma": "nursing", "pos": "noun", "en": "the job of looking after people who are ill", "hu": "betegápolás, ápolás" },
+      { "forms": ["untrained"], "lemma": "untrained", "pos": "adjective", "en": "not taught the skills for a job", "hu": "képzetlen" },
+      { "forms": ["highly skilled"], "lemma": "highly skilled", "pos": "adjective", "en": "needing a lot of knowledge and practice", "hu": "magasan képzett, nagy szakértelmet kívánó" },
+      { "forms": ["profession"], "lemma": "profession", "pos": "noun", "en": "a job that needs special training and education", "hu": "hivatás, szakma" },
+      { "forms": ["landowner"], "lemma": "landowner", "pos": "noun", "en": "a person who owns a lot of land", "hu": "földbirtokos" },
+      { "forms": ["wounded"], "lemma": "wounded", "pos": "adjective", "en": "hurt by a weapon, for example in a war", "hu": "sebesült" },
+      { "forms": ["conditions"], "lemma": "condition", "pos": "noun", "en": "the situation in which people live or work", "hu": "körülmények, állapotok" },
+      { "forms": ["unwashed"], "lemma": "unwashed", "pos": "adjective", "en": "not washed; dirty", "hu": "mosdatlan" },
+      { "forms": ["blankets"], "lemma": "blanket", "pos": "noun", "en": "a thick cover that keeps you warm in bed", "hu": "takaró, pokróc" },
+      { "forms": ["decent"], "lemma": "decent", "pos": "adjective", "en": "good enough", "hu": "rendes, tisztességes" },
+      { "forms": ["typhus"], "lemma": "typhus", "pos": "noun", "en": "a serious disease that spreads easily, especially in dirty places", "hu": "tífusz (kiütéses tífusz)" },
+      { "forms": ["supplies"], "lemma": "supply", "pos": "noun", "en": "food and other things that people need", "hu": "készlet, ellátmány" },
+      { "forms": ["properly"], "lemma": "properly", "pos": "adverb", "en": "correctly; in the right way", "hu": "rendesen, megfelelően" }
+    ],
+    "2016-maj-kozep-L3": [
+      { "forms": ["eccentric"], "lemma": "eccentric", "pos": "adjective", "en": "strange and unusual in a funny way", "hu": "különc, excentrikus" },
+      { "forms": ["semester"], "lemma": "semester", "pos": "noun", "en": "one of the two parts of a school or university year", "hu": "félév (egyetemi)" },
+      { "forms": ["wide range"], "lemma": "wide range", "pos": "phrase", "en": "many different kinds", "hu": "széles kör, sokféle" },
+      { "forms": ["erasers"], "lemma": "eraser", "pos": "noun", "en": "a small object for removing pencil marks", "hu": "radír" },
+      { "forms": ["furious fashion"], "lemma": "in furious fashion", "pos": "phrase", "en": "very fast and with a lot of energy", "hu": "eszeveszett tempóban" },
+      { "forms": ["disprove"], "lemma": "disprove", "pos": "verb", "en": "to show that something is not true", "hu": "megcáfol" },
+      { "forms": ["astonished"], "lemma": "astonished", "pos": "adjective", "en": "very surprised", "hu": "megdöbbent, elképedt" },
+      { "forms": ["handed in"], "lemma": "hand in", "pos": "phrasal verb", "en": "to give your work to a teacher", "hu": "bead, lead" },
+      { "forms": ["grades"], "lemma": "grade", "pos": "noun", "en": "a mark for a piece of school work", "hu": "jegy, osztályzat" },
+      { "forms": ["notice board"], "lemma": "notice board", "pos": "noun", "en": "a board on a wall where information is put for people to read", "hu": "hirdetőtábla, faliújság" },
+      { "forms": ["hardly"], "lemma": "hardly", "pos": "adverb", "en": "almost not", "hu": "alig", "tip": "Hamis barát: nem azt jelenti, hogy keményen (az a hard)." }
+    ],
+    "2016-maj-kozep-H1": [
+      { "forms": ["adopted"], "lemma": "adopt", "pos": "verb", "en": "to take an animal into your home and make it part of your family", "hu": "örökbe fogad" },
+      { "forms": ["barking"], "lemma": "bark", "pos": "verb", "en": "when a dog makes its short, loud sound", "hu": "ugat" },
+      { "forms": ["paramedics"], "lemma": "paramedic", "pos": "noun", "en": "a person who gives emergency medical help, for example in an ambulance", "hu": "mentős, mentőtiszt" },
+      { "forms": ["revived"], "lemma": "revive", "pos": "verb", "en": "to make someone breathe and become conscious again", "hu": "újraéleszt" }
+    ],
+    "2016-maj-kozep-H2": [
+      { "forms": ["movement"], "lemma": "movement", "pos": "noun", "en": "a group of people who share the same beliefs and aims", "hu": "mozgalom" },
+      { "forms": ["statement"], "lemma": "statement", "pos": "noun", "en": "something that you say officially or in public", "hu": "nyilatkozat, kijelentés" },
+      { "forms": ["basement"], "lemma": "basement", "pos": "noun", "en": "the rooms of a building below the ground", "hu": "alagsor, pince" },
+      { "forms": ["filled out"], "lemma": "fill out", "pos": "phrasal verb", "en": "to write the information needed on a form", "hu": "kitölt" }
+    ],
+    "2016-maj-kozep-H3": [
+      { "forms": ["majority"], "lemma": "majority", "pos": "noun", "en": "most of the people or things in a group", "hu": "többség, nagy rész" },
+      { "forms": ["devoted to"], "lemma": "devoted to", "pos": "phrase", "en": "used only for a particular purpose", "hu": "valaminek szentelve, arra használva" },
+      { "forms": ["wildlife park"], "lemma": "wildlife park", "pos": "noun", "en": "a large park where wild animals live and visitors can see them", "hu": "vadaspark" },
+      { "forms": ["mainland"], "lemma": "mainland", "pos": "noun", "en": "the main part of a country, not its islands", "hu": "szárazföld (a szigettel szemben)" }
     ]
   }
 }

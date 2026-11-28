@@ -236,6 +236,57 @@
       { "forms": ["beware of"], "lemma": "beware of", "pos": "phrase", "en": "be careful of", "hu": "óvakodj valamitől, vigyázz valamivel" },
       { "forms": ["fantasies"], "lemma": "fantasy", "pos": "noun", "en": "a pleasant thing that you imagine and wish for", "hu": "álom, ábránd" },
       { "forms": ["come true"], "lemma": "come true", "pos": "phrase", "en": "to really happen", "hu": "valóra válik" }
+    ],
+    "2005-maj-emelt-L1": [
+      { "forms": ["appeal"], "lemma": "appeal", "pos": "noun", "en": "the quality that makes people like something or want to have it", "hu": "vonzerő, népszerűség" },
+      { "forms": ["fading"], "lemma": "fade", "pos": "verb", "en": "to slowly become weaker or less strong", "hu": "halványul, csökken, elmúlik" },
+      { "forms": ["end to end"], "lemma": "end to end", "pos": "phrase", "en": "in a long line, with each one touching the next", "hu": "egymás után sorba rakva" },
+      { "forms": ["feature strongly"], "lemma": "feature strongly", "pos": "phrase", "en": "to be an important part of something", "hu": "fontos szerepet játszik, hangsúlyosan jelen van" },
+      { "forms": ["crowned"], "lemma": "crown", "pos": "verb", "en": "to officially say that someone or something is the best", "hu": "megkoronáz, (a legjobbnak) kikiált" },
+      { "forms": ["poll"], "lemma": "poll", "pos": "noun", "en": "a way of finding out what many people think by asking them", "hu": "szavazás, közvélemény-kutatás" },
+      { "forms": ["nostalgia"], "lemma": "nostalgia", "pos": "noun", "en": "a happy but sad feeling when you think about the past", "hu": "nosztalgia, a múlt utáni vágyakozás" },
+      { "forms": ["translate into"], "lemma": "translate into", "pos": "phrasal verb", "en": "to lead to a particular result", "hu": "átváltódik valamire, eredményez", "tip": "Itt nem fordítást jelent." },
+      { "forms": ["rocky"], "lemma": "rocky", "pos": "adjective", "en": "difficult, with a lot of problems", "hu": "nehéz, viharos, zűrös" },
+      { "forms": ["carpenter"], "lemma": "carpenter", "pos": "noun", "en": "a person whose job is making things from wood", "hu": "asztalos, ács" },
+      { "forms": ["took off"], "lemma": "take off", "pos": "phrasal verb", "en": "to suddenly become successful or popular", "hu": "befut, sikeres lesz", "tip": "Itt nem a repülő felszállását jelenti." },
+      { "forms": ["ranges"], "lemma": "range", "pos": "noun", "en": "a group of products of the same type from one company", "hu": "termékcsalád, termékskála" },
+      { "forms": ["embraced"], "lemma": "embrace", "pos": "verb", "en": "to accept something new with enthusiasm", "hu": "felkarol, lelkesen magáévá tesz" },
+      { "forms": ["launching"], "lemma": "launch", "pos": "verb", "en": "to start selling a new product", "hu": "piacra dob, bevezet" }
+    ],
+    "2005-maj-emelt-L2": [
+      { "forms": ["stray"], "lemma": "stray", "pos": "adjective", "en": "lost or without a home and an owner", "hu": "kóbor, gazdátlan" },
+      { "forms": ["charity"], "lemma": "charity", "pos": "noun", "en": "an organisation that collects money to help people or animals in need", "hu": "jótékonysági szervezet" },
+      { "forms": ["takes in"], "lemma": "take in", "pos": "phrasal verb", "en": "to give a home to an animal or person that needs one", "hu": "befogad" },
+      { "forms": ["ownership"], "lemma": "ownership", "pos": "noun", "en": "the fact of having something that belongs to you", "hu": "tulajdonlás, tartás (állaté)" },
+      { "forms": ["curriculum-based"], "lemma": "curriculum-based", "pos": "adjective", "en": "connected with the subjects that schools have to teach", "hu": "tantervre épülő" },
+      { "forms": ["get the message across"], "lemma": "get the message across", "pos": "idiom", "en": "to make people understand an idea", "hu": "megérteti, átadja az üzenetet" },
+      { "forms": ["shelter"], "lemma": "shelter", "pos": "noun", "en": "a place where animals without a home are kept and looked after", "hu": "menhely" },
+      { "forms": ["microchipped"], "lemma": "microchip", "pos": "verb", "en": "to put a very small electronic part under an animal's skin so that it can be identified", "hu": "chippel ellát (kutyát)" }
+    ],
+    "2005-maj-emelt-L3": [
+      { "forms": ["superstitions"], "lemma": "superstition", "pos": "noun", "en": "a belief in luck or magic that is not based on reason", "hu": "babona" },
+      { "forms": ["go about"], "lemma": "go about", "pos": "phrasal verb", "en": "to start dealing with a problem in a particular way", "hu": "hozzáfog, (hogyan) intéz" },
+      { "forms": ["horseshoes"], "lemma": "horseshoe", "pos": "noun", "en": "a U-shaped piece of metal on a horse's foot, a sign of good luck", "hu": "patkó" },
+      { "forms": ["fireplace"], "lemma": "fireplace", "pos": "noun", "en": "a place in the wall of a room where you can have a fire", "hu": "kandalló" },
+      { "forms": ["touching wood"], "lemma": "touch wood", "pos": "idiom", "en": "to touch something wooden so that bad luck does not come", "hu": "lekopogja (a fát)" },
+      { "forms": ["ladder"], "lemma": "ladder", "pos": "noun", "en": "a tool with steps that you climb to reach high places", "hu": "létra" },
+      { "forms": ["witches"], "lemma": "witch", "pos": "noun", "en": "a woman in stories who has magic powers", "hu": "boszorkány" },
+      { "forms": ["warlocks"], "lemma": "warlock", "pos": "noun", "en": "a man who has magic powers", "hu": "varázsló, boszorkánymester" },
+      { "forms": ["crosses your path"], "lemma": "cross somebody's path", "pos": "phrase", "en": "to go across the way in front of you", "hu": "keresztezi az útját" },
+      { "forms": ["it pays to"], "lemma": "it pays to", "pos": "phrase", "en": "it is useful or wise to do something", "hu": "megéri, érdemes" },
+      { "forms": ["failings"], "lemma": "failing", "pos": "noun", "en": "a weakness or fault in someone", "hu": "gyengeség, hiba, kudarc" },
+      { "forms": ["copping out"], "lemma": "cop out", "pos": "phrasal verb", "en": "to avoid doing something you should do, often by giving an excuse", "hu": "kibújik (valami alól), kihátrál" }
+    ],
+    "2005-maj-emelt-H2": [
+      { "forms": ["polled"], "lemma": "poll", "pos": "verb", "en": "to ask many people questions to find out their opinions", "hu": "megkérdez (felmérésben)" },
+      { "forms": ["fearful"], "lemma": "fearful", "pos": "adjective", "en": "making people afraid", "hu": "félelmetes, ijesztő" },
+      { "forms": ["proportions"], "lemma": "proportion", "pos": "noun", "en": "the part of a group, compared with the whole group", "hu": "arány, hányad" }
+    ],
+    "2005-maj-emelt-H3": [
+      { "forms": ["turns up"], "lemma": "turn up", "pos": "phrasal verb", "en": "to arrive or appear, often unexpectedly", "hu": "megjelenik, felbukkan" },
+      { "forms": ["personality traits"], "lemma": "personality trait", "pos": "noun", "en": "a typical quality of a person’s character", "hu": "jellemvonás, személyiségjegy" },
+      { "forms": ["vulnerability"], "lemma": "vulnerability", "pos": "noun", "en": "the state of being easy to hurt or attack", "hu": "sebezhetőség, kiszolgáltatottság" },
+      { "forms": ["brings out"], "lemma": "bring out", "pos": "phrasal verb", "en": "to make a hidden quality or feeling appear", "hu": "előhoz, felszínre hoz (érzést, tulajdonságot)" }
     ]
   }
 }

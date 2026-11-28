@@ -275,6 +275,69 @@
       { "forms": ["ever more"], "lemma": "ever more", "pos": "phrase", "en": "more and more", "hu": "egyre (inkább)" },
       { "forms": ["sophisticated"], "lemma": "sophisticated", "pos": "adjective", "en": "clever and complicated", "hu": "kifinomult, fejlett" },
       { "forms": ["accurate"], "lemma": "accurate", "pos": "adjective", "en": "correct and exact", "hu": "pontos" }
+    ],
+    "2006-okt-emelt-L1": [
+      { "forms": ["nerve-racking"], "lemma": "nerve-racking", "pos": "adjective", "en": "making you feel very nervous and worried", "hu": "idegtépő, idegőrlő" },
+      { "forms": ["banish"], "lemma": "banish", "pos": "verb", "en": "to make a bad feeling go away", "hu": "elűz, száműz" },
+      { "forms": ["butterflies"], "lemma": "butterflies", "pos": "idiom", "en": "here: a nervous feeling in your stomach", "hu": "(itt) izgalom, gyomorideg", "tip": "Have butterflies (in your stomach): izgul, remeg a gyomra." },
+      { "forms": ["sweaty palms"], "lemma": "sweaty palms", "pos": "noun", "en": "wet hands because you are nervous", "hu": "izzadt tenyér" },
+      { "forms": ["approached"], "lemma": "approach", "pos": "verb", "en": "to go up to a person in order to speak to them", "hu": "megszólít, odamegy valakihez" },
+      { "forms": ["secured"], "lemma": "secure", "pos": "verb", "en": "to get something, often after a lot of effort", "hu": "megszerez" },
+      { "forms": ["stick around"], "lemma": "stick around", "pos": "phrasal verb", "en": "to stay somewhere for a while", "hu": "ott marad, maradozik" },
+      { "forms": ["work out"], "lemma": "work out", "pos": "phrasal verb", "en": "to happen in a good way", "hu": "jól alakul, sikerül" },
+      { "forms": ["take the pressure off"], "lemma": "take the pressure off", "pos": "phrase", "en": "to make a situation less stressful", "hu": "leveszi a terhet, csökkenti a feszültséget" },
+      { "forms": ["loose"], "lemma": "loose", "pos": "adjective", "en": "not exact or fixed", "hu": "laza" },
+      { "forms": ["awkward silences"], "lemma": "awkward silence", "pos": "noun", "en": "a time when nobody speaks and everybody feels uncomfortable", "hu": "kínos csend" },
+      { "forms": ["goes a long way"], "lemma": "go a long way", "pos": "idiom", "en": "to help very much", "hu": "sokat segít" },
+      { "forms": ["brush up on"], "lemma": "brush up on", "pos": "phrasal verb", "en": "to learn again or improve your knowledge of something", "hu": "felfrissíti a tudását valamiben" },
+      { "forms": ["engaged"], "lemma": "engaged", "pos": "adjective", "en": "interested and paying attention", "hu": "lekötött, érdeklődő", "tip": "Itt nem eljegyzést jelent." },
+      { "forms": ["jot them down"], "lemma": "jot down", "pos": "phrasal verb", "en": "to write something quickly", "hu": "felfirkant, gyorsan lejegyez" },
+      { "forms": ["Nine times out of ten"], "lemma": "nine times out of ten", "pos": "idiom", "en": "almost always", "hu": "tízből kilencszer, szinte mindig" }
+    ],
+    "2006-okt-emelt-L2": [
+      { "forms": ["hooded tops"], "lemma": "hooded top", "pos": "noun", "en": "a sports shirt or jacket with a cover for the head", "hu": "kapucnis pulóver" },
+      { "forms": ["youngsters"], "lemma": "youngster", "pos": "noun", "en": "a young person", "hu": "fiatal, kamasz" },
+      { "forms": ["yobbos"], "lemma": "yobbo", "pos": "noun", "en": "a young person who behaves in a rude and violent way (British, informal)", "hu": "huligán, vagány" },
+      { "forms": ["Parenting"], "lemma": "parenting", "pos": "noun", "en": "the job of bringing up children", "hu": "gyereknevelés" },
+      { "forms": ["toddlers"], "lemma": "toddler", "pos": "noun", "en": "a very young child who is just learning to walk", "hu": "kisgyerek, totyogó" },
+      { "forms": ["isolated"], "lemma": "isolated", "pos": "adjective", "en": "alone and without contact with other people", "hu": "elszigetelt, magányos" },
+      { "forms": ["poll"], "lemma": "poll", "pos": "noun", "en": "a survey in which people are asked their opinion", "hu": "közvélemény-kutatás, felmérés" },
+      { "forms": ["far-reaching"], "lemma": "far-reaching", "pos": "adjective", "en": "having a great effect on many things", "hu": "messzemenő, széles körű" },
+      { "forms": ["underestimated"], "lemma": "underestimate", "pos": "verb", "en": "to think something is less important than it really is", "hu": "alábecsül" }
+    ],
+    "2006-okt-emelt-L3": [
+      { "forms": ["set free"], "lemma": "set free", "pos": "phrase", "en": "to let something go so that other people can see it", "hu": "szabadjára enged, útjára bocsát" },
+      { "forms": ["spark"], "lemma": "spark", "pos": "noun", "en": "a quality that makes something lively and exciting", "hu": "szikra, lendület", "tip": "Igeként (spark an idea): elindít, kivált." },
+      { "forms": ["shine"], "lemma": "shine", "pos": "verb", "en": "to show that you are very good at something", "hu": "kitűnik, ragyog" },
+      { "forms": ["entry form"], "lemma": "entry form", "pos": "noun", "en": "a paper you fill in to take part in a competition", "hu": "nevezési lap, jelentkezési lap" },
+      { "forms": ["judged"], "lemma": "judge", "pos": "verb", "en": "to decide how good something is in a competition", "hu": "értékel, elbírál" },
+      { "forms": ["on the basis of"], "lemma": "on the basis of", "pos": "phrase", "en": "using something as the reason for a decision", "hu": "valami alapján" },
+      { "forms": ["originality"], "lemma": "originality", "pos": "noun", "en": "the quality of being new and different", "hu": "eredetiség" },
+      { "forms": ["plot"], "lemma": "plot", "pos": "noun", "en": "the events that happen in a story", "hu": "cselekmény" },
+      { "forms": ["characterisation"], "lemma": "characterisation", "pos": "noun", "en": "the way a writer shows what the people in a story are like", "hu": "jellemábrázolás" }
+    ],
+    "2006-okt-emelt-H1": [
+      { "forms": ["Yankee"], "lemma": "Yankee", "pos": "noun", "en": "a person from the north-east of the USA", "hu": "jenki (az USA északkeleti részéből való)" },
+      { "forms": ["steam"], "lemma": "steam", "pos": "verb", "en": "to cook food with the hot air that comes from boiling water", "hu": "párol, gőzöl" },
+      { "forms": ["lobster"], "lemma": "lobster", "pos": "noun", "en": "a sea animal with a hard shell and two large claws, eaten as food", "hu": "homár" }
+    ],
+    "2006-okt-emelt-H2": [
+      { "forms": ["established his reputation"], "lemma": "establish your reputation", "pos": "phrase", "en": "to become known and respected for something", "hu": "megalapozza a hírnevét" },
+      { "forms": ["sitter"], "lemma": "sitter", "pos": "noun", "en": "a person who sits so that an artist can paint them", "hu": "modell (portréhoz)" },
+      { "forms": ["sketches"], "lemma": "sketch", "pos": "noun", "en": "a quick, simple drawing", "hu": "vázlat" },
+      { "forms": ["parquet floor"], "lemma": "parquet floor", "pos": "noun", "en": "a floor made of small pieces of wood", "hu": "parketta" },
+      { "forms": ["pigtail"], "lemma": "pigtail", "pos": "noun", "en": "hair tied together at the back of the head, often plaited", "hu": "copf, hajfonat" },
+      { "forms": ["manner"], "lemma": "manner", "pos": "noun", "en": "the way something is done", "hu": "mód, modor" }
+    ],
+    "2006-okt-emelt-H3": [
+      { "forms": ["fabulous"], "lemma": "fabulous", "pos": "adjective", "en": "extremely good", "hu": "mesés, csodálatos" },
+      { "forms": ["Mestizos"], "lemma": "Mestizo", "pos": "noun", "en": "a person with both Spanish and native American parents or ancestors", "hu": "meszticek (vegyes, spanyol és indián származásúak)" },
+      { "forms": ["descendants"], "lemma": "descendant", "pos": "noun", "en": "a person in a family who lives after an older family member", "hu": "leszármazott, utód" },
+      { "forms": ["Mennonites"], "lemma": "Mennonite", "pos": "noun", "en": "a member of a Protestant Christian religious group", "hu": "mennonita" },
+      { "forms": ["dates back to"], "lemma": "date back to", "pos": "phrasal verb", "en": "to have started at a particular time in the past", "hu": "visszanyúlik valameddig" },
+      { "forms": ["reject"], "lemma": "reject", "pos": "verb", "en": "to refuse to accept something", "hu": "elutasít" },
+      { "forms": ["broke out"], "lemma": "break out", "pos": "phrasal verb", "en": "to start suddenly (used about a war)", "hu": "kitör (háború)" },
+      { "forms": ["settled"], "lemma": "settle", "pos": "verb", "en": "to go to live in a new place", "hu": "letelepszik" }
     ]
   }
 }

@@ -170,6 +170,58 @@
       { "forms": ["aeroplanes"], "lemma": "aeroplane", "pos": "noun", "en": "a plane (British English)", "hu": "repülőgép" },
       { "forms": ["inspiration"], "lemma": "inspiration", "pos": "noun", "en": "something that gives you the idea to create something", "hu": "ihlet, ihletforrás" },
       { "forms": ["produced"], "lemma": "produce", "pos": "verb", "en": "to organize and pay for making a film", "hu": "producerként készít (filmet)" }
+    ],
+    "2026-maj-kozep-L1": [
+      { "forms": ["PATROL", "patrols"], "lemma": "patrol", "pos": "noun", "en": "walking around a place regularly to check that it is safe", "hu": "járőrözés, őrjárat" },
+      { "forms": ["airfield"], "lemma": "airfield", "pos": "noun", "en": "an area of ground where planes take off and land", "hu": "repülőtér (a kifutók területe)" },
+      { "forms": ["border collie", "border collies"], "lemma": "border collie", "pos": "noun", "en": "a kind of black and white dog that is used on farms", "hu": "border collie (pásztorkutya)" },
+      { "forms": ["crew"], "lemma": "crew", "pos": "noun", "en": "the people who work on a plane", "hu": "személyzet" },
+      { "forms": ["wildlife"], "lemma": "wildlife", "pos": "noun", "en": "animals and birds that live free in nature", "hu": "vadállatok, vadon élő állatok" },
+      { "forms": ["employed"], "lemma": "employ", "pos": "verb", "en": "to use or pay for something", "hu": "alkalmaz, igénybe vesz" },
+      { "forms": ["terminal"], "lemma": "terminal", "pos": "noun", "en": "the building at an airport where passengers wait", "hu": "terminál, utasváró épület" },
+      { "forms": ["calming"], "lemma": "calm", "pos": "verb", "en": "to make someone feel quiet and relaxed", "hu": "megnyugtat" },
+      { "forms": ["affection"], "lemma": "affection", "pos": "noun", "en": "a feeling of liking and loving", "hu": "szeretet, simogatás" },
+      { "forms": ["herd"], "lemma": "herd", "pos": "verb", "en": "to move a group of animals together", "hu": "terel" },
+      { "forms": ["geese"], "lemma": "goose", "pos": "noun", "en": "a large white or grey bird, like a big duck", "hu": "liba, lúd", "tip": "Rendhagyó többes szám: goose – geese." },
+      { "forms": ["vital"], "lemma": "vital", "pos": "adjective", "en": "very important", "hu": "létfontosságú" },
+      { "forms": ["boy"], "lemma": "boy", "pos": "phrase", "en": "used to show surprise or a strong feeling", "hu": "hű, ejha", "tip": "Itt felkiáltás, nem fiút jelent." },
+      { "forms": ["Along the way"], "lemma": "along the way", "pos": "phrase", "en": "during this time; while this was happening", "hu": "eközben, időközben" },
+      { "forms": ["hosts"], "lemma": "host", "pos": "verb", "en": "to welcome visitors", "hu": "vendégül lát, fogad" }
+    ],
+    "2026-maj-kozep-L2": [
+      { "forms": ["TALE"], "lemma": "tale", "pos": "noun", "en": "a story", "hu": "mese, történet" },
+      { "forms": ["graduate student", "grad student"], "lemma": "graduate student", "pos": "noun", "en": "a student who is doing a higher degree at a university", "hu": "mesterszakos hallgató" },
+      { "forms": ["frog"], "lemma": "frog", "pos": "noun", "en": "a small green animal that lives near water and jumps", "hu": "béka" },
+      { "forms": ["called out"], "lemma": "call out", "pos": "phrasal verb", "en": "to say something loudly", "hu": "kiált, odaszól" },
+      { "forms": ["Desperate"], "lemma": "desperate", "pos": "adjective", "en": "having no hope and ready to do anything", "hu": "kétségbeesett" },
+      { "forms": ["cried out"], "lemma": "cry out", "pos": "phrasal verb", "en": "to shout loudly because you are afraid or in pain", "hu": "felkiált" }
+    ],
+    "2026-maj-kozep-L3": [
+      { "forms": ["barefoot"], "lemma": "barefoot", "pos": "adverb", "en": "not wearing shoes or socks", "hu": "mezítláb" },
+      { "forms": ["corner store"], "lemma": "corner store", "pos": "noun", "en": "a small shop near your home", "hu": "sarki bolt" },
+      { "forms": ["puzzled"], "lemma": "puzzled", "pos": "adjective", "en": "not able to understand something", "hu": "értetlen, zavarodott" },
+      { "forms": ["gas station"], "lemma": "gas station", "pos": "noun", "en": "a place where you buy fuel for your car", "hu": "benzinkút", "tip": "Amerikai angol; britül petrol station." },
+      { "forms": ["grocery store"], "lemma": "grocery store", "pos": "noun", "en": "a shop that sells food", "hu": "élelmiszerbolt" },
+      { "forms": ["minority"], "lemma": "minority", "pos": "noun", "en": "a small part of a group", "hu": "kisebbség" },
+      { "forms": ["elementary school"], "lemma": "elementary school", "pos": "noun", "en": "a school for children between about 5 and 11", "hu": "általános iskola (alsó tagozat)" },
+      { "forms": ["optional"], "lemma": "optional", "pos": "adjective", "en": "that you can choose to do, but you do not have to", "hu": "nem kötelező, választható" },
+      { "forms": ["administrators"], "lemma": "administrator", "pos": "noun", "en": "a person who manages a school or office", "hu": "vezető, ügyintéző" },
+      { "forms": ["claiming"], "lemma": "claim", "pos": "verb", "en": "to say that something is true", "hu": "állít" },
+      { "forms": ["strengthen"], "lemma": "strengthen", "pos": "verb", "en": "to make something stronger", "hu": "erősít" },
+      { "forms": ["evidence"], "lemma": "evidence", "pos": "noun", "en": "something that shows that something is true", "hu": "bizonyíték, jel" },
+      { "forms": ["casual"], "lemma": "casual", "pos": "adjective", "en": "relaxed and not formal", "hu": "laza, kötetlen" },
+      { "forms": ["down-to-earth"], "lemma": "down-to-earth", "pos": "adjective", "en": "simple, practical and friendly", "hu": "földhözragadt, gyakorlatias, közvetlen" }
+    ],
+    "2026-maj-kozep-H2": [
+      { "forms": ["frequency"], "lemma": "frequency", "pos": "noun", "en": "the number on the radio where you can find a station", "hu": "frekvencia" }
+    ],
+    "2026-maj-kozep-H3": [
+      { "forms": ["In the wild"], "lemma": "in the wild", "pos": "phrase", "en": "living free in nature, not in a zoo", "hu": "a vadonban, szabadon" },
+      { "forms": ["typically"], "lemma": "typically", "pos": "adverb", "en": "usually; in most cases", "hu": "jellemzően, általában" },
+      { "forms": ["sailor"], "lemma": "sailor", "pos": "noun", "en": "a person who works on a ship", "hu": "tengerész, matróz" },
+      { "forms": ["owed"], "lemma": "owe", "pos": "verb", "en": "to have to pay money back to someone", "hu": "tartozik (pénzzel)" },
+      { "forms": ["trader"], "lemma": "trader", "pos": "noun", "en": "a person who buys and sells things", "hu": "kereskedő" },
+      { "forms": ["attend"], "lemma": "attend", "pos": "verb", "en": "to go to an event", "hu": "részt vesz, elmegy (eseményre)" }
     ]
   }
 }

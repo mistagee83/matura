@@ -168,6 +168,77 @@
       { "forms": ["beamed"], "lemma": "beam", "pos": "verb", "en": "to send a signal through the air or space", "hu": "sugárzott, küldött (jelet)" },
       { "forms": ["satellites"], "lemma": "satellite", "pos": "noun", "en": "a machine in space that moves around the earth and sends signals", "hu": "műhold" },
       { "forms": ["fish and chip shop"], "lemma": "fish and chip shop", "pos": "noun", "en": "a shop that sells fried fish and chips (British fast food)", "hu": "halas-sültkrumplis büfé" }
+    ],
+    "2014-okt-kozep-L1": [
+      { "forms": ["span"], "lemma": "span", "pos": "verb", "en": "to go across a river or a space from one side to the other", "hu": "átível, áthidal" },
+      { "forms": ["footbridge"], "lemma": "footbridge", "pos": "noun", "en": "a bridge only for people walking", "hu": "gyalogoshíd" },
+      { "forms": ["rebuilds"], "lemma": "rebuild", "pos": "noun", "en": "building something again after it has been damaged or destroyed", "hu": "újjáépítés" },
+      { "forms": ["eventually"], "lemma": "eventually", "pos": "adverb", "en": "after a long time", "hu": "végül, idővel", "tip": "Hamis barát: nem azt jelenti, hogy esetleg." },
+      { "forms": ["throughout"], "lemma": "throughout", "pos": "preposition", "en": "during the whole time of something", "hu": "végig, egész … során" },
+      { "forms": ["thoroughfare"], "lemma": "thoroughfare", "pos": "noun", "en": "a main road in a town that many people use", "hu": "főútvonal, forgalmas út" },
+      { "forms": ["lined"], "lemma": "line", "pos": "verb", "en": "to stand in a row along the sides of something", "hu": "szegélyez" },
+      { "forms": ["jammed"], "lemma": "jammed", "pos": "adjective", "en": "so full that nothing can move", "hu": "zsúfolt, eldugult" },
+      { "forms": ["carts"], "lemma": "cart", "pos": "noun", "en": "a vehicle with wheels, usually pulled by a horse", "hu": "kocsi, szekér" },
+      { "forms": ["enforced"], "lemma": "enforce", "pos": "verb", "en": "to make people obey a rule or law", "hu": "betartat, érvényt szerez" },
+      { "forms": ["demolished"], "lemma": "demolish", "pos": "verb", "en": "to destroy a building completely", "hu": "lebont, lerombol" },
+      { "forms": ["granite"], "lemma": "granite", "pos": "noun", "en": "a very hard grey stone", "hu": "gránit" },
+      { "forms": ["concrete"], "lemma": "concrete", "pos": "noun", "en": "a hard building material made from cement, sand, stones and water", "hu": "beton" }
+    ],
+    "2014-okt-kozep-L2": [
+      { "forms": ["clay"], "lemma": "clay", "pos": "noun", "en": "a type of earth that becomes hard when it is baked", "hu": "agyag" },
+      { "forms": ["symbolize"], "lemma": "symbolize", "pos": "verb", "en": "to be a sign of an idea or quality", "hu": "jelképez" },
+      { "forms": ["spiritual"], "lemma": "spiritual", "pos": "adjective", "en": "connected with the soul and religion, not the body", "hu": "lelki, szellemi" },
+      { "forms": ["originated"], "lemma": "originate", "pos": "verb", "en": "to start or begin in a particular way or place", "hu": "ered, keletkezik" },
+      { "forms": ["harvest"], "lemma": "harvest", "pos": "noun", "en": "the time when crops are collected from the fields", "hu": "aratás, betakarítás" },
+      { "forms": ["marked", "mark"], "lemma": "mark", "pos": "verb", "en": "to show that something important happens or begins", "hu": "jelez, megjelöl, (alkalmat) megül" },
+      { "forms": ["blessing"], "lemma": "blessing", "pos": "noun", "en": "help and protection from God or a god", "hu": "áldás" },
+      { "forms": ["financial year"], "lemma": "financial year", "pos": "noun", "en": "a period of twelve months used by businesses to count money", "hu": "pénzügyi év, üzleti év" },
+      { "forms": ["extends"], "lemma": "extend", "pos": "verb", "en": "to reach or include more people or places", "hu": "kiterjed" },
+      { "forms": ["subcontinent"], "lemma": "subcontinent", "pos": "noun", "en": "a large area of land that is part of a continent, here: India and the countries near it", "hu": "szubkontinens (az indiai)" },
+      { "forms": ["regardless of"], "lemma": "regardless of", "pos": "preposition", "en": "without being affected by something", "hu": "tekintet nélkül valamire" },
+      { "forms": ["faith"], "lemma": "faith", "pos": "noun", "en": "a religion", "hu": "vallás, hit" },
+      { "forms": ["bonfires"], "lemma": "bonfire", "pos": "noun", "en": "a large fire made outside", "hu": "máglya, tábortűz" },
+      { "forms": ["worship"], "lemma": "worship", "pos": "noun", "en": "showing respect and love for a god, for example by praying", "hu": "imádat, istentisztelet" },
+      { "forms": ["wanders"], "lemma": "wander", "pos": "verb", "en": "to walk around a place without a clear direction", "hu": "vándorol, kóborol" }
+    ],
+    "2014-okt-kozep-L3": [
+      { "forms": ["took matters into his own hands"], "lemma": "take matters into your own hands", "pos": "idiom", "en": "to deal with a problem yourself because others are not doing it", "hu": "a saját kezébe vette az ügyet" },
+      { "forms": ["or rather"], "lemma": "or rather", "pos": "phrase", "en": "used to correct what you have just said", "hu": "vagyis inkább, pontosabban" },
+      { "forms": ["jaws"], "lemma": "jaw", "pos": "noun", "en": "the bones of the mouth that hold the teeth", "hu": "állkapocs, pofa" },
+      { "forms": ["lawnmower", "mower"], "lemma": "lawnmower", "pos": "noun", "en": "a machine for cutting grass", "hu": "fűnyíró" },
+      { "forms": ["grabbing"], "lemma": "grab", "pos": "verb", "en": "to take something suddenly and roughly", "hu": "megragad, elkap" },
+      { "forms": ["keeper"], "lemma": "keeper", "pos": "noun", "en": "a person who looks after animals in a zoo or park", "hu": "gondozó (állatkerti)" },
+      { "forms": ["saltwater"], "lemma": "saltwater", "pos": "adjective", "en": "living in the sea, not in rivers or lakes", "hu": "sósvízi" },
+      { "forms": ["drowned"], "lemma": "drown", "pos": "verb", "en": "to kill by keeping under water", "hu": "vízbe fojt" },
+      { "forms": ["enclosure"], "lemma": "enclosure", "pos": "noun", "en": "an area with a fence or wall around it where animals are kept", "hu": "kifutó, bekerített terület" },
+      { "forms": ["guarded"], "lemma": "guard", "pos": "verb", "en": "to watch and protect something", "hu": "őriz, vigyáz valamire" },
+      { "forms": ["trophy"], "lemma": "trophy", "pos": "noun", "en": "a prize, or something you keep to show that you have won", "hu": "trófea, zsákmány" },
+      { "forms": ["lured"], "lemma": "lure", "pos": "verb", "en": "to make an animal or person go somewhere by offering something nice", "hu": "odacsalogat" },
+      { "forms": ["retrieve"], "lemma": "retrieve", "pos": "verb", "en": "to get something back", "hu": "visszaszerez, kihoz" },
+      { "forms": ["chewed up"], "lemma": "chew up", "pos": "phrasal verb", "en": "to damage something by biting it many times", "hu": "összerág" },
+      { "forms": ["munching on"], "lemma": "munch on", "pos": "phrasal verb", "en": "to eat something noisily", "hu": "majszol, ropogtat" },
+      { "forms": ["croc"], "lemma": "croc", "pos": "noun", "en": "a short informal word for a crocodile", "hu": "krokodil (röviden)" }
+    ],
+    "2014-okt-kozep-H1": [
+      { "forms": ["capacity"], "lemma": "capacity", "pos": "noun", "en": "the largest number of people that a place can hold", "hu": "befogadóképesség" },
+      { "forms": ["host"], "lemma": "host", "pos": "verb", "en": "to be the place where an event happens", "hu": "otthont ad, megrendez" },
+      { "forms": ["after dark"], "lemma": "after dark", "pos": "phrase", "en": "when it is night", "hu": "sötétedés után, este" }
+    ],
+    "2014-okt-kozep-H2": [
+      { "forms": ["survived"], "lemma": "survive", "pos": "verb", "en": "to stay in good condition after something dangerous", "hu": "túlél, épen átvészel" },
+      { "forms": ["devastated"], "lemma": "devastate", "pos": "verb", "en": "to destroy or badly damage a place", "hu": "elpusztít, letarol" }
+    ],
+    "2014-okt-kozep-H3": [
+      { "forms": ["phoenix-based"], "lemma": "Phoenix-based", "pos": "adjective", "en": "having its main office in the city of Phoenix", "hu": "phoenixi székhelyű" },
+      { "forms": ["deals with"], "lemma": "deal with", "pos": "phrasal verb", "en": "to have something as its work or subject", "hu": "foglalkozik valamivel" },
+      { "forms": ["cloning", "cloned", "clone", "clonings"], "lemma": "clone", "pos": "verb", "en": "to make an exact copy of an animal from one of its cells", "hu": "klónoz" },
+      { "forms": ["donor"], "lemma": "donor", "pos": "noun", "en": "here: the animal that gives the cells", "hu": "donor, sejtadó" },
+      { "forms": ["biopsy"], "lemma": "biopsy", "pos": "noun", "en": "taking a small piece of tissue from a body to examine it", "hu": "biopszia, szövetmintavétel" },
+      { "forms": ["cells"], "lemma": "cell", "pos": "noun", "en": "the smallest part of a living thing", "hu": "sejt" },
+      { "forms": ["stored"], "lemma": "store", "pos": "verb", "en": "to keep something in a place to use later", "hu": "tárol" },
+      { "forms": ["on the average"], "lemma": "on average", "pos": "phrase", "en": "usually; when you look at many cases together", "hu": "átlagosan, átlagban" },
+      { "forms": ["implantation"], "lemma": "implantation", "pos": "noun", "en": "putting something into a body, here: putting a young cell into an animal", "hu": "beültetés" },
+      { "forms": ["solid food"], "lemma": "solid food", "pos": "noun", "en": "food that is not liquid, that you have to chew", "hu": "szilárd táplálék" }
     ]
   }
 }

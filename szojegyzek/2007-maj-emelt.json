@@ -297,6 +297,61 @@
       { "forms": ["unlike"], "lemma": "unlike", "pos": "preposition", "en": "different from", "hu": "valamivel ellentétben" },
       { "forms": ["empower"], "lemma": "empower", "pos": "verb", "en": "to give someone the power to decide things", "hu": "felhatalmaz, döntési jogot ad" },
       { "forms": ["shop-floor workers"], "lemma": "shop-floor worker", "pos": "noun", "en": "a worker who makes things in a factory, not a manager", "hu": "fizikai dolgozó, munkás" }
+    ],
+    "2007-maj-emelt-L1": [
+      { "forms": ["ban"], "lemma": "ban", "pos": "noun", "en": "an official rule that says something is not allowed", "hu": "tiltás, eltiltás" },
+      { "forms": ["child welfare"], "lemma": "child welfare", "pos": "noun", "en": "the work of making sure that children are safe and healthy", "hu": "gyermekvédelem" },
+      { "forms": ["collapsed"], "lemma": "collapse", "pos": "verb", "en": "to fall down suddenly because you are ill or weak", "hu": "összeesik" },
+      { "forms": ["severe"], "lemma": "severe", "pos": "adjective", "en": "very serious and bad", "hu": "súlyos" },
+      { "forms": ["fuss"], "lemma": "fuss", "pos": "noun", "en": "too much worry, anger or excitement about something", "hu": "felhajtás, hűhó" },
+      { "forms": ["capacity"], "lemma": "capacity", "pos": "noun", "en": "the ability to do something", "hu": "teljesítőképesség, képesség" },
+      { "forms": ["authorities"], "lemma": "authority", "pos": "noun", "en": "the people or offices that have official power to make decisions", "hu": "hatóságok", "tip": "Ebben a jelentésben többes számban áll." },
+      { "forms": ["monitored"], "lemma": "monitor", "pos": "verb", "en": "to watch and check something carefully for a period of time", "hu": "figyelemmel kísér, ellenőriz" },
+      { "forms": ["athletics"], "lemma": "athletics", "pos": "noun", "en": "sports such as running and jumping", "hu": "atlétika" }
+    ],
+    "2007-maj-emelt-L2": [
+      { "forms": ["paper clip"], "lemma": "paper clip", "pos": "noun", "en": "a small piece of bent wire that holds sheets of paper together", "hu": "gemkapocs" },
+      { "forms": ["challenged"], "lemma": "challenge", "pos": "verb", "en": "to give someone a difficult task to see if they can do it", "hu": "kihívás elé állít", "tip": "A challenged himself: saját magát tette próbára." },
+      { "forms": ["mission"], "lemma": "mission", "pos": "noun", "en": "an important task or plan that you want to do", "hu": "küldetés, feladat" },
+      { "forms": ["listings"], "lemma": "listing", "pos": "noun", "en": "a short piece of text on a list, for example about something to sell", "hu": "hirdetés, (listán szereplő) tétel" },
+      { "forms": ["doorknob"], "lemma": "doorknob", "pos": "noun", "en": "a round handle that you turn to open a door", "hu": "ajtógomb, kilincsgomb" },
+      { "forms": ["camping stove"], "lemma": "camping stove", "pos": "noun", "en": "a small cooker that you take with you when you sleep in a tent", "hu": "kempingfőző" },
+      { "forms": ["sergeant"], "lemma": "sergeant", "pos": "noun", "en": "a soldier with a middle rank", "hu": "őrmester" },
+      { "forms": ["generator"], "lemma": "generator", "pos": "noun", "en": "a machine that makes electricity", "hu": "áramfejlesztő, generátor" },
+      { "forms": ["storage"], "lemma": "storage", "pos": "noun", "en": "a place where things are kept until they are needed", "hu": "megőrzés, raktár" },
+      { "forms": ["leaking"], "lemma": "leak", "pos": "verb", "en": "to let gas or liquid come out through a hole", "hu": "szivárog, ereszt" },
+      { "forms": ["tracked down"], "lemma": "track down", "pos": "phrasal verb", "en": "to find something after looking for it for a long time", "hu": "felkutat, megtalál" },
+      { "forms": ["snowmobile"], "lemma": "snowmobile", "pos": "noun", "en": "a small vehicle with an engine that travels on snow", "hu": "motoros szán" },
+      { "forms": ["swapped"], "lemma": "swap", "pos": "verb", "en": "to give something and get something else instead", "hu": "elcserél" },
+      { "forms": ["duplex house"], "lemma": "duplex house", "pos": "noun", "en": "a building divided into two homes", "hu": "ikerház, kétlakásos ház" }
+    ],
+    "2007-maj-emelt-L3": [
+      { "forms": ["trillion"], "lemma": "trillion", "pos": "noun", "en": "a million million (1,000,000,000,000)", "hu": "billió (ezermilliárd)", "tip": "Hamis barát: az angol trillion a magyar billió." },
+      { "forms": ["disconnected"], "lemma": "disconnect", "pos": "verb", "en": "to stop a phone line or gas supply from working", "hu": "kikapcsoltat, megszüntet (vonalat)" },
+      { "forms": ["threatened"], "lemma": "threaten", "pos": "verb", "en": "to say you will do something bad to someone if they do not do what you want", "hu": "fenyeget" },
+      { "forms": ["outstanding"], "lemma": "outstanding", "pos": "adjective", "en": "not yet paid", "hu": "kifizetetlen, hátralékos", "tip": "Itt nem azt jelenti: kiemelkedő." },
+      { "forms": ["is quoted as saying"], "lemma": "be quoted as saying", "pos": "phrase", "en": "used to report the words that someone said, often in a newspaper", "hu": "idézik, hogy azt mondta" },
+      { "forms": ["fainted"], "lemma": "faint", "pos": "verb", "en": "to suddenly become unconscious for a short time", "hu": "elájul" },
+      { "forms": ["charge"], "lemma": "charge", "pos": "noun", "en": "the money that you have to pay for something", "hu": "díj, felszámított összeg" },
+      { "forms": ["looking into"], "lemma": "look into", "pos": "phrasal verb", "en": "to try to find out the facts about something", "hu": "kivizsgál" },
+      { "forms": ["legal action"], "lemma": "legal action", "pos": "noun", "en": "the use of a court to settle a problem", "hu": "jogi lépések, bírósági eljárás" }
+    ],
+    "2007-maj-emelt-H1": [
+      { "forms": ["consists of"], "lemma": "consist of", "pos": "phrasal verb", "en": "to be made of particular parts", "hu": "áll valamiből" }
+    ],
+    "2007-maj-emelt-H2": [
+      { "forms": ["psychiatrist"], "lemma": "psychiatrist", "pos": "noun", "en": "a doctor who helps people with problems of the mind", "hu": "pszichiáter" },
+      { "forms": ["disturbed"], "lemma": "disturbed", "pos": "adjective", "en": "very upset and worried, often after a shock", "hu": "zaklatott, megrendült" },
+      { "forms": ["downtown"], "lemma": "downtown", "pos": "adjective", "en": "in or of the centre of a city", "hu": "belvárosi, a belváros" },
+      { "forms": ["welcomes"], "lemma": "welcome", "pos": "verb", "en": "to be happy about a change or an idea", "hu": "üdvözöl, örül valaminek" },
+      { "forms": ["commit"], "lemma": "commit", "pos": "verb", "en": "to do something wrong or illegal", "hu": "elkövet (bűnt)" },
+      { "forms": ["rebuild"], "lemma": "rebuild", "pos": "verb", "en": "to build something again after it has been destroyed", "hu": "újjáépít" },
+      { "forms": ["appropriate"], "lemma": "appropriate", "pos": "adjective", "en": "right for a particular situation", "hu": "helyénvaló, megfelelő" },
+      { "forms": ["put up"], "lemma": "put up", "pos": "phrasal verb", "en": "to build a building", "hu": "felhúz, felépít" },
+      { "forms": ["site"], "lemma": "site", "pos": "noun", "en": "a place where something is, was, or will be", "hu": "terület, helyszín" }
+    ],
+    "2007-maj-emelt-H3": [
+      { "forms": ["originally"], "lemma": "originally", "pos": "adverb", "en": "at the beginning, before things changed", "hu": "eredetileg" }
     ]
   }
 }

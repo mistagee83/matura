@@ -235,6 +235,71 @@
       { "forms": ["concept"], "lemma": "concept", "pos": "noun", "en": "an idea of what something is", "hu": "fogalom, elképzelés" },
       { "forms": ["firewood"], "lemma": "firewood", "pos": "noun", "en": "wood that is burnt on a fire", "hu": "tűzifa" },
       { "forms": ["forward planning"], "lemma": "forward planning", "pos": "noun", "en": "planning for the future", "hu": "előretervezés" }
+    ],
+    "2005-maj2-emelt-L1": [
+      { "forms": ["queuing"], "lemma": "queue", "pos": "verb", "en": "to wait in a line of people", "hu": "sorban áll, sorba áll" },
+      { "forms": ["tone up"], "lemma": "tone up", "pos": "phrasal verb", "en": "to make parts of your body firmer and stronger with exercise", "hu": "feszesít, formába hoz" },
+      { "forms": ["bums"], "lemma": "bum", "pos": "noun", "en": "the part of the body you sit on (an informal word)", "hu": "fenék, popó" },
+      { "forms": ["psychic"], "lemma": "psychic", "pos": "adjective", "en": "connected with strange powers of the mind, like knowing the future", "hu": "lelki, látnoki, természetfeletti" },
+      { "forms": ["spiritual"], "lemma": "spiritual", "pos": "adjective", "en": "connected with the soul and deep feelings, not with the body", "hu": "spirituális, lelki" },
+      { "forms": ["flexibility"], "lemma": "flexibility", "pos": "noun", "en": "the ability to bend your body easily", "hu": "hajlékonyság, rugalmasság" },
+      { "forms": ["vitality"], "lemma": "vitality", "pos": "noun", "en": "energy and strength", "hu": "életerő, vitalitás" },
+      { "forms": ["inner"], "lemma": "inner", "pos": "adjective", "en": "inside your mind or feelings", "hu": "belső" },
+      { "forms": ["self-sufficient"], "lemma": "self-sufficient", "pos": "adjective", "en": "able to manage alone without help from other people", "hu": "önálló, önellátó" }
+    ],
+    "2005-maj2-emelt-L2": [
+      { "forms": ["do-gooder"], "lemma": "do-gooder", "pos": "noun", "en": "a person who tries to help others, often in a way that annoys people", "hu": "jótét lélek, (túlbuzgó) jótevő" },
+      { "forms": ["winnings"], "lemma": "winnings", "pos": "noun", "en": "money that you win in a game or competition", "hu": "nyeremény", "tip": "Mindig többes számban áll." },
+      { "forms": ["orphans"], "lemma": "orphan", "pos": "noun", "en": "a child whose parents are dead", "hu": "árva" },
+      { "forms": ["gap year"], "lemma": "gap year", "pos": "noun", "en": "a year between school and university when you travel or work", "hu": "szünetév (az érettségi és az egyetem között)" },
+      { "forms": ["paying off"], "lemma": "pay off", "pos": "phrasal verb", "en": "to pay all the money that you owe", "hu": "kifizet, törleszt (adósságot)" },
+      { "forms": ["flashed into her mind"], "lemma": "flash into somebody's mind", "pos": "idiom", "en": "to come into your thoughts very suddenly", "hu": "hirtelen eszébe jut, átvillan az agyán" },
+      { "forms": ["monk"], "lemma": "monk", "pos": "noun", "en": "a religious man who lives with other religious men, away from normal life", "hu": "szerzetes" },
+      { "forms": ["foundation"], "lemma": "foundation", "pos": "noun", "en": "an organisation that gives money to help people", "hu": "alapítvány" },
+      { "forms": ["disabilities"], "lemma": "disability", "pos": "noun", "en": "a physical or mental condition that makes some things difficult to do", "hu": "fogyatékosság" },
+      { "forms": ["disabled"], "lemma": "disabled", "pos": "adjective", "en": "having a physical or mental condition that limits what you can do", "hu": "fogyatékkal élő, mozgássérült" },
+      { "forms": ["horrendous"], "lemma": "horrendous", "pos": "adjective", "en": "extremely bad and shocking", "hu": "borzalmas, rettenetes" },
+      { "forms": ["run-down"], "lemma": "run-down", "pos": "adjective", "en": "old and in bad condition because nobody repairs it", "hu": "lepusztult, elhanyagolt" },
+      { "forms": ["orphanages"], "lemma": "orphanage", "pos": "noun", "en": "a home for children whose parents are dead", "hu": "árvaház" },
+      { "forms": ["publicity"], "lemma": "publicity", "pos": "noun", "en": "the attention that something gets from newspapers, TV and the public", "hu": "nyilvánosság, közfigyelem" },
+      { "forms": ["generated"], "lemma": "generate", "pos": "verb", "en": "to make something happen or exist", "hu": "kelt, létrehoz" },
+      { "forms": ["donation"], "lemma": "donation", "pos": "noun", "en": "money that you give to help an organisation", "hu": "adomány" },
+      { "forms": ["saint"], "lemma": "saint", "pos": "noun", "en": "a person who is extremely good and kind", "hu": "szent" }
+    ],
+    "2005-maj2-emelt-L3": [
+      { "forms": ["sea turtles", "sea turtle", "turtles", "turtle"], "lemma": "turtle", "pos": "noun", "en": "a large animal with a hard shell on its back that lives in the sea", "hu": "teknős (tengeri)" },
+      { "forms": ["coastal"], "lemma": "coastal", "pos": "adjective", "en": "on or near the land next to the sea", "hu": "tengerparti, part menti" },
+      { "forms": ["marine"], "lemma": "marine", "pos": "adjective", "en": "living in or connected with the sea", "hu": "tengeri" },
+      { "forms": ["critically"], "lemma": "critically", "pos": "adverb", "en": "very seriously", "hu": "súlyosan, kritikusan" },
+      { "forms": ["considerable"], "lemma": "considerable", "pos": "adjective", "en": "large or important", "hu": "jelentős, komoly" },
+      { "forms": ["shells"], "lemma": "shell", "pos": "noun", "en": "the hard part that covers the back of some animals", "hu": "páncél, héj" },
+      { "forms": ["leatherback turtle"], "lemma": "leatherback turtle", "pos": "noun", "en": "the largest kind of sea turtle, with a soft back", "hu": "kérges teknős" },
+      { "forms": ["declined"], "lemma": "decline", "pos": "verb", "en": "to become smaller in number", "hu": "csökken, megfogyatkozik" },
+      { "forms": ["campaigners"], "lemma": "campaigner", "pos": "noun", "en": "a person who works to change something, for example to protect nature", "hu": "aktivista, kampányoló" },
+      { "forms": ["conservation"], "lemma": "conservation", "pos": "noun", "en": "the protection of animals, plants and nature", "hu": "természetvédelem, védelem" },
+      { "forms": ["generating"], "lemma": "generate", "pos": "verb", "en": "to produce or earn something", "hu": "termel, előállít (bevételt)" },
+      { "forms": ["livelihoods"], "lemma": "livelihood", "pos": "noun", "en": "the way someone earns the money they need to live", "hu": "megélhetés" },
+      { "forms": ["all along"], "lemma": "all along", "pos": "phrase", "en": "from the beginning, the whole time", "hu": "kezdettől fogva, végig" }
+    ],
+    "2005-maj2-emelt-H1": [
+      { "forms": ["birdwatching"], "lemma": "birdwatching", "pos": "noun", "en": "watching wild birds as a hobby", "hu": "madármegfigyelés" },
+      { "forms": ["binoculars"], "lemma": "binoculars", "pos": "noun", "en": "a tool with two parts you look through to see things far away", "hu": "távcső, látcső", "tip": "Mindig többes számban áll." },
+      { "forms": ["magnification"], "lemma": "magnification", "pos": "noun", "en": "how much bigger something looks through a lens", "hu": "nagyítás" },
+      { "forms": ["bird guide"], "lemma": "bird guide", "pos": "noun", "en": "a book that helps you recognise different birds", "hu": "madárhatározó (könyv)" }
+    ],
+    "2005-maj2-emelt-H2": [
+      { "forms": ["hot-sauce", "hot sauce", "hot sauces"], "lemma": "hot sauce", "pos": "noun", "en": "a very spicy liquid that you put on food", "hu": "csípős szósz" },
+      { "forms": ["citrus plant"], "lemma": "citrus plant", "pos": "noun", "en": "a factory where oranges, lemons and similar fruit are processed", "hu": "citrusfeldolgozó üzem", "tip": "A plant itt gyárat, üzemet jelent, nem növényt." },
+      { "forms": ["habanero peppers"], "lemma": "habanero pepper", "pos": "noun", "en": "a very hot kind of small pepper", "hu": "habanero paprika (nagyon csípős)" },
+      { "forms": ["bottled"], "lemma": "bottled", "pos": "adjective", "en": "put into bottles to be sold", "hu": "palackozott, üvegbe töltött" },
+      { "forms": ["named after"], "lemma": "name after", "pos": "phrasal verb", "en": "to give something the same name as a person or place", "hu": "elnevez valakiről, valamiről" },
+      { "forms": ["exceptionally"], "lemma": "exceptionally", "pos": "adverb", "en": "much more than usual", "hu": "kivételesen, rendkívül" },
+      { "forms": ["distributor"], "lemma": "distributor", "pos": "noun", "en": "a company that brings products to shops", "hu": "forgalmazó, nagykereskedő" },
+      { "forms": ["makes a point of"], "lemma": "make a point of", "pos": "phrase", "en": "to do something on purpose because you think it is important", "hu": "fontosnak tartja, hogy; ügyel arra, hogy" }
+    ],
+    "2005-maj2-emelt-H3": [
+      { "forms": ["foreground"], "lemma": "foreground", "pos": "noun", "en": "the part of a picture that is nearest to you", "hu": "előtér" },
+      { "forms": ["shady"], "lemma": "shady", "pos": "adjective", "en": "not in the sun, a little dark", "hu": "árnyékos" }
     ]
   }
 }

@@ -159,6 +159,57 @@
       { "forms": ["cheap"], "lemma": "cheap", "pos": "adjective", "en": "not costing much money", "hu": "olcsó" },
       { "forms": ["spend money on"], "lemma": "spend money on", "pos": "phrase", "en": "to use money to pay for something", "hu": "pénzt költ valamire" },
       { "forms": ["future"], "lemma": "future", "pos": "adjective", "en": "coming after now; later", "hu": "jövőbeli, leendő" }
+    ],
+    "2011-okt-kozep-L1": [
+      { "forms": ["grounds"], "lemma": "grounds", "pos": "noun", "en": "the land around a large building, often with gardens and a fence", "hu": "terület, park (egy épület körül)", "tip": "Ebben a jelentésben többes számban áll." },
+      { "forms": ["reign"], "lemma": "reign", "pos": "noun", "en": "the period of time when a king or queen rules a country", "hu": "uralkodás (ideje)" },
+      { "forms": ["chiming", "chimed"], "lemma": "chime", "pos": "verb", "en": "to ring and make a musical sound, like a big clock does every hour", "hu": "üt, harangoz (óra)" },
+      { "forms": ["demolished"], "lemma": "demolish", "pos": "verb", "en": "to destroy a building completely", "hu": "lebont, lerombol" },
+      { "forms": ["sundial"], "lemma": "sundial", "pos": "noun", "en": "an old kind of clock that uses the shadow of the sun to show the time", "hu": "napóra" },
+      { "forms": ["rang out"], "lemma": "ring out", "pos": "phrasal verb", "en": "to make a loud, clear sound that many people can hear", "hu": "megszólal, felcsendül (harang)" },
+      { "forms": ["associated"], "lemma": "associate", "pos": "verb", "en": "to connect someone or something with another thing in your mind", "hu": "összekapcsol, társít (gondolatban)" },
+      { "forms": ["nickname"], "lemma": "nickname", "pos": "noun", "en": "an informal name that people use instead of the real name", "hu": "becenév" },
+      { "forms": ["Commissioner"], "lemma": "commissioner", "pos": "noun", "en": "a person with an official job who is responsible for a government department", "hu": "biztos, főbiztos (hivatali vezető)" },
+      { "forms": ["inscribed"], "lemma": "inscribe", "pos": "verb", "en": "to cut or write words on metal or stone", "hu": "bevés, felír (fémbe, kőbe)" },
+      { "forms": ["occasional"], "lemma": "occasional", "pos": "adjective", "en": "happening sometimes, but not often", "hu": "alkalmi, időnkénti" },
+      { "forms": ["stoppages"], "lemma": "stoppage", "pos": "noun", "en": "a time when something stops working for a short period", "hu": "leállás, megállás" }
+    ],
+    "2011-okt-kozep-L2": [
+      { "forms": ["unemployed"], "lemma": "unemployed", "pos": "adjective", "en": "without a job", "hu": "munkanélküli" },
+      { "forms": ["street performer"], "lemma": "street performer", "pos": "noun", "en": "a person who sings, acts or does tricks in the street for money", "hu": "utcai előadó, utcazenész" },
+      { "forms": ["draw a crowd"], "lemma": "draw a crowd", "pos": "phrase", "en": "to make a lot of people come and watch", "hu": "tömeget vonz, sokan odagyűlnek" },
+      { "forms": ["cage"], "lemma": "cage", "pos": "noun", "en": "a box or room made of metal bars where animals are kept", "hu": "ketrec" },
+      { "forms": ["eventually"], "lemma": "eventually", "pos": "adverb", "en": "after a long time; in the end", "hu": "végül, idővel", "tip": "Hamis barát: nem azt jelenti, hogy esetleg." },
+      { "forms": ["swings"], "lemma": "swing", "pos": "verb", "en": "to move through the air while holding on to something", "hu": "átlendül, hintázik" },
+      { "forms": ["furious"], "lemma": "furious", "pos": "adjective", "en": "extremely angry", "hu": "dühös, tajtékzó" },
+      { "forms": ["teasing"], "lemma": "tease", "pos": "verb", "en": "to annoy an animal or person for fun", "hu": "ugrat, piszkál, bosszant" },
+      { "forms": ["slips"], "lemma": "slip", "pos": "verb", "en": "to lose your balance by accident", "hu": "megcsúszik" },
+      { "forms": ["gathers itself"], "lemma": "gather yourself", "pos": "phrase", "en": "to get ready, both in your body and mind, to do something", "hu": "összeszedi magát, ugrásra készül" },
+      { "forms": ["whispers"], "lemma": "whisper", "pos": "verb", "en": "to speak very quietly", "hu": "suttog" },
+      { "forms": ["fired"], "lemma": "fire", "pos": "verb", "en": "to make someone leave their job", "hu": "kirúg (állásból)", "tip": "A get fired azt jelenti: kirúgják." }
+    ],
+    "2011-okt-kozep-L3": [
+      { "forms": ["domestic"], "lemma": "domestic", "pos": "adjective", "en": "living with people and not wild", "hu": "házi, háziasított (állat)" },
+      { "forms": ["accompanied"], "lemma": "accompany", "pos": "verb", "en": "to go somewhere with someone; to be with someone", "hu": "elkísér, vele tart" },
+      { "forms": ["common ancestor"], "lemma": "common ancestor", "pos": "noun", "en": "an animal or person that two different groups both come from", "hu": "közös ős" },
+      { "forms": ["wolf"], "lemma": "wolf", "pos": "noun", "en": "a wild animal like a large dog that lives in groups", "hu": "farkas", "tip": "Többes száma: wolves." },
+      { "forms": ["territories"], "lemma": "territory", "pos": "noun", "en": "the area that an animal thinks belongs to it", "hu": "terület, felségterület" },
+      { "forms": ["urinating"], "lemma": "urinate", "pos": "verb", "en": "to pass liquid waste from the body", "hu": "vizel" },
+      { "forms": ["bury"], "lemma": "bury", "pos": "verb", "en": "to put something in the ground and cover it", "hu": "elás, eltemet", "tip": "Ejtése: /ˈberi/." },
+      { "forms": ["kill"], "lemma": "kill", "pos": "noun", "en": "an animal that another animal has killed for food", "hu": "zsákmány (elejtett állat)", "tip": "Itt főnév." },
+      { "forms": ["secure"], "lemma": "secure", "pos": "verb", "en": "to keep something safe so that you do not lose it", "hu": "biztosít, megőriz" },
+      { "forms": ["bared teeth"], "lemma": "bared teeth", "pos": "phrase", "en": "teeth that an animal shows when it wants to attack", "hu": "kivillantott fogak, vicsorgás" },
+      { "forms": ["growls"], "lemma": "growl", "pos": "noun", "en": "a low, angry sound that a dog makes", "hu": "morgás" },
+      { "forms": ["whines"], "lemma": "whine", "pos": "noun", "en": "a long, high, sad sound that a dog makes", "hu": "nyüszítés, szűkölés" },
+      { "forms": ["companions"], "lemma": "companion", "pos": "noun", "en": "a person or animal that you spend a lot of time with", "hu": "társ, kísérő" }
+    ],
+    "2011-okt-kozep-H2": [
+      { "forms": ["the Continent"], "lemma": "the Continent", "pos": "noun", "en": "the main part of Europe, as people in Britain call it", "hu": "a kontinens (Európa szárazföldi része)" },
+      { "forms": ["proposals"], "lemma": "proposal", "pos": "noun", "en": "a plan or idea that someone suggests", "hu": "javaslat, terv" },
+      { "forms": ["Shuttle trains"], "lemma": "shuttle train", "pos": "noun", "en": "a train that goes again and again between two places", "hu": "ingavonat, inga járat" }
+    ],
+    "2011-okt-kozep-H3": [
+      { "forms": ["fallen out"], "lemma": "fall out", "pos": "phrasal verb", "en": "to drop out of a place by accident", "hu": "kiesik" }
     ]
   }
 }

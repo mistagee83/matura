@@ -168,6 +168,52 @@
       { "forms": ["perhaps"], "lemma": "perhaps", "pos": "adverb", "en": "maybe", "hu": "talán" },
       { "forms": ["unexpectedly"], "lemma": "unexpectedly", "pos": "adverb", "en": "in a way that surprises you", "hu": "váratlanul" },
       { "forms": ["front"], "lemma": "the front", "pos": "noun", "en": "the place where the fighting happens in a war", "hu": "a front, a frontvonal" }
+    ],
+    "2021-maj-kozep-L1": [
+      { "forms": ["soaked to the skin"], "lemma": "soaked to the skin", "pos": "idiom", "en": "completely wet", "hu": "bőrig ázva" },
+      { "forms": ["art installation"], "lemma": "art installation", "pos": "noun", "en": "a large work of art that fills a room and that people can walk into", "hu": "installáció (műalkotás)" },
+      { "forms": ["initial"], "lemma": "initial", "pos": "adjective", "en": "first, at the beginning", "hu": "kezdeti, eredeti" },
+      { "forms": ["to do with"], "lemma": "have to do with", "pos": "phrase", "en": "to be connected with something", "hu": "köze van valamihez" },
+      { "forms": ["permanent"], "lemma": "permanent", "pos": "adjective", "en": "staying for ever, not changing", "hu": "állandó" }
+    ],
+    "2021-maj-kozep-L2": [
+      { "forms": ["rewarded"], "lemma": "reward", "pos": "verb", "en": "to give someone something good because they did something", "hu": "megjutalmaz" },
+      { "forms": ["restaurant chain"], "lemma": "restaurant chain", "pos": "noun", "en": "a group of restaurants that belong to the same company", "hu": "étteremlánc" },
+      { "forms": ["campaign"], "lemma": "campaign", "pos": "noun", "en": "planned activities to make people do something", "hu": "kampány" },
+      { "forms": ["encourage"], "lemma": "encourage", "pos": "verb", "en": "to make someone want to do something", "hu": "ösztönöz, bátorít" },
+      { "forms": ["spokesperson"], "lemma": "spokesperson", "pos": "noun", "en": "a person who speaks officially for a company", "hu": "szóvivő" },
+      { "forms": ["role models"], "lemma": "role model", "pos": "noun", "en": "a person that others want to be like", "hu": "példakép" },
+      { "forms": ["appropriate"], "lemma": "appropriate", "pos": "adjective", "en": "right for a particular situation", "hu": "helyénvaló, megfelelő" },
+      { "forms": ["promotion"], "lemma": "promotion", "pos": "noun", "en": "a special offer to sell more", "hu": "akció, promóció" },
+      { "forms": ["free of charge"], "lemma": "free of charge", "pos": "phrase", "en": "costing nothing", "hu": "ingyenes, díjmentes" }
+    ],
+    "2021-maj-kozep-L3": [
+      { "forms": ["paycheck"], "lemma": "paycheck", "pos": "noun", "en": "a cheque that you get as your pay from your job", "hu": "fizetési csekk, fizetés" },
+      { "forms": ["identification card"], "lemma": "identification card", "pos": "noun", "en": "an official card that shows who you are", "hu": "személyi igazolvány" },
+      { "forms": ["big deal"], "lemma": "big deal", "pos": "noun", "en": "something that people think is very important", "hu": "nagy ügy (make a big deal: nagy ügyet csinál belőle)" },
+      { "forms": ["intact"], "lemma": "intact", "pos": "adjective", "en": "complete and not damaged", "hu": "ép, sértetlen" },
+      { "forms": ["rounded"], "lemma": "round up", "pos": "phrasal verb", "en": "to make an amount bigger to a whole number", "hu": "felkerekít" },
+      { "forms": ["even"], "lemma": "even", "pos": "adjective", "en": "about money: exact and round, like 10 or 100", "hu": "kerek (összeg)" },
+      { "forms": ["heartfelt"], "lemma": "heartfelt", "pos": "adjective", "en": "very sincere, coming from the heart", "hu": "szívből jövő" },
+      { "forms": ["unheard"], "lemma": "unheard-of", "pos": "adjective", "en": "so unusual that it has never happened before", "hu": "hallatlan, példátlan" },
+      { "forms": ["let alone"], "lemma": "let alone", "pos": "phrase", "en": "and certainly not", "hu": "nemhogy, még kevésbé" },
+      { "forms": ["student loans"], "lemma": "student loan", "pos": "noun", "en": "money that a student borrows to pay for university", "hu": "diákhitel" },
+      { "forms": ["makes all the difference"], "lemma": "make all the difference", "pos": "phrase", "en": "to help very much; to change a situation a lot", "hu": "rengeteget számít" }
+    ],
+    "2021-maj-kozep-H1": [
+      { "forms": ["diagnosed"], "lemma": "diagnose", "pos": "verb", "en": "to find out what illness someone has", "hu": "diagnosztizál, megállapít (betegséget)" },
+      { "forms": ["technique"], "lemma": "technique", "pos": "noun", "en": "a way of doing something that needs skill", "hu": "technika, módszer" }
+    ],
+    "2021-maj-kozep-H2": [
+      { "forms": ["served as"], "lemma": "serve as", "pos": "phrasal verb", "en": "to be used as something", "hu": "valamiként szolgál" },
+      { "forms": ["mix up"], "lemma": "mix up", "pos": "phrasal verb", "en": "to think that one thing is another", "hu": "összekever, összetéveszt" },
+      { "forms": ["surveys"], "lemma": "survey", "pos": "noun", "en": "a set of questions to find out what people think", "hu": "felmérés" },
+      { "forms": ["tend to"], "lemma": "tend to", "pos": "phrase", "en": "to usually do something", "hu": "hajlamos valamire, általában" }
+    ],
+    "2021-maj-kozep-H3": [
+      { "forms": ["yachts", "yacht"], "lemma": "yacht", "pos": "noun", "en": "a large, expensive boat for pleasure", "hu": "jacht", "tip": "Kiejtése: /jɒt/." },
+      { "forms": ["applicants", "applicant"], "lemma": "applicant", "pos": "noun", "en": "a person who asks for a job", "hu": "jelentkező, pályázó" },
+      { "forms": ["having an eye for detail"], "lemma": "have an eye for detail", "pos": "phrase", "en": "to notice small things easily", "hu": "jó a szeme a részletekhez, alapos" }
     ]
   }
 }

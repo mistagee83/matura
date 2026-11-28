@@ -194,6 +194,55 @@
       { "forms": ["close to"], "lemma": "close to", "pos": "phrase", "en": "near", "hu": "közel valamihez" },
       { "forms": ["hoping"], "lemma": "hope", "pos": "verb", "en": "to want something to happen", "hu": "remél" },
       { "forms": ["still"], "lemma": "still", "pos": "adverb", "en": "even then; as before", "hu": "továbbra is, még mindig" }
+    ],
+    "2022-okt-kozep-L1": [
+      { "forms": ["backyard"], "lemma": "backyard", "pos": "noun", "en": "the area of grass behind a house", "hu": "hátsó kert" },
+      { "forms": ["tidy"], "lemma": "tidy", "pos": "adjective", "en": "clean and in good order", "hu": "rendes, rendezett" },
+      { "forms": ["harming"], "lemma": "harm", "pos": "verb", "en": "to damage or hurt something", "hu": "árt, kárt tesz" },
+      { "forms": ["lawn mowers", "mowers"], "lemma": "lawn mower", "pos": "noun", "en": "a machine for cutting grass", "hu": "fűnyíró (gép)" },
+      { "forms": ["lawn"], "lemma": "lawn", "pos": "noun", "en": "an area of short grass near a house", "hu": "pázsit, gyep" },
+      { "forms": ["fossil fuels", "fossil fuel"], "lemma": "fossil fuel", "pos": "noun", "en": "oil, coal or gas, which give energy when burned", "hu": "fosszilis tüzelőanyag" },
+      { "forms": ["rentals"], "lemma": "rental", "pos": "noun", "en": "paying money to use something for a short time", "hu": "bérlés, kölcsönzés" },
+      { "forms": ["function"], "lemma": "function", "pos": "verb", "en": "to work in a particular way", "hu": "működik" },
+      { "forms": ["settled"], "lemma": "settle", "pos": "verb", "en": "to agree on something after talking about it", "hu": "megegyeznek benne, rögzítik" },
+      { "forms": ["parties"], "lemma": "party", "pos": "noun", "en": "here: the people or groups who make an agreement", "hu": "fél (szerződő fél)", "tip": "Itt nem buli, hanem egy megállapodás egyik oldala." },
+      { "forms": ["graze"], "lemma": "graze", "pos": "verb", "en": "to eat grass in a field", "hu": "legel" },
+      { "forms": ["manicured"], "lemma": "manicured", "pos": "adjective", "en": "cut very short and neat", "hu": "gondozott, szépen nyírt" },
+      { "forms": ["insect killers"], "lemma": "insect killer", "pos": "noun", "en": "a chemical that kills small creatures such as flies", "hu": "rovarirtó szer" }
+    ],
+    "2022-okt-kozep-L2": [
+      { "forms": ["ancient"], "lemma": "ancient", "pos": "adjective", "en": "very old; from thousands of years ago", "hu": "ókori, ősi" },
+      { "forms": ["constructed"], "lemma": "construct", "pos": "verb", "en": "to build something", "hu": "épít, megépít" },
+      { "forms": ["terrace"], "lemma": "terrace", "pos": "noun", "en": "a flat area cut into the side of a hill or built higher than the ground", "hu": "terasz, lépcsőzetes kert" },
+      { "forms": ["archaeologists"], "lemma": "archaeologist", "pos": "noun", "en": "a person who studies old buildings and objects from the past", "hu": "régész" },
+      { "forms": ["excavated"], "lemma": "excavate", "pos": "verb", "en": "to dig in the ground to find old objects", "hu": "feltár, kiás (régészeti ásatáson)" },
+      { "forms": ["remains"], "lemma": "remains", "pos": "noun", "en": "the parts of something old that still exist", "hu": "maradványok" },
+      { "forms": ["proposed"], "lemma": "propose", "pos": "verb", "en": "to suggest an idea", "hu": "felvet, javasol" },
+      { "forms": ["decades"], "lemma": "decade", "pos": "noun", "en": "a period of ten years", "hu": "évtized" },
+      { "forms": ["suffered damage"], "lemma": "suffer damage", "pos": "phrase", "en": "to be damaged or broken", "hu": "kárt szenved, megrongálódik" }
+    ],
+    "2022-okt-kozep-L3": [
+      { "forms": ["portray"], "lemma": "portray", "pos": "verb", "en": "to show someone in a picture in a particular way", "hu": "ábrázol, bemutat" },
+      { "forms": ["offshore"], "lemma": "offshore", "pos": "adverb", "en": "in the sea, away from the land", "hu": "a parttól távol, a tengeren" },
+      { "forms": ["a bite"], "lemma": "a bite", "pos": "phrase", "en": "a small piece of food", "hu": "egy falat" },
+      { "forms": ["uninhabited"], "lemma": "uninhabited", "pos": "adjective", "en": "with no people living there", "hu": "lakatlan" },
+      { "forms": ["a dozen"], "lemma": "a dozen", "pos": "phrase", "en": "twelve", "hu": "egy tucat (12)" },
+      { "forms": ["shipwreck"], "lemma": "shipwreck", "pos": "noun", "en": "an accident when a ship is destroyed at sea", "hu": "hajótörés" },
+      { "forms": ["celebrities"], "lemma": "celebrity", "pos": "noun", "en": "a famous person", "hu": "híresség, sztár" },
+      { "forms": ["comedian"], "lemma": "comedian", "pos": "noun", "en": "a person whose job is to make people laugh", "hu": "humorista, komikus" },
+      { "forms": ["buddies"], "lemma": "buddy", "pos": "noun", "en": "a friend (informal)", "hu": "haver, barát" },
+      { "forms": ["tolerant"], "lemma": "tolerant", "pos": "adjective", "en": "accepting something without getting angry", "hu": "türelmes, elnéző" },
+      { "forms": ["noisily"], "lemma": "noisily", "pos": "adverb", "en": "making a lot of noise", "hu": "hangosan, zajosan" }
+    ],
+    "2022-okt-kozep-H1": [
+      { "forms": ["nickname"], "lemma": "nickname", "pos": "noun", "en": "a funny or friendly name that people call you instead of your real name", "hu": "becenév" },
+      { "forms": ["device"], "lemma": "device", "pos": "noun", "en": "a machine or tool made for a special job", "hu": "készülék, eszköz" },
+      { "forms": ["converted"], "lemma": "convert", "pos": "verb", "en": "to change something into a different form", "hu": "átalakít" },
+      { "forms": ["airmen"], "lemma": "airman", "pos": "noun", "en": "a man in the air force", "hu": "pilóta, repülő katona" },
+      { "forms": ["storage compartment"], "lemma": "storage compartment", "pos": "noun", "en": "a closed space where you keep something", "hu": "tárolórekesz" }
+    ],
+    "2022-okt-kozep-H2": [
+      { "forms": ["rather than"], "lemma": "rather than", "pos": "phrase", "en": "and not; instead of", "hu": "inkább, mint; nem pedig" }
     ]
   }
 }

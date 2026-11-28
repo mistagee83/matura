@@ -200,6 +200,57 @@
       { "forms": ["market"], "lemma": "market", "pos": "noun", "en": "the number of people who buy a particular product", "hu": "piac" },
       { "forms": ["providing"], "lemma": "provide", "pos": "verb", "en": "to give something that people need", "hu": "nyújt, biztosít" },
       { "forms": ["rich"], "lemma": "rich", "pos": "adjective", "en": "here: very good and plentiful", "hu": "bőséges, gazdag" }
+    ],
+    "2007-maj-kozep-L2": [
+      { "forms": ["bet"], "lemma": "bet", "pos": "noun", "en": "money that you risk on the result of a game or race", "hu": "fogadás (pénzben)" },
+      { "forms": ["staged"], "lemma": "stage", "pos": "verb", "en": "to organise something false so that people believe it is real", "hu": "megrendez, színlel" },
+      { "forms": ["disappearance"], "lemma": "disappearance", "pos": "noun", "en": "the fact that someone cannot be found any more", "hu": "eltűnés" },
+      { "forms": ["sheriff’s office"], "lemma": "sheriff’s office", "pos": "noun", "en": "the police office of a county in the USA", "hu": "a seriff hivatala (megyei rendőrség)" },
+      { "forms": ["search and rescue"], "lemma": "search and rescue", "pos": "noun", "en": "the work of finding and saving people who are lost or in danger", "hu": "kutatás és mentés, kutató-mentő" },
+      { "forms": ["clear his head"], "lemma": "clear your head", "pos": "phrase", "en": "to stop feeling confused so that you can think well again", "hu": "kitisztítja a fejét, rendbe teszi a gondolatait" },
+      { "forms": ["suspended"], "lemma": "suspend", "pos": "verb", "en": "to stop something for a time", "hu": "felfüggeszt, leállít" },
+      { "forms": ["evidence"], "lemma": "evidence", "pos": "noun", "en": "facts or things that show that something is true", "hu": "bizonyíték, nyom" },
+      { "forms": ["voice mail"], "lemma": "voice mail", "pos": "noun", "en": "a spoken message that you leave on someone’s phone", "hu": "hangposta" },
+      { "forms": ["traced"], "lemma": "trace", "pos": "verb", "en": "to find out where a phone call came from", "hu": "lenyomoz, kiderít" },
+      { "forms": ["turned out"], "lemma": "turn out", "pos": "phrasal verb", "en": "to become known in the end", "hu": "kiderül" },
+      { "forms": ["pick up truck"], "lemma": "pick-up truck", "pos": "noun", "en": "a small truck with an open back", "hu": "platós kisteherautó" },
+      { "forms": ["in case"], "lemma": "in case", "pos": "conjunction", "en": "because something might happen", "hu": "arra az esetre, ha" },
+      { "forms": ["gambling"], "lemma": "gambling", "pos": "noun", "en": "playing games or making bets to win money", "hu": "szerencsejáték" },
+      { "forms": ["seeking"], "lemma": "seek", "pos": "verb", "en": "to try to get something", "hu": "keres, kér (segítséget)" },
+      { "forms": ["counseling"], "lemma": "counseling", "pos": "noun", "en": "professional advice and help with personal problems", "hu": "tanácsadás, terápia" }
+    ],
+    "2007-maj-kozep-L3": [
+      { "forms": ["ritual"], "lemma": "ritual", "pos": "noun", "en": "something you always do in the same way", "hu": "szokás, szertartás" },
+      { "forms": ["lean over"], "lemma": "lean over", "pos": "phrasal verb", "en": "to move the top part of your body towards someone", "hu": "odahajol" },
+      { "forms": ["wedding anniversary"], "lemma": "wedding anniversary", "pos": "noun", "en": "the day each year when you remember the day you got married", "hu": "házassági évforduló" },
+      { "forms": ["edition"], "lemma": "edition", "pos": "noun", "en": "one of the forms of a book that is printed again each year", "hu": "kiadás" },
+      { "forms": ["hard of hearing"], "lemma": "hard of hearing", "pos": "phrase", "en": "not able to hear well", "hu": "nagyothalló" },
+      { "forms": ["poetry"], "lemma": "poetry", "pos": "noun", "en": "poems in general", "hu": "költészet, versek" },
+      { "forms": ["courtship"], "lemma": "courtship", "pos": "noun", "en": "the time when two people are in love before they marry", "hu": "udvarlás, jegyesség" },
+      { "forms": ["gesture"], "lemma": "gesture", "pos": "noun", "en": "something you do to show how you feel", "hu": "gesztus, figyelmesség" },
+      { "forms": ["won her heart"], "lemma": "win someone’s heart", "pos": "phrase", "en": "to make someone love you", "hu": "elnyerte a szívét" },
+      { "forms": ["pastor"], "lemma": "pastor", "pos": "noun", "en": "a priest in some Christian churches", "hu": "lelkész" },
+      { "forms": ["stock-market crash"], "lemma": "stock-market crash", "pos": "noun", "en": "a sudden fall in the price of company shares", "hu": "tőzsdekrach, tőzsdei összeomlás" },
+      { "forms": ["decades"], "lemma": "decade", "pos": "noun", "en": "a period of ten years", "hu": "évtized" },
+      { "forms": ["raising"], "lemma": "raise", "pos": "verb", "en": "to look after children until they are adults", "hu": "nevel, felnevel" },
+      { "forms": ["retired"], "lemma": "retire", "pos": "verb", "en": "to stop working because you are old", "hu": "nyugdíjba megy" },
+      { "forms": ["retirement center"], "lemma": "retirement center", "pos": "noun", "en": "a place where old people live and are looked after", "hu": "idősek otthona, nyugdíjasotthon" },
+      { "forms": ["great-grandchildren"], "lemma": "great-grandchild", "pos": "noun", "en": "the child of your grandchild", "hu": "dédunoka" }
+    ],
+    "2007-maj-kozep-H1": [
+      { "forms": ["equal opportunities"], "lemma": "equal opportunities", "pos": "noun", "en": "the idea that everybody should be treated in the same fair way", "hu": "esélyegyenlőség" },
+      { "forms": ["proved"], "lemma": "prove", "pos": "verb", "en": "to show that something is true", "hu": "bebizonyít" },
+      { "forms": ["formatted"], "lemma": "formatted", "pos": "adjective", "en": "arranged in a neat way on a page or screen", "hu": "formázott, szépen elrendezett" }
+    ],
+    "2007-maj-kozep-H2": [
+      { "forms": ["frequent"], "lemma": "frequent", "pos": "adjective", "en": "happening often", "hu": "gyakori" },
+      { "forms": ["homesick"], "lemma": "homesick", "pos": "adjective", "en": "sad because you are away from your home and family", "hu": "honvágyat érez" },
+      { "forms": ["particularly"], "lemma": "particularly", "pos": "adverb", "en": "very; more than usual", "hu": "különösen, kifejezetten" },
+      { "forms": ["fond of"], "lemma": "be fond of", "pos": "phrase", "en": "to like something", "hu": "kedvel, szeret valamit" },
+      { "forms": ["phone cards"], "lemma": "phone card", "pos": "noun", "en": "a card that you buy and use to pay for phone calls", "hu": "telefonkártya" }
+    ],
+    "2007-maj-kozep-H3": [
+      { "forms": ["ran into"], "lemma": "run into", "pos": "phrasal verb", "en": "to hit something with a car or bike by accident", "hu": "nekimegy, elüt" }
     ]
   }
 }

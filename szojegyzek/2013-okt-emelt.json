@@ -257,6 +257,76 @@
       { "forms": ["cheating"], "lemma": "cheating", "pos": "noun", "en": "doing something dishonest in an exam, for example copying", "hu": "csalás, puskázás" },
       { "forms": ["instructional software"], "lemma": "instructional software", "pos": "noun", "en": "computer programs used for teaching", "hu": "oktatószoftver" },
       { "forms": ["helped start"], "lemma": "help start", "pos": "phrase", "en": "to take part in starting a company", "hu": "segített elindítani, társalapítója volt" }
+    ],
+    "2013-okt-emelt-L1": [
+      { "forms": ["make a kill"], "lemma": "make a kill", "pos": "phrase", "en": "to shoot and kill an animal when hunting", "hu": "zsákmányt ejt, lelő egy állatot" },
+      { "forms": ["Spare"], "lemma": "spare", "pos": "verb", "en": "to decide not to kill or hurt someone", "hu": "megkímél" },
+      { "forms": ["immortalised"], "lemma": "immortalise", "pos": "verb", "en": "to make someone famous for a very long time, for example in art", "hu": "megörökít, halhatatlanná tesz" },
+      { "forms": ["bear-mad"], "lemma": "bear-mad", "pos": "adjective", "en": "very excited about bears and wanting bear toys", "hu": "mackómániás, maciőrületben égő" },
+      { "forms": ["overnight"], "lemma": "overnight", "pos": "adverb", "en": "very quickly and suddenly", "hu": "egyik napról a másikra" },
+      { "forms": ["seamstress"], "lemma": "seamstress", "pos": "noun", "en": "a woman whose job is sewing", "hu": "varrónő" },
+      { "forms": ["plush"], "lemma": "plush", "pos": "adjective", "en": "made of soft cloth with a thick surface, like a toy", "hu": "plüss" },
+      { "forms": ["transatlantic"], "lemma": "transatlantic", "pos": "adjective", "en": "between Europe and America, across the Atlantic", "hu": "transzatlanti, az óceánon átívelő" }
+    ],
+    "2013-okt-emelt-L2": [
+      { "forms": ["novelist"], "lemma": "novelist", "pos": "noun", "en": "a writer of long stories in books", "hu": "regényíró" },
+      { "forms": ["erect"], "lemma": "erect", "pos": "verb", "en": "to build or put up a statue or building", "hu": "emel, felállít (szobrot)" },
+      { "forms": ["controversial"], "lemma": "controversial", "pos": "adjective", "en": "making people disagree strongly", "hu": "vitatott, ellentmondásos" },
+      { "forms": ["will"], "lemma": "will", "pos": "noun", "en": "a legal document that says what should happen to your things after you die", "hu": "végrendelet", "tip": "Itt főnév." },
+      { "forms": ["memorial"], "lemma": "memorial", "pos": "noun", "en": "a statue or building made to remember a person", "hu": "emlékmű" },
+      { "forms": ["tribute"], "lemma": "tribute", "pos": "noun", "en": "something that shows respect and admiration for someone", "hu": "tisztelgés, megtiszteltetés" },
+      { "forms": ["interpreted"], "lemma": "interpret", "pos": "verb", "en": "to explain or understand the meaning of something in a particular way", "hu": "értelmez" },
+      { "forms": ["mausoleum"], "lemma": "mausoleum", "pos": "noun", "en": "a large stone building where dead people are buried", "hu": "mauzóleum, síremlék" },
+      { "forms": ["in context"], "lemma": "in context", "pos": "phrase", "en": "thinking about the situation in which something was said", "hu": "összefüggésében" },
+      { "forms": ["burial"], "lemma": "burial", "pos": "noun", "en": "the act of putting a dead body into the ground", "hu": "temetés, elhantolás" },
+      { "forms": ["mourners"], "lemma": "mourner", "pos": "noun", "en": "a person at a funeral who is sad about the dead person", "hu": "gyászoló" },
+      { "forms": ["ghastly"], "lemma": "ghastly", "pos": "adjective", "en": "very ugly or unpleasant", "hu": "borzalmas, ízléstelen" },
+      { "forms": ["sparkle"], "lemma": "sparkle", "pos": "noun", "en": "a lively, interesting quality", "hu": "szikrázó egyéniség, lendület" },
+      { "forms": ["wit"], "lemma": "wit", "pos": "noun", "en": "the ability to say clever and funny things", "hu": "szellemesség" },
+      { "forms": ["maquette"], "lemma": "maquette", "pos": "noun", "en": "a small model of a statue, made before the real one", "hu": "makett, kisplasztikai terv" },
+      { "forms": ["approachable"], "lemma": "approachable", "pos": "adjective", "en": "friendly and easy to talk to or come close to", "hu": "barátságos, közvetlen" },
+      { "forms": ["interact"], "lemma": "interact", "pos": "verb", "en": "to communicate or do things with someone", "hu": "kapcsolatba lép, kölcsönhatásba kerül" }
+    ],
+    "2013-okt-emelt-L3": [
+      { "forms": ["rhino horn"], "lemma": "rhino horn", "pos": "noun", "en": "the hard pointed thing that grows on the nose of a large African or Asian animal", "hu": "orrszarvúszarv" },
+      { "forms": ["sought after"], "lemma": "sought after", "pos": "phrase", "en": "wanted by many people", "hu": "keresett, kapós" },
+      { "forms": ["myths"], "lemma": "myth", "pos": "noun", "en": "an idea that many people believe but that is not true", "hu": "tévhit, mítosz" },
+      { "forms": ["strokes"], "lemma": "stroke", "pos": "noun", "en": "a sudden illness when blood cannot reach the brain", "hu": "agyvérzés, szélütés" },
+      { "forms": ["fuelling"], "lemma": "fuel", "pos": "verb", "en": "to make something grow stronger", "hu": "szít, táplál" },
+      { "forms": ["lined their pockets"], "lemma": "line your pockets", "pos": "idiom", "en": "to make a lot of money in a dishonest way", "hu": "megszedi magát, zsebre tesz" },
+      { "forms": ["brink of extinction"], "lemma": "the brink of extinction", "pos": "phrase", "en": "the point where an animal is very close to disappearing for ever", "hu": "a kihalás széle" },
+      { "forms": ["their days are numbered"], "lemma": "your days are numbered", "pos": "idiom", "en": "you will soon fail or be stopped", "hu": "meg vannak számlálva a napjaik" },
+      { "forms": ["conservation"], "lemma": "conservation", "pos": "noun", "en": "the protection of animals, plants and nature", "hu": "természetvédelem" },
+      { "forms": ["poached"], "lemma": "poach", "pos": "verb", "en": "to kill animals illegally", "hu": "orvvadászik" },
+      { "forms": ["auction houses"], "lemma": "auction house", "pos": "noun", "en": "a company that sells things to the person who offers the most money", "hu": "aukciósház" },
+      { "forms": ["ornaments"], "lemma": "ornament", "pos": "noun", "en": "an object that is beautiful rather than useful", "hu": "dísztárgy" },
+      { "forms": ["acquired"], "lemma": "acquire", "pos": "verb", "en": "to get or buy something", "hu": "megszerez" },
+      { "forms": ["powdered"], "lemma": "powder", "pos": "verb", "en": "to make something into very small dry pieces like dust", "hu": "porrá tör" },
+      { "forms": ["backed"], "lemma": "back", "pos": "verb", "en": "to support something", "hu": "támogat" },
+      { "forms": ["licences"], "lemma": "licence", "pos": "noun", "en": "an official paper that gives you permission to do something", "hu": "engedély" },
+      { "forms": ["exceeds"], "lemma": "exceed", "pos": "verb", "en": "to be more than a particular amount", "hu": "meghalad" }
+    ],
+    "2013-okt-emelt-H1": [
+      { "forms": ["manner"], "lemma": "manner", "pos": "noun", "en": "the way in which someone does something", "hu": "mód, modor" },
+      { "forms": ["sorrows"], "lemma": "sorrow", "pos": "noun", "en": "a feeling of great sadness", "hu": "bánat, szomorúság" },
+      { "forms": ["hopelessness"], "lemma": "hopelessness", "pos": "noun", "en": "the feeling that nothing good will happen", "hu": "reménytelenség" },
+      { "forms": ["bear"], "lemma": "bear", "pos": "verb", "en": "to have or show something", "hu": "visel, hordoz (nyomot)", "tip": "Itt ige, nem medve." },
+      { "forms": ["farm labour"], "lemma": "farm labour", "pos": "noun", "en": "hard physical work on a farm", "hu": "mezőgazdasági munka" },
+      { "forms": ["cradle"], "lemma": "cradle", "pos": "noun", "en": "a small bed for a baby that can move from side to side", "hu": "bölcső" },
+      { "forms": ["contrasted"], "lemma": "contrast", "pos": "verb", "en": "to be very different from something", "hu": "ellentétben áll, elüt" }
+    ],
+    "2013-okt-emelt-H2": [
+      { "forms": ["Blueprints"], "lemma": "blueprint", "pos": "noun", "en": "a detailed plan of a building", "hu": "tervrajz" },
+      { "forms": ["high-ranking"], "lemma": "high-ranking", "pos": "adjective", "en": "having an important position", "hu": "magas rangú" },
+      { "forms": ["logistics"], "lemma": "logistics", "pos": "noun", "en": "the organisation of moving people and things", "hu": "logisztika" },
+      { "forms": ["complex"], "lemma": "complex", "pos": "noun", "en": "a group of buildings used for one purpose", "hu": "épületegyüttes, komplexum", "tip": "Itt főnév." },
+      { "forms": ["checkpoint"], "lemma": "checkpoint", "pos": "noun", "en": "a place where people are stopped and checked", "hu": "ellenőrzőpont" },
+      { "forms": ["analysts"], "lemma": "analyst", "pos": "noun", "en": "an expert who studies a situation and explains it", "hu": "elemző" },
+      { "forms": ["theft"], "lemma": "theft", "pos": "noun", "en": "the crime of stealing", "hu": "lopás" },
+      { "forms": ["Intelligence Agency"], "lemma": "intelligence agency", "pos": "noun", "en": "a government organisation that collects secret information", "hu": "hírszerző ügynökség" },
+      { "forms": ["top secret"], "lemma": "top secret", "pos": "adjective", "en": "very secret, only known by a few important people", "hu": "szigorúan titkos" },
+      { "forms": ["construction site"], "lemma": "construction site", "pos": "noun", "en": "a place where a building is being built", "hu": "építkezés, építési terület" },
+      { "forms": ["re-evaluated"], "lemma": "re-evaluate", "pos": "verb", "en": "to think about something again and judge it in a new way", "hu": "újraértékel" }
     ]
   }
 }

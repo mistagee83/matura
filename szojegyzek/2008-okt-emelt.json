@@ -274,6 +274,63 @@
       { "forms": ["lunar surface"], "lemma": "lunar surface", "pos": "noun", "en": "the ground of the moon", "hu": "a hold felszíne" },
       { "forms": ["boasted"], "lemma": "boast", "pos": "verb", "en": "to talk proudly about something you did", "hu": "dicsekszik, henceg" },
       { "forms": ["low-gravity"], "lemma": "low-gravity", "pos": "adjective", "en": "where things weigh very little because the pull of the ground is weak", "hu": "alacsony gravitációjú" }
+    ],
+    "2008-okt-emelt-L1": [
+      { "forms": ["sovereign"], "lemma": "sovereign", "pos": "noun", "en": "a king or queen", "hu": "uralkodó" },
+      { "forms": ["monarchs"], "lemma": "monarch", "pos": "noun", "en": "a king or queen", "hu": "uralkodó" },
+      { "forms": ["encountered"], "lemma": "encounter", "pos": "verb", "en": "to meet a problem or difficulty", "hu": "szembesül, szembekerül" },
+      { "forms": ["spoiling"], "lemma": "spoil", "pos": "verb", "en": "to make something less good or enjoyable", "hu": "elront, tönkretesz" },
+      { "forms": ["subsequent"], "lemma": "subsequent", "pos": "adjective", "en": "coming after something else", "hu": "későbbi, utána következő" },
+      { "forms": ["thus"], "lemma": "thus", "pos": "adverb", "en": "in this way; so", "hu": "így, ezáltal" },
+      { "forms": ["her majesty"], "lemma": "Her Majesty", "pos": "phrase", "en": "a polite way of speaking about a queen", "hu": "Őfelsége" },
+      { "forms": ["trooping of the colour"], "lemma": "Trooping of the Colour", "pos": "noun", "en": "a big military ceremony with soldiers and flags in London", "hu": "ünnepélyes zászlós díszszemle" },
+      { "forms": ["fly-past"], "lemma": "fly-past", "pos": "noun", "en": "a show where planes fly low over a place in a group", "hu": "díszrepülés" },
+      { "forms": ["gun salutes"], "lemma": "gun salute", "pos": "noun", "en": "guns fired as a sign of respect at a ceremony", "hu": "díszlövés, díszsortűz" }
+    ],
+    "2008-okt-emelt-L2": [
+      { "forms": ["insured"], "lemma": "insure", "pos": "verb", "en": "to pay a company so that it gives you money if something is lost or damaged", "hu": "biztosít (biztosítással)" },
+      { "forms": ["filed a claim"], "lemma": "file a claim", "pos": "phrase", "en": "to officially ask an insurance company for money", "hu": "kárigényt nyújt be" },
+      { "forms": ["policy"], "lemma": "policy", "pos": "noun", "en": "the written contract with an insurance company", "hu": "biztosítási kötvény" },
+      { "forms": ["consumed"], "lemma": "consume", "pos": "verb", "en": "to use up, eat or smoke something", "hu": "elfogyaszt" },
+      { "forms": ["fashion"], "lemma": "fashion", "pos": "noun", "en": "a way of doing something", "hu": "mód", "tip": "Itt nem azt jelenti: divat." },
+      { "forms": ["sued"], "lemma": "sue", "pos": "verb", "en": "to go to court against a person or company", "hu": "beperel" },
+      { "forms": ["ruling"], "lemma": "ruling", "pos": "noun", "en": "an official decision made by a judge", "hu": "ítélet, döntés" },
+      { "forms": ["obliged"], "lemma": "obliged", "pos": "adjective", "en": "having to do something because of a law or rule", "hu": "köteles, kénytelen" },
+      { "forms": ["appeal process"], "lemma": "appeal process", "pos": "noun", "en": "the steps of asking a higher court to change a decision", "hu": "fellebbezési eljárás" },
+      { "forms": ["cashed"], "lemma": "cash", "pos": "verb", "en": "to get money for a cheque at a bank", "hu": "bevált (csekket)" },
+      { "forms": ["counts"], "lemma": "count", "pos": "noun", "en": "one crime that someone is accused of in court", "hu": "vádpont" },
+      { "forms": ["arson"], "lemma": "arson", "pos": "noun", "en": "the crime of starting a fire on purpose", "hu": "gyújtogatás" },
+      { "forms": ["testimony"], "lemma": "testimony", "pos": "noun", "en": "what someone says in court", "hu": "tanúvallomás" },
+      { "forms": ["intentionally"], "lemma": "intentionally", "pos": "adverb", "en": "on purpose", "hu": "szándékosan" },
+      { "forms": ["sentenced"], "lemma": "sentence", "pos": "verb", "en": "to give a punishment in court", "hu": "elítél" },
+      { "forms": ["fine"], "lemma": "fine", "pos": "noun", "en": "money that you must pay as a punishment", "hu": "pénzbírság", "tip": "Itt főnév, nem azt jelenti: jó, finom." }
+    ],
+    "2008-okt-emelt-L3": [
+      { "forms": ["unsuspected"], "lemma": "unsuspected", "pos": "adjective", "en": "that nobody expected", "hu": "váratlan, nem várt" },
+      { "forms": ["dropped by"], "lemma": "drop by", "pos": "phrasal verb", "en": "to visit a place for a short time without a plan", "hu": "beugrik, ellátogat" },
+      { "forms": ["up-beat"], "lemma": "upbeat", "pos": "adjective", "en": "happy, lively and full of energy", "hu": "pörgős, vidám" },
+      { "forms": ["local authorities"], "lemma": "local authority", "pos": "noun", "en": "the people who govern a town or area", "hu": "helyi hatóságok" },
+      { "forms": ["initiated"], "lemma": "initiate", "pos": "verb", "en": "to make something start", "hu": "elindít, kezdeményez" },
+      { "forms": ["trackers"], "lemma": "tracker", "pos": "noun", "en": "a person who follows the signs that an animal leaves", "hu": "nyomkereső" },
+      { "forms": ["creature"], "lemma": "creature", "pos": "noun", "en": "an animal", "hu": "lény, élőlény" },
+      { "forms": ["figure out"], "lemma": "figure out", "pos": "phrasal verb", "en": "to understand something after thinking about it", "hu": "kitalál, rájön" },
+      { "forms": ["manatee", "manatees"], "lemma": "manatee", "pos": "noun", "en": "a large grey sea animal that eats plants", "hu": "lamantin, tengeri tehén" },
+      { "forms": ["mammal"], "lemma": "mammal", "pos": "noun", "en": "an animal whose babies drink milk from their mother", "hu": "emlős" },
+      { "forms": ["uncommon"], "lemma": "uncommon", "pos": "adjective", "en": "not seen often", "hu": "ritka, szokatlan" }
+    ],
+    "2008-okt-emelt-H1": [
+      { "forms": ["air marshals", "marshals"], "lemma": "air marshal", "pos": "noun", "en": "an armed police officer who travels secretly on a plane to protect it", "hu": "légi marsall (fegyveres utaskísérő)" },
+      { "forms": ["somewhat"], "lemma": "somewhat", "pos": "adverb", "en": "a little", "hu": "némileg, kissé" },
+      { "forms": ["fire-arms"], "lemma": "firearm", "pos": "noun", "en": "a gun", "hu": "lőfegyver" },
+      { "forms": ["deal with"], "lemma": "deal with", "pos": "phrasal verb", "en": "to take action to stop a problem", "hu": "elbánik vele, kezel" },
+      { "forms": ["expose"], "lemma": "expose", "pos": "verb", "en": "to show who someone really is", "hu": "leleplez" },
+      { "forms": ["on board"], "lemma": "on board", "pos": "phrase", "en": "on a plane or ship", "hu": "a fedélzeten" },
+      { "forms": ["merely"], "lemma": "merely", "pos": "adverb", "en": "only", "hu": "csupán, pusztán" },
+      { "forms": ["fade into"], "lemma": "fade into", "pos": "phrasal verb", "en": "to become difficult to notice", "hu": "beleolvad, észrevétlenné válik" },
+      { "forms": ["key issue"], "lemma": "key issue", "pos": "noun", "en": "a very important question or problem", "hu": "kulcskérdés" }
+    ],
+    "2008-okt-emelt-H2": [
+      { "forms": ["auto thefts", "auto theft"], "lemma": "auto theft", "pos": "noun", "en": "stealing cars", "hu": "autólopás" }
     ]
   }
 }

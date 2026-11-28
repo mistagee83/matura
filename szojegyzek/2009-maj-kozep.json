@@ -149,6 +149,63 @@
       { "forms": ["most important part"], "lemma": "the most important part", "pos": "phrase", "en": "the thing that matters most", "hu": "a legfontosabb (dolog)" },
       { "forms": ["enjoy"], "lemma": "enjoy", "pos": "verb", "en": "to like doing something and have a good time", "hu": "élvez, örömét leli (valamiben)" },
       { "forms": ["always"], "lemma": "always", "pos": "adverb", "en": "at all times; every time", "hu": "mindig" }
+    ],
+    "2009-maj-kozep-L1": [
+      { "forms": ["great-great uncle"], "lemma": "great-great uncle", "pos": "noun", "en": "the brother of one of your great-grandparents", "hu": "dédnagybácsi" },
+      { "forms": ["hanged"], "lemma": "hang", "pos": "verb", "en": "to kill someone by putting a rope around their neck, as a punishment", "hu": "felakaszt (kivégez)", "tip": "Ebben a jelentésben a múlt ideje hanged, nem hung." },
+      { "forms": ["horse stealing"], "lemma": "horse stealing", "pos": "noun", "en": "taking horses that belong to other people", "hu": "lólopás" },
+      { "forms": ["execution"], "lemma": "execution", "pos": "noun", "en": "the killing of a person as an official punishment", "hu": "kivégzés" },
+      { "forms": ["horse thief"], "lemma": "horse thief", "pos": "noun", "en": "a person who steals horses", "hu": "lótolvaj" },
+      { "forms": ["convicted"], "lemma": "convict", "pos": "verb", "en": "to decide officially in a court that someone is guilty of a crime", "hu": "elítél (bűnösnek mond ki)" },
+      { "forms": ["embarrassing"], "lemma": "embarrassing", "pos": "adjective", "en": "making you feel ashamed or uncomfortable in front of other people", "hu": "kínos, kellemetlen" },
+      { "forms": ["image processing software"], "lemma": "image processing software", "pos": "noun", "en": "computer programs that you use to change photos", "hu": "képszerkesztő program" },
+      { "forms": ["resident"], "lemma": "resident", "pos": "noun", "en": "a person who lives in a particular place", "hu": "lakos" },
+      { "forms": ["business empire"], "lemma": "business empire", "pos": "noun", "en": "a large group of companies that one person owns", "hu": "üzleti birodalom" },
+      { "forms": ["government facility"], "lemma": "government facility", "pos": "noun", "en": "a building or place that the state runs", "hu": "állami létesítmény" },
+      { "forms": ["profitable"], "lemma": "profitable", "pos": "adjective", "en": "bringing in a lot of money", "hu": "jövedelmező, nyereséges" },
+      { "forms": ["in his honour"], "lemma": "in someone's honour", "pos": "phrase", "en": "to show that people respect and admire him", "hu": "a tiszteletére" },
+      { "forms": ["collapsed"], "lemma": "collapse", "pos": "verb", "en": "to fall down suddenly", "hu": "összeomlik, leszakad" }
+    ],
+    "2009-maj-kozep-L2": [
+      { "forms": ["meat-eating"], "lemma": "meat-eating", "pos": "adjective", "en": "eating other animals", "hu": "húsevő" },
+      { "forms": ["enabled"], "lemma": "enable", "pos": "verb", "en": "to make it possible for someone to do something", "hu": "lehetővé tesz" },
+      { "forms": ["overpower"], "lemma": "overpower", "pos": "verb", "en": "to win a fight against someone because you are stronger", "hu": "legyőz, leteper" },
+      { "forms": ["plant-eating"], "lemma": "plant-eating", "pos": "adjective", "en": "eating only plants", "hu": "növényevő" },
+      { "forms": ["scientific journal"], "lemma": "scientific journal", "pos": "noun", "en": "a serious magazine in which scientists write about their work", "hu": "tudományos (szak)folyóirat" },
+      { "forms": ["excavation"], "lemma": "excavation", "pos": "noun", "en": "digging in the ground to find old objects or bones", "hu": "ásatás" },
+      { "forms": ["evidence"], "lemma": "evidence", "pos": "noun", "en": "facts or things that show that something is true", "hu": "bizonyíték" },
+      { "forms": ["social behaviour"], "lemma": "social behaviour", "pos": "noun", "en": "the way animals live and act together in a group", "hu": "társas viselkedés" },
+      { "forms": ["speculated"], "lemma": "speculate", "pos": "verb", "en": "to guess about something without knowing all the facts", "hu": "feltételez, találgat" },
+      { "forms": ["cooperated"], "lemma": "cooperate", "pos": "verb", "en": "to work together with others to do something", "hu": "együttműködik" },
+      { "forms": ["made a kill"], "lemma": "make a kill", "pos": "phrase", "en": "to catch and kill an animal for food", "hu": "zsákmányt ejt" },
+      { "forms": ["specimen"], "lemma": "specimen", "pos": "noun", "en": "one animal or plant that scientists study", "hu": "példány" },
+      { "forms": ["skeleton"], "lemma": "skeleton", "pos": "noun", "en": "all the bones of a body together", "hu": "csontváz" },
+      { "forms": ["estimated"], "lemma": "estimate", "pos": "verb", "en": "to guess a size or number by thinking about it carefully", "hu": "becsül, megbecsül" }
+    ],
+    "2009-maj-kozep-L3": [
+      { "forms": ["biology major"], "lemma": "biology major", "pos": "noun", "en": "a university student whose main subject is biology", "hu": "biológia szakos hallgató" },
+      { "forms": ["beaks"], "lemma": "beak", "pos": "noun", "en": "the hard pointed part of a bird's mouth", "hu": "csőr" },
+      { "forms": ["feathers"], "lemma": "feather", "pos": "noun", "en": "the soft light things that cover a bird's body", "hu": "toll (madáré)" },
+      { "forms": ["species"], "lemma": "species", "pos": "noun", "en": "a group of animals or plants of the same kind", "hu": "faj", "tip": "Egyes és többes számban is species." },
+      { "forms": ["reveal"], "lemma": "reveal", "pos": "verb", "en": "to let something be seen that was hidden", "hu": "felfed, láthatóvá tesz" },
+      { "forms": ["crumpled"], "lemma": "crumpled", "pos": "adjective", "en": "pressed into an untidy ball", "hu": "összegyűrt" },
+      { "forms": ["ridiculous"], "lemma": "ridiculous", "pos": "adjective", "en": "very silly or stupid", "hu": "nevetséges" },
+      { "forms": ["hold it right there"], "lemma": "hold it right there", "pos": "phrase", "en": "stop, wait a moment (said when you are angry or surprised)", "hu": "álljon csak meg, egy pillanat" }
+    ],
+    "2009-maj-kozep-H1": [
+      { "forms": ["keep her date"], "lemma": "keep a date", "pos": "phrase", "en": "to go and meet someone at the time you arranged", "hu": "megtartja a megbeszélt találkozót" }
+    ],
+    "2009-maj-kozep-H2": [
+      { "forms": ["fascinated"], "lemma": "fascinated", "pos": "adjective", "en": "very interested in something", "hu": "elbűvölt, lenyűgözött" },
+      { "forms": ["skilled labour"], "lemma": "skilled labour", "pos": "noun", "en": "workers who have special training for a job", "hu": "szakképzett munkaerő" },
+      { "forms": ["encourage"], "lemma": "encourage", "pos": "verb", "en": "to make people want to do something; to support an activity", "hu": "ösztönöz, támogat" },
+      { "forms": ["modernise"], "lemma": "modernise", "pos": "verb", "en": "to make something more modern", "hu": "korszerűsít, modernizál" },
+      { "forms": ["taxed"], "lemma": "tax", "pos": "verb", "en": "to make people pay money to the state", "hu": "megadóztat" },
+      { "forms": ["shores"], "lemma": "shore", "pos": "noun", "en": "the land along the edge of the sea", "hu": "part (tengeré)" }
+    ],
+    "2009-maj-kozep-H3": [
+      { "forms": ["treasured possession"], "lemma": "treasured possession", "pos": "noun", "en": "a thing that you own and that is very special to you", "hu": "féltett kincs" },
+      { "forms": ["has something to do with"], "lemma": "have something to do with", "pos": "phrase", "en": "to be connected with something", "hu": "köze van valamihez" }
     ]
   }
 }

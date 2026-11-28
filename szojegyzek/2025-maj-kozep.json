@@ -174,6 +174,64 @@
       { "forms": ["might"], "lemma": "might", "pos": "verb", "en": "used to say that something is possible", "hu": "talán, esetleg (lehetséges, hogy)" },
       { "forms": ["became friends"], "lemma": "become friends", "pos": "phrase", "en": "to start to be friends", "hu": "összebarátkoztak, barátok lettek", "tip": "Rendhagyó ige: become – became – become." },
       { "forms": ["Guinness world record"], "lemma": "Guinness world record", "pos": "noun", "en": "an official world record listed in the famous Guinness book of records", "hu": "Guinness-világrekord" }
+    ],
+    "2025-maj-kozep-L1": [
+      { "forms": ["absurd"], "lemma": "absurd", "pos": "adjective", "en": "very silly and strange", "hu": "abszurd, képtelen" },
+      { "forms": ["locals"], "lemma": "local", "pos": "noun", "en": "a person who lives in a particular place", "hu": "helyi lakos" },
+      { "forms": ["household items"], "lemma": "household items", "pos": "noun", "en": "things that people use in their homes", "hu": "háztartási tárgyak" },
+      { "forms": ["gadgets"], "lemma": "gadget", "pos": "noun", "en": "a small useful machine or tool", "hu": "kütyü, (kis) szerkezet" },
+      { "forms": ["results in"], "lemma": "result in", "pos": "phrasal verb", "en": "to cause something to happen", "hu": "eredményez, valamihez vezet" },
+      { "forms": ["ensure"], "lemma": "ensure", "pos": "verb", "en": "to make certain that something happens", "hu": "biztosít, gondoskodik róla" },
+      { "forms": ["age-old"], "lemma": "age-old", "pos": "adjective", "en": "very old; used for a very long time", "hu": "ősrégi" },
+      { "forms": ["echoes"], "lemma": "echo", "pos": "verb", "en": "to be heard again and again", "hu": "visszhangzik" },
+      { "forms": ["head to"], "lemma": "head to", "pos": "phrasal verb", "en": "to go towards a place", "hu": "valahová tart, indul" },
+      { "forms": ["thrill and chill"], "lemma": "the thrill and chill", "pos": "phrase", "en": "excitement and cold together", "hu": "izgalom és hideg" },
+      { "forms": ["participate"], "lemma": "participate", "pos": "verb", "en": "to take part in an activity", "hu": "részt vesz" },
+      { "forms": ["divers"], "lemma": "diver", "pos": "noun", "en": "a person who swims under water", "hu": "búvár" },
+      { "forms": ["surface"], "lemma": "surface", "pos": "noun", "en": "the top part of water", "hu": "felszín (vízé)" }
+    ],
+    "2025-maj-kozep-L2": [
+      { "forms": ["particularly"], "lemma": "particularly", "pos": "adverb", "en": "especially; more than usual", "hu": "különösen, főleg" },
+      { "forms": ["lecturers"], "lemma": "lecturer", "pos": "noun", "en": "a person who teaches at a university", "hu": "előadó, egyetemi oktató" },
+      { "forms": ["word by word"], "lemma": "word by word", "pos": "phrase", "en": "every single word, one after the other", "hu": "szóról szóra" },
+      { "forms": ["summarise"], "lemma": "summarise", "pos": "verb", "en": "to give only the most important points of something", "hu": "összefoglal" },
+      { "forms": ["When it came to"], "lemma": "when it comes to", "pos": "phrase", "en": "in the case of a particular thing", "hu": "amikor arról volt szó, hogy; ami azt illeti" },
+      { "forms": ["concepts"], "lemma": "concept", "pos": "noun", "en": "an idea or a principle", "hu": "fogalom, elgondolás" },
+      { "forms": ["revise"], "lemma": "revise", "pos": "verb", "en": "to study something again before a test", "hu": "átismétel (vizsgára)", "tip": "Brit angolban ez a jelentése; nem azt jelenti: revideál." },
+      { "forms": ["process"], "lemma": "process", "pos": "verb", "en": "to think about information so that you understand it", "hu": "feldolgoz" }
+    ],
+    "2025-maj-kozep-L3": [
+      { "forms": ["COMMUTING", "commute"], "lemma": "commute", "pos": "verb", "en": "to travel regularly between your home and your work", "hu": "ingázik" },
+      { "forms": ["via"], "lemma": "via", "pos": "preposition", "en": "by using a particular way or route", "hu": "útján, keresztül" },
+      { "forms": ["flow"], "lemma": "flow", "pos": "noun", "en": "the movement of water in a river", "hu": "folyás, sodrás" },
+      { "forms": ["commuters"], "lemma": "commuter", "pos": "noun", "en": "a person who travels regularly between home and work", "hu": "ingázó" },
+      { "forms": ["foldable"], "lemma": "foldable", "pos": "adjective", "en": "that you can make smaller by bending", "hu": "összehajtható" },
+      { "forms": ["dry bags"], "lemma": "dry bag", "pos": "noun", "en": "a bag that keeps water out", "hu": "vízhatlan zsák" },
+      { "forms": ["shaped"], "lemma": "shaped", "pos": "adjective", "en": "having a particular form", "hu": "formájú, alakú" },
+      { "forms": ["swimming gear"], "lemma": "swimming gear", "pos": "noun", "en": "the clothes and things that you need for swimming", "hu": "fürdőcucc, úszófelszerelés" },
+      { "forms": ["floating"], "lemma": "float", "pos": "verb", "en": "to stay on the top of water", "hu": "úszik (a víz felszínén), lebeg" },
+      { "forms": ["convenient"], "lemma": "convenient", "pos": "adjective", "en": "easy and good for your plans", "hu": "kényelmes, alkalmas" },
+      { "forms": ["final destination"], "lemma": "final destination", "pos": "phrase", "en": "the place where a journey ends", "hu": "végcél, úti cél" },
+      { "forms": ["cabins"], "lemma": "cabin", "pos": "noun", "en": "a small wooden building", "hu": "kabin, faház" },
+      { "forms": ["dressing rooms"], "lemma": "dressing room", "pos": "noun", "en": "a room where you change your clothes", "hu": "öltöző" },
+      { "forms": ["competent"], "lemma": "competent", "pos": "adjective", "en": "able to do something well enough", "hu": "gyakorlott, rátermett" }
+    ],
+    "2025-maj-kozep-H1": [
+      { "forms": ["retirement"], "lemma": "retirement", "pos": "noun", "en": "the time when you stop working because you are old", "hu": "nyugdíjba vonulás" },
+      { "forms": ["served as"], "lemma": "serve as", "pos": "phrase", "en": "to do a job, for example in the army", "hu": "szolgál valamiként" },
+      { "forms": ["day shift"], "lemma": "day shift", "pos": "noun", "en": "the time of the day when a group of people work", "hu": "nappali műszak" },
+      { "forms": ["outstandingly"], "lemma": "outstandingly", "pos": "adverb", "en": "extremely; much better than others", "hu": "kiemelkedően" },
+      { "forms": ["respects"], "lemma": "respect", "pos": "noun", "en": "a particular part or detail of something", "hu": "szempont, tekintet", "tip": "In many respects: sok szempontból. Más jelentése: tisztelet." },
+      { "forms": ["tidiness"], "lemma": "tidiness", "pos": "noun", "en": "keeping things clean and in order", "hu": "rendesség, rendszeretet" },
+      { "forms": ["demonstrated"], "lemma": "demonstrate", "pos": "verb", "en": "to show something clearly", "hu": "bemutat, megmutat" },
+      { "forms": ["policies"], "lemma": "policy", "pos": "noun", "en": "a set of rules or ideas that a company follows", "hu": "irányelv, (vállalati) politika" },
+      { "forms": ["professionalism"], "lemma": "professionalism", "pos": "noun", "en": "doing your job with great skill and care", "hu": "szakszerűség, profizmus" },
+      { "forms": ["saluted"], "lemma": "salute", "pos": "verb", "en": "to lift your hand to your head to show respect, like soldiers do", "hu": "tiszteleg, szalutál" }
+    ],
+    "2025-maj-kozep-H3": [
+      { "forms": ["pensioner"], "lemma": "pensioner", "pos": "noun", "en": "a person who gets money from the state because they are old and no longer work", "hu": "nyugdíjas" },
+      { "forms": ["recognised"], "lemma": "recognise", "pos": "verb", "en": "to know who someone is because you have seen them before", "hu": "felismer" },
+      { "forms": ["rightful owner"], "lemma": "rightful owner", "pos": "phrase", "en": "the person to whom something really belongs", "hu": "jogos tulajdonos" }
     ]
   }
 }

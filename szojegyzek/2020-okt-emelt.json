@@ -257,6 +257,69 @@
       { "forms": ["store"], "lemma": "store", "pos": "verb", "en": "to keep something in a place", "hu": "tárol, elraktároz" },
       { "forms": ["underground"], "lemma": "underground", "pos": "adverb", "en": "under the surface of the earth", "hu": "a föld alatt" },
       { "forms": ["forever"], "lemma": "forever", "pos": "adverb", "en": "for all time", "hu": "örökre" }
+    ],
+    "2020-okt-emelt-L1": [
+      { "forms": ["melancholy"], "lemma": "melancholy", "pos": "noun", "en": "a deep sadness that lasts a long time", "hu": "mélabú, melankólia" },
+      { "forms": ["drawn from"], "lemma": "draw from", "pos": "phrasal verb", "en": "to take something from a source", "hu": "merít valamiből, ered valamiből" },
+      { "forms": ["setting sun"], "lemma": "setting sun", "pos": "noun", "en": "the sun when it goes down in the evening", "hu": "lemenő nap" },
+      { "forms": ["paused"], "lemma": "pause", "pos": "verb", "en": "to stop for a short time", "hu": "megállt egy pillanatra" },
+      { "forms": ["leaned on"], "lemma": "lean on", "pos": "phrasal verb", "en": "to rest your body against something", "hu": "nekitámaszkodik" },
+      { "forms": ["tongues of fire"], "lemma": "tongue of fire", "pos": "noun", "en": "a long thin flame", "hu": "lángnyelv" },
+      { "forms": ["infinite"], "lemma": "infinite", "pos": "adjective", "en": "without end; extremely great", "hu": "végtelen" },
+      { "forms": ["Astronomers"], "lemma": "astronomer", "pos": "noun", "en": "a scientist who studies the stars and planets", "hu": "csillagász" },
+      { "forms": ["eruption"], "lemma": "eruption", "pos": "noun", "en": "a sudden explosion of fire, rock and gas from a mountain", "hu": "kitörés" },
+      { "forms": ["determined"], "lemma": "determine", "pos": "verb", "en": "to find out the facts about something", "hu": "megállapít, kiderít" },
+      { "forms": ["debris"], "lemma": "debris", "pos": "noun", "en": "small pieces of something that has been destroyed", "hu": "törmelék, por", "tip": "A végén az s-t nem ejtjük: /ˈdebriː/." },
+      { "forms": ["twilights"], "lemma": "twilight", "pos": "noun", "en": "the time after the sun goes down, before it is dark", "hu": "alkonyat, szürkület" }
+    ],
+    "2020-okt-emelt-L2": [
+      { "forms": ["transferred"], "lemma": "transfer", "pos": "verb", "en": "to move money from one bank account into another", "hu": "átutal" },
+      { "forms": ["qualify for credit", "qualify"], "lemma": "qualify for credit", "pos": "phrase", "en": "to have the right conditions so that a bank will lend you money", "hu": "hitelképes, jogosult a hitelre" },
+      { "forms": ["pocketed"], "lemma": "pocket", "pos": "verb", "en": "to take money for yourself, often dishonestly", "hu": "zsebre tesz, eltesz magának" },
+      { "forms": ["authorities"], "lemma": "the authorities", "pos": "noun", "en": "the police and other official organisations", "hu": "hatóságok" },
+      { "forms": ["sentenced", "sentence"], "lemma": "sentence", "pos": "verb", "en": "to say officially in court what punishment someone gets", "hu": "elítél; (főnévként) ítélet, büntetés" },
+      { "forms": ["offence"], "lemma": "offence", "pos": "noun", "en": "a crime", "hu": "bűncselekmény, vétség" },
+      { "forms": ["imprisoned"], "lemma": "imprison", "pos": "verb", "en": "to put someone in prison", "hu": "bebörtönöz" },
+      { "forms": ["benefit from"], "lemma": "benefit from", "pos": "phrasal verb", "en": "to get something good or useful from something", "hu": "hasznot húz valamiből" },
+      { "forms": ["savers"], "lemma": "saver", "pos": "noun", "en": "a person who keeps money in a bank", "hu": "betétes, megtakarító" }
+    ],
+    "2020-okt-emelt-L3": [
+      { "forms": ["shipwreck", "shipwrecks"], "lemma": "shipwreck", "pos": "noun", "en": "the remains of a ship that has sunk", "hu": "hajóroncs" },
+      { "forms": ["lain"], "lemma": "lie", "pos": "verb", "en": "to be in a flat position somewhere", "hu": "fekszik", "tip": "Rendhagyó: lie – lay – lain." },
+      { "forms": ["undisturbed"], "lemma": "undisturbed", "pos": "adjective", "en": "not moved or touched by anyone", "hu": "háborítatlanul, érintetlenül" },
+      { "forms": ["vessel"], "lemma": "vessel", "pos": "noun", "en": "a ship or a large boat", "hu": "hajó, vízi jármű" },
+      { "forms": ["mast"], "lemma": "mast", "pos": "noun", "en": "a tall pole on a ship that holds the sails", "hu": "árboc" },
+      { "forms": ["rowing benches"], "lemma": "rowing bench", "pos": "noun", "en": "a seat in a boat for a person who moves it with oars", "hu": "evezőpad" },
+      { "forms": ["present and correct"], "lemma": "present and correct", "pos": "phrase", "en": "all there, nothing missing", "hu": "hiánytalanul megvan" },
+      { "forms": ["lack"], "lemma": "lack", "pos": "noun", "en": "the state when something is missing", "hu": "hiány" },
+      { "forms": ["depth"], "lemma": "depth", "pos": "noun", "en": "how deep something is", "hu": "mélység" },
+      { "forms": ["preserved"], "lemma": "preserve", "pos": "verb", "en": "to keep something in good condition", "hu": "megőriz, konzervál" },
+      { "forms": ["principal investigator"], "lemma": "principal investigator", "pos": "noun", "en": "the main scientist who leads a research project", "hu": "vezető kutató" },
+      { "forms": ["seafaring"], "lemma": "seafaring", "pos": "noun", "en": "travelling by sea", "hu": "hajózás, tengerjárás" },
+      { "forms": ["reportedly"], "lemma": "reportedly", "pos": "adverb", "en": "according to what people say", "hu": "a hírek szerint, állítólag" },
+      { "forms": ["carbon dated"], "lemma": "carbon-date", "pos": "verb", "en": "to find out how old something is by measuring carbon in it", "hu": "radiokarbonos kormeghatározással vizsgál" },
+      { "forms": ["intact"], "lemma": "intact", "pos": "adjective", "en": "complete and not damaged", "hu": "ép, sértetlen" },
+      { "forms": ["mankind"], "lemma": "mankind", "pos": "noun", "en": "all people in the world", "hu": "emberiség" },
+      { "forms": ["pottery"], "lemma": "pottery", "pos": "noun", "en": "pots and other objects made of clay", "hu": "kerámia, cserépedények" },
+      { "forms": ["resist"], "lemma": "resist", "pos": "verb", "en": "to stop yourself from doing something that you want to do", "hu": "ellenáll" },
+      { "forms": ["prehistoric"], "lemma": "prehistoric", "pos": "adjective", "en": "from the time before history was written down", "hu": "őskori, történelem előtti" }
+    ],
+    "2020-okt-emelt-H1": [
+      { "forms": ["on record"], "lemma": "on record", "pos": "phrase", "en": "written down officially, so we know about it", "hu": "feljegyzett, ismert" },
+      { "forms": ["conquest"], "lemma": "conquest", "pos": "noun", "en": "taking control of a country by force", "hu": "hódítás, meghódítás" }
+    ],
+    "2020-okt-emelt-H2": [
+      { "forms": ["on offer"], "lemma": "on offer", "pos": "phrase", "en": "available", "hu": "elérhető, megpályázható" },
+      { "forms": ["applicant", "applicant’s"], "lemma": "applicant", "pos": "noun", "en": "a person who asks for a job in writing", "hu": "jelentkező, pályázó" },
+      { "forms": ["sanctuary"], "lemma": "sanctuary", "pos": "noun", "en": "a safe place where animals are protected", "hu": "menhely, rezervátum" },
+      { "forms": ["requirement"], "lemma": "requirement", "pos": "noun", "en": "something that you must have", "hu": "követelmény, feltétel" },
+      { "forms": ["veterinary nurse"], "lemma": "veterinary nurse", "pos": "noun", "en": "a person who helps an animal doctor", "hu": "állatorvosi asszisztens" },
+      { "forms": ["negotiate"], "lemma": "negotiate", "pos": "verb", "en": "to talk about something to reach an agreement", "hu": "megtárgyal, alkudozik" }
+    ],
+    "2020-okt-emelt-H3": [
+      { "forms": ["narrator"], "lemma": "narrator", "pos": "noun", "en": "the person who tells a story", "hu": "elbeszélő, mesélő" },
+      { "forms": ["authenticity"], "lemma": "authenticity", "pos": "noun", "en": "being true or real", "hu": "hitelesség, valódiság" },
+      { "forms": ["to do with"], "lemma": "have to do with", "pos": "phrase", "en": "to be connected with something", "hu": "köze van valamihez" }
     ]
   }
 }

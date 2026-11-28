@@ -110,20 +110,22 @@ export default function Task({ task, ans, set, graded, audio, keyOnly, gloss }: 
   );
 
   // ---- állítás / kérdés sor ----
+  // a kérdés szövegében akkor van szótár, ha a feladatnak nincs szövegrésze (hallás állításai, rövid levelek); a lehetőségekben soha
+  const SG = (s: string): ReactNode => (task.body?.length ? s : G(s));
   const StemRow = ({ it }: { it: any }) => {
     const head = <span className="num">{it.example ? 'Példa' : it.n + '.'}</span>;
     if (task.kind === 'text') {
       const parts = String(it.stem || '').split('{{gap}}');
       return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}>
-        <p className="stem exam">{head}{parts.map((p, i) => <span key={i}>{p}{i < parts.length - 1 && TextIn({ it, gi: i, inStem: true })}</span>)}<Sign n={it.n} /></p>
+        <p className="stem exam">{head}{parts.map((p, i) => <span key={i}>{SG(p)}{i < parts.length - 1 && TextIn({ it, gi: i, inStem: true })}</span>)}<Sign n={it.n} /></p>
         <Fix n={it.n} text={sol(it.n)?.text} />
       </div>);
     }
-    if (task.kind === 'bank') return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}><p className="stem exam">{head}{task.body?.length ? it.stem : G(it.stem)}</p>{ChoiceGap({ it, block: true })}</div>);
+    if (task.kind === 'bank') return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}><p className="stem exam">{head}{SG(it.stem)}</p>{ChoiceGap({ it, block: true })}</div>);
     const opts = it.options || task.options || [], v = [].concat(it.example ? it.answer : ans[it.n] ?? []) as string[];
     const right = new Set<string>(sol(it.n)?.keys || []);
     return (<div className={'item' + (it.example ? ' ex' : '') + mark(it.n)}>
-      <p className="stem exam">{head}{it.stem}<Sign n={it.n} /></p>
+      <p className="stem exam">{head}{SG(it.stem)}<Sign n={it.n} /></p>
       <div className={'opts' + (it.options ? ' col' : '')} role={task.kind === 'multi' ? 'group' : 'radiogroup'}>
         {opts.map((o: any) => {
           const on = v.includes(o.key);

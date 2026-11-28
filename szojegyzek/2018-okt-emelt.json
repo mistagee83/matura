@@ -278,6 +278,65 @@
       { "forms": ["what were thought to be"], "lemma": "what were thought to be", "pos": "phrase", "en": "things that people believed were", "hu": "amiket ...-nak véltek" },
       { "forms": ["spot"], "lemma": "spot", "pos": "noun", "en": "a place", "hu": "hely" },
       { "forms": ["remained"], "lemma": "remain", "pos": "verb", "en": "to stay in the same state", "hu": "maradt" }
+    ],
+    "2018-okt-emelt-L1": [
+      { "forms": ["garden gnomes", "garden gnome"], "lemma": "garden gnome", "pos": "noun", "en": "a small statue of a little old man with a red hat, put in gardens", "hu": "kerti törpe" },
+      { "forms": ["monumental"], "lemma": "monumental", "pos": "adjective", "en": "very great", "hu": "óriási, hatalmas" },
+      { "forms": ["extravagance"], "lemma": "extravagance", "pos": "noun", "en": "spending a lot of money on things that you do not need", "hu": "fényűzés, pazarlás" },
+      { "forms": ["camp out"], "lemma": "camp out", "pos": "phrasal verb", "en": "to live outside for a time, often in a tent", "hu": "kint lakik, táboroz" },
+      { "forms": ["lawns"], "lemma": "lawn", "pos": "noun", "en": "an area of short grass in a garden", "hu": "pázsit, gyep" },
+      { "forms": ["ornament"], "lemma": "ornament", "pos": "noun", "en": "an object used as decoration", "hu": "dísz" },
+      { "forms": ["aristocrats"], "lemma": "aristocrat", "pos": "noun", "en": "a person of the highest social class", "hu": "arisztokrata, főnemes" },
+      { "forms": ["hermits"], "lemma": "hermit", "pos": "noun", "en": "a person who lives alone, away from other people", "hu": "remete" },
+      { "forms": ["barefoot"], "lemma": "barefoot", "pos": "adverb", "en": "without shoes or socks", "hu": "mezítláb" },
+      { "forms": ["belongings"], "lemma": "belongings", "pos": "noun", "en": "the things that you own", "hu": "holmi, ingóság" },
+      { "forms": ["hourglass"], "lemma": "hourglass", "pos": "noun", "en": "a glass container with sand that measures time", "hu": "homokóra" },
+      { "forms": ["bizarre"], "lemma": "bizarre", "pos": "adjective", "en": "very strange", "hu": "bizarr, különös" },
+      { "forms": ["legacy"], "lemma": "legacy", "pos": "noun", "en": "something that continues to exist from the past", "hu": "örökség" },
+      { "forms": ["evolved into"], "lemma": "evolve into", "pos": "phrasal verb", "en": "to change slowly into something else", "hu": "átalakul, kifejlődik valamivé" }
+    ],
+    "2018-okt-emelt-L2": [
+      { "forms": ["fool"], "lemma": "fool", "pos": "verb", "en": "to trick someone", "hu": "becsap, rászed" },
+      { "forms": ["marble"], "lemma": "marble", "pos": "noun", "en": "a hard, smooth stone used for statues and buildings", "hu": "márvány" },
+      { "forms": ["setting out to"], "lemma": "set out to", "pos": "phrase", "en": "to start doing something with a clear aim", "hu": "nekilát, azzal a céllal, hogy" },
+      { "forms": ["passed off"], "lemma": "pass off", "pos": "phrasal verb", "en": "to make people believe that something is something else", "hu": "kiad valaminek" },
+      { "forms": ["ancestors"], "lemma": "ancestor", "pos": "noun", "en": "here: a person who lived and worked before you", "hu": "előd, ős" },
+      { "forms": ["carved"], "lemma": "carve", "pos": "verb", "en": "to make an object by cutting wood or stone", "hu": "kifarag" },
+      { "forms": ["renowned"], "lemma": "renowned", "pos": "adjective", "en": "well known and admired", "hu": "neves, elismert" },
+      { "forms": ["doctored"], "lemma": "doctor", "pos": "verb", "en": "to change something secretly in order to trick people", "hu": "meghamisít, manipulál", "tip": "Itt ige, nem az orvos szó." },
+      { "forms": ["Cardinal"], "lemma": "cardinal", "pos": "noun", "en": "a very important priest in the Catholic Church", "hu": "bíboros" },
+      { "forms": ["antiquities"], "lemma": "antiquity", "pos": "noun", "en": "an object from ancient times", "hu": "régiség, antik tárgy" },
+      { "forms": ["dealer"], "lemma": "dealer", "pos": "noun", "en": "a person who buys and sells things, for example works of art", "hu": "kereskedő, műkereskedő" },
+      { "forms": ["selling it on"], "lemma": "sell on", "pos": "phrasal verb", "en": "to sell something that you have bought to another person", "hu": "továbbad, továbbértékesít" },
+      { "forms": ["authorship"], "lemma": "authorship", "pos": "noun", "en": "being the person who made a work", "hu": "szerzőség" }
+    ],
+    "2018-okt-emelt-L3": [
+      { "forms": ["amused"], "lemma": "amused", "pos": "adjective", "en": "finding something funny", "hu": "derűs, jól szórakozik", "tip": "A not amused azt jelenti: bosszús, egyáltalán nem tartja viccesnek." },
+      { "forms": ["light-hearted"], "lemma": "light-hearted", "pos": "adjective", "en": "not serious, meant to be funny", "hu": "könnyed, tréfás" },
+      { "forms": ["divided opinion"], "lemma": "divide opinion", "pos": "phrase", "en": "to make some people agree and others disagree", "hu": "megosztja a véleményeket" },
+      { "forms": ["billboard"], "lemma": "billboard", "pos": "noun", "en": "a very large board for advertisements", "hu": "óriásplakát" },
+      { "forms": ["outrage"], "lemma": "outrage", "pos": "noun", "en": "a feeling of great anger and shock", "hu": "felháborodás" },
+      { "forms": ["depicted"], "lemma": "depict", "pos": "verb", "en": "to show something in a picture", "hu": "ábrázol" },
+      { "forms": ["condemned"], "lemma": "condemn", "pos": "verb", "en": "to say publicly that something is very wrong", "hu": "elítél" },
+      { "forms": ["bullying"], "lemma": "bullying", "pos": "noun", "en": "hurting or frightening weaker people", "hu": "zaklatás, megfélemlítés" },
+      { "forms": ["shaming"], "lemma": "shame", "pos": "verb", "en": "to make someone feel ashamed", "hu": "megszégyenít" },
+      { "forms": ["cause offence"], "lemma": "cause offence", "pos": "phrase", "en": "to upset or insult someone", "hu": "megbánt, sértődést okoz" }
+    ],
+    "2018-okt-emelt-H1": [
+      { "forms": ["Bandaged"], "lemma": "bandaged", "pos": "adjective", "en": "covered with a strip of cloth because of an injury", "hu": "bekötözött" },
+      { "forms": ["biographers"], "lemma": "biographer", "pos": "noun", "en": "a person who writes the story of someone’s life", "hu": "életrajzíró" }
+    ],
+    "2018-okt-emelt-H2": [
+      { "forms": ["spacewalk"], "lemma": "spacewalk", "pos": "noun", "en": "time that an astronaut spends outside a spacecraft in space", "hu": "űrséta" },
+      { "forms": ["spacecraft"], "lemma": "spacecraft", "pos": "noun", "en": "a vehicle that travels in space", "hu": "űrhajó" },
+      { "forms": ["automatic guidance system"], "lemma": "automatic guidance system", "pos": "noun", "en": "a machine that steers a spacecraft by itself", "hu": "automatikus irányítórendszer" },
+      { "forms": ["manual landing"], "lemma": "manual landing", "pos": "noun", "en": "landing a spacecraft by hand, without the computer", "hu": "kézi vezérlésű leszállás" },
+      { "forms": ["landing capsule"], "lemma": "landing capsule", "pos": "noun", "en": "the small part of a spacecraft that comes back to Earth", "hu": "leszállóegység, kapszula" }
+    ],
+    "2018-okt-emelt-H3": [
+      { "forms": ["floating"], "lemma": "float", "pos": "verb", "en": "to stay on the surface of water", "hu": "(vízen) úszik, lebeg" },
+      { "forms": ["compile"], "lemma": "compile", "pos": "verb", "en": "to collect information and put it together in a list", "hu": "összeállít" },
+      { "forms": ["concepts"], "lemma": "concept", "pos": "noun", "en": "an idea for how to do something", "hu": "elképzelés, koncepció" }
     ]
   }
 }

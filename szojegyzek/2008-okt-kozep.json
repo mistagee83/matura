@@ -201,6 +201,61 @@
       { "forms": ["neighbours"], "lemma": "neighbour", "pos": "noun", "en": "a person who lives near you", "hu": "szomszéd" },
       { "forms": ["accepted"], "lemma": "accept", "pos": "verb", "en": "to let someone become part of a group", "hu": "befogad, elfogad" },
       { "forms": ["community"], "lemma": "community", "pos": "noun", "en": "the people who live in one place", "hu": "közösség" }
+    ],
+    "2008-okt-kozep-L1": [
+      { "forms": ["pays up"], "lemma": "pay up", "pos": "phrasal verb", "en": "to pay money that you owe, often when you do not want to", "hu": "fizet (kénytelen-kelletlen)" },
+      { "forms": ["compensation demand"], "lemma": "compensation demand", "pos": "noun", "en": "an official request for money because of damage or loss", "hu": "kártérítési követelés" },
+      { "forms": ["out-of-court settlement"], "lemma": "out-of-court settlement", "pos": "noun", "en": "an agreement made without going to court", "hu": "peren kívüli megegyezés" },
+      { "forms": ["revealed"], "lemma": "reveal", "pos": "verb", "en": "to tell people something that was secret", "hu": "nyilvánosságra hoz, elárul" },
+      { "forms": ["copyright law"], "lemma": "copyright law", "pos": "noun", "en": "the law that protects the owner of music, books or films", "hu": "szerzői jogi törvény" },
+      { "forms": ["court case"], "lemma": "court case", "pos": "noun", "en": "a problem that a judge decides about in a court", "hu": "bírósági per" },
+      { "forms": ["file-sharing"], "lemma": "file-sharing", "pos": "adjective", "en": "used for sending music or films to other people over the Internet", "hu": "fájlmegosztó" },
+      { "forms": ["targeted"], "lemma": "target", "pos": "verb", "en": "to choose someone to attack or act against", "hu": "célba vesz" },
+      { "forms": ["solicitors"], "lemma": "solicitor", "pos": "noun", "en": "a lawyer (British English)", "hu": "ügyvéd, ügyvédi iroda" },
+      { "forms": ["prosecute"], "lemma": "prosecute", "pos": "verb", "en": "to take someone to court because of a crime", "hu": "bíróság elé állít, beperel" },
+      { "forms": ["pirates"], "lemma": "pirate", "pos": "noun", "en": "here: a person who copies music or films illegally", "hu": "kalóz (illegális letöltő)" },
+      { "forms": ["on behalf of"], "lemma": "on behalf of", "pos": "phrase", "en": "for someone, in their place", "hu": "valaki nevében, megbízásából" }
+    ],
+    "2008-okt-kozep-L2": [
+      { "forms": ["fellow"], "lemma": "fellow", "pos": "noun", "en": "a man", "hu": "fickó, alak" },
+      { "forms": ["rural"], "lemma": "rural", "pos": "adjective", "en": "in the countryside, not in a town", "hu": "vidéki" },
+      { "forms": ["gas station"], "lemma": "gas station", "pos": "noun", "en": "a place where you buy petrol for your car (American English)", "hu": "benzinkút" },
+      { "forms": ["dug", "digging"], "lemma": "dig", "pos": "verb", "en": "to make a hole in the ground", "hu": "ás", "tip": "Rendhagyó ige: dig – dug – dug." },
+      { "forms": ["filled in", "filling in"], "lemma": "fill in", "pos": "phrasal verb", "en": "to put earth back into a hole so that it disappears", "hu": "betemet" },
+      { "forms": ["trash container"], "lemma": "trash container", "pos": "noun", "en": "a box for rubbish (American English)", "hu": "szemetes, szemétgyűjtő" },
+      { "forms": ["heading"], "lemma": "head", "pos": "verb", "en": "to go in a particular direction", "hu": "tart valahova, elindul" },
+      { "forms": ["hold it"], "lemma": "hold it", "pos": "phrase", "en": "used to tell someone to stop and wait", "hu": "állj, várjunk csak" },
+      { "forms": ["county government"], "lemma": "county government", "pos": "noun", "en": "the people who run an area of a US state", "hu": "megyei önkormányzat" },
+      { "forms": ["accomplishing"], "lemma": "accomplish", "pos": "verb", "en": "to do something successfully", "hu": "elér, véghezvisz" }
+    ],
+    "2008-okt-kozep-L3": [
+      { "forms": ["wandering"], "lemma": "wander", "pos": "verb", "en": "to walk around without a clear direction", "hu": "kóborol" },
+      { "forms": ["sidewalk"], "lemma": "sidewalk", "pos": "noun", "en": "the path at the side of a street (American English)", "hu": "járda" },
+      { "forms": ["christmas eve"], "lemma": "Christmas Eve", "pos": "noun", "en": "the day before Christmas Day, 24 December", "hu": "szenteste" },
+      { "forms": ["slipped out"], "lemma": "slip out", "pos": "phrasal verb", "en": "to leave quietly without anyone noticing", "hu": "kiszökik, kiosont" },
+      { "forms": ["festivities"], "lemma": "festivities", "pos": "noun", "en": "parties and celebrations", "hu": "ünnepségek, ünnepi forgatag" },
+      { "forms": ["showed up"], "lemma": "show up", "pos": "phrasal verb", "en": "to arrive", "hu": "megjelenik, felbukkan" },
+      { "forms": ["collar"], "lemma": "collar", "pos": "noun", "en": "a band that a dog wears around its neck", "hu": "nyakörv" },
+      { "forms": ["veterinarian"], "lemma": "veterinarian", "pos": "noun", "en": "a doctor for animals", "hu": "állatorvos" },
+      { "forms": ["kindness"], "lemma": "kindness", "pos": "noun", "en": "being friendly and helpful", "hu": "kedvesség, jóság" },
+      { "forms": ["confirmed"], "lemma": "confirm", "pos": "verb", "en": "to show that something is definitely true", "hu": "megerősít, igazol" },
+      { "forms": ["dug"], "lemma": "dig", "pos": "verb", "en": "to make a hole in the ground", "hu": "ás", "tip": "Rendhagyó ige: dig – dug – dug." },
+      { "forms": ["fence"], "lemma": "fence", "pos": "noun", "en": "a wall made of wood or wire around a garden", "hu": "kerítés" },
+      { "forms": ["filled in"], "lemma": "fill in", "pos": "phrasal verb", "en": "to put earth back into a hole so that it disappears", "hu": "betemet" }
+    ],
+    "2008-okt-kozep-H1": [
+      { "forms": ["contestants"], "lemma": "contestant", "pos": "noun", "en": "a person who takes part in a competition", "hu": "versenyző" }
+    ],
+    "2008-okt-kozep-H2": [
+      { "forms": ["elderly"], "lemma": "elderly", "pos": "adjective", "en": "old (a polite word)", "hu": "idős" },
+      { "forms": ["misses"], "lemma": "miss", "pos": "verb", "en": "to feel sad because something is not there any more", "hu": "hiányzik neki", "tip": "Fordított szerkezet: Chrissie misses the shops = Chrissie-nek hiányoznak a boltok." }
+    ],
+    "2008-okt-kozep-H3": [
+      { "forms": ["genie"], "lemma": "genie", "pos": "noun", "en": "a magic spirit in stories, often living in a bottle or lamp, who can make wishes come true", "hu": "dzsinn, szellem (a palackban)" },
+      { "forms": ["grant"], "lemma": "grant", "pos": "verb", "en": "to give someone what they ask for", "hu": "teljesít, megad" },
+      { "forms": ["concrete"], "lemma": "concrete", "pos": "noun", "en": "a hard grey building material made from cement, sand and water", "hu": "beton" },
+      { "forms": ["get along with"], "lemma": "get along with", "pos": "phrasal verb", "en": "to have a friendly relationship with someone", "hu": "kijön valakivel, jól megvan valakivel" },
+      { "forms": ["sighed"], "lemma": "sigh", "pos": "verb", "en": "to breathe out loudly because you are tired, sad or disappointed", "hu": "sóhajt" }
     ]
   }
 }

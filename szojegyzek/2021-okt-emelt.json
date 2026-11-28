@@ -259,6 +259,70 @@
       { "forms": ["supply"], "lemma": "supply", "pos": "verb", "en": "to give or provide something", "hu": "biztosít, nyújt" },
       { "forms": ["creativity"], "lemma": "creativity", "pos": "noun", "en": "the ability to make new things or think of new ideas", "hu": "kreativitás" },
       { "forms": ["adaptability"], "lemma": "adaptability", "pos": "noun", "en": "the ability to change to suit new situations", "hu": "alkalmazkodóképesség" }
+    ],
+    "2021-okt-emelt-L1": [
+      { "forms": ["lottery", "lotteries"], "lemma": "lottery", "pos": "noun", "en": "a game where you buy a ticket and can win money if your number is chosen", "hu": "lottó, sorsjáték" },
+      { "forms": ["civic duty"], "lemma": "civic duty", "pos": "noun", "en": "something that a good citizen should do for the community", "hu": "állampolgári kötelesség" },
+      { "forms": ["colonies", "Colony"], "lemma": "colony", "pos": "noun", "en": "a place ruled by another country that sent people to live there", "hu": "gyarmat" },
+      { "forms": ["colonists"], "lemma": "colonist", "pos": "noun", "en": "a person who lived in a colony", "hu": "gyarmatos, telepes" },
+      { "forms": ["fund", "funded"], "lemma": "fund", "pos": "verb", "en": "to pay for something", "hu": "finanszíroz, pénzel" },
+      { "forms": ["bound"], "lemma": "bound", "pos": "adjective", "en": "travelling towards a particular place", "hu": "valahová tartó, úton lévő" },
+      { "forms": ["crowns"], "lemma": "crown", "pos": "noun", "en": "an old British coin", "hu": "korona (régi pénzérme)" },
+      { "forms": ["scratch-and-win"], "lemma": "scratch-and-win", "pos": "adjective", "en": "a lottery card where you remove a layer to see if you won", "hu": "kaparós (sorsjegy)" },
+      { "forms": ["estimated"], "lemma": "estimated", "pos": "adjective", "en": "guessed by calculating", "hu": "becsült" },
+      { "forms": ["Influential"], "lemma": "influential", "pos": "adjective", "en": "having a lot of power over people", "hu": "befolyásos" },
+      { "forms": ["sponsored"], "lemma": "sponsor", "pos": "verb", "en": "to support something with money", "hu": "támogat, szponzorál" },
+      { "forms": ["Scholars"], "lemma": "scholar", "pos": "noun", "en": "a person who studies a subject in great detail", "hu": "tudós, kutató" },
+      { "forms": ["voluntary"], "lemma": "voluntary", "pos": "adjective", "en": "done because you want to, not because you must", "hu": "önkéntes" },
+      { "forms": ["exchange"], "lemma": "exchange", "pos": "noun", "en": "giving something and getting something else back", "hu": "csere (in exchange: cserébe)" },
+      { "forms": ["brick"], "lemma": "brick", "pos": "noun", "en": "a hard block of baked clay used for building", "hu": "tégla" }
+    ],
+    "2021-okt-emelt-L2": [
+      { "forms": ["SLEEPYHEADS"], "lemma": "sleepyhead", "pos": "noun", "en": "a person who is tired and wants to sleep", "hu": "álomszuszék, álmos ember" },
+      { "forms": ["JUNK FOOD", "junk foods"], "lemma": "junk food", "pos": "noun", "en": "food that is not healthy, with a lot of fat or sugar", "hu": "gyorskaja, egészségtelen étel" },
+      { "forms": ["appetizing"], "lemma": "appetizing", "pos": "adjective", "en": "looking or smelling good to eat", "hu": "étvágygerjesztő" },
+      { "forms": ["willpower"], "lemma": "willpower", "pos": "noun", "en": "the ability to control what you do", "hu": "akaraterő" },
+      { "forms": ["recruited"], "lemma": "recruit", "pos": "verb", "en": "to find people to take part in something", "hu": "toboroz" },
+      { "forms": ["recruits"], "lemma": "recruit", "pos": "noun", "en": "a person who has just joined a group", "hu": "résztvevő, újonc" },
+      { "forms": ["scanned"], "lemma": "scan", "pos": "verb", "en": "to look at the inside of a body with a special machine", "hu": "átvilágít, (agyi) felvételt készít" },
+      { "forms": ["rated"], "lemma": "rate", "pos": "verb", "en": "to say how good something is, for example with a number", "hu": "értékel, pontoz" },
+      { "forms": ["desired"], "lemma": "desire", "pos": "verb", "en": "to want something very much", "hu": "kíván, vágyik" },
+      { "forms": ["yummier"], "lemma": "yummy", "pos": "adjective", "en": "tasting very good (informal)", "hu": "finom, ínycsiklandó" },
+      { "forms": ["fatty"], "lemma": "fatty", "pos": "adjective", "en": "containing a lot of fat", "hu": "zsíros" },
+      { "forms": ["promote"], "lemma": "promote", "pos": "verb", "en": "to help something happen", "hu": "elősegít, serkent" }
+    ],
+    "2021-okt-emelt-L3": [
+      { "forms": ["mainland"], "lemma": "mainland", "pos": "noun", "en": "the main part of a country, not its islands", "hu": "szárazföldi (rész)" },
+      { "forms": ["stretching"], "lemma": "stretch", "pos": "verb", "en": "to cover a long distance", "hu": "húzódik, nyúlik" },
+      { "forms": ["roadways"], "lemma": "roadway", "pos": "noun", "en": "a road for cars", "hu": "út, úttest" },
+      { "forms": ["detect"], "lemma": "detect", "pos": "verb", "en": "to notice something that is hard to see", "hu": "észlel, érzékel" },
+      { "forms": ["heart monitors"], "lemma": "heart monitor", "pos": "noun", "en": "a machine that checks how your heart is working", "hu": "szívmonitor" },
+      { "forms": ["restricted"], "lemma": "restrict", "pos": "verb", "en": "to allow only some people or things", "hu": "korlátoz" },
+      { "forms": ["monitored"], "lemma": "monitor", "pos": "verb", "en": "to watch and check something over a period of time", "hu": "figyel, ellenőriz" },
+      { "forms": ["alerted"], "lemma": "alert", "pos": "verb", "en": "to tell someone quickly about a danger", "hu": "riaszt, értesít" },
+      { "forms": ["permits"], "lemma": "permit", "pos": "noun", "en": "an official paper that allows you to do something", "hu": "engedély" },
+      { "forms": ["granted"], "lemma": "grant", "pos": "verb", "en": "to give something officially", "hu": "megad, kiad (engedélyt)" },
+      { "forms": ["criteria"], "lemma": "criterion", "pos": "noun", "en": "a standard that is used to judge something", "hu": "feltétel, kritérium", "tip": "A criteria többes szám, egyes száma criterion." },
+      { "forms": ["charities"], "lemma": "charity", "pos": "noun", "en": "an organisation that helps people in need", "hu": "jótékonysági szervezet" },
+      { "forms": ["integrate"], "lemma": "integrate", "pos": "verb", "en": "to make something become part of a larger whole", "hu": "beolvaszt, integrál" },
+      { "forms": ["administrative"], "lemma": "administrative", "pos": "adjective", "en": "connected with organising and governing", "hu": "közigazgatási" },
+      { "forms": ["autonomous"], "lemma": "autonomous", "pos": "adjective", "en": "governing itself", "hu": "autonóm, önálló" },
+      { "forms": ["firmly"], "lemma": "firmly", "pos": "adverb", "en": "strongly and securely", "hu": "szilárdan, erősebben" }
+    ],
+    "2021-okt-emelt-H1": [
+      { "forms": ["thigh bone"], "lemma": "thigh bone", "pos": "noun", "en": "the bone in the upper part of your leg", "hu": "combcsont" },
+      { "forms": ["approximately"], "lemma": "approximately", "pos": "adverb", "en": "about; not exactly", "hu": "körülbelül, megközelítőleg" },
+      { "forms": ["sauropods"], "lemma": "sauropod", "pos": "noun", "en": "a very big dinosaur with a long neck", "hu": "szauropoda, hosszú nyakú óriásdinoszaurusz" },
+      { "forms": ["Palaeontologist"], "lemma": "palaeontologist", "pos": "noun", "en": "a scientist who studies fossils and very old animals", "hu": "őslénykutató, paleontológus" },
+      { "forms": ["fossils"], "lemma": "fossil", "pos": "noun", "en": "the remains of a very old animal or plant in rock", "hu": "kövület, fosszília" }
+    ],
+    "2021-okt-emelt-H2": [
+      { "forms": ["Museum-goers"], "lemma": "museum-goer", "pos": "noun", "en": "a person who visits museums", "hu": "múzeumlátogató" },
+      { "forms": ["likeness"], "lemma": "likeness", "pos": "noun", "en": "a picture that looks like the real person", "hu": "képmás, hasonmás" },
+      { "forms": ["posing"], "lemma": "pose", "pos": "verb", "en": "to sit or stand still so that someone can paint or photograph you", "hu": "modellt ül, pózol" },
+      { "forms": ["satire"], "lemma": "satire", "pos": "noun", "en": "a work that uses humour to criticize people or ideas", "hu": "szatíra, gúnyrajz" },
+      { "forms": ["praised"], "lemma": "praise", "pos": "verb", "en": "to say that someone or something is very good", "hu": "dicsér, magasztal" },
+      { "forms": ["parodies"], "lemma": "parody", "pos": "noun", "en": "a funny copy of a famous work", "hu": "paródia" }
     ]
   }
 }

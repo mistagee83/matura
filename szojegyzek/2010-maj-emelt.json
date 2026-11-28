@@ -251,6 +251,74 @@
       { "forms": ["thoughtful"], "lemma": "thoughtful", "pos": "adjective", "en": "showing careful thinking", "hu": "átgondolt, elmélyült" },
       { "forms": ["pop science"], "lemma": "pop science", "pos": "noun", "en": "science explained for ordinary people", "hu": "ismeretterjesztés, népszerű tudomány" },
       { "forms": ["along with"], "lemma": "along with", "pos": "preposition", "en": "together with", "hu": "(valami) mellett, (valamivel) együtt" }
+    ],
+    "2010-maj-emelt-L1": [
+      { "forms": ["celeb gossip"], "lemma": "celeb gossip", "pos": "noun", "en": "stories, often not true, about the private lives of famous people", "hu": "bulvárhírek, pletyka hírességekről" },
+      { "forms": ["dating column"], "lemma": "dating column", "pos": "noun", "en": "a part of a newspaper that helps people find a partner", "hu": "társkereső rovat" },
+      { "forms": ["distributed"], "lemma": "distribute", "pos": "verb", "en": "to give or deliver something to a lot of people", "hu": "terjeszt, kioszt" },
+      { "forms": ["commuters"], "lemma": "commuter", "pos": "noun", "en": "a person who travels to work in a city every day", "hu": "ingázó" },
+      { "forms": ["carriage"], "lemma": "carriage", "pos": "noun", "en": "one of the parts of a train where passengers sit", "hu": "(vasúti) kocsi" },
+      { "forms": ["caught his eye"], "lemma": "catch someone's eye", "pos": "phrase", "en": "to make someone notice you", "hu": "felkelti valaki figyelmét" },
+      { "forms": ["accounts manager"], "lemma": "accounts manager", "pos": "noun", "en": "a person who is in charge of the money records of a company", "hu": "könyvelési vezető" },
+      { "forms": ["grinning"], "lemma": "grin", "pos": "verb", "en": "to smile widely", "hu": "vigyorog" },
+      { "forms": ["proposed"], "lemma": "propose", "pos": "verb", "en": "to ask someone to marry you", "hu": "megkéri a kezét" }
+    ],
+    "2010-maj-emelt-L2": [
+      { "forms": ["vanished without trace"], "lemma": "vanish without trace", "pos": "phrase", "en": "to disappear completely, so that nobody knows what happened", "hu": "nyomtalanul eltűnik" },
+      { "forms": ["vast"], "lemma": "vast", "pos": "adjective", "en": "extremely large", "hu": "hatalmas, óriási" },
+      { "forms": ["triangular"], "lemma": "triangular", "pos": "adjective", "en": "having the shape of a triangle", "hu": "háromszög alakú" },
+      { "forms": ["plausible"], "lemma": "plausible", "pos": "adjective", "en": "reasonable and easy to believe", "hu": "hihető, elfogadható" },
+      { "forms": ["perilous"], "lemma": "perilous", "pos": "adjective", "en": "very dangerous", "hu": "veszélyes, kockázatos" },
+      { "forms": ["refuelling stop"], "lemma": "refuelling stop", "pos": "noun", "en": "a landing to put more fuel into a plane", "hu": "tankolási leszállás" },
+      { "forms": ["range"], "lemma": "range", "pos": "noun", "en": "the distance a plane can fly without stopping for fuel", "hu": "hatótávolság" },
+      { "forms": ["sufficient"], "lemma": "sufficient", "pos": "adjective", "en": "as much as you need", "hu": "elegendő" },
+      { "forms": ["reserve fuel"], "lemma": "reserve fuel", "pos": "noun", "en": "extra fuel that you keep in case you need it", "hu": "tartalék üzemanyag" },
+      { "forms": ["divert"], "lemma": "divert", "pos": "verb", "en": "to fly to a different place from the one you planned", "hu": "kitér, más irányba repül" },
+      { "forms": ["post-war era"], "lemma": "post-war era", "pos": "noun", "en": "the years after a war", "hu": "háború utáni korszak" },
+      { "forms": ["grim"], "lemma": "grim", "pos": "adjective", "en": "very bad and worrying", "hu": "sötét, lehangoló" },
+      { "forms": ["fate"], "lemma": "fate", "pos": "noun", "en": "what happens to someone or something in the end", "hu": "sors" }
+    ],
+    "2010-maj-emelt-L3": [
+      { "forms": ["staggering"], "lemma": "staggering", "pos": "adjective", "en": "so large that it is very surprising", "hu": "megdöbbentő, elképesztő" },
+      { "forms": ["landing"], "lemma": "land", "pos": "verb", "en": "to succeed in getting something, for example a job", "hu": "megszerez, kifog (állást)" },
+      { "forms": ["bachelor"], "lemma": "bachelor", "pos": "noun", "en": "a man who has never married", "hu": "agglegény" },
+      { "forms": ["redundant"], "lemma": "redundant", "pos": "adjective", "en": "having lost your job because the company does not need you any more", "hu": "elbocsátott (létszámleépítés miatt)" },
+      { "forms": ["steel plant"], "lemma": "steel plant", "pos": "noun", "en": "a factory where steel is made", "hu": "acélmű, acélgyár" },
+      { "forms": ["boost"], "lemma": "boost", "pos": "verb", "en": "to make something better or stronger", "hu": "feljavít, megerősít" },
+      { "forms": ["hindered"], "lemma": "hinder", "pos": "verb", "en": "to make it difficult for something to happen", "hu": "akadályoz, hátráltat" },
+      { "forms": ["disability"], "lemma": "disability", "pos": "noun", "en": "a physical or mental condition that makes some things difficult for a person", "hu": "fogyatékosság" },
+      { "forms": ["lengthy"], "lemma": "lengthy", "pos": "adjective", "en": "lasting a long time", "hu": "hosszadalmas, hosszú" },
+      { "forms": ["diagnosed"], "lemma": "diagnose", "pos": "verb", "en": "to find out what illness someone has", "hu": "diagnosztizál, megállapít (betegséget)" },
+      { "forms": ["Reluctant"], "lemma": "reluctant", "pos": "adjective", "en": "not wanting to do something", "hu": "vonakodó, nem szívesen" },
+      { "forms": ["sit back"], "lemma": "sit back", "pos": "phrasal verb", "en": "to wait and do nothing", "hu": "ölbe tett kézzel ül, tétlenül vár" },
+      { "forms": ["collect benefits"], "lemma": "collect benefits", "pos": "phrase", "en": "to get money from the state because you have no job", "hu": "segélyt vesz fel" },
+      { "forms": ["clerk"], "lemma": "clerk", "pos": "noun", "en": "a person who works in an office, keeping records", "hu": "irodai alkalmazott, tisztviselő" },
+      { "forms": ["care assistant"], "lemma": "care assistant", "pos": "noun", "en": "a person whose job is to look after old or ill people", "hu": "gondozó, ápolósegéd" },
+      { "forms": ["nursing home"], "lemma": "nursing home", "pos": "noun", "en": "a place where old people live and are looked after", "hu": "idősotthon" },
+      { "forms": ["sunk in"], "lemma": "sink in", "pos": "phrasal verb", "en": "to become completely understood or believed", "hu": "tudatosul, felfog" },
+      { "forms": ["rejections"], "lemma": "rejection", "pos": "noun", "en": "the answer no to an application", "hu": "elutasítás" },
+      { "forms": ["turned down"], "lemma": "turn down", "pos": "phrasal verb", "en": "to say no to someone's application", "hu": "elutasít" }
+    ],
+    "2010-maj-emelt-H1": [
+      { "forms": ["awarded"], "lemma": "award", "pos": "verb", "en": "to give someone a prize officially", "hu": "odaítél, kitüntet" },
+      { "forms": ["gig"], "lemma": "gig", "pos": "noun", "en": "a performance by a musician", "hu": "fellépés, koncert" },
+      { "forms": ["perception"], "lemma": "perception", "pos": "noun", "en": "the way you notice and understand things", "hu": "érzékelés, észlelés" },
+      { "forms": ["priorities"], "lemma": "priority", "pos": "noun", "en": "the things that you think are most important", "hu": "prioritás, fontossági sorrend" }
+    ],
+    "2010-maj-emelt-H2": [
+      { "forms": ["Weightlessness"], "lemma": "weightlessness", "pos": "noun", "en": "the state of having no weight, as in space", "hu": "súlytalanság" },
+      { "forms": ["solar radiation"], "lemma": "solar radiation", "pos": "noun", "en": "dangerous energy that comes from the sun", "hu": "napsugárzás" },
+      { "forms": ["simulated"], "lemma": "simulate", "pos": "verb", "en": "to make conditions that are like the real ones", "hu": "szimulál, mesterségesen előidéz" },
+      { "forms": ["physiological"], "lemma": "physiological", "pos": "adjective", "en": "connected with how the body works", "hu": "élettani, fiziológiai" },
+      { "forms": ["Sleep patterns"], "lemma": "sleep pattern", "pos": "noun", "en": "the times when and how long a person usually sleeps", "hu": "alvási szokások, alvásritmus" },
+      { "forms": ["maintenance"], "lemma": "maintenance", "pos": "noun", "en": "keeping something in good condition by checking and repairing it", "hu": "karbantartás" },
+      { "forms": ["monotony"], "lemma": "monotony", "pos": "noun", "en": "being boring because the same thing happens all the time", "hu": "egyhangúság" },
+      { "forms": ["accessible"], "lemma": "accessible", "pos": "adjective", "en": "easy to get or use", "hu": "hozzáférhető" },
+      { "forms": ["considerably"], "lemma": "considerably", "pos": "adverb", "en": "much; a lot", "hu": "jelentősen, sokkal" }
+    ],
+    "2010-maj-emelt-H3": [
+      { "forms": ["sets out to"], "lemma": "set out to", "pos": "phrase", "en": "to start doing something with a clear aim", "hu": "nekilát, elhatározza, hogy" },
+      { "forms": ["tale"], "lemma": "tale", "pos": "noun", "en": "a story", "hu": "történet, mese" }
     ]
   }
 }

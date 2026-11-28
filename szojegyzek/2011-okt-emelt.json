@@ -211,6 +211,67 @@
       { "forms": ["reaction"], "lemma": "reaction", "pos": "noun", "en": "what people say or do because of something", "hu": "reakció, fogadtatás" },
       { "forms": ["an element of"], "lemma": "an element of", "pos": "phrase", "en": "a certain amount of", "hu": "egy adag, némi" },
       { "forms": ["grade"], "lemma": "grade", "pos": "noun", "en": "a mark for an exam", "hu": "osztályzat, jegy" }
+    ],
+    "2011-okt-emelt-L1": [
+      { "forms": ["glamorous"], "lemma": "glamorous", "pos": "adjective", "en": "exciting and attractive, connected with rich and famous people", "hu": "csillogó, fényes, elbűvölő" },
+      { "forms": ["remains"], "lemma": "remains", "pos": "noun", "en": "the body or bones of a person who has died", "hu": "földi maradványok", "tip": "Mindig többes számban áll." },
+      { "forms": ["rubbish dump"], "lemma": "rubbish dump", "pos": "noun", "en": "a place where people leave things they throw away", "hu": "szeméttelep" },
+      { "forms": ["silk merchant"], "lemma": "silk merchant", "pos": "noun", "en": "a person who buys and sells silk, a fine soft cloth", "hu": "selyemkereskedő" },
+      { "forms": ["convent"], "lemma": "convent", "pos": "noun", "en": "a building where nuns live together", "hu": "zárda, apácakolostor" },
+      { "forms": ["nuns"], "lemma": "nun", "pos": "noun", "en": "a woman who lives in a religious community and has promised her life to God", "hu": "apáca" },
+      { "forms": ["crypt"], "lemma": "crypt", "pos": "noun", "en": "a room under the floor of a church", "hu": "kripta" },
+      { "forms": ["three-storey"], "lemma": "three-storey", "pos": "adjective", "en": "having three floors", "hu": "háromszintes" },
+      { "forms": ["ceased"], "lemma": "cease", "pos": "verb", "en": "to stop", "hu": "megszűnik, abbamarad" },
+      { "forms": ["excavated"], "lemma": "excavate", "pos": "verb", "en": "to dig in the ground to find old things", "hu": "feltár, kiás" },
+      { "forms": ["dumped"], "lemma": "dump", "pos": "verb", "en": "to throw away something you do not want, often in a careless way", "hu": "kidob, lerak (szemetet)" },
+      { "forms": ["landfill site"], "lemma": "landfill site", "pos": "noun", "en": "a place where a lot of rubbish is put into the ground", "hu": "hulladéklerakó" },
+      { "forms": ["tomb"], "lemma": "tomb", "pos": "noun", "en": "a place made of stone where a dead person lies", "hu": "sír, sírbolt" }
+    ],
+    "2011-okt-emelt-L2": [
+      { "forms": ["council"], "lemma": "council", "pos": "noun", "en": "the group of people who govern a town or area", "hu": "önkormányzat, (városi) tanács" },
+      { "forms": ["banned"], "lemma": "ban", "pos": "verb", "en": "to say officially that people must not do something", "hu": "megtilt, betilt" },
+      { "forms": ["mother-in-law"], "lemma": "mother-in-law", "pos": "noun", "en": "the mother of your husband or wife", "hu": "anyós" },
+      { "forms": ["disrespectful"], "lemma": "disrespectful", "pos": "adjective", "en": "not showing respect", "hu": "tiszteletlen" },
+      { "forms": ["elders"], "lemma": "elder", "pos": "noun", "en": "older people in a family or group", "hu": "idősebbek, idősek" },
+      { "forms": ["Borough"], "lemma": "borough", "pos": "noun", "en": "a town or part of a city with its own local government", "hu": "kerület (városé)" },
+      { "forms": ["entitled"], "lemma": "entitled", "pos": "adjective", "en": "having the title", "hu": "című" },
+      { "forms": ["culture-specific"], "lemma": "culture-specific", "pos": "adjective", "en": "typical of only one culture", "hu": "kultúrafüggő, egy kultúrára jellemző" },
+      { "forms": ["misinterpretation"], "lemma": "misinterpretation", "pos": "noun", "en": "understanding something in the wrong way", "hu": "félreértés, félreértelmezés" },
+      { "forms": ["offensively", "offensive"], "lemma": "offensive", "pos": "adjective", "en": "rude in a way that makes people upset", "hu": "sértő, bántó" },
+      { "forms": ["on the grounds"], "lemma": "on the grounds", "pos": "phrase", "en": "for the reason", "hu": "azon az alapon, azzal az indokkal" },
+      { "forms": ["accused"], "lemma": "accuse", "pos": "verb", "en": "to say that someone has done something wrong", "hu": "vádol, megvádol" },
+      { "forms": ["insane"], "lemma": "insane", "pos": "adjective", "en": "completely crazy", "hu": "őrült, eszelős" },
+      { "forms": ["turn in their graves"], "lemma": "turn in your grave", "pos": "idiom", "en": "a dead person would be very angry or upset about something if they knew about it", "hu": "forog a sírjában" },
+      { "forms": ["restriction"], "lemma": "restriction", "pos": "noun", "en": "a rule that limits what people can do", "hu": "korlátozás, tilalom" },
+      { "forms": ["stand-up routine"], "lemma": "stand-up routine", "pos": "noun", "en": "the jokes that a comedian tells alone on stage", "hu": "stand-up műsor, humoros előadás" }
+    ],
+    "2011-okt-emelt-L3": [
+      { "forms": ["thrive"], "lemma": "thrive", "pos": "verb", "en": "to grow well and stay healthy", "hu": "jól fejlődik, virágzik" },
+      { "forms": ["soybean"], "lemma": "soybean", "pos": "noun", "en": "a plant whose seeds are used to make food and oil", "hu": "szója, szójabab" },
+      { "forms": ["flax"], "lemma": "flax", "pos": "noun", "en": "a plant with blue flowers, used for making cloth and oil", "hu": "len" },
+      { "forms": ["inborn"], "lemma": "inborn", "pos": "adjective", "en": "that you have from birth", "hu": "veleszületett" },
+      { "forms": ["cope with"], "lemma": "cope with", "pos": "phrasal verb", "en": "to deal successfully with something difficult", "hu": "megbirkózik valamivel" },
+      { "forms": ["disaster strikes"], "lemma": "disaster strikes", "pos": "phrase", "en": "a terrible thing suddenly happens", "hu": "beüt a katasztrófa" },
+      { "forms": ["evolving"], "lemma": "evolve", "pos": "verb", "en": "to develop slowly over a very long time", "hu": "fejlődik (evolúció során)" },
+      { "forms": ["came across"], "lemma": "come across", "pos": "phrasal verb", "en": "to meet or find something by chance", "hu": "találkozik valamivel, rábukkan" },
+      { "forms": ["Scores of"], "lemma": "scores of", "pos": "phrase", "en": "a large number of", "hu": "rengeteg, számos" },
+      { "forms": ["exposure"], "lemma": "exposure", "pos": "noun", "en": "being in a place where something harmful can affect you", "hu": "kitettség, sugárterhelés" },
+      { "forms": ["housed"], "lemma": "house", "pos": "verb", "en": "to give people a place to live", "hu": "otthont ad, elszállásol" },
+      { "forms": ["workforce"], "lemma": "workforce", "pos": "noun", "en": "all the people who work in a place", "hu": "munkaerő, dolgozók" },
+      { "forms": ["evacuated"], "lemma": "evacuate", "pos": "verb", "en": "to move people away from a dangerous place", "hu": "kiürít, kitelepít" },
+      { "forms": ["ghost town"], "lemma": "ghost town", "pos": "noun", "en": "a town where nobody lives any more", "hu": "szellemváros" },
+      { "forms": ["bare"], "lemma": "bare", "pos": "adjective", "en": "with nothing growing on it", "hu": "csupasz, kopár" },
+      { "forms": ["sprung back to life"], "lemma": "spring back to life", "pos": "phrase", "en": "to start living or growing again", "hu": "újra életre kel" }
+    ],
+    "2011-okt-emelt-H2": [
+      { "forms": ["insecure"], "lemma": "insecure", "pos": "adjective", "en": "not confident about yourself", "hu": "bizonytalan, határozatlan" }
+    ],
+    "2011-okt-emelt-H3": [
+      { "forms": ["steady job"], "lemma": "steady job", "pos": "noun", "en": "a job that you keep for a long time, with regular pay", "hu": "állandó munkahely" },
+      { "forms": ["host"], "lemma": "host", "pos": "noun", "en": "the person who introduces the people on a TV show", "hu": "műsorvezető" },
+      { "forms": ["judges"], "lemma": "judge", "pos": "noun", "en": "a person who decides who wins a competition", "hu": "zsűritag" },
+      { "forms": ["deceived"], "lemma": "deceive", "pos": "verb", "en": "to make someone believe something that is not true", "hu": "megtéveszt, félrevezet" },
+      { "forms": ["coached"], "lemma": "coach", "pos": "verb", "en": "to train a person, for example in singing or sport", "hu": "felkészít, edz" }
     ]
   }
 }

@@ -145,6 +145,72 @@
       { "forms": ["eventually"], "lemma": "eventually", "pos": "adverb", "en": "in the end, after some time", "hu": "végül", "tip": "Hamis barát: nem azt jelenti, hogy esetleg." },
       { "forms": ["cereal business"], "lemma": "cereal business", "pos": "noun", "en": "a company that makes breakfast foods from grain", "hu": "gabonapehely-gyártó vállalkozás" },
       { "forms": ["product"], "lemma": "product", "pos": "noun", "en": "something that a company makes and sells", "hu": "termék" }
+    ],
+    "2016-okt-kozep-L1": [
+      { "forms": ["Hiring Fairs"], "lemma": "hiring fair", "pos": "noun", "en": "a market in the past where workers went to find an employer for the next year", "hu": "cselédvásár, munkaerővásár" },
+      { "forms": ["servants"], "lemma": "servant", "pos": "noun", "en": "a person who works in another person’s house, for example cooking or cleaning", "hu": "szolga, cseléd" },
+      { "forms": ["farm labourers"], "lemma": "farm labourer", "pos": "noun", "en": "a person who does hard physical work on a farm", "hu": "mezőgazdasági munkás, béres" },
+      { "forms": ["hire themselves out"], "lemma": "hire yourself out", "pos": "phrase", "en": "to offer to work for someone for money", "hu": "elszegődik, munkát vállal" },
+      { "forms": ["maids"], "lemma": "maid", "pos": "noun", "en": "a woman servant who cleans a house", "hu": "szobalány, cselédlány" },
+      { "forms": ["mop"], "lemma": "mop", "pos": "noun", "en": "a stick with soft material at one end, used for washing floors", "hu": "felmosó(fa)" },
+      { "forms": ["shepherd"], "lemma": "shepherd", "pos": "noun", "en": "a person whose job is to look after sheep", "hu": "juhász, pásztor" },
+      { "forms": ["wool"], "lemma": "wool", "pos": "noun", "en": "the soft thick hair of sheep", "hu": "gyapjú" },
+      { "forms": ["masters"], "lemma": "master", "pos": "noun", "en": "here: a man who employs servants", "hu": "gazda, úr (a cseléd munkaadója)" },
+      { "forms": ["mistresses"], "lemma": "mistress", "pos": "noun", "en": "here: a woman who employs servants", "hu": "úrnő, gazdasszony", "tip": "Ma gyakran azt jelenti: szerető. Itt nem ez a jelentése." },
+      { "forms": ["bunch"], "lemma": "bunch", "pos": "noun", "en": "a number of things of the same kind held or tied together", "hu": "csokor, köteg" },
+      { "forms": ["ribbons"], "lemma": "ribbon", "pos": "noun", "en": "a long narrow piece of coloured cloth used for decoration", "hu": "szalag" },
+      { "forms": ["custom"], "lemma": "custom", "pos": "noun", "en": "something that people have done in the same way for a long time", "hu": "szokás, hagyomány" },
+      { "forms": ["funfair"], "lemma": "funfair", "pos": "noun", "en": "an outdoor event with rides, games and things to eat", "hu": "vidámpark, vurstli" }
+    ],
+    "2016-okt-kozep-L2": [
+      { "forms": ["ADMIRAL"], "lemma": "admiral", "pos": "noun", "en": "a very high officer in the navy", "hu": "admirális, tengernagy" },
+      { "forms": ["priest"], "lemma": "priest", "pos": "noun", "en": "a person who leads religious services in a church", "hu": "pap, lelkész" },
+      { "forms": ["navy"], "lemma": "navy", "pos": "noun", "en": "the part of a country’s army that fights at sea, with its ships and sailors", "hu": "haditengerészet" },
+      { "forms": ["commanded"], "lemma": "command", "pos": "verb", "en": "to be the officer in charge of soldiers or a ship", "hu": "vezényel, parancsnokol" },
+      { "forms": ["commander"], "lemma": "commander", "pos": "noun", "en": "an officer who is in charge of a group of soldiers or ships", "hu": "parancsnok" },
+      { "forms": ["lost the sight"], "lemma": "lose the sight", "pos": "phrase", "en": "to become blind in an eye", "hu": "megvakul (az egyik szemére)" },
+      { "forms": ["courage"], "lemma": "courage", "pos": "noun", "en": "the quality of being brave", "hu": "bátorság" },
+      { "forms": ["ignored"], "lemma": "ignore", "pos": "verb", "en": "to pay no attention to something", "hu": "figyelmen kívül hagy, nem vesz tudomásul" },
+      { "forms": ["seniors"], "lemma": "senior", "pos": "noun", "en": "a person who has a higher position than you", "hu": "felettes, elöljáró" },
+      { "forms": ["telescope"], "lemma": "telescope", "pos": "noun", "en": "an instrument that makes things that are far away look nearer", "hu": "távcső" },
+      { "forms": ["withdraw"], "lemma": "withdraw", "pos": "verb", "en": "to move soldiers or ships back, away from a battle", "hu": "visszavonul" },
+      { "forms": ["leadership"], "lemma": "leadership", "pos": "noun", "en": "the way someone leads and controls a group of people", "hu": "vezetés, irányítás" },
+      { "forms": ["engagement"], "lemma": "engagement", "pos": "noun", "en": "here: a fight between armies or ships", "hu": "ütközet, csata", "tip": "Más jelentése: eljegyzés." },
+      { "forms": ["threat"], "lemma": "threat", "pos": "noun", "en": "the possibility that something bad will happen", "hu": "fenyegetés, veszély" },
+      { "forms": ["sniper"], "lemma": "sniper", "pos": "noun", "en": "a soldier who shoots at people from a hidden place", "hu": "mesterlövész" }
+    ],
+    "2016-okt-kozep-L3": [
+      { "forms": ["duchess", "duchess's"], "lemma": "duchess", "pos": "noun", "en": "a woman with a very high social rank, just below a princess", "hu": "hercegnő, hercegné" },
+      { "forms": ["distant relative"], "lemma": "distant relative", "pos": "noun", "en": "a person in your family who is not closely related to you", "hu": "távoli rokon" },
+      { "forms": ["giving away"], "lemma": "give away", "pos": "phrasal verb", "en": "to give something to other people without asking for money", "hu": "elajándékoz" },
+      { "forms": ["fortune"], "lemma": "fortune", "pos": "noun", "en": "a very large amount of money", "hu": "vagyon" },
+      { "forms": ["public servant"], "lemma": "public servant", "pos": "noun", "en": "a person who works for the government", "hu": "köztisztviselő, állami alkalmazott" },
+      { "forms": ["noble"], "lemma": "noble", "pos": "noun", "en": "a person from a family of high social rank", "hu": "nemes(ember), arisztokrata" },
+      { "forms": ["countess"], "lemma": "countess", "pos": "noun", "en": "a woman of high social rank, below a duchess", "hu": "grófnő" },
+      { "forms": ["privileges"], "lemma": "privilege", "pos": "noun", "en": "a special right that only some people have", "hu": "kiváltság, előjog" },
+      { "forms": ["kneel"], "lemma": "kneel", "pos": "verb", "en": "to go down onto your knees", "hu": "letérdel" },
+      { "forms": ["her junior"], "lemma": "be someone’s junior", "pos": "phrase", "en": "to be younger than someone", "hu": "nála fiatalabb" },
+      { "forms": ["overcome"], "lemma": "overcome", "pos": "verb", "en": "to succeed in dealing with a problem", "hu": "legyőz, leküzd" },
+      { "forms": ["opposition"], "lemma": "opposition", "pos": "noun", "en": "strong disagreement with a plan", "hu": "ellenállás, tiltakozás" },
+      { "forms": ["inheritance"], "lemma": "inheritance", "pos": "noun", "en": "money or property that you get from someone when they die", "hu": "örökség" },
+      { "forms": ["in advance"], "lemma": "in advance", "pos": "phrase", "en": "before the usual or expected time", "hu": "előre, idő előtt" },
+      { "forms": ["wealth"], "lemma": "wealth", "pos": "noun", "en": "a large amount of money and property", "hu": "vagyon, gazdagság" },
+      { "forms": ["a chunk of"], "lemma": "a chunk of", "pos": "phrase", "en": "a large part of something", "hu": "egy jókora darab(ja)" }
+    ],
+    "2016-okt-kozep-H1": [
+      { "forms": ["Navy"], "lemma": "navy", "pos": "noun", "en": "the part of a country’s army that works at sea", "hu": "haditengerészet" },
+      { "forms": ["officer"], "lemma": "officer", "pos": "noun", "en": "a person in the army or navy who is in charge of others", "hu": "tiszt, felettes" }
+    ],
+    "2016-okt-kozep-H2": [
+      { "forms": ["fishing nets"], "lemma": "fishing net", "pos": "noun", "en": "a large net used for catching fish", "hu": "halászháló" },
+      { "forms": ["turtles"], "lemma": "turtle", "pos": "noun", "en": "an animal with a hard shell that lives in or near water", "hu": "teknős" },
+      { "forms": ["burnt up"], "lemma": "burn up", "pos": "phrasal verb", "en": "to destroy something completely with fire", "hu": "eléget, eltüzel" },
+      { "forms": ["unconscious"], "lemma": "unconscious", "pos": "adjective", "en": "not awake and not able to see or feel anything, because of an injury or illness", "hu": "eszméletlen" }
+    ],
+    "2016-okt-kozep-H3": [
+      { "forms": ["incident"], "lemma": "incident", "pos": "noun", "en": "something unusual or unpleasant that happens", "hu": "eset, incidens" },
+      { "forms": ["outraged"], "lemma": "outraged", "pos": "adjective", "en": "very angry and shocked", "hu": "felháborodott" },
+      { "forms": ["carried out"], "lemma": "carry out", "pos": "phrasal verb", "en": "to do something that you planned", "hu": "végrehajt, megvalósít" }
     ]
   }
 }

@@ -231,6 +231,65 @@
       { "forms": ["therefore"], "lemma": "therefore", "pos": "adverb", "en": "for this reason", "hu": "ezért, emiatt" },
       { "forms": ["block"], "lemma": "block", "pos": "verb", "en": "to stop something from happening", "hu": "gátol, blokkol" },
       { "forms": ["production"], "lemma": "production", "pos": "noun", "en": "the process of making something", "hu": "termelés, előállítás" }
+    ],
+    "2018-maj-emelt-L1": [
+      { "forms": ["a fraction of a second"], "lemma": "a fraction of a second", "pos": "phrase", "en": "a very short time", "hu": "a másodperc töredéke" },
+      { "forms": ["taking turns"], "lemma": "take turns", "pos": "phrase", "en": "to do something one after the other", "hu": "felváltva csinál valamit" },
+      { "forms": ["perceptions"], "lemma": "perception", "pos": "noun", "en": "the way you think about or understand something", "hu": "felfogás, megítélés" },
+      { "forms": ["tight-lipped"], "lemma": "tight-lipped", "pos": "adjective", "en": "not willing to speak", "hu": "hallgatag, szűkszavú" },
+      { "forms": ["the upper hand"], "lemma": "have the upper hand", "pos": "idiom", "en": "an advantage over someone", "hu": "előny, fölény" },
+      { "forms": ["stretched"], "lemma": "stretch", "pos": "verb", "en": "here: to continue for a longer time", "hu": "elhúzódik, kitolódik" },
+      { "forms": ["reserve"], "lemma": "reserve", "pos": "noun", "en": "the quality of being quiet and not talking much about yourself", "hu": "visszafogottság, tartózkodás" },
+      { "forms": ["studied thoughtfulness"], "lemma": "studied thoughtfulness", "pos": "phrase", "en": "quiet, deep thinking that is done on purpose", "hu": "megfontolt, szándékos elmélkedés" },
+      { "forms": ["dread"], "lemma": "dread", "pos": "verb", "en": "to be very afraid of something", "hu": "retteg valamitől" },
+      { "forms": ["concessions", "concession"], "lemma": "concession", "pos": "noun", "en": "something that you agree to give in order to end an argument", "hu": "engedmény" },
+      { "forms": ["Grit your teeth"], "lemma": "grit your teeth", "pos": "idiom", "en": "to deal with a difficult situation with determination", "hu": "összeszorítja a fogát" },
+      { "forms": ["wait it out"], "lemma": "wait it out", "pos": "phrasal verb", "en": "to wait until something unpleasant ends", "hu": "kivár" }
+    ],
+    "2018-maj-emelt-L2": [
+      { "forms": ["confirmation"], "lemma": "confirmation", "pos": "noun", "en": "a statement that a message has been received or that something is true", "hu": "megerősítés, nyugtázás" },
+      { "forms": ["truckers"], "lemma": "trucker", "pos": "noun", "en": "a person whose job is driving big lorries", "hu": "kamionsofőr" },
+      { "forms": ["CB radios"], "lemma": "CB radio", "pos": "noun", "en": "a radio that people use to talk to each other over short distances", "hu": "CB-rádió" },
+      { "forms": ["walkie-talkies"], "lemma": "walkie-talkie", "pos": "noun", "en": "a small radio that you carry and use to talk to someone nearby", "hu": "adó-vevő, walkie-talkie" },
+      { "forms": ["phonetic alphabet"], "lemma": "phonetic alphabet", "pos": "noun", "en": "a set of words used on the radio to say each letter clearly", "hu": "betűzőábécé" },
+      { "forms": ["aviation"], "lemma": "aviation", "pos": "noun", "en": "the activity of flying planes", "hu": "repülés, légi közlekedés" },
+      { "forms": ["personnel"], "lemma": "personnel", "pos": "noun", "en": "the people who work for an organisation", "hu": "személyzet" },
+      { "forms": ["crystal clear"], "lemma": "crystal clear", "pos": "adjective", "en": "very easy to understand", "hu": "kristálytiszta, teljesen világos" },
+      { "forms": ["spell things out"], "lemma": "spell out", "pos": "phrasal verb", "en": "to say the letters of a word one by one", "hu": "kibetűz" },
+      { "forms": ["misinterpretation"], "lemma": "misinterpretation", "pos": "noun", "en": "understanding something in the wrong way", "hu": "félreértés" },
+      { "forms": ["Morse code"], "lemma": "Morse code", "pos": "noun", "en": "a system of short and long signals for sending messages", "hu": "morzekód" },
+      { "forms": ["shorthand"], "lemma": "shorthand", "pos": "noun", "en": "a short way of saying or writing something", "hu": "rövidítés, rövidített forma" },
+      { "forms": ["casually"], "lemma": "casually", "pos": "adverb", "en": "in a relaxed way, without thinking much about it", "hu": "lazán, könnyedén" }
+    ],
+    "2018-maj-emelt-L3": [
+      { "forms": ["inking"], "lemma": "inking", "pos": "noun", "en": "informal: a tattoo", "hu": "tetoválás" },
+      { "forms": ["inked"], "lemma": "ink", "pos": "verb", "en": "informal: to make a tattoo", "hu": "tetovál" },
+      { "forms": ["moving"], "lemma": "moving", "pos": "adjective", "en": "making you feel strong emotions", "hu": "megható", "tip": "Itt nem a move (mozog) ige alakja." },
+      { "forms": ["proposal"], "lemma": "proposal", "pos": "noun", "en": "here: when someone asks another person to marry them", "hu": "lánykérés, házassági ajánlat" },
+      { "forms": ["propose"], "lemma": "propose", "pos": "verb", "en": "to ask someone to marry you", "hu": "megkéri a kezét" },
+      { "forms": ["give anything away"], "lemma": "give away", "pos": "phrasal verb", "en": "to let someone know a secret", "hu": "elárul" },
+      { "forms": ["ankle"], "lemma": "ankle", "pos": "noun", "en": "the part of your body where your foot joins your leg", "hu": "boka" },
+      { "forms": ["delicate"], "lemma": "delicate", "pos": "adjective", "en": "small, fine and pretty", "hu": "finom, apró" },
+      { "forms": ["needle"], "lemma": "needle", "pos": "noun", "en": "a thin sharp metal object used for tattoos or injections", "hu": "tű" },
+      { "forms": ["unstable"], "lemma": "unstable", "pos": "adjective", "en": "shaking, not steady", "hu": "remegő, bizonytalan" },
+      { "forms": ["her hand in marriage"], "lemma": "someone’s hand in marriage", "pos": "phrase", "en": "permission to marry someone", "hu": "a kezét (házasságra)" },
+      { "forms": ["underneath"], "lemma": "underneath", "pos": "preposition", "en": "under something", "hu": "alatt(a)" },
+      { "forms": ["re-touched"], "lemma": "retouch", "pos": "verb", "en": "to improve a picture by making small changes", "hu": "javít, retusál" }
+    ],
+    "2018-maj-emelt-H1": [
+      { "forms": ["foster parents"], "lemma": "foster parent", "pos": "noun", "en": "a person who looks after a child who is not their own for a period of time", "hu": "nevelőszülő" },
+      { "forms": ["biological father"], "lemma": "biological father", "pos": "noun", "en": "the man who is really your father by birth", "hu": "vér szerinti apa" },
+      { "forms": ["demos"], "lemma": "demo", "pos": "noun", "en": "a first recording of a song, used to show what it sounds like", "hu": "demófelvétel" }
+    ],
+    "2018-maj-emelt-H2": [
+      { "forms": ["busts"], "lemma": "bust", "pos": "noun", "en": "a statue of a person’s head and shoulders", "hu": "mellszobor" },
+      { "forms": ["went bankrupt"], "lemma": "go bankrupt", "pos": "phrase", "en": "to lose all your money, so that a business has to close", "hu": "csődbe megy" },
+      { "forms": ["bases"], "lemma": "base", "pos": "noun", "en": "the bottom part that a statue stands on", "hu": "talapzat" }
+    ],
+    "2018-maj-emelt-H3": [
+      { "forms": ["motorists"], "lemma": "motorist", "pos": "noun", "en": "a person who drives a car", "hu": "autós, gépkocsivezető" },
+      { "forms": ["dooring"], "lemma": "dooring", "pos": "noun", "en": "when a car door is opened suddenly and a cyclist hits it", "hu": "„ajtózás” (kerékpáros nekiütközése a kinyíló autóajtónak)" },
+      { "forms": ["relatively"], "lemma": "relatively", "pos": "adverb", "en": "quite, when compared with other things", "hu": "viszonylag" }
     ]
   }
 }

@@ -200,6 +200,56 @@
       { "forms": ["prevent"], "lemma": "prevent", "pos": "verb", "en": "to stop something from happening", "hu": "megakadályoz" },
       { "forms": ["for no reason"], "lemma": "for no reason", "pos": "phrase", "en": "without any special cause", "hu": "ok nélkül, csak úgy" },
       { "forms": ["hug"], "lemma": "hug", "pos": "noun", "en": "the act of putting your arms around someone to show love", "hu": "ölelés" }
+    ],
+    "2019-maj-kozep-L1": [
+      { "forms": ["Thanksgiving"], "lemma": "Thanksgiving", "pos": "noun", "en": "an American holiday in November when families eat a big meal together", "hu": "hálaadás (amerikai ünnep)" },
+      { "forms": ["profitable"], "lemma": "profitable", "pos": "adjective", "en": "making money for a business", "hu": "nyereséges" },
+      { "forms": ["into the black"], "lemma": "be in the black", "pos": "idiom", "en": "to have more money coming in than going out", "hu": "nyereségessé válik, pluszba kerül" },
+      { "forms": ["ink"], "lemma": "ink", "pos": "noun", "en": "the coloured liquid in a pen", "hu": "tinta" },
+      { "forms": ["loss"], "lemma": "loss", "pos": "noun", "en": "money that a business loses because it spends more than it gets", "hu": "veszteség" },
+      { "forms": ["profit"], "lemma": "profit", "pos": "noun", "en": "money that a business makes after paying all its costs", "hu": "nyereség, haszon" },
+      { "forms": ["investors"], "lemma": "investor", "pos": "noun", "en": "a person who puts money into a business to make more money", "hu": "befektető" },
+      { "forms": ["manipulated"], "lemma": "manipulate", "pos": "verb", "en": "to control or change something in a clever and dishonest way", "hu": "manipulál, (tisztességtelenül) befolyásol" },
+      { "forms": ["crash"], "lemma": "crash", "pos": "noun", "en": "a sudden big fall in prices or in the value of something", "hu": "összeomlás (tőzsdei)" },
+      { "forms": ["stock market"], "lemma": "stock market", "pos": "noun", "en": "the place where people buy and sell parts of companies", "hu": "tőzsde, részvénypiac" },
+      { "forms": ["foreign trade"], "lemma": "foreign trade", "pos": "noun", "en": "buying and selling goods between countries", "hu": "külkereskedelem" },
+      { "forms": ["cops"], "lemma": "cop", "pos": "noun", "en": "a police officer (informal)", "hu": "zsaru, rendőr" },
+      { "forms": ["alternative"], "lemma": "alternative", "pos": "adjective", "en": "that you can use instead of something else", "hu": "másik, helyettesítő" }
+    ],
+    "2019-maj-kozep-L2": [
+      { "forms": ["crawl out"], "lemma": "crawl out", "pos": "phrasal verb", "en": "to get out of a place slowly, on your hands and knees", "hu": "kimászik, kikúszik" },
+      { "forms": ["wreckage"], "lemma": "wreckage", "pos": "noun", "en": "the broken parts of a car, plane or building after an accident", "hu": "roncs, roncsok" },
+      { "forms": ["put the blame on"], "lemma": "put the blame on", "pos": "phrase", "en": "to say that someone else is responsible for something bad", "hu": "hibáztat, ráfogja a hibát" },
+      { "forms": ["miracle"], "lemma": "miracle", "pos": "noun", "en": "a very surprising and lucky event", "hu": "csoda" },
+      { "forms": ["Scotch"], "lemma": "Scotch", "pos": "noun", "en": "whisky from Scotland", "hu": "skót whisky" },
+      { "forms": ["good fortune"], "lemma": "good fortune", "pos": "phrase", "en": "good luck", "hu": "szerencse" },
+      { "forms": ["nods"], "lemma": "nod", "pos": "verb", "en": "to move your head up and down", "hu": "bólint", "tip": "Nod your head: bólint." },
+      { "forms": ["nerves"], "lemma": "nerves", "pos": "noun", "en": "feelings of being worried and excited", "hu": "idegek, idegesség" },
+      { "forms": ["cap"], "lemma": "cap", "pos": "noun", "en": "the small top that closes a bottle", "hu": "kupak" },
+      { "forms": ["fault"], "lemma": "fault", "pos": "noun", "en": "the responsibility for something bad that has happened", "hu": "hiba, vétkesség" }
+    ],
+    "2019-maj-kozep-L3": [
+      { "forms": ["fairy tales"], "lemma": "fairy tale", "pos": "noun", "en": "a traditional story for children, often with magic", "hu": "tündérmese" },
+      { "forms": ["adaptations"], "lemma": "adaptation", "pos": "noun", "en": "a film made from a book or a story", "hu": "feldolgozás, adaptáció" },
+      { "forms": ["charming"], "lemma": "charming", "pos": "adjective", "en": "very pleasant and attractive", "hu": "elbűvölő, bájos" },
+      { "forms": ["Disneyfied"], "lemma": "Disneyfied", "pos": "adjective", "en": "changed to be sweet and simple, like in Disney films", "hu": "disneysített, megszelídített" },
+      { "forms": ["associate"], "lemma": "associate", "pos": "verb", "en": "to connect one thing with another in your mind", "hu": "társít, összekapcsol" },
+      { "forms": ["bedtime stories"], "lemma": "bedtime story", "pos": "noun", "en": "a story that you tell a child before sleep", "hu": "esti mese" },
+      { "forms": ["purpose"], "lemma": "purpose", "pos": "noun", "en": "the reason why something is made or done", "hu": "cél, rendeltetés" },
+      { "forms": ["morally"], "lemma": "morally", "pos": "adverb", "en": "in a way that is connected with what is right and wrong", "hu": "erkölcsileg" },
+      { "forms": ["punished"], "lemma": "punish", "pos": "verb", "en": "to make someone suffer because they did something bad", "hu": "megbüntet" },
+      { "forms": ["oral"], "lemma": "oral", "pos": "adjective", "en": "spoken, not written", "hu": "szóbeli" },
+      { "forms": ["passed down"], "lemma": "pass down", "pos": "phrasal verb", "en": "to give stories or knowledge to younger people", "hu": "továbbad, öröklődik (nemzedékről nemzedékre)" },
+      { "forms": ["morality"], "lemma": "morality", "pos": "noun", "en": "ideas about what is right and wrong", "hu": "erkölcs, erkölcsiség" },
+      { "forms": ["thriller"], "lemma": "thriller", "pos": "noun", "en": "an exciting film or book about crime or danger", "hu": "thriller, krimi" }
+    ],
+    "2019-maj-kozep-H2": [
+      { "forms": ["jar"], "lemma": "jar", "pos": "noun", "en": "a glass container with a wide top, for food", "hu": "befőttesüveg, üvegedény" },
+      { "forms": ["pour", "poured"], "lemma": "pour", "pos": "verb", "en": "to make something flow out of a container", "hu": "tölt, önt" },
+      { "forms": ["illustrate"], "lemma": "illustrate", "pos": "verb", "en": "to explain something by giving examples", "hu": "szemléltet, illusztrál" },
+      { "forms": ["essential"], "lemma": "essential", "pos": "adjective", "en": "extremely important and necessary", "hu": "nélkülözhetetlen, alapvető" },
+      { "forms": ["represent"], "lemma": "represent", "pos": "verb", "en": "to be a sign or symbol of something", "hu": "jelképez, képvisel" },
+      { "forms": ["analogy"], "lemma": "analogy", "pos": "noun", "en": "a comparison that explains one thing by showing how it is like another", "hu": "hasonlat, analógia" }
     ]
   }
 }

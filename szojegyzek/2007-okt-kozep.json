@@ -163,6 +163,56 @@
       { "forms": ["advanced"], "lemma": "advanced", "pos": "adjective", "en": "at a high level", "hu": "haladó, magas szintű" },
       { "forms": ["driving instructor"], "lemma": "driving instructor", "pos": "noun", "en": "a person who teaches people to drive", "hu": "oktató (autós)" },
       { "forms": ["get done for"], "lemma": "get done for", "pos": "phrase", "en": "(informal) to be caught and punished for a crime", "hu": "megbüntetik, lebukik valamiért" }
+    ],
+    "2007-okt-kozep-L2": [
+      { "forms": ["elderly"], "lemma": "elderly", "pos": "adjective", "en": "old (a polite word)", "hu": "idős" },
+      { "forms": ["upon"], "lemma": "upon", "pos": "preposition", "en": "when; immediately after", "hu": "(vmit követően) amikor", "tip": "Az upon returning jelentése: amikor visszaért." },
+      { "forms": ["in the act of"], "lemma": "in the act of", "pos": "phrase", "en": "while doing something, especially something wrong", "hu": "éppen azon voltak, hogy; tetten érve" },
+      { "forms": ["drew"], "lemma": "draw", "pos": "verb", "en": "to take a gun out quickly", "hu": "előránt (fegyvert)", "tip": "Rendhagyó ige: draw – drew – drawn." },
+      { "forms": ["handgun"], "lemma": "handgun", "pos": "noun", "en": "a small gun that you hold in one hand", "hu": "pisztoly, kézifegyver" },
+      { "forms": ["proceeding"], "lemma": "proceed", "pos": "verb", "en": "to do something next", "hu": "majd hozzáfog, folytatja" },
+      { "forms": ["ran like mad"], "lemma": "run like mad", "pos": "phrase", "en": "to run very fast", "hu": "eszeveszetten rohan" },
+      { "forms": ["shaken"], "lemma": "shaken", "pos": "adjective", "en": "upset and frightened after a bad experience", "hu": "megrendült, zaklatott" },
+      { "forms": ["ignition"], "lemma": "ignition", "pos": "noun", "en": "the place in a car where you put the key to start it", "hu": "gyújtáskapcsoló" },
+      { "forms": ["sergeant"], "lemma": "sergeant", "pos": "noun", "en": "a police officer with a middle rank", "hu": "őrmester" },
+      { "forms": ["tore himself in two"], "lemma": "tear yourself in two", "pos": "phrase", "en": "here: to laugh very, very much", "hu": "majd megszakad (a nevetéstől)" },
+      { "forms": ["carjacking"], "lemma": "carjacking", "pos": "noun", "en": "stealing a car by attacking the driver", "hu": "autórablás" },
+      { "forms": ["curly"], "lemma": "curly", "pos": "adjective", "en": "with a lot of curves (about hair)", "hu": "göndör" },
+      { "forms": ["charges were filed"], "lemma": "file charges", "pos": "phrase", "en": "to officially say that someone has done something illegal", "hu": "vádat emeltek" }
+    ],
+    "2007-okt-kozep-L3": [
+      { "forms": ["indoors"], "lemma": "indoors", "pos": "adverb", "en": "inside a building", "hu": "bent, a házban" },
+      { "forms": ["sanctuary"], "lemma": "sanctuary", "pos": "noun", "en": "a place where animals are protected and looked after", "hu": "menhely, rezervátum" },
+      { "forms": ["macaw"], "lemma": "macaw", "pos": "noun", "en": "a large colourful bird with a long tail from South America", "hu": "ara (papagáj)" },
+      { "forms": ["authority"], "lemma": "authority", "pos": "noun", "en": "people who have power, for example the police or the leaders of a town", "hu": "tekintély, hatalom" },
+      { "forms": ["dirty words"], "lemma": "dirty word", "pos": "noun", "en": "a rude word that people do not say in polite company", "hu": "csúnya szó, trágárság" },
+      { "forms": ["respectable"], "lemma": "respectable", "pos": "adjective", "en": "thought by people to be good and honest", "hu": "tiszteletre méltó, köztiszteletben álló" },
+      { "forms": ["mayor"], "lemma": "mayor", "pos": "noun", "en": "the leader of a town", "hu": "polgármester" },
+      { "forms": ["vicar"], "lemma": "vicar", "pos": "noun", "en": "a priest in the Church of England", "hu": "lelkész, plébános" },
+      { "forms": ["charity"], "lemma": "charity", "pos": "noun", "en": "an organisation that collects money to help people in need", "hu": "jótékonysági szervezet" },
+      { "forms": ["lorry"], "lemma": "lorry", "pos": "noun", "en": "a large vehicle for carrying goods (British English)", "hu": "teherautó, kamion" },
+      { "forms": ["tend to"], "lemma": "tend to", "pos": "phrase", "en": "to usually do something", "hu": "általában (úgy szoktuk)" },
+      { "forms": ["treat"], "lemma": "treat", "pos": "noun", "en": "something nice, such as food, that you give as a reward", "hu": "jutalomfalat, finomság", "tip": "Itt főnév. Igeként azt jelenti: bánik valakivel, kezel." },
+      { "forms": ["sayings"], "lemma": "saying", "pos": "noun", "en": "a well-known phrase that people often repeat", "hu": "mondás" },
+      { "forms": ["unrepeatable"], "lemma": "unrepeatable", "pos": "adjective", "en": "too rude to say again", "hu": "megismételhetetlen (mert csúnya)" },
+      { "forms": ["over and over again"], "lemma": "over and over again", "pos": "phrase", "en": "many times", "hu": "újra meg újra" },
+      { "forms": ["passers-by"], "lemma": "passer-by", "pos": "noun", "en": "a person who is walking past a place", "hu": "járókelő", "tip": "Rendhagyó többes szám: passers-by." },
+      { "forms": ["duck"], "lemma": "duck", "pos": "verb", "en": "to move your head down quickly so that something does not hit you", "hu": "lehajol, lebukik", "tip": "Itt ige. Főnévként: kacsa." },
+      { "forms": ["swearing", "swear"], "lemma": "swear", "pos": "verb", "en": "to use rude words", "hu": "káromkodik" }
+    ],
+    "2007-okt-kozep-H1": [
+      { "forms": ["chimps"], "lemma": "chimp", "pos": "noun", "en": "a small African ape; a chimpanzee", "hu": "csimpánz" },
+      { "forms": ["strip"], "lemma": "strip", "pos": "verb", "en": "to pull off the outer parts of something", "hu": "lefoszt, lehánt" },
+      { "forms": ["twigs"], "lemma": "twig", "pos": "noun", "en": "a very small thin branch of a tree", "hu": "gally, vékony ágacska" },
+      { "forms": ["evidence"], "lemma": "evidence", "pos": "noun", "en": "facts that show that something is true", "hu": "bizonyíték" }
+    ],
+    "2007-okt-kozep-H2": [
+      { "forms": ["narrator"], "lemma": "narrator", "pos": "noun", "en": "the person who tells a story", "hu": "elbeszélő" },
+      { "forms": ["barman"], "lemma": "barman", "pos": "noun", "en": "a man who serves drinks in a pub", "hu": "csapos, pultos" }
+    ],
+    "2007-okt-kozep-H3": [
+      { "forms": ["sacred"], "lemma": "sacred", "pos": "adjective", "en": "holy, connected with religion", "hu": "szent" },
+      { "forms": ["plantations"], "lemma": "plantation", "pos": "noun", "en": "a large farm where one kind of tree or plant is grown", "hu": "ültetvény" }
     ]
   }
 }

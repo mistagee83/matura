@@ -181,6 +181,76 @@
       { "forms": ["go away"], "lemma": "go away", "pos": "phrasal verb", "en": "to disappear", "hu": "elmúlik" },
       { "forms": ["full of"], "lemma": "full of", "pos": "phrase", "en": "containing a lot of something", "hu": "tele van valamivel" },
       { "forms": ["go to bed"], "lemma": "go to bed", "pos": "phrase", "en": "to lie down in your bed to sleep", "hu": "lefekszik (aludni)" }
+    ],
+    "2024-maj-kozep-L1": [
+      { "forms": ["birthplace"], "lemma": "birthplace", "pos": "noun", "en": "the town or country where a person was born", "hu": "szülőhely, szülőváros" },
+      { "forms": ["hosts"], "lemma": "host", "pos": "verb", "en": "to be the place where an event happens and to organise it", "hu": "otthont ad (rendezvénynek), megrendez" },
+      { "forms": ["featuring"], "lemma": "feature", "pos": "verb", "en": "to have something as an important or special part", "hu": "bemutat, (fő látványosságként) szerepeltet" },
+      { "forms": ["growers"], "lemma": "grower", "pos": "noun", "en": "a person who grows fruit or vegetables to sell", "hu": "termesztő, termelő" },
+      { "forms": ["created a sensation"], "lemma": "create a sensation", "pos": "phrase", "en": "to make many people very surprised and excited", "hu": "szenzációt keltett, nagy feltűnést keltett" },
+      { "forms": ["exhibited"], "lemma": "exhibit", "pos": "verb", "en": "to show something in a public place so that people can look at it", "hu": "kiállít, közszemlére tesz" },
+      { "forms": ["soil"], "lemma": "soil", "pos": "noun", "en": "the top part of the ground, where plants grow", "hu": "talaj, föld" },
+      { "forms": ["greenhouse"], "lemma": "greenhouse", "pos": "noun", "en": "a glass building where plants are grown because it is warm inside", "hu": "üvegház, melegház" },
+      { "forms": ["hard times"], "lemma": "hard times", "pos": "phrase", "en": "a period when life is difficult, especially because there is not enough money", "hu": "nehéz idők" },
+      { "forms": ["annually"], "lemma": "annually", "pos": "adverb", "en": "once every year", "hu": "évente, minden évben" },
+      { "forms": ["nationwide"], "lemma": "nationwide", "pos": "adjective", "en": "in all parts of a country", "hu": "országos" },
+      { "forms": ["press coverage"], "lemma": "press coverage", "pos": "noun", "en": "the reports about something in newspapers, on TV and on the radio", "hu": "sajtóvisszhang, médiafigyelem" },
+      { "forms": ["enormous"], "lemma": "enormous", "pos": "adjective", "en": "extremely large", "hu": "óriási, hatalmas" }
+    ],
+    "2024-maj-kozep-L2": [
+      { "forms": ["daylight"], "lemma": "daylight", "pos": "noun", "en": "the natural light of the sun during the day", "hu": "nappali világosság" },
+      { "forms": ["despite"], "lemma": "despite", "pos": "preposition", "en": "not being stopped or changed by something", "hu": "annak ellenére, hogy; dacára", "tip": "Utána főnév vagy -ing alak áll, nem mellékmondat: despite the cold." },
+      { "forms": ["harsh"], "lemma": "harsh", "pos": "adjective", "en": "very difficult and unpleasant to live in", "hu": "zord, kemény (időjárás, körülmények)" },
+      { "forms": ["wintry"], "lemma": "wintry", "pos": "adjective", "en": "typical of winter, with snow and cold", "hu": "téli, havas" },
+      { "forms": ["surroundings"], "lemma": "surroundings", "pos": "noun", "en": "the place and things around you", "hu": "környezet, táj", "tip": "Mindig többes számban áll." },
+      { "forms": ["proper"], "lemma": "proper", "pos": "adjective", "en": "correct and good enough for the purpose", "hu": "megfelelő, rendes" },
+      { "forms": ["infrastructure"], "lemma": "infrastructure", "pos": "noun", "en": "the roads, paths, bridges and other basic things that a city needs", "hu": "infrastruktúra (utak, hálózat)" },
+      { "forms": ["elderly"], "lemma": "elderly", "pos": "adjective", "en": "old (a polite word)", "hu": "idős" },
+      { "forms": ["provide access"], "lemma": "provide access", "pos": "phrase", "en": "to make it possible for people to reach or use a place", "hu": "hozzáférést biztosít, lehetővé teszi a közlekedést" },
+      { "forms": ["mobility scooters"], "lemma": "mobility scooter", "pos": "noun", "en": "a small electric vehicle for one person who cannot walk well", "hu": "mozgássegítő robogó, elektromos kerekesszék" },
+      { "forms": ["challenge"], "lemma": "challenge", "pos": "noun", "en": "something difficult that you have to deal with", "hu": "kihívás, nehézség" },
+      { "forms": ["well-lit"], "lemma": "well-lit", "pos": "adjective", "en": "having a lot of lights, so it is not dark", "hu": "jól megvilágított" },
+      { "forms": ["underpasses"], "lemma": "underpass", "pos": "noun", "en": "a path that goes under a road", "hu": "aluljáró" },
+      { "forms": ["citizens"], "lemma": "citizen", "pos": "noun", "en": "a person who lives in a particular town or country", "hu": "polgár, lakos" },
+      { "forms": ["encourages"], "lemma": "encourage", "pos": "verb", "en": "to make someone want to do something; to support an activity so that more people do it", "hu": "ösztönöz, bátorít" },
+      { "forms": ["encouragement"], "lemma": "encouragement", "pos": "noun", "en": "support that makes people want to do something", "hu": "ösztönzés, támogatás" }
+    ],
+    "2024-maj-kozep-L3": [
+      { "forms": ["codfish"], "lemma": "codfish", "pos": "noun", "en": "a large sea fish that people eat", "hu": "tőkehal" },
+      { "forms": ["attic"], "lemma": "attic", "pos": "noun", "en": "the room or space under the roof of a house", "hu": "padlás" },
+      { "forms": ["country home"], "lemma": "country home", "pos": "noun", "en": "a large old house in the countryside, often of a rich family", "hu": "vidéki kastély, kúria" },
+      { "forms": ["archaeology"], "lemma": "archaeology", "pos": "noun", "en": "the study of old buildings and objects to learn about the past", "hu": "régészet" },
+      { "forms": ["restore"], "lemma": "restore", "pos": "verb", "en": "to repair an old building so that it looks as it did originally", "hu": "restaurál, helyreállít" },
+      { "forms": ["high-ranking"], "lemma": "high-ranking", "pos": "adjective", "en": "having an important position", "hu": "magas rangú" },
+      { "forms": ["servant"], "lemma": "servant", "pos": "noun", "en": "a person who works in another person’s house, for example cooking or cleaning", "hu": "szolga, cseléd, inas" },
+      { "forms": ["estate"], "lemma": "estate", "pos": "noun", "en": "a large area of land in the country with a big house on it", "hu": "birtok, uradalom" },
+      { "forms": ["domestic"], "lemma": "domestic", "pos": "adjective", "en": "connected with the home and the things in it", "hu": "háztartási, házi" },
+      { "forms": ["inherited"], "lemma": "inherit", "pos": "verb", "en": "to get money or things from someone after they die", "hu": "örököl" },
+      { "forms": ["household records"], "lemma": "household records", "pos": "noun", "en": "written lists about the people, money and things of a big house", "hu": "háztartási feljegyzések, gazdasági iratok" },
+      { "forms": ["exceptionally"], "lemma": "exceptionally", "pos": "adverb", "en": "much more than usual; extremely", "hu": "rendkívül, kivételesen" }
+    ],
+    "2024-maj-kozep-H1": [
+      { "forms": ["Mind the Gap"], "lemma": "mind the gap", "pos": "phrase", "en": "be careful of the space between the train and the platform", "hu": "vigyázat, rés (a peron és a szerelvény között)", "tip": "A mind itt igeként azt jelenti: vigyáz valamire, figyel valamire." }
+    ],
+    "2024-maj-kozep-H2": [
+      { "forms": ["influence"], "lemma": "influence", "pos": "noun", "en": "the power to change how people think or work", "hu": "hatás, befolyás" },
+      { "forms": ["anthropology"], "lemma": "anthropology", "pos": "noun", "en": "the study of people, their societies and their ways of life", "hu": "antropológia, embertan" },
+      { "forms": ["non-traditional"], "lemma": "non-traditional", "pos": "adjective", "en": "different from the usual, old way of doing something", "hu": "nem hagyományos, rendhagyó" },
+      { "forms": ["mass media"], "lemma": "mass media", "pos": "noun", "en": "newspapers, TV and radio, which reach very many people", "hu": "tömegtájékoztatás, média" },
+      { "forms": ["civilization"], "lemma": "civilization", "pos": "noun", "en": "a society with an organised way of life", "hu": "civilizáció, műveltség" },
+      { "forms": ["injured"], "lemma": "injured", "pos": "adjective", "en": "hurt, for example in an accident", "hu": "sérült, megsebesült" },
+      { "forms": ["survive"], "lemma": "survive", "pos": "verb", "en": "to stay alive", "hu": "túlél, életben marad" },
+      { "forms": ["at our best"], "lemma": "be at your best", "pos": "phrase", "en": "to be as good as you can possibly be", "hu": "a legjobb formánkban, a legjobb oldalunkat mutatva" }
+    ],
+    "2024-maj-kozep-H3": [
+      { "forms": ["record holder"], "lemma": "record holder", "pos": "noun", "en": "the person who has done something better or more than anyone else", "hu": "rekorder, rekordtartó" },
+      { "forms": ["up to"], "lemma": "up to", "pos": "phrase", "en": "as many as; not more than", "hu": "akár, legfeljebb" },
+      { "forms": ["receipts"], "lemma": "receipt", "pos": "noun", "en": "a piece of paper that shows you have paid for something", "hu": "blokk, nyugta", "tip": "A p-t nem ejtjük: /rɪˈsiːt/." },
+      { "forms": ["active"], "lemma": "active", "pos": "adjective", "en": "here: still working, not retired", "hu": "aktív (még dolgozó)" },
+      { "forms": ["now that"], "lemma": "now that", "pos": "conjunction", "en": "because something has happened and is true now", "hu": "most, hogy; mivel már" },
+      { "forms": ["retired"], "lemma": "retired", "pos": "adjective", "en": "having stopped working because of age", "hu": "nyugdíjas, nyugdíjba vonult" },
+      { "forms": ["supply"], "lemma": "supply", "pos": "noun", "en": "an amount of something that you keep to use", "hu": "készlet, adag" },
+      { "forms": ["cholesterol level"], "lemma": "cholesterol level", "pos": "noun", "en": "the amount of a fatty substance in your blood", "hu": "koleszterinszint" }
     ]
   }
 }

@@ -175,6 +175,41 @@
       { "forms": ["saint"], "lemma": "saint", "pos": "noun", "en": "a very good and holy person, honoured by the church after death", "hu": "szent" },
       { "forms": ["christian"], "lemma": "Christian", "pos": "adjective", "en": "following the religion of Jesus Christ", "hu": "keresztény" },
       { "forms": ["instead of"], "lemma": "instead of", "pos": "preposition", "en": "in the place of someone or something", "hu": "valami helyett" }
+    ],
+    "2005-maj-kozep-L2": [
+      { "forms": ["physically fit"], "lemma": "physically fit", "pos": "phrase", "en": "healthy and strong in your body", "hu": "fizikailag jó formában, testileg egészséges" },
+      { "forms": ["handed"], "lemma": "hand", "pos": "verb", "en": "to give something to someone with your hand", "hu": "odaad, átnyújt", "tip": "Itt ige: hand somebody something." },
+      { "forms": ["stared"], "lemma": "stare", "pos": "verb", "en": "to look at something for a long time without moving your eyes", "hu": "bámul, mered" }
+    ],
+    "2005-maj-kozep-L3": [
+      { "forms": ["cosmopolitan"], "lemma": "cosmopolitan", "pos": "adjective", "en": "with people and culture from many different countries", "hu": "kozmopolita, nemzetközi" },
+      { "forms": ["sightseeing"], "lemma": "sightseeing", "pos": "noun", "en": "visiting famous and interesting places as a tourist", "hu": "városnézés" },
+      { "forms": ["double-decker buses"], "lemma": "double-decker bus", "pos": "noun", "en": "a bus with two floors", "hu": "emeletes busz" },
+      { "forms": ["comprehensive"], "lemma": "comprehensive", "pos": "adjective", "en": "including everything or almost everything", "hu": "átfogó, teljes körű" },
+      { "forms": ["panoramic views"], "lemma": "panoramic view", "pos": "noun", "en": "a view of a very wide area", "hu": "panoráma, széles kilátás" },
+      { "forms": ["commentary"], "lemma": "commentary", "pos": "noun", "en": "a spoken description of what you can see, given while it happens", "hu": "kommentár, (idegenvezetői) ismertetés" },
+      { "forms": ["unrestricted"], "lemma": "unrestricted", "pos": "adjective", "en": "without any rules or limits", "hu": "korlátozás nélküli, szabadon használható" },
+      { "forms": ["hop off"], "lemma": "hop off", "pos": "phrasal verb", "en": "to get off a bus quickly", "hu": "leszáll (a buszról)" },
+      { "forms": ["hop on"], "lemma": "hop on", "pos": "phrasal verb", "en": "to get on a bus quickly", "hu": "felszáll (a buszra)" },
+      { "forms": ["first timers"], "lemma": "first timer", "pos": "noun", "en": "a person who does something for the first time", "hu": "először utazó, újonc" },
+      { "forms": ["departure points"], "lemma": "departure point", "pos": "noun", "en": "a place where a journey starts", "hu": "indulási pont, kiindulóhely" },
+      { "forms": ["at your leisure"], "lemma": "at your leisure", "pos": "phrase", "en": "when you want and without hurrying", "hu": "kényelmesen, amikor kedved tartja" },
+      { "forms": ["board"], "lemma": "board", "pos": "verb", "en": "to get on a bus, train, ship or plane", "hu": "felszáll (járműre)", "tip": "Itt ige. Főnévként: tábla, deszka." },
+      { "forms": ["seasonally"], "lemma": "seasonally", "pos": "adverb", "en": "depending on the time of year", "hu": "évszaktól függően, idényenként" }
+    ],
+    "2005-maj-kozep-H1": [
+      { "forms": ["rapidly"], "lemma": "rapidly", "pos": "adverb", "en": "very quickly", "hu": "gyorsan, rohamosan" },
+      { "forms": ["infected"], "lemma": "infected", "pos": "adjective", "en": "having bacteria in it that cause illness", "hu": "elfertőződött, gyulladt" },
+      { "forms": ["led to"], "lemma": "lead to", "pos": "phrasal verb", "en": "to cause something to happen", "hu": "vezet valamihez, okoz" }
+    ],
+    "2005-maj-kozep-H2": [
+      { "forms": ["knit"], "lemma": "knit", "pos": "verb", "en": "to make clothes from wool with two long needles", "hu": "köt (kötőtűvel)" }
+    ],
+    "2005-maj-kozep-H3": [
+      { "forms": ["lefties"], "lemma": "lefty", "pos": "noun", "en": "a person who uses their left hand to write (an informal word)", "hu": "balkezes (ember)" },
+      { "forms": ["celebrities"], "lemma": "celebrity", "pos": "noun", "en": "a famous person, for example an actor or a singer", "hu": "híresség, sztár" },
+      { "forms": ["outstanding"], "lemma": "outstanding", "pos": "adjective", "en": "extremely good", "hu": "kiemelkedő, kiváló" },
+      { "forms": ["face"], "lemma": "face", "pos": "verb", "en": "to have to deal with a difficult situation", "hu": "szembesül valamivel, szembenéz valamivel", "tip": "Itt ige." }
     ]
   }
 }

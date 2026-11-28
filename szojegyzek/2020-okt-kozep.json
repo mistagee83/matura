@@ -210,6 +210,49 @@
       { "forms": ["level of"], "lemma": "level of", "pos": "phrase", "en": "how good someone is at something", "hu": "valaminek a szintje" },
       { "forms": ["communicate with"], "lemma": "communicate with", "pos": "phrase", "en": "to talk or exchange information with someone", "hu": "kommunikál, szót ért valakivel" },
       { "forms": ["share"], "lemma": "share", "pos": "verb", "en": "to let other people see something you have", "hu": "megoszt" }
+    ],
+    "2020-okt-kozep-L1": [
+      { "forms": ["FURIOUS"], "lemma": "furious", "pos": "adjective", "en": "extremely angry", "hu": "dühös, tajtékzó" },
+      { "forms": ["fury"], "lemma": "fury", "pos": "noun", "en": "extremely strong anger", "hu": "düh, őrjöngés" },
+      { "forms": ["dialled"], "lemma": "dial", "pos": "verb", "en": "to press the numbers on a telephone to call someone", "hu": "tárcsáz, felhív" },
+      { "forms": ["at random"], "lemma": "at random", "pos": "phrase", "en": "without choosing or planning", "hu": "véletlenszerűen, találomra" },
+      { "forms": ["heated"], "lemma": "heated", "pos": "adjective", "en": "angry and excited", "hu": "indulatos, heves" },
+      { "forms": ["receiver"], "lemma": "receiver", "pos": "noun", "en": "the part of a telephone that you hold to your ear", "hu": "telefonkagyló" },
+      { "forms": ["slammed down"], "lemma": "slam down", "pos": "phrasal verb", "en": "to put something down quickly and noisily because you are angry", "hu": "lecsap" }
+    ],
+    "2020-okt-kozep-L2": [
+      { "forms": ["appointed"], "lemma": "appoint", "pos": "verb", "en": "to choose someone officially for a job", "hu": "kinevez" },
+      { "forms": ["vice-president"], "lemma": "vice-president", "pos": "noun", "en": "the person who is second in importance after the president", "hu": "alelnök" },
+      { "forms": ["chief executive"], "lemma": "chief executive", "pos": "noun", "en": "the person with the most power in a company", "hu": "vezérigazgató" },
+      { "forms": ["short and sweet"], "lemma": "short and sweet", "pos": "idiom", "en": "short and simple, which is good", "hu": "rövid és velős" },
+      { "forms": ["take me seriously"], "lemma": "take someone seriously", "pos": "phrase", "en": "to think that someone is important and their ideas are real", "hu": "komolyan vesz valakit" }
+    ],
+    "2020-okt-kozep-L3": [
+      { "forms": ["rescued"], "lemma": "rescue", "pos": "verb", "en": "to save someone from a dangerous or bad situation", "hu": "megment, kiment" },
+      { "forms": ["homelessness"], "lemma": "homelessness", "pos": "noun", "en": "having no home to live in", "hu": "hajléktalanság" },
+      { "forms": ["drug addiction"], "lemma": "drug addiction", "pos": "noun", "en": "not being able to stop taking drugs", "hu": "drogfüggőség" },
+      { "forms": ["adaptation"], "lemma": "adaptation", "pos": "noun", "en": "a film made from a book", "hu": "feldolgozás, adaptáció" },
+      { "forms": ["injured"], "lemma": "injured", "pos": "adjective", "en": "hurt", "hu": "sérült" },
+      { "forms": ["stray"], "lemma": "stray", "pos": "adjective", "en": "having no home or owner", "hu": "kóbor, gazdátlan" },
+      { "forms": ["turned up"], "lemma": "turn up", "pos": "phrasal verb", "en": "to appear suddenly, without being expected", "hu": "felbukkan, megjelenik" },
+      { "forms": ["hallway"], "lemma": "hallway", "pos": "noun", "en": "a passage in a building with doors to rooms", "hu": "folyosó, előtér" },
+      { "forms": ["vet"], "lemma": "vet", "pos": "noun", "en": "a doctor for animals", "hu": "állatorvos" },
+      { "forms": ["treat"], "lemma": "treat", "pos": "verb", "en": "to give medical help to make someone well", "hu": "kezel, ellát (orvosilag)" },
+      { "forms": ["a mess"], "lemma": "be a mess", "pos": "phrase", "en": "to be in a very bad, disorganised state", "hu": "kész káosz, romokban hever" },
+      { "forms": ["keep off"], "lemma": "keep off", "pos": "phrasal verb", "en": "to stop using something harmful", "hu": "távol tartja magát valamitől" }
+    ],
+    "2020-okt-kozep-H1": [
+      { "forms": ["for a living"], "lemma": "do something for a living", "pos": "phrase", "en": "to do it as your job", "hu": "megélhetésként, foglalkozásként" },
+      { "forms": ["walk-in"], "lemma": "walk-in", "pos": "adjective", "en": "large enough for a person to go inside", "hu": "besétálható, bejárható" },
+      { "forms": ["frankfurters"], "lemma": "frankfurter", "pos": "noun", "en": "a long thin sausage", "hu": "virsli" },
+      { "forms": ["black pudding"], "lemma": "black pudding", "pos": "noun", "en": "a dark sausage made with blood", "hu": "véres hurka" }
+    ],
+    "2020-okt-kozep-H2": [
+      { "forms": ["criticized"], "lemma": "criticize", "pos": "verb", "en": "to say what you think is bad about someone or something", "hu": "bírál, kritizál" },
+      { "forms": ["colleagues"], "lemma": "colleague", "pos": "noun", "en": "a person who works with you", "hu": "kolléga, munkatárs" },
+      { "forms": ["stick out"], "lemma": "stick out", "pos": "phrasal verb", "en": "to push something forward out of your mouth or body", "hu": "kinyújt, kiölt (nyelvet)" },
+      { "forms": ["tongue"], "lemma": "tongue", "pos": "noun", "en": "the soft part in your mouth that you use for tasting and speaking", "hu": "nyelv (testrész)" },
+      { "forms": ["chief editor"], "lemma": "chief editor", "pos": "noun", "en": "the person in charge of a newspaper", "hu": "főszerkesztő" }
     ]
   }
 }

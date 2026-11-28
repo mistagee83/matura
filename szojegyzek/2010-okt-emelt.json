@@ -215,6 +215,65 @@
       { "forms": ["imagine"], "lemma": "imagine", "pos": "verb", "en": "to form a picture of something in your mind", "hu": "elképzel" },
       { "forms": ["huge"], "lemma": "huge", "pos": "adjective", "en": "very big", "hu": "hatalmas, óriási" },
       { "forms": ["included in"], "lemma": "include in", "pos": "phrase", "en": "to make something part of a group or rule", "hu": "beletartozik, bele van foglalva" }
+    ],
+    "2010-okt-emelt-L1": [
+      { "forms": ["assignment"], "lemma": "assignment", "pos": "noun", "en": "a piece of work that a student is given to do", "hu": "(iskolai) feladat, beadandó" },
+      { "forms": ["late fees"], "lemma": "late fee", "pos": "noun", "en": "money you must pay if you return something after the correct day", "hu": "késedelmi díj" },
+      { "forms": ["check"], "lemma": "check", "pos": "noun", "en": "a printed paper from a bank that you sign and use instead of money", "hu": "csekk", "tip": "Amerikai írásmód; a brit angolban cheque." },
+      { "forms": ["every so often"], "lemma": "every so often", "pos": "phrase", "en": "sometimes, but not regularly", "hu": "időnként, néha" },
+      { "forms": ["set it aside"], "lemma": "set aside", "pos": "phrasal verb", "en": "to put something away to use or deal with later", "hu": "félretesz" },
+      { "forms": ["attic"], "lemma": "attic", "pos": "noun", "en": "the room or space under the roof of a house", "hu": "padlás" },
+      { "forms": ["figured"], "lemma": "figure", "pos": "verb", "en": "(informal, American) to think that something is true", "hu": "gondol, arra jut" },
+      { "forms": ["due date"], "lemma": "due date", "pos": "noun", "en": "the day by which you must give something back", "hu": "lejárati nap, határidő" },
+      { "forms": ["social studies"], "lemma": "social studies", "pos": "noun", "en": "a school subject about society, history and geography", "hu": "társadalomismeret (tantárgy)" },
+      { "forms": ["language arts"], "lemma": "language arts", "pos": "noun", "en": "the American school subject of reading, writing and literature", "hu": "anyanyelv és irodalom (tantárgy)" }
+    ],
+    "2010-okt-emelt-L2": [
+      { "forms": ["fortress"], "lemma": "fortress", "pos": "noun", "en": "a large strong building built to protect a place from attack", "hu": "erőd, vár" },
+      { "forms": ["endangered"], "lemma": "endangered", "pos": "adjective", "en": "in danger of being damaged or lost", "hu": "veszélyeztetett" },
+      { "forms": ["world heritage sites", "World Heritage site"], "lemma": "world heritage site", "pos": "noun", "en": "a place that UNESCO protects because it is very important for the whole world", "hu": "világörökségi helyszín" },
+      { "forms": ["encroaching"], "lemma": "encroach", "pos": "verb", "en": "to come closer and closer and take more space", "hu": "egyre közelebb nyomul, terjeszkedik" },
+      { "forms": ["resolved"], "lemma": "resolve", "pos": "verb", "en": "to find a solution to a problem", "hu": "megold, rendez" },
+      { "forms": ["obstructed"], "lemma": "obstruct", "pos": "verb", "en": "to block something so that it cannot be seen or used", "hu": "eltakar, akadályoz" },
+      { "forms": ["due to be"], "lemma": "be due to", "pos": "phrase", "en": "planned or expected to happen at a certain time", "hu": "várhatóan, a tervek szerint" },
+      { "forms": ["visual integrity"], "lemma": "visual integrity", "pos": "noun", "en": "keeping the way a place looks complete and not spoiled", "hu": "a látkép épsége, egysége" },
+      { "forms": ["secure"], "lemma": "secure", "pos": "verb", "en": "to get something, often after a lot of effort", "hu": "megszerez, biztosít" },
+      { "forms": ["citing"], "lemma": "cite", "pos": "verb", "en": "to name something officially, for example in a report", "hu": "megnevez, felsorol" },
+      { "forms": ["dismissed"], "lemma": "dismiss", "pos": "verb", "en": "to say that something is not important or not true", "hu": "elvet, elutasít" },
+      { "forms": ["commission"], "lemma": "commission", "pos": "noun", "en": "an official group of people who control or check something", "hu": "bizottság" },
+      { "forms": ["extensive"], "lemma": "extensive", "pos": "adjective", "en": "covering a lot of things or people", "hu": "kiterjedt, széles körű" }
+    ],
+    "2010-okt-emelt-L3": [
+      { "forms": ["show-jumper"], "lemma": "show-jumper", "pos": "noun", "en": "a horse that jumps over fences in competitions", "hu": "díjugrató ló" },
+      { "forms": ["mare"], "lemma": "mare", "pos": "noun", "en": "a female horse", "hu": "kanca" },
+      { "forms": ["leap"], "lemma": "leap", "pos": "verb", "en": "to jump high or far", "hu": "átugrik, ugrik" },
+      { "forms": ["astonished"], "lemma": "astonished", "pos": "adjective", "en": "very surprised", "hu": "elképedt, megdöbbent" },
+      { "forms": ["specialise"], "lemma": "specialise", "pos": "verb", "en": "to do mainly one kind of work", "hu": "szakosodik" },
+      { "forms": ["breeding", "bred"], "lemma": "breed", "pos": "verb", "en": "to keep animals in order to produce young ones", "hu": "tenyészt" },
+      { "forms": ["mere"], "lemma": "mere", "pos": "adjective", "en": "only; not more than", "hu": "mindössze, csupán" },
+      { "forms": ["kennels"], "lemma": "kennel", "pos": "noun", "en": "a small house for a dog", "hu": "kutyaól" },
+      { "forms": ["spaniels"], "lemma": "spaniel", "pos": "noun", "en": "a kind of dog with long ears", "hu": "spániel (kutyafajta)" },
+      { "forms": ["insists"], "lemma": "insist", "pos": "verb", "en": "to say firmly that something is true or will happen", "hu": "ragaszkodik valamihez, kitart amellett" },
+      { "forms": ["part with"], "lemma": "part with", "pos": "phrasal verb", "en": "to give away something you do not want to lose", "hu": "megválik valamitől" }
+    ],
+    "2010-okt-emelt-H1": [
+      { "forms": ["Palaeontologists"], "lemma": "palaeontologist", "pos": "noun", "en": "a scientist who studies animals that lived millions of years ago", "hu": "őslénykutató, paleontológus" },
+      { "forms": ["died out"], "lemma": "die out", "pos": "phrasal verb", "en": "to stop existing completely", "hu": "kihal" },
+      { "forms": ["overturned"], "lemma": "overturn", "pos": "verb", "en": "to turn something over so that the bottom is on top", "hu": "felfordít" },
+      { "forms": ["torsos"], "lemma": "torso", "pos": "noun", "en": "the main part of the body, without the head, arms and legs", "hu": "törzs (testrész)" },
+      { "forms": ["somewhat"], "lemma": "somewhat", "pos": "adverb", "en": "a little; quite", "hu": "valamelyest, némileg" },
+      { "forms": ["Mythical"], "lemma": "mythical", "pos": "adjective", "en": "from old stories, not real", "hu": "mitikus, mitológiai" },
+      { "forms": ["ape-man"], "lemma": "ape-man", "pos": "noun", "en": "an early creature that was partly like an ape and partly like a human", "hu": "előember" }
+    ],
+    "2010-okt-emelt-H2": [
+      { "forms": ["host mums"], "lemma": "host mum", "pos": "noun", "en": "a woman who has a foreign student living with her family", "hu": "vendéglátó anya (cserediáké)" }
+    ],
+    "2010-okt-emelt-H3": [
+      { "forms": ["assault"], "lemma": "assault", "pos": "noun", "en": "a violent attack on a person", "hu": "bántalmazás, testi sértés" },
+      { "forms": ["film crews"], "lemma": "film crew", "pos": "noun", "en": "a group of people who make films or TV reports together", "hu": "forgatócsoport, stáb" },
+      { "forms": ["charged with"], "lemma": "charge with", "pos": "phrasal verb", "en": "to accuse someone officially of a crime", "hu": "vádat emel valaki ellen valamiért" },
+      { "forms": ["housekeeper"], "lemma": "housekeeper", "pos": "noun", "en": "a person whose job is to clean and look after a house", "hu": "házvezetőnő" },
+      { "forms": ["allegedly"], "lemma": "allegedly", "pos": "adverb", "en": "as people say, but it has not been proved", "hu": "állítólag" }
     ]
   }
 }

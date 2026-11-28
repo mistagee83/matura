@@ -159,6 +159,74 @@
       { "forms": ["advantage"], "lemma": "advantage", "pos": "noun", "en": "something that helps you or is good for you", "hu": "előny" },
       { "forms": ["privacy"], "lemma": "privacy", "pos": "noun", "en": "being free from other people watching you or knowing about your life", "hu": "magánélet, nyugalom" },
       { "forms": ["street corner"], "lemma": "street corner", "pos": "noun", "en": "the place where two streets meet", "hu": "utcasarok" }
+    ],
+    "2015-maj-kozep-L1": [
+      { "forms": ["snow fences"], "lemma": "snow fence", "pos": "noun", "en": "a fence built to stop snow from blowing onto roads or fields", "hu": "hófogó rács, hófogó kerítés" },
+      { "forms": ["howling winds"], "lemma": "howling wind", "pos": "noun", "en": "a very strong wind that makes a loud, long noise", "hu": "süvítő szél" },
+      { "forms": ["science fair"], "lemma": "science fair", "pos": "noun", "en": "a school event where students show their science projects", "hu": "tudományos diákverseny, projektkiállítás" },
+      { "forms": ["snowdrifts"], "lemma": "snowdrift", "pos": "noun", "en": "a deep pile of snow made by the wind", "hu": "hóbucka, hótorlasz" },
+      { "forms": ["train tracks"], "lemma": "train track", "pos": "noun", "en": "the metal lines that trains run on", "hu": "vasúti sín, vágány" },
+      { "forms": ["build up"], "lemma": "build up", "pos": "phrasal verb", "en": "to make something become bigger little by little", "hu": "felhalmoz, összegyűjt" },
+      { "forms": ["shortages"], "lemma": "shortage", "pos": "noun", "en": "a situation when there is not enough of something", "hu": "hiány" },
+      { "forms": ["melts"], "lemma": "melt", "pos": "verb", "en": "when ice or snow becomes water because it gets warmer", "hu": "elolvad" },
+      { "forms": ["figure out"], "lemma": "figure out", "pos": "phrasal verb", "en": "to find the answer to a problem by thinking", "hu": "kitalál, rájön" },
+      { "forms": ["flour"], "lemma": "flour", "pos": "noun", "en": "a white powder made from grain, used to make bread and cakes", "hu": "liszt" },
+      { "forms": ["detergents"], "lemma": "detergent", "pos": "noun", "en": "a liquid or powder used for washing clothes or dishes", "hu": "mosószer" },
+      { "forms": ["wind tunnel"], "lemma": "wind tunnel", "pos": "noun", "en": "a tube in which air is blown to test how things move in the wind", "hu": "szélcsatorna" },
+      { "forms": ["dishwasher powder"], "lemma": "dishwasher powder", "pos": "noun", "en": "a powder that you put into a machine that washes dishes", "hu": "mosogatógép-por" },
+      { "forms": ["hypotheses"], "lemma": "hypothesis", "pos": "noun", "en": "an idea that has not yet been proved", "hu": "feltevés, hipotézis", "tip": "Többes száma rendhagyó: hypotheses." }
+    ],
+    "2015-maj-kozep-L2": [
+      { "forms": ["split-second"], "lemma": "split-second", "pos": "adjective", "en": "happening in a very short moment", "hu": "villámgyors, másodperc törtrésze alatti" },
+      { "forms": ["calculation"], "lemma": "calculation", "pos": "noun", "en": "using numbers to find an answer", "hu": "számítás" },
+      { "forms": ["estimate", "estimates", "estimating"], "lemma": "estimate", "pos": "verb", "en": "to guess a number or amount without counting exactly", "hu": "megbecsül" },
+      { "forms": ["characteristic"], "lemma": "characteristic", "pos": "noun", "en": "a typical quality of a person or thing", "hu": "jellemző, sajátosság" },
+      { "forms": ["infants"], "lemma": "infant", "pos": "noun", "en": "a baby or very young child", "hu": "csecsemő" },
+      { "forms": ["rough"], "lemma": "rough", "pos": "adjective", "en": "not exact", "hu": "durva, hozzávetőleges" },
+      { "forms": ["approximations"], "lemma": "approximation", "pos": "noun", "en": "a number that is nearly but not exactly right", "hu": "közelítés, becslés" },
+      { "forms": ["inborn"], "lemma": "inborn", "pos": "adjective", "en": "that you have from birth", "hu": "veleszületett" },
+      { "forms": ["reaches back"], "lemma": "reach back", "pos": "phrasal verb", "en": "to have existed since a time long ago", "hu": "visszanyúlik" },
+      { "forms": ["achievement"], "lemma": "achievement", "pos": "noun", "en": "success that you get because of your effort", "hu": "teljesítmény, siker" },
+      { "forms": ["quantities"], "lemma": "quantity", "pos": "noun", "en": "an amount or number of something", "hu": "mennyiség" },
+      { "forms": ["capacity"], "lemma": "capacity", "pos": "noun", "en": "how much someone is able to do or learn", "hu": "képesség, tehetség" },
+      { "forms": ["guarantee"], "lemma": "guarantee", "pos": "noun", "en": "something that makes it certain that something will happen", "hu": "garancia, biztosíték" },
+      { "forms": ["boost"], "lemma": "boost", "pos": "verb", "en": "to make something bigger or better", "hu": "növel, javít" }
+    ],
+    "2015-maj-kozep-L3": [
+      { "forms": ["custom"], "lemma": "custom", "pos": "noun", "en": "something that people in a place have done for a long time", "hu": "szokás, hagyomány" },
+      { "forms": ["first footing"], "lemma": "first footing", "pos": "noun", "en": "a Scottish custom: being the first visitor of a house in the New Year", "hu": "az új év első vendégének skót szokása" },
+      { "forms": ["first footer"], "lemma": "first footer", "pos": "noun", "en": "the first person who comes into a house in the New Year", "hu": "az új év első vendége (skót szokás)" },
+      { "forms": ["invasion"], "lemma": "invasion", "pos": "noun", "en": "when an army enters a country to attack it", "hu": "invázió, betörés" },
+      { "forms": ["doorstep"], "lemma": "doorstep", "pos": "noun", "en": "the step in front of the door of a house", "hu": "küszöb, bejárati lépcső" },
+      { "forms": ["axe"], "lemma": "axe", "pos": "noun", "en": "a tool with a heavy metal blade, used for cutting wood", "hu": "fejsze, balta" },
+      { "forms": ["coal"], "lemma": "coal", "pos": "noun", "en": "a hard black material that is burned to make heat", "hu": "szén" },
+      { "forms": ["greenery"], "lemma": "greenery", "pos": "noun", "en": "green plants or branches", "hu": "zöld ág, növényzet" },
+      { "forms": ["ensure"], "lemma": "ensure", "pos": "verb", "en": "to make certain that something happens", "hu": "biztosít, gondoskodik róla" },
+      { "forms": ["ashes"], "lemma": "ash", "pos": "noun", "en": "the grey powder that is left after something has burned", "hu": "hamu" },
+      { "forms": ["thus"], "lemma": "thus", "pos": "adverb", "en": "in this way; so", "hu": "így, ezáltal" },
+      { "forms": ["symbolizing"], "lemma": "symbolize", "pos": "verb", "en": "to be a sign of an idea", "hu": "jelképez" },
+      { "forms": ["departure"], "lemma": "departure", "pos": "noun", "en": "leaving a place", "hu": "távozás, elmenetel" }
+    ],
+    "2015-maj-kozep-H1": [
+      { "forms": ["initially"], "lemma": "initially", "pos": "adverb", "en": "at first, at the beginning", "hu": "kezdetben, először" },
+      { "forms": ["engine"], "lemma": "engine", "pos": "noun", "en": "the part of a car that makes it move", "hu": "motor" },
+      { "forms": ["occasion"], "lemma": "occasion", "pos": "noun", "en": "a special event or time", "hu": "alkalom" }
+    ],
+    "2015-maj-kozep-H2": [
+      { "forms": ["pilgrims"], "lemma": "Pilgrim", "pos": "noun", "en": "here: the first English people who sailed to America in 1620 to live there", "hu": "zarándokatyák (az első angol telepesek)" },
+      { "forms": ["settle"], "lemma": "settle", "pos": "verb", "en": "to go to live in a new place and stay there", "hu": "letelepszik" },
+      { "forms": ["harvest"], "lemma": "harvest", "pos": "noun", "en": "collecting the crops from the fields, or the crops collected", "hu": "termés, aratás" },
+      { "forms": ["crops"], "lemma": "crop", "pos": "noun", "en": "plants such as corn or vegetables that farmers grow", "hu": "termény, termés" },
+      { "forms": ["feast"], "lemma": "feast", "pos": "noun", "en": "a big special meal for many people", "hu": "lakoma, ünnepi lakoma" },
+      { "forms": ["set aside"], "lemma": "set aside", "pos": "phrasal verb", "en": "to keep a time for a special purpose", "hu": "kijelöl, fenntart (valamire)" }
+    ],
+    "2015-maj-kozep-H3": [
+      { "forms": ["only child"], "lemma": "only child", "pos": "noun", "en": "a child who has no brothers or sisters", "hu": "egyke, egyetlen gyerek" },
+      { "forms": ["marbles"], "lemma": "marble", "pos": "noun", "en": "a small glass ball used in children's games", "hu": "üveggolyó" },
+      { "forms": ["animal shelter"], "lemma": "animal shelter", "pos": "noun", "en": "a place where animals without a home are looked after", "hu": "állatmenhely" },
+      { "forms": ["wounded"], "lemma": "wound", "pos": "verb", "en": "to hurt or injure", "hu": "megsebesít" },
+      { "forms": ["warrior"], "lemma": "warrior", "pos": "noun", "en": "a brave fighter", "hu": "harcos" },
+      { "forms": ["adopt"], "lemma": "adopt", "pos": "verb", "en": "to take an animal or child into your home and make it part of your family", "hu": "örökbe fogad" }
     ]
   }
 }

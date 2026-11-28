@@ -284,6 +284,70 @@
       { "forms": ["remaining"], "lemma": "remaining", "pos": "adjective", "en": "still left", "hu": "fennmaradó, hátralévő" },
       { "forms": ["details"], "lemma": "detail", "pos": "noun", "en": "a small fact", "hu": "részlet" },
       { "forms": ["notified of"], "lemma": "notify of", "pos": "phrase", "en": "to be told officially about something", "hu": "értesítik valamiről" }
+    ],
+    "2017-okt-emelt-L1": [
+      { "forms": ["midwives"], "lemma": "midwife", "pos": "noun", "en": "a nurse who helps women when they have a baby", "hu": "szülésznő", "tip": "Többes száma rendhagyó: midwives." },
+      { "forms": ["register"], "lemma": "register", "pos": "noun", "en": "an official list of names", "hu": "nyilvántartás, névjegyzék" },
+      { "forms": ["Chief Executive"], "lemma": "chief executive", "pos": "noun", "en": "the person with the highest position in an organisation", "hu": "vezérigazgató, elnök" },
+      { "forms": ["fundamental"], "lemma": "fundamental", "pos": "adjective", "en": "most basic and important", "hu": "alapvető" },
+      { "forms": ["principle"], "lemma": "principle", "pos": "noun", "en": "a basic rule or belief", "hu": "alapelv" },
+      { "forms": ["code"], "lemma": "code", "pos": "noun", "en": "here: a set of rules about how people should work and behave", "hu": "(etikai) kódex, szabályzat" },
+      { "forms": ["Helpline"], "lemma": "helpline", "pos": "noun", "en": "a phone service where people can get help or advice", "hu": "segélyvonal" },
+      { "forms": ["overseas"], "lemma": "overseas", "pos": "adjective", "en": "coming from another country", "hu": "külföldi" },
+      { "forms": ["procedures"], "lemma": "procedure", "pos": "noun", "en": "the official way of doing something", "hu": "eljárás(rend)" },
+      { "forms": ["calls on"], "lemma": "call on", "pos": "phrasal verb", "en": "to ask someone officially to do something", "hu": "felszólít" },
+      { "forms": ["requirements"], "lemma": "requirement", "pos": "noun", "en": "something that you must have or do", "hu": "követelmény, előírás" }
+    ],
+    "2017-okt-emelt-L2": [
+      { "forms": ["Treasury Department"], "lemma": "Treasury Department", "pos": "noun", "en": "the US government department responsible for money", "hu": "pénzügyminisztérium (USA)" },
+      { "forms": ["bill", "note"], "lemma": "bill", "pos": "noun", "en": "a piece of paper money", "hu": "bankjegy", "tip": "Az amerikai angolban bill, a britben note." },
+      { "forms": ["feature", "featured"], "lemma": "feature", "pos": "verb", "en": "to show someone or something as an important part", "hu": "ábrázol, szerepeltet" },
+      { "forms": ["Amendment"], "lemma": "amendment", "pos": "noun", "en": "an official change to a law", "hu": "alkotmánymódosítás, kiegészítés" },
+      { "forms": ["Constitution"], "lemma": "constitution", "pos": "noun", "en": "the set of basic laws of a country", "hu": "alkotmány" },
+      { "forms": ["Founding Fathers"], "lemma": "Founding Fathers", "pos": "noun", "en": "the men who created the United States in the 18th century", "hu": "az alapító atyák" },
+      { "forms": ["signers"], "lemma": "signer", "pos": "noun", "en": "a person who signs an official document", "hu": "aláíró" },
+      { "forms": ["currency"], "lemma": "currency", "pos": "noun", "en": "the money used in a country", "hu": "pénz, pénznem" },
+      { "forms": ["silver certificate"], "lemma": "silver certificate", "pos": "noun", "en": "an old kind of US paper money that could be changed for silver", "hu": "ezüstfedezetű bankjegy (régi)" },
+      { "forms": ["counterfeit"], "lemma": "counterfeit", "pos": "verb", "en": "to make an illegal copy of money", "hu": "hamisít (pénzt)" },
+      { "forms": ["visually impaired"], "lemma": "visually impaired", "pos": "adjective", "en": "not able to see well", "hu": "látássérült, gyengénlátó" }
+    ],
+    "2017-okt-emelt-L3": [
+      { "forms": ["electrified"], "lemma": "electrify", "pos": "verb", "en": "to make people very excited", "hu": "felvillanyoz" },
+      { "forms": ["delivered"], "lemma": "deliver", "pos": "verb", "en": "to give a speech", "hu": "elmond (beszédet)" },
+      { "forms": ["address"], "lemma": "address", "pos": "noun", "en": "a formal speech", "hu": "beszéd", "tip": "Más jelentése: cím." },
+      { "forms": ["civil rights"], "lemma": "civil rights", "pos": "noun", "en": "the right of every person to be treated equally", "hu": "polgárjogok" },
+      { "forms": ["iconic"], "lemma": "iconic", "pos": "adjective", "en": "very famous and seen as a symbol of something", "hu": "ikonikus, jelképpé vált" },
+      { "forms": ["transcript"], "lemma": "transcript", "pos": "noun", "en": "a written copy of words that were spoken", "hu": "leirat, átirat" },
+      { "forms": ["stumbled across"], "lemma": "stumble across", "pos": "phrasal verb", "en": "to find something by chance", "hu": "véletlenül rábukkan" },
+      { "forms": ["conducting research"], "lemma": "conduct research", "pos": "phrase", "en": "to do a careful study of something", "hu": "kutatást végez" },
+      { "forms": ["locate"], "lemma": "locate", "pos": "verb", "en": "to find where something is", "hu": "felkutat, megtalál" },
+      { "forms": ["erase"], "lemma": "erase", "pos": "verb", "en": "to remove recorded sound from a tape", "hu": "töröl (felvételt)" },
+      { "forms": ["verify"], "lemma": "verify", "pos": "verb", "en": "to check that something is true or real", "hu": "ellenőriz, hitelesít" },
+      { "forms": ["restored"], "lemma": "restore", "pos": "verb", "en": "to repair something so that it is as good as it was before", "hu": "helyreállít, restaurál" },
+      { "forms": ["is due to"], "lemma": "be due to", "pos": "phrase", "en": "to be planned or expected to happen", "hu": "a tervek szerint, várhatóan" }
+    ],
+    "2017-okt-emelt-H1": [
+      { "forms": ["best-selling"], "lemma": "best-selling", "pos": "adjective", "en": "bought by a very large number of people", "hu": "legkelendőbb, sikerlistás" },
+      { "forms": ["publishers"], "lemma": "publisher", "pos": "noun", "en": "a company that prepares and sells books", "hu": "kiadó" }
+    ],
+    "2017-okt-emelt-H2": [
+      { "forms": ["parachute jumps"], "lemma": "parachute jump", "pos": "noun", "en": "a jump from a plane with a large piece of cloth that helps you fall slowly", "hu": "ejtőernyős ugrás" },
+      { "forms": ["résumé"], "lemma": "résumé", "pos": "noun", "en": "a document that lists your education and experience", "hu": "önéletrajz" },
+      { "forms": ["secure"], "lemma": "secure", "pos": "verb", "en": "to get something, often with a lot of effort", "hu": "biztosít, megszerez", "tip": "Itt ige. Melléknévként azt jelenti: biztonságos." },
+      { "forms": ["outstandingly"], "lemma": "outstandingly", "pos": "adverb", "en": "extremely well", "hu": "kiemelkedően" },
+      { "forms": ["worked out"], "lemma": "work out", "pos": "phrasal verb", "en": "to plan something carefully", "hu": "kidolgoz" },
+      { "forms": ["by far"], "lemma": "by far", "pos": "phrase", "en": "by a great amount", "hu": "messze, messze a legjobb" }
+    ],
+    "2017-okt-emelt-H3": [
+      { "forms": ["restricted"], "lemma": "restrict", "pos": "verb", "en": "to limit something to a particular place or time", "hu": "korlátoz" },
+      { "forms": ["packaging"], "lemma": "packaging", "pos": "noun", "en": "the boxes, cans or paper that a product is sold in", "hu": "csomagolás" },
+      { "forms": ["blank"], "lemma": "blank", "pos": "adjective", "en": "with nothing written or printed on it", "hu": "üres, felirat nélküli" },
+      { "forms": ["stereotypes"], "lemma": "stereotype", "pos": "noun", "en": "a fixed idea about what a type of person is like, which is often wrong", "hu": "sztereotípia" },
+      { "forms": ["infrared light"], "lemma": "infrared light", "pos": "noun", "en": "a kind of light that people cannot see, used by cameras in the dark", "hu": "infravörös fény" },
+      { "forms": ["appearances"], "lemma": "appearance", "pos": "noun", "en": "the way someone looks", "hu": "külső, megjelenés" },
+      { "forms": ["reveals"], "lemma": "reveal", "pos": "verb", "en": "to show something that was hidden", "hu": "felfed, megmutat" },
+      { "forms": ["wheelchair"], "lemma": "wheelchair", "pos": "noun", "en": "a chair with wheels for people who cannot walk", "hu": "kerekesszék" },
+      { "forms": ["smart"], "lemma": "smart", "pos": "adjective", "en": "here: neat and elegant", "hu": "elegáns", "tip": "Itt nem azt jelenti: okos." }
     ]
   }
 }

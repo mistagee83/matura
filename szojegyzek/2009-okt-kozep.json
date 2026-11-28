@@ -188,6 +188,47 @@
       { "forms": ["side of the road"], "lemma": "side of the road", "pos": "phrase", "en": "the edge of the road", "hu": "az út széle" },
       { "forms": ["without looking"], "lemma": "without looking", "pos": "phrase", "en": "not looking first", "hu": "anélkül, hogy körülnézett volna" },
       { "forms": ["more than just"], "lemma": "more than just", "pos": "phrase", "en": "not only; also other things", "hu": "többet jelent, mint pusztán" }
+    ],
+    "2009-okt-kozep-L1": [
+      { "forms": ["household"], "lemma": "household", "pos": "noun", "en": "the home and the people who live in it", "hu": "háztartás" },
+      { "forms": ["bacon"], "lemma": "bacon", "pos": "noun", "en": "thin pieces of salty meat from a pig, often fried for breakfast", "hu": "bacon, (sült) szalonna" },
+      { "forms": ["strips"], "lemma": "strip", "pos": "noun", "en": "a long, narrow piece of something", "hu": "csík, szelet" },
+      { "forms": ["slow cook"], "lemma": "slow cook", "pos": "verb", "en": "to cook food slowly at a low temperature", "hu": "lassan süt, lassú tűzön főz" },
+      { "forms": ["halogen bulbs"], "lemma": "halogen bulb", "pos": "noun", "en": "a very bright electric light bulb that also gives heat", "hu": "halogénizzó" },
+      { "forms": ["scent"], "lemma": "scent", "pos": "noun", "en": "a pleasant smell", "hu": "illat" }
+    ],
+    "2009-okt-kozep-L2": [
+      { "forms": ["peanut"], "lemma": "peanut", "pos": "noun", "en": "a small nut that grows in a shell under the ground", "hu": "földimogyoró" },
+      { "forms": ["tailor"], "lemma": "tailor", "pos": "noun", "en": "a person whose job is to make clothes, especially for men", "hu": "szabó" },
+      { "forms": ["accessories"], "lemma": "accessory", "pos": "noun", "en": "things such as hats, belts or bags that you wear or carry with your clothes", "hu": "kiegészítő (ruházati)" },
+      { "forms": ["made his mark"], "lemma": "make your mark", "pos": "phrase", "en": "to do something that people remember you for", "hu": "maradandót alkot, otthagyja a keze nyomát" },
+      { "forms": ["came to office"], "lemma": "come to office", "pos": "phrase", "en": "to start an important official job, for example as president", "hu": "hivatalba lép" },
+      { "forms": ["Executive Mansion"], "lemma": "Executive Mansion", "pos": "noun", "en": "an old name for the official home of the US President", "hu": "elnöki rezidencia" },
+      { "forms": ["campaign"], "lemma": "campaign", "pos": "noun", "en": "the activities before an election to make people vote for someone", "hu": "(választási) kampány" }
+    ],
+    "2009-okt-kozep-L3": [
+      { "forms": ["bullfighting"], "lemma": "bullfighting", "pos": "noun", "en": "a show in which people fight and often kill a bull", "hu": "bikaviadal" },
+      { "forms": ["bulls"], "lemma": "bull", "pos": "noun", "en": "a male cow", "hu": "bika" },
+      { "forms": ["victories"], "lemma": "victory", "pos": "noun", "en": "winning a war or a fight", "hu": "győzelem" },
+      { "forms": ["cavaliers"], "lemma": "cavalier", "pos": "noun", "en": "here: a bullfighter who rides a horse", "hu": "lovas bikaviador" },
+      { "forms": ["matadors"], "lemma": "matador", "pos": "noun", "en": "the person who fights and kills the bull in a bullfight", "hu": "matador, bikaviador" },
+      { "forms": ["established"], "lemma": "established", "pos": "adjective", "en": "accepted for a long time", "hu": "bevett, régóta elfogadott" },
+      { "forms": ["cruel"], "lemma": "cruel", "pos": "adjective", "en": "causing pain to people or animals", "hu": "kegyetlen" },
+      { "forms": ["pointlessly"], "lemma": "pointlessly", "pos": "adverb", "en": "for no good reason", "hu": "értelmetlenül, fölöslegesen" },
+      { "forms": ["clash"], "lemma": "clash", "pos": "verb", "en": "to hit against each other hard", "hu": "összecsap, összeütközik" }
+    ],
+    "2009-okt-kozep-H1": [
+      { "forms": ["dare"], "lemma": "dare", "pos": "verb", "en": "to be brave enough to do something", "hu": "mer, merészel" },
+      { "forms": ["pans"], "lemma": "pan", "pos": "noun", "en": "a metal container for cooking food", "hu": "serpenyő, lábas" },
+      { "forms": ["robe"], "lemma": "robe", "pos": "noun", "en": "a long, loose piece of clothing that you wear at home", "hu": "köntös" },
+      { "forms": ["sore throat"], "lemma": "sore throat", "pos": "noun", "en": "a pain in your throat, for example when you have a cold", "hu": "torokfájás" },
+      { "forms": ["intruder"], "lemma": "intruder", "pos": "noun", "en": "a person who goes into a building without permission", "hu": "betolakodó, behatoló" }
+    ],
+    "2009-okt-kozep-H2": [
+      { "forms": ["submarine"], "lemma": "submarine", "pos": "noun", "en": "a ship that can travel under water", "hu": "tengeralattjáró" },
+      { "forms": ["wrap"], "lemma": "wrap", "pos": "verb", "en": "to cover something completely with paper or material", "hu": "beburkol, becsomagol" },
+      { "forms": ["rowboat"], "lemma": "rowboat", "pos": "noun", "en": "a small boat that you move through the water with long sticks", "hu": "evezős csónak" },
+      { "forms": ["waterproof"], "lemma": "waterproof", "pos": "adjective", "en": "not letting water go through", "hu": "vízálló" }
     ]
   }
 }

@@ -242,6 +242,78 @@
       { "forms": ["reprinted"], "lemma": "reprint", "pos": "verb", "en": "to print a book again", "hu": "újranyomták" },
       { "forms": ["hardcover"], "lemma": "hardcover", "pos": "noun", "en": "a book with a hard cover", "hu": "keménytáblás kiadás" },
       { "forms": ["paperback"], "lemma": "paperback", "pos": "noun", "en": "a book with a soft paper cover", "hu": "puhafedeles kiadás" }
+    ],
+    "2016-maj-emelt-L1": [
+      { "forms": ["counties"], "lemma": "county", "pos": "noun", "en": "one of the areas that Ireland or Britain is divided into", "hu": "megye" },
+      { "forms": ["speeding tickets"], "lemma": "speeding ticket", "pos": "noun", "en": "an official paper saying you must pay for driving too fast", "hu": "gyorshajtásért kapott bírság" },
+      { "forms": ["fines"], "lemma": "fine", "pos": "noun", "en": "money that you must pay because you broke a rule", "hu": "bírság" },
+      { "forms": ["serial offender"], "lemma": "serial offender", "pos": "noun", "en": "a person who breaks the law again and again", "hu": "visszaeső szabálysértő, megrögzött bűnelkövető" },
+      { "forms": ["avoid justice"], "lemma": "avoid justice", "pos": "phrase", "en": "to escape being punished by the law", "hu": "elkerüli a felelősségre vonást" },
+      { "forms": ["identity", "identities"], "lemma": "identity", "pos": "noun", "en": "who a person is: their name and other facts about them", "hu": "személyazonosság" },
+      { "forms": ["prized"], "lemma": "prized", "pos": "adjective", "en": "very valuable and wanted", "hu": "értékes, nagyra becsült" },
+      { "forms": ["villain"], "lemma": "villain", "pos": "noun", "en": "a criminal; a bad person", "hu": "gazember, bűnöző" },
+      { "forms": ["division"], "lemma": "division", "pos": "noun", "en": "a department of a large organisation", "hu": "osztály, részleg" },
+      { "forms": ["guidelines"], "lemma": "guideline", "pos": "noun", "en": "official advice about how to do something", "hu": "irányelv, útmutatás" },
+      { "forms": ["modified"], "lemma": "modify", "pos": "verb", "en": "to change something a little", "hu": "módosít" },
+      { "forms": ["seemingly"], "lemma": "seemingly", "pos": "adverb", "en": "as it seems, though maybe not really", "hu": "látszólag" },
+      { "forms": ["elusive"], "lemma": "elusive", "pos": "adjective", "en": "difficult to find or catch", "hu": "megfoghatatlan, nehezen elkapható" },
+      { "forms": ["cult hero"], "lemma": "cult hero", "pos": "noun", "en": "a person who is very popular with a particular group of people", "hu": "kultikus hős, legenda" }
+    ],
+    "2016-maj-emelt-L2": [
+      { "forms": ["sue"], "lemma": "sue", "pos": "verb", "en": "to go to court to ask for money from someone who has harmed you", "hu": "beperel" },
+      { "forms": ["lawsuit"], "lemma": "lawsuit", "pos": "noun", "en": "a case in a court of law in which someone asks for money or justice", "hu": "per, kereset" },
+      { "forms": ["fired"], "lemma": "fire", "pos": "verb", "en": "to tell someone to leave their job", "hu": "kirúg, elbocsát" },
+      { "forms": ["scribbled"], "lemma": "scribble", "pos": "verb", "en": "to write or draw something quickly and carelessly", "hu": "odafirkant" },
+      { "forms": ["tail section"], "lemma": "tail section", "pos": "noun", "en": "the back part of a plane", "hu": "farokrész (repülőgépé)" },
+      { "forms": ["crew"], "lemma": "crew", "pos": "noun", "en": "the people who work on a plane or ship", "hu": "személyzet" },
+      { "forms": ["disappearance"], "lemma": "disappearance", "pos": "noun", "en": "when someone or something cannot be found any more", "hu": "eltűnés" },
+      { "forms": ["complaint"], "lemma": "complaint", "pos": "noun", "en": "an official statement to a court that someone has done something wrong", "hu": "panasz, kereset (bíróságon)" },
+      { "forms": ["deplane"], "lemma": "deplane", "pos": "verb", "en": "to make all passengers get off a plane", "hu": "kiszállít (az utasokat a gépből)" },
+      { "forms": ["security sweep"], "lemma": "security sweep", "pos": "noun", "en": "a careful search of a place to check that it is not dangerous", "hu": "biztonsági átvizsgálás" },
+      { "forms": ["dismissed"], "lemma": "dismiss", "pos": "verb", "en": "to officially make someone leave their job", "hu": "elbocsát" },
+      { "forms": ["disobedience"], "lemma": "disobedience", "pos": "noun", "en": "refusing to do what you are told", "hu": "engedetlenség, parancsmegtagadás" },
+      { "forms": ["moral obligation"], "lemma": "moral obligation", "pos": "noun", "en": "something you must do because it is right", "hu": "erkölcsi kötelesség" },
+      { "forms": ["attorney"], "lemma": "attorney", "pos": "noun", "en": "a lawyer (American English)", "hu": "ügyvéd" },
+      { "forms": ["maintenance"], "lemma": "maintenance", "pos": "noun", "en": "the work of keeping machines in good condition", "hu": "karbantartás" },
+      { "forms": ["appropriately"], "lemma": "appropriately", "pos": "adverb", "en": "in a correct or suitable way", "hu": "megfelelően, kellőképpen" },
+      { "forms": ["seeking"], "lemma": "seek", "pos": "verb", "en": "to try to get something", "hu": "kér, igényel" },
+      { "forms": ["compensatory damages"], "lemma": "compensatory damages", "pos": "noun", "en": "money that a court says must be paid to someone for the harm they suffered", "hu": "kártérítés" }
+    ],
+    "2016-maj-emelt-L3": [
+      { "forms": ["odds"], "lemma": "odds", "pos": "noun", "en": "the probability that something will happen", "hu": "valószínűség", "tip": "Mindig többes számban áll." },
+      { "forms": ["randomly"], "lemma": "randomly", "pos": "adverb", "en": "without any plan or pattern", "hu": "véletlenszerűen" },
+      { "forms": ["tournament"], "lemma": "tournament", "pos": "noun", "en": "a competition with many players and many games", "hu": "bajnokság, verseny" },
+      { "forms": ["recruited"], "lemma": "recruit", "pos": "verb", "en": "to find people to take part in something", "hu": "toboroz, beszervez" },
+      { "forms": ["randomise"], "lemma": "randomise", "pos": "verb", "en": "to make choices in no fixed order", "hu": "véletlenszerűvé tesz" },
+      { "forms": ["unpredictable"], "lemma": "unpredictable", "pos": "adjective", "en": "impossible to know in advance", "hu": "kiszámíthatatlan" },
+      { "forms": ["opponents"], "lemma": "opponent", "pos": "noun", "en": "the person you play against", "hu": "ellenfél" },
+      { "forms": ["pattern"], "lemma": "pattern", "pos": "noun", "en": "a regular way in which something happens", "hu": "minta, szabályszerűség" },
+      { "forms": ["tended to"], "lemma": "tend to", "pos": "phrase", "en": "to usually do something", "hu": "hajlamos valamire, általában úgy tesz" },
+      { "forms": ["stick with"], "lemma": "stick with", "pos": "phrasal verb", "en": "to keep doing or using the same thing", "hu": "kitart valami mellett, marad valaminél" },
+      { "forms": ["sequence"], "lemma": "sequence", "pos": "noun", "en": "a fixed order of things", "hu": "sorrend, sor" },
+      { "forms": ["considerable"], "lemma": "considerable", "pos": "adjective", "en": "large; important", "hu": "jelentős, tekintélyes" },
+      { "forms": ["financial trading"], "lemma": "financial trading", "pos": "noun", "en": "buying and selling shares and money to make a profit", "hu": "pénzügyi kereskedés, tőzsdézés" }
+    ],
+    "2016-maj-emelt-H1": [
+      { "forms": ["delivered"], "lemma": "deliver", "pos": "verb", "en": "to give a performance or speech", "hu": "nyújt, előad" },
+      { "forms": ["astronomy"], "lemma": "astronomy", "pos": "noun", "en": "the scientific study of stars and planets", "hu": "csillagászat" },
+      { "forms": ["observation"], "lemma": "observation", "pos": "noun", "en": "something you notice by watching carefully", "hu": "megfigyelés" },
+      { "forms": ["memoir"], "lemma": "memoir", "pos": "noun", "en": "a book that a person writes about their own life", "hu": "emlékirat, visszaemlékezés" },
+      { "forms": ["comet"], "lemma": "comet", "pos": "noun", "en": "an object in space with a bright tail of light", "hu": "üstökös" },
+      { "forms": ["patron"], "lemma": "patron", "pos": "noun", "en": "a rich person who gives money to support an artist or scientist", "hu": "pártfogó, mecénás" },
+      { "forms": ["lifelong"], "lemma": "lifelong", "pos": "adjective", "en": "lasting for the whole of your life", "hu": "életre szóló, életen át tartó" }
+    ],
+    "2016-maj-emelt-H2": [
+      { "forms": ["breakdowns"], "lemma": "breakdown", "pos": "noun", "en": "when a machine stops working", "hu": "meghibásodás, üzemzavar" },
+      { "forms": ["malfunctioning"], "lemma": "malfunctioning", "pos": "adjective", "en": "not working correctly", "hu": "hibásan működő" },
+      { "forms": ["props"], "lemma": "prop", "pos": "noun", "en": "an object used by actors in a film or play", "hu": "kellék" },
+      { "forms": ["living up to"], "lemma": "live up to", "pos": "phrasal verb", "en": "to be as good as someone expected", "hu": "megfelel (az elvárásoknak)" },
+      { "forms": ["theatrical releases"], "lemma": "theatrical release", "pos": "noun", "en": "when a film is shown in cinemas", "hu": "mozis bemutató, mozis forgalmazás" },
+      { "forms": ["share"], "lemma": "share", "pos": "noun", "en": "the part of the money that belongs to one person", "hu": "részesedés, rész" }
+    ],
+    "2016-maj-emelt-H3": [
+      { "forms": ["media mogul"], "lemma": "media mogul", "pos": "noun", "en": "a very rich and powerful owner of newspapers or TV companies", "hu": "médiamogul, médiacézár" },
+      { "forms": ["chairman"], "lemma": "chairman", "pos": "noun", "en": "the person in charge of a company or organisation", "hu": "elnök (cégé, testületé)" }
     ]
   }
 }

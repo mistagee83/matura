@@ -202,6 +202,70 @@
       { "forms": ["destination"], "lemma": "destination", "pos": "noun", "en": "the place you are travelling to", "hu": "úti cél" },
       { "forms": ["send out"], "lemma": "send out", "pos": "phrasal verb", "en": "to send messages or signals to many places", "hu": "kiküld, lead (jelzést)" },
       { "forms": ["last"], "lemma": "last", "pos": "verb", "en": "to be enough for a period of time", "hu": "elég valameddig, kitart" }
+    ],
+    "2018-maj-kozep-L1": [
+      { "forms": ["landed"], "lemma": "land", "pos": "verb", "en": "to arrive somewhere by ship", "hu": "partot ér, partra száll" },
+      { "forms": ["monarchs"], "lemma": "monarch", "pos": "noun", "en": "a king or queen", "hu": "uralkodó" },
+      { "forms": ["voyage"], "lemma": "voyage", "pos": "noun", "en": "a long journey by sea", "hu": "(hosszú) tengeri út" },
+      { "forms": ["sea route"], "lemma": "sea route", "pos": "noun", "en": "a way across the sea from one place to another", "hu": "tengeri útvonal" },
+      { "forms": ["spice"], "lemma": "spice", "pos": "noun", "en": "a substance from plants used to give food flavour, for example pepper", "hu": "fűszer" },
+      { "forms": ["educated"], "lemma": "educated", "pos": "adjective", "en": "having learned a lot at school or university", "hu": "művelt, tanult" },
+      { "forms": ["lay"], "lemma": "lie", "pos": "verb", "en": "to be in a particular place", "hu": "terül el, fekszik", "tip": "A lie (fekszik) múlt ideje: lie – lay – lain." },
+      { "forms": ["continent"], "lemma": "continent", "pos": "noun", "en": "one of the very large areas of land on Earth, for example Africa", "hu": "kontinens, földrész" },
+      { "forms": ["previously"], "lemma": "previously", "pos": "adverb", "en": "before that time", "hu": "korábban, azelőtt" },
+      { "forms": ["originally"], "lemma": "originally", "pos": "adverb", "en": "at first, at the beginning", "hu": "eredetileg" }
+    ],
+    "2018-maj-kozep-L2": [
+      { "forms": ["competitors"], "lemma": "competitor", "pos": "noun", "en": "a person who takes part in a race or competition", "hu": "versenyző" },
+      { "forms": ["teammate"], "lemma": "teammate", "pos": "noun", "en": "a person who is in the same team as you", "hu": "csapattárs" },
+      { "forms": ["aim"], "lemma": "aim", "pos": "noun", "en": "what you want to achieve", "hu": "cél" },
+      { "forms": ["track"], "lemma": "track", "pos": "noun", "en": "a path or course for racing", "hu": "pálya" },
+      { "forms": ["legend"], "lemma": "legend", "pos": "noun", "en": "an old story that may not be true", "hu": "legenda, monda" },
+      { "forms": ["Robber"], "lemma": "robber", "pos": "noun", "en": "a criminal who attacks people to take their money or things", "hu": "rabló" },
+      { "forms": ["legally"], "lemma": "legally", "pos": "adverb", "en": "according to the law", "hu": "törvényesen, hivatalosan" },
+      { "forms": ["equipment"], "lemma": "equipment", "pos": "noun", "en": "the things that you need for an activity", "hu": "felszerelés" },
+      { "forms": ["helmet"], "lemma": "helmet", "pos": "noun", "en": "a hard hat that protects your head", "hu": "sisak" },
+      { "forms": ["restriction"], "lemma": "restriction", "pos": "noun", "en": "a rule that limits what you can do", "hu": "korlátozás" },
+      { "forms": ["punished"], "lemma": "punish", "pos": "verb", "en": "to make someone suffer because they did something wrong", "hu": "büntet" }
+    ],
+    "2018-maj-kozep-L3": [
+      { "forms": ["sleeping cars", "sleeping car"], "lemma": "sleeping car", "pos": "noun", "en": "a part of a train with beds for passengers", "hu": "hálókocsi" },
+      { "forms": ["accommodation"], "lemma": "accommodation", "pos": "noun", "en": "a place to stay or sleep", "hu": "szállás" },
+      { "forms": ["overnight"], "lemma": "overnight", "pos": "adjective", "en": "travelling during the night", "hu": "éjszakai" },
+      { "forms": ["manufacturing"], "lemma": "manufacture", "pos": "verb", "en": "to make goods in large numbers in a factory", "hu": "gyárt" },
+      { "forms": ["operating"], "lemma": "operate", "pos": "verb", "en": "to run a business or service", "hu": "üzemeltet, működtet" },
+      { "forms": ["a wide variety of"], "lemma": "a wide variety of", "pos": "phrase", "en": "many different kinds of", "hu": "sokféle" },
+      { "forms": ["porters"], "lemma": "porter", "pos": "noun", "en": "a person whose job is to carry bags and help travellers", "hu": "hordár, kísérő" },
+      { "forms": ["efficient"], "lemma": "efficient", "pos": "adjective", "en": "working well and quickly", "hu": "hatékony, gyors" },
+      { "forms": ["settle into"], "lemma": "settle into", "pos": "phrasal verb", "en": "to become comfortable in a new place", "hu": "berendezkedik, elhelyezkedik" },
+      { "forms": ["responsible"], "lemma": "responsible", "pos": "adjective", "en": "having the job of dealing with something", "hu": "felelős" },
+      { "forms": ["shining"], "lemma": "shine", "pos": "verb", "en": "here: to make shoes bright by rubbing them", "hu": "fényesít, kipucol" },
+      { "forms": ["on request"], "lemma": "on request", "pos": "phrase", "en": "when someone asks for it", "hu": "kérésre" },
+      { "forms": ["referred"], "lemma": "refer", "pos": "verb", "en": "here: to call someone by a particular name", "hu": "nevez, emleget" },
+      { "forms": ["founder"], "lemma": "founder", "pos": "noun", "en": "the person who starts a company", "hu": "alapító" },
+      { "forms": ["ex-slaves"], "lemma": "ex-slave", "pos": "noun", "en": "a person who used to be a slave", "hu": "egykori rabszolga" }
+    ],
+    "2018-maj-kozep-H1": [
+      { "forms": ["self-employed"], "lemma": "self-employed", "pos": "adjective", "en": "working for yourself, not for a company", "hu": "önálló vállalkozó, egyéni vállalkozó" },
+      { "forms": ["saw"], "lemma": "saw", "pos": "noun", "en": "a tool with sharp teeth for cutting wood", "hu": "fűrész", "tip": "Ugyanígy hangzik a see múlt ideje is." },
+      { "forms": ["father-in-law"], "lemma": "father-in-law", "pos": "noun", "en": "the father of your wife or husband", "hu": "após" },
+      { "forms": ["blend into"], "lemma": "blend into", "pos": "phrasal verb", "en": "to look similar to the things around it, so it is hard to see", "hu": "beleolvad" },
+      { "forms": ["surroundings"], "lemma": "surroundings", "pos": "noun", "en": "the place and things around something", "hu": "környezet", "tip": "Mindig többes számban áll." },
+      { "forms": ["wood-burner"], "lemma": "wood-burner", "pos": "noun", "en": "a closed metal box in which you burn wood", "hu": "fatüzelésű kályha" },
+      { "forms": ["self-belief"], "lemma": "self-belief", "pos": "noun", "en": "trust in your own abilities", "hu": "önbizalom, hit önmagában" },
+      { "forms": ["readiness"], "lemma": "readiness", "pos": "noun", "en": "being willing to do something", "hu": "készség, hajlandóság" }
+    ],
+    "2018-maj-kozep-H2": [
+      { "forms": ["dropped her children off"], "lemma": "drop off", "pos": "phrasal verb", "en": "to take someone somewhere by car and leave them there", "hu": "elvisz és kitesz (autóval)" },
+      { "forms": ["incident"], "lemma": "incident", "pos": "noun", "en": "something unusual that happens", "hu": "eset" },
+      { "forms": ["freezer"], "lemma": "freezer", "pos": "noun", "en": "a very cold box that keeps food frozen", "hu": "fagyasztó" },
+      { "forms": ["car horn"], "lemma": "car horn", "pos": "noun", "en": "the part of a car that you press to make a loud warning sound", "hu": "autóduda" },
+      { "forms": ["frighten away"], "lemma": "frighten away", "pos": "phrasal verb", "en": "to make an animal go away by scaring it", "hu": "elijeszt, elriaszt" },
+      { "forms": ["underweight"], "lemma": "underweight", "pos": "adjective", "en": "weighing less than is normal", "hu": "sovány, súlyhiányos" }
+    ],
+    "2018-maj-kozep-H3": [
+      { "forms": ["headmistress"], "lemma": "headmistress", "pos": "noun", "en": "a woman who is in charge of a school", "hu": "igazgatónő" },
+      { "forms": ["admits"], "lemma": "admit", "pos": "verb", "en": "to agree that something bad is true", "hu": "beismer, bevall" }
     ]
   }
 }

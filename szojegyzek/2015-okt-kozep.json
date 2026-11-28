@@ -199,6 +199,63 @@
       { "forms": ["tourism"], "lemma": "tourism", "pos": "noun", "en": "the business of holidays and travellers", "hu": "turizmus, idegenforgalom" },
       { "forms": ["generates"], "lemma": "generate", "pos": "verb", "en": "to produce or create", "hu": "létrehoz, termel" },
       { "forms": ["technicality"], "lemma": "technicality", "pos": "noun", "en": "a small technical detail or rule", "hu": "formalitás, technikai részlet" }
+    ],
+    "2015-okt-kozep-L1": [
+      { "forms": ["turbaned"], "lemma": "turbaned", "pos": "adjective", "en": "wearing a long cloth wound around the head", "hu": "turbános" },
+      { "forms": ["tornado"], "lemma": "tornado", "pos": "noun", "en": "a very strong, fast wind that turns round and round", "hu": "tornádó, forgószél" },
+      { "forms": ["retires"], "lemma": "retire", "pos": "verb", "en": "to stop working or doing a sport because of age", "hu": "visszavonul, nyugdíjba megy" },
+      { "forms": ["great-great grandfather"], "lemma": "great-great grandfather", "pos": "noun", "en": "the grandfather of your grandfather or grandmother", "hu": "ükapa" },
+      { "forms": ["taking up"], "lemma": "take up", "pos": "phrasal verb", "en": "to start doing a new activity", "hu": "belekezd, elkezd (sportot, hobbit)" },
+      { "forms": ["decade"], "lemma": "decade", "pos": "noun", "en": "a period of ten years", "hu": "évtized" },
+      { "forms": ["putting an end to"], "lemma": "put an end to", "pos": "phrase", "en": "to make something stop", "hu": "véget vet valaminek" },
+      { "forms": ["inspiration"], "lemma": "inspiration", "pos": "noun", "en": "someone who gives others the wish to do something good", "hu": "ösztönzés, példakép" },
+      { "forms": ["nicknamed"], "lemma": "nickname", "pos": "verb", "en": "to give someone an informal, funny name", "hu": "elnevez, becenevet ad" },
+      { "forms": ["headdress"], "lemma": "headdress", "pos": "noun", "en": "something you wear on your head, often for religious reasons", "hu": "fejfedő" },
+      { "forms": ["suffering from"], "lemma": "suffer from", "pos": "phrasal verb", "en": "to have an illness or a bad feeling", "hu": "szenved valamiben" },
+      { "forms": ["centenarian"], "lemma": "centenarian", "pos": "noun", "en": "a person who is 100 years old or older", "hu": "százéves (ember)" },
+      { "forms": ["competitive"], "lemma": "competitive", "pos": "adjective", "en": "connected with competing against others", "hu": "verseny-, versenyszerű" },
+      { "forms": ["ironic"], "lemma": "ironic", "pos": "adjective", "en": "funny or strange because it is the opposite of what you expect", "hu": "ironikus, fura" },
+      { "forms": ["due to"], "lemma": "due to", "pos": "preposition", "en": "because of", "hu": "miatt, köszönhetően" }
+    ],
+    "2015-okt-kozep-L2": [
+      { "forms": ["blobfish"], "lemma": "blobfish", "pos": "noun", "en": "a deep-sea fish with a soft, fat body that looks like jelly", "hu": "pacahal" },
+      { "forms": ["crowned"], "lemma": "crown", "pos": "verb", "en": "to officially name someone as the winner or the best", "hu": "megkoronáz, (győztesnek) kikiált" },
+      { "forms": ["goes crazy"], "lemma": "go crazy", "pos": "phrase", "en": "to become very excited about something", "hu": "megőrül valamiért, rajong" },
+      { "forms": ["aesthetic"], "lemma": "aesthetic", "pos": "adjective", "en": "connected with beauty", "hu": "esztétikai, szépség-" },
+      { "forms": ["preservation"], "lemma": "preservation", "pos": "noun", "en": "keeping something safe from harm or loss", "hu": "megóvás, védelem" },
+      { "forms": ["endangered"], "lemma": "endangered", "pos": "adjective", "en": "in danger of disappearing from the world", "hu": "veszélyeztetett, kihalófélben lévő" },
+      { "forms": ["gelatinous"], "lemma": "gelatinous", "pos": "adjective", "en": "soft and thick, like jelly", "hu": "kocsonyás, zselészerű" },
+      { "forms": ["mascot"], "lemma": "mascot", "pos": "noun", "en": "an animal or thing that represents an organisation and brings good luck", "hu": "kabala" },
+      { "forms": ["extinction"], "lemma": "extinction", "pos": "noun", "en": "when a type of animal or plant no longer exists", "hu": "kihalás" },
+      { "forms": ["get involved"], "lemma": "get involved", "pos": "phrase", "en": "to take part in an activity", "hu": "részt vesz, bekapcsolódik" },
+      { "forms": ["conservation"], "lemma": "conservation", "pos": "noun", "en": "the protection of nature and animals", "hu": "természetvédelem" },
+      { "forms": ["aesthetically-challenged"], "lemma": "aesthetically-challenged", "pos": "adjective", "en": "a funny, polite way of saying ugly", "hu": "esztétikailag hátrányos helyzetű (tréfásan: csúnya)" }
+    ],
+    "2015-okt-kozep-L3": [
+      { "forms": ["flight attendant"], "lemma": "flight attendant", "pos": "noun", "en": "a person whose job is to look after passengers on a plane", "hu": "légiutas-kísérő" },
+      { "forms": ["elderly"], "lemma": "elderly", "pos": "adjective", "en": "old (a polite word)", "hu": "idős" },
+      { "forms": ["boarded"], "lemma": "board", "pos": "verb", "en": "to get on a plane, ship or train", "hu": "felszáll" },
+      { "forms": ["on board"], "lemma": "on board", "pos": "phrase", "en": "on a plane, ship or train", "hu": "a fedélzeten" },
+      { "forms": ["baggage"], "lemma": "baggage", "pos": "noun", "en": "bags and cases that you take on a journey", "hu": "poggyász" },
+      { "forms": ["convince"], "lemma": "convince", "pos": "verb", "en": "to make someone believe or agree to something", "hu": "meggyőz" },
+      { "forms": ["scene"], "lemma": "scene", "pos": "noun", "en": "an angry, loud argument in a public place", "hu": "jelenet, botrány" },
+      { "forms": ["upon arrival"], "lemma": "upon arrival", "pos": "phrase", "en": "when you arrive", "hu": "megérkezéskor" },
+      { "forms": ["took a peek"], "lemma": "take a peek", "pos": "phrase", "en": "to look at something quickly and secretly", "hu": "belesett, bekukucskált" },
+      { "forms": ["horrified"], "lemma": "horrified", "pos": "adjective", "en": "very shocked and afraid", "hu": "elborzadva, megrémülve" },
+      { "forms": ["sued"], "lemma": "sue", "pos": "verb", "en": "to go to court to ask for money from someone who has harmed you", "hu": "beperel" },
+      { "forms": ["switched"], "lemma": "switch", "pos": "verb", "en": "to change one thing for another", "hu": "kicserél" },
+      { "forms": ["insisted"], "lemma": "insist", "pos": "verb", "en": "to say firmly that something is true", "hu": "kitart (az állítása mellett), erősködik" },
+      { "forms": ["buried"], "lemma": "bury", "pos": "verb", "en": "to put a dead body into the ground", "hu": "eltemet" }
+    ],
+    "2015-okt-kozep-H1": [
+      { "forms": ["horseback riding"], "lemma": "horseback riding", "pos": "noun", "en": "riding a horse as a sport or hobby", "hu": "lovaglás" },
+      { "forms": ["dating"], "lemma": "date", "pos": "verb", "en": "to go out with someone as a boyfriend or girlfriend", "hu": "jár valakivel, randizik" },
+      { "forms": ["idol"], "lemma": "idol", "pos": "noun", "en": "a famous person that you love and admire very much", "hu": "bálvány, példakép" }
+    ],
+    "2015-okt-kozep-H3": [
+      { "forms": ["masquerade balls"], "lemma": "masquerade ball", "pos": "noun", "en": "a formal dancing party where people wear costumes", "hu": "álarcosbál" },
+      { "forms": ["customary"], "lemma": "customary", "pos": "adjective", "en": "usual, because it is a tradition", "hu": "szokásos, szokás" },
+      { "forms": ["resolutions"], "lemma": "resolution", "pos": "noun", "en": "a promise to yourself to do or stop doing something", "hu": "(újévi) fogadalom" }
     ]
   }
 }

@@ -151,6 +151,66 @@
       { "forms": ["stormed out of"], "lemma": "storm out of", "pos": "phrasal verb", "en": "to leave a place quickly and angrily", "hu": "kiviharzik valahonnan" },
       { "forms": ["leaving"], "lemma": "leave", "pos": "verb", "en": "to let something stay in a particular state", "hu": "hagy (valamilyen állapotban)" },
       { "forms": ["auto-pilot"], "lemma": "auto-pilot", "pos": "noun", "en": "a system that flies a plane without a person controlling it", "hu": "robotpilóta" }
+    ],
+    "2020-maj-kozep-L1": [
+      { "forms": ["overthink"], "lemma": "overthink", "pos": "verb", "en": "to think about something too much", "hu": "túlgondol, túlbonyolít" },
+      { "forms": ["explosion"], "lemma": "explosion", "pos": "noun", "en": "a sudden large increase in the number of something", "hu": "robbanásszerű elterjedés" },
+      { "forms": ["boutique gyms"], "lemma": "boutique gym", "pos": "noun", "en": "a small, often expensive fitness centre with special classes", "hu": "butikedzőterem, exkluzív kis edzőterem" },
+      { "forms": ["spin classes"], "lemma": "spin class", "pos": "noun", "en": "an exercise class on bicycles that do not move", "hu": "spinning óra" },
+      { "forms": ["ultramarathons"], "lemma": "ultramarathon", "pos": "noun", "en": "a running race that is longer than a marathon", "hu": "ultramaraton" },
+      { "forms": ["rewards"], "lemma": "reward", "pos": "noun", "en": "something good that you get for what you do", "hu": "jutalom, haszon" },
+      { "forms": ["survey"], "lemma": "survey", "pos": "noun", "en": "a set of questions to find out what people think or do", "hu": "felmérés, közvélemény-kutatás" },
+      { "forms": ["set aside"], "lemma": "set aside", "pos": "phrasal verb", "en": "to keep time or money for a special purpose", "hu": "félretesz, elkülönít" },
+      { "forms": ["membership"], "lemma": "membership", "pos": "noun", "en": "being a member of a club; the money you pay for this", "hu": "tagság, bérlet" },
+      { "forms": ["exhausting"], "lemma": "exhausting", "pos": "adjective", "en": "making you very tired", "hu": "kimerítő, fárasztó" },
+      { "forms": ["counts"], "lemma": "count", "pos": "verb", "en": "to be important or useful", "hu": "számít" },
+      { "forms": ["destination"], "lemma": "destination", "pos": "noun", "en": "the place where you are going", "hu": "úti cél" },
+      { "forms": ["elevator"], "lemma": "elevator", "pos": "noun", "en": "in American English: a lift", "hu": "lift", "tip": "Brit angolban: lift." },
+      { "forms": ["grocery store"], "lemma": "grocery store", "pos": "noun", "en": "a shop that sells food", "hu": "élelmiszerbolt, közért" }
+    ],
+    "2020-maj-kozep-L2": [
+      { "forms": ["residents"], "lemma": "resident", "pos": "noun", "en": "someone who lives in a place", "hu": "lakos" },
+      { "forms": ["handle"], "lemma": "handle", "pos": "verb", "en": "to deal with something successfully", "hu": "bír, kezel" },
+      { "forms": ["drifting around"], "lemma": "drift around", "pos": "phrasal verb", "en": "to move around without a plan or aim", "hu": "kóvályog, céltalanul lődörög" },
+      { "forms": ["disoriented"], "lemma": "disoriented", "pos": "adjective", "en": "not knowing where you are or which way to go", "hu": "tájékozatlan, aki nem tudja, merre jár" },
+      { "forms": ["narrowly"], "lemma": "narrowly", "pos": "adverb", "en": "only just; by a very small amount", "hu": "éppen hogy, hajszál híján" },
+      { "forms": ["under the influence of alcohol"], "lemma": "under the influence of alcohol", "pos": "phrase", "en": "drunk", "hu": "ittas állapotban, alkohol hatása alatt" },
+      { "forms": ["frost"], "lemma": "frost", "pos": "noun", "en": "very cold weather when the ground becomes white and icy", "hu": "fagy, dér" },
+      { "forms": ["berries"], "lemma": "berry", "pos": "noun", "en": "a small soft round fruit", "hu": "bogyó" },
+      { "forms": ["fermented"], "lemma": "ferment", "pos": "verb", "en": "to change chemically so that it contains alcohol", "hu": "erjed" },
+      { "forms": ["incidents"], "lemma": "incident", "pos": "noun", "en": "an unusual or unpleasant event", "hu": "eset, incidens" },
+      { "forms": ["migrated"], "lemma": "migrate", "pos": "verb", "en": "to fly to a warmer place for the winter", "hu": "elvándorol, elköltözik (madár)" },
+      { "forms": ["store up"], "lemma": "store up", "pos": "phrasal verb", "en": "to collect and keep something to use later", "hu": "felhalmoz, elraktároz" },
+      { "forms": ["gradually"], "lemma": "gradually", "pos": "adverb", "en": "slowly, little by little", "hu": "fokozatosan" },
+      { "forms": ["watching out for"], "lemma": "watch out for", "pos": "phrasal verb", "en": "to pay attention to something dangerous", "hu": "figyel valamire, vigyáz valamire" },
+      { "forms": ["recover"], "lemma": "recover", "pos": "verb", "en": "to become well again", "hu": "felépül, magához tér" }
+    ],
+    "2020-maj-kozep-L3": [
+      { "forms": ["multitasking"], "lemma": "multitasking", "pos": "noun", "en": "doing several things at the same time", "hu": "több dolog egyidejű végzése" },
+      { "forms": ["switching"], "lemma": "switch", "pos": "verb", "en": "to change from one thing to another", "hu": "vált, átvált" },
+      { "forms": ["significantly"], "lemma": "significantly", "pos": "adverb", "en": "by a large or important amount", "hu": "jelentősen" },
+      { "forms": ["relevant"], "lemma": "relevant", "pos": "adjective", "en": "connected with something and important for it", "hu": "releváns, kapcsolódó" },
+      { "forms": ["participants"], "lemma": "participant", "pos": "noun", "en": "a person who takes part in something", "hu": "résztvevő" },
+      { "forms": ["locating"], "lemma": "locate", "pos": "verb", "en": "to find where something is", "hu": "megtalál, behatárol" },
+      { "forms": ["prioritise"], "lemma": "prioritise", "pos": "verb", "en": "to decide which things are most important and do them first", "hu": "rangsorol, fontossági sorrendet állít" },
+      { "forms": ["whereas"], "lemma": "whereas", "pos": "conjunction", "en": "but, on the other hand", "hu": "míg, ezzel szemben" },
+      { "forms": ["jumped in"], "lemma": "jump in", "pos": "phrasal verb", "en": "to start doing something quickly, without thinking", "hu": "fejest ugrik, gondolkodás nélkül belevág" }
+    ],
+    "2020-maj-kozep-H1": [
+      { "forms": ["elderly"], "lemma": "elderly", "pos": "adjective", "en": "old (a polite word)", "hu": "idős" },
+      { "forms": ["pointed out"], "lemma": "point out", "pos": "phrasal verb", "en": "to tell someone about something they did not notice", "hu": "rámutat, felhívja a figyelmet" }
+    ],
+    "2020-maj-kozep-H2": [
+      { "forms": ["Emperor"], "lemma": "emperor", "pos": "noun", "en": "the ruler of an empire, like a very powerful king", "hu": "császár" },
+      { "forms": ["compete"], "lemma": "compete", "pos": "verb", "en": "to take part in a race or a sports event", "hu": "versenyez, indul" }
+    ],
+    "2020-maj-kozep-H3": [
+      { "forms": ["Suspension bridges", "suspension bridge"], "lemma": "suspension bridge", "pos": "noun", "en": "a bridge that hangs from strong steel ropes", "hu": "függőhíd" },
+      { "forms": ["opening ceremony"], "lemma": "opening ceremony", "pos": "noun", "en": "a formal event to celebrate that something is open", "hu": "megnyitóünnepség, átadási ünnepség" },
+      { "forms": ["Mayor"], "lemma": "mayor", "pos": "noun", "en": "the leader of a city", "hu": "polgármester" },
+      { "forms": ["greeted"], "lemma": "greet", "pos": "verb", "en": "to say hello to someone when they arrive", "hu": "üdvözöl, fogad" },
+      { "forms": ["vehicles"], "lemma": "vehicle", "pos": "noun", "en": "a car, bus, cart or other thing that carries people", "hu": "jármű" },
+      { "forms": ["convince"], "lemma": "convince", "pos": "verb", "en": "to make someone believe something", "hu": "meggyőz" }
     ]
   }
 }

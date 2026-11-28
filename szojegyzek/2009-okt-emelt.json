@@ -267,6 +267,48 @@
       { "forms": ["petals"], "lemma": "petal", "pos": "noun", "en": "one of the coloured parts of a flower", "hu": "szirom" },
       { "forms": ["silhouette"], "lemma": "silhouette", "pos": "noun", "en": "the dark shape or outline of something", "hu": "körvonal, sziluett" },
       { "forms": ["three-time winner"], "lemma": "three-time winner", "pos": "noun", "en": "a person who has won three times", "hu": "háromszoros győztes" }
+    ],
+    "2009-okt-emelt-L1": [
+      { "forms": ["couch potato"], "lemma": "couch potato", "pos": "idiom", "en": "a lazy person who sits and watches TV most of the time", "hu": "tunya tévénéző, kanapén heverő ember" },
+      { "forms": ["recruited"], "lemma": "recruit", "pos": "verb", "en": "to find new people to join a group or do a job", "hu": "toboroz, (önkénteseket) keres" },
+      { "forms": ["undergo"], "lemma": "undergo", "pos": "verb", "en": "to experience something difficult or unpleasant", "hu": "átesik valamin, aláveti magát valaminek" },
+      { "forms": ["enforced bed rest"], "lemma": "enforced bed rest", "pos": "noun", "en": "staying in bed all the time because you have to, not because you want to", "hu": "kötelező ágynyugalom" },
+      { "forms": ["weightlessness"], "lemma": "weightlessness", "pos": "noun", "en": "the state of having no weight, as in space", "hu": "súlytalanság" },
+      { "forms": ["recreates"], "lemma": "recreate", "pos": "verb", "en": "to make a situation exist again in another place", "hu": "újrateremt, előidéz" },
+      { "forms": ["endure"], "lemma": "endure", "pos": "verb", "en": "to suffer something difficult or unpleasant for a long time", "hu": "elvisel, kibír" },
+      { "forms": ["prone"], "lemma": "prone", "pos": "adjective", "en": "likely to suffer from a problem", "hu": "hajlamos valamire" },
+      { "forms": ["dizziness"], "lemma": "dizziness", "pos": "noun", "en": "the feeling that everything is turning round and you might fall", "hu": "szédülés" },
+      { "forms": ["prolonged"], "lemma": "prolonged", "pos": "adjective", "en": "lasting a long time", "hu": "hosszan tartó, elhúzódó" },
+      { "forms": ["abnormalities"], "lemma": "abnormality", "pos": "noun", "en": "something in the body that is not as it usually is", "hu": "rendellenesség" },
+      { "forms": ["supervision"], "lemma": "supervision", "pos": "noun", "en": "watching someone carefully to make sure they are safe and do things correctly", "hu": "felügyelet" },
+      { "forms": ["tipped"], "lemma": "tip", "pos": "verb", "en": "to move something so that one end is lower than the other", "hu": "megdönt, megbillent" },
+      { "forms": ["bedpan"], "lemma": "bedpan", "pos": "noun", "en": "a container that a person who cannot get out of bed uses as a toilet", "hu": "ágytál" }
+    ],
+    "2009-okt-emelt-L2": [
+      { "forms": ["currency"], "lemma": "currency", "pos": "noun", "en": "the money that people use in a country", "hu": "fizetőeszköz, pénz" },
+      { "forms": ["crushing"], "lemma": "crush", "pos": "verb", "en": "to press something hard so that it breaks into very small pieces", "hu": "összezúz, összetör" },
+      { "forms": ["paste"], "lemma": "paste", "pos": "noun", "en": "a soft, thick, wet mixture", "hu": "pép, massza" },
+      { "forms": ["nourishing"], "lemma": "nourishing", "pos": "adjective", "en": "containing things that your body needs to be healthy", "hu": "tápláló" },
+      { "forms": ["flavourings"], "lemma": "flavouring", "pos": "noun", "en": "something you add to food or drink to give it a special taste", "hu": "ízesítő" },
+      { "forms": ["moulding"], "lemma": "moulding", "pos": "noun", "en": "making a shape by pouring a liquid into a container", "hu": "öntés (formába)" },
+      { "forms": ["grinders"], "lemma": "grinder", "pos": "noun", "en": "a machine that makes something into powder", "hu": "daráló, őrlőgép" },
+      { "forms": ["moulds"], "lemma": "mould", "pos": "noun", "en": "a container that gives its shape to a liquid when it becomes hard", "hu": "öntőforma" },
+      { "forms": ["perfected"], "lemma": "perfect", "pos": "verb", "en": "to make something as good as it can be", "hu": "tökéletesít", "tip": "Itt ige, a hangsúly a második szótagon van: per'fect." },
+      { "forms": ["subjected to"], "lemma": "be subjected to", "pos": "phrase", "en": "to have something done to it, often something hard or unpleasant", "hu": "kitesznek valaminek, alávetnek valaminek" },
+      { "forms": ["chocolate liquor"], "lemma": "chocolate liquor", "pos": "noun", "en": "the thick liquid you get when you crush cocoa beans; it has no alcohol in it", "hu": "kakaómassza", "tip": "Nem szeszes ital: a liquor itt folyadékot jelent." },
+      { "forms": ["odours"], "lemma": "odour", "pos": "noun", "en": "smells, especially unpleasant ones", "hu": "szag" }
+    ],
+    "2009-okt-emelt-L3": [
+      { "forms": ["apparently"], "lemma": "apparently", "pos": "adverb", "en": "it seems that; people say that", "hu": "úgy tűnik, állítólag" },
+      { "forms": ["pirates"], "lemma": "pirate", "pos": "noun", "en": "a person who attacks and robs ships at sea", "hu": "kalóz" },
+      { "forms": ["buried treasure"], "lemma": "buried treasure", "pos": "noun", "en": "gold, silver or other valuable things hidden in the ground", "hu": "elásott kincs" },
+      { "forms": ["mining"], "lemma": "mining", "pos": "noun", "en": "digging valuable metals out of the ground", "hu": "bányászat" },
+      { "forms": ["invaders"], "lemma": "invader", "pos": "noun", "en": "soldiers who go into another country to take control of it", "hu": "betolakodó, hódító" }
+    ],
+    "2009-okt-emelt-H1": [
+      { "forms": ["commit suicide"], "lemma": "commit suicide", "pos": "phrase", "en": "to kill yourself", "hu": "öngyilkosságot követ el" },
+      { "forms": ["bitterly attacked"], "lemma": "bitterly attack", "pos": "phrase", "en": "to criticise someone very strongly and angrily", "hu": "hevesen támad, élesen bírál" },
+      { "forms": ["hiccups"], "lemma": "hiccups", "pos": "noun", "en": "short, sudden sounds in your throat that you cannot stop", "hu": "csuklás", "tip": "Többes számban szokás: have/get hiccups." }
     ]
   }
 }

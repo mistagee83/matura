@@ -169,6 +169,65 @@
       { "forms": ["active"], "lemma": "active", "pos": "adjective", "en": "moving a lot and doing physical activity", "hu": "aktív, mozgásban levő" },
       { "forms": ["part of"], "lemma": "part of", "pos": "phrase", "en": "one of the things in something", "hu": "része valaminek" },
       { "forms": ["as you age"], "lemma": "age", "pos": "verb", "en": "to grow older", "hu": "öregszik, idősödik" }
+    ],
+    "2023-okt-kozep-L1": [
+      { "forms": ["row"], "lemma": "row", "pos": "noun", "en": "here: a line of things; in this text it means one year after another", "hu": "sor (itt: egymás után, sorozatban)" },
+      { "forms": ["prevent"], "lemma": "prevent", "pos": "verb", "en": "to stop something bad from happening", "hu": "megelőz, megakadályoz" },
+      { "forms": ["plant-based"], "lemma": "plant-based", "pos": "adjective", "en": "made mostly from plants, not from meat", "hu": "növényi alapú" },
+      { "forms": ["majority"], "lemma": "majority", "pos": "noun", "en": "the largest part of something", "hu": "többség, nagy része" },
+      { "forms": ["whole grains"], "lemma": "whole grain", "pos": "noun", "en": "seeds of wheat, rice or oats with nothing taken away", "hu": "teljes kiőrlésű gabona" },
+      { "forms": ["rarely"], "lemma": "rarely", "pos": "adverb", "en": "not often", "hu": "ritkán" },
+      { "forms": ["if at all"], "lemma": "if at all", "pos": "phrase", "en": "maybe not at all", "hu": "ha egyáltalán" },
+      { "forms": ["reserved for"], "lemma": "be reserved for", "pos": "phrase", "en": "to be kept only for a special purpose", "hu": "csak valamire tartogatják" },
+      { "forms": ["poultry"], "lemma": "poultry", "pos": "noun", "en": "birds such as chickens that people keep for meat and eggs", "hu": "baromfi, szárnyas" },
+      { "forms": ["portions"], "lemma": "portion", "pos": "noun", "en": "the amount of food for one person", "hu": "adag" }
+    ],
+    "2023-okt-kozep-L2": [
+      { "forms": ["origins"], "lemma": "origin", "pos": "noun", "en": "the beginning of something", "hu": "eredet, kezdet" },
+      { "forms": ["date back"], "lemma": "date back", "pos": "phrasal verb", "en": "to have started at a time in the past", "hu": "visszanyúlik, valamikor keletkezett" },
+      { "forms": ["acres"], "lemma": "acre", "pos": "noun", "en": "a unit for measuring land, about 4,000 square metres", "hu": "acre (kb. 0,4 hektár)" },
+      { "forms": ["treeless"], "lemma": "treeless", "pos": "adjective", "en": "with no trees", "hu": "fátlan, kopár" },
+      { "forms": ["a wide variety of"], "lemma": "a wide variety of", "pos": "phrase", "en": "many different kinds of", "hu": "sokféle, számos különféle" },
+      { "forms": ["platform"], "lemma": "platform", "pos": "noun", "en": "a way of telling your ideas to many people", "hu": "fórum, lehetőség a nyilvánosság elérésére" },
+      { "forms": ["stress"], "lemma": "stress", "pos": "verb", "en": "to say clearly that something is important", "hu": "hangsúlyoz" },
+      { "forms": ["ecological"], "lemma": "ecological", "pos": "adjective", "en": "connected with nature and the environment", "hu": "ökológiai, környezeti" },
+      { "forms": ["proposed"], "lemma": "propose", "pos": "verb", "en": "to suggest an idea", "hu": "javasol, indítványoz" },
+      { "forms": ["encourage"], "lemma": "encourage", "pos": "verb", "en": "to make someone want to do something", "hu": "ösztönöz, bátorít" },
+      { "forms": ["honor"], "lemma": "honor", "pos": "verb", "en": "to show respect for someone", "hu": "tiszteletét kifejezi, megtisztel", "tip": "Amerikai írásmód; a brit alak: honour." }
+    ],
+    "2023-okt-kozep-L3": [
+      { "forms": ["startup"], "lemma": "startup", "pos": "noun", "en": "a new small company", "hu": "induló vállalkozás, startup" },
+      { "forms": ["trillion"], "lemma": "trillion", "pos": "noun", "en": "a million million (1,000,000,000,000)", "hu": "billió (ezermilliárd)", "tip": "Hamis barát: az angol billion = milliárd, a trillion = billió." },
+      { "forms": ["combination"], "lemma": "combination", "pos": "noun", "en": "several things put together", "hu": "kombináció, összetétel" },
+      { "forms": ["former"], "lemma": "former", "pos": "adjective", "en": "who was something in the past, but not now", "hu": "egykori, korábbi" },
+      { "forms": ["drop off"], "lemma": "drop off", "pos": "phrasal verb", "en": "to take something to a place and leave it there", "hu": "elvisz és lerak, lead" },
+      { "forms": ["accurate"], "lemma": "accurate", "pos": "adjective", "en": "correct and exact", "hu": "pontos" },
+      { "forms": ["coordinates"], "lemma": "coordinate", "pos": "noun", "en": "numbers that show the exact position of a place on a map", "hu": "koordináta" },
+      { "forms": ["wondered"], "lemma": "wonder", "pos": "verb", "en": "to think about something and want to know the answer", "hu": "eltűnődik, kíváncsi valamire" },
+      { "forms": ["mark out"], "lemma": "mark out", "pos": "phrasal verb", "en": "to show the exact place of something", "hu": "megjelöl, kijelöl" },
+      { "forms": ["tap on"], "lemma": "tap on", "pos": "phrasal verb", "en": "to touch a screen lightly with your finger", "hu": "rákoppint" },
+      { "forms": ["virtual"], "lemma": "virtual", "pos": "adjective", "en": "existing only on a computer, not in the real world", "hu": "virtuális" },
+      { "forms": ["tied"], "lemma": "tie", "pos": "verb", "en": "to connect something closely with something", "hu": "hozzákapcsol, hozzárendel" },
+      { "forms": ["mapping provider"], "lemma": "mapping provider", "pos": "noun", "en": "a company or app that offers maps", "hu": "térképszolgáltató" }
+    ],
+    "2023-okt-kozep-H1": [
+      { "forms": ["autonomous"], "lemma": "autonomous", "pos": "adjective", "en": "able to work alone, without people controlling it", "hu": "önálló, önvezető" },
+      { "forms": ["on board"], "lemma": "on board", "pos": "phrase", "en": "on a ship or plane", "hu": "a fedélzeten" },
+      { "forms": ["lightweight"], "lemma": "lightweight", "pos": "adjective", "en": "not heavy", "hu": "könnyű (súlyú)" },
+      { "forms": ["solar-powered"], "lemma": "solar-powered", "pos": "adjective", "en": "working with energy from the sun", "hu": "napenergiával működő" },
+      { "forms": ["generator"], "lemma": "generator", "pos": "noun", "en": "a machine that makes electricity", "hu": "generátor, áramfejlesztő" },
+      { "forms": ["artificial intelligence"], "lemma": "artificial intelligence", "pos": "noun", "en": "computer programs that can think and decide like people", "hu": "mesterséges intelligencia" },
+      { "forms": ["sensors"], "lemma": "sensor", "pos": "noun", "en": "a device that notices things such as light, heat or movement", "hu": "érzékelő" }
+    ],
+    "2023-okt-kozep-H2": [
+      { "forms": ["wrist-band"], "lemma": "wrist-band", "pos": "noun", "en": "a band that you wear around your wrist, like a watch", "hu": "karpánt, karszalag" }
+    ],
+    "2023-okt-kozep-H3": [
+      { "forms": ["solid"], "lemma": "solid", "pos": "adjective", "en": "made of one material all through, with no other metal inside", "hu": "tömör, színtiszta" },
+      { "forms": ["pure"], "lemma": "pure", "pos": "adjective", "en": "not mixed with anything else", "hu": "tiszta, színtiszta" },
+      { "forms": ["auctions"], "lemma": "auction", "pos": "noun", "en": "a sale where things are sold to the person who offers the most money", "hu": "árverés, aukció" },
+      { "forms": ["come up for sale"], "lemma": "come up for sale", "pos": "phrase", "en": "to become available for people to buy", "hu": "eladásra kerül" },
+      { "forms": ["awarded"], "lemma": "award", "pos": "verb", "en": "to give someone a prize officially", "hu": "odaítél, kioszt (díjat)" }
     ]
   }
 }

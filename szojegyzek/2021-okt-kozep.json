@@ -196,6 +196,56 @@
       { "forms": ["announced"], "lemma": "announce", "pos": "verb", "en": "to tell people something officially", "hu": "bejelent, kihirdet" },
       { "forms": ["probably"], "lemma": "probably", "pos": "adverb", "en": "almost certainly", "hu": "valószínűleg" },
       { "forms": ["creator"], "lemma": "creator", "pos": "noun", "en": "the person who made something", "hu": "alkotó, készítő" }
+    ],
+    "2021-okt-kozep-L1": [
+      { "forms": ["greet"], "lemma": "greet", "pos": "verb", "en": "to say hello to someone when you meet them", "hu": "üdvözöl, köszönt" },
+      { "forms": ["effective"], "lemma": "effective", "pos": "adjective", "en": "doing something well and getting the result you want", "hu": "hatékony, eredményes" },
+      { "forms": ["encourage"], "lemma": "encourage", "pos": "verb", "en": "to make someone want to do something", "hu": "bátorít, ösztönöz" },
+      { "forms": ["get into a conversation"], "lemma": "get into a conversation", "pos": "phrase", "en": "to start talking with someone", "hu": "beszélgetésbe elegyedik, beszélgetni kezd" },
+      { "forms": ["pay attention"], "lemma": "pay attention", "pos": "phrase", "en": "to watch, listen to or think about someone carefully", "hu": "figyel (valakire), odafigyel" }
+    ],
+    "2021-okt-kozep-L2": [
+      { "forms": ["maggot"], "lemma": "maggot", "pos": "noun", "en": "a small soft white creature that later becomes a fly", "hu": "kukac, lárva" },
+      { "forms": ["elephant’s trunk"], "lemma": "elephant’s trunk", "pos": "noun", "en": "the very long nose of an elephant", "hu": "elefántormány" },
+      { "forms": ["snail"], "lemma": "snail", "pos": "noun", "en": "a small slow animal with a soft body and a hard shell on its back", "hu": "csiga" },
+      { "forms": ["storage jar"], "lemma": "storage jar", "pos": "noun", "en": "a large pot in which people kept food, oil or wine", "hu": "tárolóedény, korsó" },
+      { "forms": ["commercial"], "lemma": "commercial", "pos": "adjective", "en": "connected with buying and selling things", "hu": "kereskedelmi" },
+      { "forms": ["at the rate of"], "lemma": "at the rate of", "pos": "phrase", "en": "for this price each", "hu": "darabonként ennyiért, …-os áron" },
+      { "forms": ["typewriters"], "lemma": "typewriter", "pos": "noun", "en": "an old machine with keys that prints letters on paper", "hu": "írógép" },
+      { "forms": ["character"], "lemma": "character", "pos": "noun", "en": "a letter, number or sign used in writing or on a computer", "hu": "karakter, írásjel" },
+      { "forms": ["prototype"], "lemma": "prototype", "pos": "noun", "en": "the first form of something, which is later developed further", "hu": "prototípus, előfutár" },
+      { "forms": ["recipient"], "lemma": "recipient", "pos": "noun", "en": "the person who gets a message or letter", "hu": "címzett" },
+      { "forms": ["teletype"], "lemma": "teletype", "pos": "noun", "en": "an old machine for typing and sending messages over a long distance", "hu": "telex, távgépíró" }
+    ],
+    "2021-okt-kozep-L3": [
+      { "forms": ["emperors"], "lemma": "emperor", "pos": "noun", "en": "a man who rules a very large area with many countries", "hu": "császár" },
+      { "forms": ["slaves"], "lemma": "slave", "pos": "noun", "en": "a person who belongs to another person and must work without pay", "hu": "rabszolga" },
+      { "forms": ["flavoured"], "lemma": "flavour", "pos": "verb", "en": "to give food a special taste", "hu": "ízesít" },
+      { "forms": ["explorer"], "lemma": "explorer", "pos": "noun", "en": "a person who travels to places that are not well known", "hu": "felfedező, utazó" },
+      { "forms": ["get around"], "lemma": "get around", "pos": "phrasal verb", "en": "to find a way to avoid a problem or a rule", "hu": "megkerül, kijátszik (szabályt, problémát)" },
+      { "forms": ["syrup"], "lemma": "syrup", "pos": "noun", "en": "a thick sweet liquid", "hu": "szirup" },
+      { "forms": ["cone"], "lemma": "cone", "pos": "noun", "en": "a crisp thin biscuit with a point at the bottom, for holding ice cream", "hu": "tölcsér (fagylalthoz)" },
+      { "forms": ["waffle"], "lemma": "waffle", "pos": "noun", "en": "a flat cake with a pattern of small squares on it", "hu": "gofri" },
+      { "forms": ["booth"], "lemma": "booth", "pos": "noun", "en": "a small tent or stand where things are sold, for example at a fair", "hu": "bódé, stand" },
+      { "forms": ["ran short"], "lemma": "run short", "pos": "phrase", "en": "to have almost nothing left", "hu": "kifogy valamiből, kevés van neki valamiből" },
+      { "forms": ["As a favour"], "lemma": "as a favour", "pos": "phrase", "en": "to help someone, without asking for money", "hu": "szívességből" }
+    ],
+    "2021-okt-kozep-H1": [
+      { "forms": ["monk"], "lemma": "monk", "pos": "noun", "en": "a man who lives in a religious community and spends his life praying", "hu": "szerzetes" },
+      { "forms": ["good-hearted"], "lemma": "good-hearted", "pos": "adjective", "en": "kind and generous to other people", "hu": "jószívű" },
+      { "forms": ["unwelcoming"], "lemma": "unwelcoming", "pos": "adjective", "en": "not friendly to visitors or new people", "hu": "barátságtalan, elutasító" }
+    ],
+    "2021-okt-kozep-H2": [
+      { "forms": ["admit", "admitted"], "lemma": "admit", "pos": "verb", "en": "to say that you did something wrong", "hu": "beismer, bevall" },
+      { "forms": ["lottery ticket"], "lemma": "lottery ticket", "pos": "noun", "en": "a piece of paper with numbers that you buy to try to win money", "hu": "lottószelvény" },
+      { "forms": ["prison sentence"], "lemma": "prison sentence", "pos": "noun", "en": "the time that a court says someone must stay in prison", "hu": "börtönbüntetés" },
+      { "forms": ["donate"], "lemma": "donate", "pos": "verb", "en": "to give money or things to help people", "hu": "adományoz" },
+      { "forms": ["odds"], "lemma": "odds", "pos": "noun", "en": "how likely it is that something will happen", "hu": "esély, valószínűség", "tip": "Mindig többes számban áll." },
+      { "forms": ["spokesman"], "lemma": "spokesman", "pos": "noun", "en": "a person who speaks to the public for an organization", "hu": "szóvivő" }
+    ],
+    "2021-okt-kozep-H3": [
+      { "forms": ["elderly"], "lemma": "elderly", "pos": "adjective", "en": "old (a polite word)", "hu": "idős" },
+      { "forms": ["heaven"], "lemma": "heaven", "pos": "noun", "en": "the place where some people believe good people go after they die", "hu": "mennyország" }
     ]
   }
 }

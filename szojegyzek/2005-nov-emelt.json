@@ -247,6 +247,88 @@
       { "forms": ["the public"], "lemma": "the public", "pos": "noun", "en": "ordinary people in general", "hu": "a közönség, az emberek" },
       { "forms": ["by the time"], "lemma": "by the time", "pos": "conjunction", "en": "when; at the moment that something happens", "hu": "mire, amikorra" },
       { "forms": ["one way"], "lemma": "one way", "pos": "phrase", "en": "in one direction only, not there and back", "hu": "csak egy irányba, csak oda" }
+    ],
+    "2005-nov-emelt-L1": [
+      { "forms": ["adolescent"], "lemma": "adolescent", "pos": "adjective", "en": "connected with young people between childhood and being an adult", "hu": "kamasz-, serdülőkori" },
+      { "forms": ["determined"], "lemma": "determine", "pos": "verb", "en": "to be the cause of how something is", "hu": "meghatároz" },
+      { "forms": ["associated with"], "lemma": "associated with", "pos": "phrase", "en": "connected with something", "hu": "kapcsolatban álló valamivel, valamihez köthető" },
+      { "forms": ["drive"], "lemma": "drive", "pos": "noun", "en": "strong energy and wish to do things", "hu": "lendület, hajtóerő", "tip": "Itt főnév, nem a vezetést jelenti." },
+      { "forms": ["blank stares"], "lemma": "blank stare", "pos": "noun", "en": "a long look that shows no understanding or interest", "hu": "üres tekintet, értetlen bámulás" },
+      { "forms": ["nag"], "lemma": "nag", "pos": "verb", "en": "to keep asking someone to do something in an annoying way", "hu": "nyaggat, nyúz" },
+      { "forms": ["shed light on"], "lemma": "shed light on", "pos": "idiom", "en": "to help people understand something", "hu": "rávilágít valamire, megvilágít" },
+      { "forms": ["prone to"], "lemma": "prone to", "pos": "phrase", "en": "likely to do something or to suffer from something", "hu": "hajlamos valamire" },
+      { "forms": ["stimulation"], "lemma": "stimulation", "pos": "noun", "en": "something that makes you interested, excited or active", "hu": "ingerlés, ösztönzés, inger" },
+      { "forms": ["registers"], "lemma": "register", "pos": "verb", "en": "to be noticed or understood", "hu": "eljut a tudatáig, felfogja", "tip": "Itt nem regisztrálást jelent." },
+      { "forms": ["rooted in"], "lemma": "rooted in", "pos": "phrase", "en": "having its cause or beginning in something", "hu": "gyökerezik valamiben" },
+      { "forms": ["well-intentioned"], "lemma": "well-intentioned", "pos": "adjective", "en": "trying to help, although it may not work", "hu": "jó szándékú" },
+      { "forms": ["prodding"], "lemma": "prodding", "pos": "noun", "en": "trying again and again to make someone do something", "hu": "noszogatás, unszolás" },
+      { "forms": ["whistling in the wind"], "lemma": "whistle in the wind", "pos": "idiom", "en": "to try to do something that has no chance of working", "hu": "falra hányt borsó, hiábavaló próbálkozás" },
+      { "forms": ["duty"], "lemma": "duty", "pos": "noun", "en": "something that you must do because it is your job or it is right", "hu": "kötelesség" },
+      { "forms": ["better off"], "lemma": "better off", "pos": "phrase", "en": "in a better or happier situation", "hu": "jobban jár, jobb helyzetben van" },
+      { "forms": ["butt"], "lemma": "butt", "pos": "noun", "en": "the part of the body you sit on (an informal American word)", "hu": "fenék, ülep" }
+    ],
+    "2005-nov-emelt-L2": [
+      { "forms": ["declining"], "lemma": "decline", "pos": "verb", "en": "to become less or smaller", "hu": "csökken, hanyatlik" },
+      { "forms": ["apathetically"], "lemma": "apathetically", "pos": "adverb", "en": "without showing any interest", "hu": "közönyösen, érdektelenül" },
+      { "forms": ["sharply"], "lemma": "sharply", "pos": "adverb", "en": "in an angry or critical way", "hu": "élesen, csípősen" },
+      { "forms": ["fighting words"], "lemma": "fighting words", "pos": "idiom", "en": "words that make someone want to argue", "hu": "kihívó szavak, sértő megjegyzés" },
+      { "forms": ["absorbed in"], "lemma": "absorbed in", "pos": "phrase", "en": "giving all your attention to something", "hu": "belemerülve valamibe" },
+      { "forms": ["sandwiching in"], "lemma": "sandwich in", "pos": "phrasal verb", "en": "to find a short time for something between other activities", "hu": "beiktat, beszorít (két dolog közé)" },
+      { "forms": ["fiction"], "lemma": "fiction", "pos": "noun", "en": "books and stories about people and events that are not real", "hu": "szépirodalom, regényirodalom" },
+      { "forms": ["capacity"], "lemma": "capacity", "pos": "noun", "en": "the ability to do something", "hu": "képesség" },
+      { "forms": ["immerse"], "lemma": "immerse", "pos": "verb", "en": "to make someone become completely involved in something", "hu": "belemerít, elmerít" },
+      { "forms": ["comprehensible"], "lemma": "comprehensible", "pos": "adjective", "en": "possible to understand", "hu": "érthető, felfogható" },
+      { "forms": ["compulsively"], "lemma": "compulsively", "pos": "adverb", "en": "in a way that you cannot stop", "hu": "kényszeresen" },
+      { "forms": ["acquaintances"], "lemma": "acquaintance", "pos": "noun", "en": "a person you know, but who is not a close friend", "hu": "ismerős" },
+      { "forms": ["bargain-hunting"], "lemma": "bargain-hunting", "pos": "noun", "en": "looking for things that you can buy cheaply", "hu": "akcióvadászat, alkalmi vételek keresése" },
+      { "forms": ["drastic measures"], "lemma": "drastic measure", "pos": "noun", "en": "a strong and sudden action to solve a problem", "hu": "drasztikus lépés, szigorú intézkedés" },
+      { "forms": ["pile up"], "lemma": "pile up", "pos": "phrasal verb", "en": "to become a bigger and bigger amount", "hu": "felhalmozódik, felgyűlik" }
+    ],
+    "2005-nov-emelt-L3": [
+      { "forms": ["fossils"], "lemma": "fossil", "pos": "noun", "en": "the remains of a very old animal or plant in rock; here: a joke about old people", "hu": "kövület (itt tréfásan: öregek)" },
+      { "forms": ["wrinkled"], "lemma": "wrinkled", "pos": "adjective", "en": "with lines on the skin because of old age", "hu": "ráncos" },
+      { "forms": ["on the road"], "lemma": "on the road", "pos": "phrase", "en": "travelling from place to place to give concerts", "hu": "turnén, úton" },
+      { "forms": ["lining up"], "lemma": "line up", "pos": "phrasal verb", "en": "to stand in a line and wait", "hu": "sorba áll" },
+      { "forms": ["senior citizens"], "lemma": "senior citizen", "pos": "noun", "en": "an old person, especially one who no longer works", "hu": "idős ember, nyugdíjas" },
+      { "forms": ["thrusting"], "lemma": "thrust", "pos": "verb", "en": "to push something forward quickly and strongly", "hu": "lök, előretol (csípőt)" },
+      { "forms": ["geezer"], "lemma": "geezer", "pos": "noun", "en": "an old man (an informal, not very polite word)", "hu": "öregúr, vén fazon" },
+      { "forms": ["unsettling"], "lemma": "unsettling", "pos": "adjective", "en": "making you feel a little worried or uncomfortable", "hu": "nyugtalanító, zavaró" },
+      { "forms": ["sexagenarians"], "lemma": "sexagenarian", "pos": "noun", "en": "a person who is between 60 and 69 years old", "hu": "hatvanas éveiben járó ember" },
+      { "forms": ["nursery"], "lemma": "nursery", "pos": "noun", "en": "a place where small children are looked after", "hu": "bölcsőde, óvoda" },
+      { "forms": ["devours"], "lemma": "devour", "pos": "verb", "en": "to destroy or use up something completely", "hu": "felfal, felemészt" },
+      { "forms": ["retirement"], "lemma": "retirement", "pos": "noun", "en": "the time when you stop working because you are old", "hu": "nyugdíjazás, nyugdíjas évek" },
+      { "forms": ["hike"], "lemma": "hike", "pos": "verb", "en": "to go on a long walk in the mountains or countryside", "hu": "túrázik, gyalogtúrát tesz" },
+      { "forms": ["burdening"], "lemma": "burden", "pos": "verb", "en": "to give someone a difficult problem or responsibility", "hu": "megterhel, terhére van" },
+      { "forms": ["prancing around"], "lemma": "prance around", "pos": "phrasal verb", "en": "to move around with high, lively steps, often to show yourself", "hu": "ugrándozik, pózolva táncol" },
+      { "forms": ["contemplation"], "lemma": "contemplation", "pos": "noun", "en": "thinking quietly and deeply about something for a long time", "hu": "elmélkedés, szemlélődés" }
+    ],
+    "2005-nov-emelt-H1": [
+      { "forms": ["love affair"], "lemma": "love affair", "pos": "noun", "en": "a romantic relationship, often a secret one", "hu": "szerelmi viszony, szerelmi kapcsolat" }
+    ],
+    "2005-nov-emelt-H2": [
+      { "forms": ["obese"], "lemma": "obese", "pos": "adjective", "en": "very fat, in a way that is not healthy", "hu": "elhízott, kórosan kövér" },
+      { "forms": ["sedentary"], "lemma": "sedentary", "pos": "adjective", "en": "sitting a lot and not moving or doing exercise", "hu": "ülő (életmód), mozgásszegény" },
+      { "forms": ["eliminated"], "lemma": "eliminate", "pos": "verb", "en": "to remove something completely", "hu": "megszüntet, kiiktat" },
+      { "forms": ["curriculum"], "lemma": "curriculum", "pos": "noun", "en": "all the subjects that are taught in a school", "hu": "tanterv" },
+      { "forms": ["break the cycle"], "lemma": "break the cycle", "pos": "idiom", "en": "to stop a bad situation that keeps happening again and again", "hu": "megtöri az ördögi kört" },
+      { "forms": ["substances"], "lemma": "substance", "pos": "noun", "en": "a type of solid, liquid or gas material", "hu": "anyag" },
+      { "forms": ["a taste for"], "lemma": "a taste for", "pos": "phrase", "en": "a feeling of liking something", "hu": "vonzódás, kedv valami iránt" },
+      { "forms": ["goodwill"], "lemma": "goodwill", "pos": "noun", "en": "a friendly wish to help, without being forced", "hu": "jó szándék, önkéntes (együttműködés)" },
+      { "forms": ["initiated"], "lemma": "initiate", "pos": "verb", "en": "to start something", "hu": "kezdeményez, elindít" },
+      { "forms": ["foodstuffs"], "lemma": "foodstuff", "pos": "noun", "en": "any kind of food that is sold", "hu": "élelmiszer" },
+      { "forms": ["revised"], "lemma": "revise", "pos": "verb", "en": "to change something to make it better", "hu": "átdolgoz, módosít" }
+    ],
+    "2005-nov-emelt-H3": [
+      { "forms": ["penalty shoot-outs"], "lemma": "penalty shoot-out", "pos": "noun", "en": "a way to decide a drawn football match: players from each team take shots at the goal one after the other", "hu": "tizenegyespárbaj, büntetőpárbaj" },
+      { "forms": ["crucial"], "lemma": "crucial", "pos": "adjective", "en": "extremely important, deciding what happens next", "hu": "döntő, kulcsfontosságú" },
+      { "forms": ["back up"], "lemma": "back up", "pos": "phrasal verb", "en": "to support an idea by giving proof", "hu": "alátámaszt, megerősít" },
+      { "forms": ["fatalities"], "lemma": "fatality", "pos": "noun", "en": "a death caused by an accident or an illness", "hu": "haláleset" },
+      { "forms": ["triggered"], "lemma": "trigger", "pos": "verb", "en": "to make something start to happen", "hu": "kivált, előidéz" },
+      { "forms": ["thicken"], "lemma": "thicken", "pos": "verb", "en": "to become thick, less like water", "hu": "sűrűsödik" },
+      { "forms": ["on the grounds of"], "lemma": "on the grounds of", "pos": "phrase", "en": "because of; for this reason", "hu": "valamire hivatkozva, valami okán" },
+      { "forms": ["deluged"], "lemma": "deluge", "pos": "verb", "en": "to send someone a very large number of things at the same time", "hu": "eláraszt (kérdésekkel, levelekkel)" },
+      { "forms": ["convicted"], "lemma": "convict", "pos": "verb", "en": "to decide officially in court that someone is guilty of a crime", "hu": "elítél (bíróság)" },
+      { "forms": ["in effect"], "lemma": "in effect", "pos": "phrase", "en": "in reality, even if it is not said directly", "hu": "gyakorlatilag, valójában" }
     ]
   }
 }

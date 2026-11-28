@@ -312,7 +312,8 @@ function Library() {
     .flatMap((a) => a.assignment_tasks.map((x) => x.task_id))), [asg, groupId]);
   const pickedTasks = picked.map((id) => byId.get(id)).filter(Boolean) as LibTask[];
   const hasListening = pickedTasks.some((t) => t.section === 'listening');
-  const hasReading = pickedTasks.some((t) => t.section === 'reading');
+  // szótár minden feladathoz tartozhat, kivéve ahol a szóra koppintás maga a válasz (SPEC 4.5)
+  const hasGlossTasks = pickedTasks.some((t) => !NO_GLOSS.has(t.kind));
   const toggle = (id: string) => setPicked((p) => (p.includes(id) ? p.filter((x) => x !== id) : [...p, id]));
 
   const assign = async () => {
@@ -385,12 +386,12 @@ function Library() {
           <label key={v} className={vis === v ? 'on' : ''}><input type="radio" name="vis" checked={vis === v} onChange={() => setVis(v)} />{l}</label>)}
       </fieldset>
 
-      {/* szójegyzék az olvasásfeladatokhoz (SPEC 4.5): alapból ki, mert a vizsgán nincs szótár */}
+      {/* szójegyzék a feladatok szövegéhez (SPEC 4.5): olvasásnál bőven, nyelvhelyességnél és hallásnál szűkítve; alapból ki, mert a vizsgán nincs szótár */}
       <label className="t-check"><input type="checkbox" checked={glossary} onChange={(e) => setGlossary(e.target.checked)} />
-        <span><b>Szótár az olvasásfeladatoknál</b>
-          <span className="t-sidehint">{!pickedTasks.length || hasReading
-            ? 'A diák a nehezebb szavak jelentését egy koppintással előhívhatja. Gyakorlásra való; dolgozatnál hagyd kikapcsolva.'
-            : 'Ebben a kiosztásban nincs olvasásfeladat, a beállítás nem számít.'}</span></span></label>
+        <span><b>Szótár a feladatok szövegéhez</b>
+          <span className="t-sidehint">{!pickedTasks.length || hasGlossTasks
+            ? 'A diák a nehezebb szavak jelentését egy koppintással előhívhatja (a beírandó szavakét és a válaszlehetőségekét nem). Gyakorlásra való; dolgozatnál hagyd kikapcsolva.'
+            : 'Ezekhez a feladatokhoz nincs szótár, a beállítás nem számít.'}</span></span></label>
       {sendErr && <p className="t-err">{sendErr}</p>}
       <button className="pill primary t-assign" disabled={!picked.length || busy} onClick={assign}>{busy ? 'Kiosztás…' : 'Kiosztom és megosztom'}</button>
     </aside>
@@ -402,6 +403,8 @@ function Library() {
 // Íráskészség: az érettségi írásfeladatai nem a Maturában, hanem a Hub Writing Review appjában vannak (SPEC 1. „Későbbi
 // irány”). A link paraméter nélkül megy, és a hivatkozót sem adja át (a feladattár címében csoportazonosító lehet).
 const WRITING_REVIEW_URL = 'https://review.mrandrewshub.com/#matura';
+// ezekben a feladattípusokban nincs szótár: a szövegben a szóra koppintás maga a válasz (SPEC 4.5)
+const NO_GLOSS = new Set(['lines', 'fix', 'order']);
 function WritingCard() {
   return (<section className="card t-writing" aria-labelledby="wr-h">
     <h2 id="wr-h">Az írásfeladatok a Writing Review-ban vannak</h2>
@@ -566,7 +569,7 @@ function AssignmentView({ id }: { id: string }) {
         <li>Csoport: {group?.name || 'csoport nélkül'}</li>
         <li>Hanganyag: {a.audio_mode === 'teacher' ? 'a tanár játssza le' : 'a diák saját eszközén'}</li>
         <li>Megoldás: {a.solution_visibility === 'immediate' ? 'azonnal látszik' : 'lezárás után látszik'}</li>
-        {tasks.some((t) => t.section === 'reading') && <li>Szótár: {a.glossary ? 'bekapcsolva' : 'kikapcsolva'}</li>}
+        {tasks.some((t) => !NO_GLOSS.has(t.kind)) && <li>Szótár: {a.glossary ? 'bekapcsolva' : 'kikapcsolva'}</li>}
         <li>Kiosztva: {dateHu(a.created_at)}</li>
       </ul>
       <div className="t-panelfoot">

@@ -153,6 +153,67 @@
       { "forms": ["royalties"], "lemma": "royalty", "pos": "noun", "en": "money paid to a writer or artist each time their work is sold or used", "hu": "jogdíj, szerzői díj" },
       { "forms": ["somehow"], "lemma": "somehow", "pos": "adverb", "en": "for a reason that you do not know or understand", "hu": "valahogy, valamiért" },
       { "forms": ["care for"], "lemma": "care for", "pos": "phrasal verb", "en": "to like something (usually used in negative sentences)", "hu": "kedvel, szeret (tagadó mondatban: nem kedvel)", "tip": "Más jelentése: gondoz, ápol valakit." }
+    ],
+    "2010-maj-kozep-L1": [
+      { "forms": ["rescues", "rescue"], "lemma": "rescue", "pos": "verb", "en": "to save someone from a dangerous or difficult situation", "hu": "megment, kiment" },
+      { "forms": ["holidaymakers"], "lemma": "holidaymaker", "pos": "noun", "en": "a person who is on holiday away from home", "hu": "nyaraló, üdülő" },
+      { "forms": ["tour operator"], "lemma": "tour operator", "pos": "noun", "en": "a company that organises and sells holidays", "hu": "utazásszervező, utazási iroda" },
+      { "forms": ["specially-chartered"], "lemma": "specially-chartered", "pos": "adjective", "en": "hired for one special trip only", "hu": "külön erre bérelt (járat)" },
+      { "forms": ["resort"], "lemma": "resort", "pos": "noun", "en": "a place where many people go for holidays", "hu": "üdülőhely" },
+      { "forms": ["stranded"], "lemma": "stranded", "pos": "adjective", "en": "not able to leave a place, for example because there is no transport", "hu": "(valahol) rekedt, ott ragadt" },
+      { "forms": ["airlift mission"], "lemma": "airlift mission", "pos": "noun", "en": "an operation in which planes take many people home quickly", "hu": "légihíd, mentőakció repülővel" },
+      { "forms": ["called out"], "lemma": "call out", "pos": "phrasal verb", "en": "to ask someone to come and help in a difficult situation", "hu": "(szolgálatba) behív, kirendel" },
+      { "forms": ["frontman"], "lemma": "frontman", "pos": "noun", "en": "the main singer of a band", "hu": "frontember, a zenekar énekese" },
+      { "forms": ["charter airline"], "lemma": "charter airline", "pos": "noun", "en": "an airline whose planes are hired for special trips, not regular flights", "hu": "charterlégitársaság" },
+      { "forms": ["qualified"], "lemma": "qualify", "pos": "verb", "en": "to pass the exams you need to do a job", "hu": "képesítést szerez" }
+    ],
+    "2010-maj-kozep-L2": [
+      { "forms": ["under the spotlight"], "lemma": "under the spotlight", "pos": "idiom", "en": "getting a lot of public attention", "hu": "a figyelem középpontjában" },
+      { "forms": ["aside from"], "lemma": "aside from", "pos": "preposition", "en": "apart from; except for", "hu": "eltekintve valamitől, valamin kívül" },
+      { "forms": ["badge"], "lemma": "badge", "pos": "noun", "en": "a sign that shows you are a member of a group", "hu": "jelvény, ismertetőjel" },
+      { "forms": ["belonging"], "lemma": "belonging", "pos": "noun", "en": "the feeling of being part of a group", "hu": "valahová tartozás" },
+      { "forms": ["tribes"], "lemma": "tribe", "pos": "noun", "en": "a group of people with the same language and customs, often living in a traditional way", "hu": "törzs (népcsoport)" },
+      { "forms": ["military personnel"], "lemma": "military personnel", "pos": "noun", "en": "people who work in the army, navy or air force", "hu": "katonák, katonai állomány" },
+      { "forms": ["individuality"], "lemma": "individuality", "pos": "noun", "en": "the qualities that make a person different from others", "hu": "egyéniség, egyediség" },
+      { "forms": ["ankle"], "lemma": "ankle", "pos": "noun", "en": "the part of the body between the foot and the leg", "hu": "boka" },
+      { "forms": ["under the microscope"], "lemma": "under the microscope", "pos": "idiom", "en": "being looked at very carefully", "hu": "alapos vizsgálat tárgya" },
+      { "forms": ["associate curator"], "lemma": "associate curator", "pos": "noun", "en": "a person who helps to look after the objects in a museum", "hu": "muzeológus, kurátorhelyettes" },
+      { "forms": ["military ranks"], "lemma": "military rank", "pos": "noun", "en": "the levels of soldiers in the army, for example captain or general", "hu": "katonai rendfokozat" },
+      { "forms": ["permanent"], "lemma": "permanent", "pos": "adjective", "en": "lasting for ever or for a very long time", "hu": "végleges, maradandó" },
+      { "forms": ["dermatological surgeon"], "lemma": "dermatological surgeon", "pos": "noun", "en": "a doctor who does operations on the skin", "hu": "bőrsebész" },
+      { "forms": ["advise against"], "lemma": "advise against", "pos": "phrasal verb", "en": "to tell someone that they should not do something", "hu": "lebeszél valamiről, nem javasol" },
+      { "forms": ["potential"], "lemma": "potential", "pos": "adjective", "en": "possible in the future", "hu": "lehetséges" },
+      { "forms": ["ink"], "lemma": "ink", "pos": "noun", "en": "the coloured liquid that is put into the skin in a tattoo", "hu": "tinta, tetoválófesték" },
+      { "forms": ["eczema"], "lemma": "eczema", "pos": "noun", "en": "a skin illness that makes the skin red and itchy", "hu": "ekcéma" }
+    ],
+    "2010-maj-kozep-L3": [
+      { "forms": ["Toilet seats"], "lemma": "toilet seat", "pos": "noun", "en": "the part of a toilet that you sit on", "hu": "WC-ülőke" },
+      { "forms": ["medieval"], "lemma": "medieval", "pos": "adjective", "en": "from the Middle Ages, about 500 to 1500 years ago", "hu": "középkori" },
+      { "forms": ["sword"], "lemma": "sword", "pos": "noun", "en": "a weapon with a long sharp metal blade", "hu": "kard" },
+      { "forms": ["spy hole"], "lemma": "spy hole", "pos": "noun", "en": "a very small hole in a door that you look through", "hu": "kémlelőnyílás (ajtón)" },
+      { "forms": ["survey"], "lemma": "survey", "pos": "noun", "en": "asking many people the same questions to find out what they think or do", "hu": "felmérés" },
+      { "forms": ["widespread"], "lemma": "widespread", "pos": "adjective", "en": "happening in many places or among many people", "hu": "elterjedt, széles körű" },
+      { "forms": ["false teeth"], "lemma": "false teeth", "pos": "noun", "en": "teeth made of plastic for people who have lost their real teeth", "hu": "műfogsor" },
+      { "forms": ["false eyeballs"], "lemma": "false eyeball", "pos": "noun", "en": "an artificial eye for a person who has lost an eye", "hu": "műszem" },
+      { "forms": ["wigs"], "lemma": "wig", "pos": "noun", "en": "a cover of false hair that you wear on your head", "hu": "paróka" },
+      { "forms": ["artificial"], "lemma": "artificial", "pos": "adjective", "en": "made by people, not natural", "hu": "mű-, mesterséges" },
+      { "forms": ["hoteliers"], "lemma": "hotelier", "pos": "noun", "en": "a person who owns or runs a hotel", "hu": "szállodatulajdonos, szállodás" },
+      { "forms": ["bathrobes"], "lemma": "bathrobe", "pos": "noun", "en": "a soft coat you wear before or after a bath", "hu": "fürdőköntös" },
+      { "forms": ["penny-pinching"], "lemma": "penny-pinching", "pos": "adjective", "en": "not wanting to spend any money", "hu": "zsugori, garasoskodó" },
+      { "forms": ["light bulbs"], "lemma": "light bulb", "pos": "noun", "en": "the glass part of an electric lamp that gives light", "hu": "villanykörte, izzó" }
+    ],
+    "2010-maj-kozep-H1": [
+      { "forms": ["trekkers"], "lemma": "trekker", "pos": "noun", "en": "a person who goes on long walks in the mountains", "hu": "túrázó, hegyi túrázó" },
+      { "forms": ["snoring"], "lemma": "snore", "pos": "verb", "en": "to breathe in a noisy way while you are sleeping", "hu": "horkol" }
+    ],
+    "2010-maj-kozep-H2": [
+      { "forms": ["cure"], "lemma": "cure", "pos": "verb", "en": "to make an ill person healthy again", "hu": "meggyógyít" },
+      { "forms": ["centigrade"], "lemma": "centigrade", "pos": "adjective", "en": "measured on the Celsius scale", "hu": "Celsius-fok" }
+    ],
+    "2010-maj-kozep-H3": [
+      { "forms": ["drug awareness"], "lemma": "drug awareness", "pos": "noun", "en": "knowing about the dangers of drugs", "hu": "drogprevenció, felvilágosítás a drogokról" },
+      { "forms": ["self-image"], "lemma": "self-image", "pos": "noun", "en": "the way you see and feel about yourself", "hu": "önkép, önértékelés" },
+      { "forms": ["drug addiction"], "lemma": "drug addiction", "pos": "noun", "en": "not being able to stop taking drugs", "hu": "kábítószer-függőség" }
     ]
   }
 }

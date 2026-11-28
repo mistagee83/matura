@@ -198,6 +198,64 @@
       { "forms": ["half-hour"], "lemma": "half-hour", "pos": "adjective", "en": "lasting thirty minutes", "hu": "félórás" },
       { "forms": ["reminders"], "lemma": "reminder", "pos": "noun", "en": "something that helps you remember to do something", "hu": "emlékeztető" },
       { "forms": ["sticky notes"], "lemma": "sticky note", "pos": "noun", "en": "a small piece of paper that sticks to things, for short notes", "hu": "öntapadós cetli" }
+    ],
+    "2025-okt-kozep-L1": [
+      { "forms": ["VOLCANO", "volcanoes"], "lemma": "volcano", "pos": "noun", "en": "a mountain that sometimes throws out fire and hot rock", "hu": "vulkán, tűzhányó" },
+      { "forms": ["spa"], "lemma": "spa", "pos": "noun", "en": "a place with warm water where people go to relax", "hu": "gyógyfürdő, wellness" },
+      { "forms": ["evacuated"], "lemma": "evacuate", "pos": "verb", "en": "to move people out of a dangerous place", "hu": "kiürít, evakuál" },
+      { "forms": ["volcanic"], "lemma": "volcanic", "pos": "adjective", "en": "connected with a mountain that throws out fire and hot rock", "hu": "vulkáni" },
+      { "forms": ["eruption"], "lemma": "eruption", "pos": "noun", "en": "when hot rock suddenly comes out of a mountain", "hu": "kitörés (vulkáné)" },
+      { "forms": ["geothermal power"], "lemma": "geothermal power", "pos": "noun", "en": "energy that comes from deep inside the earth", "hu": "geotermikus energia" },
+      { "forms": ["lava field"], "lemma": "lava field", "pos": "noun", "en": "a large area of land covered with rock from a volcano", "hu": "lávamező" },
+      { "forms": ["associated with"], "lemma": "be associated with", "pos": "phrase", "en": "to be connected with something", "hu": "kapcsolatban áll valamivel" },
+      { "forms": ["questioning"], "lemma": "question", "pos": "verb", "en": "to have doubts about something", "hu": "megkérdőjelez" },
+      { "forms": ["as a whole"], "lemma": "as a whole", "pos": "phrase", "en": "all of something together", "hu": "egészében, összességében" },
+      { "forms": ["read up"], "lemma": "read up", "pos": "phrasal verb", "en": "to read a lot about something to learn about it", "hu": "utánaolvas" },
+      { "forms": ["local authorities"], "lemma": "local authorities", "pos": "noun", "en": "the people who govern a town or area", "hu": "helyi hatóságok" },
+      { "forms": ["geologist"], "lemma": "geologist", "pos": "noun", "en": "a scientist who studies rocks and the earth", "hu": "geológus" }
+    ],
+    "2025-okt-kozep-L2": [
+      { "forms": ["Rocker"], "lemma": "rocker", "pos": "noun", "en": "a rock musician", "hu": "rocker, rockzenész" },
+      { "forms": ["made a career out of"], "lemma": "make a career out of", "pos": "phrase", "en": "to become successful by doing something as your job", "hu": "karriert épít valamire" },
+      { "forms": ["cheering"], "lemma": "cheer", "pos": "verb", "en": "to shout because you are happy or want to support someone", "hu": "ujjong, éljenez" },
+      { "forms": ["the homeless"], "lemma": "the homeless", "pos": "noun", "en": "people who have no home", "hu": "a hajléktalanok" },
+      { "forms": ["needy"], "lemma": "needy", "pos": "adjective", "en": "very poor", "hu": "rászoruló, szegény" },
+      { "forms": ["in need"], "lemma": "in need", "pos": "phrase", "en": "not having enough money or food", "hu": "szükséget szenvedő, rászoruló" },
+      { "forms": ["Diners"], "lemma": "diner", "pos": "noun", "en": "a person who is eating in a restaurant", "hu": "étkező vendég", "tip": "Nem a dinner (vacsora)." },
+      { "forms": ["donation"], "lemma": "donation", "pos": "noun", "en": "money that you give to help others", "hu": "adomány" },
+      { "forms": ["donated"], "lemma": "donate", "pos": "verb", "en": "to give something to help others, without asking for money", "hu": "adományoz" },
+      { "forms": ["labor"], "lemma": "labor", "pos": "noun", "en": "work, especially hard work with the body", "hu": "munka", "tip": "Amerikai írásmód; britül labour." },
+      { "forms": ["correspondent"], "lemma": "correspondent", "pos": "noun", "en": "a journalist who reports news for TV or a newspaper", "hu": "tudósító" },
+      { "forms": ["eye-opening"], "lemma": "eye-opening", "pos": "adjective", "en": "showing you something surprising that you did not know", "hu": "szemfelnyitó, tanulságos" },
+      { "forms": ["struggling"], "lemma": "struggle", "pos": "verb", "en": "to have great difficulty doing something", "hu": "küszködik, nehezen boldogul" }
+    ],
+    "2025-okt-kozep-L3": [
+      { "forms": ["AI-generated"], "lemma": "AI-generated", "pos": "adjective", "en": "made by a computer program, not by a person", "hu": "mesterséges intelligenciával készített" },
+      { "forms": ["contests"], "lemma": "contest", "pos": "noun", "en": "a competition", "hu": "verseny, pályázat" },
+      { "forms": ["fooling"], "lemma": "fool", "pos": "verb", "en": "to make someone believe something that is not true", "hu": "becsap, megtéveszt" },
+      { "forms": ["provoking"], "lemma": "provoke", "pos": "verb", "en": "to cause a strong feeling", "hu": "kivált, kelt (érzést)" },
+      { "forms": ["played a trick"], "lemma": "play a trick", "pos": "phrase", "en": "to do something to fool someone, often as a joke", "hu": "megtréfál, cselt alkalmaz" },
+      { "forms": ["flamingo"], "lemma": "flamingo", "pos": "noun", "en": "a tall pink bird with long legs", "hu": "flamingó" },
+      { "forms": ["anatomy"], "lemma": "anatomy", "pos": "noun", "en": "the structure of a body", "hu": "testfelépítés, anatómia" },
+      { "forms": ["Similarly"], "lemma": "similarly", "pos": "adverb", "en": "in the same way", "hu": "hasonlóképpen" },
+      { "forms": ["headless"], "lemma": "headless", "pos": "adjective", "en": "without a head", "hu": "fej nélküli" },
+      { "forms": ["scratch"], "lemma": "scratch", "pos": "verb", "en": "to rub your skin with something sharp, for example nails", "hu": "vakar" },
+      { "forms": ["beak"], "lemma": "beak", "pos": "noun", "en": "the hard pointed mouth of a bird", "hu": "csőr" },
+      { "forms": ["revealed"], "lemma": "reveal", "pos": "verb", "en": "to tell people something that was secret", "hu": "felfed, elárul" },
+      { "forms": ["interpreters"], "lemma": "interpreter", "pos": "noun", "en": "a person who shows the meaning of something in their own way", "hu": "értelmező, tolmácsoló" },
+      { "forms": ["disqualified"], "lemma": "disqualify", "pos": "verb", "en": "to stop someone from being in a competition because they broke a rule", "hu": "kizár (versenyből)" }
+    ],
+    "2025-okt-kozep-H1": [
+      { "forms": ["facial expression"], "lemma": "facial expression", "pos": "noun", "en": "the look on your face that shows what you feel", "hu": "arckifejezés" },
+      { "forms": ["drunkenness"], "lemma": "drunkenness", "pos": "noun", "en": "the state of having drunk too much alcohol", "hu": "részegség" },
+      { "forms": ["encouraged"], "lemma": "encourage", "pos": "verb", "en": "to make people want to do something", "hu": "ösztönöz, támogat" },
+      { "forms": ["culturally"], "lemma": "culturally", "pos": "adverb", "en": "in the way a society thinks and behaves", "hu": "kulturálisan, társadalmilag" }
+    ],
+    "2025-okt-kozep-H2": [
+      { "forms": ["land on their feet"], "lemma": "land on your feet", "pos": "idiom", "en": "to fall without getting hurt; to be lucky after a difficult situation", "hu": "talpra esik" },
+      { "forms": ["suffered"], "lemma": "suffer", "pos": "verb", "en": "to have something bad happen to you, such as an illness or pain", "hu": "elszenved" },
+      { "forms": ["injuries"], "lemma": "injury", "pos": "noun", "en": "damage to your body, for example in an accident", "hu": "sérülés" },
+      { "forms": ["recover"], "lemma": "recover", "pos": "verb", "en": "to become healthy again", "hu": "felépül, meggyógyul" }
     ]
   }
 }

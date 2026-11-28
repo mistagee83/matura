@@ -293,6 +293,77 @@
       { "forms": ["laughter"], "lemma": "laughter", "pos": "noun", "en": "the sound or act of laughing", "hu": "nevetés" },
       { "forms": ["independence of thought"], "lemma": "independence of thought", "pos": "noun", "en": "thinking for yourself", "hu": "gondolati függetlenség, önálló gondolkodás" },
       { "forms": ["at every turn"], "lemma": "at every turn", "pos": "phrase", "en": "all the time; in every situation", "hu": "lépten-nyomon, minden helyzetben" }
+    ],
+    "2014-okt-emelt-L1": [
+      { "forms": ["surrounding"], "lemma": "surrounding", "pos": "preposition", "en": "connected with; about", "hu": "körüli, kapcsolatos" },
+      { "forms": ["renowned"], "lemma": "renowned", "pos": "adjective", "en": "famous and admired for a special skill", "hu": "neves, híres" },
+      { "forms": ["herbalist"], "lemma": "herbalist", "pos": "noun", "en": "a person who uses plants to make medicines", "hu": "gyógynövényszakértő, füvesember" },
+      { "forms": ["shrub"], "lemma": "shrub", "pos": "noun", "en": "a small, low plant with many thin branches; a bush", "hu": "cserje, bokor" },
+      { "forms": ["brew"], "lemma": "brew", "pos": "noun", "en": "a hot drink made by putting leaves in hot water", "hu": "főzet, ital" },
+      { "forms": ["beverage"], "lemma": "beverage", "pos": "noun", "en": "a drink (a formal word)", "hu": "ital" },
+      { "forms": ["via"], "lemma": "via", "pos": "preposition", "en": "with the help of; through", "hu": "révén, közvetítésével" },
+      { "forms": ["continental"], "lemma": "continental", "pos": "adjective", "en": "connected with the main part of Europe, not Britain", "hu": "kontinentális, (szárazföldi) európai" },
+      { "forms": ["lagged"], "lemma": "lag", "pos": "verb", "en": "to move or develop more slowly than others", "hu": "lemarad, késlekedik" },
+      { "forms": ["turning point"], "lemma": "turning point", "pos": "noun", "en": "the time when an important change starts", "hu": "fordulópont" },
+      { "forms": ["at court"], "lemma": "at court", "pos": "phrase", "en": "in the place where a king or queen lives, among their family and important people", "hu": "az udvarnál, a királyi udvarban" },
+      { "forms": ["sectors"], "lemma": "sector", "pos": "noun", "en": "one part or group of something bigger, for example society", "hu": "réteg, csoport" }
+    ],
+    "2014-okt-emelt-L2": [
+      { "forms": ["stunned"], "lemma": "stun", "pos": "verb", "en": "to surprise or shock someone very much", "hu": "megdöbbent, elképeszt" },
+      { "forms": ["tarantula"], "lemma": "tarantula", "pos": "noun", "en": "a large, hairy spider", "hu": "tarantula (nagy szőrös pók)" },
+      { "forms": ["packed"], "lemma": "packed", "pos": "adjective", "en": "very full of people", "hu": "zsúfolt, telt házas" },
+      { "forms": ["assembly"], "lemma": "assembly", "pos": "noun", "en": "a meeting of all the pupils and teachers of a school", "hu": "iskolai gyűlés, összejövetel" },
+      { "forms": ["delighted"], "lemma": "delight", "pos": "verb", "en": "to feel great pleasure", "hu": "örül, élvez" },
+      { "forms": ["discomfort"], "lemma": "discomfort", "pos": "noun", "en": "a feeling of being uncomfortable or embarrassed", "hu": "kényelmetlenség, kínos érzés" },
+      { "forms": ["ordeal"], "lemma": "ordeal", "pos": "noun", "en": "a very unpleasant and difficult experience", "hu": "megpróbáltatás, kínszenvedés" },
+      { "forms": ["set a bad example"], "lemma": "set a bad example", "pos": "phrase", "en": "to behave in a way that others should not copy", "hu": "rossz példát mutat" },
+      { "forms": ["sponsorship money"], "lemma": "sponsorship money", "pos": "noun", "en": "money that people give to support an event or a cause", "hu": "szponzori pénz, támogatás" },
+      { "forms": ["complex"], "lemma": "complex", "pos": "noun", "en": "a group of buildings used for the same purpose", "hu": "(épület)komplexum, létesítmény", "tip": "Itt főnév. Melléknévként azt jelenti: bonyolult." },
+      { "forms": ["sourced"], "lemma": "source", "pos": "verb", "en": "to get something from a particular place", "hu": "beszerez" },
+      { "forms": ["delicacy"], "lemma": "delicacy", "pos": "noun", "en": "a rare or expensive food that people enjoy", "hu": "ínyencség, csemege" },
+      { "forms": ["deep fried"], "lemma": "deep fry", "pos": "verb", "en": "to cook food in a lot of hot oil", "hu": "bő olajban kisüt" },
+      { "forms": ["negates"], "lemma": "negate", "pos": "verb", "en": "to stop something from having any effect", "hu": "semlegesít, hatástalanít" },
+      { "forms": ["toxins"], "lemma": "toxin", "pos": "noun", "en": "a poisonous substance", "hu": "méreganyag, toxin" },
+      { "forms": ["it's all very well"], "lemma": "it's all very well", "pos": "idiom", "en": "used to say that something seems good but you do not really approve of it", "hu": "ez mind szép és jó, de…" }
+    ],
+    "2014-okt-emelt-L3": [
+      { "forms": ["bird-mimics"], "lemma": "bird-mimic", "pos": "noun", "en": "a bird that copies the sounds of other animals", "hu": "utánzó madár, hangutánzó madár" },
+      { "forms": ["meerkats"], "lemma": "meerkat", "pos": "noun", "en": "a small African animal that often stands up on its back legs", "hu": "szurikáta" },
+      { "forms": ["drongos"], "lemma": "drongo", "pos": "noun", "en": "a black bird with a long tail that lives in Africa, Asia and Australia", "hu": "drongó (madár)" },
+      { "forms": ["mimic"], "lemma": "mimic", "pos": "verb", "en": "to copy the sound or behaviour of someone else", "hu": "utánoz" },
+      { "forms": ["alarm calls"], "lemma": "alarm call", "pos": "noun", "en": "a sound an animal makes to warn others of danger", "hu": "vészjelzés, riasztó hang" },
+      { "forms": ["play tricks"], "lemma": "play tricks", "pos": "phrase", "en": "to do something to cheat or fool someone", "hu": "rászed, becsap" },
+      { "forms": ["cover"], "lemma": "cover", "pos": "noun", "en": "a place where you can hide and be safe", "hu": "fedezék, búvóhely" },
+      { "forms": ["swoop in"], "lemma": "swoop in", "pos": "phrasal verb", "en": "to fly down quickly to catch something", "hu": "lecsap" },
+      { "forms": ["predator"], "lemma": "predator", "pos": "noun", "en": "an animal that kills and eats other animals", "hu": "ragadozó" },
+      { "forms": ["dashed"], "lemma": "dash", "pos": "verb", "en": "to run very quickly", "hu": "rohan, iramodik" },
+      { "forms": ["gecko"], "lemma": "gecko", "pos": "noun", "en": "a small lizard that lives in warm countries", "hu": "gekkó" },
+      { "forms": ["scorpion"], "lemma": "scorpion", "pos": "noun", "en": "a small animal with a poisonous tail that lives in hot places", "hu": "skorpió" },
+      { "forms": ["turned their attention to"], "lemma": "turn your attention to", "pos": "phrase", "en": "to start thinking about or studying something else", "hu": "a figyelmüket valamire fordították" },
+      { "forms": ["deliberately"], "lemma": "deliberately", "pos": "adverb", "en": "on purpose, not by accident", "hu": "szándékosan" },
+      { "forms": ["impersonated"], "lemma": "impersonate", "pos": "verb", "en": "to copy the voice or behaviour of someone else", "hu": "utánoz, megszemélyesít" },
+      { "forms": ["trial and error"], "lemma": "trial and error", "pos": "phrase", "en": "trying different ways until you find one that works", "hu": "próbálgatás, próba-szerencse" },
+      { "forms": ["vocal mimickry"], "lemma": "vocal mimicry", "pos": "noun", "en": "copying the sounds that other animals make", "hu": "hangutánzás", "tip": "A szabályos írásmód: mimicry." }
+    ],
+    "2014-okt-emelt-H1": [
+      { "forms": ["outstanding"], "lemma": "outstanding", "pos": "adjective", "en": "much better than most others", "hu": "kiemelkedő, kiváló" },
+      { "forms": ["olympians"], "lemma": "Olympian", "pos": "noun", "en": "a sportsperson who has taken part in the Olympic Games", "hu": "olimpikon" },
+      { "forms": ["unconscious"], "lemma": "unconscious", "pos": "adjective", "en": "not awake and not able to see, hear or feel anything", "hu": "eszméletlen" },
+      { "forms": ["floor exercise routine"], "lemma": "floor exercise routine", "pos": "noun", "en": "a series of movements in gymnastics done on a mat on the floor", "hu": "talajgyakorlat" },
+      { "forms": ["rings"], "lemma": "rings", "pos": "noun", "en": "two metal circles hanging from ropes, used in gymnastics", "hu": "gyűrű (tornaszer)" },
+      { "forms": ["pommel horse"], "lemma": "pommel horse", "pos": "noun", "en": "a piece of gymnastics equipment with two handles on top", "hu": "lólengés, ló (tornaszer)" }
+    ],
+    "2014-okt-emelt-H2": [
+      { "forms": ["exterior"], "lemma": "exterior", "pos": "adjective", "en": "on the outside of a building", "hu": "külső" },
+      { "forms": ["stunt"], "lemma": "stunt", "pos": "noun", "en": "something dangerous done to entertain people or get attention", "hu": "mutatvány, kaszkadőrmutatvány" }
+    ],
+    "2014-okt-emelt-H3": [
+      { "forms": ["lawn renovation"], "lemma": "lawn renovation", "pos": "noun", "en": "repairing and improving the grass in a garden", "hu": "gyepfelújítás, pázsitrendbetétel" },
+      { "forms": ["feature"], "lemma": "feature", "pos": "verb", "en": "to include someone or something as an important part", "hu": "szerepeltet, bemutat" },
+      { "forms": ["dueling"], "lemma": "dueling", "pos": "adjective", "en": "competing against each other, like two people in a fight", "hu": "párbajozó, egymással versengő" },
+      { "forms": ["trading solos"], "lemma": "trade solos", "pos": "phrase", "en": "when musicians play short solos one after the other, taking turns", "hu": "felváltva szólózva" },
+      { "forms": ["goofy"], "lemma": "goofy", "pos": "adjective", "en": "silly in a funny way", "hu": "bolondos, hóbortos" },
+      { "forms": ["up-beat"], "lemma": "upbeat", "pos": "adjective", "en": "cheerful and positive", "hu": "vidám, optimista" }
     ]
   }
 }

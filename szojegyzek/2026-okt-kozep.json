@@ -197,6 +197,66 @@
       { "forms": ["entrance fee"], "lemma": "entrance fee", "pos": "noun", "en": "the money you pay to go in", "hu": "belépődíj" },
       { "forms": ["a handful of"], "lemma": "a handful of", "pos": "phrase", "en": "as much as you can hold in one hand", "hu": "egy maréknyi" },
       { "forms": ["mealworms"], "lemma": "mealworm", "pos": "noun", "en": "a small worm used as food for animals", "hu": "lisztkukac" }
+    ],
+    "2026-okt-kozep-L1": [
+      { "forms": ["burst into"], "lemma": "burst into", "pos": "phrasal verb", "en": "to come into a room suddenly and quickly", "hu": "beront" },
+      { "forms": ["patrons"], "lemma": "patron", "pos": "noun", "en": "a customer of a hotel, bar or restaurant", "hu": "vendég, törzsvendég" },
+      { "forms": ["witnessed"], "lemma": "witness", "pos": "verb", "en": "to see something happen", "hu": "szemtanúja volt, látott" },
+      { "forms": ["myth-making"], "lemma": "myth-making", "pos": "noun", "en": "creating stories that are not true but that people believe", "hu": "mítoszgyártás, legendaképzés" },
+      { "forms": ["depths"], "lemma": "depth", "pos": "noun", "en": "the deepest parts of a lake or sea", "hu": "mélység, mély" },
+      { "forms": ["loch"], "lemma": "loch", "pos": "noun", "en": "a lake in Scotland", "hu": "tó (Skóciában)" },
+      { "forms": ["enthusiasts"], "lemma": "enthusiast", "pos": "noun", "en": "a person who is very interested in something", "hu": "rajongó, lelkes híve" },
+      { "forms": ["hunt"], "lemma": "hunt", "pos": "noun", "en": "a search for someone or something", "hu": "kutatás, vadászat" },
+      { "forms": ["across the globe"], "lemma": "across the globe", "pos": "phrase", "en": "in all parts of the world", "hu": "az egész világról" },
+      { "forms": ["drones"], "lemma": "drone", "pos": "noun", "en": "a small flying machine with no pilot", "hu": "drón" },
+      { "forms": ["thermal images"], "lemma": "thermal image", "pos": "noun", "en": "a picture that shows how warm or cold things are", "hu": "hőkamerás kép" },
+      { "forms": ["hydrophone"], "lemma": "hydrophone", "pos": "noun", "en": "a microphone used under water", "hu": "vízalatti mikrofon" },
+      { "forms": ["detect"], "lemma": "detect", "pos": "verb", "en": "to notice or find something that is difficult to find", "hu": "észlel, érzékel" },
+      { "forms": ["acoustic"], "lemma": "acoustic", "pos": "adjective", "en": "connected with sound", "hu": "akusztikus, hang-" },
+      { "forms": ["beneath"], "lemma": "beneath", "pos": "preposition", "en": "under", "hu": "alatt" },
+      { "forms": ["look out for"], "lemma": "look out for", "pos": "phrasal verb", "en": "to watch carefully so that you notice something", "hu": "figyel, keres (szemmel)" },
+      { "forms": ["findings"], "lemma": "findings", "pos": "noun", "en": "the things you find out", "hu": "észlelések, eredmények" }
+    ],
+    "2026-okt-kozep-L2": [
+      { "forms": ["BANS", "ban"], "lemma": "ban", "pos": "verb", "en": "to say officially that something is not allowed", "hu": "kitilt, megtilt" },
+      { "forms": ["diners"], "lemma": "diner", "pos": "noun", "en": "a person who is eating in a restaurant", "hu": "étkező vendég", "tip": "Nem a dinner (vacsora)." },
+      { "forms": ["challenging"], "lemma": "challenging", "pos": "adjective", "en": "difficult", "hu": "nehéz, megterhelő" },
+      { "forms": ["accommodate"], "lemma": "accommodate", "pos": "verb", "en": "to give someone what they need, for example a place", "hu": "kiszolgál, fogad, helyet ad" },
+      { "forms": ["messes"], "lemma": "mess", "pos": "noun", "en": "a dirty or untidy situation", "hu": "rendetlenség, kosz" },
+      { "forms": ["take control of"], "lemma": "take control of", "pos": "phrase", "en": "to start to manage something", "hu": "kézbe veszi, átveszi az irányítást" },
+      { "forms": ["As of"], "lemma": "as of", "pos": "phrase", "en": "starting from a particular date", "hu": "-tól/-től kezdve" },
+      { "forms": ["dine"], "lemma": "dine", "pos": "verb", "en": "to eat a meal (formal)", "hu": "étkezik" },
+      { "forms": ["well-behaved"], "lemma": "well-behaved", "pos": "adjective", "en": "behaving in a polite and quiet way", "hu": "jól nevelt, rendesen viselkedő" },
+      { "forms": ["moving forward"], "lemma": "moving forward", "pos": "phrase", "en": "in the future", "hu": "a jövőben, ezentúl" },
+      { "forms": ["discriminating against"], "lemma": "discriminate against", "pos": "phrasal verb", "en": "to treat a group of people worse than others", "hu": "hátrányosan megkülönböztet" }
+    ],
+    "2026-okt-kozep-L3": [
+      { "forms": ["clues"], "lemma": "clue", "pos": "noun", "en": "a piece of information that helps you find an answer", "hu": "nyom, támpont" },
+      { "forms": ["customs"], "lemma": "custom", "pos": "noun", "en": "a traditional way of doing something", "hu": "szokás" },
+      { "forms": ["date back"], "lemma": "date back", "pos": "phrasal verb", "en": "to have existed since a time in the past", "hu": "visszanyúlik, származik (időben)" },
+      { "forms": ["originated"], "lemma": "originate", "pos": "verb", "en": "to begin to exist", "hu": "keletkezik, ered" },
+      { "forms": ["linked"], "lemma": "link", "pos": "verb", "en": "to say that two things are connected", "hu": "összekapcsol, kapcsolatba hoz" },
+      { "forms": ["switched"], "lemma": "switch", "pos": "verb", "en": "to change from one thing to another", "hu": "átáll, áttér" },
+      { "forms": ["willing"], "lemma": "willing", "pos": "adjective", "en": "happy and ready to do something", "hu": "hajlandó" },
+      { "forms": ["ridiculed"], "lemma": "ridicule", "pos": "verb", "en": "to laugh at someone in an unkind way", "hu": "kigúnyol, kinevet" },
+      { "forms": ["made fun of"], "lemma": "make fun of", "pos": "phrase", "en": "to laugh at someone or make jokes about them", "hu": "kicsúfol, gúnyt űz valakiből" }
+    ],
+    "2026-okt-kozep-H1": [
+      { "forms": ["domesticated"], "lemma": "domesticate", "pos": "verb", "en": "to make a wild animal live with people", "hu": "háziasít" },
+      { "forms": ["fur"], "lemma": "fur", "pos": "noun", "en": "the thick soft hair on an animal", "hu": "bunda, szőr" },
+      { "forms": ["German Shepherds"], "lemma": "German Shepherd", "pos": "noun", "en": "a large dog often used by the police", "hu": "németjuhász" },
+      { "forms": ["battlefield"], "lemma": "battlefield", "pos": "noun", "en": "a place where soldiers fight", "hu": "csatatér" }
+    ],
+    "2026-okt-kozep-H2": [
+      { "forms": ["frequency"], "lemma": "frequency", "pos": "noun", "en": "the number on the radio where you can find a station", "hu": "frekvencia" },
+      { "forms": ["got divorced"], "lemma": "get divorced", "pos": "phrase", "en": "to end a marriage officially", "hu": "elvált" }
+    ],
+    "2026-okt-kozep-H3": [
+      { "forms": ["mine"], "lemma": "mine", "pos": "noun", "en": "a deep hole in the ground where people dig out coal or metal", "hu": "bánya", "tip": "Itt főnév, nem azt jelenti: az enyém." },
+      { "forms": ["protested"], "lemma": "protest", "pos": "verb", "en": "to say strongly that you do not agree with something", "hu": "tiltakozik" },
+      { "forms": ["child labor"], "lemma": "child labor", "pos": "noun", "en": "the work of children in factories or mines", "hu": "gyermekmunka" },
+      { "forms": ["Committee"], "lemma": "committee", "pos": "noun", "en": "a group of people chosen to do a special job", "hu": "bizottság" },
+      { "forms": ["night shift"], "lemma": "night shift", "pos": "noun", "en": "the time of work during the night", "hu": "éjszakai műszak" }
     ]
   }
 }

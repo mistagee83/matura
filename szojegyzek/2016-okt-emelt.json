@@ -277,6 +277,82 @@
       { "forms": ["anyway"], "lemma": "anyway", "pos": "adverb", "en": "used when you change the subject or finish a story", "hu": "egyébként, mindenesetre" },
       { "forms": ["avoid"], "lemma": "avoid", "pos": "verb", "en": "to stay away from something", "hu": "elkerül" },
       { "forms": ["state"], "lemma": "state", "pos": "noun", "en": "one of the parts of the USA", "hu": "állam (tagállam)" }
+    ],
+    "2016-okt-emelt-L1": [
+      { "forms": ["banks"], "lemma": "bank", "pos": "noun", "en": "the land along the side of a river", "hu": "(folyó)part" },
+      { "forms": ["pseudonym"], "lemma": "pseudonym", "pos": "noun", "en": "a name that a writer uses instead of their real name", "hu": "álnév, írói név" },
+      { "forms": ["barely"], "lemma": "barely", "pos": "adverb", "en": "only just; almost not", "hu": "alig, épphogy" },
+      { "forms": ["boast"], "lemma": "boast", "pos": "verb", "en": "to talk too proudly about what you have done", "hu": "dicsekszik, henceg" },
+      { "forms": ["exploits"], "lemma": "exploit", "pos": "noun", "en": "a brave, exciting or unusual act", "hu": "hőstett, kaland" },
+      { "forms": ["regardless"], "lemma": "regardless", "pos": "adverb", "en": "without paying attention to something", "hu": "tekintet nélkül, dacára" },
+      { "forms": ["closed season"], "lemma": "closed season", "pos": "noun", "en": "the part of the year when the law does not allow hunting or catching certain animals", "hu": "tilalmi időszak" },
+      { "forms": ["iced down"], "lemma": "ice down", "pos": "phrasal verb", "en": "to keep something cold by putting ice around it", "hu": "jégbe tesz, jéggel hűt" },
+      { "forms": ["relate"], "lemma": "relate", "pos": "verb", "en": "to tell a story", "hu": "elmesél, elbeszél" },
+      { "forms": ["brag"], "lemma": "brag", "pos": "verb", "en": "to talk proudly about yourself in an annoying way", "hu": "henceg, nagyzol" },
+      { "forms": ["unresponsive"], "lemma": "unresponsive", "pos": "adjective", "en": "not reacting or answering", "hu": "közönyös, nem reagáló" },
+      { "forms": ["inquired"], "lemma": "inquire", "pos": "verb", "en": "to ask (a formal word)", "hu": "érdeklődik, kérdez" },
+      { "forms": ["warden"], "lemma": "warden", "pos": "noun", "en": "an official whose job is to make sure people obey the rules in an area", "hu": "felügyelő, őr" },
+      { "forms": ["hastily"], "lemma": "hastily", "pos": "adverb", "en": "quickly, because you are in a hurry or nervous", "hu": "sietve, kapkodva" }
+    ],
+    "2016-okt-emelt-L2": [
+      { "forms": ["alpinist"], "lemma": "alpinist", "pos": "noun", "en": "a person who climbs high mountains", "hu": "alpinista, hegymászó" },
+      { "forms": ["ice caps"], "lemma": "ice cap", "pos": "noun", "en": "a thick layer of ice that covers an area of land all year", "hu": "jégsapka, gleccser" },
+      { "forms": ["wreckage"], "lemma": "wreckage", "pos": "noun", "en": "the broken parts of a crashed vehicle or plane", "hu": "roncs, roncsdarabok" },
+      { "forms": ["emeralds"], "lemma": "emerald", "pos": "noun", "en": "a valuable green stone", "hu": "smaragd" },
+      { "forms": ["sapphires"], "lemma": "sapphire", "pos": "noun", "en": "a valuable blue stone", "hu": "zafír" },
+      { "forms": ["rubies"], "lemma": "ruby", "pos": "noun", "en": "a valuable red stone", "hu": "rubin" },
+      { "forms": ["stumbled across"], "lemma": "stumble across", "pos": "phrasal verb", "en": "to find something by chance", "hu": "véletlenül rábukkan" },
+      { "forms": ["counterparts"], "lemma": "counterpart", "pos": "noun", "en": "a person who has the same job in another country or organisation", "hu": "kollégák, partnerszerv (a másik országban)" },
+      { "forms": ["trace"], "lemma": "trace", "pos": "verb", "en": "to find someone after searching", "hu": "felkutat, kinyomoz" },
+      { "forms": ["claims"], "lemma": "claim", "pos": "verb", "en": "to say officially that something belongs to you", "hu": "jelentkezik érte, igényt tart rá" },
+      { "forms": ["debris"], "lemma": "debris", "pos": "noun", "en": "broken pieces left after something has been destroyed", "hu": "törmelék, roncsdarabok" },
+      { "forms": ["encountered"], "lemma": "encounter", "pos": "verb", "en": "to meet or find something unexpectedly", "hu": "rábukkan, találkozik valamivel" },
+      { "forms": ["all manner of"], "lemma": "all manner of", "pos": "phrase", "en": "many different kinds of", "hu": "mindenféle" },
+      { "forms": ["artefacts"], "lemma": "artefact", "pos": "noun", "en": "an object made by people, especially an old one", "hu": "tárgy, lelet" },
+      { "forms": ["human remains"], "lemma": "human remains", "pos": "noun", "en": "parts of a dead person's body", "hu": "emberi maradványok" },
+      { "forms": ["external affairs"], "lemma": "external affairs", "pos": "noun", "en": "a country's relations with other countries", "hu": "külügyek" },
+      { "forms": ["trigger"], "lemma": "trigger", "pos": "verb", "en": "to make something start happening", "hu": "kivált, elindít" },
+      { "forms": ["gold rush"], "lemma": "gold rush", "pos": "noun", "en": "a time when many people go to one place to find gold or treasure", "hu": "aranyláz" }
+    ],
+    "2016-okt-emelt-L3": [
+      { "forms": ["brewing"], "lemma": "brew", "pos": "verb", "en": "to make tea by leaving leaves in hot water", "hu": "főz, áztat (teát)" },
+      { "forms": ["removable"], "lemma": "removable", "pos": "adjective", "en": "that can be taken away or out", "hu": "kivehető, eltávolítható" },
+      { "forms": ["infusing devices"], "lemma": "infusing device", "pos": "noun", "en": "a small tool that holds tea leaves while they are in hot water", "hu": "teatojás, teafiltertartó" },
+      { "forms": ["labour-saving"], "lemma": "labour-saving", "pos": "adjective", "en": "making work easier and quicker", "hu": "munkakímélő" },
+      { "forms": ["merchant"], "lemma": "merchant", "pos": "noun", "en": "a person who buys and sells goods", "hu": "kereskedő" },
+      { "forms": ["silken"], "lemma": "silken", "pos": "adjective", "en": "made of silk, a soft fine cloth", "hu": "selyem-" },
+      { "forms": ["assumed"], "lemma": "assume", "pos": "verb", "en": "to think that something is true without being sure", "hu": "feltételez" },
+      { "forms": ["infusers"], "lemma": "infuser", "pos": "noun", "en": "a small container with holes for tea leaves, put into hot water", "hu": "teatojás, teaszűrő" },
+      { "forms": ["contents"], "lemma": "contents", "pos": "noun", "en": "the things that are inside something", "hu": "tartalom (ami benne van)" },
+      { "forms": ["enthusiasm"], "lemma": "enthusiasm", "pos": "noun", "en": "a strong feeling of liking something", "hu": "lelkesedés" },
+      { "forms": ["cautious"], "lemma": "cautious", "pos": "adjective", "en": "careful to avoid problems or danger", "hu": "óvatos" },
+      { "forms": ["radical"], "lemma": "radical", "pos": "adjective", "en": "very great and important", "hu": "gyökeres, radikális" },
+      { "forms": ["adoption"], "lemma": "adoption", "pos": "noun", "en": "starting to use something new", "hu": "elterjedés, átvétel" },
+      { "forms": ["gadgets"], "lemma": "gadget", "pos": "noun", "en": "a small useful machine or tool", "hu": "kütyü, (háztartási) eszköz" },
+      { "forms": ["eliminating"], "lemma": "eliminate", "pos": "verb", "en": "to remove something completely", "hu": "megszüntet, kiküszöböl" },
+      { "forms": ["tedious"], "lemma": "tedious", "pos": "adjective", "en": "boring and taking a long time", "hu": "unalmas, fárasztó" },
+      { "forms": ["chores"], "lemma": "chore", "pos": "noun", "en": "a boring job that you have to do, often in the house", "hu": "házimunka, ház körüli teendő" },
+      { "forms": ["made up"], "lemma": "make up", "pos": "phrasal verb", "en": "to form a part of a whole amount", "hu": "kitesz, alkot (arányt)" }
+    ],
+    "2016-okt-emelt-H1": [
+      { "forms": ["attic"], "lemma": "attic", "pos": "noun", "en": "the room or space under the roof of a house", "hu": "padlás" },
+      { "forms": ["ashamed"], "lemma": "ashamed", "pos": "adjective", "en": "feeling bad because you have done something wrong", "hu": "szégyenkező" },
+      { "forms": ["valuables"], "lemma": "valuables", "pos": "noun", "en": "things that are worth a lot of money, such as jewellery", "hu": "értéktárgyak" }
+    ],
+    "2016-okt-emelt-H2": [
+      { "forms": ["entitled"], "lemma": "entitled", "pos": "adjective", "en": "having the title", "hu": "című" },
+      { "forms": ["criminal justice system"], "lemma": "criminal justice system", "pos": "noun", "en": "the police, courts and prisons that deal with crime", "hu": "büntető igazságszolgáltatás" },
+      { "forms": ["mess"], "lemma": "mess", "pos": "noun", "en": "a situation full of problems", "hu": "zűrzavar, káosz" }
+    ],
+    "2016-okt-emelt-H3": [
+      { "forms": ["raffle"], "lemma": "raffle", "pos": "noun", "en": "a game in which people buy numbered tickets and some win prizes", "hu": "tombola" },
+      { "forms": ["contestants"], "lemma": "contestant", "pos": "noun", "en": "a person who takes part in a competition or a TV game", "hu": "versenyző, játékos" },
+      { "forms": ["spinning"], "lemma": "spin", "pos": "verb", "en": "to turn round and round quickly", "hu": "pörög, forog" },
+      { "forms": ["variable"], "lemma": "variable", "pos": "noun", "en": "here: a number in the game that can change and must be guessed", "hu": "változó" },
+      { "forms": ["referred to"], "lemma": "refer to", "pos": "phrasal verb", "en": "to be about something", "hu": "vonatkozik valamire" },
+      { "forms": ["crossroads"], "lemma": "crossroads", "pos": "noun", "en": "a place where two roads cross", "hu": "útkereszteződés" },
+      { "forms": ["traffic offences"], "lemma": "traffic offence", "pos": "noun", "en": "breaking a driving rule", "hu": "közlekedési szabálysértés" },
+      { "forms": ["sued"], "lemma": "sue", "pos": "verb", "en": "to go to court to ask for money from someone", "hu": "beperel" }
     ]
   }
 }

@@ -252,6 +252,53 @@
       { "forms": ["end-of-year exams"], "lemma": "end-of-year exam", "pos": "noun", "en": "exams at the end of the school year", "hu": "év végi vizsgák" },
       { "forms": ["enemy"], "lemma": "enemy", "pos": "noun", "en": "the people you are fighting against", "hu": "ellenség" },
       { "forms": ["lips"], "lemma": "lip", "pos": "noun", "en": "one of the two soft edges of your mouth", "hu": "ajak, száj" }
+    ],
+    "2006-febr-kozep-L2": [
+      { "forms": ["burglar"], "lemma": "burglar", "pos": "noun", "en": "a person who goes into a building to steal things", "hu": "betörő" },
+      { "forms": ["enterprising"], "lemma": "enterprising", "pos": "adjective", "en": "good at finding new ways to make money", "hu": "vállalkozó szellemű, leleményes" },
+      { "forms": ["renting out", "rented it out"], "lemma": "rent out", "pos": "phrasal verb", "en": "to let someone use your flat or house if they pay you", "hu": "kiad (bérbe)" },
+      { "forms": ["released"], "lemma": "release", "pos": "verb", "en": "to make information known to the public", "hu": "nyilvánosságra hoz" },
+      { "forms": ["broken into", "breaking into"], "lemma": "break into", "pos": "phrasal verb", "en": "to go into a building by force, to steal something", "hu": "betör (lakásba)" },
+      { "forms": ["real estate"], "lemma": "real estate", "pos": "noun", "en": "houses and flats that people buy, sell or rent", "hu": "ingatlan" },
+      { "forms": ["bargain"], "lemma": "bargain", "pos": "adjective", "en": "much cheaper than usual", "hu": "nagyon kedvező, olcsó" },
+      { "forms": ["deposit"], "lemma": "deposit", "pos": "noun", "en": "money that you pay before you start renting a flat", "hu": "kaució, foglaló" },
+      { "forms": ["transferred"], "lemma": "transfer", "pos": "verb", "en": "to move money from one bank account to another", "hu": "átutal" },
+      { "forms": ["swindler’s"], "lemma": "swindler", "pos": "noun", "en": "a person who gets money from people by lying to them", "hu": "csaló, szélhámos" },
+      { "forms": ["suspect’s"], "lemma": "suspect", "pos": "noun", "en": "a person who the police think may have done a crime", "hu": "gyanúsított" },
+      { "forms": ["fraud charges"], "lemma": "fraud charge", "pos": "noun", "en": "an official statement that someone has cheated people to get money", "hu": "csalás vádja, csalással vádolják" }
+    ],
+    "2006-febr-kozep-L3": [
+      { "forms": ["suntan"], "lemma": "suntan", "pos": "noun", "en": "brown skin that you get after being in the sun", "hu": "lesülés, barnaság" },
+      { "forms": ["myths"], "lemma": "myth", "pos": "noun", "en": "an idea that many people believe but that is not true", "hu": "tévhit" },
+      { "forms": ["UV rays"], "lemma": "UV rays", "pos": "noun", "en": "the invisible light from the sun that can burn your skin", "hu": "UV-sugárzás, ultraibolya sugarak" },
+      { "forms": ["you’d be forgiven for thinking"], "lemma": "you'd be forgiven for thinking", "pos": "phrase", "en": "it would be easy and normal to believe something, although it is not true", "hu": "nem csoda, ha azt hinnéd" },
+      { "forms": ["stroll"], "lemma": "stroll", "pos": "noun", "en": "a slow, relaxed walk", "hu": "séta, sétálgatás" },
+      { "forms": ["boosts"], "lemma": "boost", "pos": "verb", "en": "to make something stronger or better", "hu": "erősít, fokoz" },
+      { "forms": ["immune system"], "lemma": "immune system", "pos": "noun", "en": "the system in your body that fights illness", "hu": "immunrendszer" },
+      { "forms": ["infections"], "lemma": "infection", "pos": "noun", "en": "an illness caused by bacteria or a virus", "hu": "fertőzés" },
+      { "forms": ["puts you in a good mood"], "lemma": "put somebody in a good mood", "pos": "phrase", "en": "to make someone feel happy", "hu": "jókedvre derít" },
+      { "forms": ["appropriate"], "lemma": "appropriate", "pos": "adjective", "en": "right for a particular situation", "hu": "megfelelő" },
+      { "forms": ["sunscreen"], "lemma": "sunscreen", "pos": "noun", "en": "a cream that protects your skin from the sun", "hu": "naptej, fényvédő krém" },
+      { "forms": ["get rid of"], "lemma": "get rid of", "pos": "phrase", "en": "to make something bad go away", "hu": "megszabadul valamitől" },
+      { "forms": ["apply"], "lemma": "apply", "pos": "verb", "en": "to put cream or another substance on your skin", "hu": "felvisz, felken", "tip": "Itt nem jelentkezést jelent." },
+      { "forms": ["reapplied"], "lemma": "reapply", "pos": "verb", "en": "to put cream on your skin again", "hu": "újra felken" },
+      { "forms": ["rub it in"], "lemma": "rub in", "pos": "phrasal verb", "en": "to press cream into the skin with your hand", "hu": "bedörzsöl, beledörzsöl" },
+      { "forms": ["soles"], "lemma": "sole", "pos": "noun", "en": "the bottom part of your foot", "hu": "talp" }
+    ],
+    "2006-febr-kozep-H1": [
+      { "forms": ["grade"], "lemma": "grade", "pos": "noun", "en": "a school year in the American school system", "hu": "évfolyam, osztály" },
+      { "forms": ["graduation play"], "lemma": "graduation play", "pos": "noun", "en": "a play that students perform at the end of their school", "hu": "ballagási (évzáró) színdarab" },
+      { "forms": ["participated in"], "lemma": "participate in", "pos": "phrasal verb", "en": "to take part in something", "hu": "részt vesz valamiben" },
+      { "forms": ["anniversary"], "lemma": "anniversary", "pos": "noun", "en": "the day that is exactly a number of years after an important event", "hu": "évforduló" },
+      { "forms": ["leading role"], "lemma": "leading role", "pos": "noun", "en": "the most important part in a play or film", "hu": "főszerep" }
+    ],
+    "2006-febr-kozep-H2": [
+      { "forms": ["Komodo dragons"], "lemma": "Komodo dragon", "pos": "noun", "en": "a very large lizard that lives on some islands in Indonesia", "hu": "komodói varánusz" },
+      { "forms": ["park ranger"], "lemma": "park ranger", "pos": "noun", "en": "a person whose job is to look after a national park", "hu": "parkőr, vadőr" },
+      { "forms": ["so as not to"], "lemma": "so as not to", "pos": "phrase", "en": "in order not to; so that something does not happen", "hu": "nehogy, azért, hogy ne" }
+    ],
+    "2006-febr-kozep-H3": [
+      { "forms": ["Spaniard"], "lemma": "Spaniard", "pos": "noun", "en": "a person from Spain", "hu": "spanyol (ember)" }
     ]
   }
 }
