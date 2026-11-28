@@ -372,6 +372,17 @@ A gyenge szókincsű diák segítsége: a feladat szövegében egy szóra koppin
 - **Tanári kiosztásban (2026-11-28, 11./24.):** a tanár kiosztáskor bekapcsolhatja („Szótár az olvasásfeladatoknál”, alapból ki, mert a vizsgán nincs szótár; utólag nem módosítható). Bekapcsolva a diák ugyanazt kapja, mint az önálló gyakorlásban; a megoldást elárulható címszavak a kiosztás megoldás-beállítását követik: „azonnal” esetén a beküldés válaszával, „lezárás után” esetén a lezárás után, a kulccsal együtt. A kiosztás adatai között a tanár látja, be volt-e kapcsolva.
 - **Tisztázandó:** a 11. fejezet „Tisztázandó” 3. pontja (a rávezető segítség).
 
+### 4.6 Rávezető segítség kérdésenként (próba, 2026-11-28)
+
+A megrendelő ötlete: a diák egy kérdésnél segítséget kérhet, amely rávezet, de nem mondja meg a megoldást; beküldés után pedig megtudja, miért az a helyes válasz. A próba a két kézi mintasoron elkészült (2024. május közép és emelt, 165 kérdés, a prototípusban); a megrendelő jóváhagyta (2026-11-28), a második lépcső erősségével együtt: a szabály mehet közel a megoldáshoz (pl. a rendhagyó alak képzési mintája egy másik szón), csak magát a megoldást nem mondhatja ki. A többi lap és az éles app ezután jöhet.
+
+- **Lépcsők:** (1) **irány**: mire figyeljen, hol keresse („Ide ige kell. Nézd meg, mikor történt.” – olvasásnál: melyik bekezdés, melyik kulcsszó); (2) **szabály**: a nyelvtani szabály egy *másik* példamondattal, olvasásnál pontosabb rámutatás a szöveg és az állítás kapcsolatára; (3) **magyarázat**, csak beküldés után: miért ez a helyes válasz, és ha kell, miért nem a gyakori rossz válasz.
+- **Vizsgarészek:** nyelvhelyesség és olvasás: mindhárom lépcső. Hallás: csak a beküldés utáni magyarázat (a hang alatt a rávezetés nem gyakorlat; a magyarázat az útmutató szövegátiratára épül).
+- **Nyelv:** magyar, tegező; a vizsgaszöveg idézetei és a példamondatok angolul, `*…*` jelöléssel (a felület dőlt, angol nyelvű szövegként mutatja).
+- **A megoldás védelme:** az első két lépcső nem tartalmazhatja a megoldást (beírós feladatnál az elfogadott választ, választós feladatnál a helyes lehetőség betűjelét vagy szövegét); ezt gépi ellenőrző nézi. Élesben a szerver adja ki lépcsőnként, a magyarázatot csak a javítás után.
+- **Hol érhető el:** az önálló gyakorlásban mindig; a tanári kiosztásban tanári kapcsolóval (alapból ki), mint a szótár (4.5).
+- **Formátum:** `segitseg/<feladatsor>.json`, a `tartalom/` mappától külön: `formatVersion`, `exam`, `status`, `tasks: { <feladatazonosító>: { "<kérdés sorszáma>": { "hint": [1. lépcső, 2. lépcső], "explain": magyarázat } } }`; hallásnál csak `explain`. Ellenőrző: `node eszkozok/segitseg-ellenorzo.js`; a készítés szabályai: `eszkozok/segitseg-utmutato.md`.
+
 ---
 
 ## 5. Adatmodell
@@ -666,6 +677,7 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 22. **Ingyenes önálló gyakorló mód (2026-11-26):** a megrendelő kérésére a fizetős önálló termék előtt egy ingyenes, fiók nélküli mód készül a kereslet felmérésére (4.4). Indok: nem kell hozzá vállalkozás, ÁSZF, fizetés és adatkezelési tájékoztató, mert nincs mit eladni, és a szerver nem tárol a diákra utaló adatot. A meglévő feladatokra és javítóra épül. A tanórás próbától (3. szakasz) független.
 23. **Szójegyzék a szövegekhez (2026-11-28):** előre elkészített, szövegre szabott szójegyzék, nem szótár-API; angol magyarázat elöl, a magyar koppintásra; sok címszó a gyenge szókincsű diákok miatt; csak az olvasásértéshez; a válaszlehetőségekre nem terjed ki (4.5). A megrendelő a próba alapján jóváhagyta.
 24. **Szótár a tanári kiosztásban (2026-11-28):** a megrendelő kérésére a tanár kiosztásonként bekapcsolhatja; alapból ki (4.5).
+25. **Rávezető segítség (2026-11-28):** magyarul; az önálló gyakorlásban mindig, a kiosztásban tanári kapcsolóval; próba a két kézi mintasoron (4.6).
 
 ### Digitalizálás közben hozott döntések (2026-11-24; a megrendelő mind az ötöt megerősítette, 2026-11-26)
 
@@ -693,4 +705,4 @@ A tartalom digitalizálása és a hang feldolgozása az 1. szakasztól párhuzam
 
 1. **Jogi háttér:** lezárva (2026-11-25), lásd a lezárt döntések 19. pontját.
 2. **Hangvágás:** kész (2026-11-25): mind a 91 lap vágása meghallgatva és a tartalomba beírva (3.7).
-3. **Gyakorló segítségek (2026-11-28):** a szójegyzék (4.5) a tanári kiosztásban is elérhető legyen-e. (Eldöntve, 2026-11-28: csak az olvasásértéshez készül; a kiosztásban tanári kapcsolóval, 11./24.) Ugyanide tartozik a megrendelő másik ötlete, a kérdésenkénti rávezető segítség (irány → szabály → beküldés utáni magyarázat, a szerver egyenként adja ki, megoldás nélkül): nyelve (javaslat: magyar), hatóköre és a két mintasoros próba még nincs eldöntve.
+3. **Gyakorló segítségek (2026-11-28):** lezárva: a szójegyzék a kiosztásban tanári kapcsolóval (11./24.); a rávezető segítség nyelve, hatóköre és próbája eldöntve (11./25., 4.6).
